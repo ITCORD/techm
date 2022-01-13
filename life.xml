@@ -4,9 +4,25 @@
         <title>테크M ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Jan 2022 01:08:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Jan 2022 02:42:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스타벅스, 13일부터 개인컵 이용 시 400원 할인]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=93109</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=93109</guid>
+            <pubDate>Thu, 13 Jan 2022 11:08:00 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202201/93109_103739_533_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[CJ ENM 엔터부문, 직급폐지·주식보상 도입…일하는 방식 대전환]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=93111</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=93111</guid>
+            <pubDate>Thu, 13 Jan 2022 11:07:00 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202201/93111_103742_1149_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[LG전자, 가정용 환기시스템 출시…"인공지능이 알아서 집안 공기 관리"]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=93101</link>
@@ -150,22 +166,6 @@
             <pubDate>Wed, 12 Jan 2022 20:21:50 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202201/92965_103458_1640_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['K-가전의 자존심' LG전자 CES 2022 어워드 휩쓸었다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=92964</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=92964</guid>
-            <pubDate>Wed, 12 Jan 2022 20:21:50 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202201/92964_103456_74_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[써봤다] 아이들 첫 키보드로 딱...디자인-성능 다 잡은 앱코 블루투스 키보드]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=92936</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=92936</guid>
-            <pubDate>Sun, 09 Jan 2022 10:30:00 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202201/92936_103393_3435_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

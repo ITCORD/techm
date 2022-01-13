@@ -4,9 +4,25 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Jan 2022 01:08:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Jan 2022 02:42:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[티맥스, 신입·경력 공개채용 진행…"핵심은 SaaS 연구분야"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=93112</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=93112</guid>
+            <pubDate>Thu, 13 Jan 2022 10:23:00 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202201/93112_103743_1530_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이스트시큐리티, "북한 배후 소행 사이버 공격 증가 추세"…사용자 주의 당부]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=93107</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=93107</guid>
+            <pubDate>Thu, 13 Jan 2022 10:09:00 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202201/93107_103738_441_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[SK쉴더스 물리보안 브랜드 ADT캡스, '2022 대한민국 퍼스트브랜드 대상' 수상]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=93106</link>
@@ -150,22 +166,6 @@
             <pubDate>Tue, 11 Jan 2022 10:14:00 GMT</pubDate>
             <content:encoded><![CDATA[김가은 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202201/93022_103548_5937_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LGU+, 빅데이터 기반 고객 니즈 파악하는 'A/B테스트 플랫폼' 개발 완료]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=93017</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=93017</guid>
-            <pubDate>Tue, 11 Jan 2022 09:58:00 GMT</pubDate>
-            <content:encoded><![CDATA[김경영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202201/93017_103543_4717_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[KT 대학생 마케팅 서포터즈 'Y퓨처리스트', 신입 모집]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=93015</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=93015</guid>
-            <pubDate>Tue, 11 Jan 2022 09:58:00 GMT</pubDate>
-            <content:encoded><![CDATA[김경영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202201/93015_103542_4141_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
