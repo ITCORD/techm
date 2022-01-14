@@ -4,9 +4,25 @@
         <title>테크M ─ 콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Jan 2022 23:21:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jan 2022 01:08:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[카카오게임즈, '오딘: 발할라 라이징' 대만 시장 공략 초읽기]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=93151</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=93151</guid>
+            <pubDate>Fri, 14 Jan 2022 10:02:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202201/93151_103821_596_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[크래프톤, 배틀그라운드 저작권 침해로 가레나·구글·애플 고소]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=93145</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=93145</guid>
+            <pubDate>Fri, 14 Jan 2022 09:45:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202201/93145_103814_377_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[넥슨, PC 온라인 액션 배틀게임 '커츠펠' 사전등록 시작]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=93140</link>
@@ -150,22 +166,6 @@
             <pubDate>Wed, 12 Jan 2022 20:20:39 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202201/93074_103664_756_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[LCK 개막] 2년만에 롤파크 개방, 다양한 서브 프로그램...온오프라인 모두 잡는다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=93072</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=93072</guid>
-            <pubDate>Wed, 12 Jan 2022 20:20:39 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202201/93072_103660_561_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[LCK 개막] 젠지-T1 2강 체제...두터운 중위권, 열어봐야 안다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=93071</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=93071</guid>
-            <pubDate>Wed, 12 Jan 2022 20:20:39 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202201/93071_103654_2746_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
