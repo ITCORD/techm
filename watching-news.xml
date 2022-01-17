@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Jan 2022 05:22:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Jan 2022 06:26:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 수아부터 로지, 래아, 한유아까지...2022년 '디지털 휴먼' 원년]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=93207</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=93207</guid>
+            <pubDate>Mon, 17 Jan 2022 06:26:04 GMT</pubDate>
+            <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202201/93207_103944_1414_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 새학기 앞둔 부모님들, 우리 아이 첫 휴대폰 '키즈폰' 어때요?]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=93169</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 12 Jan 2022 20:22:18 GMT</pubDate>
             <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202112/92387_102230_5041_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 테크M 연말결산 ①위기를 기회로 만든 'IT강국 코리아']]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=92345</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=92345</guid>
-            <pubDate>Wed, 12 Jan 2022 20:22:18 GMT</pubDate>
-            <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202112/92345_102155_1953_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
