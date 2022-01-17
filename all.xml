@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Jan 2022 03:23:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Jan 2022 04:27:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[KT-신한은행 '블록체인-메타버스' 혈맹...23개 영역서 공동 사업 (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=93201</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=93201</guid>
+            <pubDate>Mon, 17 Jan 2022 00:45:00 GMT</pubDate>
+            <content:encoded><![CDATA[김경영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202201/93201_103939_3149_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['코인 거래소' 내부 총질은 끝...이제 '여의도 증권가' 공략 나섰다 (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=93199</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=93199</guid>
+            <pubDate>Mon, 17 Jan 2022 00:25:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202201/93199_103937_2136_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[LG전자, 인덕션 전기레인지 신제품 출시…"쿼드 인버터 기술로 빠른 조리" (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=93198</link>
@@ -150,22 +166,6 @@
             <pubDate>Sun, 16 Jan 2022 15:19:12 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202201/93180_103921_911_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LG전자 '스탠바이미' 홍콩 진출…글로벌 MZ세대 공략 나섰다 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=93179</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=93179</guid>
-            <pubDate>Sun, 16 Jan 2022 05:18:30 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202201/93179_103903_5533_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성전자, '비스포크 큐커' 인기에 식품 구독 플랫폼 '큐커 식품관' 오픈 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=93178</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=93178</guid>
-            <pubDate>Sun, 16 Jan 2022 05:18:30 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202201/93178_103900_5115_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[네이버·하이브 콘텐츠 시너지 '폭발'...BTS 웹툰 美 순위 '싹쓸이' (테크M ─ 콘텐츠)]]></title>
@@ -328,6 +328,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202201/93115_103751_1845_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[KT-신한은행 '블록체인-메타버스' 혈맹...23개 영역서 공동 사업 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=93201</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=93201</guid>
+            <pubDate>Mon, 17 Jan 2022 00:45:00 GMT</pubDate>
+            <content:encoded><![CDATA[김경영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202201/93201_103939_3149_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[더존비즈온, 직장인용 근무시간·급여관리 앱 '나하고' 출시 (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=93196</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=93196</guid>
@@ -478,14 +486,6 @@
             <pubDate>Thu, 13 Jan 2022 06:23:24 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202201/93121_103764_4216_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SK스토아, 설 앞두고 협력사 납품 대금 약 200억원 조기 지급 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=93119</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=93119</guid>
-            <pubDate>Thu, 13 Jan 2022 05:19:22 GMT</pubDate>
-            <content:encoded><![CDATA[김경영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202201/93119_103754_3938_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[컴투스·위지윅스튜디오, 교원그룹과 MOU...컴투버스에 교육 콘텐츠 채운다 (테크M ─ 이노베이션)]]></title>
@@ -648,6 +648,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202201/92939_103385_3731_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['코인 거래소' 내부 총질은 끝...이제 '여의도 증권가' 공략 나섰다 (테크M ─ 인베스트먼트)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=93199</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=93199</guid>
+            <pubDate>Mon, 17 Jan 2022 00:25:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202201/93199_103937_2136_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[테크M 리포트] 부진한 카카오게임즈? 임박한 '보라' P2E...게임한류 새판짜기 돌입 (테크M ─ 인베스트먼트)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=93194</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=93194</guid>
@@ -800,14 +808,6 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202201/93038_103573_4727_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[테크M 기대주] 여의도 증권가 '케이카' 목표주가 5만원으로 높인 이유 (테크M ─ 인베스트먼트)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=93037</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=93037</guid>
-            <pubDate>Tue, 11 Jan 2022 00:12:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202201/93037_103572_112_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[LG U+, 美 AT&T 출신 데이터 전문가 황규별 전무 영입 (테크M ─ 피플)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=93182</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=93182</guid>
@@ -898,7 +898,7 @@
             <title><![CDATA[[부고] 한효정(헥토 커뮤니케이션실 홍보1팀장)씨 모친상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Mon, 17 Jan 2022 03:22:41 GMT</pubDate>
+            <pubDate>Mon, 17 Jan 2022 04:26:58 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
         </item>
         <item>
