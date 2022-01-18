@@ -4,9 +4,17 @@
         <title>테크M ─ 콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Jan 2022 02:41:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jan 2022 03:22:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인앱결제 방지법 덕분에...수수료 5% 이하 외부결제 서비스 나온다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=93239</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=93239</guid>
+            <pubDate>Tue, 18 Jan 2022 00:07:00 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202201/93239_104008_551_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[유지태X김윤진, 넷플릭스 '종이의 집' 한국판 제목은 '공동경제구역']]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=93231</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 13 Jan 2022 09:20:20 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202201/93139_103805_2657_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[위메이드, 위믹스 플랫폼에 위메이드커넥트 게임 3종 합류]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=93137</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=93137</guid>
-            <pubDate>Thu, 13 Jan 2022 09:20:20 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202201/93137_103800_1725_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
