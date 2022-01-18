@@ -4,9 +4,25 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Jan 2022 06:22:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jan 2022 07:21:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[신도리코, 애니메디솔루션과 3D 프린터 협업으로 스마트 헬스케어 솔루션 제공]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=93252</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=93252</guid>
+            <pubDate>Tue, 18 Jan 2022 07:18:51 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202201/93252_104036_3051_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[英 전 상무장관 "화웨이 5G 장비 배제는 美 압박 때문"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=93251</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=93251</guid>
+            <pubDate>Tue, 18 Jan 2022 07:18:51 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202201/93251_104035_2341_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[프렌즈게임즈, 신임 공동대표로 우상준 대표 선임...블록체인 사업 강화한다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=93250</link>
@@ -150,22 +166,6 @@
             <pubDate>Tue, 18 Jan 2022 11:00:00 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202201/93233_103996_4138_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[의료 데이터 힘주는 카카오...'헬스케어' 준비작업 착착]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=93227</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=93227</guid>
-            <pubDate>Tue, 18 Jan 2022 10:52:00 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202201/93227_103997_4323_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[테크M 리포트] "게 섯거라 키움증권" 바닥 찍은 카카오페이...이젠 '기대감' 높일 때]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=93234</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=93234</guid>
-            <pubDate>Tue, 18 Jan 2022 10:49:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202201/93234_104001_4943_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
