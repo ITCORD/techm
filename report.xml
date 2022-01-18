@@ -4,9 +4,17 @@
         <title>테크M ─ 리포트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Jan 2022 01:07:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jan 2022 02:41:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[예능형 '라방'으로 취향-재미 다 잡는다...11번가의 '광폭 행보']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=93225</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=93225</guid>
+            <pubDate>Tue, 18 Jan 2022 10:42:00 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202201/93225_103991_1430_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[글로벌] 전세계 130만명 예약했는데...테슬라, 사이버트럭 '또' 연기]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=93175</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 01 Jan 2022 10:55:00 GMT</pubDate>
             <content:encoded><![CDATA[김현기 대표]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202112/92697_102887_375_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[글로벌] 일론 머스크 "우주에 수백억개 위성 가능"...연일 곤욕 치르는 스페이스X]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=92695</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=92695</guid>
-            <pubDate>Sat, 01 Jan 2022 10:20:00 GMT</pubDate>
-            <content:encoded><![CDATA[김현기 대표]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202112/92695_102885_3446_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
