@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Jan 2022 08:24:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jan 2022 09:20:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[위메이드가 알려주는 P2E 게임 기획..."게임성은 기본, 토큰 경제 설계가 핵심"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=93312</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=93312</guid>
+            <pubDate>Wed, 19 Jan 2022 09:18:15 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202201/93312_104158_3944_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[국정원, 국내 IoT 장비 100여대 악성코드 감염 확인…"DDoS 공격 위한 '좀비PC'로 사용"]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=93309</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 19 Jan 2022 00:17:00 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202201/93290_104112_77_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[티맥스에이아이, 충남대 AI 기반 입시 챗봇 '유망이' 개발]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=93285</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=93285</guid>
-            <pubDate>Wed, 19 Jan 2022 00:10:00 GMT</pubDate>
-            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202201/93285_104098_1250_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

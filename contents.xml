@@ -4,9 +4,17 @@
         <title>테크M ─ 콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Jan 2022 08:24:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jan 2022 09:20:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[위메이드가 알려주는 P2E 게임 기획..."게임성은 기본, 토큰 경제 설계가 핵심"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=93312</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=93312</guid>
+            <pubDate>Wed, 19 Jan 2022 09:18:29 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202201/93312_104158_3944_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["글로벌 1등이 목표"...CJ ENM, '엔데버 콘텐트' 인수 마무리]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=93307</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 18 Jan 2022 06:20:23 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202201/93232_103995_4032_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인앱결제 방지법 덕분에...수수료 5% 이하 외부결제 서비스 나온다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=93239</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=93239</guid>
-            <pubDate>Tue, 18 Jan 2022 00:07:00 GMT</pubDate>
-            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202201/93239_104008_551_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
