@@ -4,9 +4,17 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Jan 2022 06:23:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jan 2022 07:16:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한컴인텔리전스, 디지털 트윈 전문기업 '스탠스' 인수]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=93304</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=93304</guid>
+            <pubDate>Wed, 19 Jan 2022 07:14:36 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202201/93304_104137_1930_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[더존비즈온, '위하고 티 엣지' 무상 제공으로 중·소상공인 경영관리 지원]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=93300</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 18 Jan 2022 06:20:42 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202201/93249_104032_4754_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[카카오 클레이튼, 게임파이-메타버스 위한 블록체인 된다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=93247</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=93247</guid>
-            <pubDate>Tue, 18 Jan 2022 06:20:42 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202201/93247_104029_1810_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
