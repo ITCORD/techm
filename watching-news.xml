@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jan 2022 04:24:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jan 2022 05:18:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 'K콘텐츠 맛집' 넷플릭스, 올해 가장 기대되는 작품을 골라봤다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=93342</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=93342</guid>
+            <pubDate>Thu, 20 Jan 2022 05:18:34 GMT</pubDate>
+            <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202201/93342_104204_5247_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] '80조 빅딜' 마이크로소프트, 블리자드 품고 '메타버스' 시대 정조준]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=93298</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 12 Jan 2022 20:22:18 GMT</pubDate>
             <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202112/92537_102530_219_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 테크M 연말결산 ④전세계 홀린 오징어게임, 비상하는 K콘텐츠]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=92475</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=92475</guid>
-            <pubDate>Wed, 12 Jan 2022 20:22:18 GMT</pubDate>
-            <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202112/92475_102397_3746_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
