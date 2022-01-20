@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jan 2022 06:22:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jan 2022 07:18:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[테크M 이슈] 잘 나가던 판교 직장인들이 눈물 짓는 이유]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=93351</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=93351</guid>
+            <pubDate>Thu, 20 Jan 2022 07:16:33 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202201/93351_104225_3349_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[글로벌] 중국 내 반도체 생산량 33% 급증...2024년 시장 점유율 17% 전망]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=93349</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 20 Jan 2022 10:44:00 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202201/93324_104173_724_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[매출 130억원 '세계 1등 알람앱' 개발사, 한양대 교수 영입한 이유는?]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=93328</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=93328</guid>
-            <pubDate>Thu, 20 Jan 2022 10:44:00 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202201/93328_104179_3631_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

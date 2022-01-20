@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jan 2022 06:22:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jan 2022 07:18:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[테크M 이슈] 잘 나가던 판교 직장인들이 눈물 짓는 이유 (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=93351</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=93351</guid>
+            <pubDate>Thu, 20 Jan 2022 07:16:33 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202201/93351_104225_3349_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[글로벌] 중국 내 반도체 생산량 33% 급증...2024년 시장 점유율 17% 전망 (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=93349</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 20 Jan 2022 10:44:00 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202201/93324_104173_724_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[매출 130억원 '세계 1등 알람앱' 개발사, 한양대 교수 영입한 이유는? (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=93328</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=93328</guid>
-            <pubDate>Thu, 20 Jan 2022 10:44:00 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202201/93328_104179_3631_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[테크M 트렌드] '어덕행덕'도 비대면으로...'덕질' 플랫폼 뜬다 (테크M ─ 콘텐츠)]]></title>
@@ -331,7 +331,7 @@
             <title><![CDATA[포스코ICT, 신세계I&C 손잡고 RPA 솔루션 '에이웍스' 확산 나선다 (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=93344</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=93344</guid>
-            <pubDate>Thu, 20 Jan 2022 06:21:30 GMT</pubDate>
+            <pubDate>Thu, 20 Jan 2022 06:21:00 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202201/93344_104214_3012_v150.jpg" length="0" type="image/jpg"/>
         </item>
@@ -648,10 +648,18 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202201/93075_103665_4925_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[테크M 이슈] 잘 나가던 판교 직장인들이 눈물 짓는 이유 (테크M ─ 인베스트먼트)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=93351</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=93351</guid>
+            <pubDate>Thu, 20 Jan 2022 07:17:29 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202201/93351_104225_3349_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['For kakao' 대신 'B2C2C'...승부수 띄운 카카오, 남궁훈 파워로 주가 'UP' (테크M ─ 인베스트먼트)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=93343</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=93343</guid>
-            <pubDate>Thu, 20 Jan 2022 06:21:59 GMT</pubDate>
+            <pubDate>Thu, 20 Jan 2022 06:21:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202201/93343_104213_1823_v150.jpg" length="0" type="image/jpg"/>
         </item>
@@ -800,18 +808,10 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202201/93183_103922_1048_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[크립토 주간 브리핑] 미국발 악재에 요동치던 비트코인...결국 제자리 걸음 (테크M ─ 인베스트먼트)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=93172</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=93172</guid>
-            <pubDate>Sat, 15 Jan 2022 10:38:00 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202201/93172_103881_2711_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA['두마리 토끼' 사회적 책임과 성장...카카오 새선장 '남궁훈'에 쏠리는 눈 (테크M ─ 피플)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=93345</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=93345</guid>
-            <pubDate>Thu, 20 Jan 2022 06:22:13 GMT</pubDate>
+            <pubDate>Thu, 20 Jan 2022 06:21:00 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202201/93345_104215_3137_v150.jpg" length="0" type="image/jpg"/>
         </item>
@@ -1130,7 +1130,7 @@
             <title><![CDATA[[글로벌] 중국 내 반도체 생산량 33% 급증...2024년 시장 점유율 17% 전망 (테크M ─ 리포트)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=93349</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=93349</guid>
-            <pubDate>Thu, 20 Jan 2022 06:22:42 GMT</pubDate>
+            <pubDate>Thu, 20 Jan 2022 06:21:00 GMT</pubDate>
             <content:encoded><![CDATA[김현기 대표]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202201/93349_104220_560_v150.jpg" length="0" type="image/jpg"/>
         </item>
@@ -1138,7 +1138,7 @@
             <title><![CDATA[[글로벌] '친중' 행보 보이던 테슬라...중국산 배터리 원료 의존도 낮춘다 (테크M ─ 리포트)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=93348</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=93348</guid>
-            <pubDate>Thu, 20 Jan 2022 06:22:42 GMT</pubDate>
+            <pubDate>Thu, 20 Jan 2022 06:21:00 GMT</pubDate>
             <content:encoded><![CDATA[김현기 대표]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202201/93348_104218_557_v150.jpg" length="0" type="image/jpg"/>
         </item>
@@ -1146,7 +1146,7 @@
             <title><![CDATA[[글로벌] 하늘 수놓은 스페이스X 위성 2000개..."우주 관측에 문제될 수 있다" (테크M ─ 리포트)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=93346</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=93346</guid>
-            <pubDate>Thu, 20 Jan 2022 06:22:42 GMT</pubDate>
+            <pubDate>Thu, 20 Jan 2022 06:21:00 GMT</pubDate>
             <content:encoded><![CDATA[김현기 대표]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202201/93346_104217_548_v150.jpg" length="0" type="image/jpg"/>
         </item>
