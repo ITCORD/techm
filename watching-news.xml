@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Jan 2022 05:18:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Jan 2022 06:23:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 위기의 카카오, 구원투수 '남궁훈' 투입...메타버스로 새판짜기 '시동']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=93380</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=93380</guid>
+            <pubDate>Fri, 21 Jan 2022 06:23:39 GMT</pubDate>
+            <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202201/93380_104285_171_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 'K콘텐츠 맛집' 넷플릭스, 올해 가장 기대되는 작품을 골라봤다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=93342</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 12 Jan 2022 20:22:18 GMT</pubDate>
             <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202112/92574_102612_5134_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 테크M 연말결산 ⑤게임업계 화두로 부상한 'P2E'...내년엔 관련 법 나올까]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=92537</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=92537</guid>
-            <pubDate>Wed, 12 Jan 2022 20:22:18 GMT</pubDate>
-            <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202112/92537_102530_219_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
