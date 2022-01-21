@@ -4,9 +4,17 @@
         <title>테크M ─ 콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Jan 2022 08:23:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Jan 2022 09:20:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[배그 모바일 e스포츠 대회, 그랜드파이널 열린다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=93392</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=93392</guid>
+            <pubDate>Fri, 21 Jan 2022 09:18:06 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202201/93392_104307_585_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[교양 프로그램에 포착된 '원신'의 알프스 이벤트...대형 '워프 포인트' 눈길]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=93379</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 19 Jan 2022 11:51:00 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202201/93280_104156_148_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[위메이드 '위믹스' 플랫폼에 '라그나로크 아버지' 김학규도 합류]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=93286</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=93286</guid>
-            <pubDate>Wed, 19 Jan 2022 11:19:00 GMT</pubDate>
-            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202201/93286_104102_1914_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
