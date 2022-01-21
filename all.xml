@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jan 2022 23:19:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Jan 2022 01:00:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[KT-틸론, DaaS 플랫폼 공동개발…공공시장 '정조준' (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=93365</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=93365</guid>
+            <pubDate>Fri, 21 Jan 2022 09:39:00 GMT</pubDate>
+            <content:encoded><![CDATA[김경영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202201/93365_104256_290_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2월 '갤럭시 S22'가 온다…노태문 "역대 시리즈 중 가장 주목받는 제품 될 것" (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=93364</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=93364</guid>
+            <pubDate>Fri, 21 Jan 2022 09:32:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202201/93364_104257_3023_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[배틀그라운드:뉴스테이트, e스포츠 대회 시동..총상금 3억원 아마추어 대회 개최 (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=93356</link>
@@ -150,22 +166,6 @@
             <pubDate>Thu, 20 Jan 2022 05:16:41 GMT</pubDate>
             <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202201/93342_104204_5247_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[설 전 배송받을 마지막 기회...11번가, LG전자 인기 가전 '내일 설치' (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=93337</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=93337</guid>
-            <pubDate>Thu, 20 Jan 2022 05:16:41 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202201/93337_104200_1046_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['글로벌 카카오' 새 수장 남궁훈...장사도, 개발도 잘하는 'NK'는 엄친아? (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=93341</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=93341</guid>
-            <pubDate>Thu, 20 Jan 2022 04:22:21 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202201/93341_104203_252_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[배틀그라운드:뉴스테이트, e스포츠 대회 시동..총상금 3억원 아마추어 대회 개최 (테크M ─ 콘텐츠)]]></title>
@@ -328,6 +328,22 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202201/93256_104048_3653_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[KT-틸론, DaaS 플랫폼 공동개발…공공시장 '정조준' (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=93365</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=93365</guid>
+            <pubDate>Fri, 21 Jan 2022 09:39:00 GMT</pubDate>
+            <content:encoded><![CDATA[김경영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202201/93365_104256_290_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2월 '갤럭시 S22'가 온다…노태문 "역대 시리즈 중 가장 주목받는 제품 될 것" (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=93364</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=93364</guid>
+            <pubDate>Fri, 21 Jan 2022 09:32:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202201/93364_104257_3023_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['먹튀논란' 수습 나선 카카오페이...류영준 대표-임원진, 같이 물러난다 (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=93362</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=93362</guid>
@@ -470,22 +486,6 @@
             <pubDate>Wed, 19 Jan 2022 08:21:57 GMT</pubDate>
             <content:encoded><![CDATA[김가은 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202201/93309_104148_4419_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[신세계 품에 안긴 이베이코리아, 사명 '지마켓글로벌'로 변경 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=93310</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=93310</guid>
-            <pubDate>Wed, 19 Jan 2022 08:21:57 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202201/93310_104150_4917_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한컴인텔리전스, 디지털 트윈 전문기업 '스탠스' 인수 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=93304</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=93304</guid>
-            <pubDate>Wed, 19 Jan 2022 07:14:03 GMT</pubDate>
-            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202201/93304_104137_1930_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["카카오 게섯거라" 단일앱으로 재출항하는 '우티'...원팀 시너지로 시장 점유율 높일까 (테크M ─ 이노베이션)]]></title>
