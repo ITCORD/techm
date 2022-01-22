@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 22 Jan 2022 22:19:26 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Jan 2022 23:18:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[써봤다] 앱등이조차 고개 숙이게 만든 무게…애플 '에어팟 맥스']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=93395</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=93395</guid>
+            <pubDate>Sun, 23 Jan 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202201/93395_104313_325_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[크립토 주간 브리핑] 추락하는 비트코인, 1주일새 700만원 하락...이더·리플도 두자리수 급락]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=93394</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 21 Jan 2022 10:33:00 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202201/93373_104268_2329_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[크립토 브리핑] 주요 가상자산 엿새째 하락세...비트코인 5000만원선 붕괴]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=93371</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=93371</guid>
-            <pubDate>Fri, 21 Jan 2022 10:21:00 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202201/93371_104266_938_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
