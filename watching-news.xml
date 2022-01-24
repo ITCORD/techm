@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Jan 2022 06:26:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Jan 2022 07:21:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 애플 애어팟 맥스...너무 무겁다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=93430</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=93430</guid>
+            <pubDate>Mon, 24 Jan 2022 07:21:30 GMT</pubDate>
+            <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202201/93430_104384_2848_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 위기의 카카오, 구원투수 '남궁훈' 투입...메타버스로 새판짜기 '시동']]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=93380</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 12 Jan 2022 20:22:18 GMT</pubDate>
             <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202112/92621_102699_1857_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 테크M 연말결산 ⑥블록체인 업계는 NFT로 들썩..."진짜 가치를 찾아라"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=92574</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=92574</guid>
-            <pubDate>Wed, 12 Jan 2022 20:22:18 GMT</pubDate>
-            <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202112/92574_102612_5134_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
