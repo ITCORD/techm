@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Jan 2022 03:22:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Jan 2022 04:25:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["올해 설날도 '당근마켓'서 준비하세요"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=93421</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=93421</guid>
+            <pubDate>Mon, 24 Jan 2022 00:21:00 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202201/93421_104367_1048_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[글로벌 1등 꿈꾸는 네이버 크림...싱가포르 '키스타' 품었다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=93422</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 24 Jan 2022 06:30:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202201/93399_104345_488_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[e스포츠人] '세체원' 등극 자신감 보인 T1 '구마유시' 이민형]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=93401</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=93401</guid>
-            <pubDate>Mon, 24 Jan 2022 02:23:00 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202201/93401_104346_4824_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
