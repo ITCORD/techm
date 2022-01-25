@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Jan 2022 21:18:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jan 2022 22:19:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[써봤다] '하이브리드'인가, '어중간'인가…마이크로소프트 '서피스 프로8']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=93489</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=93489</guid>
+            <pubDate>Wed, 26 Jan 2022 07:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202201/93489_104505_4239_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[삼성전자 임금협상 결렬…노조 쟁의 돌입 검토]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=93487</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 25 Jan 2022 06:21:08 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202201/93468_104462_316_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[카카오 게임코인 '보라' 2.0 리브랜딩 공식화...2월 공개행사 연다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=93469</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=93469</guid>
-            <pubDate>Tue, 25 Jan 2022 06:21:08 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202201/93469_104463_1021_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

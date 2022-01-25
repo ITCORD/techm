@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Jan 2022 21:18:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jan 2022 22:19:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[써봤다] '하이브리드'인가, '어중간'인가…마이크로소프트 '서피스 프로8' (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=93489</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=93489</guid>
+            <pubDate>Wed, 26 Jan 2022 07:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202201/93489_104505_4239_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[삼성전자 임금협상 결렬…노조 쟁의 돌입 검토 (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=93487</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 25 Jan 2022 06:21:08 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202201/93468_104462_316_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[카카오 게임코인 '보라' 2.0 리브랜딩 공식화...2월 공개행사 연다 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=93469</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=93469</guid>
-            <pubDate>Tue, 25 Jan 2022 06:21:08 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202201/93469_104463_1021_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[테크M 이슈] P2E 최강 노리는 카카오...'보라' 앞세워 '엑시인피니티'에 도전장 (테크M ─ 콘텐츠)]]></title>
@@ -968,6 +968,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202201/93135_103798_151_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[써봤다] '하이브리드'인가, '어중간'인가…마이크로소프트 '서피스 프로8' (테크M ─ 라이프)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=93489</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=93489</guid>
+            <pubDate>Wed, 26 Jan 2022 07:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202201/93489_104505_4239_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[인플루언서와 협업 강화하는 티몬...'레미니씬'과 곤약젤리 론칭 (테크M ─ 라이프)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=93461</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=93461</guid>
@@ -1118,14 +1126,6 @@
             <pubDate>Tue, 18 Jan 2022 11:00:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202201/93235_104004_5943_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[라인 넥스트, 글로벌 NFT 생태계 확장을 위해 경력직 100명 채용 나선다 (테크M ─ 라이프)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=93223</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=93223</guid>
-            <pubDate>Tue, 18 Jan 2022 09:44:00 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202201/93223_103986_4013_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[글로벌] 인텔, 미국 오하이주에 새 공장 세운다...반도체 시장 지각변동? (테크M ─ 리포트)]]></title>
