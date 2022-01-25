@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Jan 2022 22:19:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jan 2022 23:20:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[카카오게임즈, 프로스트 자이언트 스튜디오에 240억원 전략적 투자]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=93490</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=93490</guid>
+            <pubDate>Wed, 26 Jan 2022 08:10:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202201/93490_104512_714_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[써봤다] '하이브리드'인가, '어중간'인가…마이크로소프트 '서피스 프로8']]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=93489</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 25 Jan 2022 07:17:12 GMT</pubDate>
             <content:encoded><![CDATA[김경영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202201/93470_104464_1518_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["최신기술도 빠르게" 국가대표 AI 기업 거듭난 네이버...비결은 '젊은 리더십']]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=93468</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=93468</guid>
-            <pubDate>Tue, 25 Jan 2022 06:21:08 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202201/93468_104462_316_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
