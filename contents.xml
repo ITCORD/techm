@@ -4,9 +4,25 @@
         <title>테크M ─ 콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jan 2022 01:07:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jan 2022 02:37:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['카톡' 이어 '다음'도 개편...모바일 첫 화면에 '카카오뷰' 도입]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=93504</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=93504</guid>
+            <pubDate>Wed, 26 Jan 2022 10:38:00 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202201/93504_104526_2058_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[위메이드, 고려대학교에 10억원 상당 가상자산 위믹스(WEMIX) 기부]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=93503</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=93503</guid>
+            <pubDate>Wed, 26 Jan 2022 10:21:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202201/93503_104524_1526_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[테크M 이슈] P2E 최강 노리는 카카오...'보라' 앞세워 '엑시인피니티'에 도전장]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=93480</link>
@@ -150,22 +166,6 @@
             <pubDate>Fri, 21 Jan 2022 10:33:00 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202201/93373_104268_2329_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[배틀그라운드:뉴스테이트, e스포츠 대회 시동..총상금 3억원 아마추어 대회 개최]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=93356</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=93356</guid>
-            <pubDate>Thu, 20 Jan 2022 08:21:33 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202201/93356_104234_3315_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[IT진맥] MS는 블리자드를 품었고 카카오는 게임전문가를 대표로 내세웠다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=93361</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=93361</guid>
-            <pubDate>Thu, 20 Jan 2022 08:21:33 GMT</pubDate>
-            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202201/93361_104244_1031_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
