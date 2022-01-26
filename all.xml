@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jan 2022 04:24:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jan 2022 05:18:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[애니팡 with 위믹스...위메이드 CEO 장현국이 직접 챙긴다 (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=93521</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=93521</guid>
+            <pubDate>Wed, 26 Jan 2022 05:16:10 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202201/93521_104544_489_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[외산기업에 밀리는 토종 OTT...학계 "자율규제·진흥책으로 키워주자" 한목소리 (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=93518</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=93518</guid>
+            <pubDate>Wed, 26 Jan 2022 05:16:10 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202201/93518_104541_5947_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방준혁의 NTP D-1, 시장 기대감 UP...연기금도 넷마블에 '러브콜' (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=93517</link>
@@ -149,22 +165,6 @@
             <pubDate>Wed, 26 Jan 2022 10:05:00 GMT</pubDate>
             <content:encoded><![CDATA[김가은 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202201/93500_104521_023_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이스트시큐리티 "동시 통역사 겨냥한 북한 연계 해킹 시도 확인" (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=93498</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=93498</guid>
-            <pubDate>Wed, 26 Jan 2022 10:04:00 GMT</pubDate>
-            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202201/93498_104520_5115_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[KT-마로솔, 서비스로봇 활성화 '맞손' (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=93496</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=93496</guid>
-            <pubDate>Wed, 26 Jan 2022 09:41:00 GMT</pubDate>
-            <content:encoded><![CDATA[김경영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202201/93496_104517_3714_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[LCK 브리핑] 1위 수성 최대 고비, 담원과 농심 상대하는 T1...3주차 예고 (테크M ─ 콘텐츠)]]></title>
@@ -327,6 +327,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202201/93374_104269_3839_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[외산기업에 밀리는 토종 OTT...학계 "자율규제·진흥책으로 키워주자" 한목소리 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=93518</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=93518</guid>
+            <pubDate>Wed, 26 Jan 2022 05:16:39 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202201/93518_104541_5947_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[삼성 '갤럭시 S22' 2월10일 공개…더 밝아진 '눈'을 주목하라 (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=93516</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=93516</guid>
@@ -477,14 +485,6 @@
             <pubDate>Tue, 25 Jan 2022 08:21:20 GMT</pubDate>
             <content:encoded><![CDATA[김경영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202201/93479_104481_5732_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[메타버스 시대 '통신강국 코리아'가 선도...'차세대 네트워크' 위해 민관 힘 모은다 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=93475</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=93475</guid>
-            <pubDate>Tue, 25 Jan 2022 08:21:20 GMT</pubDate>
-            <content:encoded><![CDATA[김경영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202201/93475_104489_266_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[우아한형제들, 경남 지역 IT 혁신 인재 키우기 나선다...IT 개발자 경진대회 등 진행 (테크M ─ 이노베이션)]]></title>
@@ -807,6 +807,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202201/93326_104176_1512_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[애니팡 with 위믹스...위메이드 CEO 장현국이 직접 챙긴다 (테크M ─ 피플)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=93521</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=93521</guid>
+            <pubDate>Wed, 26 Jan 2022 05:17:20 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202201/93521_104544_489_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[부고] 김홍태(스마일게이트홀딩스 팀장)씨 부친상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
@@ -956,14 +964,6 @@
             <pubDate>Sun, 16 Jan 2022 16:28:53 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202201/93181_103911_1813_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['K-벤처 갓파더' 장병규의 본엔젤스, 제2의 배민 찾는다 (테크M ─ 피플)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=93156</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=93156</guid>
-            <pubDate>Fri, 14 Jan 2022 10:51:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202201/93156_103828_4837_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[위메프, 콘텐츠 채널 '인생식당' 오픈...MD가 검증한 숨은 맛집 (테크M ─ 라이프)]]></title>

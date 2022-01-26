@@ -4,9 +4,17 @@
         <title>테크M ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jan 2022 04:24:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jan 2022 05:18:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[애니팡 with 위믹스...위메이드 CEO 장현국이 직접 챙긴다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=93521</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=93521</guid>
+            <pubDate>Wed, 26 Jan 2022 05:17:20 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202201/93521_104544_489_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[부고] 김홍태(스마일게이트홀딩스 팀장)씨 부친상]]></title>
             <link>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN5&amp;view_type=sm</link>
@@ -157,14 +165,6 @@
             <pubDate>Sun, 16 Jan 2022 16:30:05 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202201/93181_103911_1813_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['K-벤처 갓파더' 장병규의 본엔젤스, 제2의 배민 찾는다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=93156</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=93156</guid>
-            <pubDate>Fri, 14 Jan 2022 10:51:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202201/93156_103828_4837_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
