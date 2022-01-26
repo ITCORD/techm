@@ -4,9 +4,25 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jan 2022 02:37:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jan 2022 03:19:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성 '갤럭시 S22' 2월10일 공개…더 밝아진 '눈'을 주목하라]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=93516</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=93516</guid>
+            <pubDate>Wed, 26 Jan 2022 11:51:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202201/93516_104537_4534_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[강남·판교 오피스 포화에...성수·을지로·구로 등 '포스트 판교' 부상]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=93513</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=93513</guid>
+            <pubDate>Wed, 26 Jan 2022 11:35:00 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202201/93513_104534_1116_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['국가대표 AI' 네이버 클로바, 세계 머신러닝 학회서 논문 12건 채택]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=93509</link>
@@ -150,22 +166,6 @@
             <pubDate>Tue, 25 Jan 2022 08:21:48 GMT</pubDate>
             <content:encoded><![CDATA[김경영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202201/93475_104489_266_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마이크로소프트, 신형 '서피스' 4종으로 하이브리드 업무·교육 시장 공략]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=93471</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=93471</guid>
-            <pubDate>Tue, 25 Jan 2022 07:17:42 GMT</pubDate>
-            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202201/93471_104491_270_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[금융권 수준 자금세탁방지(AML) 체계 구축...빗썸, AML 자격증 소유 직원 27명]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=93454</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=93454</guid>
-            <pubDate>Tue, 25 Jan 2022 07:17:42 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202201/93454_104432_3447_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
