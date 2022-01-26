@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jan 2022 05:18:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jan 2022 06:23:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] '하이브리드'와 '어중간' 그 사이...MS '서피스 프로8']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=93522</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=93522</guid>
+            <pubDate>Wed, 26 Jan 2022 06:23:38 GMT</pubDate>
+            <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202201/93522_104545_446_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 애널리스트가 본 2022년 가상자산...NFT 옥석가리기 '원년']]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=93465</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 31 Dec 2021 10:33:00 GMT</pubDate>
             <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202112/92686_102849_1649_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 2021년 총정리, 테크M 기자들이 뽑은 올해의 인물은?]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=92665</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=92665</guid>
-            <pubDate>Wed, 12 Jan 2022 20:22:18 GMT</pubDate>
-            <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202112/92665_102790_554_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
