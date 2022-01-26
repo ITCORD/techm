@@ -4,9 +4,25 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jan 2022 08:23:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jan 2022 09:21:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이글루시큐리티, 최신 침해사고 재현 AI 데이터셋 1억2000만건 구축]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=93533</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=93533</guid>
+            <pubDate>Wed, 26 Jan 2022 09:19:20 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202201/93533_104582_3538_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[시큐아이, NHN·카카오엔터프라이즈 클라우드 마켓서 '블루맥스 NGF VE' 판매]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=93531</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=93531</guid>
+            <pubDate>Wed, 26 Jan 2022 09:19:20 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202201/93531_104574_2323_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['전자부품 양대산맥' 삼성전기-LG이노텍 나란히 사상 최대 실적]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=93530</link>
@@ -29,7 +45,7 @@
             <guid>https://www.techm.kr/news/articleView.html?idxno=93525</guid>
             <pubDate>Wed, 26 Jan 2022 08:21:26 GMT</pubDate>
             <content:encoded><![CDATA[김가은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202201/93525_104562_2151_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202201/93525_104581_3023_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[LG이노텍, 지난해 연간 최대 실적 달성…1조원 신규 투자 '눈길']]></title>
@@ -45,7 +61,7 @@
             <guid>https://www.techm.kr/news/articleView.html?idxno=93524</guid>
             <pubDate>Wed, 26 Jan 2022 07:17:34 GMT</pubDate>
             <content:encoded><![CDATA[김경영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202201/93524_104560_129_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202201/93524_104576_2715_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[LG U+ '양자내성암호' 서비스, 공공·민간분야에 검증 완료]]></title>
@@ -77,7 +93,7 @@
             <guid>https://www.techm.kr/news/articleView.html?idxno=93516</guid>
             <pubDate>Wed, 26 Jan 2022 11:51:00 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202201/93516_104537_4534_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202201/93516_104579_2825_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[강남·판교 오피스 포화에...성수·을지로·구로 등 '포스트 판교' 부상]]></title>
@@ -150,22 +166,6 @@
             <pubDate>Wed, 26 Jan 2022 10:04:00 GMT</pubDate>
             <content:encoded><![CDATA[김가은 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202201/93498_104520_5115_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[KT-마로솔, 서비스로봇 활성화 '맞손']]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=93496</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=93496</guid>
-            <pubDate>Wed, 26 Jan 2022 09:41:00 GMT</pubDate>
-            <content:encoded><![CDATA[김경영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202201/93496_104517_3714_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SKT, 글로벌 ESG 평가기관 CDP로부터  최고 등급 '리더십 A' 획득]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=93495</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=93495</guid>
-            <pubDate>Wed, 26 Jan 2022 09:40:00 GMT</pubDate>
-            <content:encoded><![CDATA[김경영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202201/93495_104516_3227_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
