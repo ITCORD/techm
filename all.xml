@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jan 2022 22:18:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jan 2022 23:19:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[연 매출 6조 시대 연 네이버, 커머스·핀테크·콘텐츠 날았다(상보) (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=93536</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=93536</guid>
+            <pubDate>Thu, 27 Jan 2022 08:07:00 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202201/93536_104587_412_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[네이버, 지난해 영업익 1조3255억원…전년比 9.1% 증가(1보) (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=93535</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=93535</guid>
+            <pubDate>Thu, 27 Jan 2022 07:53:00 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202201/93535_104586_5232_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[스타트업 인재 채용 산실로 우뚝...소프트뱅크벤처스 '유코브'에 눈길 (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=93534</link>
@@ -150,22 +166,6 @@
             <pubDate>Wed, 26 Jan 2022 05:16:10 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202201/93518_104541_5947_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방준혁의 NTP D-1, 시장 기대감 UP...연기금도 넷마블에 '러브콜' (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=93517</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=93517</guid>
-            <pubDate>Wed, 26 Jan 2022 00:42:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202201/93517_104540_4234_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[LCK 브리핑] 1위 수성 최대 고비, 담원과 농심 상대하는 T1...3주차 예고 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=93488</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=93488</guid>
-            <pubDate>Wed, 26 Jan 2022 00:04:00 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202201/93488_104578_282_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['미다스의 손' 박용현 사단 신작 '히트2' 최초 공개...'넥슨게임즈' 첫 작품 된다 (테크M ─ 콘텐츠)]]></title>
@@ -328,6 +328,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202201/93377_104270_2448_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[연 매출 6조 시대 연 네이버, 커머스·핀테크·콘텐츠 날았다(상보) (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=93536</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=93536</guid>
+            <pubDate>Thu, 27 Jan 2022 08:07:00 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202201/93536_104587_412_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[이글루시큐리티, 최신 침해사고 재현 AI 데이터셋 1억2000만건 구축 (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=93533</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=93533</guid>
@@ -478,14 +486,6 @@
             <pubDate>Wed, 26 Jan 2022 10:05:00 GMT</pubDate>
             <content:encoded><![CDATA[김가은 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202201/93500_104521_023_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이스트시큐리티 "동시 통역사 겨냥한 북한 연계 해킹 시도 확인" (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=93498</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=93498</guid>
-            <pubDate>Wed, 26 Jan 2022 10:04:00 GMT</pubDate>
-            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202201/93498_104520_5115_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[스타트업 인재 채용 산실로 우뚝...소프트뱅크벤처스 '유코브'에 눈길 (테크M ─ 이노베이션)]]></title>
@@ -648,6 +648,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202201/93238_104007_2930_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[네이버, 지난해 영업익 1조3255억원…전년比 9.1% 증가(1보) (테크M ─ 인베스트먼트)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=93535</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=93535</guid>
+            <pubDate>Thu, 27 Jan 2022 07:53:00 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202201/93535_104586_5232_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[방준혁의 NTP D-1, 시장 기대감 UP...연기금도 넷마블에 '러브콜' (테크M ─ 인베스트먼트)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=93517</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=93517</guid>
@@ -798,14 +806,6 @@
             <pubDate>Thu, 20 Jan 2022 06:21:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202201/93343_104213_1823_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[넵튠, 유닉온·시프트릭·아울로그 지분투자...여성향 게임 IP 확보 나선다 (테크M ─ 인베스트먼트)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=93326</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=93326</guid>
-            <pubDate>Thu, 20 Jan 2022 10:24:00 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202201/93326_104176_1512_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한게임 전성기 이끈 그들, '프렌즈게임즈'에 모였다...그들이 만드는 '보라' 생태계는? (테크M ─ 피플)]]></title>

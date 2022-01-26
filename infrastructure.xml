@@ -4,9 +4,17 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jan 2022 22:18:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jan 2022 23:19:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[연 매출 6조 시대 연 네이버, 커머스·핀테크·콘텐츠 날았다(상보)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=93536</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=93536</guid>
+            <pubDate>Thu, 27 Jan 2022 08:07:00 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202201/93536_104587_412_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이글루시큐리티, 최신 침해사고 재현 AI 데이터셋 1억2000만건 구축]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=93533</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 26 Jan 2022 10:05:00 GMT</pubDate>
             <content:encoded><![CDATA[김가은 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202201/93500_104521_023_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이스트시큐리티 "동시 통역사 겨냥한 북한 연계 해킹 시도 확인"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=93498</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=93498</guid>
-            <pubDate>Wed, 26 Jan 2022 10:04:00 GMT</pubDate>
-            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202201/93498_104520_5115_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
