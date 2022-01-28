@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Jan 2022 06:23:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jan 2022 07:18:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[게임코인TV] 판교의 희망 '보라'를 보라]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=93650</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=93650</guid>
+            <pubDate>Fri, 28 Jan 2022 07:18:51 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202201/93650_104761_3238_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 다시 뛰는 넷마블, 신작 20종 발표...블록체인-메타버스도 '군침']]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=93646</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 12 Jan 2022 20:22:18 GMT</pubDate>
             <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202201/92746_102995_555_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 2021년 총정리, 테크M이 뽑은 올해의 키워드 '메타버스']]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=92692</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=92692</guid>
-            <pubDate>Wed, 12 Jan 2022 20:22:18 GMT</pubDate>
-            <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202112/92692_102871_4745_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
