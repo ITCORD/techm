@@ -4,9 +4,17 @@
         <title>테크M ─ 콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Jan 2022 01:01:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jan 2022 02:05:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[넷플릭스 '지금 우리 학교는' 공개에...네이버웹툰 글로벌 연재 개시]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=93636</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=93636</guid>
+            <pubDate>Fri, 28 Jan 2022 10:07:00 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202201/93636_104724_5731_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["20년전 잣대 곤란" vs. "게임은 돈벌이 수단 아닌 놀이"...평행선 달리는 블록체인 게임 심의]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=93621</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 26 Jan 2022 10:38:00 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202201/93504_104526_2058_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[위메이드, 고려대학교에 10억원 상당 가상자산 위믹스(WEMIX) 기부]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=93503</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=93503</guid>
-            <pubDate>Wed, 26 Jan 2022 10:21:00 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202201/93503_104524_1526_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
