@@ -4,9 +4,25 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 29 Jan 2022 23:18:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Jan 2022 01:03:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[해커는 방심한 틈을 노린다…명절기간 지켜야 할 보안 수칙은?]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=93678</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=93678</guid>
+            <pubDate>Sun, 30 Jan 2022 09:42:00 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202201/93678_104826_1415_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[설, 네이버서 놀자] '화산귀환'부터 '전지적 독자 시점'까지...명절엔 역시 '웹툰 정주행']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=93666</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=93666</guid>
+            <pubDate>Sun, 30 Jan 2022 09:30:00 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202201/93666_104793_10_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[글로벌] 스페이스X 로켓, 3월 달과 충돌..."달에 20m 크기의 흔적 남길 것"]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=93674</link>
@@ -150,22 +166,6 @@
             <pubDate>Fri, 28 Jan 2022 07:16:57 GMT</pubDate>
             <content:encoded><![CDATA[김경영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202201/93653_104764_4559_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[같이봐영] '지금 우리 학교는' 공개 기념...넷플릭스 'K좀비물' 정주행 어때요?]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=93649</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=93649</guid>
-            <pubDate>Fri, 28 Jan 2022 07:16:57 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202201/93649_104782_3354_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[컨콜] LG U+ "올해 비통신 신사업 성장 구체적 실현...디지털 혁신 내실 다질 것"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=93652</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=93652</guid>
-            <pubDate>Fri, 28 Jan 2022 07:16:57 GMT</pubDate>
-            <content:encoded><![CDATA[김경영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202201/93652_104762_3648_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
