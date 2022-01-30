@@ -4,9 +4,17 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 30 Jan 2022 22:18:58 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Jan 2022 23:19:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[테크M 트렌드] 새해엔 스마트폰 바꿔드려야겠어요]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=93648</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=93648</guid>
+            <pubDate>Mon, 31 Jan 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202201/93648_104749_917_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[메타버스에 설 특집영상, 가상 기차여행...통신3사 서비스로 '집콕 설날' 즐기자]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=93675</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 28 Jan 2022 10:03:00 GMT</pubDate>
             <content:encoded><![CDATA[김경영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202201/93631_104719_3826_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LG유플러스 지난해 4분기 영업이익 9790억원...전년 대비 10.5% 증가(1보)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=93628</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=93628</guid>
-            <pubDate>Fri, 28 Jan 2022 09:30:00 GMT</pubDate>
-            <content:encoded><![CDATA[김경영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202201/93628_104715_85_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
