@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 30 Jan 2022 23:19:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Jan 2022 01:00:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[설, 카카오서 놀자] '가드패스'부터 '아비무쌍'까지, 명절엔 역시 '웹툰 정주행']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=93667</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=93667</guid>
+            <pubDate>Mon, 31 Jan 2022 09:30:00 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202201/93667_104798_2517_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[테크M 트렌드] 새해엔 스마트폰 바꿔드려야겠어요]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=93648</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 28 Jan 2022 08:21:14 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202201/93661_104777_5419_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[위믹스, 글로벌 가상자산 거래소 오케이엑스 상장]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=93660</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=93660</guid>
-            <pubDate>Fri, 28 Jan 2022 08:21:14 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202201/93660_104776_480_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
