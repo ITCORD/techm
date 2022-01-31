@@ -4,9 +4,17 @@
         <title>테크M ─ 인베스트먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 31 Jan 2022 22:18:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Jan 2022 23:19:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[테크M 리포트] 세뱃돈으로 삼성전자 주식 사도 되나요?]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=93687</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=93687</guid>
+            <pubDate>Tue, 01 Feb 2022 07:30:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202201/93687_104855_572_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[크립토 브리핑] 상승세 멈춘 비트코인 다시 4500만원대로...조정 들어갔나]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=93686</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 25 Jan 2022 11:09:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202201/93458_104435_856_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[크립토 브리핑] 비트코인 4000만원선 붕괴는 막았지만...비트코인 수익 상태 물량은 최저]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=93445</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=93445</guid>
-            <pubDate>Tue, 25 Jan 2022 10:16:00 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202201/93445_104425_5733_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
