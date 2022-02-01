@@ -4,9 +4,17 @@
         <title>테크M ─ 콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Feb 2022 07:18:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Feb 2022 08:22:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[소니는 '헤일로' 개발사 번지 품었다...4.3조원 투입]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=93691</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=93691</guid>
+            <pubDate>Tue, 01 Feb 2022 08:21:23 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202202/93691_104866_3049_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[설, K-OTT로 놀자] '트레이서' '서울체크인', '좋좋소' 'SNL'...정주행하면 명절 '순삭']]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=93665</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 27 Jan 2022 04:22:33 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202201/93594_104652_913_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[NTP] 넷마블의 메타버스 자신감...게임 역량 앞세워 '메타노믹스-메타휴먼' 정조준]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=93592</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=93592</guid>
-            <pubDate>Thu, 27 Jan 2022 00:48:00 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202201/93592_104643_3322_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
