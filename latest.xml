@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Feb 2022 11:16:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Feb 2022 12:30:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[네이버 가상자산 '링크' 무한확장...라인페이에 연동 서비스 시작]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=93738</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=93738</guid>
+            <pubDate>Thu, 03 Feb 2022 12:28:42 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202202/93738_104965_584_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[확률형 아이템 표시 의무화 될까...게임법 전부개정안 공청회, 오는 10일 열린다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=93737</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 03 Feb 2022 11:28:00 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202202/93718_104911_2724_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[네오위즈, 블록체인 사업 본격화...'네오핀토큰' 보상받는 플랫폼 '네오핀' 출시]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=93717</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=93717</guid>
-            <pubDate>Thu, 03 Feb 2022 11:15:00 GMT</pubDate>
-            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202202/93717_104910_1355_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
