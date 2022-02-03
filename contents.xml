@@ -4,9 +4,17 @@
         <title>테크M ─ 콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Feb 2022 23:19:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Feb 2022 01:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[넷플릭스 '마스크걸' 제작...고현정, 인터넷 방송 BJ로 변신]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=93704</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=93704</guid>
+            <pubDate>Thu, 03 Feb 2022 09:47:00 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202202/93704_104897_3041_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[코인이톡] 부정부패도 오너 리스크도 없다...코드와 토큰으로 운영되는 탈중앙화자율조직 '다오(DAO)']]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=93693</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 27 Jan 2022 06:22:09 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202201/93605_104677_5943_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[NTP] 넷마블, 2022년 총 공세 예고...신작 20종에 블록체인·메타버스도 띄운다(종합)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=93598</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=93598</guid>
-            <pubDate>Thu, 27 Jan 2022 06:22:09 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202201/93598_104655_3925_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
