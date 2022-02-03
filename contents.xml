@@ -4,9 +4,17 @@
         <title>테크M ─ 콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Feb 2022 01:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Feb 2022 02:01:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[올해도 넥슨개발자콘퍼런스(NDC)는 온라인으로...메타버스 & NFT 세션 신설 '눈길']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=93713</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=93713</guid>
+            <pubDate>Thu, 03 Feb 2022 10:15:00 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202202/93713_104906_1427_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[넷플릭스 '마스크걸' 제작...고현정, 인터넷 방송 BJ로 변신]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=93704</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 27 Jan 2022 06:22:09 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202201/93606_104680_655_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['아이콘'과 '투바이트'가 꿈꾸는 블록체인 게임 세상...크립토펑크 NFT를 게임에 활용한다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=93605</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=93605</guid>
-            <pubDate>Thu, 27 Jan 2022 06:22:09 GMT</pubDate>
-            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202201/93605_104677_5943_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
