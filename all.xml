@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Feb 2022 03:20:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Feb 2022 04:24:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[점심시간에 또? 카카오톡, QR체크인 등 오류 발생 (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=93723</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=93723</guid>
+            <pubDate>Thu, 03 Feb 2022 00:51:00 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202202/93723_104922_4913_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["성장주 살아있네" 실적으로 입증한 빅테크…물론 예외도 있었다 (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=93721</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 03 Feb 2022 09:31:00 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202202/93705_104896_308_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[게임코인TV] 구로의 희망이 될 수 있을까? 넷마블 게임코인이 뜬다 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=93702</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=93702</guid>
-            <pubDate>Wed, 02 Feb 2022 08:20:59 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202202/93702_104891_1550_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[프렌즈게임즈, 타임슬롯 NFT 서비스 '투데이이즈' 정식 오픈 (테크M ─ 콘텐츠)]]></title>
@@ -328,6 +328,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202201/93636_104724_5731_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[점심시간에 또? 카카오톡, QR체크인 등 오류 발생 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=93723</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=93723</guid>
+            <pubDate>Thu, 03 Feb 2022 00:51:00 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202202/93723_104922_4913_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA["성장주 살아있네" 실적으로 입증한 빅테크…물론 예외도 있었다 (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=93721</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=93721</guid>
@@ -478,14 +486,6 @@
             <pubDate>Fri, 28 Jan 2022 09:18:42 GMT</pubDate>
             <content:encoded><![CDATA[김경영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202201/93658_104774_188_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[신세계아이앤씨, 지난해 영업이익 355억원…전년비 18.38% 증가 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=93659</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=93659</guid>
-            <pubDate>Fri, 28 Jan 2022 08:21:14 GMT</pubDate>
-            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202201/93659_104775_4710_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[네오위즈, 블록체인 사업 본격화...'네오핀토큰' 보상받는 플랫폼 '네오핀' 출시 (테크M ─ 이노베이션)]]></title>
