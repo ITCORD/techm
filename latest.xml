@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Feb 2022 01:54:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Feb 2022 02:20:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[외부 네트워크망 공격으로 12시간 문 닫은 클레이스왑...피해규모 22억원]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=93752</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=93752</guid>
+            <pubDate>Fri, 04 Feb 2022 11:15:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202202/93752_104980_5748_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[가상자산으로 스포츠 승부예측...위메이드-NHN빅풋 '프로젝트 위믹스 스포츠' 만든다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=93751</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 03 Feb 2022 08:22:00 GMT</pubDate>
             <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202202/93733_104940_844_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가상자산 약세지만 NFT는 '훨훨'...1월 거래량 7조원대로 역대 최고]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=93730</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=93730</guid>
-            <pubDate>Thu, 03 Feb 2022 07:17:06 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202202/93730_104956_3543_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
