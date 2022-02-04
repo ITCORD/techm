@@ -4,9 +4,25 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Feb 2022 03:19:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Feb 2022 04:21:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[테크M 이슈] 돌아온 '오딘'...리니지 모바일 또다시 밀어내다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=93759</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=93759</guid>
+            <pubDate>Fri, 04 Feb 2022 00:41:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202202/93759_104992_4136_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[그린케미칼, 지난해 영업익 40% 껑충...AM 덕에 쾌속성장]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=93758</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=93758</guid>
+            <pubDate>Fri, 04 Feb 2022 00:27:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202202/93758_104991_2647_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[화웨이 '전 세계 가장 가치 있는 10대 브랜드'에 이름 올려]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=93757</link>
@@ -150,22 +166,6 @@
             <pubDate>Thu, 03 Feb 2022 09:17:29 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202202/93737_104958_360_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[더존비즈온, 한국가스기술공사 차세대 ERP 시스템 구축 완료]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=93736</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=93736</guid>
-            <pubDate>Thu, 03 Feb 2022 09:17:29 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202202/93736_104959_368_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['불매운동' 무풍지대 스타벅스?...충성도 '갑' 고객이 살렸다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=93735</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=93735</guid>
-            <pubDate>Thu, 03 Feb 2022 08:22:00 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202202/93735_104960_3624_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
