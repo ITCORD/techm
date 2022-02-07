@@ -4,9 +4,17 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Feb 2022 02:06:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Feb 2022 03:20:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우티 앱에 직접 결제 기능 도입된다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=93798</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=93798</guid>
+            <pubDate>Mon, 07 Feb 2022 11:36:00 GMT</pubDate>
+            <content:encoded><![CDATA[김경영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202202/93798_105057_2852_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["콜리야, 잔액 조회해 줘~" KB국민은행 '리브 넥스트'에 AI '누구' 적용된다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=93789</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 04 Feb 2022 09:44:00 GMT</pubDate>
             <content:encoded><![CDATA[김경영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202202/93741_104968_945_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[KT, 이투스 메타버스 교육플랫폼에 클라우드 적용 완료]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=93740</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=93740</guid>
-            <pubDate>Fri, 04 Feb 2022 09:43:00 GMT</pubDate>
-            <content:encoded><![CDATA[김경영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202202/93740_104967_156_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
