@@ -4,9 +4,25 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Feb 2022 04:24:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Feb 2022 05:17:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[게임코인TV] P2E 게임 규제 완화 어떻게 해야 할까...우리는 '미르4' 언제할 수 있나]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=93810</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=93810</guid>
+            <pubDate>Mon, 07 Feb 2022 05:17:50 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202202/93810_105082_5942_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[카드뉴스] 컴투스홀딩스, 가상자산 C2X 발행...메타버스 경제의 근간 될까]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=93805</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=93805</guid>
+            <pubDate>Mon, 07 Feb 2022 05:17:50 GMT</pubDate>
+            <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202202/93805_105069_62_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 애플-구글-MS, 실적으로 '실력 입증' 했는데...메타만 '잔뜩 흐림']]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=93761</link>
@@ -150,22 +166,6 @@
             <pubDate>Wed, 12 Jan 2022 20:22:18 GMT</pubDate>
             <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202201/92997_103497_3255_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] SNL, 여고추리반...K예능이 토종 OTT 성장 이끈다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=92934</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=92934</guid>
-            <pubDate>Wed, 12 Jan 2022 20:22:18 GMT</pubDate>
-            <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202201/92934_103372_2857_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 임인년 달굴 신작 게임 쏟아진다...장르-플랫폼 다양화가 특징]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=92890</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=92890</guid>
-            <pubDate>Wed, 12 Jan 2022 20:22:18 GMT</pubDate>
-            <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202201/92890_103290_3956_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
