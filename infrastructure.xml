@@ -4,9 +4,17 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Feb 2022 06:23:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Feb 2022 07:19:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[카카오페이의 '넥스트 스텝'...여의도 뒤흔들 MTS 띄운다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=93860</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=93860</guid>
+            <pubDate>Tue, 08 Feb 2022 07:17:15 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202202/93860_105164_4042_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카카오 보라 2.0] 프렌즈게임즈 사명 '메타보라'로 바뀐다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=93853</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 07 Feb 2022 10:02:00 GMT</pubDate>
             <content:encoded><![CDATA[김가은 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202202/93785_105045_2936_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스타트업 키우는 현대백화점그룹..."유통의 미래, 벤처에서 찾는다"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=93792</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=93792</guid>
-            <pubDate>Mon, 07 Feb 2022 10:02:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202202/93792_105051_28_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
