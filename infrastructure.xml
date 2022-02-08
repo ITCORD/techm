@@ -4,9 +4,25 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Feb 2022 07:19:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Feb 2022 08:22:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[KISA, 헥슬란트가 작성한 이더리움 2.0 기술조사 보고서 발간]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=93868</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=93868</guid>
+            <pubDate>Tue, 08 Feb 2022 08:21:09 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202202/93868_105179_4828_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[카카오 보라 2.0] 클레이튼 뿌리 내린 카카오...'보라'로 블록체인 대중화 꿈꾼다(종합)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=93867</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=93867</guid>
+            <pubDate>Tue, 08 Feb 2022 08:21:09 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202202/93867_105180_518_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[카카오페이의 '넥스트 스텝'...여의도 뒤흔들 MTS 띄운다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=93860</link>
@@ -21,7 +37,7 @@
             <guid>https://www.techm.kr/news/articleView.html?idxno=93853</guid>
             <pubDate>Tue, 08 Feb 2022 06:21:46 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202202/93853_105160_1248_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202202/93853_105183_5712_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["아이패드 딱 기다려" 삼성 '갤럭시탭 S8' 칼 갈았다]]></title>
@@ -150,22 +166,6 @@
             <pubDate>Mon, 07 Feb 2022 11:00:00 GMT</pubDate>
             <content:encoded><![CDATA[김경영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202202/93789_105048_4154_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성 갤럭시 신제품, 해양 폐기물 재활용한 친환경 소재 적용]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=93794</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=93794</guid>
-            <pubDate>Mon, 07 Feb 2022 10:54:00 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202202/93794_105053_5227_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[CJ올리브네트웍스, 오비맥주에 스마트팩토리 구축]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=93785</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=93785</guid>
-            <pubDate>Mon, 07 Feb 2022 10:02:00 GMT</pubDate>
-            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202202/93785_105045_2936_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
