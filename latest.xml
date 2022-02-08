@@ -4,9 +4,33 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Feb 2022 03:20:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Feb 2022 04:23:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[지란지교시큐리티, 악성 이메일 모의훈련 솔루션 '머드픽스' 도입 2.5배↑]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=93837</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=93837</guid>
+            <pubDate>Tue, 08 Feb 2022 04:21:54 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202202/93837_105127_2448_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[카카오 '보라 2.0'에 위메이드 이어 오딘 개발사도 합류]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=93845</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=93845</guid>
+            <pubDate>Tue, 08 Feb 2022 00:54:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202202/93845_105139_5350_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[코린이톡] 해시드-테라가 키우는 '컴투스 코인'...핵심은 프로토콜 경제]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=93844</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=93844</guid>
+            <pubDate>Tue, 08 Feb 2022 00:23:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202202/93844_105137_2152_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[유통에도 '테크'가 필요해...쿠팡, 로켓배송 돕는 '로봇' 공개]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=93840</link>
@@ -142,30 +166,6 @@
             <pubDate>Tue, 08 Feb 2022 09:48:00 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202202/93822_105111_2543_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[고객 경험 즉시 반영했더니...LG유플러스 'U+홈트Now' 이용률 쑥~]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=93825</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=93825</guid>
-            <pubDate>Tue, 08 Feb 2022 09:44:00 GMT</pubDate>
-            <content:encoded><![CDATA[김경영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202202/93825_105113_381_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[KT "시즌, 지니+ 초이스 신규 가입 고객님, 밀리의 서재 추가 비용 없이 이용하세요~"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=93824</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=93824</guid>
-            <pubDate>Tue, 08 Feb 2022 09:44:00 GMT</pubDate>
-            <content:encoded><![CDATA[김경영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202202/93824_105112_3050_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[KT, 스토리위즈 웹소설∙웹툰으로 NFT 발행한다...3월 NFT 베타 서비스 출시]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=93823</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=93823</guid>
-            <pubDate>Tue, 08 Feb 2022 09:44:00 GMT</pubDate>
-            <content:encoded><![CDATA[김경영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202202/93823_105110_2458_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
