@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Feb 2022 21:18:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Feb 2022 22:18:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["AWS 또 터졌어?" 연이은 클라우드 장애에 'MSP' 역할 주목]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=93940</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=93940</guid>
+            <pubDate>Thu, 10 Feb 2022 07:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202202/93940_105290_14_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[갤럭시 언팩] 갤럭시 S22 '사고 싶다' 느낀 세 번의 순간(종합)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=93975</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 09 Feb 2022 08:21:59 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202202/93947_105320_1959_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[벤처업계에 러브콜 보낸 이재명 "유니콘 기업 100개·일자리 100만개 창출"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=93948</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=93948</guid>
-            <pubDate>Wed, 09 Feb 2022 08:21:59 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202202/93948_105321_2019_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
