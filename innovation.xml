@@ -4,7 +4,7 @@
         <title>테크M ─ 이노베이션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Feb 2022 09:19:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Feb 2022 10:21:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>https://www.techm.kr/news/articleView.html?idxno=93948</guid>
             <pubDate>Wed, 09 Feb 2022 08:22:47 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202202/93948_105303_3231_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202202/93948_105321_2019_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[크래프톤, '제페토' 운영사 네이버제트와 'NFT 메타버스 플랫폼' 띄운다]]></title>
@@ -22,6 +22,14 @@
             <pubDate>Wed, 09 Feb 2022 10:22:00 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202202/93910_105247_1744_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['전 부문 호조' NHN, 매출 2조원 눈 앞...올해는 게임 앞세워 '퀀텀점프']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=93887</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=93887</guid>
+            <pubDate>Wed, 09 Feb 2022 09:10:00 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202202/93887_105324_2133_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[브이에이코퍼레이션, LG전자와 '버추얼 프로덕션' 협업한다]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 03 Feb 2022 11:15:00 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202202/93717_104910_1355_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[구내식당 음식 쓰레기, AI 푸드스캔 기술로 줄인다...SKT-누비랩 '맞손']]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=93701</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=93701</guid>
-            <pubDate>Wed, 02 Feb 2022 11:02:00 GMT</pubDate>
-            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202202/93701_104883_146_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
