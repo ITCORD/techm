@@ -4,9 +4,25 @@
         <title>테크M ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Feb 2022 01:07:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Feb 2022 02:35:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스타벅스 "10일은 일(1)회용컵 없는(0) 날"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=93905</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=93905</guid>
+            <pubDate>Wed, 09 Feb 2022 10:13:00 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202202/93905_105242_811_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[세틀뱅크 '응카데이' 개최…010PAY 체크카드 결제시 10% 캐시백]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=93906</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=93906</guid>
+            <pubDate>Wed, 09 Feb 2022 10:12:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202202/93906_105243_1013_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[같이사소] 미리 준비하는 밸런타인데이...쿠팡-위메프-11번가]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=93836</link>
@@ -150,22 +166,6 @@
             <pubDate>Thu, 27 Jan 2022 08:23:40 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202201/93612_104689_4342_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쿠팡 "프레시백 도입 후 1억개 스티로폼 상자 절약"...회수 지연 문제는 과제]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=93597</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=93597</guid>
-            <pubDate>Thu, 27 Jan 2022 06:23:37 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202201/93597_104659_4235_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LG전자 'LG 씽큐' 앱 체험공간 마련…"지능형 라이프스타일 경험해보세요"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=93596</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=93596</guid>
-            <pubDate>Thu, 27 Jan 2022 00:55:00 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202201/93596_104651_543_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

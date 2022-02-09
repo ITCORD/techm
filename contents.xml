@@ -4,9 +4,17 @@
         <title>테크M ─ 콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Feb 2022 01:07:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Feb 2022 02:35:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[LCK 코로나19 비상...DRX 이어 농심도 확진자 발생]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=93912</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=93912</guid>
+            <pubDate>Wed, 09 Feb 2022 10:48:00 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202202/93912_105250_4230_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['지금 우리 학교는' 웹툰도 잘나가네…조회수 80배 '껑충']]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=93896</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 04 Feb 2022 07:14:50 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202202/93771_105012_4438_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[같이봐영] 베이징 동계올림픽 개막...모바일로 태극전사 '메달' 사냥 엿보기]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=93765</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=93765</guid>
-            <pubDate>Fri, 04 Feb 2022 07:14:50 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202202/93765_105006_132_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
