@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Feb 2022 04:25:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Feb 2022 05:17:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 카카오게임즈, 올해 키워드는 글로벌+보라...신작만 20여종]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=93921</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=93921</guid>
+            <pubDate>Wed, 09 Feb 2022 05:17:55 GMT</pubDate>
+            <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202202/93921_105262_3119_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 삼성전자의 메타버스 '마이 하우스', 누적 방문횟수 400만 돌파]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=93847</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 12 Jan 2022 20:22:18 GMT</pubDate>
             <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202201/93077_103667_546_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] '반도체 겨울'은 짧았다...삼성전자 실적 반등 나서나]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=93040</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=93040</guid>
-            <pubDate>Wed, 12 Jan 2022 20:22:18 GMT</pubDate>
-            <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202201/93040_103578_2738_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
