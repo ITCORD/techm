@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Feb 2022 17:22:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Feb 2022 18:22:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[갤럭시 언팩] 갤럭시 S22 '사고 싶다' 느낀 세 번의 순간(종합)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=93975</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=93975</guid>
+            <pubDate>Thu, 10 Feb 2022 02:25:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202202/93975_105372_2431_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[갤럭시 언팩] "더 이상 발열 이슈는 없다"...삼성 '갤럭시 S22' 냉각 시스템 '자신감']]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=93974</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 09 Feb 2022 08:21:59 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202202/93948_105321_2019_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[테크M 이슈] 배그 다음은 미르4...위메이드 위믹스 '600만명' 즐겼다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=93949</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=93949</guid>
-            <pubDate>Wed, 09 Feb 2022 08:21:59 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202202/93949_105305_3449_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
