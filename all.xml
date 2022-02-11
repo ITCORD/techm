@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Feb 2022 06:23:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Feb 2022 07:18:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성전자 자회사 하만, 독일 AR 기술 기업 '아포스테라' 인수 (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=94085</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=94085</guid>
+            <pubDate>Fri, 11 Feb 2022 07:16:24 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202202/94085_105541_3952_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[지현진의 지금은 데이터시대] 데이터산업법 시행, 무엇이 달라지나? (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=94084</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=94084</guid>
+            <pubDate>Fri, 11 Feb 2022 07:16:24 GMT</pubDate>
+            <content:encoded><![CDATA[김현기 대표]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202202/94084_105540_1824_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[같이봐영] 서현·김태리·박민영 뜬다...달콤 쌉싸름한 청춘물 정주행 어때요?(feat.넷플릭스) (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=94082</link>
@@ -152,26 +168,10 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202202/94065_105508_245_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[지난해 연간 최대 실적 달성한 컴투스, 당기순이익 1242억원...62.4% 껑충 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=94064</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=94064</guid>
-            <pubDate>Fri, 11 Feb 2022 10:20:00 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202202/94064_105507_1336_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[KT 비즈웍스, 디지털서비스 전문계약제도 심사 통과 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=94062</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=94062</guid>
-            <pubDate>Fri, 11 Feb 2022 10:18:00 GMT</pubDate>
-            <content:encoded><![CDATA[김경영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202202/94062_105505_435_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[같이봐영] 서현·김태리·박민영 뜬다...달콤 쌉싸름한 청춘물 정주행 어때요?(feat.넷플릭스) (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=94082</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=94082</guid>
-            <pubDate>Fri, 11 Feb 2022 06:22:10 GMT</pubDate>
+            <pubDate>Fri, 11 Feb 2022 06:21:56 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202202/94082_105539_3338_v150.jpg" length="0" type="image/jpg"/>
         </item>
@@ -328,6 +328,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202202/93938_105295_620_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[삼성전자 자회사 하만, 독일 AR 기술 기업 '아포스테라' 인수 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=94085</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=94085</guid>
+            <pubDate>Fri, 11 Feb 2022 07:16:51 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202202/94085_105541_3952_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[안랩, 지난해 영업익 14.8%↑…올해 'OT보안' 신사업 박차(종합) (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=94071</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=94071</guid>
@@ -478,14 +486,6 @@
             <pubDate>Thu, 10 Feb 2022 00:02:00 GMT</pubDate>
             <content:encoded><![CDATA[김경영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202202/94001_105493_3842_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[카카오엔터프라이즈, 부산에 클라우드 혁신센터 개소 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=93994</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=93994</guid>
-            <pubDate>Thu, 10 Feb 2022 10:47:00 GMT</pubDate>
-            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202202/93994_105397_3942_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['동네 커뮤니티' 키워낸 당근마켓, 양대 앱마켓 소셜 부문 1위 석권 (테크M ─ 이노베이션)]]></title>
@@ -651,7 +651,7 @@
             <title><![CDATA[블록체인 기업 람다256, 누적 투자 유치 1000억원 돌파...하이브·YG도 투자했다 (테크M ─ 인베스트먼트)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=94081</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=94081</guid>
-            <pubDate>Fri, 11 Feb 2022 06:22:49 GMT</pubDate>
+            <pubDate>Fri, 11 Feb 2022 06:21:57 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202202/94081_105535_116_v150.jpg" length="0" type="image/jpg"/>
         </item>
@@ -659,7 +659,7 @@
             <title><![CDATA[카카오게임즈·넵튠, 메타버스 게임사 '해긴'에 400억원 투자 (테크M ─ 인베스트먼트)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=94080</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=94080</guid>
-            <pubDate>Fri, 11 Feb 2022 06:22:49 GMT</pubDate>
+            <pubDate>Fri, 11 Feb 2022 06:21:57 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202202/94080_105532_156_v150.jpg" length="0" type="image/jpg"/>
         </item>
@@ -667,7 +667,7 @@
             <title><![CDATA[[크립토 브리핑] 시장 예측 벗어난 미국 CPI...주요 가상자산 일제히 하락 (테크M ─ 인베스트먼트)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=94078</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=94078</guid>
-            <pubDate>Fri, 11 Feb 2022 06:22:49 GMT</pubDate>
+            <pubDate>Fri, 11 Feb 2022 06:21:57 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202202/94078_105525_5651_v150.jpg" length="0" type="image/jpg"/>
         </item>
@@ -1290,7 +1290,7 @@
             <title><![CDATA[[카드뉴스] SKT, 5대 신사업 체제 완성...구독·메타버스로 혁신 부스터 (테크M ─ 보는 뉴스)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=94079</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=94079</guid>
-            <pubDate>Fri, 11 Feb 2022 06:23:41 GMT</pubDate>
+            <pubDate>Fri, 11 Feb 2022 06:21:57 GMT</pubDate>
             <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202202/94079_105526_119_v150.jpg" length="0" type="image/jpg"/>
         </item>
