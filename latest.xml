@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 13 Feb 2022 15:20:28 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Feb 2022 16:26:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[리빌딩 해도 강한 젠지e스포츠....배틀그라운드 스매시컵 우승]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=94119</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=94119</guid>
+            <pubDate>Mon, 14 Feb 2022 01:16:00 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202202/94119_105622_5641_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[LCK 브리핑] 코로나19 강타한 4주차 경기...농심 2연패로 6위 자리도 '위태']]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=94117</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 11 Feb 2022 09:18:11 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202202/94091_105556_64_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[디지털 전환 화두로 떠오른 'SaaS'...SW 업계 대응 총력전]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=94043</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=94043</guid>
-            <pubDate>Fri, 11 Feb 2022 08:20:12 GMT</pubDate>
-            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202202/94043_105479_201_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
