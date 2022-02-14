@@ -4,9 +4,25 @@
         <title>테크M ─ 인베스트먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Feb 2022 01:01:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Feb 2022 02:03:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['플로' 운영사 드림어스컴퍼니, 작년 영업익 48억원...흑자전환]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=94130</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=94130</guid>
+            <pubDate>Mon, 14 Feb 2022 10:29:00 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202202/94130_105644_1331_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[크립토 브리핑] 닷새째 하락중인 비트코인, 고래들은 저점 매수 나섰다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=94128</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=94128</guid>
+            <pubDate>Mon, 14 Feb 2022 10:09:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202202/94128_105642_052_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[크립토 주간 브리핑] 금리인상 우려 고조...상승분 반납한 비트코인·이더리움]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=94098</link>
@@ -150,22 +166,6 @@
             <pubDate>Thu, 10 Feb 2022 07:18:07 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202202/94031_105459_5744_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[CJ ENM, 지난해 영업이익 2969억원...전년 比 9.1% '쑥'(1보)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=94027</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=94027</guid>
-            <pubDate>Thu, 10 Feb 2022 07:18:07 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202202/94027_105457_5247_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[크래프톤, 지난해 영업이익 6396억원...전년대비 17% 감소(1보)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=94028</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=94028</guid>
-            <pubDate>Thu, 10 Feb 2022 07:18:07 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202202/94028_105458_5253_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
