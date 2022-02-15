@@ -4,9 +4,25 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Feb 2022 01:11:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Feb 2022 02:37:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[게임코인TV] 송재경의 '아키월드'를 기대하는 이유, 보라는 오를까?...보라 2.0 전망 (하)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=94192</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=94192</guid>
+            <pubDate>Tue, 15 Feb 2022 11:34:00 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202202/94192_105735_2739_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[게임코인TV] 발행량 이슈는 정말 괜찮을까, 보라의 첫 블록체인 게임은?...보라 2.0 전망 (상)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=94191</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=94191</guid>
+            <pubDate>Tue, 15 Feb 2022 11:24:00 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202202/94191_105732_2321_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 갤럭시 S22, 어디서 사는 게 제일 좋을까? 사전 예약은 시작됐다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=94145</link>
@@ -150,22 +166,6 @@
             <pubDate>Thu, 20 Jan 2022 05:18:34 GMT</pubDate>
             <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202201/93342_104204_5247_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] '80조 빅딜' 마이크로소프트, 블리자드 품고 '메타버스' 시대 정조준]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=93298</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=93298</guid>
-            <pubDate>Wed, 19 Jan 2022 05:17:36 GMT</pubDate>
-            <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202201/93298_104122_66_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 네이버 손잡은 BTS 웹툰, 미국을 홀렸다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=93246</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=93246</guid>
-            <pubDate>Tue, 18 Jan 2022 06:22:28 GMT</pubDate>
-            <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202201/93246_104018_230_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
