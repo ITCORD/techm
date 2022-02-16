@@ -4,16 +4,24 @@
         <title>테크M ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Feb 2022 07:19:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Feb 2022 08:23:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한샘, 2022년 정기 임원 인사 단행...김덕신 부사장 등 8명 승진]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=94268</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=94268</guid>
+            <pubDate>Wed, 16 Feb 2022 08:22:51 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202202/94268_105882_717_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[커피한잔] 전설들과의 이별...'피오'-'에스더'가 배틀그라운드로 이룬 꿈]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=94158</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=94158</guid>
             <pubDate>Wed, 16 Feb 2022 04:24:23 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202202/94158_105691_3832_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202202/94158_105896_434_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[테크M 이슈] "형만 믿어" 남궁훈 리더십의 힘...카카오 내홍은 종결 국면]]></title>
@@ -157,14 +165,6 @@
             <pubDate>Mon, 24 Jan 2022 02:23:00 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202201/93401_104328_2232_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[카카오의 미래 여는 남궁훈...핵심 브레인 모아 'TF' 띄운다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=93382</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=93382</guid>
-            <pubDate>Fri, 21 Jan 2022 07:19:04 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202201/93382_104287_2847_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
