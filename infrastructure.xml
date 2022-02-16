@@ -4,16 +4,32 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Feb 2022 06:23:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Feb 2022 07:19:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[모스마이크로, 'IoT용 와이파이 할로우'로 아시아 시장 확대 나서]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=94263</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=94263</guid>
+            <pubDate>Wed, 16 Feb 2022 07:17:41 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202202/94263_105872_3652_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[화웨이, 중동·아프리카 지역 최대 규모 저탄소 태양광 데이터센터 설립]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=94262</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=94262</guid>
+            <pubDate>Wed, 16 Feb 2022 07:17:41 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202202/94262_105869_3458_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[또 털린 카카오 그라운드X...고객 개인정보 유출(종합)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=94259</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=94259</guid>
             <pubDate>Wed, 16 Feb 2022 06:22:32 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202202/94259_105867_635_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202202/94259_105868_2719_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[카카오 가상자산 지갑 '클립' 북한 배후 해킹 정황에 개인정보 유출까지 '보안 사각지대']]></title>
@@ -150,22 +166,6 @@
             <pubDate>Tue, 15 Feb 2022 08:21:38 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202202/94213_105773_2244_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[과기정통부, 공공부문 민간 클라우드 활성화에 183억 투입…"선도사업 추진하고 SaaS 개발 지원"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=94203</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=94203</guid>
-            <pubDate>Tue, 15 Feb 2022 06:21:54 GMT</pubDate>
-            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202202/94203_105759_5142_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['디지코' 기업 KT가 러시아 시장에 군침 흘리는 이유]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=94194</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=94194</guid>
-            <pubDate>Tue, 15 Feb 2022 06:21:54 GMT</pubDate>
-            <content:encoded><![CDATA[김경영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202202/94194_105791_2653_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

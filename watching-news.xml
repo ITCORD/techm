@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Feb 2022 06:23:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Feb 2022 07:19:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 삼성전자, 메타버스 매력에 '풍덩'...더 프리스타일부터 언팩까지]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=94241</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=94241</guid>
+            <pubDate>Wed, 16 Feb 2022 07:19:16 GMT</pubDate>
+            <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202202/94241_105821_561_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 한국 대표 메타버스는? 네이버 제페토 vs. SKT 이프랜드]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=94197</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 24 Jan 2022 07:21:30 GMT</pubDate>
             <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202201/93430_104384_2848_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 위기의 카카오, 구원투수 '남궁훈' 투입...메타버스로 새판짜기 '시동']]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=93380</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=93380</guid>
-            <pubDate>Fri, 21 Jan 2022 06:23:39 GMT</pubDate>
-            <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202201/93380_104285_171_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
