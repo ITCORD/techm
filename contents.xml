@@ -4,9 +4,17 @@
         <title>테크M ─ 콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Feb 2022 04:25:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Feb 2022 05:18:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[장현국 위메이드 "메타버스=블록체인 게임"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=94251</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=94251</guid>
+            <pubDate>Wed, 16 Feb 2022 05:16:50 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202202/94251_105854_2016_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[11번가, 신규셀러 입점 혜택 강화..."2022년 셀러와의 상생에 집중"]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=94250</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 15 Feb 2022 10:17:00 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202202/94179_105715_151_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[적자기업에 6000억 쐈다? '韓 메타버스 개척자=네이버 스노우']]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=94178</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=94178</guid>
-            <pubDate>Tue, 15 Feb 2022 10:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202202/94178_105714_5524_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

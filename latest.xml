@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Feb 2022 04:25:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Feb 2022 05:18:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[장현국 위메이드 "메타버스=블록체인 게임"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=94251</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=94251</guid>
+            <pubDate>Wed, 16 Feb 2022 05:16:34 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202202/94251_105854_2016_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[커피한잔] 전설들과의 이별...'피오'-'에스더'가 배틀그라운드로 이룬 꿈]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=94158</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 16 Feb 2022 10:22:00 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202202/94235_105815_2147_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스타벅스코리아, 유기동물 지원 지금 1억원 기부]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=94231</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=94231</guid>
-            <pubDate>Wed, 16 Feb 2022 10:04:00 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202202/94231_105809_5641_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
