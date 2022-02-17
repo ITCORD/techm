@@ -4,9 +4,25 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Feb 2022 03:22:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Feb 2022 04:25:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[테크M 이슈] "아이유-오딘 다음은?" 막 오른 카카오 보라 2.0...파트너 찾기 '분주']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=94306</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=94306</guid>
+            <pubDate>Thu, 17 Feb 2022 04:23:23 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202202/94306_105945_020_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["바이낸스-자체코인 이어 지갑도?" 방준혁표 블록체인 굴기...속도전 빛났다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=94304</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=94304</guid>
+            <pubDate>Thu, 17 Feb 2022 00:46:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202202/94304_105942_4030_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[시스코-람다256, 하이브리드 블록체인 플랫폼 '루오나' 선보인다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=94285</link>
@@ -150,22 +166,6 @@
             <pubDate>Thu, 17 Feb 2022 09:48:00 GMT</pubDate>
             <content:encoded><![CDATA[김경영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202202/94280_105910_3627_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[차세대 '갤럭시북' MWC에서 베일 벗는다…OS 넘나드는 '기기 간 연속성' 강화]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=94281</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=94281</guid>
-            <pubDate>Thu, 17 Feb 2022 09:43:00 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202202/94281_105912_3921_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SK텔레콤 잼(ZEM) 서비스, 가입자 160만 돌파]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=94279</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=94279</guid>
-            <pubDate>Thu, 17 Feb 2022 09:39:00 GMT</pubDate>
-            <content:encoded><![CDATA[김경영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202202/94279_105909_2959_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

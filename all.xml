@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Feb 2022 03:22:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Feb 2022 04:25:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[테크M 이슈] "아이유-오딘 다음은?" 막 오른 카카오 보라 2.0...파트너 찾기 '분주' (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=94306</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=94306</guid>
+            <pubDate>Thu, 17 Feb 2022 04:23:23 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202202/94306_105945_020_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["바이낸스-자체코인 이어 지갑도?" 방준혁표 블록체인 굴기...속도전 빛났다 (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=94304</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=94304</guid>
+            <pubDate>Thu, 17 Feb 2022 00:46:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202202/94304_105942_4030_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[시스코-람다256, 하이브리드 블록체인 플랫폼 '루오나' 선보인다 (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=94285</link>
@@ -150,22 +166,6 @@
             <pubDate>Thu, 17 Feb 2022 09:48:00 GMT</pubDate>
             <content:encoded><![CDATA[김경영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202202/94280_105910_3627_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[차세대 '갤럭시북' MWC에서 베일 벗는다…OS 넘나드는 '기기 간 연속성' 강화 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=94281</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=94281</guid>
-            <pubDate>Thu, 17 Feb 2022 09:43:00 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202202/94281_105912_3921_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SK텔레콤 잼(ZEM) 서비스, 가입자 160만 돌파 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=94279</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=94279</guid>
-            <pubDate>Thu, 17 Feb 2022 09:39:00 GMT</pubDate>
-            <content:encoded><![CDATA[김경영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202202/94279_105909_2959_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[웹젠, 비행 시스템 앞세운 '뮤오리진3' 2월 23일 출격 (테크M ─ 콘텐츠)]]></title>
@@ -328,6 +328,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202202/94239_105819_4353_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[테크M 이슈] "아이유-오딘 다음은?" 막 오른 카카오 보라 2.0...파트너 찾기 '분주' (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=94306</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=94306</guid>
+            <pubDate>Thu, 17 Feb 2022 04:23:53 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202202/94306_105945_020_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[시스코-람다256, 하이브리드 블록체인 플랫폼 '루오나' 선보인다 (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=94285</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=94285</guid>
@@ -478,14 +486,6 @@
             <pubDate>Wed, 16 Feb 2022 11:56:00 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202202/94243_105897_50_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[테크M 이슈] '모바일 출판시대' 이끄는 카카오 브런치...등록작가 5만명 넘긴 비결은 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=94237</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=94237</guid>
-            <pubDate>Wed, 16 Feb 2022 10:46:00 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202202/94237_105816_3551_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["네이버‧중소상공인과 성장할 스타트업 찾습니다" (테크M ─ 이노베이션)]]></title>
@@ -808,6 +808,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202202/94180_105716_533_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA["바이낸스-자체코인 이어 지갑도?" 방준혁표 블록체인 굴기...속도전 빛났다 (테크M ─ 피플)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=94304</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=94304</guid>
+            <pubDate>Thu, 17 Feb 2022 00:46:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202202/94304_105942_4030_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA["순익 15% UP" 글로벌통 서장원의 힘...코웨이, 지난해 최대 실적 거뒀다 (테크M ─ 피플)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=94272</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=94272</guid>
@@ -957,14 +965,6 @@
             <pubDate>Tue, 25 Jan 2022 08:21:20 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202201/93462_104465_209_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[테크M 이슈] 채선주와 김성수 '토종 인터넷'의 위기대응 구원투수로 (테크M ─ 피플)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=93435</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=93435</guid>
-            <pubDate>Tue, 25 Jan 2022 05:30:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202201/93435_104412_4357_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[LG '업가전' 살까, 삼성 '비스포크' 살까…가전시장 라이벌이 내놓은 '뉴트렌드' 살펴보니 (테크M ─ 라이프)]]></title>
