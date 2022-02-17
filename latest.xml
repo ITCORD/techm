@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Feb 2022 02:33:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Feb 2022 03:22:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[시스코-람다256, 하이브리드 블록체인 플랫폼 '루오나' 선보인다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=94285</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=94285</guid>
+            <pubDate>Thu, 17 Feb 2022 11:49:00 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202202/94285_105918_434_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[네이버·카카오 인물정보에 '래퍼' 추가된다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=94302</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 17 Feb 2022 09:39:00 GMT</pubDate>
             <content:encoded><![CDATA[김경영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202202/94279_105909_2959_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[구현모 KT "미래는 디지코...주주, 기업가치 강화 앞장설 것"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=94277</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=94277</guid>
-            <pubDate>Thu, 17 Feb 2022 09:37:00 GMT</pubDate>
-            <content:encoded><![CDATA[김경영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202202/94277_105911_3654_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
