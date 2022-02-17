@@ -4,9 +4,33 @@
         <title>테크M ─ 리포트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Feb 2022 06:25:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Feb 2022 07:20:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[글로벌] 스페이스X 우주여행 '폴라리스' 베일 벗었다...민간 우주유영 도전]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=94323</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=94323</guid>
+            <pubDate>Thu, 17 Feb 2022 07:20:07 GMT</pubDate>
+            <content:encoded><![CDATA[김현기 대표]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202202/94323_105979_173_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[글로벌] 우주 산업으로 번지는 미중 갈등...中 "우주 관련 채널 구축" 요구]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=94321</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=94321</guid>
+            <pubDate>Thu, 17 Feb 2022 07:20:07 GMT</pubDate>
+            <content:encoded><![CDATA[김현기 대표]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202202/94321_105978_162_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[글로벌] '연이은 악재' 메타, 새로운 기업 비전 공개...공동체 의식으로 내실 강화]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=94320</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=94320</guid>
+            <pubDate>Thu, 17 Feb 2022 07:20:07 GMT</pubDate>
+            <content:encoded><![CDATA[김현기 대표]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202202/94320_105977_1433_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[글로벌] 제임스 웹 우주망원경 첫 작품, 셀카 사진과 큰 곰자리 내 항성]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=94201</link>
@@ -142,30 +166,6 @@
             <pubDate>Thu, 03 Feb 2022 06:22:59 GMT</pubDate>
             <content:encoded><![CDATA[김현기 대표]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202202/93726_104925_2141_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[글로벌] 중국, AI로 전투 드론 훈련시킨다..."학습 속도 미국보다 5000배 빨라"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=93725</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=93725</guid>
-            <pubDate>Thu, 03 Feb 2022 06:22:59 GMT</pubDate>
-            <content:encoded><![CDATA[김현기 대표]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202202/93725_104924_2043_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[글로벌] 스페이스X 로켓, 3월 달과 충돌..."달에 20m 크기의 흔적 남길 것"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=93674</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=93674</guid>
-            <pubDate>Sat, 29 Jan 2022 00:16:00 GMT</pubDate>
-            <content:encoded><![CDATA[김현기 대표]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202201/93674_104817_165_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[글로벌] 차세대 우주망원경, 한달 만에 목적지 도착...올 여름 첫 관측 개시]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=93673</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=93673</guid>
-            <pubDate>Sat, 29 Jan 2022 00:15:00 GMT</pubDate>
-            <content:encoded><![CDATA[김현기 대표]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202201/93673_104816_1451_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
