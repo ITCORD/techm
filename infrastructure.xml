@@ -4,9 +4,25 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Feb 2022 02:00:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Feb 2022 02:33:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[네이버·카카오 인물정보에 '래퍼' 추가된다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=94302</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=94302</guid>
+            <pubDate>Thu, 17 Feb 2022 11:23:00 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202202/94302_105937_2015_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[삼성SDS, AWS 손잡고 클라우드 사업 강화…"MSP 역량 키우고 SaaS 시장 확대"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=94283</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=94283</guid>
+            <pubDate>Thu, 17 Feb 2022 10:58:00 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202202/94283_105916_5344_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[IBM, SAP 손잡고 기업 고객 클라우드 이전 지원]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=94289</link>
@@ -150,22 +166,6 @@
             <pubDate>Wed, 16 Feb 2022 10:44:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202202/94238_105817_421_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["클라우드 기술·적용 사례 소개" NHN클라우드, 정기 웨비나 개최]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=94232</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=94232</guid>
-            <pubDate>Wed, 16 Feb 2022 10:23:00 GMT</pubDate>
-            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202202/94232_105810_18_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이스트시큐리티, 개방형 OS 위한 통합백신 '알약 개방형OS' 출시]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=94230</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=94230</guid>
-            <pubDate>Wed, 16 Feb 2022 10:23:00 GMT</pubDate>
-            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202202/94230_105808_5118_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
