@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Feb 2022 05:18:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Feb 2022 06:25:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 플레이댑이 랜드파이 메타버스 프로젝트 '클레이시티'에 투자한 이유는?]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=94313</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=94313</guid>
+            <pubDate>Thu, 17 Feb 2022 06:25:48 GMT</pubDate>
+            <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202202/94313_105953_1136_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 삼성전자, 메타버스 매력에 '풍덩'...더 프리스타일부터 언팩까지]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=94241</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 25 Jan 2022 05:17:44 GMT</pubDate>
             <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202201/93465_104446_4130_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 애플 애어팟 맥스...너무 무겁다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=93430</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=93430</guid>
-            <pubDate>Mon, 24 Jan 2022 07:21:30 GMT</pubDate>
-            <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202201/93430_104384_2848_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
