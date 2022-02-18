@@ -4,9 +4,25 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Feb 2022 05:18:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Feb 2022 06:25:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아이폰으로 단편영화 찍은 거장 박찬욱 "화질·색감 영화용 카메라 수준"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=94345</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=94345</guid>
+            <pubDate>Fri, 18 Feb 2022 06:23:46 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202202/94345_106034_046_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[국민서비스 자리잡은 당근마켓...서비스 장애에 시민들 '발동동']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=94344</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=94344</guid>
+            <pubDate>Fri, 18 Feb 2022 06:23:46 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202202/94344_106032_507_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[넷플릭스식 '네이버' 유튜브식 '카카오'...유료 콘텐츠 '大戰']]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=94342</link>
@@ -150,22 +166,6 @@
             <pubDate>Thu, 17 Feb 2022 10:58:00 GMT</pubDate>
             <content:encoded><![CDATA[김가은 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202202/94283_105916_5344_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[IBM, SAP 손잡고 기업 고객 클라우드 이전 지원]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=94289</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=94289</guid>
-            <pubDate>Thu, 17 Feb 2022 10:55:00 GMT</pubDate>
-            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202202/94289_105922_1751_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[베스핀글로벌, 프레시웍스와 SaaS 고객관리 솔루션 국내 제공]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=94293</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=94293</guid>
-            <pubDate>Thu, 17 Feb 2022 10:54:00 GMT</pubDate>
-            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202202/94293_105924_2649_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

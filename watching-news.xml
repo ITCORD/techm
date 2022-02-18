@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Feb 2022 05:18:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Feb 2022 06:25:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 콘텐츠 강자 디즈니, 메타버스 사업 진출...디즈니랜드 메타버스 올라타나]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=94343</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=94343</guid>
+            <pubDate>Fri, 18 Feb 2022 06:25:03 GMT</pubDate>
+            <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202202/94343_106024_727_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 플레이댑이 랜드파이 메타버스 프로젝트 '클레이시티'에 투자한 이유는?]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=94313</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 26 Jan 2022 06:23:38 GMT</pubDate>
             <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202201/93522_104545_446_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 애널리스트가 본 2022년 가상자산...NFT 옥석가리기 '원년']]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=93465</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=93465</guid>
-            <pubDate>Tue, 25 Jan 2022 05:17:44 GMT</pubDate>
-            <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202201/93465_104446_4130_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
