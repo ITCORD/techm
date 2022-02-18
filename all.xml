@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Feb 2022 06:25:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Feb 2022 07:19:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[테크M 이슈] "커피 프랜차이즈는 유통?" 스타벅스=테크 플랫폼 (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=94347</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=94347</guid>
+            <pubDate>Fri, 18 Feb 2022 07:17:29 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202202/94347_106038_5931_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 콘텐츠 강자 디즈니, 메타버스 사업 진출...디즈니랜드 메타버스 올라타나 (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=94343</link>
@@ -160,18 +168,10 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202202/94327_105994_40_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[LG전자-카카오, NFT 동맹...LG TV에 카카오 '클립드롭스' 탑재 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=94326</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=94326</guid>
-            <pubDate>Thu, 17 Feb 2022 10:19:40 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202202/94326_105993_5634_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[P2E 힘주는 조이시티 '건쉽배틀: 크립토 컨플릭트' 랭킹 사이트 1위 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=94346</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=94346</guid>
-            <pubDate>Fri, 18 Feb 2022 06:23:33 GMT</pubDate>
+            <pubDate>Fri, 18 Feb 2022 06:23:20 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202202/94346_106033_033_v150.jpg" length="0" type="image/jpg"/>
         </item>
@@ -331,7 +331,7 @@
             <title><![CDATA[아이폰으로 단편영화 찍은 거장 박찬욱 "화질·색감 영화용 카메라 수준" (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=94345</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=94345</guid>
-            <pubDate>Fri, 18 Feb 2022 06:23:46 GMT</pubDate>
+            <pubDate>Fri, 18 Feb 2022 06:23:20 GMT</pubDate>
             <content:encoded><![CDATA[김가은 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202202/94345_106034_046_v150.jpg" length="0" type="image/jpg"/>
         </item>
@@ -339,7 +339,7 @@
             <title><![CDATA[국민서비스 자리잡은 당근마켓...서비스 장애에 시민들 '발동동' (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=94344</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=94344</guid>
-            <pubDate>Fri, 18 Feb 2022 06:23:46 GMT</pubDate>
+            <pubDate>Fri, 18 Feb 2022 06:23:20 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202202/94344_106032_507_v150.jpg" length="0" type="image/jpg"/>
         </item>
@@ -967,6 +967,14 @@
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[테크M 이슈] "커피 프랜차이즈는 유통?" 스타벅스=테크 플랫폼 (테크M ─ 라이프)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=94347</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=94347</guid>
+            <pubDate>Fri, 18 Feb 2022 07:18:57 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202202/94347_106038_5931_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[써봤다] 노트 충성 고객, 갤럭시 S22 울트라 써보니...사진은 '엄지척' S펜은 '아쉬워' (테크M ─ 라이프)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=94330</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=94330</guid>
@@ -1117,14 +1125,6 @@
             <pubDate>Sat, 12 Feb 2022 10:21:00 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202202/94094_105564_4821_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['슈퍼볼'까지 접수한 쿠팡플레이...독점 생중계 (테크M ─ 라이프)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=94087</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=94087</guid>
-            <pubDate>Fri, 11 Feb 2022 08:20:12 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202202/94087_105545_1110_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[글로벌] 스페이스X 우주여행 '폴라리스' 베일 벗었다...민간 우주유영 도전 (테크M ─ 리포트)]]></title>
@@ -1290,7 +1290,7 @@
             <title><![CDATA[[카드뉴스] 콘텐츠 강자 디즈니, 메타버스 사업 진출...디즈니랜드 메타버스 올라타나 (테크M ─ 보는 뉴스)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=94343</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=94343</guid>
-            <pubDate>Fri, 18 Feb 2022 06:25:03 GMT</pubDate>
+            <pubDate>Fri, 18 Feb 2022 06:23:20 GMT</pubDate>
             <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202202/94343_106024_727_v150.jpg" length="0" type="image/jpg"/>
         </item>

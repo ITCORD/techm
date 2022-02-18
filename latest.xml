@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Feb 2022 06:25:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Feb 2022 07:19:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[테크M 이슈] "커피 프랜차이즈는 유통?" 스타벅스=테크 플랫폼]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=94347</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=94347</guid>
+            <pubDate>Fri, 18 Feb 2022 07:17:29 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202202/94347_106038_5931_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 콘텐츠 강자 디즈니, 메타버스 사업 진출...디즈니랜드 메타버스 올라타나]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=94343</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 17 Feb 2022 10:19:40 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202202/94327_105994_40_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LG전자-카카오, NFT 동맹...LG TV에 카카오 '클립드롭스' 탑재]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=94326</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=94326</guid>
-            <pubDate>Thu, 17 Feb 2022 10:19:40 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202202/94326_105993_5634_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
