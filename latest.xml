@@ -4,7 +4,7 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Feb 2022 09:19:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Feb 2022 10:22:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -56,6 +56,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202202/94346_106033_033_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[대선 공약 돋보기] ⑤李 "유니콘 100개 양성" vs 尹 "스케일업 지원"...나란히 벤처업계에 '러브콜']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=94095</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=94095</guid>
+            <pubDate>Fri, 18 Feb 2022 10:20:24 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202202/94095_106051_2837_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[국민서비스 자리잡은 당근마켓...서비스 장애에 시민들 '발동동']]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=94344</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=94344</guid>
@@ -85,7 +93,7 @@
             <guid>https://www.techm.kr/news/articleView.html?idxno=94332</guid>
             <pubDate>Fri, 18 Feb 2022 00:24:00 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202202/94332_106045_328_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202202/94332_106011_4314_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["콘텐츠로 월수익 1000만원"...네이버가 작심하고 만든 '이것']]></title>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 18 Feb 2022 09:58:00 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202202/94335_106014_5520_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NFT 총력전 선언한 카카오...'이더리움'에 대문 활짝 열었다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=94329</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=94329</guid>
-            <pubDate>Thu, 17 Feb 2022 10:19:40 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202202/94329_106048_3253_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
