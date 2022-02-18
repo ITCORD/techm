@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Feb 2022 04:25:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Feb 2022 05:18:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[넷플릭스식 '네이버' 유튜브식 '카카오'...유료 콘텐츠 '大戰']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=94342</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=94342</guid>
+            <pubDate>Fri, 18 Feb 2022 05:16:26 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202202/94342_106022_2816_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[물적분할 머뭇대는 CJ ENM, 티빙 먼저 키운다...2500억 유치]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=94341</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 17 Feb 2022 07:18:16 GMT</pubDate>
             <content:encoded><![CDATA[김현기 대표]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202202/94321_105983_3914_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[글로벌] '연이은 악재' 메타, 새로운 기업 비전 공개...공동체 의식으로 내실 강화]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=94320</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=94320</guid>
-            <pubDate>Thu, 17 Feb 2022 07:18:16 GMT</pubDate>
-            <content:encoded><![CDATA[김현기 대표]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202202/94320_105984_3935_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
