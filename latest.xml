@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Feb 2022 03:21:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Feb 2022 04:26:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[테크M 이슈] '16년째 1위' 삼성 TV, 올해도 괜찮은거 맞죠?]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=94394</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=94394</guid>
+            <pubDate>Mon, 21 Feb 2022 00:36:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202202/94394_106135_1443_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[LG 스마트 TV로 디지털 아트 감상한다...그라운드X '드롭스 갤러리' 출시]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=94393</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 21 Feb 2022 09:47:00 GMT</pubDate>
             <content:encoded><![CDATA[김경영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202202/94377_106117_3157_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[최태원, SKT 회장 겸직...AI-디지털 혁신 사업 진두지휘]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=94374</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=94374</guid>
-            <pubDate>Mon, 21 Feb 2022 09:30:00 GMT</pubDate>
-            <content:encoded><![CDATA[김경영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202202/94374_106114_1952_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

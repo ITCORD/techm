@@ -4,9 +4,17 @@
         <title>테크M ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Feb 2022 03:21:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Feb 2022 04:26:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[테크M 이슈] '16년째 1위' 삼성 TV, 올해도 괜찮은거 맞죠?]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=94394</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=94394</guid>
+            <pubDate>Mon, 21 Feb 2022 00:36:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202202/94394_106135_1443_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["친환경 입는다"...현대백화점, 100% 재생용지 쇼핑백 도입한다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=94388</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 15 Feb 2022 11:02:00 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202202/94187_105724_568_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쿠팡플레이, 월드컵에 도전하는 농구 대표팀 경기 독점 생중계]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=94168</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=94168</guid>
-            <pubDate>Tue, 15 Feb 2022 09:32:00 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202202/94168_105705_2455_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

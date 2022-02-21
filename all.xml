@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Feb 2022 03:21:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Feb 2022 04:26:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[테크M 이슈] '16년째 1위' 삼성 TV, 올해도 괜찮은거 맞죠? (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=94394</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=94394</guid>
+            <pubDate>Mon, 21 Feb 2022 00:36:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202202/94394_106135_1443_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[LG 스마트 TV로 디지털 아트 감상한다...그라운드X '드롭스 갤러리' 출시 (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=94393</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 21 Feb 2022 09:47:00 GMT</pubDate>
             <content:encoded><![CDATA[김경영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202202/94377_106117_3157_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[최태원, SKT 회장 겸직...AI-디지털 혁신 사업 진두지휘 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=94374</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=94374</guid>
-            <pubDate>Mon, 21 Feb 2022 09:30:00 GMT</pubDate>
-            <content:encoded><![CDATA[김경영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202202/94374_106114_1952_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[8주년 코인원, 회원수 226만·누적거래액 382조원...개발 전문성에 집중한다 (테크M ─ 콘텐츠)]]></title>
@@ -968,6 +968,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202201/93548_104599_423_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[테크M 이슈] '16년째 1위' 삼성 TV, 올해도 괜찮은거 맞죠? (테크M ─ 라이프)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=94394</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=94394</guid>
+            <pubDate>Mon, 21 Feb 2022 00:36:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202202/94394_106135_1443_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA["친환경 입는다"...현대백화점, 100% 재생용지 쇼핑백 도입한다 (테크M ─ 라이프)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=94388</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=94388</guid>
@@ -1118,14 +1126,6 @@
             <pubDate>Tue, 15 Feb 2022 11:02:00 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202202/94187_105724_568_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쿠팡플레이, 월드컵에 도전하는 농구 대표팀 경기 독점 생중계 (테크M ─ 라이프)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=94168</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=94168</guid>
-            <pubDate>Tue, 15 Feb 2022 09:32:00 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202202/94168_105705_2455_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[글로벌] 구글도 개인정보 보호 강화..."페이스북 등 매출 악영향 예상" (테크M ─ 리포트)]]></title>
