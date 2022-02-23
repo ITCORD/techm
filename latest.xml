@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Feb 2022 09:18:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Feb 2022 10:21:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[신세계아이앤씨, 부산시와 소프트웨어 인재 양성 나선다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=94503</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=94503</guid>
+            <pubDate>Wed, 23 Feb 2022 10:20:08 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202202/94503_106348_222_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["게임위 사행성 범위 너무 넓다...경품 지급 조항도 문제"...P2E 가이드라인 토론회]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=94501</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 23 Feb 2022 10:32:00 GMT</pubDate>
             <content:encoded><![CDATA[김가은 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202202/94480_106286_2745_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[왓챠, HBO맥스 신작 '스테이션 일레븐' 독점 공개]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=94478</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=94478</guid>
-            <pubDate>Wed, 23 Feb 2022 10:32:00 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202202/94478_106285_2111_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

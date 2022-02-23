@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Feb 2022 09:18:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Feb 2022 10:21:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[신세계아이앤씨, 부산시와 소프트웨어 인재 양성 나선다 (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=94503</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=94503</guid>
+            <pubDate>Wed, 23 Feb 2022 10:20:08 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202202/94503_106348_222_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["게임위 사행성 범위 너무 넓다...경품 지급 조항도 문제"...P2E 가이드라인 토론회 (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=94501</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 23 Feb 2022 10:32:00 GMT</pubDate>
             <content:encoded><![CDATA[김가은 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202202/94480_106286_2745_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[왓챠, HBO맥스 신작 '스테이션 일레븐' 독점 공개 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=94478</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=94478</guid>
-            <pubDate>Wed, 23 Feb 2022 10:32:00 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202202/94478_106285_2111_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[노블레스·마음의소리·외모지상주의...네이버웹툰 '히트작' 게임으로 나온다 (테크M ─ 콘텐츠)]]></title>
@@ -328,6 +328,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202202/94418_106192_172_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[신세계아이앤씨, 부산시와 소프트웨어 인재 양성 나선다 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=94503</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=94503</guid>
+            <pubDate>Wed, 23 Feb 2022 10:20:36 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202202/94503_106348_222_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[써봤다] 갤럭시 헤어지지 못하는 여자, 아이폰 떠나가지 못하는 남자 (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=94498</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=94498</guid>
@@ -480,18 +488,10 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202202/94454_106248_4255_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[주주환원 앞세운 하이브 "연평균 50% 성장...자사주 매입·배당 등 고려" (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=94458</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=94458</guid>
-            <pubDate>Tue, 22 Feb 2022 08:22:33 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202202/94458_106252_195_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA["게임위 사행성 범위 너무 넓다...경품 지급 조항도 문제"...P2E 가이드라인 토론회 (테크M ─ 이노베이션)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=94501</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=94501</guid>
-            <pubDate>Wed, 23 Feb 2022 09:17:17 GMT</pubDate>
+            <pubDate>Wed, 23 Feb 2022 09:16:28 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202202/94501_106334_401_v150.jpg" length="0" type="image/jpg"/>
         </item>
