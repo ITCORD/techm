@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Feb 2022 11:16:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Feb 2022 12:33:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[코인 '빅5' 체제 띄운 고팍스, KB인베로부터 100억원 유치]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=94504</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=94504</guid>
+            <pubDate>Wed, 23 Feb 2022 12:30:58 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202202/94504_106349_114_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[신세계아이앤씨, 부산시와 소프트웨어 인재 양성 나선다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=94503</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 23 Feb 2022 10:49:00 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202202/94479_106287_3414_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["北, 외교·안보·국방 전문가 노린다"…이스트시큐리티, 해킹 시도 다수 확인]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=94480</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=94480</guid>
-            <pubDate>Wed, 23 Feb 2022 10:32:00 GMT</pubDate>
-            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202202/94480_106286_2745_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
