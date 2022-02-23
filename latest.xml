@@ -4,9 +4,25 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Feb 2022 03:21:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Feb 2022 04:24:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[보라인가, 위믹스인가...'오딘' 김재영의 선택은?]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=94491</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=94491</guid>
+            <pubDate>Wed, 23 Feb 2022 04:23:04 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202202/94491_106307_3348_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['양자기술'에 빠진 통신3사...'안전한 통신망' 위해 경쟁력 강화 나섰다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=94489</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=94489</guid>
+            <pubDate>Wed, 23 Feb 2022 00:23:00 GMT</pubDate>
+            <content:encoded><![CDATA[김경영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202202/94489_106302_20_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[美 등판 앞둔 위메이드 위믹스, 첫 소각 나섰다...1300억원 규모]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=94490</link>
@@ -150,22 +166,6 @@
             <pubDate>Wed, 23 Feb 2022 09:45:00 GMT</pubDate>
             <content:encoded><![CDATA[김경영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202202/94468_106274_3622_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["ESG 경영 실천" KT, 지역사랑 고향愛 팔도장터 개최]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=94469</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=94469</guid>
-            <pubDate>Wed, 23 Feb 2022 09:44:00 GMT</pubDate>
-            <content:encoded><![CDATA[김경영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202202/94469_106275_421_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[엘리스, IT 개발자 올인원 채용 플랫폼 '엘리스웍스' 선보인다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=94467</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=94467</guid>
-            <pubDate>Wed, 23 Feb 2022 09:30:00 GMT</pubDate>
-            <content:encoded><![CDATA[김경영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202202/94467_106273_232_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>테크M ─ 콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Feb 2022 03:21:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Feb 2022 04:24:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[보라인가, 위믹스인가...'오딘' 김재영의 선택은?]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=94491</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=94491</guid>
+            <pubDate>Wed, 23 Feb 2022 04:23:17 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202202/94491_106307_3348_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[엔씨소프트, 리니지W에 첫 대규모 업데이트...신규 영지 '아덴' 등장]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=94488</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 22 Feb 2022 05:16:52 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202202/94420_106191_1333_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[8주년 코인원, 회원수 226만·누적거래액 382조원...개발 전문성에 집중한다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=94386</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=94386</guid>
-            <pubDate>Mon, 21 Feb 2022 10:38:00 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202202/94386_106126_1820_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
