@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 26 Feb 2022 14:21:43 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Feb 2022 15:20:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[배그 토크 콘서트] 이엠텍 '제프로카' 최승영 "잘 견뎌준 동료들 덕분에 승리" (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=94607</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=94607</guid>
+            <pubDate>Sat, 26 Feb 2022 15:18:25 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202202/94607_106528_5325_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[PWS] 다섯 매치동안 59킬 쓸어 담았다...이엠텍, 1일차 압도적 선두 등극 (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=94606</link>
@@ -160,18 +168,10 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202202/94583_106488_1520_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[윈스, 김보연 대표이사 체제로 전환…"김대연 대표 일신상 사유로 사임" (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=94581</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=94581</guid>
-            <pubDate>Fri, 25 Feb 2022 06:26:29 GMT</pubDate>
-            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202202/94581_106486_755_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[PWS] 다섯 매치동안 59킬 쓸어 담았다...이엠텍, 1일차 압도적 선두 등극 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=94606</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=94606</guid>
-            <pubDate>Sat, 26 Feb 2022 14:19:34 GMT</pubDate>
+            <pubDate>Sat, 26 Feb 2022 14:19:15 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202202/94606_106526_4956_v150.jpg" length="0" type="image/jpg"/>
         </item>
@@ -952,6 +952,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202202/94321_105978_162_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[배그 토크 콘서트] 이엠텍 '제프로카' 최승영 "잘 견뎌준 동료들 덕분에 승리" (테크M ─ 보는 뉴스)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=94607</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=94607</guid>
+            <pubDate>Sat, 26 Feb 2022 15:20:22 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202202/94607_106528_5325_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[카드뉴스] 네이버제트, 메타버스 생태계 무한확장...미국·싱가포르에 전략적 투자 (테크M ─ 보는 뉴스)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=94578</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=94578</guid>
@@ -1054,14 +1062,6 @@
             <pubDate>Tue, 15 Feb 2022 11:34:00 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202202/94192_105735_2739_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[게임코인TV] 발행량 이슈는 정말 괜찮을까, 보라의 첫 블록체인 게임은?...보라 2.0 전망 (상) (테크M ─ 보는 뉴스)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=94191</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=94191</guid>
-            <pubDate>Tue, 15 Feb 2022 11:24:00 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202202/94191_105732_2321_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
