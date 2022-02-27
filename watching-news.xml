@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Feb 2022 14:19:47 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Feb 2022 16:27:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[배그 토크 콘서트] 나 혼자 28킬, 미친 화력 보여준 이엠텍 '데바' 이성도]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=94619</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=94619</guid>
+            <pubDate>Sun, 27 Feb 2022 16:27:06 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202202/94619_106560_2133_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[배그 토크 콘서트] 이엠텍 '제프로카' 최승영 "잘 견뎌준 동료들 덕분에 승리"]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=94607</link>
@@ -110,14 +118,6 @@
             <pubDate>Tue, 15 Feb 2022 06:23:37 GMT</pubDate>
             <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202202/94197_105744_5157_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[게임코인TV] 송재경의 '아키월드'를 기대하는 이유, 보라는 오를까?...보라 2.0 전망 (하)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=94192</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=94192</guid>
-            <pubDate>Tue, 15 Feb 2022 11:34:00 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202202/94192_105735_2739_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
