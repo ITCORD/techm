@@ -4,7 +4,7 @@
         <title>테크M ─ 인베스트먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Feb 2022 08:29:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Feb 2022 09:22:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -72,14 +72,6 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202202/94630_106580_043_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[테크M 이슈] 위믹스 다음은 실더리움? 위메이드 플랫폼 굴기 빛났다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=94631</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=94631</guid>
-            <pubDate>Mon, 28 Feb 2022 10:03:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202202/94631_106652_2536_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[위메이드맥스 'ROS' 가상자산 '실더리움', 일 거래액 5억...흥행 '청신호']]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=94614</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=94614</guid>
@@ -93,7 +85,7 @@
             <guid>https://www.techm.kr/news/articleView.html?idxno=94602</guid>
             <pubDate>Sat, 26 Feb 2022 11:24:00 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202202/94602_106545_354_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202202/94602_106518_539_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[위메이드, 위믹스 첫 소각 완료....2000만개 태웠다]]></title>
@@ -118,6 +110,14 @@
             <pubDate>Fri, 25 Feb 2022 10:02:00 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202202/94561_106451_562_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[업비트, 내달 25일부터 가상자산 입출금 방식 변경...트래블룰 이행 예고]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=94555</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=94555</guid>
+            <pubDate>Mon, 28 Feb 2022 09:21:37 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202202/94555_106443_5858_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
