@@ -4,16 +4,32 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Mar 2022 13:24:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Mar 2022 15:22:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[화웨이 펑 송 사장 "디지털화라는 열차는 그 무엇도 막을 수 없다"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=94695</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=94695</guid>
+            <pubDate>Tue, 01 Mar 2022 15:20:12 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202203/94695_106705_552_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[벤처기업협회 "故 김정주, 벤처산업 이끈 선구자이자 진정한 벤처기업인"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=94694</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=94694</guid>
+            <pubDate>Tue, 01 Mar 2022 15:20:12 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202203/94694_106704_4758_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이정헌 넥슨코리아 대표 "나의 멘토, 모두가 그를 기억할 것"]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=94692</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=94692</guid>
             <pubDate>Tue, 01 Mar 2022 13:22:43 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202203/94692_106701_756_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202203/94692_106702_1416_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[영면에 든 게임왕 김정주...'일생의 라이벌' 김택진도 울었다]]></title>
@@ -150,22 +166,6 @@
             <pubDate>Tue, 01 Mar 2022 09:07:00 GMT</pubDate>
             <content:encoded><![CDATA[김경영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202203/94673_106664_3812_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유영상 SKT "메타버스 AI반도체 양자암호로 글로벌 ICT 판 다시 짠다"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=94672</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=94672</guid>
-            <pubDate>Tue, 01 Mar 2022 09:05:00 GMT</pubDate>
-            <content:encoded><![CDATA[김경영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202203/94672_106693_3623_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LGU+ "전국 우체국에서 상담 받고 알뜰폰 가입하세요"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=94669</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=94669</guid>
-            <pubDate>Tue, 01 Mar 2022 09:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[김경영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202202/94669_106657_451_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
