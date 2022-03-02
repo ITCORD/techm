@@ -4,11 +4,19 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Mar 2022 10:22:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Mar 2022 11:19:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[[테크M 이슈] 같은 '갤S22'인데 이렇게 성능 떨어진다?...삼성전자의 아픈손가락 된 '엑시노스']]></title>
+            <title><![CDATA[고팍스, 러시아 IP 차단...러시아 국적 고객 계정 동결]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=94756</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=94756</guid>
+            <pubDate>Wed, 02 Mar 2022 11:16:41 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202203/94756_106811_3510_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[테크M 이슈] 같은 '갤S22'인데 성능 떨어진다?...삼성전자의 아픈손가락 된 '엑시노스']]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=94754</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=94754</guid>
             <pubDate>Wed, 02 Mar 2022 10:20:33 GMT</pubDate>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 02 Mar 2022 05:17:01 GMT</pubDate>
             <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202203/94736_106753_5526_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국디지털에셋, 쟁글과 맞손...가상자산 공시 강화해 투자자 보호한다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=94734</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=94734</guid>
-            <pubDate>Wed, 02 Mar 2022 05:17:01 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202203/94734_106751_4853_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
