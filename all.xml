@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Mar 2022 12:32:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Mar 2022 13:25:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["사이버 안보 위협, '복원력' 중심의 전략적 대비 필요" (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=94757</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=94757</guid>
+            <pubDate>Wed, 02 Mar 2022 13:23:10 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202203/94757_106815_5254_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[고팍스, 러시아 IP 차단...러시아 국적 고객 계정 동결 (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=94756</link>
@@ -160,14 +168,6 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202203/94739_106765_1038_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[카드뉴스] 베스핀글로벌테크센터-모던토이, 메타버스 플랫폼 개발 '맞손' (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=94736</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=94736</guid>
-            <pubDate>Wed, 02 Mar 2022 05:17:01 GMT</pubDate>
-            <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202203/94736_106753_5526_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[테크M 이슈] "역시 뮤 오리진" 작은거인 웹젠, 검증된 IP로 3연타석 홈런 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=94747</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=94747</guid>
@@ -280,6 +280,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202202/94636_106589_3739_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA["사이버 안보 위협, '복원력' 중심의 전략적 대비 필요" (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=94757</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=94757</guid>
+            <pubDate>Wed, 02 Mar 2022 13:23:50 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202203/94757_106815_5254_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[테크M 이슈] 같은 '갤S22'인데 성능 떨어진다?...삼성전자의 아픈손가락 된 '엑시노스' (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=94754</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=94754</guid>
@@ -382,14 +390,6 @@
             <pubDate>Wed, 02 Mar 2022 11:20:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202203/94719_106735_1921_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[구현모 KT "MWC서 디지코의 길 맞다는 확신"...고객 삶 바꾸고 다른 기업 혁신 돕는다 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=94698</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=94698</guid>
-            <pubDate>Wed, 02 Mar 2022 11:17:00 GMT</pubDate>
-            <content:encoded><![CDATA[김경영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202203/94698_106806_3817_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[고팍스, 러시아 IP 차단...러시아 국적 고객 계정 동결 (테크M ─ 이노베이션)]]></title>

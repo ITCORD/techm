@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Mar 2022 12:32:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Mar 2022 13:25:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["사이버 안보 위협, '복원력' 중심의 전략적 대비 필요"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=94757</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=94757</guid>
+            <pubDate>Wed, 02 Mar 2022 13:23:10 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202203/94757_106815_5254_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[고팍스, 러시아 IP 차단...러시아 국적 고객 계정 동결]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=94756</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 02 Mar 2022 05:17:01 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202203/94739_106765_1038_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 베스핀글로벌테크센터-모던토이, 메타버스 플랫폼 개발 '맞손']]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=94736</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=94736</guid>
-            <pubDate>Wed, 02 Mar 2022 05:17:01 GMT</pubDate>
-            <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202203/94736_106753_5526_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
