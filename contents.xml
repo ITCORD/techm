@@ -4,9 +4,17 @@
         <title>테크M ─ 콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Mar 2022 23:21:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Mar 2022 01:15:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["2022 'KBO 리그' 전경기, 웨이브로 관람하세요"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=94701</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=94701</guid>
+            <pubDate>Wed, 02 Mar 2022 09:51:00 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202203/94701_106714_4511_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[유통가도 NFT 홀릭...'더현대 서울'에 메타콩즈 등장한 사연]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=94681</link>
@@ -110,14 +118,6 @@
             <pubDate>Sat, 26 Feb 2022 06:30:00 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202202/94579_106479_3252_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스마일게이트, 버추얼 아티스트 한유아 데뷔곡 'I Like That' 뮤비 티져 공개]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=94590</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=94590</guid>
-            <pubDate>Fri, 25 Feb 2022 08:21:47 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202202/94590_106501_125_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
