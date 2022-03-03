@@ -4,9 +4,25 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Mar 2022 01:16:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Mar 2022 02:46:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[테크M 이슈] 삼성전자 '갤럭시 S22' 성능 속였다?...'GOS 게이트' 논란 가열]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=94783</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=94783</guid>
+            <pubDate>Thu, 03 Mar 2022 11:30:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202203/94783_106845_1828_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[전국 공항 품은 티맵 주차…하반기 김포부터 순차 적용]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=94780</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=94780</guid>
+            <pubDate>Thu, 03 Mar 2022 11:06:00 GMT</pubDate>
+            <content:encoded><![CDATA[김경영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202203/94780_106841_139_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[LG CNS, 5G 특화망 신청…"스마트팩토리에 5G 기술 접목"]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=94774</link>
@@ -102,22 +118,6 @@
             <pubDate>Wed, 02 Mar 2022 13:23:50 GMT</pubDate>
             <content:encoded><![CDATA[김가은 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202203/94757_106815_5254_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[테크M 이슈] 같은 '갤S22'인데 성능 떨어진다?...삼성전자의 아픈손가락 된 '엑시노스']]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=94754</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=94754</guid>
-            <pubDate>Wed, 02 Mar 2022 10:21:05 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202203/94754_106798_269_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전세계 홀린 SKT 메타버스 기술...MWC 주최한 GSMA도 반했다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=94752</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=94752</guid>
-            <pubDate>Wed, 02 Mar 2022 10:21:05 GMT</pubDate>
-            <content:encoded><![CDATA[김경영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202203/94752_106797_5637_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
