@@ -4,9 +4,17 @@
         <title>테크M ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Mar 2022 01:23:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Mar 2022 02:46:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[문재인 대통령, 故 김정주 넥슨 창업주에 조전...애도 표해]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=94839</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=94839</guid>
+            <pubDate>Fri, 04 Mar 2022 10:50:00 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202203/94839_106953_4948_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[티몬, 구글 출신 황태현 신임 CTO 선임]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=94816</link>
@@ -110,14 +118,6 @@
             <pubDate>Wed, 02 Mar 2022 00:02:00 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202203/94721_106804_3742_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방준혁 넷마블 의장도 애도..."김정주 넥슨 창업주, 한국 게임 산업 발전에 지대한 공헌"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=94725</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=94725</guid>
-            <pubDate>Wed, 02 Mar 2022 11:53:00 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202203/94725_106743_515_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
