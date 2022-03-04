@@ -4,9 +4,25 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Mar 2022 10:23:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Mar 2022 11:17:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성전자 'GOS 논란' 해명…"일반 앱 성능 제한, 벤치마크 조작 모두 사실 아니다"(종합)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=94860</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=94860</guid>
+            <pubDate>Fri, 04 Mar 2022 11:15:56 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202203/94860_107004_042_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["GOS, 게임 외 앱에 영향 없다" 삼성전자, GOS 논란 해명 나섰다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=94858</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=94858</guid>
+            <pubDate>Fri, 04 Mar 2022 11:15:56 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202203/94858_107003_3611_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[현대오토에버, 데이터센터 에너지 효율성 개선으로 우수사업장 선정]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=94834</link>
@@ -102,22 +118,6 @@
             <pubDate>Fri, 04 Mar 2022 10:03:00 GMT</pubDate>
             <content:encoded><![CDATA[김경영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202203/94823_106935_5325_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[KT-전국KT대리점협의회, 우수 대리점 양성 협력 '맞손']]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=94817</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=94817</guid>
-            <pubDate>Fri, 04 Mar 2022 10:01:00 GMT</pubDate>
-            <content:encoded><![CDATA[김경영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202203/94817_106928_4221_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SKT, AI 스피커 기반 어르신 노쇠 예방 시범사업 추진한다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=94815</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=94815</guid>
-            <pubDate>Fri, 04 Mar 2022 10:01:00 GMT</pubDate>
-            <content:encoded><![CDATA[김경영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202203/94815_106929_4745_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
