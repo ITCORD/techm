@@ -4,9 +4,17 @@
         <title>테크M ─ 콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Mar 2022 05:21:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Mar 2022 07:20:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['비욘드 코리아' 꿈꾸는 카카오, 우크라이나에 '클레이'로 기부]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=94851</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=94851</guid>
+            <pubDate>Fri, 04 Mar 2022 07:18:03 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202203/94851_106983_053_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['사내맞선' 넷플릭스 글로벌 9위...카카오엔터 원작 웹툰·웹소설 인기 '껑충']]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=94838</link>
@@ -110,14 +118,6 @@
             <pubDate>Wed, 02 Mar 2022 05:17:20 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202203/94733_106750_4127_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[더 샌드박스, 큐브엔터테인먼트와 파트너십...K컬쳐 문화공간 만든다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=94729</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=94729</guid>
-            <pubDate>Wed, 02 Mar 2022 05:17:20 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202203/94729_106746_2915_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
