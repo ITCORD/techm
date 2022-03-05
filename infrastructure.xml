@@ -4,9 +4,17 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 05 Mar 2022 21:18:27 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Mar 2022 22:21:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[고조되는 사이버 안보 위협에 보안 기업들 '주목']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=94856</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=94856</guid>
+            <pubDate>Sun, 06 Mar 2022 07:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202203/94856_106991_5249_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김범수와 이해진이 '접속'했던 유니텔, 오는 6월 문 닫는다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=94885</link>
@@ -110,14 +118,6 @@
             <pubDate>Fri, 04 Mar 2022 11:41:00 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202203/94841_106954_2327_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[IBM, 차세대 플래시 스토리지 '사이버 볼트' 출시…랜섬웨어 등 사이버 공격 탐지 및 복구 지원]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=94826</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=94826</guid>
-            <pubDate>Fri, 04 Mar 2022 11:27:00 GMT</pubDate>
-            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202203/94826_106939_121_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
