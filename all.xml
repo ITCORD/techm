@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 06 Mar 2022 14:19:26 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Mar 2022 15:20:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[배그 토크 콘서트] 다나와 '살루트' 우제현 "연속 우승하기 어려워...우리가 해내겠다" (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=94896</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=94896</guid>
+            <pubDate>Sun, 06 Mar 2022 15:18:35 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202203/94896_107077_5828_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[PWS] 2일차 치킨 획득한 다나와...담원-젠지 추격 뿌리치고 우승 (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=94895</link>
@@ -160,18 +168,10 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202203/94877_107038_1542_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[카트 통신] 깜짝 1위 등극한 팀GP-진땀승 거둔 블레이즈...이번 시즌 심상치 않다 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=94876</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=94876</guid>
-            <pubDate>Sat, 05 Mar 2022 12:28:02 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202203/94876_107035_572_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[PWS] 2일차 치킨 획득한 다나와...담원-젠지 추격 뿌리치고 우승 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=94895</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=94895</guid>
-            <pubDate>Sun, 06 Mar 2022 14:17:22 GMT</pubDate>
+            <pubDate>Sun, 06 Mar 2022 14:17:05 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202203/94895_107075_492_v150.jpg" length="0" type="image/jpg"/>
         </item>
@@ -179,7 +179,7 @@
             <title><![CDATA[[LCK 브리핑] T1, 단일 스플릿 최다 연승 '타이' 기록...사실상 1위 확정 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=94894</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=94894</guid>
-            <pubDate>Sun, 06 Mar 2022 14:17:22 GMT</pubDate>
+            <pubDate>Sun, 06 Mar 2022 14:17:05 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202203/94894_107069_128_v150.jpg" length="0" type="image/jpg"/>
         </item>
@@ -952,6 +952,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202202/94546_106422_309_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[배그 토크 콘서트] 다나와 '살루트' 우제현 "연속 우승하기 어려워...우리가 해내겠다" (테크M ─ 보는 뉴스)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=94896</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=94896</guid>
+            <pubDate>Sun, 06 Mar 2022 15:20:48 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202203/94896_107077_5828_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[카드뉴스] 메타버스 투어, 5초만에 MWC 전시관 도착...이것이 진정한 '신세계' (테크M ─ 보는 뉴스)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=94846</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=94846</guid>
@@ -1054,14 +1062,6 @@
             <pubDate>Tue, 22 Feb 2022 05:16:38 GMT</pubDate>
             <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202202/94432_106211_4357_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[게임코인TV] 위믹스 가격전망? 위메이드 '인터게임 이코노미'는 무엇?...논란의 끝판왕 위메이드 (하) (테크M ─ 보는 뉴스)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=94408</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=94408</guid>
-            <pubDate>Mon, 21 Feb 2022 08:21:50 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202202/94408_106170_5518_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
