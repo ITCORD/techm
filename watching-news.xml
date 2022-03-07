@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Mar 2022 02:42:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2022 06:26:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 메타버스 수업, 네이버 웨일 스페이스에서...메타버스 플랫폼 젭(ZEP) 연동]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=94931</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=94931</guid>
+            <pubDate>Mon, 07 Mar 2022 06:26:45 GMT</pubDate>
+            <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202203/94931_107118_4744_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[배그 토크 콘서트] 다나와 '살루트' 우제현 "연속 우승하기 어려워...우리가 해내겠다"]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=94896</link>
@@ -110,14 +118,6 @@
             <pubDate>Wed, 23 Feb 2022 06:24:15 GMT</pubDate>
             <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202202/94493_106310_4759_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 통신3사, 세계 최대 이동통신 전시회 'MWC 2022' 출격]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=94432</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=94432</guid>
-            <pubDate>Tue, 22 Feb 2022 05:18:31 GMT</pubDate>
-            <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202202/94432_106211_4357_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
