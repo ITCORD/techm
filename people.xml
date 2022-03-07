@@ -4,9 +4,17 @@
         <title>테크M ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 06 Mar 2022 23:21:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2022 01:13:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[지니뮤직, 김준수와 함께 사랑의열매에 1000만원 기부]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=94913</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=94913</guid>
+            <pubDate>Mon, 07 Mar 2022 09:55:00 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202203/94913_107097_4715_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[e스포츠人] '렌바' 서재영 "동료들 믿는다...실수 줄여 1위 사수할 것"]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=94882</link>
@@ -110,14 +118,6 @@
             <pubDate>Thu, 03 Mar 2022 09:00:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202203/94755_106912_1644_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[기자수첩] 사람 찾아 글로벌 누빈 '게임왕', '어린이' 위해 고민했던 김정주를 추억하며]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=94751</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=94751</guid>
-            <pubDate>Wed, 02 Mar 2022 10:21:52 GMT</pubDate>
-            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202203/94751_106783_17_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
