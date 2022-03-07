@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Mar 2022 09:25:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2022 10:23:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[롯데렌탈, 쏘카 3대 주주 오른다...지분 13.9% 인수 (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=94948</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=94948</guid>
+            <pubDate>Mon, 07 Mar 2022 10:21:07 GMT</pubDate>
+            <content:encoded><![CDATA[김경영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202203/94948_107162_2042_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[윤종영의 IT로 보는 세상] 최고의 팀은 무엇이 다른가 (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=94946</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 07 Mar 2022 06:24:06 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202203/94928_107115_4621_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LG전자, 국내 최대 용량 '통돌이 세탁기' 출시 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=94927</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=94927</guid>
-            <pubDate>Mon, 07 Mar 2022 06:24:06 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202203/94927_107114_4041_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[테크M 이슈] '게임천재' 모으는 카카오게임즈, 김재영 이어 반승철-김희재-이건 띄운다 (테크M ─ 콘텐츠)]]></title>
@@ -392,6 +392,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202203/94899_107081_1512_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[롯데렌탈, 쏘카 3대 주주 오른다...지분 13.9% 인수 (테크M ─ 이노베이션)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=94948</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=94948</guid>
+            <pubDate>Mon, 07 Mar 2022 10:22:09 GMT</pubDate>
+            <content:encoded><![CDATA[김경영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202203/94948_107162_2042_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['위믹스호' 글로벌 향해 출항...첫 목적지는 美 샌프란시스코 'GDC' (테크M ─ 이노베이션)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=94945</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=94945</guid>
@@ -494,14 +502,6 @@
             <pubDate>Fri, 04 Mar 2022 10:36:00 GMT</pubDate>
             <content:encoded><![CDATA[김경영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202203/94831_106943_189_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[당근마켓서 '우리 동네 투표소' 찾는다 (테크M ─ 이노베이션)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=94819</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=94819</guid>
-            <pubDate>Fri, 04 Mar 2022 09:58:00 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202203/94819_106931_4912_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[수수료 올리는 카카오 그라운드X...돈 버는 '블록체인 시대' 연다 (테크M ─ 인베스트먼트)]]></title>
