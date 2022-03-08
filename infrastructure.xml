@@ -4,9 +4,25 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Mar 2022 04:27:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Mar 2022 05:19:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[대선 뉴스도 역시 유튜브?...정보 탐색서 '구글·카톡' 앞지른다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=94980</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=94980</guid>
+            <pubDate>Tue, 08 Mar 2022 05:17:25 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202203/94980_107200_4859_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[테크M 이슈] 테크플랫폼 '티몬'...입점사는 팬덤, 소비자는 코인, 직원은 DAO-메타버스]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=94982</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=94982</guid>
+            <pubDate>Tue, 08 Mar 2022 05:17:25 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202203/94982_107211_348_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[삼성전자 갤럭시 'GOS 논란' 일파만파…집단소송에 공정위 조사로 번지나]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=94977</link>
@@ -102,22 +118,6 @@
             <pubDate>Mon, 07 Mar 2022 07:19:21 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202203/94943_107156_529_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정삼용 시큐아이 대표 "'블루맥스 IPS'로 침입방지시스템 시장 1위 도약할 것"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=94941</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=94941</guid>
-            <pubDate>Mon, 07 Mar 2022 07:19:21 GMT</pubDate>
-            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202203/94941_107157_556_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[프로비트, 법무법인 광장과 맞손...AML 역량 키운다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=94944</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=94944</guid>
-            <pubDate>Mon, 07 Mar 2022 07:19:21 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202203/94944_107147_1113_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

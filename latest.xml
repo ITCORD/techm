@@ -4,9 +4,25 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Mar 2022 04:27:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Mar 2022 05:19:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[대선 뉴스도 역시 유튜브?...정보 탐색서 '구글·카톡' 앞지른다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=94980</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=94980</guid>
+            <pubDate>Tue, 08 Mar 2022 05:16:47 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202203/94980_107200_4859_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[테크M 이슈] 테크플랫폼 '티몬'...입점사는 팬덤, 소비자는 코인, 직원은 DAO-메타버스]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=94982</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=94982</guid>
+            <pubDate>Tue, 08 Mar 2022 05:16:47 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202203/94982_107211_348_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[삼성전자 갤럭시 'GOS 논란' 일파만파…집단소송에 공정위 조사로 번지나]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=94977</link>
@@ -150,22 +166,6 @@
             <pubDate>Tue, 08 Mar 2022 09:49:00 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202203/94960_107177_475_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쏘카에서 현대 '캐스퍼' 2시간 무료 시승해보세요]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=94959</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=94959</guid>
-            <pubDate>Tue, 08 Mar 2022 09:43:00 GMT</pubDate>
-            <content:encoded><![CDATA[김경영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202203/94959_107175_3648_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[카카오엔터프라이즈, 초거대AI·메타버스 진출...'퓨리오사AI'와 맞손]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=94958</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=94958</guid>
-            <pubDate>Tue, 08 Mar 2022 09:43:00 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202203/94958_107176_3838_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
