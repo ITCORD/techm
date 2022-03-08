@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Mar 2022 05:19:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Mar 2022 06:29:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 지상파3사, 대선 개표방송서 신기술 선보인다! 메타버스부터 AI까지...]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=94983</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=94983</guid>
+            <pubDate>Tue, 08 Mar 2022 06:29:06 GMT</pubDate>
+            <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202203/94983_107203_5824_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 메타버스 수업, 네이버 웨일 스페이스에서...메타버스 플랫폼 젭(ZEP) 연동]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=94931</link>
@@ -110,14 +118,6 @@
             <pubDate>Thu, 24 Feb 2022 05:19:58 GMT</pubDate>
             <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202202/94529_106380_1945_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 마인드로직, 메타버스 '오픈타운' 출시...AI 부캐가 친구 만들고 돈도 번다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=94493</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=94493</guid>
-            <pubDate>Wed, 23 Feb 2022 06:24:15 GMT</pubDate>
-            <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202202/94493_106310_4759_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
