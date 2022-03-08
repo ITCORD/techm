@@ -4,9 +4,25 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Mar 2022 09:20:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Mar 2022 10:23:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성전자, 지난해 시설투자 48조 '반도체 초호황기' 넘어섰다…R&D·직원수도 '역대 최대']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=95007</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=95007</guid>
+            <pubDate>Tue, 08 Mar 2022 10:21:07 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202203/95007_107256_4634_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[지난해 삼성전자 '보수 1위' 고동진 전 사장...118억원 타갔다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=95006</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=95006</guid>
+            <pubDate>Tue, 08 Mar 2022 10:21:07 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202203/95006_107255_265_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[네이버, 산불 피해 복구에 성금 15억원 기부…카카오는 13억 넘겨]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=95005</link>
@@ -150,22 +166,6 @@
             <pubDate>Tue, 08 Mar 2022 06:26:07 GMT</pubDate>
             <content:encoded><![CDATA[김경영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202203/94978_107199_859_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[대선 뉴스도 역시 유튜브?...정보 탐색서 '구글·카톡' 앞지른다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=94980</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=94980</guid>
-            <pubDate>Tue, 08 Mar 2022 05:16:47 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202203/94980_107200_4859_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[테크M 이슈] 테크플랫폼 '티몬'...입점사는 팬덤, 소비자는 코인, 직원은 DAO-메타버스]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=94982</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=94982</guid>
-            <pubDate>Tue, 08 Mar 2022 05:16:47 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202203/94982_107250_3834_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
