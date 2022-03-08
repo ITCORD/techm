@@ -4,9 +4,25 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Mar 2022 21:20:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Mar 2022 23:23:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[써봤다] 아날로그-디지털 융합 교육 고민, '플레도 AI 블록'으로 '해결']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=94884</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=94884</guid>
+            <pubDate>Wed, 09 Mar 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202203/94884_107047_1329_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[GSMA가 "CP들도 망 이용료 내라" 주장했지만...전문가들 "현실성 낮다"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=94981</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=94981</guid>
+            <pubDate>Wed, 09 Mar 2022 07:50:00 GMT</pubDate>
+            <content:encoded><![CDATA[김경영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202203/94981_107201_4935_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[애플 이벤트] 저가 제품부터 전문가용까지…'똑똑한 두뇌' 앞세운 애플(종합)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=95018</link>
@@ -150,22 +166,6 @@
             <pubDate>Tue, 08 Mar 2022 08:22:48 GMT</pubDate>
             <content:encoded><![CDATA[김경영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202203/94996_107229_285_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성전자 해킹에 전문가들 "소스코드 악용한 2차 피해 발생 가능성 높아"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=94995</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=94995</guid>
-            <pubDate>Tue, 08 Mar 2022 07:19:03 GMT</pubDate>
-            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202203/94995_107248_3759_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[글로벌로 나가는 스마일게이트, 북미 개발사 '포스트카드 게임 스튜디오'에 42억원 투자]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=94994</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=94994</guid>
-            <pubDate>Tue, 08 Mar 2022 07:19:03 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202203/94994_107226_3823_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
