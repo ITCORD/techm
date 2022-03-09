@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Mar 2022 21:18:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Mar 2022 22:21:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[테크M 리포트] 삼성전자 털리고, 구글 빅딜까지...올해 텐버거 '보안'에서 나온다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=95027</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=95027</guid>
+            <pubDate>Thu, 10 Mar 2022 06:30:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202203/95027_107292_2257_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[윤석열 대통령 당선인 "위대한 국민의 승리, 국민과 대한민국 위해 하나 돼야"]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=95031</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 09 Mar 2022 03:30:00 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202203/95008_107257_2856_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성전자, 지난해 시설투자 48조 '반도체 초호황기' 넘어섰다…R&D·직원수도 '역대 최대']]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=95007</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=95007</guid>
-            <pubDate>Tue, 08 Mar 2022 10:21:07 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202203/95007_107256_4634_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
