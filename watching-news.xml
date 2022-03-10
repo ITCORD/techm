@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Mar 2022 06:26:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Mar 2022 07:20:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 더블유게임즈, 맥스트에 20억원 투자... 소셜카지노가 메타버스와 만난다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=95060</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=95060</guid>
+            <pubDate>Thu, 10 Mar 2022 07:20:36 GMT</pubDate>
+            <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202203/95060_107343_4411_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[게임코인TV] 네오핀토큰(NPT) 발행한 네오위즈-네오플라이를 알아보자...네오핀의 모든 것(상)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=95050</link>
@@ -110,14 +118,6 @@
             <pubDate>Sat, 26 Feb 2022 15:20:22 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202202/94607_106528_5325_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 네이버제트, 메타버스 생태계 무한확장...미국·싱가포르에 전략적 투자]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=94578</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=94578</guid>
-            <pubDate>Fri, 25 Feb 2022 06:28:53 GMT</pubDate>
-            <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202202/94578_106471_4333_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
