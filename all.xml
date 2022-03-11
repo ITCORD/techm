@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Mar 2022 04:28:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Mar 2022 05:23:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -392,6 +392,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202203/95043_107336_1126_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[네오핀토큰(NPT) 빗썸 입성...블록체인 속도 내는 네오플라이...해외는 'P2E', 국내는 '디파이' (테크M ─ 이노베이션)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=95094</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=95094</guid>
+            <pubDate>Fri, 11 Mar 2022 05:21:35 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202203/95094_107408_1023_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[윤석열 당선] 文 정부선 유예된 가상자산 제도화...尹 정부선 '전담기구·기본법'부터 만든다 (테크M ─ 이노베이션)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=95070</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=95070</guid>
@@ -494,14 +502,6 @@
             <pubDate>Tue, 08 Mar 2022 11:20:00 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202203/94971_107188_1356_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쏘카에서 현대 '캐스퍼' 2시간 무료 시승해보세요 (테크M ─ 이노베이션)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=94959</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=94959</guid>
-            <pubDate>Tue, 08 Mar 2022 09:43:00 GMT</pubDate>
-            <content:encoded><![CDATA[김경영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202203/94959_107175_3648_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[네오위즈표 가상자산 '네오핀(NPT)' 빗썸에 상장된다 (테크M ─ 인베스트먼트)]]></title>
@@ -952,6 +952,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202202/94666_106654_3915_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[카드뉴스] SKT 이프랜드, 메타버스 컬처 프로젝트 런칭! 매월 새로운 콘텐츠 나온다 (테크M ─ 보는 뉴스)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=95093</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=95093</guid>
+            <pubDate>Fri, 11 Mar 2022 05:23:04 GMT</pubDate>
+            <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202203/95093_107398_2212_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[게임코인TV] 네오핀토큰(NPT) 붙는 게임은? 명작 FPS '아바'에 골프게임까지...네오핀의 모든 것(중) (테크M ─ 보는 뉴스)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=95077</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=95077</guid>
@@ -1054,14 +1062,6 @@
             <pubDate>Mon, 28 Feb 2022 06:23:39 GMT</pubDate>
             <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202202/94648_106602_535_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[배그 토크 콘서트] '나 혼자 28킬' 놀라운 화력 보여준 이엠텍 '데바' 이성도 (테크M ─ 보는 뉴스)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=94619</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=94619</guid>
-            <pubDate>Sun, 27 Feb 2022 16:24:55 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202202/94619_106560_2133_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
