@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Mar 2022 05:23:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Mar 2022 06:29:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[게임코인TV] 네오핀 토큰(NPT) 원화상장은 언제? 그래서 살꺼야?...네오핀의 모든 것(하)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=95096</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=95096</guid>
+            <pubDate>Fri, 11 Mar 2022 06:29:03 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202203/95096_107411_264_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] SKT 이프랜드, 메타버스 컬처 프로젝트 런칭! 매월 새로운 콘텐츠 나온다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=95093</link>
@@ -21,7 +29,7 @@
             <guid>https://www.techm.kr/news/articleView.html?idxno=95077</guid>
             <pubDate>Fri, 11 Mar 2022 08:30:00 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202203/95077_107379_2927_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202203/95077_107380_2947_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[카드뉴스] 더블유게임즈, 맥스트에 20억원 투자... 소셜카지노가 메타버스와 만난다]]></title>
@@ -110,14 +118,6 @@
             <pubDate>Mon, 28 Feb 2022 08:29:19 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202202/94663_106641_1044_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 고려대-순천향대, 메타버스 캠퍼스 타운 꾸린다.. SKT '이프랜드'와 맞손]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=94648</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=94648</guid>
-            <pubDate>Mon, 28 Feb 2022 06:26:20 GMT</pubDate>
-            <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202202/94648_106602_535_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
