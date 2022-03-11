@@ -4,9 +4,17 @@
         <title>테크M ─ 콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Mar 2022 23:21:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Mar 2022 01:17:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[웹젠, PC MMORPG '썬 클래식' 글로벌 서비스 시작]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=95084</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=95084</guid>
+            <pubDate>Fri, 11 Mar 2022 10:10:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202203/95084_107385_102_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[글로벌] EA, 피파 게임서 러시아 팀 삭제...글로벌 게임사들 러시아 제재 동참]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=95072</link>
@@ -110,14 +118,6 @@
             <pubDate>Mon, 07 Mar 2022 06:24:26 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202203/94938_107130_1618_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[넷마블, 블록체인 생태계 'MBX' 공식 웹사이트 오픈 및 백서 공개]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=94936</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=94936</guid>
-            <pubDate>Mon, 07 Mar 2022 06:24:26 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202203/94936_107129_5431_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
