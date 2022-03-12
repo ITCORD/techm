@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 12 Mar 2022 02:36:34 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Mar 2022 03:23:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[테크M 이슈] "국민들이 원해요" 비대면 의료앱 닥터나우...MAU 40만 넘겼다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=95113</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=95113</guid>
+            <pubDate>Sat, 12 Mar 2022 00:18:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202203/95113_107453_1223_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[크립토 주간 브리핑] 등락 끝에 제자리 걸음한 비트-이더...리플은 홀로 상승]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=95111</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 11 Mar 2022 11:28:00 GMT</pubDate>
             <content:encoded><![CDATA[김경영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202203/95090_107394_715_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[갤럭시코퍼레이션-올림플래닛, 메타버스 전문 미디어 '메타플래닛' 설립]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=95092</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=95092</guid>
-            <pubDate>Fri, 11 Mar 2022 11:21:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202203/95092_107395_2126_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
