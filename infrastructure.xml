@@ -4,9 +4,25 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Mar 2022 08:25:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Mar 2022 10:23:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성전자서비스, 수어 상담 서비스 도입]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=95192</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=95192</guid>
+            <pubDate>Mon, 14 Mar 2022 10:21:42 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202203/95192_107607_324_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[KISIA '중소기업 정보보호 지원 사업' 참여 기업 모집]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=95188</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=95188</guid>
+            <pubDate>Mon, 14 Mar 2022 10:21:42 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202203/95188_107595_4049_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[전세계 246만명 본 BTS 콘서트...극장 생중계 매출만 400억 '돌파']]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=95183</link>
@@ -21,7 +37,7 @@
             <guid>https://www.techm.kr/news/articleView.html?idxno=95184</guid>
             <pubDate>Mon, 14 Mar 2022 08:23:30 GMT</pubDate>
             <content:encoded><![CDATA[김가은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202203/95184_107586_3632_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202203/95184_107598_590_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[나란히 리더십 개편 네이버·카카오..."글로벌로 간다"]]></title>
@@ -85,7 +101,7 @@
             <guid>https://www.techm.kr/news/articleView.html?idxno=95154</guid>
             <pubDate>Mon, 14 Mar 2022 11:32:00 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202203/95154_107544_2320_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202203/95154_107603_11_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[다날핀테크, 금융투자본부 신설...글로벌 가상자산 결제 인프라 구축한다]]></title>
@@ -102,22 +118,6 @@
             <pubDate>Mon, 14 Mar 2022 11:00:00 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202203/95132_107517_5840_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SKT '이프랜드'서 메타버스 팬미팅 '더 팬 라이브' 열린다...첫 손님은 미스틱 걸그룹 '빌리']]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=95136</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=95136</guid>
-            <pubDate>Mon, 14 Mar 2022 09:59:00 GMT</pubDate>
-            <content:encoded><![CDATA[김경영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202203/95136_107521_1841_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["비밀 보호부터 데이터 차단까지" LGU+, 10대 청소년 전용 'U+Z플랜폰' 출시]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=95139</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=95139</guid>
-            <pubDate>Mon, 14 Mar 2022 09:44:00 GMT</pubDate>
-            <content:encoded><![CDATA[김경영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202203/95139_107524_3249_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
