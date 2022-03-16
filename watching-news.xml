@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Mar 2022 05:20:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Mar 2022 07:21:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[게임코인TV] 윤석열 대통령 당선인의 가상자산 공약 뜯어보기...비과세-디지털자산청-ICO 허용]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=95291</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=95291</guid>
+            <pubDate>Wed, 16 Mar 2022 07:21:03 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202203/95291_107755_5313_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 한종희 삼성전자 부회장 "메타버스 사업 기회 적극 발굴"]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=95282</link>
@@ -110,14 +118,6 @@
             <pubDate>Thu, 03 Mar 2022 07:20:56 GMT</pubDate>
             <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202203/94789_106864_922_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 베스핀글로벌테크센터-모던토이, 메타버스 플랫폼 개발 '맞손']]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=94736</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=94736</guid>
-            <pubDate>Wed, 02 Mar 2022 05:19:27 GMT</pubDate>
-            <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202203/94736_106753_5526_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
