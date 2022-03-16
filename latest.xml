@@ -4,16 +4,32 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Mar 2022 07:21:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Mar 2022 08:25:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한성숙, 유럽 사업 개발 대표로…"글로벌 사업 전두지휘"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=95294</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=95294</guid>
+            <pubDate>Wed, 16 Mar 2022 08:23:04 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202203/95294_107771_255_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[CJ올리브네트웍스, 2022년 신입사원 공개채용 실시]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=95295</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=95295</guid>
+            <pubDate>Wed, 16 Mar 2022 08:23:04 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202203/95295_107772_811_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[기술·정책 임원 대거 늘린 네이버...사업은 키우고, 리스크는 줄이고]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=95292</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=95292</guid>
             <pubDate>Wed, 16 Mar 2022 07:18:37 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202203/95292_107765_1238_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202203/95292_107766_273_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[역대급 16강 뚫은 '택신' 김택용, ASL 시즌13 8강 진출....8강 첫 경기는 16일부터]]></title>
@@ -150,22 +166,6 @@
             <pubDate>Wed, 16 Mar 2022 00:11:00 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202203/95259_107760_529_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[넷플릭스 vs. SKB, 세기의 재판 2라운드...전세계 통신업계 시선 집중]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=95276</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=95276</guid>
-            <pubDate>Wed, 16 Mar 2022 00:02:00 GMT</pubDate>
-            <content:encoded><![CDATA[김경영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202203/95276_107761_556_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[LCK 브리핑] 브리온-KT-프릭스 가운데 6강 PO행 기차 탑승할 두팀은 어디?]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=95268</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=95268</guid>
-            <pubDate>Wed, 16 Mar 2022 11:56:00 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202203/95268_107762_617_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

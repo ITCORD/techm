@@ -4,16 +4,24 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Mar 2022 07:21:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Mar 2022 08:25:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[CJ올리브네트웍스, 2022년 신입사원 공개채용 실시]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=95295</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=95295</guid>
+            <pubDate>Wed, 16 Mar 2022 08:23:41 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202203/95295_107772_811_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[기술·정책 임원 대거 늘린 네이버...사업은 키우고, 리스크는 줄이고]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=95292</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=95292</guid>
             <pubDate>Wed, 16 Mar 2022 07:19:14 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202203/95292_107765_1238_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202203/95292_107766_273_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[화웨이, 글로벌 무선 통신장비 시장 선두 수성]]></title>
@@ -110,14 +118,6 @@
             <pubDate>Wed, 16 Mar 2022 10:36:00 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202203/95263_107710_3535_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성전자 반도체 부문 "일하는 방식 바꾸고 조직문화 혁신"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=95261</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=95261</guid>
-            <pubDate>Wed, 16 Mar 2022 10:26:00 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202203/95261_107707_2548_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
