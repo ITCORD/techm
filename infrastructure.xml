@@ -4,9 +4,17 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Mar 2022 02:51:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Mar 2022 03:34:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[KT·LGU+는 '갤럭시 A53' 사전예약 이벤트 진행, SKT는 '계획 없음']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=95360</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=95360</guid>
+            <pubDate>Fri, 18 Mar 2022 00:30:00 GMT</pubDate>
+            <content:encoded><![CDATA[김경영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202203/95360_107893_445_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[네이버클라우드 'AI 해커톤 솔루션' 출시]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=95363</link>
@@ -110,14 +118,6 @@
             <pubDate>Thu, 17 Mar 2022 08:27:05 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202203/95333_107843_4233_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지니언스, 메타버스·NFT 보안 신사업 준비 나선다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=95332</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=95332</guid>
-            <pubDate>Thu, 17 Mar 2022 07:19:35 GMT</pubDate>
-            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202203/95332_107825_4642_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
