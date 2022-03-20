@@ -8,7 +8,7 @@ dateSelector = "span.byline em:nth-child(1)"
 dateFormat = "yyyy.MM.dd hh:mm"
 contentSelector = "span.byline em:nth-child(2)"
 imageSelector = "a.thumb img"
-waitForSelector = "ul.type4 li.items"
+waitUntil = "networkidle"
 onFail = "stale"
 
 [contents]
@@ -21,7 +21,7 @@ dateSelector = "span.byline em:nth-child(1)"
 dateFormat = "yyyy.MM.dd hh:mm"
 contentSelector = "span.byline em:nth-child(2)"
 imageSelector = "a.thumb img"
-waitForSelector = "ul.type4 li.items"
+waitUntil = "networkidle"
 onFail = "stale"
 
 [infrastructure]
@@ -34,7 +34,7 @@ dateSelector = "span.byline em:nth-child(1)"
 dateFormat = "yyyy.MM.dd hh:mm"
 contentSelector = "span.byline em:nth-child(2)"
 imageSelector = "a.thumb img"
-waitForSelector = "ul.type4 li.items"
+waitUntil = "networkidle"
 onFail = "stale"
 
 [innovation]
@@ -47,7 +47,7 @@ dateSelector = "span.byline em:nth-child(1)"
 dateFormat = "yyyy.MM.dd hh:mm"
 contentSelector = "span.byline em:nth-child(2)"
 imageSelector = "a.thumb img"
-waitForSelector = "ul.type4 li.items"
+waitUntil = "networkidle"
 onFail = "stale"
 
 [investment]
@@ -73,7 +73,7 @@ dateSelector = "span.byline em:nth-child(1)"
 dateFormat = "yyyy.MM.dd hh:mm"
 contentSelector = "span.byline em:nth-child(2)"
 imageSelector = "a.thumb img"
-waitForSelector = "ul.type4 li.items"
+waitUntil = "networkidle"
 onFail = "stale"
 
 [life]
@@ -86,7 +86,7 @@ dateSelector = "span.byline em:nth-child(1)"
 dateFormat = "yyyy.MM.dd hh:mm"
 contentSelector = "span.byline em:nth-child(2)"
 imageSelector = "a.thumb img"
-waitForSelector = "ul.type4 li.items"
+waitUntil = "networkidle"
 onFail = "stale"
 
 [report]
@@ -99,7 +99,7 @@ dateSelector = "span.byline em:nth-child(1)"
 dateFormat = "yyyy.MM.dd hh:mm"
 contentSelector = "span.byline em:nth-child(2)"
 imageSelector = "a.thumb img"
-waitForSelector = "ul.type4 li.items"
+waitUntil = "networkidle"
 onFail = "stale"
 
 [watching-news]
@@ -112,5 +112,5 @@ dateSelector = "span.byline em:nth-child(1)"
 dateFormat = "yyyy.MM.dd hh:mm"
 contentSelector = "span.byline em:nth-child(2)"
 imageSelector = "a.thumb img"
-waitForSelector = "ul.type4 li.items"
+waitUntil = "networkidle"
 onFail = "stale"
