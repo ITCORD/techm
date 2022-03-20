@@ -8,7 +8,8 @@ dateSelector = "span.byline em:nth-child(1)"
 dateFormat = "yyyy.MM.dd hh:mm"
 contentSelector = "span.byline em:nth-child(2)"
 imageSelector = "a.thumb img"
-waitUntil = "networkidle"
+waitForSelector = "ul.type4 li.items"
+onFail = "stale"
 
 [contents]
 title = "테크M ─ 콘텐츠"
