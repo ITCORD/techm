@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Mar 2022 15:30:02 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Mar 2022 16:33:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -170,7 +170,7 @@
             <title><![CDATA[[PWS] 광동 프릭스, 세번의 치킨으로 다나와에 역전 우승 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=95402</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=95402</guid>
-            <pubDate>Sun, 20 Mar 2022 15:27:20 GMT</pubDate>
+            <pubDate>Sun, 20 Mar 2022 15:27:02 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202203/95402_107975_5237_v150.jpg" length="0" type="image/jpg"/>
         </item>
@@ -950,6 +950,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202203/95073_107367_1333_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[배그 토크 콘서트] 광동 프릭스 '히카리' 김동환 "현재 팀워크는 85점" (테크M ─ 보는 뉴스)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=95403</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=95403</guid>
+            <pubDate>Sun, 20 Mar 2022 16:33:17 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202203/95403_107977_485_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[게임코인TV] 넷마블 코인 'MBX' 전망, A3: 스틸얼라이브 P2E게임 소감...MBX의 모든 것(하) (테크M ─ 보는 뉴스)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=95375</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=95375</guid>
@@ -1052,14 +1060,6 @@
             <pubDate>Tue, 08 Mar 2022 06:26:07 GMT</pubDate>
             <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202203/94983_107203_5824_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 메타버스 수업, 네이버 웨일 스페이스에서...메타버스 플랫폼 젭(ZEP) 연동 (테크M ─ 보는 뉴스)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=94931</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=94931</guid>
-            <pubDate>Mon, 07 Mar 2022 06:24:06 GMT</pubDate>
-            <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202203/94931_107118_4744_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
