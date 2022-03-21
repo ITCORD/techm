@@ -4,9 +4,17 @@
         <title>테크M ─ 콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Mar 2022 01:26:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Mar 2022 02:55:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[CJ ENM, KT와 콘텐츠 동맹…KT스튜디오지니에 1000억 투자]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=95435</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=95435</guid>
+            <pubDate>Mon, 21 Mar 2022 11:32:00 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202203/95435_108013_2537_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[K-웹툰 키우는 네이버·카카오...亞 넘어 유럽에서 정면대결]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=95414</link>
@@ -110,14 +118,6 @@
             <pubDate>Fri, 18 Mar 2022 11:11:00 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202203/95362_107895_056_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[넷플릭스, 계정 공유에 '추가 요금제' 도입...일부 국가서 시범 운영]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=95358</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=95358</guid>
-            <pubDate>Fri, 18 Mar 2022 10:35:00 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202203/95358_107892_3127_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
