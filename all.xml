@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Mar 2022 09:22:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Mar 2022 10:35:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,6 +168,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202203/95441_108054_4857_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['과몰입' 주의보 발령...카카오TV '생존남녀' 첫주 조회수 250만 돌파 (테크M ─ 콘텐츠)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=95459</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=95459</guid>
+            <pubDate>Mon, 21 Mar 2022 10:27:25 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202203/95459_108056_3027_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA["가격 인상에 추가 요금까지"...넷플릭스의 생존 위한 '몸부림' (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=95457</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=95457</guid>
@@ -270,14 +278,6 @@
             <pubDate>Sun, 20 Mar 2022 10:30:00 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202203/95383_107927_4326_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[U+아이들나라, 인기 유튜버와 자연관찰 오리지널 콘텐츠 선보인다 (테크M ─ 콘텐츠)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=95393</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=95393</guid>
-            <pubDate>Sun, 20 Mar 2022 09:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[김경영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202203/95393_107945_1145_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['유니콘' 입지 굳힌 오아시스마켓...10년 연속 흑자 '눈길' (테크M ─ 인프라)]]></title>
@@ -397,7 +397,7 @@
             <guid>https://www.techm.kr/news/articleView.html?idxno=95440</guid>
             <pubDate>Mon, 21 Mar 2022 06:27:18 GMT</pubDate>
             <content:encoded><![CDATA[김경영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202203/95440_108020_420_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202203/95440_108055_4926_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[알람앱으로 130억 매출…딜라이트룸, '2022년 아태지역 고성장 기업' 선정 (테크M ─ 이노베이션)]]></title>
@@ -619,7 +619,7 @@
             <title><![CDATA[떠나는 카카오 여민수·조수용...창업자 김범수 대비 보수 '2배' 넘었다 (테크M ─ 피플)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=95458</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=95458</guid>
-            <pubDate>Mon, 21 Mar 2022 09:22:09 GMT</pubDate>
+            <pubDate>Mon, 21 Mar 2022 09:19:03 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202203/95458_108052_484_v150.jpg" length="0" type="image/jpg"/>
         </item>
