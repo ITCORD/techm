@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Mar 2022 22:22:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2022 23:24:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[GDC] 이용자를 창작자로...필요한 모든 '툴' 제공하는 '로블록스']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=95523</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=95523</guid>
+            <pubDate>Wed, 23 Mar 2022 08:17:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202203/95523_108177_539_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[GDC] 사진으로 보는 GDC...'코로나 방역'-'P2E' 열풍부터 '아이돌봄센터'까지]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=95520</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 22 Mar 2022 06:26:03 GMT</pubDate>
             <content:encoded><![CDATA[김현기 대표]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202203/95505_108151_1746_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[글로벌] '철통 보안' 자랑하더니…텔레그램, 브라질서 '서비스 금지' 위기 모면]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=95504</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=95504</guid>
-            <pubDate>Tue, 22 Mar 2022 06:26:03 GMT</pubDate>
-            <content:encoded><![CDATA[김현기 대표]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202203/95504_108152_1811_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
