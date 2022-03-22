@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Mar 2022 23:22:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2022 01:27:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,6 +168,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202203/95450_108036_3543_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[CJ ENM, 성장 전략 조직 신설...씨티그룹 출신 김윤홍 영입 (테크M ─ 콘텐츠)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=95476</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=95476</guid>
+            <pubDate>Tue, 22 Mar 2022 09:58:00 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202203/95476_108079_4945_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[글로벌 게임 트렌드를 한눈에...GDC2022 개막, 위메이드에 쏠린 눈 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=95465</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=95465</guid>
@@ -272,12 +280,52 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202203/95400_107969_114_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[카카오게임즈 '보라', 가상자산 거래소 OKX서 입금 이벤트...해외 상장 시동거나 (테크M ─ 콘텐츠)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=95397</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=95397</guid>
-            <pubDate>Mon, 21 Mar 2022 07:21:02 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202203/95397_107953_4510_v150.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[U+스마트홈 '구글패키지' 가입자 10만명 달성 임박…2030세대 홈 IoT 기반 확대 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=95480</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=95480</guid>
+            <pubDate>Tue, 22 Mar 2022 10:12:00 GMT</pubDate>
+            <content:encoded><![CDATA[김경영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202203/95480_108083_232_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[KT, 신한은행 AI 인재 함께 키운다...실무 자격인증 'AIFB' 도입 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=95478</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=95478</guid>
+            <pubDate>Tue, 22 Mar 2022 10:10:00 GMT</pubDate>
+            <content:encoded><![CDATA[김경영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202203/95478_108081_5041_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[통신3사 "PASS 모바일 운전면허증, 전국 공항에서 사용하세요" (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=95475</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=95475</guid>
+            <pubDate>Tue, 22 Mar 2022 10:05:00 GMT</pubDate>
+            <content:encoded><![CDATA[김경영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202203/95475_108078_4313_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[메가존클라우드, 경기도미래기술학교와 클라우드 전문 인재 키운다 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=95473</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=95473</guid>
+            <pubDate>Tue, 22 Mar 2022 10:03:00 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202203/95473_108076_4012_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SKT-코액터스 '고요한M' 휴먼시티디자인어워드 공동 수상 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=95472</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=95472</guid>
+            <pubDate>Tue, 22 Mar 2022 10:02:00 GMT</pubDate>
+            <content:encoded><![CDATA[김경영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202203/95472_108074_3715_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한국IBM, 셀타스퀘어에 RPA 솔루션 제공…약물감시 업무 고도화 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=95468</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=95468</guid>
+            <pubDate>Tue, 22 Mar 2022 09:31:00 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202203/95468_108072_2524_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[보안업계 '각양각색' 신사업 전략으로 체질 개선 나선다 (테크M ─ 인프라)]]></title>
@@ -344,52 +392,12 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202203/95431_108008_384_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[삼성전자, 28개 사내식당 급식업체 추가 공개입찰 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=95434</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=95434</guid>
-            <pubDate>Mon, 21 Mar 2022 11:16:00 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202203/95434_108011_1516_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아로와나토큰, 美 암호화폐 거래소 '비트렉스 글로벌' 상장 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=95429</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=95429</guid>
-            <pubDate>Mon, 21 Mar 2022 10:22:00 GMT</pubDate>
-            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202203/95429_108012_2525_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[넷마블에프앤씨, 유니티 코리아와 메타버스 플랫폼 사업 협력 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=95430</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=95430</guid>
-            <pubDate>Mon, 21 Mar 2022 10:15:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202203/95430_108007_1534_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NHN클라우드, 정기 웨비나 개최…클라우드 네이티브 동향 공유 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=95427</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=95427</guid>
-            <pubDate>Mon, 21 Mar 2022 10:07:00 GMT</pubDate>
-            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202203/95427_108004_328_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SK쉴더스, 랜섬웨어 대응 민간 협의체 '카라' 발족 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=95425</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=95425</guid>
-            <pubDate>Mon, 21 Mar 2022 10:07:00 GMT</pubDate>
-            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202203/95425_108002_5716_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[네오위즈 네오핀, 카카오 클레이튼과 사업 제휴 체결 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=95409</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=95409</guid>
-            <pubDate>Mon, 21 Mar 2022 09:06:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202203/95409_107983_556_v150.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[C2X 플랫폼 305억원 투자 유치…'웹3' 생태계 구축 가속화 (테크M ─ 이노베이션)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=95477</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=95477</guid>
+            <pubDate>Tue, 22 Mar 2022 10:07:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202203/95477_108080_5032_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[인싸뷰] 반성훈 리콘랩스 "우리집 침대·쇼파, 360도 AR로 생생하게 배치해보고 산다" (테크M ─ 이노베이션)]]></title>
@@ -494,14 +502,6 @@
             <pubDate>Thu, 17 Mar 2022 00:16:00 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202203/95322_107802_5953_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["경제 패러다임이 바뀌고 있다...가상자산 장관급 부처 신설해야" (테크M ─ 이노베이션)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=95317</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=95317</guid>
-            <pubDate>Thu, 17 Mar 2022 11:59:00 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202203/95317_107796_3143_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[테크M 이슈] 주가는 4분의1 토막...데브시스터즈 CEO는 '489억' 잭팟 (테크M ─ 인베스트먼트)]]></title>
