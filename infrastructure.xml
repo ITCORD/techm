@@ -4,9 +4,17 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Mar 2022 06:29:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2022 07:24:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['안철수 총리설'에 안랩 주가 5일 연속 급등세…'신고가 경신']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=95551</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=95551</guid>
+            <pubDate>Wed, 23 Mar 2022 07:21:32 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202203/95551_108235_121_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[SK스퀘어, 자체 가상자산 발행 추진…블록체인 생태계 확장 가속]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=95546</link>
@@ -110,14 +118,6 @@
             <pubDate>Tue, 22 Mar 2022 08:24:56 GMT</pubDate>
             <content:encoded><![CDATA[김가은 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202203/95513_108138_329_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[구글 인앱결제 금지법 '꼼수'에 OTT 업계 구독료 인상 검토]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=95509</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=95509</guid>
-            <pubDate>Tue, 22 Mar 2022 08:24:56 GMT</pubDate>
-            <content:encoded><![CDATA[김경영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202203/95509_108132_2118_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
