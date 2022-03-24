@@ -4,7 +4,7 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Mar 2022 12:42:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Mar 2022 13:32:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Thu, 24 Mar 2022 06:27:24 GMT</pubDate>
             <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202203/95598_108307_246_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[게임코인TV] 장현국 대표 GDC 발표 총정리...위메이드 '위믹스'에 북미 게임업계 '들썩']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=95559</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=95559</guid>
+            <pubDate>Thu, 24 Mar 2022 05:28:00 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202203/95559_108249_273_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[카드뉴스] 메타버스, 흥행 키워드는 '패션'... 구찌도 탐내는 제페토]]></title>
@@ -110,14 +118,6 @@
             <pubDate>Fri, 11 Mar 2022 05:23:04 GMT</pubDate>
             <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202203/95093_107398_2212_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[게임코인TV] 네오핀토큰(NPT) 붙는 게임은? 명작 FPS '아바'에 골프게임까지...네오핀의 모든 것(중)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=95077</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=95077</guid>
-            <pubDate>Fri, 11 Mar 2022 08:30:00 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202203/95077_107380_2947_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
