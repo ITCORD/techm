@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Mar 2022 10:28:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Mar 2022 11:21:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[LG전자, 랩서스에 직원 '비번'도 털렸다…KISA 현장조사 실시 (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=95621</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=95621</guid>
+            <pubDate>Thu, 24 Mar 2022 11:18:36 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202203/95621_108356_3019_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[주가 부양 시동거는 한샘, 300억원 규모 자사주 매입 (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=95620</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=95620</guid>
+            <pubDate>Thu, 24 Mar 2022 11:18:36 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202203/95620_108354_322_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[넷플·디플·애플 공습에...업계 "토종 OTT 진흥책 조속 이행해야" (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=95619</link>
@@ -152,22 +168,6 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202203/95601_108318_4325_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[카드뉴스] 한국메타버스산업협회, 메타버스 산업 활성화 나선다…유관기관과 인력 양성 '맞손' (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=95598</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=95598</guid>
-            <pubDate>Thu, 24 Mar 2022 06:24:14 GMT</pubDate>
-            <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202203/95598_108307_246_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[韓 게임판 흔드는 넥슨 '던파 모바일' 다운로드 폭주...구글-애플 1위로 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=95599</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=95599</guid>
-            <pubDate>Thu, 24 Mar 2022 06:24:14 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202203/95599_108346_5236_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA["공룡 구조대가 나가신다"...SAMG, '슈퍼다이노' 27일 첫 방송 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=95607</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=95607</guid>
@@ -280,6 +280,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202203/95559_108249_273_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[LG전자, 랩서스에 직원 '비번'도 털렸다…KISA 현장조사 실시 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=95621</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=95621</guid>
+            <pubDate>Thu, 24 Mar 2022 11:19:14 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202203/95621_108356_3019_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[넷플·디플·애플 공습에...업계 "토종 OTT 진흥책 조속 이행해야" (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=95619</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=95619</guid>
@@ -382,14 +390,6 @@
             <pubDate>Thu, 24 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[김경영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202203/95579_108284_2614_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[KISIA·KOTRA 'ISC 웨스트 2022' 한국공동관 운영 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=95589</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=95589</guid>
-            <pubDate>Thu, 24 Mar 2022 11:40:00 GMT</pubDate>
-            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202203/95589_108298_306_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[업스테이지 'AI 올림픽' 캐글 대회 10번째 금메달 획득 (테크M ─ 이노베이션)]]></title>
@@ -504,6 +504,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202203/95415_107988_2232_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[주가 부양 시동거는 한샘, 300억원 규모 자사주 매입 (테크M ─ 인베스트먼트)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=95620</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=95620</guid>
+            <pubDate>Thu, 24 Mar 2022 11:19:41 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202203/95620_108354_322_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA["전환규모·차익 크지 않은데..." 카카오게임즈 오버행의 진실은 (테크M ─ 인베스트먼트)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=95610</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=95610</guid>
@@ -606,14 +614,6 @@
             <pubDate>Tue, 22 Mar 2022 06:20:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202203/95464_108067_3336_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[코린이톡] "상속-탈세-비자금 다보여요" 코인판 금융실명제 '트래블룰' 등판 임박 (테크M ─ 인베스트먼트)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=95460</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=95460</guid>
-            <pubDate>Tue, 22 Mar 2022 06:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202203/95460_108062_5647_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[11번가 신임 CEO에 하형일 SKT CDO 내정…IPO 준비 박차 (테크M ─ 피플)]]></title>
