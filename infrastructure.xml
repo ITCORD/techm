@@ -4,9 +4,25 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Mar 2022 02:57:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Mar 2022 03:33:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[알리바바클라우드, 라라스테이션에 라이브 스트리밍 솔루션 제공]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=95592</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=95592</guid>
+            <pubDate>Thu, 24 Mar 2022 00:26:00 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202203/95592_108301_4751_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["2300만 한국 인터넷 가입자, 500만 넷플릭스 가입자 위해 요금 더 낸다"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=95579</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=95579</guid>
+            <pubDate>Thu, 24 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[김경영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202203/95579_108284_2614_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[KISIA·KOTRA 'ISC 웨스트 2022' 한국공동관 운영]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=95589</link>
@@ -102,22 +118,6 @@
             <pubDate>Thu, 24 Mar 2022 09:45:00 GMT</pubDate>
             <content:encoded><![CDATA[김경영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202203/95565_108261_5836_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[KT에스테이트, 클라우드 기반 BEMS 1등급 인증 획득]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=95567</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=95567</guid>
-            <pubDate>Thu, 24 Mar 2022 09:44:00 GMT</pubDate>
-            <content:encoded><![CDATA[김경영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202203/95567_108263_616_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LG CNS, 중학생 3000명 AI 교육 프로그램 무상 제공]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=95570</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=95570</guid>
-            <pubDate>Thu, 24 Mar 2022 09:41:00 GMT</pubDate>
-            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202203/95570_108268_2950_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
