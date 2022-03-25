@@ -4,9 +4,17 @@
         <title>테크M ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Mar 2022 06:32:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Mar 2022 07:23:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[테크M 이슈] "2억이 2조로 껑충" 김범수가 발탁한 임지훈, 카카오에 뿔난 이유]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=95662</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=95662</guid>
+            <pubDate>Fri, 25 Mar 2022 07:22:12 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202203/95662_108423_3018_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[故 김정주 그리는 넥슨..."세계 최대 엔터 기업 만든다"]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=95635</link>
@@ -110,14 +118,6 @@
             <pubDate>Mon, 21 Mar 2022 14:20:04 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202203/95461_108064_1019_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[떠나는 카카오 여민수·조수용...창업자 김범수 대비 보수 '2배' 넘었다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=95458</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=95458</guid>
-            <pubDate>Mon, 21 Mar 2022 09:22:09 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202203/95458_108052_484_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
