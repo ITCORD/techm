@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Mar 2022 19:22:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Mar 2022 20:24:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[게임코인TV] 'GDC 최대 규모' 위메이드 위믹스 부스를 가다...온보딩 계약 이뤄질까?]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=95674</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=95674</guid>
+            <pubDate>Sat, 26 Mar 2022 05:18:00 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202203/95674_108460_173_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 에버랜드 메타버스, 플레이댑과 실현한다…메타버스 놀이공원 '눈길']]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=95652</link>
@@ -110,14 +118,6 @@
             <pubDate>Tue, 15 Mar 2022 05:20:20 GMT</pubDate>
             <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202203/95222_107643_4917_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] LG유플러스, '메타버스 대학' 만든다.. 서강대학교와 MOU 체결]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=95170</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=95170</guid>
-            <pubDate>Mon, 14 Mar 2022 08:25:02 GMT</pubDate>
-            <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202203/95170_107561_4229_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
