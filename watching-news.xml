@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Mar 2022 04:30:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Mar 2022 05:22:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 에버랜드 메타버스, 플레이댑과 실현한다…메타버스 놀이공원 '눈길']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=95652</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=95652</guid>
+            <pubDate>Fri, 25 Mar 2022 05:22:26 GMT</pubDate>
+            <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202203/95652_108410_1714_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[게임코인TV] 장현국 위메이드 대표와의 GDC 인터뷰 뒷얘기...위믹스 향후 계획 총정리]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=95624</link>
@@ -110,14 +118,6 @@
             <pubDate>Mon, 14 Mar 2022 08:25:02 GMT</pubDate>
             <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202203/95170_107561_4229_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[게임코인TV] 네오핀 토큰(NPT) 원화상장은 언제? 그래서 살꺼야?...네오핀의 모든 것(하)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=95096</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=95096</guid>
-            <pubDate>Fri, 11 Mar 2022 06:29:03 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202203/95096_107411_264_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
