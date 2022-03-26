@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 26 Mar 2022 22:21:03 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Mar 2022 23:27:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[같이봐영] '파친코'·'클럽하우스'·'돼지의 왕'·'마마무 다큐'까지...신작 보따리를 풀어보자]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=95672</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=95672</guid>
+            <pubDate>Sun, 27 Mar 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202203/95672_108447_2455_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[글로벌] "매월 바꿔쓰는 아이폰"...애플, 기기 구독 서비스 추진?]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=95687</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 25 Mar 2022 07:19:08 GMT</pubDate>
             <content:encoded><![CDATA[김가은 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202203/95667_108430_1311_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[세종텔레콤 컨소시엄, 'STO가 바꾸는 디지털 자산의 미래 서밋' 오는 31일 개최]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=95666</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=95666</guid>
-            <pubDate>Fri, 25 Mar 2022 07:19:08 GMT</pubDate>
-            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202203/95666_108428_5848_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
