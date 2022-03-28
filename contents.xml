@@ -4,9 +4,17 @@
         <title>테크M ─ 콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Mar 2022 06:30:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Mar 2022 07:25:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[기자수첩] 첫 해외 출장 보고서, 샌프란시스코 'GDC'에 다녀왔습니다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=95742</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=95742</guid>
+            <pubDate>Mon, 28 Mar 2022 07:21:10 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202203/95742_108586_2041_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[넷마블, 美 확장 본격화...'디즈니 미러 가디언즈' 6월 출격]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=95739</link>
@@ -110,14 +118,6 @@
             <pubDate>Sun, 27 Mar 2022 05:38:00 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202203/95688_108498_3634_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[PWS] 또 다나와야? 2치킨 획득하며 위클리 파이널 4주 1일차 선두]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=95683</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=95683</guid>
-            <pubDate>Sat, 26 Mar 2022 18:22:51 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202203/95683_108491_450_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
