@@ -4,16 +4,24 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Mar 2022 07:29:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Mar 2022 08:29:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[클레이스왑 해킹한 'BGP 취약점' 공격 과거에도 있었다…"재발 방지 방안 전무"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=95794</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=95794</guid>
+            <pubDate>Tue, 29 Mar 2022 08:25:40 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202203/95794_108675_1431_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[속도전 '남궁훈' 연륜의 '김성수'...카카오 '안살림' 도맡는다(종합)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=95792</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=95792</guid>
             <pubDate>Tue, 29 Mar 2022 06:27:37 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202203/95792_108663_5429_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202203/95792_108676_1452_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[입국격리 해제로 해외여행 기대감 UP...통신3사 로밍 혜택 미리 살펴보자]]></title>
@@ -21,7 +29,7 @@
             <guid>https://www.techm.kr/news/articleView.html?idxno=95788</guid>
             <pubDate>Tue, 29 Mar 2022 06:27:37 GMT</pubDate>
             <content:encoded><![CDATA[김경영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202203/95788_108656_2131_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202203/95788_108677_1513_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[삼성전자, 2억개 픽셀의 마이크로 LED '더 월'로 방콕 빛낸다]]></title>
@@ -110,14 +118,6 @@
             <pubDate>Tue, 29 Mar 2022 10:14:00 GMT</pubDate>
             <content:encoded><![CDATA[김가은 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202203/95759_108617_07_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LG CNS, 퍼시픽자산운용 '죽전 데이터센터' 구축 사업 수주]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=95755</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=95755</guid>
-            <pubDate>Tue, 29 Mar 2022 10:13:00 GMT</pubDate>
-            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202203/95755_108613_5153_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
