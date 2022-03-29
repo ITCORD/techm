@@ -4,9 +4,17 @@
         <title>테크M ─ 콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Mar 2022 03:10:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Mar 2022 03:43:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[주총 맞은 CJ ENM, 자체제작 '콘텐츠 생태계' 만든다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=95777</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=95777</guid>
+            <pubDate>Tue, 29 Mar 2022 00:11:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202203/95777_108639_1122_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[넷마블 디지털 휴먼 '리나', 써브라임과 전속 계약...송강호·비와 한솥밥]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=95776</link>
@@ -110,14 +118,6 @@
             <pubDate>Mon, 28 Mar 2022 11:00:00 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202203/95721_108558_5634_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[컴투스 그룹, 오아시스 프로젝트 합류...웹3 게임 노하우 선점한다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=95715</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=95715</guid>
-            <pubDate>Mon, 28 Mar 2022 10:14:00 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202203/95715_108550_514_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
