@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Mar 2022 08:31:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Mar 2022 09:23:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,6 +168,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202203/95824_108729_4022_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[LCK 결승 미디어데이] T1-젠지 감독 한목소리 "3대0으로 승리할 것"(종합) (테크M ─ 콘텐츠)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=95851</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=95851</guid>
+            <pubDate>Wed, 30 Mar 2022 09:19:56 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202203/95851_108773_4946_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[P2E 선두주자 엑시인피니티, 로닌 네트워크 해킹으로 7400억원 털렸다 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=95841</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=95841</guid>
@@ -272,12 +280,44 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202203/95786_108654_935_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[베일벗는 네오위즈표 블록체인 게임...'브라운더스트'에 '브레이브토큰' 붙는다 (테크M ─ 콘텐츠)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=95783</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=95783</guid>
-            <pubDate>Tue, 29 Mar 2022 05:21:30 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202203/95783_108653_5944_v150.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[네이버 케이크, 하이브 에듀와 합병…"MZ 교육시장 잡는다" (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=95850</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=95850</guid>
+            <pubDate>Wed, 30 Mar 2022 09:20:12 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202203/95850_108770_2545_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[스패로우, AWS 마켓플레이스에 '스패로우 클라우드' 등록 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=95840</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=95840</guid>
+            <pubDate>Wed, 30 Mar 2022 09:20:12 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202203/95840_108749_4152_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[네이버클라우드, SaaS 개발 기업 50곳에 클라우드 인프라 제공 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=95847</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=95847</guid>
+            <pubDate>Wed, 30 Mar 2022 09:20:12 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202203/95847_108761_2453_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한싹-알티넷, IT 운영 자동화·PW 보안 기술 접목 협업 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=95843</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=95843</guid>
+            <pubDate>Wed, 30 Mar 2022 09:20:12 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202203/95843_108752_5013_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[티맥스 '하이퍼미팅' 중기부 'K-비대면 서비스 바우처 사업' 공급 솔루션 3년 연속 선정 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=95839</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=95839</guid>
+            <pubDate>Wed, 30 Mar 2022 09:20:12 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202203/95839_108748_3156_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[카카오 보라, 오케이엑스 상장...해외 상장 속도전 (테크M ─ 인프라)]]></title>
@@ -293,7 +333,7 @@
             <guid>https://www.techm.kr/news/articleView.html?idxno=95836</guid>
             <pubDate>Wed, 30 Mar 2022 07:20:03 GMT</pubDate>
             <content:encoded><![CDATA[김가은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202203/95836_108742_1044_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202203/95836_108766_52_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한화시스템, 민-관 소행성 탐사 프로젝트 시동 건다…'우주탐사 플랫폼 시스템 설계' 참여 (테크M ─ 인프라)]]></title>
@@ -352,44 +392,12 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202203/95824_108729_4022_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[KT, 내달 구독형 'AI 방역 로봇' 출시...고객 맞춤형 '로봇 서비스 플랫폼'으로 디지코 가속화 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=95815</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=95815</guid>
-            <pubDate>Wed, 30 Mar 2022 00:11:00 GMT</pubDate>
-            <content:encoded><![CDATA[김경영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202203/95815_108714_5618_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성물산·네이버 라인 이어 펄어비스까지...플레이댑 사세 확장 '속도' (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=95818</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=95818</guid>
-            <pubDate>Wed, 30 Mar 2022 11:39:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202203/95818_108713_3937_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[KT, AI 방역로봇 출시...고객 맞춤형 로봇 서비스 플랫폼 사업 '정조준 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=95804</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=95804</guid>
-            <pubDate>Wed, 30 Mar 2022 10:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[김경영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202203/95804_108695_2736_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마이크로소프트, 클라우드에 SAP 솔루션 도입...'라이즈 위드 SAP' (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=95810</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=95810</guid>
-            <pubDate>Wed, 30 Mar 2022 09:57:00 GMT</pubDate>
-            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202203/95810_108704_5444_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[메가존클라우드, VM웨어 '클라우드 네이티브 마스터 서비스 컴피턴시' 획득 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=95808</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=95808</guid>
-            <pubDate>Wed, 30 Mar 2022 09:52:00 GMT</pubDate>
-            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202203/95808_108702_4537_v150.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[제페토 운영사 네이버제트, 메타버스 콘텐츠 기업 2곳에 10억 투자 (테크M ─ 이노베이션)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=95852</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=95852</guid>
+            <pubDate>Wed, 30 Mar 2022 09:20:29 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202203/95852_108772_4053_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["지금 사고 다음달에 낼게요" 토스, 후불결제 서비스 오픈 (테크M ─ 이노베이션)]]></title>
@@ -494,14 +502,6 @@
             <pubDate>Mon, 28 Mar 2022 10:12:00 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202203/95713_108547_5752_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[무신사, 개발 분야 세 자릿수 공개 채용…"스톡옵션 등 처우제공" (테크M ─ 이노베이션)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=95704</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=95704</guid>
-            <pubDate>Mon, 28 Mar 2022 09:35:00 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202203/95704_108535_3153_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[블록체인 기업 헥슬란트, 미래에셋·카카오인베 등으로부터 65억원 투자 유치 (테크M ─ 인베스트먼트)]]></title>
