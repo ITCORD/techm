@@ -4,9 +4,25 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 31 Mar 2022 06:29:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2022 07:24:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[테크M 리포트] 다시 뛰는 카카오뱅크...정책 수혜주로 '우뚝']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=95900</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=95900</guid>
+            <pubDate>Thu, 31 Mar 2022 07:21:24 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202203/95900_108847_513_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[KT클라우드, 한국연구재단 공공클라우드전환 클라우드제공사업자(CSP) 선정]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=95897</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=95897</guid>
+            <pubDate>Thu, 31 Mar 2022 07:21:24 GMT</pubDate>
+            <content:encoded><![CDATA[김경영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202203/95897_108844_3412_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["애플·디즈니와 어깨 나란히"...하이브, 美 타임 선정 '세계 100대 기업']]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=95881</link>
@@ -102,22 +118,6 @@
             <pubDate>Thu, 31 Mar 2022 09:35:00 GMT</pubDate>
             <content:encoded><![CDATA[김경영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202203/95860_108783_443_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뱅크샐러드, 송금 서비스 수수료 무제한 면제]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=95868</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=95868</guid>
-            <pubDate>Thu, 31 Mar 2022 09:34:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202203/95868_108792_3419_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[네이버, 日 라인 쇼핑에 AI 등 탐색 기술 적용했다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=95864</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=95864</guid>
-            <pubDate>Thu, 31 Mar 2022 09:27:00 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202203/95864_108787_2323_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

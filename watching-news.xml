@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 31 Mar 2022 06:29:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2022 07:24:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 샌드박스네트워크, NFT·P2E·메타버스로 크리에이터 이코노미 구축한다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=95893</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=95893</guid>
+            <pubDate>Thu, 31 Mar 2022 07:24:02 GMT</pubDate>
+            <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202203/95893_108834_5625_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 디지털 휴먼 '리나', 써브라임과 전속 계약...송강호·비와 한솥밥]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=95822</link>
@@ -110,14 +118,6 @@
             <pubDate>Fri, 18 Mar 2022 11:00:16 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202203/95375_107908_5315_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[게임코인TV] 넷마블 코인 'MBX'는 '타짜'식 생태계? 백서 집중 분석...MBX의 모든 것(상)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=95337</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=95337</guid>
-            <pubDate>Thu, 17 Mar 2022 08:29:13 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202203/95337_107840_3951_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
