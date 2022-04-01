@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Apr 2022 09:27:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Apr 2022 10:29:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -280,6 +280,30 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202203/95851_108773_4946_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA["판매금 200% 보상" 고개 숙인 무신사, 에센셜 판매 전면 중단 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=95952</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=95952</guid>
+            <pubDate>Fri, 01 Apr 2022 10:24:39 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202204/95952_108957_3754_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[알뜰폰에 '진심'인 LG유플러스, 수익성 낮은 알뜰폰에 공들이는 이유는 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=95941</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=95941</guid>
+            <pubDate>Fri, 01 Apr 2022 10:24:39 GMT</pubDate>
+            <content:encoded><![CDATA[김경영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202204/95941_108959_816_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[화웨이 클라우드엔진 데이터센터 스위치, CC인증 최고 레벨 'EAL4+' 취득 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=95943</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=95943</guid>
+            <pubDate>Fri, 01 Apr 2022 10:24:39 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202204/95943_108945_236_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[라온화이트햇, 군인공제회C&C∙금융권과 DID 기반 비대면 서비스 개발 나선다 (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=95936</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=95936</guid>
@@ -368,30 +392,6 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202203/95905_108885_119_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[IT서비스 빅3 '연봉킹'은 매출 4조 일군 김영섭 LG CNS 사장 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=95910</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=95910</guid>
-            <pubDate>Thu, 31 Mar 2022 09:20:51 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202203/95910_108880_4710_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[테크M 이슈] 2021년 컬리의 두 얼굴...거래액 2조에도 적자는 더 커졌다 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=95908</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=95908</guid>
-            <pubDate>Thu, 31 Mar 2022 09:20:51 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202203/95908_108877_203_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['이음5G' 2호 사업자로 선정된 LG CNS...5G로 구미 지역 공장 '스마트'하게 바꾼다 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=95907</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=95907</guid>
-            <pubDate>Thu, 31 Mar 2022 08:21:38 GMT</pubDate>
-            <content:encoded><![CDATA[김경영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202203/95907_108864_240_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[야놀자클라우드, '호텔온라인' 투자...아프리카 호스피탈리티 DX 가속화 (테크M ─ 이노베이션)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=95918</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=95918</guid>
@@ -421,7 +421,7 @@
             <guid>https://www.techm.kr/news/articleView.html?idxno=95883</guid>
             <pubDate>Thu, 31 Mar 2022 11:33:00 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202203/95883_108875_1446_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202203/95883_108808_1533_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[자율주행 트럭 스타트업 마스오토, 150억 규모 시리즈A 투자 유치 (테크M ─ 이노베이션)]]></title>
@@ -952,6 +952,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202203/95505_108127_1348_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[카드뉴스] 메타버스 홈트, '야핏 사이클'... "야, 너두 핏할 수 있어!" (테크M ─ 보는 뉴스)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=95938</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=95938</guid>
+            <pubDate>Fri, 01 Apr 2022 10:29:03 GMT</pubDate>
+            <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202204/95938_108929_2928_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[게임코인TV] GDC 위메이드 위믹스 취재 후기 "위메이드 항해의 끝은 지스타?" (테크M ─ 보는 뉴스)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=95933</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=95933</guid>
@@ -1054,14 +1062,6 @@
             <pubDate>Tue, 22 Mar 2022 05:17:14 GMT</pubDate>
             <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202203/95496_108109_2436_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[배그 토크 콘서트] 광동 프릭스 '히카리' 김동환 "현재 팀워크는 85점" (테크M ─ 보는 뉴스)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=95403</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=95403</guid>
-            <pubDate>Sun, 20 Mar 2022 16:33:17 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202203/95403_107977_485_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
