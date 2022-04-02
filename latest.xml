@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Apr 2022 22:22:31 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Apr 2022 23:20:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[써봤다] 작고 소중하지만 뭔가 아쉬운 내 월급…아니 '아이폰SE']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=95967</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=95967</guid>
+            <pubDate>Sun, 03 Apr 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202204/95967_108990_74_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[e스포츠人] 눈시울 붉힌 T1 선수들...LCK 우승 이어 MSI 우승 노린다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=95968</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 01 Apr 2022 13:34:26 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202204/95952_108957_3754_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["이게 뭐야? 썸네일 취향저격"...네이버웹툰, 만우절에 진심이네]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=95951</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=95951</guid>
-            <pubDate>Fri, 01 Apr 2022 13:34:26 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202204/95951_108952_4320_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
