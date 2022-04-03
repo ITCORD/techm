@@ -4,9 +4,25 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Apr 2022 03:04:28 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Apr 2022 03:32:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성전자, 사운드바 신제품 2종 출시]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=95974</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=95974</guid>
+            <pubDate>Sun, 03 Apr 2022 11:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202204/95974_109009_3714_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["가전과 예술의 공존" LG전자 '시그니처 키친 스위트' 청담 쇼룸 특별 전시회 개최]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=95976</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=95976</guid>
+            <pubDate>Sun, 03 Apr 2022 10:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202204/95976_109010_4541_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[써봤다] 작고 소중하지만 뭔가 아쉬운 내 월급…아니 '아이폰SE']]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=95967</link>
@@ -150,22 +166,6 @@
             <pubDate>Fri, 01 Apr 2022 13:34:26 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202204/95953_108965_97_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[블록체인 게임 시동거는 컴투스, '서머너즈 워: 백년전쟁'에 게임토큰 도입]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=95947</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=95947</guid>
-            <pubDate>Fri, 01 Apr 2022 13:34:26 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202204/95947_108948_511_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["판매금 200% 보상" 고개 숙인 무신사, 에센셜 판매 전면 중단]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=95952</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=95952</guid>
-            <pubDate>Fri, 01 Apr 2022 13:34:26 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202204/95952_108957_3754_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
