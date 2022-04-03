@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Apr 2022 01:45:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Apr 2022 03:04:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -728,6 +728,22 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202203/95684_108493_2951_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[삼성전자, 사운드바 신제품 2종 출시 (테크M ─ 라이프)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=95974</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=95974</guid>
+            <pubDate>Sun, 03 Apr 2022 11:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202204/95974_109009_3714_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["가전과 예술의 공존" LG전자 '시그니처 키친 스위트' 청담 쇼룸 특별 전시회 개최 (테크M ─ 라이프)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=95976</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=95976</guid>
+            <pubDate>Sun, 03 Apr 2022 10:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202204/95976_109010_4541_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA["제조사 가품 확인" 에센셜 티셔츠 짝퉁 논란...네이버 크림이 이겼다 (테크M ─ 라이프)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=95940</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=95940</guid>
@@ -822,22 +838,6 @@
             <pubDate>Wed, 30 Mar 2022 10:51:00 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202203/95813_108707_1815_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LG전자, 휘센 에어컨 사전점검 서비스 실시…"앱으로 자가점검도 가능" (테크M ─ 라이프)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=95770</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=95770</guid>
-            <pubDate>Tue, 29 Mar 2022 11:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202203/95770_108631_5842_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['일상비일상의틈'에서 만난 'LG 그램' (테크M ─ 라이프)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=95772</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=95772</guid>
-            <pubDate>Tue, 29 Mar 2022 11:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202203/95772_108633_212_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[글로벌] 알고리즘 버그에 경쟁사 비방까지...페이스북 메타, 계속 되는 '잡음' (테크M ─ 리포트)]]></title>
