@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Apr 2022 08:29:55 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Apr 2022 09:26:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['2위의 반란' 담원 기아, LCK CL 우승...결승전 MVP 주인공은 박승규 (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=95977</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=95977</guid>
+            <pubDate>Sun, 03 Apr 2022 09:18:35 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202204/95977_109011_292_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["U+프로야구 승리팀 맞추고 태그호이어 시계 등 풍성한 경품 받으세요~" (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=95973</link>
@@ -160,14 +168,6 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202204/95948_108954_4450_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[LCK 결승 예고] 2년 반만에 관객과 함께하는 결승...변수는? '제우스' (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=95929</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=95929</guid>
-            <pubDate>Sat, 02 Apr 2022 09:30:00 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202204/95929_108914_3153_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[LCK 결승] '페이커'-T1, 선수와 팀 최초로 10회 우승 달성 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=95965</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=95965</guid>
@@ -280,6 +280,30 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202204/95951_108952_4320_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA["U+프로야구 승리팀 맞추고 태그호이어 시계 등 풍성한 경품 받으세요~" (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=95973</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=95973</guid>
+            <pubDate>Sun, 03 Apr 2022 08:22:06 GMT</pubDate>
+            <content:encoded><![CDATA[김경영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202204/95973_109008_1338_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SKT, 식목일 맞아 대한민국 숲 살리는 '착한 소비' 이벤트 연다 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=95972</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=95972</guid>
+            <pubDate>Sun, 03 Apr 2022 08:22:06 GMT</pubDate>
+            <content:encoded><![CDATA[김경영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202204/95972_109007_88_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[KT, 직접 휴대폰 월 납부 요금 설계 및 비교 가능한 서비스 선보인다 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=95971</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=95971</guid>
+            <pubDate>Sun, 03 Apr 2022 08:22:06 GMT</pubDate>
+            <content:encoded><![CDATA[김경영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202204/95971_109006_36_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[써봤다] 작고 소중하지만 뭔가 아쉬운 내 월급…아니 '아이폰SE' (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=95967</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=95967</guid>
@@ -366,30 +390,6 @@
             <pubDate>Fri, 01 Apr 2022 09:37:00 GMT</pubDate>
             <content:encoded><![CDATA[김경영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202204/95919_108899_1618_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['NHN클라우드' 공식 출범…"글로벌 테크 기업 도약" (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=95920</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=95920</guid>
-            <pubDate>Fri, 01 Apr 2022 09:28:00 GMT</pubDate>
-            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202204/95920_108900_195_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[5월 IPO 출사표 던진 SK쉴더스…'보안 대장주' 등극 기대(종합) (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=95917</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=95917</guid>
-            <pubDate>Thu, 31 Mar 2022 14:20:36 GMT</pubDate>
-            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202203/95917_108894_3823_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SK쉴더스, 5월 중 상장…기업가치 '최대 3.5조' (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=95916</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=95916</guid>
-            <pubDate>Thu, 31 Mar 2022 10:22:06 GMT</pubDate>
-            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202203/95916_108892_721_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[글로벌] 텐센트·알리바바, NFT 규제 나서..."中 정부 눈치보며 예방 조치" (테크M ─ 이노베이션)]]></title>
