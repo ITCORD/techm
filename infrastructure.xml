@@ -4,9 +4,17 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Apr 2022 06:27:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Apr 2022 07:27:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[테크M 리포트] 삼성전자, 실적은 좋은데 주가는 별로?]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=96016</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=96016</guid>
+            <pubDate>Mon, 04 Apr 2022 07:23:32 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202204/96016_109086_4857_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["입사 보너스 200만원·주4일 재택근무" NHN클라우드 인력 채용 '총력전']]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=96001</link>
@@ -110,14 +118,6 @@
             <pubDate>Sun, 03 Apr 2022 08:00:00 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202204/95967_108990_74_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["판매금 200% 보상" 고개 숙인 무신사, 에센셜 판매 전면 중단]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=95952</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=95952</guid>
-            <pubDate>Fri, 01 Apr 2022 10:24:39 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202204/95952_108957_3754_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

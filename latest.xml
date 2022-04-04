@@ -4,9 +4,25 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Apr 2022 06:27:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Apr 2022 07:27:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[테크M 리포트] 삼성전자, 실적은 좋은데 주가는 별로?]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=96016</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=96016</guid>
+            <pubDate>Mon, 04 Apr 2022 07:22:56 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202204/96016_109086_4857_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[두나무, JYP와 NFT 조인트벤처 설립 합의 해지..."우호적 관계는 지속"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=96015</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=96015</guid>
+            <pubDate>Mon, 04 Apr 2022 07:22:56 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202204/96015_109085_3840_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[코빗, 아이패드 앱 정식 출시...멀티태스킹 지원으로 투자 편의성 높인다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=96013</link>
@@ -150,22 +166,6 @@
             <pubDate>Mon, 04 Apr 2022 10:36:00 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202204/95996_109044_354_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[데브시스터즈, 5개 국어로 신작 소개한다...온라인 쇼케이스 4월 14일 개최]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=95999</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=95999</guid>
-            <pubDate>Mon, 04 Apr 2022 10:35:00 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202204/95999_109056_287_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[누적 1억 다운로드 넘은 '플레이투게더' 개발사 해긴, 임직원에 성과급-스톡옵션 쐈다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=96000</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=96000</guid>
-            <pubDate>Mon, 04 Apr 2022 10:28:00 GMT</pubDate>
-            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202204/96000_109054_2731_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
