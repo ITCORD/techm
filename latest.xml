@@ -4,16 +4,24 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Apr 2022 12:36:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Apr 2022 13:32:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[야나두 '야핏 사이클' 송중기 효과 톡톡…1분기 150억 매출 달성]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=96021</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=96021</guid>
+            <pubDate>Mon, 04 Apr 2022 13:29:39 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202204/96021_109103_147_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[LG CNS, 메가존 합작법인 '클라우드그램' 실적 부진에 41억 손상차손 발생]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=96020</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=96020</guid>
             <pubDate>Mon, 04 Apr 2022 09:21:00 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202204/96020_109101_4448_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202204/96020_109102_5441_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[두나무, 현금화할 수 없는 비트코인 보유량 1년새 8배 늘었다...약 4400억원 규모]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 04 Apr 2022 11:19:00 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202204/96004_109060_912_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스패로우, 클라우드서비스 바우처 사업 공급기업 선정]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=96006</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=96006</guid>
-            <pubDate>Mon, 04 Apr 2022 11:18:00 GMT</pubDate>
-            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202204/96006_109062_1022_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
