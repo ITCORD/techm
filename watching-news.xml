@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Apr 2022 04:27:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Apr 2022 05:20:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] VC가 궁금하다면 꼭 읽어야 할 이야기 'VC탐구백서' (테크M 오리지널)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=96052</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=96052</guid>
+            <pubDate>Tue, 05 Apr 2022 05:20:27 GMT</pubDate>
+            <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202204/96052_109168_542_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 컴투스, '컴투버스' 출범...메타버스 생태계 시동 건다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=96009</link>
@@ -110,14 +118,6 @@
             <pubDate>Thu, 24 Mar 2022 05:28:00 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202203/95559_108250_2720_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 메타버스, 흥행 키워드는 '패션'... 구찌도 탐내는 제페토]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=95542</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=95542</guid>
-            <pubDate>Fri, 01 Apr 2022 13:41:28 GMT</pubDate>
-            <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202203/95542_108206_1513_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
