@@ -4,9 +4,17 @@
         <title>테크M ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Apr 2022 03:00:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2022 03:36:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[카카오 김성수 "연말까지 계열사 30여개 정리...물적분할은 계획 없어"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=96095</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=96095</guid>
+            <pubDate>Wed, 06 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202204/96095_109242_5728_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[AI에 힘 싣는 엔씨소프트, 신규 임원으로 이제희 서울대 교수 영입]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=96073</link>
@@ -110,14 +118,6 @@
             <pubDate>Tue, 29 Mar 2022 10:15:00 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202203/95762_108620_1255_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[카카오 주주총회서 남궁훈 사내이사 선임안 통과]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=95752</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=95752</guid>
-            <pubDate>Tue, 29 Mar 2022 09:44:00 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202203/95752_108611_406_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
