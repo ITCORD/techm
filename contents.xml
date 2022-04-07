@@ -4,9 +4,17 @@
         <title>테크M ─ 콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Apr 2022 23:23:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2022 01:25:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[웹툰 신석기녀 '숙희', 네오플 '사이퍼즈' 속 게임 캐릭터로 즐긴다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=96123</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=96123</guid>
+            <pubDate>Thu, 07 Apr 2022 10:14:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202204/96123_109310_447_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[대륙 정벌 나서는 펄어비스 '검사모', 신작 공백 메울까...일매출 30억원 전망]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=96105</link>
@@ -110,14 +118,6 @@
             <pubDate>Tue, 05 Apr 2022 11:34:00 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202204/96036_109126_5558_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[메타버스 기업 캐리버스, 31억원 시리즈 A 투자 유치]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=96034</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=96034</guid>
-            <pubDate>Tue, 05 Apr 2022 10:34:00 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202204/96034_109124_2734_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
