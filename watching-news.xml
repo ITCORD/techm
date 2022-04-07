@@ -4,9 +4,33 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Apr 2022 04:29:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2022 05:21:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] SKT, 이프랜드서 벚꽃축제... 봄바람 휘날리며~메타버스서 걸어요]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=96149</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=96149</guid>
+            <pubDate>Thu, 07 Apr 2022 05:21:25 GMT</pubDate>
+            <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202204/96149_109371_4758_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[카드뉴스] 지금 우리가 농업을 주목해야 하는 이유 (테크M 오리지널)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=96145</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=96145</guid>
+            <pubDate>Thu, 07 Apr 2022 05:21:25 GMT</pubDate>
+            <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202204/96145_109354_333_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[게임코인TV] 크래프톤 웹3.0 게임이 궁금하면, 엑스엘게임즈 '아키월드'를 보라?]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=96147</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=96147</guid>
+            <pubDate>Thu, 07 Apr 2022 05:21:25 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202204/96147_109367_384_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] NFT 메타버스 '위치컴퍼니', 파트너스인베스트먼트 투자 유치]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=96103</link>
@@ -94,30 +118,6 @@
             <pubDate>Fri, 01 Apr 2022 13:41:28 GMT</pubDate>
             <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202203/95784_108645_5057_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 메타버스 이프랜드, 가상자산 도입'…'아이버스' 생태계 키운다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=95733</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=95733</guid>
-            <pubDate>Fri, 01 Apr 2022 13:41:28 GMT</pubDate>
-            <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202203/95733_108570_266_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[배그 토크 콘서트] 젠지 '맥조라' "팀워크 점수 30점, 보완할 부분 많다"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=95698</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=95698</guid>
-            <pubDate>Fri, 01 Apr 2022 13:41:28 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202203/95698_108520_5748_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[게임코인TV] 'GDC 최대 규모' 위메이드 위믹스 부스를 가다...온보딩 계약 이뤄질까?]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=95674</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=95674</guid>
-            <pubDate>Sat, 26 Mar 2022 05:18:00 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202203/95674_108460_173_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
