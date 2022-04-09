@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Apr 2022 12:33:45 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Apr 2022 13:26:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카트 통신] 돌풍의 핵으로 떠오른 악셀즈와 김다원]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=96219</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=96219</guid>
+            <pubDate>Sat, 09 Apr 2022 13:24:08 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202204/96219_109551_4727_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[BTS 시티] 미국서 열린 하이브 오디션...1만3000명 참가, 높아진 K콘텐츠 위상]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=96218</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 08 Apr 2022 04:24:04 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202204/96165_109430_925_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[테크M 오리지널] 대세는 K-P2E…자산 총계 '100조' 비결은?]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=96164</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=96164</guid>
-            <pubDate>Fri, 08 Apr 2022 04:24:04 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202204/96164_109429_635_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
