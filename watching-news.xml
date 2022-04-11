@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Apr 2022 01:36:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2022 03:13:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[배그 토크 콘서트] '래쉬케이' 김동준 "한국에 적수 없어...중국 잡겠다"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=96245</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=96245</guid>
+            <pubDate>Mon, 11 Apr 2022 10:51:00 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202204/96245_109622_4943_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 이스트소프트, '버추얼 뮤지션' 만든다.. 셀바이뮤직과 맞손]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=96199</link>
@@ -110,14 +118,6 @@
             <pubDate>Fri, 01 Apr 2022 11:14:00 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202204/95933_108922_1317_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 샌드박스네트워크, NFT·P2E·메타버스로 크리에이터 이코노미 구축한다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=95893</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=95893</guid>
-            <pubDate>Fri, 01 Apr 2022 13:41:28 GMT</pubDate>
-            <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202203/95893_108834_5625_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
