@@ -4,9 +4,25 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Apr 2022 06:35:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2022 07:25:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 코인, P2E, DAO로 웹3.0 시대 연다(테크M 오리지널)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=96261</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=96261</guid>
+            <pubDate>Mon, 11 Apr 2022 07:25:06 GMT</pubDate>
+            <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202204/96261_109634_385_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[카드뉴스] 전통예술, 증강현실로 재해석하니...남다른 몰입감 '실감나네']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=96262</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=96262</guid>
+            <pubDate>Mon, 11 Apr 2022 07:25:06 GMT</pubDate>
+            <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202204/96262_109646_014_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[배그 토크 콘서트] '래쉬케이' 김동준 "한국에 적수 없어...중국 잡겠다"]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=96245</link>
@@ -102,22 +118,6 @@
             <pubDate>Mon, 04 Apr 2022 06:27:38 GMT</pubDate>
             <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202204/96009_109065_911_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 메타버스 홈트, '야핏 사이클'... "야, 너두 핏할 수 있어!"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=95938</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=95938</guid>
-            <pubDate>Fri, 01 Apr 2022 13:41:28 GMT</pubDate>
-            <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202204/95938_108929_2928_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[게임코인TV] GDC 위메이드 위믹스 취재 후기 "위메이드 항해의 끝은 지스타?"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=95933</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=95933</guid>
-            <pubDate>Fri, 01 Apr 2022 11:14:00 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202204/95933_108922_1317_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
