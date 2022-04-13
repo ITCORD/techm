@@ -4,9 +4,25 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Apr 2022 09:28:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Apr 2022 10:24:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 메타의 메타버스, 호라이즌 월드 열린다... 크리에이터 이코노미까지 구축]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=96367</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=96367</guid>
+            <pubDate>Wed, 13 Apr 2022 10:24:48 GMT</pubDate>
+            <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202204/96367_109837_1756_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[카드뉴스] 포스트 코로나 시대, 로봇이 필요해 (테크M 오리지널)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=96365</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=96365</guid>
+            <pubDate>Wed, 13 Apr 2022 10:24:48 GMT</pubDate>
+            <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202204/96365_109818_3659_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 빗썸메타, 김형석 작곡가와 맞손...'노느니특공대엔터' 2대주주 됐다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=96315</link>
@@ -102,22 +118,6 @@
             <pubDate>Wed, 06 Apr 2022 05:22:00 GMT</pubDate>
             <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202204/96100_109250_1049_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[게임코인TV] 크래프톤이 NFT 위해 선택한 메인넷...'시총 6위' 솔라나를 소개합니다(상)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=96088</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=96088</guid>
-            <pubDate>Wed, 06 Apr 2022 10:47:00 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202204/96088_109231_4655_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 디비전 네트워크, 네오핀과 맞손...메타버스 공동 개발한다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=96057</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=96057</guid>
-            <pubDate>Tue, 05 Apr 2022 06:28:26 GMT</pubDate>
-            <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202204/96057_109171_2453_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
