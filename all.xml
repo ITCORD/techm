@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Apr 2022 10:29:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2022 11:20:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[WEMIX welcomes Kakao Games as a governance partner (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=96431</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=96431</guid>
+            <pubDate>Thu, 14 Apr 2022 11:16:39 GMT</pubDate>
+            <content:encoded><![CDATA[김현기 대표]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202204/96431_109989_3636_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한국화웨이, '2022 국제그린에너지엑스포'에서 고출력·고효율 태양광 솔루션 선봬 (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=96430</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=96430</guid>
+            <pubDate>Thu, 14 Apr 2022 11:16:39 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202204/96430_109988_2251_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[카카오페이·토스가 독과점 기업?...전문가들 "억울한 규제에 발목잡혀" (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=96429</link>
@@ -107,7 +123,7 @@
             <title><![CDATA[[부고] 황의신(뉴스웨이 편집국장)씨 장모상 (테크M ─ 전체기사)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Thu, 14 Apr 2022 09:19:31 GMT</pubDate>
+            <pubDate>Thu, 14 Apr 2022 11:16:39 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
         </item>
         <item>
@@ -149,22 +165,6 @@
             <pubDate>Thu, 14 Apr 2022 11:57:00 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202204/96407_109985_5431_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[신규 IP·신작 쏟아졌다...데브시스터즈 첫 온라인 쇼케이스 '데브나우' (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=96406</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=96406</guid>
-            <pubDate>Thu, 14 Apr 2022 11:37:00 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202204/96406_109917_2036_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[글로벌] 아이폰 中 공장 '또' 중단...애플, 공급망 다각화 필요성 커져 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=96410</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=96410</guid>
-            <pubDate>Thu, 14 Apr 2022 11:36:00 GMT</pubDate>
-            <content:encoded><![CDATA[김현기 대표]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202204/96410_109924_3537_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아시안 게임 LoL 종목 국가대표 예비명단 10인 공개...'페이커'-'쵸비' 각축전 (테크M ─ 콘텐츠)]]></title>
@@ -279,6 +279,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202204/96377_109864_2723_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[한국화웨이, '2022 국제그린에너지엑스포'에서 고출력·고효율 태양광 솔루션 선봬 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=96430</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=96430</guid>
+            <pubDate>Thu, 14 Apr 2022 11:17:18 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202204/96430_109988_2251_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[테크M 이슈] "보안주가 뜬다" 상장 앞둔 SK쉴더스에 쏠린 눈 (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=96424</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=96424</guid>
@@ -381,14 +389,6 @@
             <pubDate>Wed, 13 Apr 2022 11:29:00 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202204/96359_109813_2826_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제페토서 코인으로 돈 번다...네이버표 메타버스 전략 '눈길' (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=96355</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=96355</guid>
-            <pubDate>Wed, 13 Apr 2022 11:08:00 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202204/96355_109808_256_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[카카오페이·토스가 독과점 기업?...전문가들 "억울한 규제에 발목잡혀" (테크M ─ 이노베이션)]]></title>
@@ -618,7 +618,7 @@
             <title><![CDATA[[부고] 황의신(뉴스웨이 편집국장)씨 장모상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Thu, 14 Apr 2022 10:27:44 GMT</pubDate>
+            <pubDate>Thu, 14 Apr 2022 11:19:03 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
         </item>
         <item>
