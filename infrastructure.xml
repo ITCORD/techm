@@ -4,9 +4,17 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Apr 2022 06:27:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2022 07:22:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[테크M 이슈] "보안주가 뜬다" 상장 앞둔 SK쉴더스에 쏠린 눈]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=96424</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=96424</guid>
+            <pubDate>Thu, 14 Apr 2022 07:20:19 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202204/96424_109965_1242_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[구현모 KT "코리아텔레콤 대신 '코리아테크'로 불러달라"]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=96414</link>
@@ -110,14 +118,6 @@
             <pubDate>Wed, 13 Apr 2022 11:08:00 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202204/96355_109808_256_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이스트시큐리티 '알약'으로 1분기 랜섬웨어 공격 17만여건 차단]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=96344</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=96344</guid>
-            <pubDate>Wed, 13 Apr 2022 10:30:00 GMT</pubDate>
-            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202204/96344_109797_2749_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
