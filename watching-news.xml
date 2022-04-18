@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Apr 2022 05:23:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2022 06:29:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 네이버-카카오, 모바일 증명서 시장 키운다... 동사무소도 메타버스?!]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=96520</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=96520</guid>
+            <pubDate>Mon, 18 Apr 2022 06:29:14 GMT</pubDate>
+            <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202204/96520_110146_4435_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 메타버스 시대, '보안' 마련 급선무…보안 없이는 기회도 없다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=96457</link>
@@ -110,14 +118,6 @@
             <pubDate>Fri, 08 Apr 2022 06:26:05 GMT</pubDate>
             <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202204/96199_109467_254_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] '랜선 공연' 넘어 '메타버스 공연' 뜬다(테크M 오리지널)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=96198</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=96198</guid>
-            <pubDate>Fri, 08 Apr 2022 06:26:05 GMT</pubDate>
-            <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202204/96198_109455_5842_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>테크M ─ 이노베이션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Apr 2022 05:23:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2022 06:29:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[FreeView] 더 나은 이동을 누릴 권리]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=96521</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=96521</guid>
+            <pubDate>Mon, 18 Apr 2022 06:26:07 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202204/96521_110153_19_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[KT, 블록체인 기반 공인전자문서센터로 지정]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=96512</link>
@@ -110,14 +118,6 @@
             <pubDate>Thu, 14 Apr 2022 11:17:00 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202204/96403_109913_1627_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[위메이드, 한국게임산업협회에 10억원 상당 가상자산 위믹스 기부]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=96396</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=96396</guid>
-            <pubDate>Thu, 14 Apr 2022 09:54:00 GMT</pubDate>
-            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202204/96396_109901_5328_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
