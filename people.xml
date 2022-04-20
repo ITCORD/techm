@@ -4,9 +4,16 @@
         <title>테크M ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Apr 2022 04:54:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2022 05:39:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[부고] 김성철(넷마블 상무)씨 부친상]]></title>
+            <link>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN5&amp;view_type=sm</link>
+            <guid>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN5&amp;view_type=sm</guid>
+            <pubDate>Wed, 20 Apr 2022 05:38:09 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA['유니콘' 리디, 조성진 전 구글 엔지니어 CTO로 영입]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=96539</link>
@@ -35,7 +42,7 @@
             <title><![CDATA[[부고] 황의신(뉴스웨이 편집국장)씨 장모상]]></title>
             <link>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN5&amp;view_type=sm</link>
             <guid>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN5&amp;view_type=sm</guid>
-            <pubDate>Wed, 20 Apr 2022 04:53:08 GMT</pubDate>
+            <pubDate>Wed, 20 Apr 2022 05:38:09 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
         </item>
         <item>
@@ -108,14 +115,6 @@
             <pubDate>Sun, 10 Apr 2022 09:20:26 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202204/96230_109578_3931_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[인싸뷰] 존-폴 리 대표 "인적 자원 데이터 솔루션 '베플'로 기업의 건강한 노사문화 지원"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=96208</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=96208</guid>
-            <pubDate>Sun, 10 Apr 2022 10:04:00 GMT</pubDate>
-            <content:encoded><![CDATA[김경영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202204/96208_109498_4222_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
