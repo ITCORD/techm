@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Apr 2022 03:39:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2022 04:52:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -280,6 +280,22 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202204/96569_110235_2417_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[MZ세대가 '지구의 날' 챙기는 법...틱톡 '환경보호' 캠페인에 눈길 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=96652</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=96652</guid>
+            <pubDate>Thu, 21 Apr 2022 04:49:10 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202204/96652_110359_2133_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[AWS 'ESG 도우미' 자처…"클라우드 전환으로 탄소배출 96% 줄인다" (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=96659</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=96659</guid>
+            <pubDate>Thu, 21 Apr 2022 04:49:10 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202204/96659_110367_5351_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[양자컴퓨터 시대 준비하는 통신3사, 해킹 걱정 없는 통신을 향해 (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=96654</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=96654</guid>
@@ -374,22 +390,6 @@
             <pubDate>Thu, 21 Apr 2022 09:56:00 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202204/96633_110335_5234_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[네이버 커머스의 효자 '크림'...연간 거래액 1조 넘는다 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=96632</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=96632</guid>
-            <pubDate>Thu, 21 Apr 2022 09:45:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202204/96632_110334_454_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한컴그룹, 부산시에 메타버스·NFT 산업 띄운다 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=96630</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=96630</guid>
-            <pubDate>Thu, 21 Apr 2022 09:27:00 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202204/96630_110333_2516_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[호텔 운영도 디지털로...H2O호스피탈리티, 하이원리조트와 '맞손' (테크M ─ 이노베이션)]]></title>
@@ -627,7 +627,7 @@
             <title><![CDATA[[부고] 김성철(넷마블 상무)씨 부친상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Thu, 21 Apr 2022 03:37:20 GMT</pubDate>
+            <pubDate>Thu, 21 Apr 2022 04:50:56 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
         </item>
         <item>
@@ -658,7 +658,7 @@
             <title><![CDATA[[부고] 황의신(뉴스웨이 편집국장)씨 장모상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Thu, 21 Apr 2022 03:37:20 GMT</pubDate>
+            <pubDate>Thu, 21 Apr 2022 04:50:56 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
         </item>
         <item>
@@ -949,6 +949,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202204/96305_109711_4114_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[게임코인TV] 장현국 위메이드 대표 위믹스 구매의 의미는? 위믹스 분석 (상) (테크M ─ 보는 뉴스)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=96662</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=96662</guid>
+            <pubDate>Thu, 21 Apr 2022 04:52:50 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202204/96662_110374_420_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[카드뉴스] 마인크래프트, 이제 성인 게임 아니다..."국내 19세 미만 이용자 접속 허용" (테크M ─ 보는 뉴스)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=96604</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=96604</guid>
@@ -1051,14 +1059,6 @@
             <pubDate>Tue, 12 Apr 2022 05:27:31 GMT</pubDate>
             <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202204/96311_109727_155_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 코인, P2E, DAO로 웹3.0 시대 연다(테크M 오리지널) (테크M ─ 보는 뉴스)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=96261</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=96261</guid>
-            <pubDate>Mon, 11 Apr 2022 06:28:59 GMT</pubDate>
-            <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202204/96261_109634_385_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
