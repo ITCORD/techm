@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Apr 2022 11:27:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2022 12:42:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -280,6 +280,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202204/96572_110250_319_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[가봤다] '총성 없는 전쟁터'…SK쉴더스 사이버보안 최전선 '시큐디움' 가보니 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=96678</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=96678</guid>
+            <pubDate>Thu, 21 Apr 2022 10:23:38 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202204/96678_110425_3557_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[SK쉴더스, 증권신고서 정정 제출…비교기업군 변경하고 5월 상장 (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=96674</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=96674</guid>
@@ -382,14 +390,6 @@
             <pubDate>Thu, 21 Apr 2022 10:46:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202204/96648_110352_4459_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[힙합 띄우는 지니뮤직, 오리지널 오디오 콘텐츠 제작 팔 걷었다 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=96647</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=96647</guid>
-            <pubDate>Thu, 21 Apr 2022 10:40:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202204/96647_110351_406_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[호텔 운영도 디지털로...H2O호스피탈리티, 하이원리조트와 '맞손' (테크M ─ 이노베이션)]]></title>
