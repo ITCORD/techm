@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Apr 2022 09:23:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2022 10:31:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[가봤다] '총성 없는 전쟁터'…SK쉴더스 사이버보안 최전선 '시큐디움' 가보니 (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=96678</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=96678</guid>
+            <pubDate>Thu, 21 Apr 2022 10:23:38 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202204/96678_110425_3557_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['초거대 AI' 힘주는 카카오브레인, 400억 수혈..."목표는 글로벌" (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=96675</link>
@@ -160,14 +168,6 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202204/96659_110367_5351_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[글로벌] 화성 탐사 로버, 고대 삼각주 도착...38억년 전 생명체 흔적 찾는다 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=96657</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=96657</guid>
-            <pubDate>Thu, 21 Apr 2022 00:20:00 GMT</pubDate>
-            <content:encoded><![CDATA[김현기 대표]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202204/96657_110417_3149_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[2022 항저우 아시안게임 하스스톤 국가대표, 24일 결정된다 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=96660</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=96660</guid>
@@ -283,7 +283,7 @@
             <title><![CDATA[SK쉴더스, 증권신고서 정정 제출…비교기업군 변경하고 5월 상장 (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=96674</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=96674</guid>
-            <pubDate>Thu, 21 Apr 2022 09:20:46 GMT</pubDate>
+            <pubDate>Thu, 21 Apr 2022 09:20:07 GMT</pubDate>
             <content:encoded><![CDATA[김가은 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202204/96674_110410_95_v150.jpg" length="0" type="image/jpg"/>
         </item>
@@ -291,7 +291,7 @@
             <title><![CDATA['사이버보안 1등' SK쉴더스의 자존심 '시큐디움·탑서트·이큐스트' (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=96672</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=96672</guid>
-            <pubDate>Thu, 21 Apr 2022 09:20:46 GMT</pubDate>
+            <pubDate>Thu, 21 Apr 2022 09:20:07 GMT</pubDate>
             <content:encoded><![CDATA[김가은 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202204/96672_110403_4058_v150.jpg" length="0" type="image/jpg"/>
         </item>
