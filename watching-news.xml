@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Apr 2022 04:52:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2022 05:42:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 메타버스 시대, 콘텐츠 창작자가 이끈다! 크리에이터 이코노미 '눈길']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=96661</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=96661</guid>
+            <pubDate>Thu, 21 Apr 2022 05:42:07 GMT</pubDate>
+            <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202204/96661_110373_4158_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[게임코인TV] 장현국 위메이드 대표 위믹스 구매의 의미는? 위믹스 분석 (상)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=96662</link>
@@ -110,14 +118,6 @@
             <pubDate>Tue, 12 Apr 2022 06:27:22 GMT</pubDate>
             <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202204/96315_109745_4357_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] '라떼' 기자의 MZ 세대 문화 체험기(테크M 오리지널)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=96311</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=96311</guid>
-            <pubDate>Tue, 12 Apr 2022 05:27:31 GMT</pubDate>
-            <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202204/96311_109727_155_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
