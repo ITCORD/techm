@@ -4,9 +4,33 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Apr 2022 01:57:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Apr 2022 03:52:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[게임코인TV] 오딘에 붙는 코인은 보라? 위믹스? 아니면 둘 다?...위믹스 분석 (중)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=96694</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=96694</guid>
+            <pubDate>Fri, 22 Apr 2022 00:01:00 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202204/96694_110446_039_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["당신도 철구와 영상소통 가능"...아프리카TV, '유저 참여' 기능 도입]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=96692</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=96692</guid>
+            <pubDate>Fri, 22 Apr 2022 11:42:00 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202204/96692_110443_1745_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['안철수 코인' 나올까...안랩, 블록체인 자회사 설립으로 '지갑' 사업 본격화]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=96693</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=96693</guid>
+            <pubDate>Fri, 22 Apr 2022 11:35:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202204/96693_110445_3043_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["친환경도 무신사랑 해"...무신사 스탠다드, '그린 라인' 띄운다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=96687</link>
@@ -142,30 +166,6 @@
             <pubDate>Thu, 21 Apr 2022 09:20:07 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202204/96673_110409_5115_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['뚝심의 이준행' 가상자산 거래소 고팍스, 오는 28일 원화마켓 연다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=96671</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=96671</guid>
-            <pubDate>Thu, 21 Apr 2022 09:20:07 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202204/96671_110422_404_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[조각투자도 증권] ④(끝) 정재욱 법무법인 주원 변호사 "블록체인 업계도 증권성 판단 대비해야"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=96670</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=96670</guid>
-            <pubDate>Thu, 21 Apr 2022 09:20:07 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202204/96670_110412_2933_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[조각투자도 증권] ③증선위 가이드라인에 쏠린 눈...조각투자 '옥석가리기' 기대감]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=96669</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=96669</guid>
-            <pubDate>Thu, 21 Apr 2022 09:20:07 GMT</pubDate>
-            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202204/96669_110413_304_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
