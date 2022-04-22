@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Apr 2022 06:30:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Apr 2022 07:26:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,10 +168,18 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202204/96682_110431_4615_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[뉴스테이트에서 어몽어스를?...크래프톤, 신규 콘텐츠 업데이트 (테크M ─ 콘텐츠)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=96697</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=96697</guid>
+            <pubDate>Fri, 22 Apr 2022 07:20:32 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202204/96697_110474_2859_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['지옥' 제작한 연상호·최규석, 웹툰 '계시록'으로 다시 뭉친다 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=96700</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=96700</guid>
-            <pubDate>Fri, 22 Apr 2022 06:25:20 GMT</pubDate>
+            <pubDate>Fri, 22 Apr 2022 06:25:04 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202204/96700_110467_3049_v150.jpg" length="0" type="image/jpg"/>
         </item>
@@ -272,18 +280,10 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202204/96607_110298_293_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[블록체인 비즈니스에 집중하는 샌드박스 게이밍...헤이비트-EJN과 연달아 '맞손' (테크M ─ 콘텐츠)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=96596</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=96596</guid>
-            <pubDate>Wed, 20 Apr 2022 11:24:00 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202204/96596_110279_191_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[애플 '아이폰 SE' 안 팔리네…미국 판매량 전작 대비 80% 수준에 그쳐 (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=96702</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=96702</guid>
-            <pubDate>Fri, 22 Apr 2022 06:25:38 GMT</pubDate>
+            <pubDate>Fri, 22 Apr 2022 06:25:04 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202204/96702_110472_570_v150.jpg" length="0" type="image/jpg"/>
         </item>
@@ -395,7 +395,7 @@
             <title><![CDATA[로지·래아·유아 계보 이을까...남성 버추얼 휴먼 '질주' 탄생에 눈길 (테크M ─ 이노베이션)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=96699</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=96699</guid>
-            <pubDate>Fri, 22 Apr 2022 06:25:55 GMT</pubDate>
+            <pubDate>Fri, 22 Apr 2022 06:25:04 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202204/96699_110463_132_v150.jpg" length="0" type="image/jpg"/>
         </item>
