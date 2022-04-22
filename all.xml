@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Apr 2022 03:52:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Apr 2022 04:55:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,7 +16,7 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202204/96694_110446_039_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA["당신도 철구와 영상소통 가능"...아프리카TV, '유저 참여' 기능 도입 (테크M ─ 전체기사)]]></title>
+            <title><![CDATA["당신도 감스트와 영상소통 가능"...아프리카TV, '유저 참여' 기능 도입 (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=96692</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=96692</guid>
             <pubDate>Fri, 22 Apr 2022 11:42:00 GMT</pubDate>
@@ -24,7 +24,7 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202204/96692_110443_1745_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['안철수 코인' 나올까...안랩, 블록체인 자회사 설립으로 '지갑' 사업 본격화 (테크M ─ 전체기사)]]></title>
+            <title><![CDATA['안랩 코인' 나올까...안랩, 블록체인 자회사 설립으로 '지갑' 사업 본격화 (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=96693</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=96693</guid>
             <pubDate>Fri, 22 Apr 2022 11:35:00 GMT</pubDate>
@@ -168,6 +168,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202204/96673_110409_5115_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['안랩 코인' 나올까...안랩, 블록체인 자회사 설립으로 '지갑' 사업 본격화 (테크M ─ 콘텐츠)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=96693</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=96693</guid>
+            <pubDate>Fri, 22 Apr 2022 11:35:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202204/96693_110445_3043_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['올 것이 왔다'...리니지W에 열리는 첫 공성전, '매출 반등' 일궈낼까 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=96690</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=96690</guid>
@@ -270,14 +278,6 @@
             <pubDate>Wed, 20 Apr 2022 09:48:00 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202204/96584_110266_4346_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쿡앱스, 1Q 매출 235억원…'테일드 데몬 슬레이어' 덕에 웃었다 (테크M ─ 콘텐츠)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=96583</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=96583</guid>
-            <pubDate>Wed, 20 Apr 2022 09:41:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202204/96583_110265_4127_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[삼성 '갤럭시 S22' 일본 사전판매 50% 증가…S펜 품은 '울트라' 인기 (테크M ─ 인프라)]]></title>
@@ -627,7 +627,7 @@
             <title><![CDATA[[부고] 김성철(넷마블 상무)씨 부친상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Fri, 22 Apr 2022 03:50:23 GMT</pubDate>
+            <pubDate>Fri, 22 Apr 2022 04:53:21 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
         </item>
         <item>
@@ -658,7 +658,7 @@
             <title><![CDATA[[부고] 황의신(뉴스웨이 편집국장)씨 장모상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Fri, 22 Apr 2022 03:50:23 GMT</pubDate>
+            <pubDate>Fri, 22 Apr 2022 04:53:21 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
         </item>
         <item>
