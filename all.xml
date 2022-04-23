@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Apr 2022 22:23:39 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Apr 2022 23:26:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[테크M 트렌드] 사라지는 한뼘폰…"그때는 맞고 지금은 틀리다" (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=96718</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=96718</guid>
+            <pubDate>Sun, 24 Apr 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202204/96718_110503_3640_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[테크M 리포트] 카카오와 바이낸스...넷마블 방준혁 'MBX-큐브' 투트랙 꺼낸 이유는 (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=96715</link>
@@ -160,14 +168,6 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202204/96701_110489_5918_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[현대백화점과 클레이다이스의 만남..."한정판 NFT 쏜다" (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=96698</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=96698</guid>
-            <pubDate>Fri, 22 Apr 2022 05:37:50 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202204/96698_110461_4712_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[e스포츠人] 벼락치기로 개인전 결승 오른 배성빈의 간절한 바람 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=96719</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=96719</guid>
@@ -280,6 +280,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202204/96623_110326_3256_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[테크M 트렌드] 사라지는 한뼘폰…"그때는 맞고 지금은 틀리다" (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=96718</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=96718</guid>
+            <pubDate>Sun, 24 Apr 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202204/96718_110503_3640_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[사이버 공격 늘어나는데 인재는 부족…스플렁크 "자동화로 보안 간소화 필요" (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=96707</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=96707</guid>
@@ -382,14 +390,6 @@
             <pubDate>Thu, 21 Apr 2022 09:20:07 GMT</pubDate>
             <content:encoded><![CDATA[김가은 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202204/96672_110403_4058_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국공학한림원 '자율주행 포럼' 개최…'자율주행 글로벌 1등' 전략 논의한다 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=96668</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=96668</guid>
-            <pubDate>Thu, 21 Apr 2022 06:26:14 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202204/96668_110394_2015_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[로지·래아·유아 계보 이을까...남성 버추얼 휴먼 '질주' 탄생에 눈길 (테크M ─ 이노베이션)]]></title>
@@ -627,7 +627,7 @@
             <title><![CDATA[[부고] 김성철(넷마블 상무)씨 부친상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Sat, 23 Apr 2022 21:20:26 GMT</pubDate>
+            <pubDate>Sat, 23 Apr 2022 23:24:26 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
         </item>
         <item>
@@ -658,7 +658,7 @@
             <title><![CDATA[[부고] 황의신(뉴스웨이 편집국장)씨 장모상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Sat, 23 Apr 2022 21:20:26 GMT</pubDate>
+            <pubDate>Sat, 23 Apr 2022 23:24:26 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
         </item>
         <item>
