@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Apr 2022 13:37:32 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Apr 2022 14:20:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,6 +168,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202204/96705_110487_5753_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[KRPL 통신] 게임코치의 독주...'동이' 팀전 패배 아픔, 개인전 1위로 만회 (테크M ─ 콘텐츠)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=96727</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=96727</guid>
+            <pubDate>Sun, 24 Apr 2022 14:19:02 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202204/96727_110526_1035_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[e스포츠人] 벼락치기로 개인전 결승 오른 배성빈의 간절한 바람 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=96719</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=96719</guid>
@@ -270,14 +278,6 @@
             <pubDate>Thu, 21 Apr 2022 10:33:00 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202204/96644_110346_3312_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[해외 공략 고삐죄는 카카오게임즈, 울티마온라인 개발자가 만든 게임사에 180억원 투자 (테크M ─ 콘텐츠)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=96623</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=96623</guid>
-            <pubDate>Thu, 21 Apr 2022 08:33:00 GMT</pubDate>
-            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202204/96623_110326_3256_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[삼성·LG 공격한 랩서스, 미국 통신사 'T모바일'도 해킹 시도 (테크M ─ 인프라)]]></title>
@@ -616,6 +616,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202204/96531_110181_341_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[e스포츠人] 도전자로 돌아온 '동이' 신동이의 굳은 각오 (테크M ─ 피플)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=96728</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=96728</guid>
+            <pubDate>Sun, 24 Apr 2022 14:20:03 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202204/96728_110532_638_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[한컴그룹, 라파엘나눔 홈리스 클리닉에 방역용품 지원 (테크M ─ 피플)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=96726</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=96726</guid>
@@ -635,7 +643,7 @@
             <title><![CDATA[[부고] 김성철(넷마블 상무)씨 부친상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Sun, 24 Apr 2022 12:36:29 GMT</pubDate>
+            <pubDate>Sun, 24 Apr 2022 14:20:03 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
         </item>
         <item>
@@ -666,7 +674,7 @@
             <title><![CDATA[[부고] 황의신(뉴스웨이 편집국장)씨 장모상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Sun, 24 Apr 2022 12:36:29 GMT</pubDate>
+            <pubDate>Sun, 24 Apr 2022 14:20:03 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
         </item>
         <item>
@@ -715,14 +723,6 @@
             <pubDate>Wed, 13 Apr 2022 10:37:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202204/96349_109803_3748_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[네이버 글로벌 3.0] 최수연 대표 "주가 관리? CEO 보수와 연동할 것" (테크M ─ 피플)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=96339</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=96339</guid>
-            <pubDate>Wed, 13 Apr 2022 10:17:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202204/96339_109791_1657_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[여름엔 아이스지!...티몬, 이디야커피 신메뉴 '라방'으로 단독 판매 (테크M ─ 라이프)]]></title>
