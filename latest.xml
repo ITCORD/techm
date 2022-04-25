@@ -4,9 +4,25 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Apr 2022 06:30:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2022 07:22:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[테크M 이슈] 안철수 총리 뉴스도 아닌데...하루새 17% 오른 안랩, 왜?]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=96765</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=96765</guid>
+            <pubDate>Mon, 25 Apr 2022 07:19:48 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202204/96765_110604_1055_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[스마트워치 시장에 등장한 '픽셀워치'…하드웨어 보폭 넓히는 구글]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=96764</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=96764</guid>
+            <pubDate>Mon, 25 Apr 2022 07:19:48 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202204/96764_110599_4459_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['플랫폼'으로 진화하는 車…멜론·지니와 손잡는 이유는]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=96759</link>
@@ -150,22 +166,6 @@
             <pubDate>Mon, 25 Apr 2022 10:20:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202204/96744_110589_4251_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[네이버클라우드, HPC 플랫폼 기업 리스케일과 'HPCaaS' 서비스 제공]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=96743</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=96743</guid>
-            <pubDate>Mon, 25 Apr 2022 10:17:00 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202204/96743_110552_1617_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SK스토아, 늘어난 주문량에...'곤지암 풀필먼트 센터'로 물류센터 확장 이전]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=96742</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=96742</guid>
-            <pubDate>Mon, 25 Apr 2022 10:13:00 GMT</pubDate>
-            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202204/96742_110550_128_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
