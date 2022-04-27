@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Apr 2022 10:26:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2022 11:19:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[메타, 신규 서비스 기획·실험 조직 'NPE팀' 신설]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=96888</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=96888</guid>
+            <pubDate>Wed, 27 Apr 2022 11:17:14 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202204/96888_110796_818_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[데이터 클라우드 시대…글로벌 기업들 연이어 한국 시장 '노크']]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=96886</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 27 Apr 2022 05:29:25 GMT</pubDate>
             <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202204/96865_110747_1818_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["그룹사 역량 총동원"...KT가 AI 기반 어르신 돌봄 시대 앞장선다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=96864</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=96864</guid>
-            <pubDate>Wed, 27 Apr 2022 04:48:27 GMT</pubDate>
-            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202204/96864_110784_2220_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
