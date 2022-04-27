@@ -4,16 +4,24 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Apr 2022 07:22:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2022 08:26:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[LG이노텍, 1분기 영업이익 3671억…전년 동기 대비 5.8%↑]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=96881</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=96881</guid>
+            <pubDate>Wed, 27 Apr 2022 08:25:02 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202204/96881_110778_3131_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[안드로이드 5G 스마트폰 리더는 삼성 '갤럭시']]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=96876</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=96876</guid>
             <pubDate>Wed, 27 Apr 2022 07:20:02 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202204/96876_110772_153_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202204/96876_110782_2144_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[LG디스플레이 1분기 영업이익 93%↓…LCD 패널 가격 하락에 실적 부진]]></title>
@@ -37,7 +45,7 @@
             <guid>https://www.techm.kr/news/articleView.html?idxno=96864</guid>
             <pubDate>Wed, 27 Apr 2022 04:48:58 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202204/96864_110744_1132_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202204/96864_110784_2220_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[KT, AI 케어 플랫폼으로 취약계층 돌봄 패러다임 전환 이끈다]]></title>
@@ -110,14 +118,6 @@
             <pubDate>Wed, 27 Apr 2022 10:13:00 GMT</pubDate>
             <content:encoded><![CDATA[김가은 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202204/96840_110720_517_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스틸리언, 시각 장애인을 위한 키패드 보안 솔루션 출시]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=96841</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=96841</guid>
-            <pubDate>Wed, 27 Apr 2022 10:12:00 GMT</pubDate>
-            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202204/96841_110721_126_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
