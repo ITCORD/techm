@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Apr 2022 03:49:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2022 04:51:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 카카오엔터프라이즈, 롤리조쓰컴퍼니와 맞손..."오롤리데이가 NFT·메타버스로"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=96865</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=96865</guid>
+            <pubDate>Wed, 27 Apr 2022 04:51:29 GMT</pubDate>
+            <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202204/96865_110747_1818_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 플레이댑, KB국민카드와 맞손...'리브메이트 메타버스'서 금융활동 한다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=96802</link>
@@ -110,14 +118,6 @@
             <pubDate>Fri, 15 Apr 2022 10:31:00 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202204/96443_109997_3025_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[게임코인TV] 보라2.0 백서 뜯어보기...백서에 등장한 게임 전격 해부 (상)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=96419</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=96419</guid>
-            <pubDate>Thu, 14 Apr 2022 06:27:27 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202204/96419_109955_4228_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
