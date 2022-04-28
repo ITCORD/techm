@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Apr 2022 06:32:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Apr 2022 07:23:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[게임코인TV] 넷마블 코인 'MBX'는 어떤 거래소에 상장될까...코인원? 고팍스?]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=96936</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=96936</guid>
+            <pubDate>Thu, 28 Apr 2022 07:23:03 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202204/96936_110870_4949_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 이프랜드, '국립국장' 랜드 선보인다... 한국 공연예술의 중심을 메타버스에서]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=96923</link>
@@ -110,14 +118,6 @@
             <pubDate>Tue, 19 Apr 2022 06:27:41 GMT</pubDate>
             <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202204/96559_110210_3656_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 네이버-카카오, 모바일 증명서 시장 키운다... 동사무소도 메타버스?!]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=96520</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=96520</guid>
-            <pubDate>Mon, 18 Apr 2022 06:29:14 GMT</pubDate>
-            <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202204/96520_110146_4435_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
