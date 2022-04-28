@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Apr 2022 04:28:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Apr 2022 05:45:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 이프랜드, '국립국장' 랜드 선보인다... 한국 공연예술의 중심을 메타버스에서]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=96923</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=96923</guid>
+            <pubDate>Thu, 28 Apr 2022 05:45:32 GMT</pubDate>
+            <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202204/96923_110848_4026_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[게임코인TV] 넷마블 MBX 덱스 거래소 론칭...MBX 가격은 어디로?]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=96874</link>
@@ -110,14 +118,6 @@
             <pubDate>Mon, 18 Apr 2022 06:29:14 GMT</pubDate>
             <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202204/96520_110146_4435_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 메타버스 시대, '보안' 마련 급선무…보안 없이는 기회도 없다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=96457</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=96457</guid>
-            <pubDate>Fri, 15 Apr 2022 06:26:48 GMT</pubDate>
-            <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202204/96457_110020_1728_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
