@@ -4,9 +4,25 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Apr 2022 10:24:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Apr 2022 11:20:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[롯데정보통신, 1분기 영업이익 51억원…전년 동기 대비 54.8% 감소]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=96952</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=96952</guid>
+            <pubDate>Thu, 28 Apr 2022 11:17:16 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202204/96952_110903_3337_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[신세계아이앤씨, 1분기 영업익 68억원…전년 동기 대비 12%↓]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=96951</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=96951</guid>
+            <pubDate>Thu, 28 Apr 2022 11:17:16 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202204/96951_110902_2521_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한화시스템, 1분기 영업이익 50.5%↓..."미래사업 투자 영향"]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=96950</link>
@@ -150,22 +166,6 @@
             <pubDate>Thu, 28 Apr 2022 07:18:16 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202204/96932_110874_1751_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['한류 전도사' 하이브 방시혁, 서울대 박사님 됐다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=96933</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=96933</guid>
-            <pubDate>Thu, 28 Apr 2022 07:18:16 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202204/96933_110867_3549_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[테크M 이슈] 블록체인으로 웃은 그라비티...라그나로크 NFT 버전으로 亞에서 '방긋']]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=96931</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=96931</guid>
-            <pubDate>Thu, 28 Apr 2022 06:29:07 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202204/96931_110865_2040_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
