@@ -4,9 +4,24 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Apr 2022 06:27:33 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Apr 2022 07:21:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[부고] 김성수(카카오 부회장)씨 모친상]]></title>
+            <link>https://www.techm.kr/news/articleList.html</link>
+            <guid>https://www.techm.kr/news/articleList.html</guid>
+            <pubDate>Sat, 30 Apr 2022 07:18:55 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[​[초보 텃밭 일기] (1) 농사 준비의 시작, 밭 갈기부터 비닐 멀칭까지]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=97000</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=97000</guid>
+            <pubDate>Sat, 30 Apr 2022 07:18:55 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202204/97000_110992_1820_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[글로벌] 애플, '셀프 수리 서비스' 도입했는데..."AS 센터보다 3000원 저렴"]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=96999</link>
@@ -150,22 +165,6 @@
             <pubDate>Fri, 29 Apr 2022 06:25:48 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202204/96980_110965_43_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[개인정보 털린 '모니모' 눌렀다...'KB스타뱅킹' 여의도 핀테크 최강자로 '우뚝']]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=96979</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=96979</guid>
-            <pubDate>Fri, 29 Apr 2022 06:25:48 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202204/96979_110963_313_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[테크M 이슈] "걸으면서 돈 벌자" P2E에 지친 코인업계, M2E로 옮겨갈까]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=96977</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=96977</guid>
-            <pubDate>Fri, 29 Apr 2022 05:21:36 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202204/96977_110964_337_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
