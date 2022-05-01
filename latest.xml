@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 01 May 2022 12:37:10 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 May 2022 13:31:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[KRPL 통신] 팀GP, 깜짝 1위 등극...'리밋' 최림, 개인전서 압도적 1위]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=97018</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=97018</guid>
+            <pubDate>Sun, 01 May 2022 13:28:47 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202205/97018_111043_1922_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[가봤다] 금융권 개발자 자존심 건 한판승부...'AWS 게임데이' 승자는?]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=97016</link>
@@ -147,7 +155,7 @@
             <title><![CDATA[[부고] 김성수(카카오 부회장)씨 모친상]]></title>
             <link>https://www.techm.kr/news/articleList.html</link>
             <guid>https://www.techm.kr/news/articleList.html</guid>
-            <pubDate>Sun, 01 May 2022 12:33:12 GMT</pubDate>
+            <pubDate>Sun, 01 May 2022 13:28:47 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
         </item>
         <item>
@@ -157,14 +165,6 @@
             <pubDate>Sat, 30 Apr 2022 07:18:55 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202204/97000_110992_1820_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[글로벌] 애플, '셀프 수리 서비스' 도입했는데..."AS 센터보다 3000원 저렴"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=96999</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=96999</guid>
-            <pubDate>Sat, 30 Apr 2022 11:50:00 GMT</pubDate>
-            <content:encoded><![CDATA[김현기 대표]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202205/96999_111039_4416_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
