@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 01 May 2022 04:01:06 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 May 2022 04:45:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[가봤다] 금융권 개발자 자존심 건 한판승부...'AWS 게임데이' 승자는? (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=97016</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=97016</guid>
+            <pubDate>Sun, 01 May 2022 04:43:36 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202205/97016_111023_532_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[크립토 월간 브리핑] '검은 4월' 가상자산 대부분 폭락...비트코인은 한달새 800만원 빠졌다 (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=97017</link>
@@ -139,7 +147,7 @@
             <title><![CDATA[[부고] 김성수(카카오 부회장)씨 모친상 (테크M ─ 전체기사)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Sun, 01 May 2022 03:58:58 GMT</pubDate>
+            <pubDate>Sun, 01 May 2022 04:43:36 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
         </item>
         <item>
@@ -157,14 +165,6 @@
             <pubDate>Sat, 30 Apr 2022 11:50:00 GMT</pubDate>
             <content:encoded><![CDATA[김현기 대표]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202204/96999_110991_502_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[글로벌] 화성 헬리콥터, '공포의 7분' 사진 남겼다..."화성 착륙의 새로운 관점 제시" (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=96998</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=96998</guid>
-            <pubDate>Sat, 30 Apr 2022 11:49:00 GMT</pubDate>
-            <content:encoded><![CDATA[김현기 대표]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202204/96998_110990_4854_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[PCS 통신] 중국팀 초강세, 톱10에 7팀 포진...한국팀은 젠지-광동만 고군분투 (테크M ─ 콘텐츠)]]></title>
@@ -279,6 +279,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202204/96953_110968_68_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[가봤다] 금융권 개발자 자존심 건 한판승부...'AWS 게임데이' 승자는? (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=97016</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=97016</guid>
+            <pubDate>Sun, 01 May 2022 04:44:06 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202205/97016_111023_532_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[갤럭시 '찐팬'들의 축제 열렸다…삼성전자 '갤럭시 팬파티 522랜드' 성료 (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=97011</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=97011</guid>
@@ -381,14 +389,6 @@
             <pubDate>Fri, 29 Apr 2022 09:38:00 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202204/96961_110915_3250_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[테크M 이슈] 무너지는 나스닥 성장주…한줄기 희망은 '클라우드' (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=96960</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=96960</guid>
-            <pubDate>Fri, 29 Apr 2022 09:34:00 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202204/96960_110969_656_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[삼성전자 '에듀테크'에 꽂혔다…'C랩' 과제 2개 스타트업 창업 지원 (테크M ─ 이노베이션)]]></title>
@@ -721,7 +721,7 @@
             <title><![CDATA[[부고] 김성철(넷마블 상무)씨 부친상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Sun, 01 May 2022 04:00:17 GMT</pubDate>
+            <pubDate>Sun, 01 May 2022 04:44:45 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
         </item>
         <item>
