@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 01 May 2022 13:31:57 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 May 2022 14:21:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[PCS 통신] 더 매세워진 중국의 총구...8개팀 모두 톱10 진입]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=97019</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=97019</guid>
+            <pubDate>Sun, 01 May 2022 14:18:15 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202205/97019_111047_5817_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[KRPL 통신] 팀GP, 깜짝 1위 등극...'리밋' 최림, 개인전서 압도적 1위]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=97018</link>
@@ -155,16 +163,8 @@
             <title><![CDATA[[부고] 김성수(카카오 부회장)씨 모친상]]></title>
             <link>https://www.techm.kr/news/articleList.html</link>
             <guid>https://www.techm.kr/news/articleList.html</guid>
-            <pubDate>Sun, 01 May 2022 13:28:47 GMT</pubDate>
+            <pubDate>Sun, 01 May 2022 14:18:15 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[​[초보 텃밭 일기] (1) 농사 준비의 시작, 밭 갈기부터 비닐 멀칭까지]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=97000</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=97000</guid>
-            <pubDate>Sat, 30 Apr 2022 07:18:55 GMT</pubDate>
-            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202204/97000_110992_1820_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
