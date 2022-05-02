@@ -4,9 +4,17 @@
         <title>테크M ─ 콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 01 May 2022 23:22:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 May 2022 01:53:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[CJ ENM, 美 '하이퍼리얼' 투자…디지털 휴먼 등 협력 기대]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=97030</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=97030</guid>
+            <pubDate>Mon, 02 May 2022 10:09:00 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202205/97030_111061_353_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[PCS 통신] 더 매세워진 중국의 총구...8개팀 모두 톱10 진입]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=97019</link>
@@ -110,14 +118,6 @@
             <pubDate>Fri, 29 Apr 2022 05:21:52 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202204/96976_110938_5032_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[PCS6가 온다] ③지피지기면 백전백승...경계해야할 중국팀은?]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=96955</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=96955</guid>
-            <pubDate>Fri, 29 Apr 2022 11:50:00 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202204/96955_110908_5053_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
