@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 07 May 2022 22:21:23 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 May 2022 23:22:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["불신으로 신뢰를 만든다" 제로트러스트 보안이 주목받는 이유 (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=97222</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=97222</guid>
+            <pubDate>Sun, 08 May 2022 07:40:00 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202205/97222_111404_1123_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[PCS 통신] 中 주푸, 페트리코 로드 제치고 1위 등극...韓 젠지, 선전했지만 5위에 그쳐 (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=97232</link>
@@ -160,14 +168,6 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202205/97212_111386_4919_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[왜 다들 떠나지?...'화들짝' 놀란 카카오 블록체인 클레이튼, 수수료 인하 예고 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=97210</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=97210</guid>
-            <pubDate>Fri, 06 May 2022 06:27:06 GMT</pubDate>
-            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202205/97210_111408_5122_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[PCS 통신] 中 주푸, 페트리코 로드 제치고 1위 등극...韓 젠지, 선전했지만 5위에 그쳐 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=97232</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=97232</guid>
@@ -280,6 +280,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202205/97183_111341_2759_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA["불신으로 신뢰를 만든다" 제로트러스트 보안이 주목받는 이유 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=97222</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=97222</guid>
+            <pubDate>Sun, 08 May 2022 07:40:00 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202205/97222_111404_1123_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA["스타 작가, 카카오가 키워줄게" 카카오엔터가 '웹툰 작가' 육성 나선 이유 (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=97220</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=97220</guid>
@@ -382,14 +390,6 @@
             <pubDate>Thu, 05 May 2022 05:05:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202205/97176_111315_86_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윈스, 1분기 영업익 19억원…전년 동기 대비 480%↑ (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=97185</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=97185</guid>
-            <pubDate>Fri, 06 May 2022 03:07:22 GMT</pubDate>
-            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202205/97185_111350_845_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[왜 다들 떠나지?...'화들짝' 놀란 카카오 블록체인 클레이튼, 수수료 인하 예고 (테크M ─ 이노베이션)]]></title>
@@ -627,7 +627,7 @@
             <title><![CDATA[[부고] 김순태(코웨이 경영관리본부장)씨 모친상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Sat, 07 May 2022 22:20:34 GMT</pubDate>
+            <pubDate>Sat, 07 May 2022 23:21:28 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
         </item>
         <item>
