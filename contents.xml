@@ -4,9 +4,25 @@
         <title>테크M ─ 콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 May 2022 04:44:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 May 2022 05:33:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[CJ ENM, 1Q 영업익 496억원...전년 대비 47% 줄었다(1보)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=97360</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=97360</guid>
+            <pubDate>Wed, 11 May 2022 05:29:21 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202205/97360_111665_1310_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[스튜디오드래곤, 1Q 영업이익 181억원...전년 대비 1.4% 증가(1보)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=97358</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=97358</guid>
+            <pubDate>Wed, 11 May 2022 05:29:21 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202205/97358_111661_5354_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[구멍난 블록체인 보안] ① 돈은 몰리는데 보안은 영...블록체인 업계 올해 해킹 피해액 14억달러]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=97117</link>
@@ -102,22 +118,6 @@
             <pubDate>Tue, 10 May 2022 06:26:48 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202205/97301_111569_3445_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[메타버스로 손발 척척...접점 넓히는 네이버 손자들]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=97300</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=97300</guid>
-            <pubDate>Tue, 10 May 2022 05:19:35 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202205/97300_111610_4024_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[장기 흥행 시동거는 로스트아크, 서구권 업데이트로 동접자 수 63만 돌파]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=97291</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=97291</guid>
-            <pubDate>Tue, 10 May 2022 04:26:05 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202205/97291_111544_350_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
