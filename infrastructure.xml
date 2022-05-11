@@ -4,9 +4,17 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 May 2022 03:26:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 May 2022 04:44:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[AWS 서밋] 김성훈 업스테이지 대표 "AI와 클라우드는 깐부"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=97354</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=97354</guid>
+            <pubDate>Wed, 11 May 2022 00:58:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202205/97354_111649_5629_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[네이버클라우드, KAIST 클라우드 전환 및 차세대 통합정보시스템 구축 지원]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=97343</link>
@@ -110,14 +118,6 @@
             <pubDate>Tue, 10 May 2022 08:26:11 GMT</pubDate>
             <content:encoded><![CDATA[김가은 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202205/97322_111597_5124_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성전자, 512GB CXL D램 개발 성공…차세대 메모리 상용화]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=97311</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=97311</guid>
-            <pubDate>Tue, 10 May 2022 06:27:04 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202205/97311_111586_4235_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
