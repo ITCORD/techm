@@ -4,9 +4,25 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 May 2022 01:54:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 May 2022 03:26:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[네이버클라우드, KAIST 클라우드 전환 및 차세대 통합정보시스템 구축 지원]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=97343</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=97343</guid>
+            <pubDate>Wed, 11 May 2022 11:14:00 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202205/97343_111636_953_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[AWS 서밋] 스타 개발자 이두희, 멋쟁이사자처럼 키운 숨은 공신은 '클라우드']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=97347</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=97347</guid>
+            <pubDate>Wed, 11 May 2022 11:11:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202205/97347_111640_5651_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['하늘택시' 속도 내는 통신사, LG유플러스는 카카오모빌리티 손 잡았다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=97344</link>
@@ -102,22 +118,6 @@
             <pubDate>Tue, 10 May 2022 06:27:04 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202205/97311_111586_4235_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[CJ올리브네트웍스, 크로스마케팅플랫폼 '콜라비' 출시]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=97310</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=97310</guid>
-            <pubDate>Tue, 10 May 2022 06:27:04 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202205/97310_111585_3738_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[시큐아이 'ICT 중소기업 정보보호 지원사업' 공급기업 선정]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=97309</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=97309</guid>
-            <pubDate>Tue, 10 May 2022 06:27:04 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202205/97309_111582_3342_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
