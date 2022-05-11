@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 May 2022 05:33:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 May 2022 06:35:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,10 +168,26 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202205/97342_111635_99_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[中 개척한 펄어비스 '검은사막 모바일'...신규 클래스 출시로 반등 나선다 (테크M ─ 콘텐츠)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=97362</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=97362</guid>
+            <pubDate>Wed, 11 May 2022 06:30:13 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202205/97362_111668_2729_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[CJ ENM, 1Q 영업익 전년비 47%↓...시장 전망치 하회(상보) (테크M ─ 콘텐츠)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=97361</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=97361</guid>
+            <pubDate>Wed, 11 May 2022 06:30:13 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202205/97361_111667_2414_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[CJ ENM, 1Q 영업익 496억원...전년 대비 47% 줄었다(1보) (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=97360</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=97360</guid>
-            <pubDate>Wed, 11 May 2022 05:29:21 GMT</pubDate>
+            <pubDate>Wed, 11 May 2022 05:29:04 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202205/97360_111665_1310_v150.jpg" length="0" type="image/jpg"/>
         </item>
@@ -179,7 +195,7 @@
             <title><![CDATA[스튜디오드래곤, 1Q 영업이익 181억원...전년 대비 1.4% 증가(1보) (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=97358</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=97358</guid>
-            <pubDate>Wed, 11 May 2022 05:29:21 GMT</pubDate>
+            <pubDate>Wed, 11 May 2022 05:29:04 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202205/97358_111661_5354_v150.jpg" length="0" type="image/jpg"/>
         </item>
@@ -264,26 +280,10 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202205/97292_111609_3747_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[넷마블 잼시티, 블록체인 게임 '챔피언스: 어센션' 백서·트레일러 공개 (테크M ─ 콘텐츠)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=97303</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=97303</guid>
-            <pubDate>Tue, 10 May 2022 06:26:48 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202205/97303_111570_4038_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한화생명-해시드, 블록체인 프로그램 '프로토콜 캠프' 2기 모집 (테크M ─ 콘텐츠)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=97301</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=97301</guid>
-            <pubDate>Tue, 10 May 2022 06:26:48 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202205/97301_111569_3445_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[삼성SDS '첼로 스퀘어' 중국 오픈…글로벌 플랫폼 물류 사업 확대 (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=97340</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=97340</guid>
-            <pubDate>Wed, 11 May 2022 05:29:37 GMT</pubDate>
+            <pubDate>Wed, 11 May 2022 05:29:04 GMT</pubDate>
             <content:encoded><![CDATA[김가은 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202205/97340_111633_5529_v150.jpg" length="0" type="image/jpg"/>
         </item>
@@ -643,7 +643,7 @@
             <title><![CDATA[[부고] 김순태(코웨이 경영관리본부장)씨 모친상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Wed, 11 May 2022 05:31:20 GMT</pubDate>
+            <pubDate>Wed, 11 May 2022 06:34:00 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
         </item>
         <item>
@@ -724,6 +724,14 @@
             <pubDate>Wed, 27 Apr 2022 00:16:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202204/96858_110740_1648_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[LG전자 트롬 세탁·건조기, 가전업계 최초 'UL 딥러닝 AI 검증' 획득 (테크M ─ 라이프)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=97363</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=97363</guid>
+            <pubDate>Wed, 11 May 2022 06:34:16 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202205/97363_111671_011_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[오프라인 차별화로 웃은 현대백화점, 리오프닝 효과 '톡톡'(종합) (테크M ─ 라이프)]]></title>
@@ -828,14 +836,6 @@
             <pubDate>Fri, 06 May 2022 03:10:58 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202205/97178_111320_3043_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성 '그랑데' vs. LG '트롬'…25kg '대용량 세탁기' 대결 (테크M ─ 라이프)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=97158</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=97158</guid>
-            <pubDate>Wed, 04 May 2022 11:38:00 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202205/97158_111272_3349_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[글로벌] 머스크, 트위터 실적 목표치 내놨다..."2028년 매출 5배 이용자 수 4배" (테크M ─ 리포트)]]></title>
@@ -953,7 +953,7 @@
             <title><![CDATA[[카드뉴스] IPX, 새 캐릭터 IP 공개...NFT로 선보인다 (테크M ─ 보는 뉴스)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=97357</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=97357</guid>
-            <pubDate>Wed, 11 May 2022 05:33:06 GMT</pubDate>
+            <pubDate>Wed, 11 May 2022 05:29:04 GMT</pubDate>
             <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202205/97357_111654_4235_v150.jpg" length="0" type="image/jpg"/>
         </item>
