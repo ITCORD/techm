@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 May 2022 04:36:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 May 2022 05:28:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["역시 배틀그라운드" 크래프톤, 1Q 매출 5230억원...창사 이래 최대치 (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=97421</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=97421</guid>
+            <pubDate>Thu, 12 May 2022 05:26:04 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202205/97421_111763_223_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[카드뉴스] 네이버 자회사, 메타버스로 손발 척척...접점 넓히며 협업 나섰다 (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=97418</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=97418</guid>
+            <pubDate>Thu, 12 May 2022 05:26:04 GMT</pubDate>
+            <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202205/97418_111751_3048_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[로봇 간 데이터 공유...SKT, 개방형 로보틱스 데이터 플랫폼 만든다 (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=97419</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=97419</guid>
+            <pubDate>Thu, 12 May 2022 05:26:04 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202205/97419_111759_391_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[KT, 만성질환 관리 '휴레이포지티브'와 베트남 원격의료 플랫폼 공동개발 (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=97417</link>
@@ -144,30 +168,6 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202205/97399_111727_1942_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[테크M 이슈] 글로벌 카카오택시...T로밍으로 亞 최대 모빌리티 플랫폼 꿈꾸다 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=97400</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=97400</guid>
-            <pubDate>Thu, 12 May 2022 10:20:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202205/97400_111728_2022_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[티맥스A&C, 사업 부문 총괄 대표에 허희도 티맥스오에스 부사장 선임 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=97387</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=97387</guid>
-            <pubDate>Thu, 12 May 2022 10:17:00 GMT</pubDate>
-            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202205/97387_111713_2325_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[CJ올리브네트웍스-카카오엔터프라이즈 AI·클라우드 사업 공동 추진 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=97385</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=97385</guid>
-            <pubDate>Thu, 12 May 2022 10:16:00 GMT</pubDate>
-            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202205/97385_111712_1732_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[번개장터 안전결제 서비스 '번개페이'...출시 4년만에 1000% 성장 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=97414</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=97414</guid>
@@ -280,10 +280,18 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202205/97358_111661_5354_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[로봇 간 데이터 공유...SKT, 개방형 로보틱스 데이터 플랫폼 만든다 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=97419</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=97419</guid>
+            <pubDate>Thu, 12 May 2022 05:26:34 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202205/97419_111759_391_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[KT, 만성질환 관리 '휴레이포지티브'와 베트남 원격의료 플랫폼 공동개발 (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=97417</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=97417</guid>
-            <pubDate>Thu, 12 May 2022 04:33:55 GMT</pubDate>
+            <pubDate>Thu, 12 May 2022 04:33:19 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202205/97417_111750_819_v150.jpg" length="0" type="image/jpg"/>
         </item>
@@ -291,7 +299,7 @@
             <title><![CDATA["상무님 MBTI는 무엇?"...LG유플러스의 특별한 리버스 멘토링 (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=97416</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=97416</guid>
-            <pubDate>Thu, 12 May 2022 04:33:55 GMT</pubDate>
+            <pubDate>Thu, 12 May 2022 04:33:19 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202205/97416_111749_310_v150.jpg" length="0" type="image/jpg"/>
         </item>
@@ -382,14 +390,6 @@
             <pubDate>Thu, 12 May 2022 10:15:00 GMT</pubDate>
             <content:encoded><![CDATA[김가은 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202205/97382_111709_1029_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['디지코' KT 날았다, 1분기 역대급 실적...12년만에 영업이익 6000억 벽 뚫었다(상보) (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=97391</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=97391</guid>
-            <pubDate>Thu, 12 May 2022 09:41:00 GMT</pubDate>
-            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202205/97391_111718_4048_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[네이버가 점찍은 '라플라스테크놀로지스'...중기부 팁스 프로그램 선정 (테크M ─ 이노베이션)]]></title>
@@ -643,7 +643,7 @@
             <title><![CDATA[[부고] 김순태(코웨이 경영관리본부장)씨 모친상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Thu, 12 May 2022 04:35:31 GMT</pubDate>
+            <pubDate>Thu, 12 May 2022 05:28:10 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
         </item>
         <item>
@@ -950,6 +950,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202204/96926_110857_581_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[카드뉴스] 네이버 자회사, 메타버스로 손발 척척...접점 넓히며 협업 나섰다 (테크M ─ 보는 뉴스)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=97418</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=97418</guid>
+            <pubDate>Thu, 12 May 2022 05:28:59 GMT</pubDate>
+            <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202205/97418_111751_3048_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[카드뉴스] IPX, 새 캐릭터 IP 공개...NFT로 선보인다 (테크M ─ 보는 뉴스)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=97357</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=97357</guid>
@@ -1052,14 +1060,6 @@
             <pubDate>Fri, 29 Apr 2022 05:21:36 GMT</pubDate>
             <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202204/96975_110930_2429_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[게임코인TV] 넷마블 코인 'MBX'는 어떤 거래소에 상장될까...코인원? 고팍스? (테크M ─ 보는 뉴스)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=96936</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=96936</guid>
-            <pubDate>Thu, 28 Apr 2022 07:18:16 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202204/96936_110870_4949_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
