@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 May 2022 16:36:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 May 2022 17:30:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['디페깅·가격 폭락'에 놀란 테라, 결국 블록체인 가동 중단 (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=97455</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=97455</guid>
+            <pubDate>Fri, 13 May 2022 01:50:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202205/97455_111828_2711_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[MSI] '명불허전' T1, 압도적 경기력으로 3전 전승...라이벌 RNG-G2도 전승 기록 (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=97454</link>
@@ -160,18 +168,18 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202205/97431_111781_3252_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[테크M 이슈] 구글 '픽셀' 생태계는 애플을 넘어설 수 있을까 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=97430</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=97430</guid>
-            <pubDate>Thu, 12 May 2022 06:52:05 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202205/97430_111807_2920_v150.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA['디페깅·가격 폭락'에 놀란 테라, 결국 블록체인 가동 중단 (테크M ─ 콘텐츠)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=97455</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=97455</guid>
+            <pubDate>Fri, 13 May 2022 01:50:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202205/97455_111828_2711_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[MSI] '명불허전' T1, 압도적 경기력으로 3전 전승...라이벌 RNG-G2도 전승 기록 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=97454</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=97454</guid>
-            <pubDate>Thu, 12 May 2022 16:33:10 GMT</pubDate>
+            <pubDate>Thu, 12 May 2022 16:32:51 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202205/97454_111825_1112_v150.jpg" length="0" type="image/jpg"/>
         </item>
@@ -270,14 +278,6 @@
             <pubDate>Thu, 12 May 2022 09:19:00 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202205/97384_111711_1643_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[펄어비스, 붉은사막 개발에 집중..."신규 영상 준비중" (테크M ─ 콘텐츠)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=97381</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=97381</guid>
-            <pubDate>Thu, 12 May 2022 08:53:00 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202205/97381_111708_4921_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[올림플래닛 '코트라 창립 60주년' 메타버스 행사장 꾸렸다 (테크M ─ 인프라)]]></title>
@@ -504,6 +504,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202205/97166_111294_3957_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[테크M 리포트] 비상장 몸값 1위 '두나무' 시가총액 10조 깨졌다 (테크M ─ 인베스트먼트)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=97451</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=97451</guid>
+            <pubDate>Thu, 12 May 2022 13:45:58 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202205/97451_111817_2827_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA["10만원이 100원으로" 글로벌 경제 뇌관 흔든 테라 루나...리먼급 악재로? (테크M ─ 인베스트먼트)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=97441</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=97441</guid>
@@ -608,14 +616,6 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202205/97383_111710_131_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[실적 부진한 펄어비스, 인건비만 20% 이상 증가...신작 개발 집중한다 (테크M ─ 인베스트먼트)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=97379</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=97379</guid>
-            <pubDate>Thu, 12 May 2022 08:28:00 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202205/97379_111705_5628_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[尹정부 출범] 윤석열 대통령 "과학과 기술, 혁신이 자유민주주의 지킬 것" (테크M ─ 피플)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=97297</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=97297</guid>
@@ -643,7 +643,7 @@
             <title><![CDATA[[부고] 김순태(코웨이 경영관리본부장)씨 모친상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Thu, 12 May 2022 16:35:16 GMT</pubDate>
+            <pubDate>Thu, 12 May 2022 17:29:32 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
         </item>
         <item>

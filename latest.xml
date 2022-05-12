@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 May 2022 16:36:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 May 2022 17:30:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['디페깅·가격 폭락'에 놀란 테라, 결국 블록체인 가동 중단]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=97455</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=97455</guid>
+            <pubDate>Fri, 13 May 2022 01:50:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202205/97455_111828_2711_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[MSI] '명불허전' T1, 압도적 경기력으로 3전 전승...라이벌 RNG-G2도 전승 기록]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=97454</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 12 May 2022 06:52:05 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202205/97431_111781_3252_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[테크M 이슈] 구글 '픽셀' 생태계는 애플을 넘어설 수 있을까]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=97430</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=97430</guid>
-            <pubDate>Thu, 12 May 2022 06:52:05 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202205/97430_111807_2920_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>테크M ─ 콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 May 2022 16:36:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 May 2022 17:30:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['디페깅·가격 폭락'에 놀란 테라, 결국 블록체인 가동 중단]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=97455</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=97455</guid>
+            <pubDate>Fri, 13 May 2022 01:50:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202205/97455_111828_2711_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[MSI] '명불허전' T1, 압도적 경기력으로 3전 전승...라이벌 RNG-G2도 전승 기록]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=97454</link>
@@ -110,14 +118,6 @@
             <pubDate>Thu, 12 May 2022 09:19:00 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202205/97384_111711_1643_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[펄어비스, 붉은사막 개발에 집중..."신규 영상 준비중"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=97381</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=97381</guid>
-            <pubDate>Thu, 12 May 2022 08:53:00 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202205/97381_111708_4921_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
