@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 23 May 2022 04:39:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 May 2022 05:28:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] KT표 메타버스, '지니버스' 출시 예고 공식화]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=97748</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=97748</guid>
+            <pubDate>Mon, 23 May 2022 05:28:35 GMT</pubDate>
+            <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202205/97748_112387_3856_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 엔씨소프트, 메타버스 삼매경...김택진 "엔씨소프트만의 메타버스 꿈꾼다"]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=97667</link>
@@ -110,14 +118,6 @@
             <pubDate>Mon, 09 May 2022 06:29:54 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202205/97261_111498_546_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] '해긴'은 어떤 기업? SK가 500억 투자했다... 글로벌 메타버스 선두주자]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=97256</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=97256</guid>
-            <pubDate>Mon, 09 May 2022 05:24:20 GMT</pubDate>
-            <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202205/97256_111481_292_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
