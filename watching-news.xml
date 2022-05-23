@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 23 May 2022 06:31:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 May 2022 07:25:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 플레이댑, 글로벌 영향력 넓힌다...블록체인 최대 행사 '컨센서스 2022' 참여]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=97696</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=97696</guid>
+            <pubDate>Mon, 23 May 2022 07:25:13 GMT</pubDate>
+            <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202205/97696_112276_3110_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] KT표 메타버스, '지니버스' 출시 예고 공식화]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=97748</link>
@@ -110,14 +118,6 @@
             <pubDate>Mon, 09 May 2022 06:29:54 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202205/97262_111500_5824_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[게임코인TV] 카카오 가상자산 '클레이'가 계속 하락하는 이유는? 클레이튼 이슈 분석 (중)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=97261</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=97261</guid>
-            <pubDate>Mon, 09 May 2022 06:29:54 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202205/97261_111498_546_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
