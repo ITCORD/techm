@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 May 2022 04:40:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 May 2022 05:28:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 라인 자회사 IPX...메타버스·NFT 인재 찾는다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=97790</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=97790</guid>
+            <pubDate>Tue, 24 May 2022 05:28:04 GMT</pubDate>
+            <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202205/97790_112470_3835_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 플레이댑, 글로벌 영향력 넓힌다...블록체인 최대 행사 '컨센서스 2022' 참여]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=97696</link>
@@ -110,14 +118,6 @@
             <pubDate>Tue, 10 May 2022 06:31:25 GMT</pubDate>
             <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202205/97299_111561_227_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[게임코인TV] 카카오 블록체인 '클레이튼'의 키워드는 '신뢰회복'...클레이튼 이슈 분석 (하)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=97262</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=97262</guid>
-            <pubDate>Mon, 09 May 2022 06:29:54 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202205/97262_111500_5824_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
