@@ -4,9 +4,25 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 May 2022 07:22:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 May 2022 08:28:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[테크M 이슈] 반도체 회사가 SW 업체에 눈독 들이는 이유는?]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=97810</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=97810</guid>
+            <pubDate>Tue, 24 May 2022 08:26:35 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202205/97810_112511_1415_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['로봇·모빌리티' 보내고 '우주·메타버스'로 진격…'김연수호' 한컴, 신사업 재편 박차]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=97808</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=97808</guid>
+            <pubDate>Tue, 24 May 2022 08:26:35 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202205/97808_112512_1430_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[위메이드, 메인넷 포함한 '위믹스 3.0' 공개하면 백서 다시 쓴다...한국어로도 발행]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=97801</link>
@@ -102,22 +118,6 @@
             <pubDate>Tue, 24 May 2022 00:54:00 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202205/97787_112466_5847_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[네이버, 클로바노트 일본 출시…초거대 AI로 글로벌 진출]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=97786</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=97786</guid>
-            <pubDate>Tue, 24 May 2022 11:31:00 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202205/97786_112464_274_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[구글 클라우드, 신규 솔루션 2종으로 제조업 데이터 통합·AI 활용 지원]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=97774</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=97774</guid>
-            <pubDate>Tue, 24 May 2022 11:22:00 GMT</pubDate>
-            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202205/97774_112447_2214_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
