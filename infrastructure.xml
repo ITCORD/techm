@@ -4,9 +4,17 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 May 2022 21:21:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 May 2022 22:24:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한컴 인공위성 '세종 1호', "현재 궤도 진입 여부 확인 중"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=97852</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=97852</guid>
+            <pubDate>Thu, 26 May 2022 07:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202205/97852_112586_2757_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["사람이 막기는 한계…AI 도입 필수" LG CNS 'AI 보안' 해결사로 나선다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=97848</link>
@@ -110,14 +118,6 @@
             <pubDate>Tue, 24 May 2022 07:20:19 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202205/97801_112491_2954_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[억울한 업비트 "루나 韓 거래량 1%...바이낸스 수수료만 4000억"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=97805</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=97805</guid>
-            <pubDate>Tue, 24 May 2022 07:20:19 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202205/97805_112492_409_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
