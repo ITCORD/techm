@@ -4,9 +4,25 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 May 2022 23:24:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 May 2022 01:52:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[카카오페이, 대출 '정거장'으로...고신용자·중저신용자 다 모인다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=97825</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=97825</guid>
+            <pubDate>Wed, 25 May 2022 10:23:00 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202205/97825_112532_217_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[크립토 브리핑] 비트코인의 아슬아슬한 횡보...아직 바닥 아니다?]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=97821</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=97821</guid>
+            <pubDate>Wed, 25 May 2022 09:56:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202205/97821_112526_4836_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[MSI] T1, RNG-G2에 복수하며 2위로 럼블스테이지 마무리]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=97815</link>
@@ -150,22 +166,6 @@
             <pubDate>Tue, 24 May 2022 05:24:42 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202205/97792_112479_5344_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[티빙에 '파라마운트+' 뜬다...'헤일로' 국내 첫 공개]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=97797</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=97797</guid>
-            <pubDate>Tue, 24 May 2022 05:24:42 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202205/97797_112485_953_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[삼성의 미래] ④멀리 보는 이재용...AI부터 6G 더해 '미래 IT' 선점 박차]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=97795</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=97795</guid>
-            <pubDate>Tue, 24 May 2022 05:24:42 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202205/97795_112482_219_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
