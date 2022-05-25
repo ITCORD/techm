@@ -4,9 +4,17 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 May 2022 01:52:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 May 2022 03:25:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[LG유플러스, 주니퍼 네트웍스와 원하는 기능만 설치하는 기지국 제어 기술 검증]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=97831</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=97831</guid>
+            <pubDate>Wed, 25 May 2022 11:31:00 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202205/97831_112538_3033_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[테크M 이슈] 반도체 회사가 SW 업체에 눈독 들이는 이유는?]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=97810</link>
@@ -110,14 +118,6 @@
             <pubDate>Tue, 24 May 2022 05:25:18 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202205/97793_112481_582_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[테크M 이슈] Z홀딩스만 있다? 네이버, 모바일로 日 근로문화 바꾼다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=97787</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=97787</guid>
-            <pubDate>Tue, 24 May 2022 00:54:00 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202205/97787_112466_5847_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
