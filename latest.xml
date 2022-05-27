@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 May 2022 01:48:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 May 2022 04:38:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SK-위메이드 '맞손'...SK스퀘어, 위믹스 거버넌스 파트너로 합류]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=97900</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=97900</guid>
+            <pubDate>Fri, 27 May 2022 00:15:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202205/97900_112678_1454_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[NHN클라우드 '크로센트' 인수합병…"DaaS 사업 본격화"]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=97899</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 26 May 2022 07:19:37 GMT</pubDate>
             <content:encoded><![CDATA[김현기 대표]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202205/97880_112659_3625_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[글로벌] 美 보잉, 국제우주정거장 도킹 성공...새로운 '우주 택시' 경쟁자되나]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=97881</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=97881</guid>
-            <pubDate>Thu, 26 May 2022 07:19:37 GMT</pubDate>
-            <content:encoded><![CDATA[김현기 대표]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202205/97881_112658_368_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
