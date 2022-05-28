@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 28 May 2022 13:33:30 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 May 2022 14:22:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MSI] '괜히 걱정했네' T1, G2와 악연 끊고 결승 진출]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=97910</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=97910</guid>
+            <pubDate>Sat, 28 May 2022 14:18:53 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202205/97910_112699_307_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[글로벌] 갈수록 늘어나는 지구 궤도 위성...천문학자들 똘똘 뭉쳤다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=97909</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 26 May 2022 10:22:09 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202205/97889_112651_242_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["골프존 게 섯거라" 카카오VX...'볼메이트' 합병으로 시너지 'UP']]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=97888</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=97888</guid>
-            <pubDate>Thu, 26 May 2022 09:21:26 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202205/97888_112649_3726_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
