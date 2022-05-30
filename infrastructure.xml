@@ -4,9 +4,17 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 May 2022 03:42:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 May 2022 04:45:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성SDS, 클라우드로 ITO 혁신 "인력 파견 대신 원격으로 근무"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=97945</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=97945</guid>
+            <pubDate>Mon, 30 May 2022 04:42:35 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202205/97945_112772_2541_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[더 똑똑해진 카카오 톡비서 죠르디…안드로이드도 카톡 예약 메시지 가능]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=97937</link>
@@ -110,14 +118,6 @@
             <pubDate>Thu, 26 May 2022 08:28:35 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202205/97887_112648_1237_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[KT, 포스텍과 AI 전문인력 육성 나선다...채용연계형 석사과정 개설]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=97886</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=97886</guid>
-            <pubDate>Thu, 26 May 2022 08:28:35 GMT</pubDate>
-            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202205/97886_112647_939_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
