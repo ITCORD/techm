@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 May 2022 05:31:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 May 2022 06:33:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 빗썸, 새 리더십 체제 세운다... 업비트 독주 제동-메타버스 신사업 강화]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=97946</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=97946</guid>
+            <pubDate>Mon, 30 May 2022 06:33:12 GMT</pubDate>
+            <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202205/97946_112773_3112_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 이프랜드, 원밀리언과 댄스 클래스 선보인다... 메타버스에서 '댄서' 체험]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=97901</link>
@@ -110,14 +118,6 @@
             <pubDate>Sun, 22 May 2022 17:16:01 GMT</pubDate>
             <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202205/97484_111863_3230_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[게임코인TV] 플레이댑 코인 'PLA' 발행량 및 가격, 전망은?...플레이댑 집중 분석(하)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=97453</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=97453</guid>
-            <pubDate>Fri, 13 May 2022 10:11:00 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202205/97453_111843_1134_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
