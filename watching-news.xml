@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 May 2022 07:23:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 May 2022 08:32:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 네이버-카카오, '일하는 방식' 확 바꾼다... 주 3일, 주 1일 자율 출근!]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=97990</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=97990</guid>
+            <pubDate>Tue, 31 May 2022 08:32:38 GMT</pubDate>
+            <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202205/97990_112852_2850_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 빗썸, 새 리더십 체제 세운다... 업비트 독주 제동-메타버스 신사업 강화]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=97946</link>
@@ -110,14 +118,6 @@
             <pubDate>Sun, 22 May 2022 17:16:01 GMT</pubDate>
             <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202205/97543_111982_357_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 크래프톤, 네이버제트와 법인 설립중... C2E 실현할 메타버스 플랫폼 나온다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=97484</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=97484</guid>
-            <pubDate>Sun, 22 May 2022 17:16:01 GMT</pubDate>
-            <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202205/97484_111863_3230_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
