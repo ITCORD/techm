@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 May 2022 04:39:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 May 2022 05:27:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[갤럭시, 인도를 홀리다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=97989</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=97989</guid>
+            <pubDate>Tue, 31 May 2022 05:25:20 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202205/97989_112860_316_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[막오른 지방선거...투표소·개표현황 '네이버·카카오'로]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=97987</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 31 May 2022 10:05:00 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202205/97968_112829_5822_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[업비트 개발자 콘퍼런스(UDC) 2022, 역대급 흥행 예고...블라인드 등록 조기 마감]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=97967</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=97967</guid>
-            <pubDate>Tue, 31 May 2022 10:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202205/97967_112830_5827_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
