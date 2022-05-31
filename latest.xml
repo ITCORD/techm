@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 May 2022 03:29:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 May 2022 04:39:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[막오른 지방선거...투표소·개표현황 '네이버·카카오'로]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=97987</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=97987</guid>
+            <pubDate>Tue, 31 May 2022 00:26:00 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202205/97987_112851_3734_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[네오위즈, 신작 '마스터 오브 나이츠' 트레일러 영상 첫 공개]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=97986</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 31 May 2022 10:00:00 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202205/97967_112830_5827_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["1000번째 크루 찾아요"...카카오페이, 세자릿수 경력공채 띄운다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=97961</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=97961</guid>
-            <pubDate>Tue, 31 May 2022 09:52:00 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202205/97961_112823_4041_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
