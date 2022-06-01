@@ -4,9 +4,16 @@
         <title>테크M ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Jun 2022 02:04:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jun 2022 04:38:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[부고] 김지방(쿠키미디어 대표)씨 모친상]]></title>
+            <link>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN5&amp;view_type=sm</link>
+            <guid>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN5&amp;view_type=sm</guid>
+            <pubDate>Wed, 01 Jun 2022 11:50:00 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[소통 키우는 카카오 남궁훈 "집중근로시간, 재검토할 것"]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=97998</link>
@@ -110,14 +117,6 @@
             <pubDate>Wed, 25 May 2022 04:36:31 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202205/97835_112548_3428_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[두나무 이어 신현성까지...테라 권도형에 등돌린 파트너들, 왜?]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=97833</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=97833</guid>
-            <pubDate>Wed, 25 May 2022 04:36:31 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202205/97833_112540_5541_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
