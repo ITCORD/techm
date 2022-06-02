@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Jun 2022 03:53:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jun 2022 04:53:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 카카오, 메타버스 CIC 띄웠다...남궁훈표 신사업 본격화]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=98048</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=98048</guid>
+            <pubDate>Thu, 02 Jun 2022 04:53:21 GMT</pubDate>
+            <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202206/98048_112956_2756_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 네이버-카카오, '일하는 방식' 확 바꾼다... 주 3일, 주 1일 자율 출근!]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=97990</link>
@@ -110,14 +118,6 @@
             <pubDate>Sun, 22 May 2022 17:16:01 GMT</pubDate>
             <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202205/97595_112070_1835_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] D.P. 김보통 작가, 메타버스 세계관 만든다...캐리버스와 '맞손']]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=97543</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=97543</guid>
-            <pubDate>Sun, 22 May 2022 17:16:01 GMT</pubDate>
-            <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202205/97543_111982_357_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
