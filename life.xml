@@ -4,9 +4,25 @@
         <title>테크M ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Jun 2022 23:24:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jun 2022 01:54:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SK스토아 "품질 관리가 고객 만족의 초석"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=98038</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=98038</guid>
+            <pubDate>Thu, 02 Jun 2022 10:27:00 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202206/98038_112940_2646_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["편안하게 몰입한다" 소니, 무선 노캔 이어폰 '링크버즈S' 예판 돌입]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=98027</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=98027</guid>
+            <pubDate>Thu, 02 Jun 2022 09:43:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202206/98027_112928_4140_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[써봤다] 매일 돈 버는 습관, 010PAY]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=98004</link>
@@ -102,22 +118,6 @@
             <pubDate>Thu, 26 May 2022 11:06:00 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202205/97862_112599_571_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스포츠에 힘주는 쿠팡플레이, 15년만에 NHL 플레이오프 생중계한다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=97845</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=97845</guid>
-            <pubDate>Wed, 25 May 2022 07:24:00 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202205/97845_112566_042_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[배달 앱에 구현되는 메타버스...위메프오, '푸드 메타버스' 구축한다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=97785</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=97785</guid>
-            <pubDate>Tue, 24 May 2022 11:51:00 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202205/97785_112465_2722_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
