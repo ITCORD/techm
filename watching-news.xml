@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Jun 2022 05:21:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jun 2022 06:28:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 한컴, '싸이타운' 출시 코앞…"최종 앱 심사 돌입"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=98089</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=98089</guid>
+            <pubDate>Fri, 03 Jun 2022 06:28:21 GMT</pubDate>
+            <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202206/98089_113020_3539_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 카카오, 메타버스 CIC 띄웠다...남궁훈표 신사업 본격화]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=98048</link>
@@ -110,14 +118,6 @@
             <pubDate>Sun, 22 May 2022 17:16:01 GMT</pubDate>
             <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202205/97639_112149_176_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 엑스엘게임즈, '아키월드' 토지 NFT 분양 예고..."게임과 블록체인 본질 지향"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=97595</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=97595</guid>
-            <pubDate>Sun, 22 May 2022 17:16:01 GMT</pubDate>
-            <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202205/97595_112070_1835_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
