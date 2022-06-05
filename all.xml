@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Jun 2022 22:20:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Jun 2022 23:20:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[IT's 콘텐츠] 웨이브 "토종 OTT 1위 비결...백조같은 개발자 덕분" (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=97804</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=97804</guid>
+            <pubDate>Mon, 06 Jun 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202206/97804_113043_4113_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[롯데의 아픈 손가락? '중고나라'의 화려한 부활...MAU 80만 넘겼다 (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=98113</link>
@@ -160,12 +168,12 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202206/98102_113048_1751_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[공정에 재미 더했다…아이유·유희열도 반한 멜론 차트에 눈길 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=98100</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=98100</guid>
-            <pubDate>Fri, 03 Jun 2022 08:23:15 GMT</pubDate>
+            <title><![CDATA[[IT's 콘텐츠] 웨이브 "토종 OTT 1위 비결...백조같은 개발자 덕분" (테크M ─ 콘텐츠)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=97804</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=97804</guid>
+            <pubDate>Mon, 06 Jun 2022 08:00:00 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202206/98100_113046_5342_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202206/97804_113043_4113_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[KRPL] 3연패 꿈꾸던 '런민기' 결승 진출 실패...세대 교체 '가속화' (테크M ─ 콘텐츠)]]></title>
@@ -270,14 +278,6 @@
             <pubDate>Thu, 02 Jun 2022 08:27:48 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202206/98062_112979_212_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[엔젤게임즈 '신의 탑M', 출시 40일만에 누적 매출 100억원 돌파 (테크M ─ 콘텐츠)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=98060</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=98060</guid>
-            <pubDate>Thu, 02 Jun 2022 07:21:32 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202206/98060_112977_5348_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[롯데의 아픈 손가락? '중고나라'의 화려한 부활...MAU 80만 넘겼다 (테크M ─ 인프라)]]></title>
