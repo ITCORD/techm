@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Jun 2022 22:24:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jun 2022 23:22:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['WWDC22' 통해 드러난 애플의 전략...AR·VR은 없었다(종합)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=98133</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=98133</guid>
+            <pubDate>Tue, 07 Jun 2022 06:41:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202206/98133_113124_3424_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[애플워치, 더 정교해진 '건강 지킴이'로 진화]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=98131</link>
@@ -158,14 +166,6 @@
             <pubDate>Sun, 05 Jun 2022 10:15:00 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202206/98114_113077_1315_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ESG 힘 주는 LGU+, 전국 매장 유니폼 '친환경'으로 교체]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=98115</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=98115</guid>
-            <pubDate>Sun, 05 Jun 2022 09:31:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202206/98115_113075_3116_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
