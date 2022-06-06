@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Jun 2022 01:51:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jun 2022 03:25:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[크립토 브리핑] 오랜만에 상승한 비트코인...9주 연속 하락세 끝났다 (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=98122</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=98122</guid>
+            <pubDate>Mon, 06 Jun 2022 11:45:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202206/98122_113108_282_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[삼성·LG, 나란히 '프리미엄 빌트인 가전' 본고장 유럽 시장 공략 (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=98121</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=98121</guid>
+            <pubDate>Mon, 06 Jun 2022 11:16:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202206/98121_113105_1316_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[봤다] 네이버 vs. 카카오, 무협웹툰 '내공' 대결 (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=98117</link>
@@ -150,22 +166,6 @@
             <pubDate>Sat, 04 Jun 2022 00:03:00 GMT</pubDate>
             <content:encoded><![CDATA[김현기 대표]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202206/98105_113083_1545_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[크립토 주간 브리핑] 비트코인 전주 대비 상승했지만...가상자산 시장 약세 지속 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=98104</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=98104</guid>
-            <pubDate>Sat, 04 Jun 2022 11:50:00 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202206/98104_113080_1435_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[같이봐영] '기묘한 이야기'·'노키득존', '미즈마블'·'나의 해방일지'...연휴 '순삭' 라인업 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=98091</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=98091</guid>
-            <pubDate>Sat, 04 Jun 2022 08:15:00 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202206/98091_113084_1618_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[IT's 콘텐츠] 웨이브 "토종 OTT 1위 비결...백조같은 개발자 덕분" (테크M ─ 콘텐츠)]]></title>
@@ -727,6 +727,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202205/97882_112635_5529_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[삼성·LG, 나란히 '프리미엄 빌트인 가전' 본고장 유럽 시장 공략 (테크M ─ 라이프)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=98121</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=98121</guid>
+            <pubDate>Mon, 06 Jun 2022 11:16:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202206/98121_113105_1316_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[같이사소] 여행 준비하는 사람들 모두 모여라...쿠팡-티몬-위메프 (테크M ─ 라이프)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=98108</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=98108</guid>
@@ -829,14 +837,6 @@
             <pubDate>Tue, 31 May 2022 10:18:00 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202205/97970_112834_811_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[위메프의 가치 소비 제안...시니어 일자리 창출 돕는다 (테크M ─ 라이프)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=97943</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=97943</guid>
-            <pubDate>Mon, 30 May 2022 05:30:49 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202205/97943_112771_4829_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[글로벌] 내달 우주망원경의 풀 컬러 사진 공개된다..."인류가 본 적 없는 광경" (테크M ─ 리포트)]]></title>
