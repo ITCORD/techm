@@ -4,9 +4,17 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Jun 2022 05:20:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jun 2022 06:25:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[테크M 이슈] 남궁훈표 메타버스의 시작은 '오픈링크']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=98157</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=98157</guid>
+            <pubDate>Tue, 07 Jun 2022 06:24:14 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202206/98157_113163_288_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[카카오, 메타버스 비전 '카카오 유니버스' 띄운다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=98155</link>
@@ -110,14 +118,6 @@
             <pubDate>Tue, 07 Jun 2022 06:41:00 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202206/98133_113124_3424_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[애플워치, 더 정교해진 '건강 지킴이'로 진화]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=98131</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=98131</guid>
-            <pubDate>Tue, 07 Jun 2022 05:09:00 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202206/98131_113122_85_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

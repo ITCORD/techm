@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Jun 2022 05:20:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jun 2022 06:25:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] '하바' 브랜드 사이트 오픈... 인터체인 블록체인 프로젝트!]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=98154</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=98154</guid>
+            <pubDate>Tue, 07 Jun 2022 06:25:50 GMT</pubDate>
+            <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202206/98154_113152_2737_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 한컴, '싸이타운' 출시 코앞…"최종 앱 심사 돌입"]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=98089</link>
@@ -110,14 +118,6 @@
             <pubDate>Sun, 22 May 2022 17:16:01 GMT</pubDate>
             <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202205/97667_112215_2615_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] LG유플러스, 메타버스 전략 가동... '타깃-세분화'로 '찐팬' 만든다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=97639</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=97639</guid>
-            <pubDate>Sun, 22 May 2022 17:16:01 GMT</pubDate>
-            <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202205/97639_112149_176_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
