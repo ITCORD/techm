@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Jun 2022 04:35:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Jun 2022 05:21:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 카카오, '카카오 유니버스' 띄운다... 메타버스 비전 공개]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=98195</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=98195</guid>
+            <pubDate>Wed, 08 Jun 2022 05:21:35 GMT</pubDate>
+            <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202206/98195_113229_5010_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] '하바' 브랜드 사이트 오픈... 인터체인 블록체인 프로젝트!]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=98154</link>
@@ -110,14 +118,6 @@
             <pubDate>Mon, 23 May 2022 05:28:35 GMT</pubDate>
             <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202205/97748_112387_3856_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 엔씨소프트, 메타버스 삼매경...김택진 "엔씨소프트만의 메타버스 꿈꾼다"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=97667</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=97667</guid>
-            <pubDate>Sun, 22 May 2022 17:16:01 GMT</pubDate>
-            <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202205/97667_112215_2615_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
