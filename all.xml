@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Jun 2022 03:29:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Jun 2022 04:35:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[맥북에어, 사도 될까요? (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=98189</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=98189</guid>
+            <pubDate>Wed, 08 Jun 2022 00:55:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202206/98189_113219_4640_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['NFT'부터 '버츄얼휴먼'까지...CJ가 신기술에 꽂힌 이유는? "관성 깬 변화가 필요하다" (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=98188</link>
@@ -24,7 +32,7 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202206/98186_113213_16_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[NDC22] 넥슨 강대현 "블록체인으로 코인 투자 넘어 게임 세계관 연결" (테크M ─ 전체기사)]]></title>
+            <title><![CDATA[[NDC 22] 강대현 넥슨 부사장 "블록체인으로 코인 투자 넘어 게임 세계관 연결" (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=98187</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=98187</guid>
             <pubDate>Wed, 08 Jun 2022 11:22:00 GMT</pubDate>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 07 Jun 2022 07:23:58 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202206/98165_113190_3628_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BTS 의존도 낮춘다...하이브, 美 법인 대거 설립, 신사업 본격화 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=98169</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=98169</guid>
-            <pubDate>Tue, 07 Jun 2022 07:23:58 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202206/98169_113191_3651_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['환승연애2' 돌아온다...7월 15일 '티빙'서 공개 (테크M ─ 콘텐츠)]]></title>
@@ -392,7 +392,7 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202206/98141_113139_2227_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[NDC22] 넥슨 강대현 "블록체인으로 코인 투자 넘어 게임 세계관 연결" (테크M ─ 이노베이션)]]></title>
+            <title><![CDATA[[NDC 22] 강대현 넥슨 부사장 "블록체인으로 코인 투자 넘어 게임 세계관 연결" (테크M ─ 이노베이션)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=98187</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=98187</guid>
             <pubDate>Wed, 08 Jun 2022 11:22:00 GMT</pubDate>
@@ -504,6 +504,22 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202205/97978_112842_4957_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[NDC 22] "게 섯거라 위믹스" P2E 참전한 넥슨 '게임코인 시대' 활짝 연다 (테크M ─ 인베스트먼트)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=98185</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=98185</guid>
+            <pubDate>Wed, 08 Jun 2022 10:47:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202206/98185_113211_4618_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[크립토 브리핑] 비트코인 3900만원대 유지...투심 소폭 완화 (테크M ─ 인베스트먼트)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=98176</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=98176</guid>
+            <pubDate>Wed, 08 Jun 2022 09:38:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202206/98176_113202_275_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[토스, '대출 비교 서비스' 월 대출실행액 1조원 돌파 (테크M ─ 인베스트먼트)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=98146</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=98146</guid>
@@ -598,22 +614,6 @@
             <pubDate>Mon, 30 May 2022 06:30:16 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202205/97950_112798_136_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[크립토 브리핑] 매주 꾸준히 하락하는 비트코인...9주 연속 하락세 (테크M ─ 인베스트먼트)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=97928</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=97928</guid>
-            <pubDate>Mon, 30 May 2022 10:13:00 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202205/97928_112751_626_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[크립토 주간 브리핑] 서서히 추락하는 비트코인...이더·리플은 하락폭 컸다 (테크M ─ 인베스트먼트)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=97906</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=97906</guid>
-            <pubDate>Sat, 28 May 2022 00:25:00 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202205/97906_112692_330_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[NDC 22] 넥슨 패밀리 수장 오웬 마호니, 창업주 故 김정주를 기리다 (테크M ─ 피플)]]></title>
@@ -727,6 +727,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202205/97893_112668_1825_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[맥북에어, 사도 될까요? (테크M ─ 라이프)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=98189</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=98189</guid>
+            <pubDate>Wed, 08 Jun 2022 00:55:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202206/98189_113219_4640_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[삼성전자 '비스포크 홈' 글로벌 가전 시장 공략 나선다 (테크M ─ 라이프)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=98175</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=98175</guid>
@@ -829,14 +837,6 @@
             <pubDate>Tue, 31 May 2022 08:29:19 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202205/98005_112890_5741_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["만원도 혜자네" 쿠팡 와우 회원, 1년에 86만원 절약했다 (테크M ─ 라이프)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=98002</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=98002</guid>
-            <pubDate>Tue, 31 May 2022 08:29:19 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202205/98002_112884_3814_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[글로벌] 전쟁판도 바꾼 스타링크, 우크라이나에 단말기 1만여개 제공 (테크M ─ 리포트)]]></title>

@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Jun 2022 03:29:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Jun 2022 04:35:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[맥북에어, 사도 될까요?]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=98189</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=98189</guid>
+            <pubDate>Wed, 08 Jun 2022 00:55:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202206/98189_113219_4640_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['NFT'부터 '버츄얼휴먼'까지...CJ가 신기술에 꽂힌 이유는? "관성 깬 변화가 필요하다"]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=98188</link>
@@ -24,7 +32,7 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202206/98186_113213_16_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[NDC22] 넥슨 강대현 "블록체인으로 코인 투자 넘어 게임 세계관 연결"]]></title>
+            <title><![CDATA[[NDC 22] 강대현 넥슨 부사장 "블록체인으로 코인 투자 넘어 게임 세계관 연결"]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=98187</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=98187</guid>
             <pubDate>Wed, 08 Jun 2022 11:22:00 GMT</pubDate>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 07 Jun 2022 07:23:58 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202206/98165_113190_3628_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BTS 의존도 낮춘다...하이브, 美 법인 대거 설립, 신사업 본격화]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=98169</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=98169</guid>
-            <pubDate>Tue, 07 Jun 2022 07:23:58 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202206/98169_113191_3651_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
