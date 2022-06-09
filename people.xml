@@ -4,9 +4,17 @@
         <title>테크M ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Jun 2022 23:22:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jun 2022 01:46:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[밀라노 찾은 조주완 LG전자 사장 "디자인에 F.U.N 경험 담아라"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=98220</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=98220</guid>
+            <pubDate>Thu, 09 Jun 2022 10:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202206/98220_113282_3112_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[삼성 출신 블록체인 전문가 최윤일, 토종 메인넷 '프로토콘' CTO로 합류]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=98191</link>
@@ -109,14 +117,6 @@
             <pubDate>Sun, 29 May 2022 14:21:26 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202205/97923_112745_1512_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[e스포츠인] T1 '페이커' 이상혁 "오늘 밤 주인공은 나야, 나"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=97911</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=97911</guid>
-            <pubDate>Sat, 28 May 2022 14:21:13 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202205/97911_112702_1736_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
