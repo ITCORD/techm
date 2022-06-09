@@ -4,9 +4,17 @@
         <title>테크M ─ 콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Jun 2022 03:30:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jun 2022 04:35:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[NDC 22] "좋은 '시니어 프로그래머'는 하루 아침 완성되지 않아...'구현' 능력이 핵심"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=98228</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=98228</guid>
+            <pubDate>Thu, 09 Jun 2022 00:54:00 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202206/98228_113297_5328_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김희선이 넷플릭스에 뜬다...'블랙의 신부' 7월 15일 공개]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=98230</link>
@@ -110,14 +118,6 @@
             <pubDate>Tue, 07 Jun 2022 07:24:13 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202206/98165_113190_3628_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[블록체인·메타버스와 함께 돌아온 넥슨개발자콘퍼런스(NDC), 게임의 모든 것 공유한다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=98158</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=98158</guid>
-            <pubDate>Tue, 07 Jun 2022 06:23:56 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202206/98158_113196_3821_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
