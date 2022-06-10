@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Jun 2022 05:20:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jun 2022 06:27:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] CJ, 메타버스 '브릿지 오피스' 열었다... 버추얼휴먼과 NFT 신기술도 함께 공개!]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=98287</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=98287</guid>
+            <pubDate>Fri, 10 Jun 2022 06:27:27 GMT</pubDate>
+            <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202206/98287_113397_4434_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[게임코인TV] 플레이댑의 '에버랜드 메타버스', 컨센서스 2022에서 베일 벗나]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=98262</link>
@@ -110,14 +118,6 @@
             <pubDate>Wed, 25 May 2022 05:26:36 GMT</pubDate>
             <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202205/97834_112541_3236_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 라인 자회사 IPX...메타버스·NFT 인재 찾는다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=97790</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=97790</guid>
-            <pubDate>Tue, 24 May 2022 05:28:04 GMT</pubDate>
-            <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202205/97790_112470_3835_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
