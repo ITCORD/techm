@@ -4,9 +4,25 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Jun 2022 03:23:02 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Jun 2022 04:28:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[크립토 주간 브리핑] 美 CPI 충격에 EU 긴축까지…비트코인 3700만원까지 밀려]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=98311</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=98311</guid>
+            <pubDate>Sat, 11 Jun 2022 00:33:00 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202206/98311_113474_2320_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[테크M 리포트] IPO 타이밍 놓친 케이뱅크, 장외 몸값 5조로 급락...왜?]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=98310</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=98310</guid>
+            <pubDate>Sat, 11 Jun 2022 00:27:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202206/98310_113473_1623_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[글로벌] 스마트워치 경쟁에 백기 든 메타...암호명 '밀란' 개발 중단]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=98309</link>
@@ -150,22 +166,6 @@
             <pubDate>Fri, 10 Jun 2022 06:23:56 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202206/98289_113407_3042_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[NDC 22] 핫한 NFT 시장의 흥행 키워드는 '팬덤']]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=98294</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=98294</guid>
-            <pubDate>Fri, 10 Jun 2022 06:23:56 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202206/98294_113450_2824_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[NDC 22] AI·NFT 결합된 'iNFT' 캐릭터..."미래에 인간 대신할 수 있다"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=98288</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=98288</guid>
-            <pubDate>Fri, 10 Jun 2022 06:23:56 GMT</pubDate>
-            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202206/98288_113404_050_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
