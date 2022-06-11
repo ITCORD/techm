@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Jun 2022 07:20:20 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Jun 2022 08:24:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[초보 텃밭 일기] (4) 튼실한 작물 수확 원한다면...귀찮지만 '곁순제거' '추가비료' 필수]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=98312</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=98312</guid>
+            <pubDate>Sat, 11 Jun 2022 08:22:40 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202206/98312_113478_415_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[크립토 주간 브리핑] 美 CPI 충격에 EU 긴축까지…비트코인 3700만원까지 밀려]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=98311</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 10 Jun 2022 06:23:56 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202206/98295_113421_5645_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[테크M 트렌드] 지갑을 버려라, 스마트폰을 들어라]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=98289</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=98289</guid>
-            <pubDate>Fri, 10 Jun 2022 06:23:56 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202206/98289_113407_3042_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

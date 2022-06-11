@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Jun 2022 07:20:20 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Jun 2022 08:24:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[초보 텃밭 일기] (4) 튼실한 작물 수확 원한다면...귀찮지만 '곁순제거' '추가비료' 필수 (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=98312</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=98312</guid>
+            <pubDate>Sat, 11 Jun 2022 08:22:40 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202206/98312_113478_415_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[크립토 주간 브리핑] 美 CPI 충격에 EU 긴축까지…비트코인 3700만원까지 밀려 (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=98311</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 10 Jun 2022 06:23:56 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202206/98295_113421_5645_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[테크M 트렌드] 지갑을 버려라, 스마트폰을 들어라 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=98289</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=98289</guid>
-            <pubDate>Fri, 10 Jun 2022 06:23:56 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202206/98289_113407_3042_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[컨센서스 2022] '플레이댑' 부스 규모 남다르네...이벤트부터 미팅까지 분위기 '후끈' (테크M ─ 콘텐츠)]]></title>
@@ -504,6 +504,22 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202206/98178_113204_5554_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[테크M 리포트] 지옥에서 돌아온 엔씨소프트, 금리인상기 나홀로 '방긋' (테크M ─ 인베스트먼트)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=98300</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=98300</guid>
+            <pubDate>Fri, 10 Jun 2022 07:19:43 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202206/98300_113433_4437_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[위믹스 3.0 앞둔 위메이드, 블록체인 '광폭 행보'...유망 프로젝트 투자 확대 (테크M ─ 인베스트먼트)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=98281</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=98281</guid>
+            <pubDate>Fri, 10 Jun 2022 00:17:00 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202206/98281_113441_2415_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[테크M 리포트] IPO 문턱에 선 컬리, 장외 시총 3조 깨졌다 (테크M ─ 인베스트먼트)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=98238</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=98238</guid>
@@ -589,7 +605,7 @@
             <guid>https://www.techm.kr/news/articleView.html?idxno=98104</guid>
             <pubDate>Sat, 04 Jun 2022 11:50:00 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202206/98104_113080_1435_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202206/98104_113058_440_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[테크M 리포트] 다시 뛰는 네이버-카카오...美 구글-메타와 다른 분위기, 왜? (테크M ─ 인베스트먼트)]]></title>
@@ -598,22 +614,6 @@
             <pubDate>Fri, 03 Jun 2022 06:27:11 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202206/98094_113035_830_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[테크M 리포트] '차세대 유니콘' 닥터나우, 유동성 축소에도 투자금 러시...왜? (테크M ─ 인베스트먼트)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=98042</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=98042</guid>
-            <pubDate>Thu, 02 Jun 2022 10:44:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202206/98042_112944_4455_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[크립토 브리핑] 깜짝 반등이었나...비트코인 하루새 200만원 급락 (테크M ─ 인베스트먼트)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=98039</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=98039</guid>
-            <pubDate>Thu, 02 Jun 2022 10:32:00 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202206/98039_112941_2758_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[NDC 22] 게임업계 최초 정년퇴직자의 조언 "커리어 관리 핵심은 좋아하는 일을 계속 하는 것" (테크M ─ 피플)]]></title>
