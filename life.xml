@@ -4,9 +4,17 @@
         <title>테크M ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Jun 2022 01:56:28 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Jun 2022 03:27:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[제주에서 LG전자 식물생활가전 '틔운' 체험하세요]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=98318</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=98318</guid>
+            <pubDate>Sun, 12 Jun 2022 11:21:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202206/98318_113504_1946_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[같이사소] "여름을 부탁해~"...쿠팡-티몬-위메프가 준비한 기획전]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=98282</link>
@@ -110,14 +118,6 @@
             <pubDate>Fri, 03 Jun 2022 06:27:47 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202206/98093_113034_411_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["장보기도 배달처럼 주문하면 1시간 안에"...요기요 '요마트' 서비스 확장 '박차']]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=98061</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=98061</guid>
-            <pubDate>Thu, 02 Jun 2022 08:30:12 GMT</pubDate>
-            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202206/98061_112978_5736_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
