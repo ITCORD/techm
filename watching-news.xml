@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Jun 2022 05:34:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jun 2022 06:28:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 무신사, '가상인간' 유아인 공개...무신사표 패션 세계관 더 커진다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=98384</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=98384</guid>
+            <pubDate>Tue, 14 Jun 2022 06:28:02 GMT</pubDate>
+            <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202206/98384_113629_293_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 네이버 신무기, 메타버스 'ZEP' 반년새 100만명 모은 비결은?]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=98362</link>
@@ -110,14 +118,6 @@
             <pubDate>Fri, 27 May 2022 09:30:00 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202205/97898_112674_295_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 한컴, '우주·메타버스'로 진격…'김연수호', 신사업 재편 박차]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=97873</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=97873</guid>
-            <pubDate>Thu, 26 May 2022 05:26:29 GMT</pubDate>
-            <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202205/97873_112615_402_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
