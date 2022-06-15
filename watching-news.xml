@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Jun 2022 04:39:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jun 2022 05:25:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] SKT '이프랜드' 메타버스 가요제 연다…차세대 'K팝스타' 발굴!]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=98419</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=98419</guid>
+            <pubDate>Wed, 15 Jun 2022 05:25:47 GMT</pubDate>
+            <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202206/98419_113713_4152_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 무신사, '가상인간' 유아인 공개...무신사표 패션 세계관 더 커진다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=98384</link>
@@ -110,14 +118,6 @@
             <pubDate>Fri, 27 May 2022 07:47:40 GMT</pubDate>
             <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202205/97901_112679_4341_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[게임코인TV] 급등한 위믹스, 원인 중 하나는 위메이드 '미르M'...부활 신호탄?(중)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=97898</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=97898</guid>
-            <pubDate>Fri, 27 May 2022 09:30:00 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202205/97898_112674_295_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

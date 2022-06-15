@@ -4,9 +4,25 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Jun 2022 04:39:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jun 2022 05:25:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["데이터, 어렵지 않아요" 몽고DB 개발자 데이터 플랫폼 '아틀라스'의 자신감]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=98418</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=98418</guid>
+            <pubDate>Wed, 15 Jun 2022 05:23:02 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202206/98418_113709_3434_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[팀뷰어, 현장 작업자 지원하는 AR 솔루션 들고 한국 시장 공략]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=98417</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=98417</guid>
+            <pubDate>Wed, 15 Jun 2022 05:23:02 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202206/98417_113712_4126_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[위메이드, 메인넷·스테이블코인 올린 위믹스 3.0 띄운다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=98416</link>
@@ -102,22 +118,6 @@
             <pubDate>Tue, 14 Jun 2022 06:25:29 GMT</pubDate>
             <content:encoded><![CDATA[김가은 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202206/98387_113657_737_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[코린이톡] 루나에 놀란 尹 정부 '회초리' 대신 '자율규제' 택한 이유]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=98388</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=98388</guid>
-            <pubDate>Tue, 14 Jun 2022 06:25:29 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202206/98388_113658_82_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성전자 '대학생 프로그래밍 경진대회' 참가자 모집]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=98386</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=98386</guid>
-            <pubDate>Tue, 14 Jun 2022 06:25:29 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202206/98386_113639_362_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
