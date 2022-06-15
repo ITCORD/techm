@@ -4,9 +4,17 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Jun 2022 08:30:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jun 2022 09:25:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["익명성을 이용한 탈세 등 정부 규칙 피하려는 존재 있을 것" 빌 게이츠, 가상자산 맹비난]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=98431</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=98431</guid>
+            <pubDate>Wed, 15 Jun 2022 09:22:23 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202206/98431_113750_163_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[삼성 '청년SW아카데미' 6기 수료식 개최…누적 2770명 취업]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=98429</link>
@@ -16,7 +24,7 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202206/98429_113749_1359_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA["네트워크상 문제 사전에 조치" 시스코 '예측 네트워킹' 기술 공개]]></title>
+            <title><![CDATA["네트워크상 문제 사전에 조치" 시스코 '예측 네트워킹' 기술 공개]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=98426</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=98426</guid>
             <pubDate>Wed, 15 Jun 2022 08:27:44 GMT</pubDate>
@@ -29,7 +37,7 @@
             <guid>https://www.techm.kr/news/articleView.html?idxno=98424</guid>
             <pubDate>Wed, 15 Jun 2022 07:19:51 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202206/98424_113735_5823_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202206/98424_113754_4533_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["데이터, 어렵지 않아요" 몽고DB 개발자 데이터 플랫폼 '아틀라스'의 자신감]]></title>
@@ -110,14 +118,6 @@
             <pubDate>Wed, 15 Jun 2022 08:56:00 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202206/98400_113679_5524_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['테라' 손절한 컴투스 그룹, 독립적인 메인넷 만든다..."C2X 생태계 더 강화"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=98396</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=98396</guid>
-            <pubDate>Tue, 14 Jun 2022 08:27:25 GMT</pubDate>
-            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202206/98396_113655_2844_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
