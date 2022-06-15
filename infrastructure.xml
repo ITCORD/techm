@@ -4,9 +4,17 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Jun 2022 06:27:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jun 2022 07:22:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[테크M 이슈] 위믹스 3.0 출범...'게임·DAO·디파이'로 블록체인 판 흔든다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=98424</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=98424</guid>
+            <pubDate>Wed, 15 Jun 2022 07:19:51 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202206/98424_113735_5823_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["데이터, 어렵지 않아요" 몽고DB 개발자 데이터 플랫폼 '아틀라스'의 자신감]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=98418</link>
@@ -110,14 +118,6 @@
             <pubDate>Tue, 14 Jun 2022 06:25:29 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202206/98389_113644_1244_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['제2의 루나' 이더리움 홀더 울리는 셀시우스, 담보금 모으며 '사활']]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=98387</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=98387</guid>
-            <pubDate>Tue, 14 Jun 2022 06:25:29 GMT</pubDate>
-            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202206/98387_113640_410_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
