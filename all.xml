@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Jun 2022 17:26:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jun 2022 18:32:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[PNC] 남들에겐 관대하고 스스로에겐 엄격한 '래쉬케이' 김동준 (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=98486</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=98486</guid>
+            <pubDate>Fri, 17 Jun 2022 02:46:00 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202206/98486_113854_4044_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[PNC] 미라마 약점 극복 못한 한국팀, 6위로 1일차 마무리 (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=98485</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 16 Jun 2022 06:23:38 GMT</pubDate>
             <content:encoded><![CDATA[김현기 대표]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202206/98469_113835_824_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[체크막스 "오픈소스에 숨은 악성코드, 단순 스캔으로 못 잡아"…멀티 스캔 엔진 '퓨전' 공개 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=98466</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=98466</guid>
-            <pubDate>Thu, 16 Jun 2022 06:23:38 GMT</pubDate>
-            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202206/98466_113836_845_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[PNC] 미라마 약점 극복 못한 한국팀, 6위로 1일차 마무리 (테크M ─ 콘텐츠)]]></title>
@@ -616,6 +616,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202206/98300_113433_4437_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[PNC] 남들에겐 관대하고 스스로에겐 엄격한 '래쉬케이' 김동준 (테크M ─ 피플)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=98486</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=98486</guid>
+            <pubDate>Fri, 17 Jun 2022 02:46:00 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202206/98486_113854_4044_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[책임경영 힘주는 카카오페이...신원근 대표, 12억원 규모 자사주 매입 (테크M ─ 피플)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=98467</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=98467</guid>
@@ -718,14 +726,6 @@
             <pubDate>Wed, 08 Jun 2022 10:23:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202206/98181_113206_2247_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[메타, 김진아 페이스북코리아 신임 대표 선임 (테크M ─ 피플)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=98172</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=98172</guid>
-            <pubDate>Tue, 07 Jun 2022 07:26:06 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202206/98172_113188_219_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한국레노버, 친환경 소재 활용한 프리미엄 비즈니스 노트북 '씽크패드 Z' 시리즈 출시 (테크M ─ 라이프)]]></title>
