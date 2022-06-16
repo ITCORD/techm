@@ -4,9 +4,25 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Jun 2022 01:48:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jun 2022 03:29:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[야놀자클라우드, SPC삼립 손잡고 '맛집' 레시피 기반 간편식 선보인다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=98452</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=98452</guid>
+            <pubDate>Thu, 16 Jun 2022 00:23:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202206/98452_113785_2230_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[신세계I&C, 헥슬란트 손잡고 NFT 기반 '디지털 보증서' 서비스 개발 나선다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=98450</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=98450</guid>
+            <pubDate>Thu, 16 Jun 2022 00:12:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202206/98450_113782_940_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[전자랜드에 'KT로봇관' 생긴다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=98442</link>
@@ -102,22 +118,6 @@
             <pubDate>Wed, 15 Jun 2022 11:33:00 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202206/98412_113699_5811_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국MS, GS칼텍스에 'MS 365' 제공…"하이브리드 업무 환경 구현"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=98415</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=98415</guid>
-            <pubDate>Wed, 15 Jun 2022 11:33:00 GMT</pubDate>
-            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202206/98415_113700_1615_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LG유플러스, 렉서스 뉴 제너레이션에 U+드라이브 탑재]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=98408</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=98408</guid>
-            <pubDate>Wed, 15 Jun 2022 10:14:00 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202206/98408_113694_4731_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
