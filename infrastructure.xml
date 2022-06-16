@@ -4,9 +4,17 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Jun 2022 23:23:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jun 2022 01:48:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[전자랜드에 'KT로봇관' 생긴다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=98442</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=98442</guid>
+            <pubDate>Thu, 16 Jun 2022 10:35:00 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202206/98442_113773_3413_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[돈벌이 걱정은 '기우'...동네 포털 당근마켓 '광고' 수익 확 키운다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=98434</link>
@@ -110,14 +118,6 @@
             <pubDate>Wed, 15 Jun 2022 10:14:00 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202206/98408_113694_4731_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스노우플레이크 '사이버시큐리티 워크로드' 솔루션 공개…"클라우드 사각지대 제거"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=98402</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=98402</guid>
-            <pubDate>Wed, 15 Jun 2022 09:33:00 GMT</pubDate>
-            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202206/98402_113728_833_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
