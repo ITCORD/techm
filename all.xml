@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Jun 2022 15:26:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jun 2022 16:32:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[PNC] 자신이 한 말은 반드시 지키는 '래쉬케이' 김동준 (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=98526</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=98526</guid>
+            <pubDate>Sat, 18 Jun 2022 01:24:00 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202206/98526_113948_2239_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[PNC] 꾸준히 상위권 유지한 한국, 4위로 점프...브라질, 두번의 치킨으로 1위 등극 (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=98525</link>
@@ -160,18 +168,10 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202206/98504_113923_2240_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['자이언트 스텝'에 '5만전자' 내려 앉은 삼성…공급망 위기·수요 감소 우려에 '휘청'(종합) (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=98500</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=98500</guid>
-            <pubDate>Fri, 17 Jun 2022 00:28:00 GMT</pubDate>
-            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202206/98500_113924_2317_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[PNC] 꾸준히 상위권 유지한 한국, 4위로 점프...브라질, 두번의 치킨으로 1위 등극 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=98525</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=98525</guid>
-            <pubDate>Fri, 17 Jun 2022 15:24:45 GMT</pubDate>
+            <pubDate>Fri, 17 Jun 2022 15:24:29 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202206/98525_113946_955_v150.jpg" length="0" type="image/jpg"/>
         </item>
@@ -616,6 +616,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202206/98366_113610_22_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[PNC] 자신이 한 말은 반드시 지키는 '래쉬케이' 김동준 (테크M ─ 피플)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=98526</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=98526</guid>
+            <pubDate>Sat, 18 Jun 2022 01:24:00 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202206/98526_113948_2239_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[테크M 피플] 인앱결제에 반기 든 카카오 남궁훈, 진정한 구글 파이터? (테크M ─ 피플)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=98518</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=98518</guid>
@@ -718,14 +726,6 @@
             <pubDate>Fri, 10 Jun 2022 04:27:56 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202206/98284_113393_5939_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[밀라노 찾은 조주완 LG전자 사장 "디자인에 F.U.N 경험 담아라" (테크M ─ 피플)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=98220</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=98220</guid>
-            <pubDate>Thu, 09 Jun 2022 10:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202206/98220_113282_3112_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[남궁훈의 '소통 리더십' 빛났다...카카오, 업무방식 혁신 이어간다 (테크M ─ 라이프)]]></title>

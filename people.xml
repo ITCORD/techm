@@ -4,9 +4,17 @@
         <title>테크M ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Jun 2022 15:26:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jun 2022 16:32:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[PNC] 자신이 한 말은 반드시 지키는 '래쉬케이' 김동준]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=98526</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=98526</guid>
+            <pubDate>Sat, 18 Jun 2022 01:24:00 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202206/98526_113948_2239_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[테크M 피플] 인앱결제에 반기 든 카카오 남궁훈, 진정한 구글 파이터?]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=98518</link>
@@ -110,14 +118,6 @@
             <pubDate>Fri, 10 Jun 2022 04:30:13 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202206/98284_113393_5939_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[밀라노 찾은 조주완 LG전자 사장 "디자인에 F.U.N 경험 담아라"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=98220</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=98220</guid>
-            <pubDate>Thu, 09 Jun 2022 10:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202206/98220_113282_3112_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
