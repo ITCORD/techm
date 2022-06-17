@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Jun 2022 03:29:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jun 2022 04:38:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['자이언트 스텝'에 '5만전자' 내려 앉은 삼성…공급망 위기·수요 감소 우려에 '휘청'(종합) (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=98500</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=98500</guid>
+            <pubDate>Fri, 17 Jun 2022 00:28:00 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202206/98500_113870_121_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[KT, 이미용업계 디지털 전환 지원 나서…"상생 혁신 모델 만든다" (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=98498</link>
@@ -160,14 +168,6 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202206/98483_113847_1022_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[토종 블록체인의 자존심 '아이콘루프', 메인넷 구축 돕는 '파라메타' 출시 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=98479</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=98479</guid>
-            <pubDate>Thu, 16 Jun 2022 08:28:20 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202206/98479_113840_155_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[코빗, 홈페이지 전면 리뉴얼...테마별 가상자산 탐색한다 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=98480</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=98480</guid>
@@ -280,6 +280,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202206/98430_113748_1055_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['자이언트 스텝'에 '5만전자' 내려 앉은 삼성…공급망 위기·수요 감소 우려에 '휘청'(종합) (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=98500</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=98500</guid>
+            <pubDate>Fri, 17 Jun 2022 00:28:00 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202206/98500_113870_121_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[KT, 이미용업계 디지털 전환 지원 나서…"상생 혁신 모델 만든다" (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=98498</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=98498</guid>
@@ -382,14 +390,6 @@
             <pubDate>Thu, 16 Jun 2022 04:35:25 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202206/98462_113802_2122_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[안랩, 보안 특화 '안랩 클라우드'로 공공기관 고객사 확보…"MSP 역량 입증" (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=98458</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=98458</guid>
-            <pubDate>Thu, 16 Jun 2022 00:57:00 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202206/98458_113793_5714_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[네이버가 찍은 뷰런테크놀로지, 美 캘리포니아서 자율주행 면허 취득 (테크M ─ 이노베이션)]]></title>
