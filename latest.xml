@@ -4,9 +4,25 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Jun 2022 05:26:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jun 2022 06:27:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아트투게더, 미술시장 특별 강연 개최]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=98508</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=98508</guid>
+            <pubDate>Fri, 17 Jun 2022 06:24:39 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202206/98508_113896_521_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[카드뉴스] 'iNFT' 캐릭터, AI·NFT 결합..."미래에 인간 대신할 수 있다"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=98503</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=98503</guid>
+            <pubDate>Fri, 17 Jun 2022 06:24:39 GMT</pubDate>
+            <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202206/98503_113881_4146_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[네이버 '똑똑선물샵' 열었다..."초거대 AI가 골라줘요"]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=98505</link>
@@ -150,22 +166,6 @@
             <pubDate>Thu, 16 Jun 2022 15:19:41 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202206/98487_113852_918_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[더존비즈온-신한은행-대한상의, 중소기업 매출채권팩토링 지원 '맞손']]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=98484</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=98484</guid>
-            <pubDate>Thu, 16 Jun 2022 10:21:30 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202206/98484_113850_466_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[FreeView] 카카오모빌리티 상생한다더니 매각? '꼬리 자르기'가 카카오식 혁신인가]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=98482</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=98482</guid>
-            <pubDate>Thu, 16 Jun 2022 10:21:30 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202206/98482_113848_1111_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

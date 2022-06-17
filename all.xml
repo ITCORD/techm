@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Jun 2022 05:26:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jun 2022 06:27:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아트투게더, 미술시장 특별 강연 개최 (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=98508</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=98508</guid>
+            <pubDate>Fri, 17 Jun 2022 06:24:39 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202206/98508_113896_521_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[카드뉴스] 'iNFT' 캐릭터, AI·NFT 결합..."미래에 인간 대신할 수 있다" (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=98503</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=98503</guid>
+            <pubDate>Fri, 17 Jun 2022 06:24:39 GMT</pubDate>
+            <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202206/98503_113881_4146_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[네이버 '똑똑선물샵' 열었다..."초거대 AI가 골라줘요" (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=98505</link>
@@ -152,22 +168,6 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202206/98487_113852_918_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[더존비즈온-신한은행-대한상의, 중소기업 매출채권팩토링 지원 '맞손' (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=98484</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=98484</guid>
-            <pubDate>Thu, 16 Jun 2022 10:21:30 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202206/98484_113850_466_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[FreeView] 카카오모빌리티 상생한다더니 매각? '꼬리 자르기'가 카카오식 혁신인가 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=98482</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=98482</guid>
-            <pubDate>Thu, 16 Jun 2022 10:21:30 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202206/98482_113848_1111_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[코빗, 홈페이지 전면 리뉴얼...테마별 가상자산 탐색한다 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=98480</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=98480</guid>
@@ -280,6 +280,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202206/98430_113748_1055_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[네이버 '똑똑선물샵' 열었다..."초거대 AI가 골라줘요" (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=98505</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=98505</guid>
+            <pubDate>Fri, 17 Jun 2022 05:20:25 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202206/98505_113890_55_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['자이언트 스텝'에 '5만전자' 내려 앉은 삼성…공급망 위기·수요 감소 우려에 '휘청'(종합) (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=98500</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=98500</guid>
@@ -382,14 +390,6 @@
             <pubDate>Thu, 16 Jun 2022 06:23:38 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202206/98463_113803_011_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[카카오엔터프라이즈, 섹타나인 손잡고 F&D 업계 디지털 전환 나선다 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=98462</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=98462</guid>
-            <pubDate>Thu, 16 Jun 2022 04:35:25 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202206/98462_113802_2122_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[네이버가 찍은 뷰런테크놀로지, 美 캘리포니아서 자율주행 면허 취득 (테크M ─ 이노베이션)]]></title>
@@ -616,6 +616,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202206/98300_113433_4437_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[아트투게더, 미술시장 특별 강연 개최 (테크M ─ 피플)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=98508</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=98508</guid>
+            <pubDate>Fri, 17 Jun 2022 06:27:02 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202206/98508_113896_521_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[PNC] 남들에겐 관대하고 스스로에겐 엄격한 '래쉬케이' 김동준 (테크M ─ 피플)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=98486</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=98486</guid>
@@ -718,14 +726,6 @@
             <pubDate>Wed, 08 Jun 2022 10:34:00 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202206/98183_113209_2845_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[NDC 22] 故 김정주 떠나보낸 넥슨, 韓 개발자들과 다시 뛴다(종합) (테크M ─ 피플)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=98181</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=98181</guid>
-            <pubDate>Wed, 08 Jun 2022 10:23:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202206/98181_113206_2247_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[쿠팡 '로켓직구 6.18 쇼핑축제' 연다…직구상품 최대 90% 할인 (테크M ─ 라이프)]]></title>
@@ -952,6 +952,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202206/98161_113168_2830_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[카드뉴스] 'iNFT' 캐릭터, AI·NFT 결합..."미래에 인간 대신할 수 있다" (테크M ─ 보는 뉴스)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=98503</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=98503</guid>
+            <pubDate>Fri, 17 Jun 2022 06:27:57 GMT</pubDate>
+            <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202206/98503_113881_4146_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[카드뉴스] 영화 '마녀2', 메타버스 체험관 오픈... 올 여름 기대작 메타버스에서도 즐기자! (테크M ─ 보는 뉴스)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=98473</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=98473</guid>
@@ -1054,14 +1062,6 @@
             <pubDate>Thu, 02 Jun 2022 04:50:20 GMT</pubDate>
             <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202206/98048_112956_2756_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 네이버-카카오, '일하는 방식' 확 바꾼다... 주 3일, 주 1일 자율 출근! (테크M ─ 보는 뉴스)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=97990</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=97990</guid>
-            <pubDate>Tue, 31 May 2022 08:29:19 GMT</pubDate>
-            <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202205/97990_112852_2850_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
