@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Jun 2022 03:26:22 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Jun 2022 04:30:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -840,7 +840,7 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202206/98282_113390_2512_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[글로벌] 트위터 직원들 만난 머스크…정리해고와 사무실 출근 암시 (테크M ─ 리포트)]]></title>
+            <title><![CDATA[[글로벌] 트위터 직원들 만난 머스크…정리해고와 사무실 출근 암시 (테크M ─ 리포트)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=98528</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=98528</guid>
             <pubDate>Sat, 18 Jun 2022 11:00:00 GMT</pubDate>
@@ -952,6 +952,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202206/98260_113345_2954_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[배그 토크 콘서트] '로키'가 밝힌, 한국팀이 치킨을 가져가지 않는 이유는? (테크M ─ 보는 뉴스)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=98527</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=98527</guid>
+            <pubDate>Sat, 18 Jun 2022 00:32:00 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202206/98527_113950_3753_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[카드뉴스] 'iNFT' 캐릭터, AI·NFT 결합..."미래에 인간 대신할 수 있다" (테크M ─ 보는 뉴스)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=98503</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=98503</guid>
@@ -1054,14 +1062,6 @@
             <pubDate>Fri, 03 Jun 2022 06:28:21 GMT</pubDate>
             <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202206/98089_113020_3539_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 카카오, 메타버스 CIC 띄웠다...남궁훈표 신사업 본격화 (테크M ─ 보는 뉴스)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=98048</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=98048</guid>
-            <pubDate>Thu, 02 Jun 2022 04:50:20 GMT</pubDate>
-            <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202206/98048_112956_2756_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
