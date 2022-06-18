@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Jun 2022 09:21:04 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Jun 2022 10:23:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[흔들리는 가상자산, 심리 저지선 붕괴...비트코인 2만불·이더리움 1000불 밑으로]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=98533</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=98533</guid>
+            <pubDate>Sat, 18 Jun 2022 10:19:49 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202206/98533_113960_5919_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[크립토 주간 브리핑] 인플레이션·금리인상에 무너진 가상자산 시장...비트·이더 일주일새 30% 폭락]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=98532</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 17 Jun 2022 07:18:11 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202206/98506_113921_2043_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[테크M 이슈] 카카오, 7월부터 격주 '주4일제' 띄운다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=98510</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=98510</guid>
-            <pubDate>Fri, 17 Jun 2022 07:18:11 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202206/98510_113922_2150_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
