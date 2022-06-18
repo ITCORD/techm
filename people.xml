@@ -4,9 +4,17 @@
         <title>테크M ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Jun 2022 17:19:41 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Jun 2022 18:26:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[PNC] '서울' 조기열 "마지막 반전 위해 프로답게 최선을 다하겠다"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=98538</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=98538</guid>
+            <pubDate>Sun, 19 Jun 2022 03:06:00 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202206/98538_113981_613_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[유럽 출장 마친 이재용, 위기 극복 방안은 "첫째도, 둘째도, 셋째도 기술"]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=98531</link>
@@ -110,14 +118,6 @@
             <pubDate>Sun, 12 Jun 2022 11:11:00 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202206/98313_113483_3348_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[NDC 22] 게임업계 최초 정년퇴직자의 조언 "커리어 관리 핵심은 좋아하는 일을 계속 하는 것"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=98302</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=98302</guid>
-            <pubDate>Fri, 10 Jun 2022 07:21:51 GMT</pubDate>
-            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202206/98302_113437_5829_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

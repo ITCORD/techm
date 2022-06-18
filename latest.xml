@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Jun 2022 17:19:41 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Jun 2022 18:26:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[PNC] '서울' 조기열 "마지막 반전 위해 프로답게 최선을 다하겠다"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=98538</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=98538</guid>
+            <pubDate>Sun, 19 Jun 2022 03:06:00 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202206/98538_113981_613_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[PNC] 3일차에도 치킨은 없었다, 한국팀 4위 수성...3일차 1위는 영국]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=98537</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 17 Jun 2022 07:18:11 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202206/98514_113920_1956_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[티맵, 547억원에 대리운전 중개 1위 '로지' 인수…"모빌리티 밸류체인 구축"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=98511</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=98511</guid>
-            <pubDate>Fri, 17 Jun 2022 07:18:11 GMT</pubDate>
-            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202206/98511_113900_4232_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
