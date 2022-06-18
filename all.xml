@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Jun 2022 21:19:30 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Jun 2022 22:20:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[테크M 이슈] "애플은 지루하다" 테크 힙스터 '낫싱'의 쿠데타는 성공할 수 있을까 (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=98534</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=98534</guid>
+            <pubDate>Sun, 19 Jun 2022 07:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202206/98534_113961_1653_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[PNC] '서울' 조기열 "마지막 반전 위해 프로답게 최선을 다하겠다" (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=98538</link>
@@ -160,14 +168,6 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202206/98519_113916_598_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA["짝퉁 300% 보상"...명품 키우는 네이버 크림, '자신감' 이유있다 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=98514</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=98514</guid>
-            <pubDate>Fri, 17 Jun 2022 07:18:11 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202206/98514_113920_1956_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[PNC] 3일차에도 치킨은 없었다, 한국팀 4위 수성...3일차 1위는 영국 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=98537</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=98537</guid>
@@ -280,6 +280,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202206/98477_113830_508_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[테크M 이슈] "애플은 지루하다" 테크 힙스터 '낫싱'의 쿠데타는 성공할 수 있을까 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=98534</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=98534</guid>
+            <pubDate>Sun, 19 Jun 2022 07:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202206/98534_113961_1653_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[더존비즈온, 국방부 '전장이동추적 단말기 구매 사업' 수주 (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=98520</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=98520</guid>
@@ -382,14 +390,6 @@
             <pubDate>Thu, 16 Jun 2022 10:21:30 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202206/98484_113850_466_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["인력난 대처할 수 있는 건 로봇 뿐"…인텔은 모든 기술을 갖고 있다 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=98481</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=98481</guid>
-            <pubDate>Thu, 16 Jun 2022 10:21:30 GMT</pubDate>
-            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202206/98481_113843_571_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[네이버가 찍은 뷰런테크놀로지, 美 캘리포니아서 자율주행 면허 취득 (테크M ─ 이노베이션)]]></title>
