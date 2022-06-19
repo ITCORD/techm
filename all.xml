@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Jun 2022 17:20:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Jun 2022 18:24:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[배그 토크 콘서트] PNC 한국대표팀 "배울 것 많았던 대회...많이 응원해달라" (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=98558</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=98558</guid>
+            <pubDate>Mon, 20 Jun 2022 02:52:00 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202206/98558_114023_4920_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[e스포츠人] 양대우승 '씰'과 역전의 용사 '쫑'...KRPL 역사 썼다 (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=98557</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 18 Jun 2022 14:17:11 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202206/98536_113973_419_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[흔들리는 가상자산, 심리 저지선 붕괴...비트코인 2만불·이더리움 1000불 밑으로 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=98533</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=98533</guid>
-            <pubDate>Sat, 18 Jun 2022 10:19:49 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202206/98533_113960_5919_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[e스포츠人] 양대우승 '씰'과 역전의 용사 '쫑'...KRPL 역사 썼다 (테크M ─ 콘텐츠)]]></title>
@@ -952,6 +952,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202206/98260_113345_2954_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[배그 토크 콘서트] PNC 한국대표팀 "배울 것 많았던 대회...많이 응원해달라" (테크M ─ 보는 뉴스)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=98558</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=98558</guid>
+            <pubDate>Mon, 20 Jun 2022 02:52:00 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202206/98558_114023_4920_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[배그 토크 콘서트] '로키'가 밝힌, 한국팀이 치킨을 가져가지 않는 이유는? (테크M ─ 보는 뉴스)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=98527</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=98527</guid>
@@ -1054,14 +1062,6 @@
             <pubDate>Tue, 07 Jun 2022 06:23:39 GMT</pubDate>
             <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202206/98154_113152_2737_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 한컴, '싸이타운' 출시 코앞…"최종 앱 심사 돌입" (테크M ─ 보는 뉴스)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=98089</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=98089</guid>
-            <pubDate>Fri, 03 Jun 2022 06:28:21 GMT</pubDate>
-            <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202206/98089_113020_3539_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
