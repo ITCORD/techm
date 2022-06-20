@@ -4,16 +4,24 @@
         <title>테크M ─ 콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Jun 2022 23:21:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jun 2022 01:50:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['독전2'는 넷플릭스가 제작한다...조진웅·차승원·한효주 출격]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=98564</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=98564</guid>
+            <pubDate>Mon, 20 Jun 2022 10:11:00 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202206/98564_114034_5811_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[우마무스메가 달린다②] 3D 애니메이션+스포츠 박진감 더한 '말딸']]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=98555</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=98555</guid>
             <pubDate>Mon, 20 Jun 2022 04:57:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202206/98555_114012_22_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202206/98555_114039_2811_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[e스포츠人] 양대우승 '씰'과 역전의 용사 '쫑'...KRPL 역사 썼다]]></title>
@@ -21,7 +29,7 @@
             <guid>https://www.techm.kr/news/articleView.html?idxno=98557</guid>
             <pubDate>Sun, 19 Jun 2022 16:25:23 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202206/98557_114020_525_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202206/98557_114041_2847_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[PNC] 한국대표팀, 치킨 없이도 4위로 마무리...영국 배틀그라운드 최강국 등극]]></title>
@@ -29,7 +37,7 @@
             <guid>https://www.techm.kr/news/articleView.html?idxno=98556</guid>
             <pubDate>Sun, 19 Jun 2022 15:19:18 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202206/98556_114017_86_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202206/98556_114043_295_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[현장습격] '레전드' 탄생 현장...어느 때보다 뜨거웠던 KRPL 결승전]]></title>
@@ -64,12 +72,12 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202206/98537_113979_260_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[해봤다] e스포츠와 '테크'가 만났을 때...PNC 현장이 더 재미있어지다]]></title>
+            <title><![CDATA[[해봤다] e스포츠와 '테크'가 만났을 때...PNC 현장이 더 재밌어진다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=98536</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=98536</guid>
             <pubDate>Sat, 18 Jun 2022 14:17:27 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202206/98536_113973_419_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202206/98536_114048_3035_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['메타버스 근무' 발표로 화제...카카오 공동체 지금 어떻게 일하고 있나]]></title>
@@ -110,14 +118,6 @@
             <pubDate>Fri, 17 Jun 2022 08:26:31 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202206/98517_113925_2733_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[네시삼십삼분, 모바일 스포츠 게임 '월드 베이스볼 스타즈' 국내 출시]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=98519</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=98519</guid>
-            <pubDate>Fri, 17 Jun 2022 08:26:31 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202206/98519_113916_598_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
