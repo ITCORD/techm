@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Jun 2022 05:21:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jun 2022 06:31:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 컴투스-위지윅, '오마이걸' 소속사 RBW에 230억 투자…"콘텐츠·메타버스 사업 강화"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=98573</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=98573</guid>
+            <pubDate>Mon, 20 Jun 2022 06:31:16 GMT</pubDate>
+            <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202206/98573_114054_2423_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[배그 토크 콘서트] PNC 한국대표팀 "배울 것 많았던 대회...많이 응원해달라"]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=98558</link>
@@ -110,14 +118,6 @@
             <pubDate>Wed, 08 Jun 2022 05:21:35 GMT</pubDate>
             <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202206/98195_113229_5010_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] '하바' 브랜드 사이트 오픈... 인터체인 블록체인 프로젝트!]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=98154</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=98154</guid>
-            <pubDate>Tue, 07 Jun 2022 06:25:50 GMT</pubDate>
-            <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202206/98154_113152_2737_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
