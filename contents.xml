@@ -4,9 +4,17 @@
         <title>테크M ─ 콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Jun 2022 01:50:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jun 2022 03:22:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[카카오프렌즈, 인터랙티브 콘텐츠 '집사는 왜 월요일이 싫을까' 공개]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=98570</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=98570</guid>
+            <pubDate>Mon, 20 Jun 2022 11:26:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202206/98570_114050_5511_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['독전2'는 넷플릭스가 제작한다...조진웅·차승원·한효주 출격]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=98564</link>
@@ -110,14 +118,6 @@
             <pubDate>Fri, 17 Jun 2022 09:20:32 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202206/98522_113918_3642_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[넥슨, 사내 행사서 '아이패드+펜슬' 깜짝 선물...재택 근무는 없다?]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=98517</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=98517</guid>
-            <pubDate>Fri, 17 Jun 2022 08:26:31 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202206/98517_113925_2733_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
