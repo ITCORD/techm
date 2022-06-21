@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Jun 2022 06:27:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jun 2022 07:20:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[테크M 리포트] 韓 모바일게임 패권자 카카오게임즈...장르 불문 최강자로]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=98622</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=98622</guid>
+            <pubDate>Tue, 21 Jun 2022 07:17:45 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202206/98622_114129_3514_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[넷마블에프앤씨, 연이율 8% '큐브 스테이킹' 서비스 출시한다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=98619</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 21 Jun 2022 10:23:00 GMT</pubDate>
             <content:encoded><![CDATA[김가은 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202206/98606_114108_2247_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SK㈜ C&C '디지털 통합 TMS'로 대기오염물질 총량관리 지원]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=98603</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=98603</guid>
-            <pubDate>Tue, 21 Jun 2022 10:23:00 GMT</pubDate>
-            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202206/98603_114103_1353_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
