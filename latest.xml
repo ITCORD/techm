@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Jun 2022 22:21:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jun 2022 23:24:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[테크M 이슈] 코로나19  팽창기도 빗겨간 10년의 주가 부진, 기로에 선 NHN]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=98633</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=98633</guid>
+            <pubDate>Wed, 22 Jun 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202206/98633_114144_4957_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[글로벌 공략 나선 한국디지털페이먼츠, 다윈KS와 손잡았다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=98623</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 21 Jun 2022 05:22:56 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202206/98615_114154_5627_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성전자 차량용 '픽셀 LED' 대통령상 수상]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=98605</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=98605</guid>
-            <pubDate>Tue, 21 Jun 2022 04:39:36 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202206/98605_114107_2053_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
