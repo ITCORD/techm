@@ -4,9 +4,17 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Jun 2022 03:41:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jun 2022 04:42:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성전자 차량용 '픽셀 LED' 대통령상 수상]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=98605</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=98605</guid>
+            <pubDate>Tue, 21 Jun 2022 04:40:11 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202206/98605_114107_2053_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[CEO 이어 경영진도 자사주 매수...카카오페이 책임경영 '본격화']]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=98612</link>
@@ -110,14 +118,6 @@
             <pubDate>Mon, 20 Jun 2022 07:19:42 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202206/98581_114074_5159_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[위기감 감도는 삼성, 사장단회의 개최…한종희 "기술로 한계를 돌파해야"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=98580</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=98580</guid>
-            <pubDate>Mon, 20 Jun 2022 07:19:42 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202206/98580_114072_2733_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
