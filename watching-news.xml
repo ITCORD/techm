@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Jun 2022 04:40:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jun 2022 05:25:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 넷마블, 게더타운서 '게임콘서트'...메타버스로 즐긴다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=98654</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=98654</guid>
+            <pubDate>Wed, 22 Jun 2022 05:25:37 GMT</pubDate>
+            <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202206/98654_114181_2738_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 컴투스-위지윅, '오마이걸' 소속사 RBW에 230억 투자…"콘텐츠·메타버스 사업 강화"]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=98573</link>
@@ -110,14 +118,6 @@
             <pubDate>Thu, 09 Jun 2022 06:27:34 GMT</pubDate>
             <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202206/98240_113317_2434_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 카카오, '카카오 유니버스' 띄운다... 메타버스 비전 공개]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=98195</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=98195</guid>
-            <pubDate>Wed, 08 Jun 2022 05:21:35 GMT</pubDate>
-            <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202206/98195_113229_5010_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
