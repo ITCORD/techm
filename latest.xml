@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Jun 2022 08:30:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jun 2022 09:22:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[NFT에 꽂힌 메타…인스타그램 이어 페이스북에도 도입 예고]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=98704</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=98704</guid>
+            <pubDate>Thu, 23 Jun 2022 09:19:04 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202206/98704_114281_741_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[보안에 취약한 오픈소스, 책임은 사용한 기업에 있다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=98700</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 23 Jun 2022 11:58:00 GMT</pubDate>
             <content:encoded><![CDATA[김현기 대표]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202206/98683_114230_570_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[글로벌] 中서 NFT 가파르게 성장 중인데...위챗은 2차 거래 제한한다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=98682</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=98682</guid>
-            <pubDate>Thu, 23 Jun 2022 11:56:00 GMT</pubDate>
-            <content:encoded><![CDATA[김현기 대표]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202206/98682_114229_5525_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
