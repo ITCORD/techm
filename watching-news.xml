@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Jun 2022 03:42:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jun 2022 04:41:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 한컴-신세계, '메타버스 동맹'…플랫폼 시장 선점 나선다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=98693</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=98693</guid>
+            <pubDate>Thu, 23 Jun 2022 04:41:26 GMT</pubDate>
+            <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202206/98693_114241_2926_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 넷마블, 게더타운서 '게임콘서트'...메타버스로 즐긴다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=98654</link>
@@ -110,14 +118,6 @@
             <pubDate>Thu, 09 Jun 2022 07:21:29 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202206/98262_113347_4946_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 넥슨, '메이플스토리 유니버스' 키운다... NFT 얹은 메이플 코인 임박?]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=98240</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=98240</guid>
-            <pubDate>Thu, 09 Jun 2022 06:27:34 GMT</pubDate>
-            <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202206/98240_113317_2434_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
