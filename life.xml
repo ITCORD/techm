@@ -4,9 +4,25 @@
         <title>테크M ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Jun 2022 01:52:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jun 2022 03:42:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[캐논코리아, APS-C 미러리스 카메라 'EOR R7' 국내 판매 개시]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=98678</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=98678</guid>
+            <pubDate>Thu, 23 Jun 2022 11:37:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202206/98678_114226_3629_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[LG전자, 일체형 PC 신제품 출시…슬림 베젤로 몰입감 'UP']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=98669</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=98669</guid>
+            <pubDate>Thu, 23 Jun 2022 10:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202206/98669_114213_577_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['LG 퓨리케어 에어로타워' 성능도, 디자인도 'UP']]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=98602</link>
@@ -102,22 +118,6 @@
             <pubDate>Thu, 16 Jun 2022 07:40:00 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202206/98414_113702_2233_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여름 기다리는 코웨이, 초소형 '아이콘 얼음정수기'로 승부수]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=98421</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=98421</guid>
-            <pubDate>Wed, 15 Jun 2022 05:25:09 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202206/98421_113722_1057_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성전자 '비스포크 냉장고' 와인도 알아본다…'스마트싱스' 업데이트로 진화]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=98343</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=98343</guid>
-            <pubDate>Mon, 13 Jun 2022 11:08:00 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202206/98343_113540_512_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
