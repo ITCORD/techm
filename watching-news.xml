@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Jun 2022 04:44:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jun 2022 05:28:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 메타, NFT에 꽂혔다…인스타그램 이어 페이스북에도 도입 예고]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=98723</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=98723</guid>
+            <pubDate>Fri, 24 Jun 2022 05:28:02 GMT</pubDate>
+            <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202206/98723_114303_3759_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 한컴-신세계, '메타버스 동맹'…플랫폼 시장 선점 나선다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=98693</link>
@@ -110,14 +118,6 @@
             <pubDate>Fri, 10 Jun 2022 06:27:27 GMT</pubDate>
             <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202206/98287_113397_4434_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[게임코인TV] 플레이댑의 '에버랜드 메타버스', 컨센서스 2022에서 베일 벗나]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=98262</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=98262</guid>
-            <pubDate>Thu, 09 Jun 2022 07:21:29 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202206/98262_113347_4946_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
