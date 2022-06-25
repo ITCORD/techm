@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Jun 2022 23:22:19 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Jun 2022 01:56:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[스타트업 썰전] ⑭인테리어계 아마존 꿈꾸는 '하우스텝'..."출근 첫날 미션=도배"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=98621</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=98621</guid>
+            <pubDate>Sat, 25 Jun 2022 10:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202206/98621_114331_2424_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[글로벌] 달에서 원자력으로 24시간 전력 생산?...NASA, 초소형 원전 설계 나선다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=98730</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 24 Jun 2022 11:15:00 GMT</pubDate>
             <content:encoded><![CDATA[김가은 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202206/98717_114294_620_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[포티넷코리아-KT 'SD-WAN' 기반 네트워크 서비스 '맞손']]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=98716</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=98716</guid>
-            <pubDate>Fri, 24 Jun 2022 10:58:00 GMT</pubDate>
-            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202206/98716_114293_545_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
