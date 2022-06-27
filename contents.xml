@@ -4,9 +4,17 @@
         <title>테크M ─ 콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Jun 2022 01:59:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jun 2022 03:56:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[두나무, 디지털 아트 전시회 출품작 NFT로 발행한다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=98760</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=98760</guid>
+            <pubDate>Mon, 27 Jun 2022 11:05:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202206/98760_114390_5334_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[버디샷 NFT 내놓은 카카오 보라...블록체인으로 골프존 잡는다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=98755</link>
@@ -110,14 +118,6 @@
             <pubDate>Thu, 23 Jun 2022 12:39:56 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202206/98705_114282_5250_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['출시 D-1' 150만명이 기다린 모바일 MMORPG '천애명월도M', 사전 다운로드 시작]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=98694</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=98694</guid>
-            <pubDate>Thu, 23 Jun 2022 05:23:55 GMT</pubDate>
-            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202206/98694_114248_4753_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
