@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Jun 2022 03:56:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jun 2022 04:56:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 네이버·소뱅 '메타버스' 시너지 성큼...네이버랩스 이어 제페토 나섰다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=98777</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=98777</guid>
+            <pubDate>Mon, 27 Jun 2022 04:56:07 GMT</pubDate>
+            <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202206/98777_114410_436_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 메타, NFT에 꽂혔다…인스타그램 이어 페이스북에도 도입 예고]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=98723</link>
@@ -110,14 +118,6 @@
             <pubDate>Fri, 10 Jun 2022 08:27:02 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202206/98301_113436_4519_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] CJ, 메타버스 '브릿지 오피스' 열었다... 버추얼휴먼과 NFT 신기술도 함께 공개!]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=98287</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=98287</guid>
-            <pubDate>Fri, 10 Jun 2022 06:27:27 GMT</pubDate>
-            <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202206/98287_113397_4434_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
