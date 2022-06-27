@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Jun 2022 08:31:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jun 2022 09:22:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[긴급회동으로 노조와 물꼬 튼 카카오...갈등 봉합되나 (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=98790</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=98790</guid>
+            <pubDate>Mon, 27 Jun 2022 09:19:42 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202206/98790_114444_4642_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["일 30만명 몰려" 카카오게임즈 우마무스메, 발빠른 업데이트 나섰다 (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=98789</link>
@@ -160,18 +168,10 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202206/98769_114402_2422_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[삼성전자, 게이밍 모니터 '오디세이 네오 G8' 출시…세계 최초 '4K-240Hz' 동시 지원 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=98768</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=98768</guid>
-            <pubDate>Mon, 27 Jun 2022 00:22:00 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202206/98768_114400_2117_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA["일 30만명 몰려" 카카오게임즈 우마무스메, 발빠른 업데이트 나섰다 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=98789</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=98789</guid>
-            <pubDate>Mon, 27 Jun 2022 08:27:17 GMT</pubDate>
+            <pubDate>Mon, 27 Jun 2022 08:27:01 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202206/98789_114436_2324_v150.jpg" length="0" type="image/jpg"/>
         </item>
@@ -280,6 +280,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202206/98724_114310_4056_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[긴급회동으로 노조와 물꼬 튼 카카오...갈등 봉합되나 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=98790</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=98790</guid>
+            <pubDate>Mon, 27 Jun 2022 09:20:13 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202206/98790_114444_4642_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[하락장에 IPO 도전장 던진 쏘카의 과제…'렌터카+α'로 성장성 증명하라 (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=98788</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=98788</guid>
@@ -382,14 +390,6 @@
             <pubDate>Mon, 27 Jun 2022 11:04:00 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202206/98765_114395_349_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SKT, 이프랜드서 볼류메트릭 메타버스 콘서트 연다 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=98761</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=98761</guid>
-            <pubDate>Mon, 27 Jun 2022 10:57:00 GMT</pubDate>
-            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202206/98761_114391_5649_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[B2B 시장 확대 노리는 쏘카…업무용 장기렌트 '비즈니스 플랜' 출시 (테크M ─ 이노베이션)]]></title>
@@ -765,7 +765,7 @@
             <guid>https://www.techm.kr/news/articleView.html?idxno=98736</guid>
             <pubDate>Sun, 26 Jun 2022 08:00:00 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202206/98736_114376_3226_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202206/98736_114338_4619_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[하이브리드로 일하는 라인, '2022 테크 경력 채용'...개발자 뽑는다 (테크M ─ 라이프)]]></title>
