@@ -4,9 +4,17 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Jun 2022 08:30:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jun 2022 09:23:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[진화하는 랜섬웨어 공격…"탐지·방어도 중요하지만 '복구도구'로 피해 최소화 해야"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=98874</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=98874</guid>
+            <pubDate>Wed, 29 Jun 2022 09:21:07 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202206/98874_114614_4245_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['크립토 윈터' 아랑곳 않는 코인원…개발자 50명 더 뽑는다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=98867</link>
@@ -110,14 +118,6 @@
             <pubDate>Wed, 29 Jun 2022 10:02:00 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202206/98836_114521_582_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[KT, 초정밀 측위 전국망 자체 구축 완료...모빌리티 리더십 강화한다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=98834</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=98834</guid>
-            <pubDate>Wed, 29 Jun 2022 09:03:00 GMT</pubDate>
-            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202206/98834_114516_136_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
