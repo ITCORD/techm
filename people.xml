@@ -4,9 +4,17 @@
         <title>테크M ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Jun 2022 01:55:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jun 2022 03:47:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['오딘 김재영' 다음은 누구? 카카오게임즈, 송재경-반승철-김희재-이건 띄운다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=98898</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=98898</guid>
+            <pubDate>Thu, 30 Jun 2022 11:40:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202206/98898_114636_3652_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[황희 카카오헬스케어 대표 "원격 의료, 비대칭성 해소에 집중해야...핵심은 데이터"]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=98823</link>
@@ -110,14 +118,6 @@
             <pubDate>Fri, 17 Jun 2022 06:27:02 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202206/98508_113896_521_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[PNC] 남들에겐 관대하고 스스로에겐 엄격한 '래쉬케이' 김동준]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=98486</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=98486</guid>
-            <pubDate>Fri, 17 Jun 2022 02:46:00 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202206/98486_113854_4044_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
