@@ -4,9 +4,17 @@
         <title>테크M ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Jun 2022 23:23:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Jul 2022 08:29:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[CTO를 만나다] '찐개발자' 고재필, 구성원과 함께 성장하는 코인원을 꿈꾸다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=98737</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=98737</guid>
+            <pubDate>Fri, 01 Jul 2022 08:28:29 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202207/98737_114747_1215_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['오딘 김재영' 다음은 누구? 카카오게임즈, 송재경-반승철-김희재-이건 띄운다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=98898</link>
@@ -110,14 +118,6 @@
             <pubDate>Fri, 17 Jun 2022 07:20:39 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202206/98506_113891_3214_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아트투게더, 미술시장 특별 강연 개최]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=98508</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=98508</guid>
-            <pubDate>Fri, 17 Jun 2022 06:27:02 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202206/98508_113896_521_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
