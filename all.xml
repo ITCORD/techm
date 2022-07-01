@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Jul 2022 10:25:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Jul 2022 11:18:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -504,6 +504,30 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202206/98809_114464_1031_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA["3나노도 소용없네" 삼성전자, 반도체 침체 우려에 52주 신저가 (테크M ─ 인베스트먼트)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=98956</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=98956</guid>
+            <pubDate>Fri, 01 Jul 2022 08:26:14 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202207/98956_114743_1845_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[크립토 월간 브리핑] '자이언트 스텝' 현실화된 6월...비트코인 35% 급락했다 (테크M ─ 인베스트먼트)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=98950</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=98950</guid>
+            <pubDate>Fri, 01 Jul 2022 11:36:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202207/98950_114751_179_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[수익성 개선 속도 내는 네이버 '리셀 플랫폼' 크림, '구매 수수료' 이어 '판매 수수료'도 도입 (테크M ─ 인베스트먼트)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=98940</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=98940</guid>
+            <pubDate>Fri, 01 Jul 2022 10:25:00 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202207/98940_114755_1855_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[카카오게임즈 '오딘 개발사' 지분율 더 늘렸다...55% 확보 (테크M ─ 인베스트먼트)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=98935</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=98935</guid>
@@ -590,30 +614,6 @@
             <pubDate>Wed, 29 Jun 2022 10:29:00 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202206/98838_114523_2226_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[업계 우려 떨친 토스뱅크, 예대 흑자전환...韓 대표 인터넷은행 '우뚝' (테크M ─ 인베스트먼트)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=98832</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=98832</guid>
-            <pubDate>Tue, 28 Jun 2022 09:19:22 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202206/98832_114510_455_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코빗, 삼성페이 고객 대상 비트코인 지급 이벤트 연다 (테크M ─ 인베스트먼트)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=98821</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=98821</guid>
-            <pubDate>Tue, 28 Jun 2022 07:18:04 GMT</pubDate>
-            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202206/98821_114486_3128_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[테크M 리포트] 진격의 카카오게임즈, 모바일 일매출 50억 현실화 (테크M ─ 인베스트먼트)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=98808</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=98808</guid>
-            <pubDate>Wed, 29 Jun 2022 01:58:09 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202206/98808_114463_225_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[CTO를 만나다] '찐개발자' 고재필, 구성원과 함께 성장하는 코인원을 꿈꾸다 (테크M ─ 피플)]]></title>
