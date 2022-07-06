@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Jul 2022 10:26:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jul 2022 11:21:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[테크M 이슈] 모빌리티 매각 두고 갈림길에 선 카카오 공동체 (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=99105</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=99105</guid>
+            <pubDate>Wed, 06 Jul 2022 11:18:54 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202207/99105_115010_4029_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아트투게더, 글로벌 신진 작가 에드가 플랜스 작품 '월드 챔피언' 공동구매 모집 (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=99104</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 06 Jul 2022 11:12:00 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202207/99086_114960_1049_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[KB국민은행 '공동구매정기예금' 판매 시행 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=99084</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=99084</guid>
-            <pubDate>Wed, 06 Jul 2022 11:01:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202207/99084_114957_13_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[네이버웹툰 '문피아' 웹소설 제작사 품는다...사업확장 '속도' (테크M ─ 콘텐츠)]]></title>
@@ -392,10 +392,18 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202207/99008_114828_4048_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[테크M 이슈] 모빌리티 매각 두고 갈림길에 선 카카오 공동체 (테크M ─ 이노베이션)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=99105</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=99105</guid>
+            <pubDate>Wed, 06 Jul 2022 11:19:50 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202207/99105_115010_4029_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[아트투게더, 글로벌 신진 작가 에드가 플랜스 작품 '월드 챔피언' 공동구매 모집 (테크M ─ 이노베이션)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=99104</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=99104</guid>
-            <pubDate>Wed, 06 Jul 2022 10:24:20 GMT</pubDate>
+            <pubDate>Wed, 06 Jul 2022 10:23:32 GMT</pubDate>
             <content:encoded><![CDATA[김가은 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202207/99104_115009_2234_v150.jpg" length="0" type="image/jpg"/>
         </item>
@@ -496,12 +504,28 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202207/98957_114744_3843_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[주정차 단속 알림 앱 '휘슬' 남해·사천·울진 서비스 확대 (테크M ─ 이노베이션)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=98939</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=98939</guid>
-            <pubDate>Fri, 01 Jul 2022 09:05:00 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202207/98939_114711_417_v150.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[희비 엇갈린 2K 실적 전망...카카오게임즈 '맑음' 크래프톤 '흐림' (테크M ─ 인베스트먼트)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=99100</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=99100</guid>
+            <pubDate>Wed, 06 Jul 2022 09:23:29 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202207/99100_114996_1637_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[P2E-메타버스 제왕 꿈꾸는 넷마블...투트랙 전략으로 '10조' 코인 자산 굳건 (테크M ─ 인베스트먼트)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=99094</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=99094</guid>
+            <pubDate>Wed, 06 Jul 2022 07:18:16 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202207/99094_114981_4157_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[크립토 브리핑] 시장 혼조세에 비트코인 가격 '널뛰기'…2만달러 회복에도 안심은 '금물' (테크M ─ 인베스트먼트)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=99085</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=99085</guid>
+            <pubDate>Wed, 06 Jul 2022 11:17:00 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202207/99085_114959_522_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["신작 안무서워" 韓 게임판은 엔씨소프트 천하...매출 톱5 내 '리니지' 3개 (테크M ─ 인베스트먼트)]]></title>
@@ -590,30 +614,6 @@
             <pubDate>Thu, 30 Jun 2022 06:25:16 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202206/98918_114664_2614_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[카카오가 꽂힌 휴먼스케이프, 물량소화는 현재진행형...누적 8억개 풀려 (테크M ─ 인베스트먼트)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=98901</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=98901</guid>
-            <pubDate>Thu, 30 Jun 2022 11:54:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202206/98901_114639_5354_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[크립토 브리핑] 美 경기침체 우려 심화에...비트코인 2만달러 '아슬', 투자심리도 '위축' (테크M ─ 인베스트먼트)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=98895</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=98895</guid>
-            <pubDate>Thu, 30 Jun 2022 11:17:00 GMT</pubDate>
-            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202206/98895_114634_1343_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[테크M 리포트] 엔씨소프트 PER, 넥슨보다 저평가? 숫자 까보니 '린저씨'는 고공행진 (테크M ─ 인베스트먼트)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=98893</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=98893</guid>
-            <pubDate>Thu, 30 Jun 2022 11:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202206/98893_114633_5946_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[라방 톺아보기] 아프리카TV서 '미디어 커머스' 선보인 ASL 우승자 임홍규 "BJ와 찰떡궁합" (테크M ─ 피플)]]></title>

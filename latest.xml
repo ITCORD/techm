@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Jul 2022 10:26:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jul 2022 11:21:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[테크M 이슈] 모빌리티 매각 두고 갈림길에 선 카카오 공동체]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=99105</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=99105</guid>
+            <pubDate>Wed, 06 Jul 2022 11:18:54 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202207/99105_115010_4029_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아트투게더, 글로벌 신진 작가 에드가 플랜스 작품 '월드 챔피언' 공동구매 모집]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=99104</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 06 Jul 2022 11:12:00 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202207/99086_114960_1049_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[KB국민은행 '공동구매정기예금' 판매 시행]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=99084</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=99084</guid>
-            <pubDate>Wed, 06 Jul 2022 11:01:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202207/99084_114957_13_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
