@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Jul 2022 09:26:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jul 2022 10:26:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아트투게더, 글로벌 신진 작가 에드가 플랜스 작품 '월드 챔피언' 공동구매 모집 (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=99104</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=99104</guid>
+            <pubDate>Wed, 06 Jul 2022 10:23:32 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202207/99104_115009_2234_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[네이버웹툰 '문피아' 웹소설 제작사 품는다...사업확장 '속도' (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=99102</link>
@@ -160,18 +168,10 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202207/99084_114957_13_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[삼성전자, 제품 수리용 서비스 자재 포장 '친환경'으로 전환 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=99077</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=99077</guid>
-            <pubDate>Wed, 06 Jul 2022 11:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202207/99077_114947_1836_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[네이버웹툰 '문피아' 웹소설 제작사 품는다...사업확장 '속도' (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=99102</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=99102</guid>
-            <pubDate>Wed, 06 Jul 2022 09:23:44 GMT</pubDate>
+            <pubDate>Wed, 06 Jul 2022 09:23:29 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202207/99102_115007_4545_v150.jpg" length="0" type="image/jpg"/>
         </item>
@@ -392,6 +392,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202207/99008_114828_4048_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[아트투게더, 글로벌 신진 작가 에드가 플랜스 작품 '월드 챔피언' 공동구매 모집 (테크M ─ 이노베이션)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=99104</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=99104</guid>
+            <pubDate>Wed, 06 Jul 2022 10:24:20 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202207/99104_115009_2234_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['포커' '맞고' 과몰입 걱정마...네오위즈, 이용시간-구매한도 설정하는 '셀프 케어' 도입 (테크M ─ 이노베이션)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=99083</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=99083</guid>
@@ -494,14 +502,6 @@
             <pubDate>Fri, 01 Jul 2022 09:05:00 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202207/98939_114711_417_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이두희-신한은행 떠나보낸 카카오 클레이튼, 7월 파트너사 5개 이상 더한다 (테크M ─ 이노베이션)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=98936</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=98936</guid>
-            <pubDate>Wed, 06 Jul 2022 09:24:16 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202206/98936_114697_918_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["신작 안무서워" 韓 게임판은 엔씨소프트 천하...매출 톱5 내 '리니지' 3개 (테크M ─ 인베스트먼트)]]></title>
@@ -955,7 +955,7 @@
             <title><![CDATA[[게임코인TV] 드디어 출시된 위믹스 플레이 뜯어보기...위믹스 3.0 집중 분석 (상) (테크M ─ 보는 뉴스)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=99101</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=99101</guid>
-            <pubDate>Wed, 06 Jul 2022 09:26:26 GMT</pubDate>
+            <pubDate>Wed, 06 Jul 2022 09:23:29 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202207/99101_115005_3553_v150.jpg" length="0" type="image/jpg"/>
         </item>
