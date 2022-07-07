@@ -4,9 +4,17 @@
         <title>테크M ─ 콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Jul 2022 23:22:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jul 2022 02:04:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[더 샌드박스-채널A, 예능 IP 기반 메타버스 사업 '맞손']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=99113</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=99113</guid>
+            <pubDate>Thu, 07 Jul 2022 09:54:00 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202207/99113_115014_3253_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[네이버웹툰 '문피아' 웹소설 제작사 품는다...사업확장 '속도']]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=99102</link>
@@ -110,14 +118,6 @@
             <pubDate>Tue, 05 Jul 2022 08:24:51 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202207/99063_114919_5714_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[넥슨컴퓨터박물관, '메이플스토리' 대형 캐릭터 벌룬 전시]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=99064</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=99064</guid>
-            <pubDate>Tue, 05 Jul 2022 08:24:51 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202207/99064_114931_1249_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
