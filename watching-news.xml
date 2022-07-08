@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Jul 2022 07:21:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Jul 2022 08:40:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[게임코인TV] 리플렉트(합성코인) 뜯어보기...위믹스 3.0 집중 분석 (중)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=99195</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=99195</guid>
+            <pubDate>Fri, 08 Jul 2022 08:40:21 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202207/99195_115149_3225_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 빗썸, NFT 플랫폼 '내모월드'…8월 출격 '업비트 NFT 기다려!']]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=99175</link>
@@ -110,14 +118,6 @@
             <pubDate>Mon, 20 Jun 2022 06:31:16 GMT</pubDate>
             <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202206/98573_114054_2423_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[배그 토크 콘서트] PNC 한국대표팀 "배울 것 많았던 대회...많이 응원해달라"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=98558</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=98558</guid>
-            <pubDate>Mon, 20 Jun 2022 02:52:00 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202206/98558_114023_4920_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
