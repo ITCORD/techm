@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Jul 2022 05:29:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Jul 2022 06:28:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[갤럭시워치 '4' 아니고 '5' 맞나요? '프로'는 다르다구요?]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=99185</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=99185</guid>
+            <pubDate>Fri, 08 Jul 2022 06:25:18 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202207/99185_115124_4322_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[올림플래닛, 모범중소기업인 중소벤처기업부장관상 수상]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=99179</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 07 Jul 2022 09:19:31 GMT</pubDate>
             <content:encoded><![CDATA[김가은 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202207/99160_115084_5727_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[KISA-CJ올리브네트웍스, 총 상금 3000만원 '버그바운티 대회' 연다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=99158</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=99158</guid>
-            <pubDate>Thu, 07 Jul 2022 09:19:31 GMT</pubDate>
-            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202207/99158_115082_445_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
