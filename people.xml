@@ -4,9 +4,17 @@
         <title>테크M ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Jul 2022 02:01:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Jul 2022 03:49:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[쿠팡 김범석 창업자, 美 선밸리 콘퍼런스 2년 연속 참석]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=99170</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=99170</guid>
+            <pubDate>Fri, 08 Jul 2022 00:16:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202207/99170_115104_1631_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김범수 카카오 창업자, 사회공헌재단 '브라이언임팩트'에 200억 쐈다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=99159</link>
@@ -110,14 +118,6 @@
             <pubDate>Sun, 19 Jun 2022 03:06:00 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202206/98538_113981_613_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유럽 출장 마친 이재용, 위기 극복 방안은 "첫째도, 둘째도, 셋째도 기술"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=98531</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=98531</guid>
-            <pubDate>Sat, 18 Jun 2022 10:55:00 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202206/98531_113955_5315_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
