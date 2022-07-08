@@ -4,9 +4,25 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Jul 2022 04:45:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Jul 2022 05:29:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[올림플래닛, 모범중소기업인 중소벤처기업부장관상 수상]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=99179</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=99179</guid>
+            <pubDate>Fri, 08 Jul 2022 05:26:30 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202207/99179_115119_2219_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["SI 아닌 기술플랫폼" 카카오엔터프라이즈, 0.5초 초저지연 기술 '눈길']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=99178</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=99178</guid>
+            <pubDate>Fri, 08 Jul 2022 05:26:30 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202207/99178_115118_1510_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[파이오링크, 국제 정보보안 인증 4종 획득…"클라우드 보안관제 강화"]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=99174</link>
@@ -102,22 +118,6 @@
             <pubDate>Thu, 07 Jul 2022 08:27:17 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202207/99155_115078_5010_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[KT "AI원팀과 사업 연계할 AI 혁신 스타트업 찾아요"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=99154</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=99154</guid>
-            <pubDate>Thu, 07 Jul 2022 08:27:17 GMT</pubDate>
-            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202207/99154_115077_4738_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[애플·유튜브·멜론 'K팝' 데이터 한 곳에...가온차트, '써클차트'로 재탄생]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=99142</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=99142</guid>
-            <pubDate>Thu, 07 Jul 2022 07:19:27 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202207/99142_115060_232_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

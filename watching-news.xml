@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Jul 2022 04:45:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Jul 2022 05:29:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 빗썸, NFT 플랫폼 '내모월드'…8월 출격 '업비트 NFT 기다려!']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=99175</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=99175</guid>
+            <pubDate>Fri, 08 Jul 2022 05:29:15 GMT</pubDate>
+            <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202207/99175_115109_2010_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[게임코인TV] 드디어 출시된 위믹스 플레이 뜯어보기...위믹스 3.0 집중 분석 (상)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=99101</link>
@@ -110,14 +118,6 @@
             <pubDate>Mon, 20 Jun 2022 02:52:00 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202206/98558_114023_4920_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[배그 토크 콘서트] '로키'가 밝힌, 한국팀이 치킨을 가져가지 않는 이유는?]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=98527</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=98527</guid>
-            <pubDate>Sat, 18 Jun 2022 00:32:00 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202206/98527_113950_3753_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
