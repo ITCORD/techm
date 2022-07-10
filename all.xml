@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Jul 2022 04:37:19 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Jul 2022 05:22:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -280,14 +280,6 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202207/99135_115047_5719_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[크립토 주간 브리핑] 일주일새 11% 상승한 비트코인...가상자산 시장, 바닥 찍었나 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=99201</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=99201</guid>
-            <pubDate>Sat, 09 Jul 2022 11:39:00 GMT</pubDate>
-            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202207/99201_115162_5937_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[소프트웨어 업계 "SW 제품 가치 제대로 인정받아야" 한목소리 (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=99196</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=99196</guid>
@@ -390,6 +382,14 @@
             <pubDate>Thu, 07 Jul 2022 09:19:31 GMT</pubDate>
             <content:encoded><![CDATA[김가은 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202207/99160_115084_5727_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[KISA-CJ올리브네트웍스, 총 상금 3000만원 '버그바운티 대회' 연다 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=99158</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=99158</guid>
+            <pubDate>Sun, 10 Jul 2022 05:19:23 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202207/99158_115082_445_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[카카오모빌리티 '카카오내비로 탄 만큼 내는 운전자보험' 출시 (테크M ─ 이노베이션)]]></title>
