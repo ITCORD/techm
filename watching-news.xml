@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Jul 2022 06:26:56 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Jul 2022 07:21:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[게임코인TV] 위메이드의 달라진 위상, 항해의 끝은 지스타...위믹스 3.0 집중 분석 (하)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=99208</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=99208</guid>
+            <pubDate>Sun, 10 Jul 2022 07:21:45 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202207/99208_115180_18_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[게임코인TV] 리플렉트(합성코인) 뜯어보기...위믹스 3.0 집중 분석 (중)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=99195</link>
@@ -110,14 +118,6 @@
             <pubDate>Wed, 22 Jun 2022 05:25:37 GMT</pubDate>
             <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202206/98654_114181_2738_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 컴투스-위지윅, '오마이걸' 소속사 RBW에 230억 투자…"콘텐츠·메타버스 사업 강화"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=98573</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=98573</guid>
-            <pubDate>Mon, 20 Jun 2022 06:31:16 GMT</pubDate>
-            <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202206/98573_114054_2423_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
