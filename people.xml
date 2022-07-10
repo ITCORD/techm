@@ -4,9 +4,17 @@
         <title>테크M ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Jul 2022 14:21:47 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Jul 2022 15:23:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[e스포츠人] 반전드라마 주인공 꿰찬 젠지e스포츠 펍지 선수들]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=99213</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=99213</guid>
+            <pubDate>Sun, 10 Jul 2022 15:22:14 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202207/99213_115190_4350_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[쿠팡 김범석 창업자, 美 선밸리 콘퍼런스 2년 연속 참석]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=99170</link>
@@ -110,14 +118,6 @@
             <pubDate>Sun, 19 Jun 2022 10:00:00 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202206/98499_113866_543_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[PNC] '서울' 조기열 "마지막 반전 위해 프로답게 최선을 다하겠다"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=98538</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=98538</guid>
-            <pubDate>Sun, 19 Jun 2022 03:06:00 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202206/98538_113981_613_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
