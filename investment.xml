@@ -4,7 +4,7 @@
         <title>테크M ─ 인베스트먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Jul 2022 09:21:11 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Jul 2022 10:22:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Sun, 10 Jul 2022 06:50:00 GMT</pubDate>
             <content:encoded><![CDATA[김가은 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202207/99197_115158_3551_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[크립토 주간 브리핑] 일주일새 11% 상승한 비트코인...가상자산 시장, 바닥 찍었나]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=99201</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=99201</guid>
+            <pubDate>Sat, 09 Jul 2022 11:39:00 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202207/99201_115162_5937_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[엇갈리는 게임 3N 2Q 실적 전망...넥슨 나홀로 '맑음']]></title>
@@ -110,14 +118,6 @@
             <pubDate>Tue, 05 Jul 2022 10:15:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202207/99028_114857_156_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[코린이톡] 위기의 코인시장, 이제 코인 거래소도 위험하다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=99006</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=99006</guid>
-            <pubDate>Mon, 04 Jul 2022 12:49:54 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202207/99006_114827_1514_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
