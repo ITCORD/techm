@@ -4,9 +4,25 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Jul 2022 04:45:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Jul 2022 05:29:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[한서희의 한입 리걸팁] NFT에 ENS를 붙인다면?]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=99234</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=99234</guid>
+            <pubDate>Mon, 11 Jul 2022 05:26:11 GMT</pubDate>
+            <content:encoded><![CDATA[김현기 대표]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202207/99234_115221_4646_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[월 6만원에 데이터 24GB 제공하는 5G 중간요금제 나오나]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=99233</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=99233</guid>
+            <pubDate>Mon, 11 Jul 2022 05:26:11 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202207/99233_115220_355_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[매출순위 상위권에 나타난 고스톱-포커 게임...규제 완화에 NHN-네오위즈 '방긋']]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=99231</link>
@@ -150,22 +166,6 @@
             <pubDate>Mon, 11 Jul 2022 10:13:00 GMT</pubDate>
             <content:encoded><![CDATA[김가은 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202207/99215_115192_556_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[더 샌드박스, 하나은행과 맞손...글로벌 메타버스 사업 파트너십]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=99214</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=99214</guid>
-            <pubDate>Mon, 11 Jul 2022 09:51:00 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202207/99214_115191_3810_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[e스포츠人] 반전드라마 주인공 꿰찬 젠지e스포츠 펍지 선수들]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=99213</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=99213</guid>
-            <pubDate>Sun, 10 Jul 2022 15:20:00 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202207/99213_115190_4350_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
