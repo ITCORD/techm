@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Jul 2022 05:29:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Jul 2022 06:30:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 에버랜드와 롯데월드, 메타버스로 만날 수 있다..."공간 경험의 확장 노린다"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=99235</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=99235</guid>
+            <pubDate>Mon, 11 Jul 2022 06:30:16 GMT</pubDate>
+            <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202207/99235_115222_4752_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[게임코인TV] 위메이드의 달라진 위상, 항해의 끝은 지스타...위믹스 3.0 집중 분석 (하)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=99208</link>
@@ -110,14 +118,6 @@
             <pubDate>Thu, 23 Jun 2022 04:41:26 GMT</pubDate>
             <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202206/98693_114241_2926_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 넷마블, 게더타운서 '게임콘서트'...메타버스로 즐긴다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=98654</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=98654</guid>
-            <pubDate>Wed, 22 Jun 2022 05:25:37 GMT</pubDate>
-            <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202206/98654_114181_2738_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
