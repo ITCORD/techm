@@ -4,9 +4,17 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Jul 2022 02:06:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Jul 2022 04:21:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[대기업-은행권 채용 줄이는데...두나무 홀로 청년 1만명 살리는 이유]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=99264</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=99264</guid>
+            <pubDate>Tue, 12 Jul 2022 00:29:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202207/99264_115267_171_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[크립토 브리핑] 나스닥 급락에 주저앉은 비트코인…CPI 앞두고 2만달러 붕괴]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=99254</link>
@@ -110,14 +118,6 @@
             <pubDate>Mon, 11 Jul 2022 10:34:00 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202207/99220_115197_2529_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국IBM, 대교그룹에 RPA 공급…"보안관제부터 매출정산까지 자동화"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=99222</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=99222</guid>
-            <pubDate>Mon, 11 Jul 2022 10:33:00 GMT</pubDate>
-            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202207/99222_115199_275_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
