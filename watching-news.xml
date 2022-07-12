@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Jul 2022 04:21:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Jul 2022 05:40:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 삼성 갤럭시, 로블록스에 뜬다...'삼성 스페이스 타이쿤' 출격]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=99271</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=99271</guid>
+            <pubDate>Tue, 12 Jul 2022 05:40:19 GMT</pubDate>
+            <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202207/99271_115272_5022_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 에버랜드와 롯데월드, 메타버스로 만날 수 있다..."공간 경험의 확장 노린다"]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=99235</link>
@@ -110,14 +118,6 @@
             <pubDate>Fri, 24 Jun 2022 05:28:02 GMT</pubDate>
             <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202206/98723_114303_3759_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 한컴-신세계, '메타버스 동맹'…플랫폼 시장 선점 나선다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=98693</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=98693</guid>
-            <pubDate>Thu, 23 Jun 2022 04:41:26 GMT</pubDate>
-            <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202206/98693_114241_2926_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
