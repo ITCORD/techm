@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Jul 2022 09:22:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jul 2022 10:28:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[위상 달라진 'K-보안'…尹 대통령 "사이버 예비군 창설하고 10만 인재 양성"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=99331</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=99331</guid>
+            <pubDate>Wed, 13 Jul 2022 10:25:08 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202207/99331_115384_5913_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[판호 빗장 풀리자 웃음 짓는 게임업계...게임주 반등 청신호]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=99329</link>
@@ -43,7 +51,7 @@
             <title><![CDATA[[부고] 장지호(닥터나우 대표이사)씨 외조모상]]></title>
             <link>https://www.techm.kr/news/articleList.html</link>
             <guid>https://www.techm.kr/news/articleList.html</guid>
-            <pubDate>Wed, 13 Jul 2022 09:19:39 GMT</pubDate>
+            <pubDate>Wed, 13 Jul 2022 10:25:08 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
         </item>
         <item>
@@ -157,14 +165,6 @@
             <pubDate>Wed, 13 Jul 2022 06:28:00 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202207/99308_115338_132_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쇼핑하듯 '실제 후기' 보고 고른다...카카오페이 GA, 보험 서비스 선봬]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=99307</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=99307</guid>
-            <pubDate>Wed, 13 Jul 2022 06:28:00 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202207/99307_115337_048_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
