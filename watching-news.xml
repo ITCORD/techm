@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Jul 2022 06:32:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jul 2022 07:22:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 어메이즈VR, SM엔터와 손잡았다... "가상현실에서 에스파 콘서트를?"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=99309</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=99309</guid>
+            <pubDate>Wed, 13 Jul 2022 07:22:07 GMT</pubDate>
+            <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202207/99309_115339_145_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 삼성 갤럭시, 로블록스에 뜬다...'삼성 스페이스 타이쿤' 출격]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=99271</link>
@@ -110,14 +118,6 @@
             <pubDate>Mon, 27 Jun 2022 04:56:07 GMT</pubDate>
             <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202206/98777_114410_436_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 메타, NFT에 꽂혔다…인스타그램 이어 페이스북에도 도입 예고]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=98723</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=98723</guid>
-            <pubDate>Fri, 24 Jun 2022 05:28:02 GMT</pubDate>
-            <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202206/98723_114303_3759_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
