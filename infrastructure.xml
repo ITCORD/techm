@@ -4,9 +4,17 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Jul 2022 22:25:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Jul 2022 23:28:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카카오스타일 집들이] "대표가 직접 토크쇼도 진행…임원실도 따로 없죠"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=99366</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=99366</guid>
+            <pubDate>Fri, 15 Jul 2022 07:35:00 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202207/99366_115456_2425_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한컴, 한컴MDS 매각금액 950억원으로 확정…실사 이후 100억 줄어]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=99379</link>
@@ -110,14 +118,6 @@
             <pubDate>Thu, 14 Jul 2022 10:16:00 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202207/99341_115406_1456_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[CJ올리브네트웍스 '인천공항 스마트 화물터미널 테스트베드 개발사업' 컨설팅 수주]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=99340</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=99340</guid>
-            <pubDate>Thu, 14 Jul 2022 10:09:00 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202207/99340_115404_84_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
