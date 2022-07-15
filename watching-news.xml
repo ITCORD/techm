@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Jul 2022 11:19:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jul 2022 12:44:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[게임코인TV] 소통의 부재?...잠잠한 '판교의 희망' 보라, 도대체 뭐하고 있나(상)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=99405</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=99405</guid>
+            <pubDate>Fri, 15 Jul 2022 12:44:48 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202207/99405_115550_5251_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 올림플래닛, 메타버스 '사비나미술관' 열었다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=99396</link>
@@ -110,14 +118,6 @@
             <pubDate>Thu, 30 Jun 2022 05:28:50 GMT</pubDate>
             <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202206/98911_114651_3317_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 메타파이, 따뜻한동행과 NFT 드롭 진행...6.25 참전용사 돕는다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=98853</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=98853</guid>
-            <pubDate>Wed, 29 Jun 2022 06:28:42 GMT</pubDate>
-            <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202206/98853_114542_3737_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
