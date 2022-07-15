@@ -4,9 +4,33 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Jul 2022 20:24:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jul 2022 21:22:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[글로벌] 위기의 넷플릭스, MS와 손 잡다...올해 말 광고 요금제 선보인다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=99398</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=99398</guid>
+            <pubDate>Sat, 16 Jul 2022 06:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[김현기 대표]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202207/99398_115533_268_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[글로벌] 구글 어쩌나..."美 Z세대는 검색도 이제 틱톡에서 한다"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=99399</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=99399</guid>
+            <pubDate>Sat, 16 Jul 2022 06:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[김현기 대표]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202207/99399_115535_2748_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[글로벌] 中 "내년 중 관광용 우주선 발사"...우주 관광 산업 경쟁 본격화]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=99400</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=99400</guid>
+            <pubDate>Sat, 16 Jul 2022 06:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[김현기 대표]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202207/99400_115536_2929_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[게임코인TV] 소통의 부재?...잠잠한 '판교의 희망' 보라, 도대체 뭐하고 있나(상)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=99405</link>
@@ -142,30 +166,6 @@
             <pubDate>Fri, 15 Jul 2022 09:12:00 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202207/99383_115508_1124_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["엄마에게 5만원 송금해줘"...KT-IBK기업은행, 'AI보이스뱅킹' 선보였다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=99382</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=99382</guid>
-            <pubDate>Fri, 15 Jul 2022 09:07:00 GMT</pubDate>
-            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202207/99382_115507_66_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카카오스타일 집들이] "대표가 직접 토크쇼도 진행…임원실도 따로 없죠"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=99366</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=99366</guid>
-            <pubDate>Fri, 15 Jul 2022 07:35:00 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202207/99366_115548_5643_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카카오스타일 집들이] "패션쇼룸과 꼭 닮은 회의실…취향 존중하며 일해요"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=99365</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=99365</guid>
-            <pubDate>Fri, 15 Jul 2022 07:30:00 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202207/99365_115549_5710_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
