@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Jul 2022 21:20:53 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Jul 2022 22:25:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['검색→쇼핑→결제'...네이버의 쇼핑 생태계 가치는 벌써 15조? (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=99244</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=99244</guid>
+            <pubDate>Sun, 17 Jul 2022 06:30:00 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202207/99244_115240_2359_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[홍은택 카카오 대표 "본인 역할은 ESG...카카오 공동체 사회 뿌리내릴 것" (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=99407</link>
@@ -160,14 +168,6 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202207/99389_115514_3127_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[크립토 브리핑] CPI를 잊은 비트코인...이틀 연속 상승해 2700만원대 회복 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=99387</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=99387</guid>
-            <pubDate>Fri, 15 Jul 2022 10:18:00 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202207/99387_115513_70_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[KBO 거포들의 홈런 대결…프로야구 올스타전 '컴투스프로야구 홈런레이스' 개최 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=99394</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=99394</guid>
@@ -280,6 +280,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202207/99350_115415_419_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['검색→쇼핑→결제'...네이버의 쇼핑 생태계 가치는 벌써 15조? (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=99244</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=99244</guid>
+            <pubDate>Sun, 17 Jul 2022 06:30:00 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202207/99244_115240_2359_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[테크M 이슈] 생존 위기 직면한 K-게임...보릿고개 버티기 스타트 (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=99402</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=99402</guid>
@@ -382,14 +390,6 @@
             <pubDate>Thu, 14 Jul 2022 00:41:00 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202207/99357_115496_272_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[박윤규 과기정통부 차관 "AI 보안, 차세대 산업으로 육성" (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=99354</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=99354</guid>
-            <pubDate>Thu, 14 Jul 2022 11:11:00 GMT</pubDate>
-            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202207/99354_115423_5325_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[주정차 단속 알림 앱 '휘슬' 부산 수영구 서비스 오픈 (테크M ─ 이노베이션)]]></title>

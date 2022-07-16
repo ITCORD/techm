@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Jul 2022 21:20:53 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Jul 2022 22:25:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['검색→쇼핑→결제'...네이버의 쇼핑 생태계 가치는 벌써 15조?]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=99244</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=99244</guid>
+            <pubDate>Sun, 17 Jul 2022 06:30:00 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202207/99244_115240_2359_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[홍은택 카카오 대표 "본인 역할은 ESG...카카오 공동체 사회 뿌리내릴 것"]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=99407</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 15 Jul 2022 10:33:00 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202207/99389_115514_3127_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[크립토 브리핑] CPI를 잊은 비트코인...이틀 연속 상승해 2700만원대 회복]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=99387</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=99387</guid>
-            <pubDate>Fri, 15 Jul 2022 10:18:00 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202207/99387_115513_70_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
