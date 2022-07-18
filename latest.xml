@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Jul 2022 05:35:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jul 2022 06:30:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[테크M 트렌드] LG전자 모니터엔 뭔가 특별한 게 있다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=99466</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=99466</guid>
+            <pubDate>Mon, 18 Jul 2022 06:27:24 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202207/99466_115654_1034_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[게임코인TV] 유럽 법인을 세운 이유는?...잠잠한' 판교의 희망' 보라는 도대체 뭐하고 있나(하)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=99425</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 18 Jul 2022 10:28:00 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202207/99441_115610_2756_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전통의 인테리어 강자 한샘, 라이브커머스로 부동산 침체기 '돌파']]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=99440</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=99440</guid>
-            <pubDate>Mon, 18 Jul 2022 10:23:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202207/99440_115608_2234_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
