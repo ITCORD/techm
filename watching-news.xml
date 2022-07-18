@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Jul 2022 04:55:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jul 2022 05:35:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[게임코인TV] 유럽 법인을 세운 이유는?...잠잠한' 판교의 희망' 보라는 도대체 뭐하고 있나(하)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=99425</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=99425</guid>
+            <pubDate>Mon, 18 Jul 2022 05:35:33 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202207/99425_115591_3652_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 완벽한 몰입감, 삼성 게이밍 모니터 '오디세이 네오 G8']]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=99456</link>
@@ -110,14 +118,6 @@
             <pubDate>Tue, 05 Jul 2022 06:27:49 GMT</pubDate>
             <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202207/99043_114877_2918_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] CJ ENM, 더 샌드박스와 맞손..."가상 부동산에 K콘텐츠 띄운다"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=99001</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=99001</guid>
-            <pubDate>Mon, 04 Jul 2022 05:33:12 GMT</pubDate>
-            <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202207/99001_114819_2430_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
