@@ -4,9 +4,25 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Jul 2022 05:49:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jul 2022 06:28:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['그해 우리는' 발굴한 '스튜디오엔'...네이버웹툰 지원사격 받고 쑥쑥 큰다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=99510</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=99510</guid>
+            <pubDate>Tue, 19 Jul 2022 06:25:04 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202207/99510_115715_4559_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[네이버웹툰 "美 웹툰 작가 수익, 2년간 75% 성장했다"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=99508</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=99508</guid>
+            <pubDate>Tue, 19 Jul 2022 06:25:04 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202207/99508_115713_3827_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김종협 아이콘루프 "중요한 건 거버넌스...자체 블록체인 구축시대"]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=99507</link>
@@ -150,22 +166,6 @@
             <pubDate>Tue, 19 Jul 2022 11:17:00 GMT</pubDate>
             <content:encoded><![CDATA[김현기 대표]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202207/99490_115694_1643_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['카카오표 AI' 글로벌 종횡무진...챗봇·스마트시티 서비스로 연결]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=99483</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=99483</guid>
-            <pubDate>Tue, 19 Jul 2022 11:16:00 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202207/99483_115686_1944_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[글로벌] 갈등의 미국-러시아, 우주에서는 협력한다...좌석 공유 협정 합의]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=99489</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=99489</guid>
-            <pubDate>Tue, 19 Jul 2022 11:16:00 GMT</pubDate>
-            <content:encoded><![CDATA[김현기 대표]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202207/99489_115693_1540_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
