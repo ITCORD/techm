@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Jul 2022 09:30:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jul 2022 10:27:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[개방형 공간에 에어컨 달자? 실력 행사 앞둔 민주노총에 물류업계 '부글부글' (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=99518</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=99518</guid>
+            <pubDate>Tue, 19 Jul 2022 10:24:12 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202207/99518_115734_817_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[넷마블에프앤씨, 블록체인 게임 '골든 브로스' 오는 29일 글로벌 출시 (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=99517</link>
@@ -160,18 +168,10 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202207/99494_115698_4026_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA["월 이용자만 1700만명" 네이버-카톡 쫒는 당근마켓...'로컬 포털'로 우뚝 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=99495</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=99495</guid>
-            <pubDate>Tue, 19 Jul 2022 00:26:00 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202207/99495_115699_5114_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[넷마블에프앤씨, 블록체인 게임 '골든 브로스' 오는 29일 글로벌 출시 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=99517</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=99517</guid>
-            <pubDate>Tue, 19 Jul 2022 09:26:52 GMT</pubDate>
+            <pubDate>Tue, 19 Jul 2022 09:26:33 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202207/99517_115733_4813_v150.jpg" length="0" type="image/jpg"/>
         </item>
@@ -280,6 +280,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202207/99468_115662_3910_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[개방형 공간에 에어컨 달자? 실력 행사 앞둔 민주노총에 물류업계 '부글부글' (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=99518</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=99518</guid>
+            <pubDate>Tue, 19 Jul 2022 10:24:43 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202207/99518_115734_817_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA["전자문서 쓰고 주식 받자"...카카오페이·증권 '그린챌린지' 시작 (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=99503</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=99503</guid>
@@ -382,14 +390,6 @@
             <pubDate>Tue, 19 Jul 2022 08:08:00 GMT</pubDate>
             <content:encoded><![CDATA[김가은 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202207/99417_115575_125_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[네이버, 커머스 신무기 '빈티지 시티'...'크림' 성공 신화 이어간다 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=99448</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=99448</guid>
-            <pubDate>Mon, 18 Jul 2022 07:18:28 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202207/99448_115666_226_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[김종협 아이콘루프 "중요한 건 거버넌스...자체 블록체인 구축시대" (테크M ─ 이노베이션)]]></title>
@@ -765,7 +765,7 @@
             <guid>https://www.techm.kr/news/articleView.html?idxno=99462</guid>
             <pubDate>Mon, 18 Jul 2022 07:18:28 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202207/99462_115674_5313_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202207/99462_115651_4133_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[테크M 트렌드] LG전자 모니터엔 뭔가 특별한 게 있다 (테크M ─ 라이프)]]></title>
@@ -773,7 +773,7 @@
             <guid>https://www.techm.kr/news/articleView.html?idxno=99466</guid>
             <pubDate>Mon, 18 Jul 2022 06:27:24 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202207/99466_115675_5330_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202207/99466_115654_1034_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[테크M 트렌드] "식품도 ESG" CJ제일제당 '식물성 식품'으로 미래 신시장 연다 (테크M ─ 라이프)]]></title>
