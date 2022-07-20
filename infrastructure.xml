@@ -4,16 +4,24 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Jul 2022 06:28:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Jul 2022 07:21:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카카오 집들이] "구내식당 '춘식도락'·양호실 '톡클리닉'...무한복지 쏜다"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=99553</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=99553</guid>
+            <pubDate>Wed, 20 Jul 2022 07:19:15 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202207/99553_115783_4836_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[베트남 원격의료 시장 두드리는 KT, '메디플러스솔루션'과 협력]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=99544</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=99544</guid>
             <pubDate>Wed, 20 Jul 2022 05:26:02 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202207/99544_115764_4229_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202207/99544_115792_3633_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[워크데이 "팬데믹 이후 기업 간 '디지털 민첩성' 격차 커져"]]></title>
@@ -110,14 +118,6 @@
             <pubDate>Tue, 19 Jul 2022 05:46:28 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202207/99503_115707_5056_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[신세계아이앤씨, 오프라인 교육 센터 '부산캠퍼스' 개소…"지역 SW 청년 인재 요람 될 것"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=99505</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=99505</guid>
-            <pubDate>Tue, 19 Jul 2022 05:46:28 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202207/99505_115709_5411_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
