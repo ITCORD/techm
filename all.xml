@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Jul 2022 03:48:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Jul 2022 04:47:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -280,6 +280,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202207/99512_115716_1648_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[워크데이 "팬데믹 이후 기업 간 '디지털 민첩성' 격차 커져" (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=99551</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=99551</guid>
+            <pubDate>Wed, 20 Jul 2022 04:44:54 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202207/99551_115771_3716_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[화웨이 '5.5G' 시대 제시..."전 세계 어디에서나 10GbPS 네트워크 경험" (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=99545</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=99545</guid>
@@ -382,14 +390,6 @@
             <pubDate>Tue, 19 Jul 2022 05:45:52 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202207/99500_115706_4750_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LG CNS, 정부세종청사 '디지털 청사'로 만든다…AI 통합 관제 시스템 구축 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=99498</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=99498</guid>
-            <pubDate>Tue, 19 Jul 2022 05:45:52 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202207/99498_115702_4113_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["내 카드 혜택금은 얼마?" 헥토이노베이션 '더쎈카드' 카드 혜택률 진단 이벤트 연장 (테크M ─ 이노베이션)]]></title>
@@ -728,6 +728,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202207/99170_115104_1631_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[넥슨네트웍스, 하반기 채용연계형 인턴십 모집...두자릿수 뽑는다 (테크M ─ 라이프)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=99549</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=99549</guid>
+            <pubDate>Wed, 20 Jul 2022 04:46:56 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202207/99549_115769_1725_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[삼성전자, 국내 OTT 업체들과 'HDR10+' 콘텐츠 확산 박차 (테크M ─ 라이프)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=99539</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=99539</guid>
@@ -830,14 +838,6 @@
             <pubDate>Mon, 18 Jul 2022 10:08:00 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202207/99429_115595_724_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['화제의 신차' 토레스 바로 받는 법...SK스토아, 쇼핑라이브서 '장기렌탈' 판매 (테크M ─ 라이프)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=99427</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=99427</guid>
-            <pubDate>Mon, 18 Jul 2022 10:03:00 GMT</pubDate>
-            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202207/99427_115594_234_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[글로벌] 대만 폭스콘, 中 반도체 살리기 '동참'...칭화유니에 1조원 투자 (테크M ─ 리포트)]]></title>
