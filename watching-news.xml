@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Jul 2022 09:25:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jul 2022 10:27:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[게임코인TV] 홈페이지 관리 시급한 C2X...컴투스와 네오위즈는 뭐하고 있나(상)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=99624</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=99624</guid>
+            <pubDate>Thu, 21 Jul 2022 10:27:51 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202207/99624_115911_114_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[게임코인TV] 유럽 법인을 세운 이유는?...잠잠한' 판교의 희망' 보라는 도대체 뭐하고 있나(하)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=99425</link>
@@ -110,14 +118,6 @@
             <pubDate>Wed, 06 Jul 2022 09:26:26 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202207/99101_115005_3553_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 이프랜드, '팀보타' 특별전 연다... "메타버스에서 오프라인 전시 만나기"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=99043</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=99043</guid>
-            <pubDate>Tue, 05 Jul 2022 06:27:49 GMT</pubDate>
-            <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202207/99043_114877_2918_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
