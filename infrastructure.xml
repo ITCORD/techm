@@ -4,9 +4,25 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Jul 2022 02:01:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2022 03:56:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[카카오 홍은택의 '메이커스'...소셜임팩트 사업 중추로 '우뚝']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=99649</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=99649</guid>
+            <pubDate>Fri, 22 Jul 2022 11:51:00 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202207/99649_115944_2142_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[삼성전자, LTE 스마트폰 '갤럭시 A13' 출시…출고가 29만7000원]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=99630</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=99630</guid>
+            <pubDate>Fri, 22 Jul 2022 11:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202207/99630_115923_430_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[부산시, IBM과 손잡고 '양자컴퓨터' 생태계 선점 나선다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=99643</link>
@@ -102,22 +118,6 @@
             <pubDate>Thu, 21 Jul 2022 00:02:00 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202207/99598_115853_139_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[파수, 공정위 문서보안 환경에 '맞춤처방' 제시…"보안 지키며 업무 편의성 높였다"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=99596</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=99596</guid>
-            <pubDate>Thu, 21 Jul 2022 11:52:00 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202207/99596_115851_5149_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['발주서' 열었더니 악성코드 감염…업무환경 노리는 사이버공격 주의보]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=99594</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=99594</guid>
-            <pubDate>Thu, 21 Jul 2022 11:41:00 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202207/99594_115849_3925_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

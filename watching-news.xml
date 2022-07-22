@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Jul 2022 02:01:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2022 03:56:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[게임코인TV] 'C2X'가 주목해야 할 '서머너즈워 크로니클'...컴투스와 네오위즈는 뭐하고 있나(중)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=99648</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=99648</guid>
+            <pubDate>Fri, 22 Jul 2022 11:48:00 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202207/99648_115943_216_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[게임코인TV] 홈페이지 관리 시급한 C2X...컴투스와 네오위즈는 뭐하고 있나(상)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=99624</link>
@@ -110,14 +118,6 @@
             <pubDate>Fri, 08 Jul 2022 05:29:15 GMT</pubDate>
             <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202207/99175_115109_2010_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[게임코인TV] 드디어 출시된 위믹스 플레이 뜯어보기...위믹스 3.0 집중 분석 (상)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=99101</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=99101</guid>
-            <pubDate>Wed, 06 Jul 2022 09:26:26 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202207/99101_115005_3553_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
