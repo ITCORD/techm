@@ -4,9 +4,17 @@
         <title>테크M ─ 콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Jul 2022 07:23:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2022 08:31:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[LCK, 2022 롤드컵 지역 시드 4장 배분 받았다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=99655</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=99655</guid>
+            <pubDate>Fri, 22 Jul 2022 08:28:06 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202207/99655_115958_1054_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[카카오·대원미디어 '시너지' 성큼...첫번째 작품 日서 공개]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=99651</link>
@@ -110,14 +118,6 @@
             <pubDate>Thu, 21 Jul 2022 08:25:56 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202207/99620_115893_2251_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[카트라이더에 메이플스토리가 들어왔다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=99614</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=99614</guid>
-            <pubDate>Thu, 21 Jul 2022 08:25:56 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202207/99614_115888_5040_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
