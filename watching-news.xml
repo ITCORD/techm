@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Jul 2022 12:37:54 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Jul 2022 13:32:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[게임코인TV] 디파이 서비스에 집중하는 네오핀...컴투스와 네오위즈는 뭐하고 있나(하)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=99680</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=99680</guid>
+            <pubDate>Sat, 23 Jul 2022 13:32:22 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202207/99680_116016_2759_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[게임코인TV] 'C2X'가 주목해야 할 '서머너즈워 크로니클'...컴투스와 네오위즈는 뭐하고 있나(중)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=99648</link>
@@ -110,14 +118,6 @@
             <pubDate>Fri, 08 Jul 2022 08:40:21 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202207/99195_115149_3225_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 빗썸, NFT 플랫폼 '내모월드'…8월 출격 '업비트 NFT 기다려!']]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=99175</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=99175</guid>
-            <pubDate>Fri, 08 Jul 2022 05:29:15 GMT</pubDate>
-            <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202207/99175_115109_2010_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
