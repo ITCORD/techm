@@ -4,9 +4,17 @@
         <title>테크M ─ 콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Jul 2022 01:59:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jul 2022 03:53:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["목표 일매출만 30억?" 넷마블 '세븐나이츠 레볼루션' 28일 뜬다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=99707</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=99707</guid>
+            <pubDate>Mon, 25 Jul 2022 00:27:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202207/99707_116050_2510_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[야놀자, 전시 예매 전문관 신규 오픈]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=99692</link>
@@ -110,14 +118,6 @@
             <pubDate>Fri, 22 Jul 2022 11:22:00 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202207/99645_115941_949_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[카카오엔터, 경콘진과 맞손...IP 제공으로 게임 개발 지원한다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=99639</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=99639</guid>
-            <pubDate>Fri, 22 Jul 2022 10:35:00 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202207/99639_115934_244_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
