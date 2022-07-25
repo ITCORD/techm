@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Jul 2022 20:23:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jul 2022 21:21:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[테크M 이슈] 메타콩즈 흔들려도 굳건한 푸빌라...성공 비결은 신세계百 발렛?]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=99722</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=99722</guid>
+            <pubDate>Tue, 26 Jul 2022 05:30:00 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202207/99722_116085_500_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[장현국 위메이드, 4달째 책임경영...위믹스 또 샀다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=99730</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 25 Jul 2022 05:29:17 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202207/99711_116062_5848_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이커머스에 '테크' 더하기 나선 마켓컬리...창사 후 첫 해커톤 개최]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=99708</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=99708</guid>
-            <pubDate>Mon, 25 Jul 2022 04:52:57 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202207/99708_116052_4446_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
