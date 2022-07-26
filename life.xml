@@ -4,9 +4,17 @@
         <title>테크M ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Jul 2022 04:29:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Jul 2022 05:43:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[같이사소] 기획전 쏟아진다...쿠팡 '푸드페어' SSG '삼성전자' 위메프 '알뜰폰']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=99742</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=99742</guid>
+            <pubDate>Tue, 26 Jul 2022 05:43:16 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202207/99742_116108_4834_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[삼성전자, 삼진어묵과 '비스포크 큐커 썸머 페스티벌']]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=99740</link>
@@ -110,14 +118,6 @@
             <pubDate>Fri, 22 Jul 2022 10:06:00 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202207/99634_115928_36_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["해외여행 갈 때, 여기어때"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=99628</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=99628</guid>
-            <pubDate>Fri, 22 Jul 2022 07:48:00 GMT</pubDate>
-            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202207/99628_115922_4755_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
