@@ -4,9 +4,17 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Jul 2022 07:22:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jul 2022 08:29:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우아한청년들, 국토부 소화물 인증제 '1호 기업' 선정]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=99827</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=99827</guid>
+            <pubDate>Wed, 27 Jul 2022 08:27:06 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202207/99827_116227_1926_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[화웨이, 2025년 '5.5G' 상용화 전망...업계 협력 강화]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=99820</link>
@@ -110,14 +118,6 @@
             <pubDate>Wed, 27 Jul 2022 10:12:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202207/99799_116186_1243_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[테크M 이슈] SI 딱지 뗀 카카오엔터프라이즈...해외서 AI 기술력 알렸다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=99794</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=99794</guid>
-            <pubDate>Wed, 27 Jul 2022 09:38:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202207/99794_116180_3848_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
