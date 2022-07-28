@@ -4,9 +4,17 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Jul 2022 07:22:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Jul 2022 08:31:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성전자, 서울대 반도체공동연구소에 운영비 50억 기부]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=99874</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=99874</guid>
+            <pubDate>Thu, 28 Jul 2022 08:27:52 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202207/99874_116298_2824_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["멸공 대신 멸콩?" 발암 물질 인정한 스타벅스...신세계그룹도 '휘청'(상보)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=99872</link>
@@ -110,14 +118,6 @@
             <pubDate>Thu, 28 Jul 2022 10:21:00 GMT</pubDate>
             <content:encoded><![CDATA[김가은 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202207/99845_116257_1627_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['반도체 국가대표' 삼성전자, 2Q에도 11조 투자금 쏟았다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=99849</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=99849</guid>
-            <pubDate>Thu, 28 Jul 2022 10:21:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202207/99849_116260_2059_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
