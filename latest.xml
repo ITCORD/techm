@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Jul 2022 11:21:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Jul 2022 12:46:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이용자 정보에 '혈안'된 해커들…안랩 "상반기 악성코드 10건 중 7건은 인포스틸러"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=99890</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=99890</guid>
+            <pubDate>Thu, 28 Jul 2022 12:44:44 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202207/99890_116327_174_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['발암백' 법적 책임 없다지만…추락한 스타벅스 '브랜드 밸류' 어쩌나]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=99878</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 28 Jul 2022 06:25:24 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202207/99870_116319_80_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성전자 2분기 잘 버텼지만…하반기는 여전히 '시계제로'(종합)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=99869</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=99869</guid>
-            <pubDate>Thu, 28 Jul 2022 06:25:24 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202207/99869_116320_839_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
