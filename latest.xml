@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Jul 2022 15:29:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jul 2022 16:31:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[게임코인TV] 블룸버그발, FTX의 빗썸 인수 소식이 가지는 의미(상)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=99938</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=99938</guid>
+            <pubDate>Fri, 29 Jul 2022 16:29:40 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202207/99938_116434_2128_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[테크M 리포트] 지니언스 성장은 '현재진행형'…NAC에 EDR 더해 실적 전망 '맑음']]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=99937</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 29 Jul 2022 11:24:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202207/99911_116363_245_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SK텔레콤, 중간요금제 확정...월 5.9만원에 24GB 제공]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=99910</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=99910</guid>
-            <pubDate>Fri, 29 Jul 2022 11:13:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202207/99910_116362_1323_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
