@@ -4,9 +4,17 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Jul 2022 22:21:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Jul 2022 23:21:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[발열? 속도 저하? 그래도 'M2 맥북에어'를 사야 하는 이유]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=99943</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=99943</guid>
+            <pubDate>Sun, 31 Jul 2022 08:15:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202207/99943_116442_1039_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[테크M 리포트] 지니언스 성장은 '현재진행형'…NAC에 EDR 더해 실적 전망 '맑음']]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=99937</link>
@@ -110,14 +118,6 @@
             <pubDate>Fri, 29 Jul 2022 10:05:00 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202207/99900_116353_5333_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["여름휴가 TV로 즐겨요"...LGU+, 해외 다큐·공연 130여편 독점 제공]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=99899</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=99899</guid>
-            <pubDate>Fri, 29 Jul 2022 10:05:00 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202207/99899_116352_4719_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

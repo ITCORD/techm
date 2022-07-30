@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Jul 2022 22:21:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Jul 2022 23:21:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[발열? 속도 저하? 그래도 'M2 맥북에어'를 사야 하는 이유 (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=99943</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=99943</guid>
+            <pubDate>Sun, 31 Jul 2022 08:15:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202207/99943_116442_1039_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[스타트업 썰전] ⑰KT·카카오도 반한 '집무실'..."공간 실험실서 연구했죠" (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=99733</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=99733</guid>
+            <pubDate>Sun, 31 Jul 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202207/99733_116370_317_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["방준혁 매직 통했다" 넷마블 '세나 레볼루션' 구글 매출 톱10 진입...흥행 청신호 (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=99946</link>
@@ -152,22 +168,6 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202207/99924_116432_951_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[전 세계가 '우영우'에 푹 빠졌다…20개국 정상·글로벌 3위 달성 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=99925</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=99925</guid>
-            <pubDate>Fri, 29 Jul 2022 07:18:03 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202207/99925_116433_3155_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[IT's 콘텐츠] 카카오엔터 "한땀한땀 쏟은 '2조 투자'…'1만 IP'로 결실" (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=99918</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=99918</guid>
-            <pubDate>Fri, 29 Jul 2022 07:18:03 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202207/99918_116429_622_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[카트통신] 겹경사 샌드박스...팀전 승리-개인전 전원 생존 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=99944</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=99944</guid>
@@ -280,6 +280,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202207/99889_116328_2639_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[발열? 속도 저하? 그래도 'M2 맥북에어'를 사야 하는 이유 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=99943</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=99943</guid>
+            <pubDate>Sun, 31 Jul 2022 08:15:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202207/99943_116442_1039_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[테크M 리포트] 지니언스 성장은 '현재진행형'…NAC에 EDR 더해 실적 전망 '맑음' (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=99937</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=99937</guid>
@@ -384,12 +392,12 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202207/99900_116353_5333_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA["여름휴가 TV로 즐겨요"...LGU+, 해외 다큐·공연 130여편 독점 제공 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=99899</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=99899</guid>
-            <pubDate>Fri, 29 Jul 2022 10:05:00 GMT</pubDate>
+            <title><![CDATA[[스타트업 썰전] ⑰KT·카카오도 반한 '집무실'..."공간 실험실서 연구했죠" (테크M ─ 이노베이션)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=99733</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=99733</guid>
+            <pubDate>Sun, 31 Jul 2022 08:00:00 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202207/99899_116352_4719_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202207/99733_116370_317_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[두나무, 보호종료아동 위해 30억 지원… '1만 일자리' 첫 행보 (테크M ─ 이노베이션)]]></title>
@@ -494,14 +502,6 @@
             <pubDate>Fri, 22 Jul 2022 10:32:00 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202207/99641_115936_3132_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[증권·뱅킹으로 날아오른 토스, 모빌리티 이어 통신 혁신에도 도전장 (테크M ─ 이노베이션)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=99609</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=99609</guid>
-            <pubDate>Thu, 21 Jul 2022 08:25:37 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202207/99609_115877_732_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[크립토 주간 브리핑] 안도랠리 펼치는 가상자산 시장…비트코인 3000만원대 유지 (테크M ─ 인베스트먼트)]]></title>
