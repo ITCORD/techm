@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 31 Jul 2022 15:21:38 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Jul 2022 16:28:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[게임코인TV] 투자는 역시 위메이드다?...FTX의 빗썸 인수설에 위믹스 주목 이유(하)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=99959</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=99959</guid>
+            <pubDate>Mon, 01 Aug 2022 01:16:00 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202208/99959_116481_160_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[게임코인TV] 빗썸이 인수되면 좋은점 vs. 안좋은점...FTX의 빗썸 인수설에 위믹스 주목?(중)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=99942</link>
@@ -110,14 +118,6 @@
             <pubDate>Tue, 12 Jul 2022 06:28:14 GMT</pubDate>
             <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202207/99271_115272_5022_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 에버랜드와 롯데월드, 메타버스로 만날 수 있다..."공간 경험의 확장 노린다"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=99235</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=99235</guid>
-            <pubDate>Mon, 11 Jul 2022 06:30:16 GMT</pubDate>
-            <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202207/99235_115222_4752_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
