@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 31 Jul 2022 13:33:24 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Jul 2022 14:21:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[PWS 통신] 4치킨 독식한 GNL, GnG 1점 차로 따돌리고 2주차 우승]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=99956</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=99956</guid>
+            <pubDate>Sun, 31 Jul 2022 14:18:15 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202207/99956_116473_353_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["아발란체에게 무엇이든 물어보세요"...업비트, '아마 두' 페스티벌 연다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=99955</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 30 Jul 2022 07:30:00 GMT</pubDate>
             <content:encoded><![CDATA[김현기 대표]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202207/99934_116420_4046_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[글로벌] 람보르기니 베테랑, 애플 합류…애플카 개발 속도 낼까]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=99935</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=99935</guid>
-            <pubDate>Sat, 30 Jul 2022 07:30:00 GMT</pubDate>
-            <content:encoded><![CDATA[김현기 대표]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202207/99935_116421_4336_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
