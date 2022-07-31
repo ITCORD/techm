@@ -4,9 +4,17 @@
         <title>테크M ─ 콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 31 Jul 2022 10:24:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Jul 2022 11:20:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["아발란체에게 무엇이든 물어보세요"...업비트, '아마 두' 페스티벌 연다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=99955</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=99955</guid>
+            <pubDate>Sun, 31 Jul 2022 11:16:46 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202207/99955_116472_4621_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[테크M 이슈] 20주년 맞은 라그나로크, IP 확장 총력전...3개 타이틀 확장]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=99954</link>
@@ -110,14 +118,6 @@
             <pubDate>Fri, 29 Jul 2022 11:04:00 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202207/99906_116358_3530_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['배틀그라운드 모바일' 인도 앱마켓에서 돌연 삭제…크래프톤 "상황 파악 중"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=99897</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=99897</guid>
-            <pubDate>Fri, 29 Jul 2022 09:28:00 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202207/99897_116350_1554_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
