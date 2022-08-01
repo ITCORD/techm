@@ -4,11 +4,19 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Aug 2022 06:41:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Aug 2022 07:27:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[[써봤다] 만능 겜트북, 에이서 '프레데터 트리톤 500 SE']]></title>
+            <title><![CDATA[경기침체 위기에 주춤한 빅테크, 반등 열쇠는 '클라우드']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=99983</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=99983</guid>
+            <pubDate>Mon, 01 Aug 2022 07:24:49 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202208/99983_116525_441_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[써봤다] 젠틀한 만능 겜트북, 에이서 '프레데터 트리톤 500 SE']]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=99982</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=99982</guid>
             <pubDate>Mon, 01 Aug 2022 06:39:28 GMT</pubDate>
@@ -110,14 +118,6 @@
             <pubDate>Fri, 29 Jul 2022 06:27:29 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202207/99920_116383_940_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LG전자, 2분기 영업이익 7922억...전년 대비 12% 감소(1보)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=99919</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=99919</guid>
-            <pubDate>Fri, 29 Jul 2022 06:27:29 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202207/99919_116382_219_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

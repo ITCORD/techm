@@ -4,11 +4,19 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Aug 2022 06:41:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Aug 2022 07:27:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[[써봤다] 만능 겜트북, 에이서 '프레데터 트리톤 500 SE']]></title>
+            <title><![CDATA[경기침체 위기에 주춤한 빅테크, 반등 열쇠는 '클라우드']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=99983</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=99983</guid>
+            <pubDate>Mon, 01 Aug 2022 07:24:15 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202208/99983_116525_441_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[써봤다] 젠틀한 만능 겜트북, 에이서 '프레데터 트리톤 500 SE']]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=99982</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=99982</guid>
             <pubDate>Mon, 01 Aug 2022 06:38:58 GMT</pubDate>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 01 Aug 2022 01:16:00 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202208/99959_116481_160_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[LCK 브리핑] T1 공포증 극복한 젠지, '룰러'가 다했다...광동 PO 희망 불씨 살려]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=99958</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=99958</guid>
-            <pubDate>Sun, 31 Jul 2022 16:25:29 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202208/99958_116477_00_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
