@@ -4,9 +4,17 @@
         <title>테크M ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Aug 2022 02:09:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Aug 2022 04:34:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[코빗, 신임 CTO로 이정우 기술연구부서 실장 선임]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=99973</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=99973</guid>
+            <pubDate>Mon, 01 Aug 2022 11:21:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202208/99973_116501_2632_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[e스포츠人] 무려 3번의 MVP... GNL 해결사 '로이' 김민길]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=99957</link>
@@ -110,14 +118,6 @@
             <pubDate>Tue, 19 Jul 2022 08:13:00 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202207/99419_115580_5321_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[e스포츠人] POG 공동 1위 등극한 T1 '제우스' 최우제]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=99422</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=99422</guid>
-            <pubDate>Sun, 17 Jul 2022 15:20:49 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202207/99422_115589_1758_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
