@@ -4,9 +4,25 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Aug 2022 06:26:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Aug 2022 07:23:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[카카오페이, 2Q 거래액 29.1조...누적가입자 3815만명(상보)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=100024</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=100024</guid>
+            <pubDate>Tue, 02 Aug 2022 07:21:05 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100024_116582_5433_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[카카오페이, 2Q 매출액 1341억원...영업손실 125억원(1보)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=100022</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=100022</guid>
+            <pubDate>Tue, 02 Aug 2022 07:21:05 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100022_116580_4219_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[구글 인앱결제 강제 여파 소비자에게로..."콘텐츠앱 가격 17.5% 올랐다"]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=100019</link>
@@ -102,22 +118,6 @@
             <pubDate>Tue, 02 Aug 2022 09:59:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202208/99999_116551_5922_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SKT, 온실가스 감축목표 검증 통과…2050년 '넷제로' 순항]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=99997</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=99997</guid>
-            <pubDate>Tue, 02 Aug 2022 09:58:00 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202208/99997_116549_560_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다날 워너아이, 데이터 쇼핑몰 '위샵' 열었다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=99995</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=99995</guid>
-            <pubDate>Tue, 02 Aug 2022 09:48:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202208/99995_116545_4849_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
