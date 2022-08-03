@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Aug 2022 09:22:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Aug 2022 10:25:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[지니언스, NAC 호조로 2분기 역대 최대 실적 달성…영업이익 58.9% ↑ (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=100087</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=100087</guid>
+            <pubDate>Wed, 03 Aug 2022 10:22:32 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100087_116694_4527_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[롯데정보통신, 2분기 영업이익 26억…전년비 78%↓ (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=100088</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=100088</guid>
+            <pubDate>Wed, 03 Aug 2022 10:22:32 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100088_116695_5752_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["알고보니 고물?" 민주노총 '에어컨 쇼'에 쿠팡은 나홀로 속앓이 (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=100086</link>
@@ -152,22 +168,6 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202208/100063_116659_434_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA["하반기는 글로벌" 카카오게임즈, 오딘·우마무스메 끌고 신작·블록체인이 민다(종합) (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=100065</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=100065</guid>
-            <pubDate>Wed, 03 Aug 2022 11:42:00 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100065_116691_1316_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[하이브, 2Q 역대급 실적 썼다..."BTS 단체·개인 활동 병행"(종합) (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=100066</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=100066</guid>
-            <pubDate>Wed, 03 Aug 2022 11:42:00 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100066_116692_1336_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[PWS] 개인기 폭발한 BGP...3위 도약 이유 있었네 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=100083</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=100083</guid>
@@ -280,6 +280,22 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202208/100020_116578_3517_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[지니언스, NAC 호조로 2분기 역대 최대 실적 달성…영업이익 58.9% ↑ (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=100087</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=100087</guid>
+            <pubDate>Wed, 03 Aug 2022 10:23:04 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100087_116694_4527_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[롯데정보통신, 2분기 영업이익 26억…전년비 78%↓ (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=100088</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=100088</guid>
+            <pubDate>Wed, 03 Aug 2022 10:23:04 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100088_116695_5752_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[코린이톡] 블록체인에 빠진 여의도...무르익는 금융권 가상자산 서비스 (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=100085</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=100085</guid>
@@ -374,22 +390,6 @@
             <pubDate>Wed, 03 Aug 2022 10:26:00 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202208/100054_116642_2442_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[케이뱅크, 6월 이어 7월도 이용자 감소 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=100051</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=100051</guid>
-            <pubDate>Wed, 03 Aug 2022 09:59:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100051_116639_5922_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[하이브, 2Q 영업이익 883억원...전년比 215.3%↑ (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=100050</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=100050</guid>
-            <pubDate>Wed, 03 Aug 2022 09:53:00 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100050_116638_5259_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[메인넷 1위 꿈꾸는 위메이드, 글로벌 파트너사와 위믹스 3.0 '의기투합' (테크M ─ 이노베이션)]]></title>
