@@ -4,9 +4,25 @@
         <title>테크M ─ 콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Aug 2022 04:50:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Aug 2022 05:34:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스튜디오드래곤, 2Q 영업익 269억원...전년대비 95% 증가]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=100118</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=100118</guid>
+            <pubDate>Thu, 04 Aug 2022 05:31:27 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100118_116727_5214_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[CJ ENM, 2Q 영업이익 556억원...전년대비 35.2% '감소']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=100119</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=100119</guid>
+            <pubDate>Thu, 04 Aug 2022 05:31:27 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100119_116728_566_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[밸브 휴대용 게임기 '스팀덱' 한국 온다, 예약판매 개시]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=100114</link>
@@ -102,22 +118,6 @@
             <pubDate>Tue, 02 Aug 2022 10:25:55 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202208/100040_116619_338_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[공연앱 사용자 수 187% 급증....확진자 다시 늘어도 '쇼'는 계속된다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=100027</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=100027</guid>
-            <pubDate>Tue, 02 Aug 2022 08:27:01 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100027_116599_197_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카카오 집들이] 카카오 공동체, 각사각색 '라이언' 동상에 숨은 비밀은?]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=100028</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=100028</guid>
-            <pubDate>Tue, 02 Aug 2022 08:27:01 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100028_116595_1547_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
