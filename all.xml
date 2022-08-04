@@ -4,16 +4,24 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Aug 2022 06:30:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Aug 2022 07:21:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[[테크M 리포트] '시총 2조' CJ ENM이 1조나 주고 산 '엔데버'는 2Q도 적자 (테크M ─ 전체기사)]]></title>
+            <title><![CDATA['개발자 놀이터' 깃허브에서 악성코드 품은 '클론 프로젝트' 3만5000개 발견 (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=100126</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=100126</guid>
+            <pubDate>Thu, 04 Aug 2022 07:18:29 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100126_116736_4610_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[테크M 리포트] CJ ENM의 1조 빅딜 '엔데버 콘텐트', 손실규모 줄었지만 2Q도 적자 (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=100123</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=100123</guid>
             <pubDate>Thu, 04 Aug 2022 06:28:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100123_116732_546_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100123_116735_437_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[넥슨 6000억 빅딜 통했다...'그레이맨' 넷플릭스 타고 순항 (테크M ─ 전체기사)]]></title>
@@ -160,18 +168,10 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202208/100103_116711_057_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[컨콜] 카카오 "스토리 거래액 해외비중 80%...성장이어갈 것" (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=100105</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=100105</guid>
-            <pubDate>Thu, 04 Aug 2022 10:08:00 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100105_116713_745_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[넥슨 6000억 빅딜 통했다...'그레이맨' 넷플릭스 타고 순항 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=100122</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=100122</guid>
-            <pubDate>Thu, 04 Aug 2022 06:28:17 GMT</pubDate>
+            <pubDate>Thu, 04 Aug 2022 06:28:00 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202208/100122_116731_3740_v150.jpg" length="0" type="image/jpg"/>
         </item>
@@ -280,18 +280,26 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202208/100045_116693_145_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[테크M 리포트] '시총 2조' CJ ENM이 1조나 주고 산 '엔데버'는 2Q도 적자 (테크M ─ 인프라)]]></title>
+            <title><![CDATA['개발자 놀이터' 깃허브에서 악성코드 품은 '클론 프로젝트' 3만5000개 발견 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=100126</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=100126</guid>
+            <pubDate>Thu, 04 Aug 2022 07:18:59 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100126_116736_4610_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[테크M 리포트] CJ ENM의 1조 빅딜 '엔데버 콘텐트', 손실규모 줄었지만 2Q도 적자 (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=100123</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=100123</guid>
-            <pubDate>Thu, 04 Aug 2022 06:28:34 GMT</pubDate>
+            <pubDate>Thu, 04 Aug 2022 06:28:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100123_116732_546_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100123_116735_437_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[테크M 리포트] 100만 MAU 앞둔 쏘카...IPO 앞두고 플랫폼 역량 '입증' (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=100121</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=100121</guid>
-            <pubDate>Thu, 04 Aug 2022 06:28:34 GMT</pubDate>
+            <pubDate>Thu, 04 Aug 2022 06:28:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202208/100121_116730_3426_v150.jpg" length="0" type="image/jpg"/>
         </item>
@@ -382,14 +390,6 @@
             <pubDate>Thu, 04 Aug 2022 09:47:00 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202208/100101_116709_4643_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[컨콜] 광고 사업 확대하는 카카오...배민·번개장터도 생태계 합류 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=100100</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=100100</guid>
-            <pubDate>Thu, 04 Aug 2022 09:42:00 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100100_116708_4214_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이더리움 만든 비탈릭 부테린 "전력 사용 없는 지분증명(PoS) 전환, 9월 중 가능" (테크M ─ 이노베이션)]]></title>
@@ -839,6 +839,22 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202208/99974_116502_2724_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[글로벌] 일론 머스크 "테슬라 인근에 개인 공항 만든다" (테크M ─ 리포트)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=100128</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=100128</guid>
+            <pubDate>Thu, 04 Aug 2022 07:21:06 GMT</pubDate>
+            <content:encoded><![CDATA[김현기 대표]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100128_116738_1832_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[글로벌] 제임스 웹이 포착한 은하 이미지 공개...더 선명해진 '수레바퀴 은하' (테크M ─ 리포트)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=100127</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=100127</guid>
+            <pubDate>Thu, 04 Aug 2022 07:21:06 GMT</pubDate>
+            <content:encoded><![CDATA[김현기 대표]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100127_116737_1720_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[글로벌] 미국, 中 반도체 압박 수위 높인다…수출 제한 기준 강화 (테크M ─ 리포트)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=100035</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=100035</guid>
@@ -933,22 +949,6 @@
             <pubDate>Tue, 26 Jul 2022 07:18:59 GMT</pubDate>
             <content:encoded><![CDATA[김현기 대표]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202207/99773_116159_5425_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[글로벌] "빅뱅 이후 135억년"...차세대 우주망원경, 최고령 은하 포착 (테크M ─ 리포트)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=99673</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=99673</guid>
-            <pubDate>Sat, 23 Jul 2022 00:20:00 GMT</pubDate>
-            <content:encoded><![CDATA[김현기 대표]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202207/99673_116002_1934_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[글로벌] 스마트폰 시장 쪼그라드는데...중국의 '애플 사랑'은 여전해 (테크M ─ 리포트)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=99672</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=99672</guid>
-            <pubDate>Sat, 23 Jul 2022 00:19:00 GMT</pubDate>
-            <content:encoded><![CDATA[김현기 대표]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202207/99672_116001_1820_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[게임코인TV] 투자는 역시 위메이드다?...FTX의 빗썸 인수설에 위믹스 주목 이유(하) (테크M ─ 보는 뉴스)]]></title>

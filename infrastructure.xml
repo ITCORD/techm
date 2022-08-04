@@ -4,16 +4,24 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Aug 2022 06:30:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Aug 2022 07:21:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[[테크M 리포트] '시총 2조' CJ ENM이 1조나 주고 산 '엔데버'는 2Q도 적자]]></title>
+            <title><![CDATA['개발자 놀이터' 깃허브에서 악성코드 품은 '클론 프로젝트' 3만5000개 발견]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=100126</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=100126</guid>
+            <pubDate>Thu, 04 Aug 2022 07:18:59 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100126_116736_4610_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[테크M 리포트] CJ ENM의 1조 빅딜 '엔데버 콘텐트', 손실규모 줄었지만 2Q도 적자]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=100123</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=100123</guid>
             <pubDate>Thu, 04 Aug 2022 06:28:34 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100123_116732_546_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100123_116735_437_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[테크M 리포트] 100만 MAU 앞둔 쏘카...IPO 앞두고 플랫폼 역량 '입증']]></title>
@@ -110,14 +118,6 @@
             <pubDate>Thu, 04 Aug 2022 09:47:00 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202208/100101_116709_4643_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[컨콜] 광고 사업 확대하는 카카오...배민·번개장터도 생태계 합류]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=100100</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=100100</guid>
-            <pubDate>Thu, 04 Aug 2022 09:42:00 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100100_116708_4214_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
