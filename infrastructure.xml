@@ -4,9 +4,25 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Aug 2022 07:21:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Aug 2022 08:32:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["일주일간 아이스크림 무한 제공" 안랩, 사내 이벤트 '아이스크림 데이' 진행]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=100132</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=100132</guid>
+            <pubDate>Thu, 04 Aug 2022 08:29:38 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100132_116748_4229_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[테크M 트렌드] '476만' 야놀자 vs '422만' 여기어때, 숙박부터 레저까지...여가 경쟁 '가열']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=100131</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=100131</guid>
+            <pubDate>Thu, 04 Aug 2022 08:29:38 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100131_116742_3241_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['개발자 놀이터' 깃허브에서 악성코드 품은 '클론 프로젝트' 3만5000개 발견]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=100126</link>
@@ -102,22 +118,6 @@
             <pubDate>Thu, 04 Aug 2022 10:01:00 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202208/100104_116712_13_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[컨콜] 카카오 "지그재그 글로벌 9월 정식 출시...美·日 진출"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=100102</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=100102</guid>
-            <pubDate>Thu, 04 Aug 2022 09:54:00 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100102_116710_5356_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[컨콜] 카카오 2분기 커머스 거래액 2.1조원...전년대비 19% '쑥']]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=100101</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=100101</guid>
-            <pubDate>Thu, 04 Aug 2022 09:47:00 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100101_116709_4643_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
