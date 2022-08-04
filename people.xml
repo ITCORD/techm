@@ -4,9 +4,17 @@
         <title>테크M ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Aug 2022 23:24:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Aug 2022 01:55:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[위메프, 애플 본사 출신 이진호 CTO 영입]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=100095</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=100095</guid>
+            <pubDate>Thu, 04 Aug 2022 09:04:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100095_116703_435_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[코빗, 신임 CTO로 이정우 기술연구부서 실장 선임]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=99973</link>
@@ -110,14 +118,6 @@
             <pubDate>Wed, 20 Jul 2022 10:09:00 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202207/99524_115738_251_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[CTO를 만나다] 컨센시스 전 CTO '레이 발데스'가 한국NFT거래소에 꽂힌 이유는?]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=99419</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=99419</guid>
-            <pubDate>Tue, 19 Jul 2022 08:13:00 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202207/99419_115580_5321_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
