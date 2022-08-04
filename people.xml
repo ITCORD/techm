@@ -4,9 +4,17 @@
         <title>테크M ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Aug 2022 14:21:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Aug 2022 15:26:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[e스포츠人] 1위로 첫 위클리 파이널에 진출한 마루게이밍 '혁성' 권혁성]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=100140</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=100140</guid>
+            <pubDate>Thu, 04 Aug 2022 15:24:47 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100140_116767_4247_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[위메프, 애플 본사 출신 이진호 CTO 영입]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=100095</link>
@@ -110,14 +118,6 @@
             <pubDate>Wed, 20 Jul 2022 11:39:00 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202207/99541_115762_3840_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['한류 선봉장' 이미경 CJ 부회장, 美 에미상 공로상 수상]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=99524</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=99524</guid>
-            <pubDate>Wed, 20 Jul 2022 10:09:00 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202207/99524_115738_251_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
