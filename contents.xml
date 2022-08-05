@@ -4,9 +4,17 @@
         <title>테크M ─ 콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Aug 2022 02:01:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Aug 2022 03:50:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['콘텐츠'에 '테크'를 더하다...'한산' 통해 VFX 끝판왕 등극한 스타트업 'M83']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=100167</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=100167</guid>
+            <pubDate>Fri, 05 Aug 2022 00:20:00 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100167_116801_23_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[패스트캠퍼스, 디지털 마케팅 마스터즈 1기 발대식...3000만원 지원한다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=100157</link>
@@ -110,14 +118,6 @@
             <pubDate>Thu, 04 Aug 2022 05:31:27 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202208/100118_116727_5214_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[CJ ENM, 2Q 영업이익 556억원...전년대비 35.2% '감소']]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=100119</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=100119</guid>
-            <pubDate>Thu, 04 Aug 2022 05:31:27 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100119_116728_566_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
