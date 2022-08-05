@@ -4,9 +4,17 @@
         <title>테크M ─ 콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Aug 2022 22:21:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Aug 2022 23:21:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[봤다] 해상 전투신이 다한, 담백한 이순신 이야기...라떼워킹맘의 '한산' 관람기]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=100146</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=100146</guid>
+            <pubDate>Sat, 06 Aug 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100146_116799_5348_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[넵튠 컬러버스, 3D 메타버스 '퍼피레드' 예약서비스]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=100176</link>
@@ -110,14 +118,6 @@
             <pubDate>Thu, 04 Aug 2022 08:29:22 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202208/100129_116741_201_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[넥슨 6000억 빅딜 통했다...'그레이맨' 넷플릭스 타고 순항]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=100122</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=100122</guid>
-            <pubDate>Thu, 04 Aug 2022 06:28:17 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100122_116731_3740_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
