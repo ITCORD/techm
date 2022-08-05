@@ -4,9 +4,17 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Aug 2022 05:39:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Aug 2022 06:28:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["공공 배달앱에 졌네" 부진한 땡겨요...신한은행 모바일 전략 '적신호']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=100174</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=100174</guid>
+            <pubDate>Fri, 05 Aug 2022 06:26:05 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100174_116811_5529_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[韓 첫 달 탐사선 다누리, 달 전이궤도 성공적 진입(1보)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=100172</link>
@@ -110,14 +118,6 @@
             <pubDate>Fri, 05 Aug 2022 09:44:00 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202208/100149_116775_4418_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[컨콜] 네이버 예약·여행 카테고리 2.1배 성장...거래액 1조 돌파]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=100148</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=100148</guid>
-            <pubDate>Fri, 05 Aug 2022 09:37:00 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100148_116774_3645_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
