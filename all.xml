@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 07 Aug 2022 15:22:52 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Aug 2022 16:27:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[배그 토크 콘서트] 드라마틱한 우승의 주인공...광동 '아카드' 임광현 (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=100208</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=100208</guid>
+            <pubDate>Sun, 07 Aug 2022 16:25:34 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100208_116871_3145_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[LCK 브리핑] 젠지-T1 PO 2R 직행...DRX, PO 막차 탑승 (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=100207</link>
@@ -160,18 +168,10 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202208/100189_116840_2326_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[글로벌] 美中 반도체 갈등 '고조'… 美, 반도체 소프트웨어도 수출 통제할까 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=100187</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=100187</guid>
-            <pubDate>Sat, 06 Aug 2022 11:22:00 GMT</pubDate>
-            <content:encoded><![CDATA[김현기 대표]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100187_116839_2152_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[LCK 브리핑] 젠지-T1 PO 2R 직행...DRX, PO 막차 탑승 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=100207</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=100207</guid>
-            <pubDate>Sun, 07 Aug 2022 15:19:56 GMT</pubDate>
+            <pubDate>Sun, 07 Aug 2022 15:19:39 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202208/100207_116865_1336_v150.jpg" length="0" type="image/jpg"/>
         </item>
@@ -747,7 +747,7 @@
             <title><![CDATA[롯데쇼핑, 2Q 영업익 744억…전년비 882.2%↑(1보) (테크M ─ 라이프)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Sun, 07 Aug 2022 15:22:16 GMT</pubDate>
+            <pubDate>Sun, 07 Aug 2022 16:27:12 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
         </item>
         <item>
@@ -951,6 +951,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202207/99882_116314_59_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[배그 토크 콘서트] 드라마틱한 우승의 주인공...광동 '아카드' 임광현 (테크M ─ 보는 뉴스)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=100208</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=100208</guid>
+            <pubDate>Sun, 07 Aug 2022 16:27:46 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100208_116871_3145_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[게임코인TV] 투자는 역시 위메이드다?...FTX의 빗썸 인수설에 위믹스 주목 이유(하) (테크M ─ 보는 뉴스)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=99959</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=99959</guid>
@@ -1053,14 +1061,6 @@
             <pubDate>Wed, 13 Jul 2022 06:28:00 GMT</pubDate>
             <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202207/99309_115339_145_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 삼성 갤럭시, 로블록스에 뜬다...'삼성 스페이스 타이쿤' 출격 (테크M ─ 보는 뉴스)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=99271</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=99271</guid>
-            <pubDate>Tue, 12 Jul 2022 06:25:04 GMT</pubDate>
-            <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202207/99271_115272_5022_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
