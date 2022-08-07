@@ -4,9 +4,17 @@
         <title>테크M ─ 콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 07 Aug 2022 14:20:20 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Aug 2022 15:22:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[LCK 브리핑] 젠지-T1 PO 2R 직행...DRX, PO 막차 탑승]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=100207</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=100207</guid>
+            <pubDate>Sun, 07 Aug 2022 15:19:56 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100207_116865_1336_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[PWS 통신] 1,2주차 탈락 아픔은 잊어라...광동, 대역전극 펼치며 3주차 우승]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=100206</link>
@@ -110,14 +118,6 @@
             <pubDate>Thu, 04 Aug 2022 08:29:22 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202208/100133_116749_97_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["라그나로크 IP의 확장은 계속된다"...이번엔 '엔딩' 있는 '더 로스트 메모리즈'가 온다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=100124</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=100124</guid>
-            <pubDate>Thu, 04 Aug 2022 08:29:22 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100124_116752_3514_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
