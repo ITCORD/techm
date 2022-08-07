@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 07 Aug 2022 03:30:59 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Aug 2022 04:31:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[11번가-SK렌터가 맞손...출고 지연 없이 테슬라 바로 탄다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=100203</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=100203</guid>
+            <pubDate>Sun, 07 Aug 2022 04:27:49 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100203_116861_2228_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[삼성전자 '2022 삼성 AI 챌린지' 개최…AI로 난제 해결 도전]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=100199</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 05 Aug 2022 09:20:10 GMT</pubDate>
             <content:encoded><![CDATA[김가은 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202208/100183_116832_5440_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[홀로 주가 빠진 LG유플러스 "구독 키워 올해 두자릿 수 이익률 자신"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=100182</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=100182</guid>
-            <pubDate>Fri, 05 Aug 2022 09:20:10 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100182_116831_264_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
