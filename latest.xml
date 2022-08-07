@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 07 Aug 2022 02:01:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Aug 2022 03:30:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성전자 '2022 삼성 AI 챌린지' 개최…AI로 난제 해결 도전]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=100199</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=100199</guid>
+            <pubDate>Sun, 07 Aug 2022 11:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100199_116857_136_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[LG전자 '2022 글로벌장애청소년IT챌린지' 개최]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=100201</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 05 Aug 2022 09:20:10 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202208/100182_116831_264_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[테크M 리포트] 한숨 돌린 롯데쇼핑의 2Q...아픈손가락 이커머스는 '역성장']]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=100179</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=100179</guid>
-            <pubDate>Fri, 05 Aug 2022 07:18:32 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100179_116821_5637_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
