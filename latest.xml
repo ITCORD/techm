@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 07 Aug 2022 23:22:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Aug 2022 01:55:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[면세점에 크루즈, 골프까지…삼성전자 '갤럭시 NFT' 생태계 시동]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=100210</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=100210</guid>
+            <pubDate>Mon, 08 Aug 2022 10:07:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100210_116872_615_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[배그 토크 콘서트] 드라마틱한 우승의 주인공...광동 '아카드' 임광현]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=100208</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 06 Aug 2022 11:25:00 GMT</pubDate>
             <content:encoded><![CDATA[김현기 대표]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202208/100190_116841_2441_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[글로벌] 파운드리 시장 한파 올까...TSMC, 반도체 칩 가격 동결]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=100189</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=100189</guid>
-            <pubDate>Sat, 06 Aug 2022 11:24:00 GMT</pubDate>
-            <content:encoded><![CDATA[김현기 대표]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100189_116840_2326_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
