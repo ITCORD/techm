@@ -4,9 +4,25 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Aug 2022 22:24:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Aug 2022 23:24:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[투자 공들인 NHN, 2Q 영업익 52억원...1년새 74% 빠졌다(상보)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=100252</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=100252</guid>
+            <pubDate>Tue, 09 Aug 2022 08:15:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100252_116934_1438_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[투자에 올인한 NHN, 2Q 영업익 52억…전년比 74% 감소]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=100251</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=100251</guid>
+            <pubDate>Tue, 09 Aug 2022 08:06:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100251_116933_648_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[경기침체 뚫어낸 CJ제일제당, 2Q 매출액 4.6조원...바이오&식품 '방긋']]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=100248</link>
@@ -150,22 +166,6 @@
             <pubDate>Mon, 08 Aug 2022 00:53:00 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202208/100227_116899_5219_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[타다 드라이버 퇴근길에 태운 승객 5400여명…"택시 대란 해소에 기여"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=100226</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=100226</guid>
-            <pubDate>Mon, 08 Aug 2022 00:49:00 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100226_116898_490_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SK쉴더스, 클루커스 손잡고 MS '애저' 클라우드 보안사업 확대]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=100225</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=100225</guid>
-            <pubDate>Mon, 08 Aug 2022 00:44:00 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100225_116897_4344_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

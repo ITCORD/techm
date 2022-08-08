@@ -4,9 +4,17 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Aug 2022 22:24:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Aug 2022 23:24:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[투자 공들인 NHN, 2Q 영업익 52억원...1년새 74% 빠졌다(상보)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=100252</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=100252</guid>
+            <pubDate>Tue, 09 Aug 2022 08:15:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100252_116934_1438_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[KBW 22] 이요한 더 샌드박스 사업개발총괄 "메타버스 다음 흐름은 버티컬 마켓"]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=100239</link>
@@ -110,14 +118,6 @@
             <pubDate>Sun, 07 Aug 2022 11:00:00 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202208/100199_116857_136_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LG전자 '2022 글로벌장애청소년IT챌린지' 개최]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=100201</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=100201</guid>
-            <pubDate>Sun, 07 Aug 2022 10:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100201_116860_1557_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
