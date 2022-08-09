@@ -1,8 +1,123 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN7&amp;view_type=sm</id>
-    <title>테크M ─ 리포트</title>
-    <updated>2022-08-09T13:50:29.569Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.techm.kr/news/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>테크M ─ 리포트</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Tue, 09 Aug 2022 14:24:34 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[글로벌] 트위터 '엎친데 덮친격'... 540만 정보 유출에 일론 머스크의 공개토론 제안]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=100307</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=100307</guid>
+            <pubDate>Tue, 09 Aug 2022 14:24:19 GMT</pubDate>
+            <content:encoded><![CDATA[김현기 대표]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100307_117003_32_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[글로벌] 중국 눈치 보는 애플, 대만 납품업체에 '중국산' 표기 요구]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=100306</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=100306</guid>
+            <pubDate>Tue, 09 Aug 2022 14:24:19 GMT</pubDate>
+            <content:encoded><![CDATA[김현기 대표]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100306_117002_145_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[글로벌] 로봇 청소기에 진심인 아마존, '아이로봇' 2조원에 인수]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=100304</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=100304</guid>
+            <pubDate>Tue, 09 Aug 2022 14:24:19 GMT</pubDate>
+            <content:encoded><![CDATA[김현기 대표]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100304_117000_5948_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[글로벌] 英 아마존 창고 직원들 파업 돌입..."고물가에 임금 상승 필요"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=100190</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=100190</guid>
+            <pubDate>Sat, 06 Aug 2022 11:25:00 GMT</pubDate>
+            <content:encoded><![CDATA[김현기 대표]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100190_116841_2441_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[글로벌] 파운드리 시장 한파 올까...TSMC, 반도체 칩 가격 동결]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=100189</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=100189</guid>
+            <pubDate>Sat, 06 Aug 2022 11:24:00 GMT</pubDate>
+            <content:encoded><![CDATA[김현기 대표]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100189_116840_2326_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[글로벌] 美中 반도체 갈등 '고조'… 美, 반도체 소프트웨어도 수출 통제할까]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=100187</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=100187</guid>
+            <pubDate>Sat, 06 Aug 2022 11:22:00 GMT</pubDate>
+            <content:encoded><![CDATA[김현기 대표]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100187_116839_2152_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[글로벌] 한국 오기 전 대만 방문한 펠로시, TSMC 회장 만난다..."반도체 지원법 논의"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=100130</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=100130</guid>
+            <pubDate>Tue, 09 Aug 2022 14:24:19 GMT</pubDate>
+            <content:encoded><![CDATA[김현기 대표]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100130_116740_1948_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[글로벌] 일론 머스크 "테슬라 인근에 개인 공항 만든다"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=100128</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=100128</guid>
+            <pubDate>Tue, 09 Aug 2022 14:24:19 GMT</pubDate>
+            <content:encoded><![CDATA[김현기 대표]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100128_116738_1832_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[글로벌] 제임스 웹이 포착한 은하 이미지 공개...더 선명해진 '수레바퀴 은하']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=100127</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=100127</guid>
+            <pubDate>Tue, 09 Aug 2022 14:24:19 GMT</pubDate>
+            <content:encoded><![CDATA[김현기 대표]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100127_116737_1720_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[글로벌] 미국, 中 반도체 압박 수위 높인다…수출 제한 기준 강화]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=100035</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=100035</guid>
+            <pubDate>Tue, 09 Aug 2022 14:24:19 GMT</pubDate>
+            <content:encoded><![CDATA[김현기 대표]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100035_116615_121_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[글로벌] 중국 로켓 잔해, 필리핀 바다에 추락…"국제적 논의 필요하다"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=100034</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=100034</guid>
+            <pubDate>Tue, 09 Aug 2022 14:24:19 GMT</pubDate>
+            <content:encoded><![CDATA[김현기 대표]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100034_116614_83_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[글로벌] 전기차 진출한 '대륙의 실수' 샤오미…자율주행차 개발 박차]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=100033</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=100033</guid>
+            <pubDate>Tue, 09 Aug 2022 14:24:19 GMT</pubDate>
+            <content:encoded><![CDATA[김현기 대표]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100033_116613_432_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[글로벌] 화성 시료 2033년 지구로 배달… NASA, 배송 계획안 발표]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=99934</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=99934</guid>
+            <pubDate>Sat, 30 Jul 2022 07:30:00 GMT</pubDate>
+            <content:encoded><![CDATA[김현기 대표]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202207/99934_116420_4046_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[글로벌] 람보르기니 베테랑, 애플 합류…애플카 개발 속도 낼까]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=99935</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=99935</guid>
+            <pubDate>Sat, 30 Jul 2022 07:30:00 GMT</pubDate>
+            <content:encoded><![CDATA[김현기 대표]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202207/99935_116421_4336_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>

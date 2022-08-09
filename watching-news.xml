@@ -1,8 +1,123 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN10&amp;view_type=sm</id>
-    <title>테크M ─ 보는 뉴스</title>
-    <updated>2022-08-09T13:50:29.568Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.techm.kr/news/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>테크M ─ 보는 뉴스</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Tue, 09 Aug 2022 14:24:34 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[배그 토크 콘서트] 드라마틱한 우승의 주인공...광동 '아카드' 임광현]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=100208</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=100208</guid>
+            <pubDate>Tue, 09 Aug 2022 14:24:34 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100208_116871_3145_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[게임코인TV] 투자는 역시 위메이드다?...FTX의 빗썸 인수설에 위믹스 주목 이유(하)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=99959</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=99959</guid>
+            <pubDate>Mon, 01 Aug 2022 01:16:00 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202208/99959_116481_160_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[게임코인TV] 빗썸이 인수되면 좋은점 vs. 안좋은점...FTX의 빗썸 인수설에 위믹스 주목?(중)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=99942</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=99942</guid>
+            <pubDate>Tue, 09 Aug 2022 14:24:34 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202207/99942_116441_229_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[게임코인TV] 블룸버그발, FTX의 빗썸 인수 소식이 가지는 의미(상)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=99938</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=99938</guid>
+            <pubDate>Tue, 09 Aug 2022 14:24:34 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202207/99938_116434_2128_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[게임코인TV] 디파이 서비스에 집중하는 네오핀...컴투스와 네오위즈는 뭐하고 있나(하)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=99680</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=99680</guid>
+            <pubDate>Tue, 09 Aug 2022 14:24:34 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202207/99680_116016_2759_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[게임코인TV] 'C2X'가 주목해야 할 '서머너즈워 크로니클'...컴투스와 네오위즈는 뭐하고 있나(중)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=99648</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=99648</guid>
+            <pubDate>Fri, 22 Jul 2022 11:48:00 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202207/99648_115943_216_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[게임코인TV] 홈페이지 관리 시급한 C2X...컴투스와 네오위즈는 뭐하고 있나(상)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=99624</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=99624</guid>
+            <pubDate>Tue, 09 Aug 2022 14:24:34 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202207/99624_115911_114_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[게임코인TV] 유럽 법인을 세운 이유는?...잠잠한' 판교의 희망' 보라는 도대체 뭐하고 있나(하)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=99425</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=99425</guid>
+            <pubDate>Tue, 09 Aug 2022 14:24:34 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202207/99425_115591_3652_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[카드뉴스] 완벽한 몰입감, 삼성 게이밍 모니터 '오디세이 네오 G8']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=99456</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=99456</guid>
+            <pubDate>Tue, 09 Aug 2022 14:24:34 GMT</pubDate>
+            <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202207/99456_115628_3244_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[게임코인TV] 보라의 키를 쥔 게임은 아키월드?...잠잠한 '판교의 희망' 보라, 도대체 뭐하고 있나(중)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=99424</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=99424</guid>
+            <pubDate>Tue, 09 Aug 2022 14:24:34 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202207/99424_115590_3213_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[게임코인TV] 소통의 부재?...잠잠한 '판교의 희망' 보라, 도대체 뭐하고 있나(상)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=99405</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=99405</guid>
+            <pubDate>Tue, 09 Aug 2022 14:24:34 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202207/99405_115550_5251_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[카드뉴스] 올림플래닛, 메타버스 '사비나미술관' 열었다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=99396</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=99396</guid>
+            <pubDate>Tue, 09 Aug 2022 14:24:34 GMT</pubDate>
+            <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202207/99396_115525_644_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[카드뉴스] 패션플랫폼 무신사, VR 룸 오픈…3D로 무신사해!]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=99362</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=99362</guid>
+            <pubDate>Tue, 09 Aug 2022 14:24:34 GMT</pubDate>
+            <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202207/99362_115436_322_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[카드뉴스] 어메이즈VR, SM엔터와 손잡았다... "가상현실에서 에스파 콘서트를?"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=99309</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=99309</guid>
+            <pubDate>Tue, 09 Aug 2022 14:24:34 GMT</pubDate>
+            <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202207/99309_115339_145_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>

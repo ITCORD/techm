@@ -1,8 +1,123 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN2&amp;view_type=sm</id>
-    <title>테크M ─ 인프라</title>
-    <updated>2022-08-09T13:50:29.570Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.techm.kr/news/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>테크M ─ 인프라</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Tue, 09 Aug 2022 14:24:34 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방통위, 구글 갑질에 '제동' 건다...앱마켓 사업자 사실조사 '착수']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=100301</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=100301</guid>
+            <pubDate>Tue, 09 Aug 2022 14:22:16 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100301_116996_574_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SKT "이프랜드에 포인트 도입한다...SK코인과 연계 예정"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=100297</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=100297</guid>
+            <pubDate>Tue, 09 Aug 2022 14:22:16 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100297_116991_3649_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SKT "5G 가입자 50% 육박...신규 요금제 출시로 가입자 저변 확대 기대"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=100295</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=100295</guid>
+            <pubDate>Tue, 09 Aug 2022 14:22:16 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100295_116988_2824_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이익률 20%·거래액 1조...네이버웹툰 "글로벌 수익화 이제 시작"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=100282</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=100282</guid>
+            <pubDate>Tue, 09 Aug 2022 14:22:16 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100282_117009_39_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[블록체인 연구에 진심 담은 카카오...'클레이튼' 연구센터 세운다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=100287</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=100287</guid>
+            <pubDate>Tue, 09 Aug 2022 14:22:16 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100287_116978_4620_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[남궁훈의 카카오 '인앱결제' 대응 총력...무료 프로모션 시작]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=100267</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=100267</guid>
+            <pubDate>Tue, 09 Aug 2022 14:22:16 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100267_116953_5126_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[KBW 22] 블록체인 게임 선구자 얏 시우 애니모카 회장 "웹3.0 시대 아시아가 주도한다"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=100285</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=100285</guid>
+            <pubDate>Tue, 09 Aug 2022 14:22:16 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100285_117010_340_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이글루코퍼레이션, 자율주행 보안 기술력 확보…위협 탐지 관련 특허 취득]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=100272</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=100272</guid>
+            <pubDate>Tue, 09 Aug 2022 11:31:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100272_116958_2940_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[티맥스소프트, '하이퍼프레임'으로 BNK경남은행 오픈소스 활용 지원]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=100270</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=100270</guid>
+            <pubDate>Tue, 09 Aug 2022 11:26:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100270_116956_2621_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[LG전자, 사업장 대기오염물질 관리 체계 강화…자체 측정 능력 확보]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=100264</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=100264</guid>
+            <pubDate>Tue, 09 Aug 2022 10:29:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100264_116948_2655_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['오피스 플랫폼' 패스트파이브, 상반기 매출 548억...전년比 58%↑]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=100259</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=100259</guid>
+            <pubDate>Tue, 09 Aug 2022 10:06:00 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100259_116943_321_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["충성 이용자 300만" 모바일 금융 강자 NHN 페이코...2Q 거래액 36% 껑충]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=100257</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=100257</guid>
+            <pubDate>Tue, 09 Aug 2022 09:20:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100257_116941_199_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["주주 환원 총력전" NHN, 748억원 규모 자사주 소각]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=100255</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=100255</guid>
+            <pubDate>Tue, 09 Aug 2022 08:59:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100255_116938_5856_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ESG 경영 띄운 가구 1위 한샘...지속가능경영보고서 발간]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=100253</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=100253</guid>
+            <pubDate>Tue, 09 Aug 2022 08:50:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100253_116935_4955_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
