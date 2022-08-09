@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Aug 2022 22:23:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Aug 2022 23:23:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[LCK 브리핑] 끝날 때까지 끝난 게 아니다...PO 구도 결정될 9주차]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=100278</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=100278</guid>
+            <pubDate>Wed, 10 Aug 2022 07:30:00 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100278_116966_4236_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[후지필름코리아, 초록우산어린이재단과 취약계층 아동 후원 '맞손']]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=100313</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 09 Aug 2022 14:21:46 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202208/100295_116988_2824_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[넥슨, 2Q 매출 8175억원...상반기 누적 기준 역대 최고치]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=100289</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=100289</guid>
-            <pubDate>Tue, 09 Aug 2022 14:21:46 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100289_116981_1336_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
