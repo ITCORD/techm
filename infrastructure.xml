@@ -4,9 +4,25 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Aug 2022 07:21:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Aug 2022 08:27:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[네이버 미래 역량 '판교'로 집결...웹툰·스노우·위버스 '한지붕' 살림]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=100355</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=100355</guid>
+            <pubDate>Wed, 10 Aug 2022 08:25:07 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100355_117073_4224_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[통신3사 5G 가입자 비중 50% 넘었다...중간 요금제로 5G 경쟁 '2라운드']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=100353</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=100353</guid>
+            <pubDate>Wed, 10 Aug 2022 08:25:07 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100353_117069_136_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[기업 오픈소스 SW 사용 늘어나는데, 보안은 낙제점?…"전담조직 없어 개발자가 직접 대응"]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=100351</link>
@@ -102,22 +118,6 @@
             <pubDate>Wed, 10 Aug 2022 10:25:00 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202208/100319_117024_816_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[KISA, 국내 클라우드 기업 11곳과 침해사고 대응 모의훈련 실시]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=100322</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=100322</guid>
-            <pubDate>Wed, 10 Aug 2022 10:24:00 GMT</pubDate>
-            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100322_117026_1634_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[KT, 오픈랜 연동 규격 국제 표준 획득]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=100317</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=100317</guid>
-            <pubDate>Wed, 10 Aug 2022 09:59:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100317_117021_5923_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
