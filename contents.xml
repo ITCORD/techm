@@ -4,9 +4,17 @@
         <title>테크M ─ 콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Aug 2022 23:23:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Aug 2022 01:47:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[크래프톤 개발 스튜디오 2곳, 세계 3대 게임쇼 '게임스컴' 간다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=100318</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=100318</guid>
+            <pubDate>Wed, 10 Aug 2022 10:07:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100318_117023_619_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[LCK 브리핑] 끝날 때까지 끝난 게 아니다...PO 구도 결정될 9주차]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=100278</link>
@@ -110,14 +118,6 @@
             <pubDate>Tue, 09 Aug 2022 11:38:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202208/100274_117012_548_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["확률형아이템 NO" 라인게임즈 '대항해시대 오리진' 8월23일 출항]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=100271</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=100271</guid>
-            <pubDate>Tue, 09 Aug 2022 11:26:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100271_116957_2645_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
