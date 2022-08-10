@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Aug 2022 11:19:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Aug 2022 12:41:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[테크M 이슈] '오딘' 김재영, 라이온하트 IPO 앞서 카카오게임즈에 미래를 걸다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=100364</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=100364</guid>
+            <pubDate>Wed, 10 Aug 2022 12:37:54 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100364_117099_4255_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[카카오 노조 크루유니언, 카카오모빌리티 매각 중단 재차 촉구]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=100358</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 10 Aug 2022 05:18:34 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202208/100338_117082_3417_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[컴투스 '서머너즈 워: 크로니클', 유명 크리에이터와 이색 콘텐츠 선보인다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=100337</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=100337</guid>
-            <pubDate>Wed, 10 Aug 2022 05:18:34 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100337_117047_5138_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
