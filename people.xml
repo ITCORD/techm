@@ -4,9 +4,17 @@
         <title>테크M ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Aug 2022 01:47:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Aug 2022 03:11:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성전자 노사, 창사 53년 만에 첫 임금협약 체결]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=100331</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=100331</guid>
+            <pubDate>Wed, 10 Aug 2022 11:45:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100331_117038_448_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[후지필름코리아, 초록우산어린이재단과 취약계층 아동 후원 '맞손']]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=100313</link>
@@ -19,7 +27,7 @@
             <title><![CDATA[[부고] 정지영 현대백화점 영업본부장 부사장 부친상]]></title>
             <link>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN5&amp;view_type=sm</link>
             <guid>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN5&amp;view_type=sm</guid>
-            <pubDate>Wed, 10 Aug 2022 01:46:37 GMT</pubDate>
+            <pubDate>Wed, 10 Aug 2022 03:10:14 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
         </item>
         <item>
@@ -109,14 +117,6 @@
             <pubDate>Tue, 09 Aug 2022 14:23:51 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202207/99688_116027_049_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[e스포츠人] DFI 배성빈 "지지해준 팬들께 1위 선물해 기쁘다"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=99679</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=99679</guid>
-            <pubDate>Tue, 09 Aug 2022 14:23:51 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202207/99679_116015_1258_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
