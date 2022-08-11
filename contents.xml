@@ -4,9 +4,25 @@
         <title>테크M ─ 콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Aug 2022 01:50:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2022 03:23:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[테크M 이슈] '웹 3.0' 총력전 선언한 넥슨, NFT 판매 수익 포기...왜?]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=100396</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=100396</guid>
+            <pubDate>Thu, 11 Aug 2022 00:16:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100396_117143_1558_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[넥슨, 프로젝트 MOD에 블록체인 탑재...'메이플스토리 월드'로 출시한다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=100392</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=100392</guid>
+            <pubDate>Thu, 11 Aug 2022 00:10:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100392_117140_420_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['어닝서프라이즈' 네오위즈, 2Q 순익 208억...1년새 150% '껑충']]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=100382</link>
@@ -102,22 +118,6 @@
             <pubDate>Tue, 09 Aug 2022 14:22:00 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202208/100303_116999_4431_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['신작과 소통이 답' 상반기 실적 경신한 넥슨...하반기 매출 기대감 'UP'(종합)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=100302</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=100302</guid>
-            <pubDate>Tue, 09 Aug 2022 14:22:00 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100302_117007_222_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[넥슨 '카운터사이드' 서비스 2.5주년 '쿨 페스타' 1차 업데이트]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=100300</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=100300</guid>
-            <pubDate>Tue, 09 Aug 2022 14:22:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100300_116995_5350_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
