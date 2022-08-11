@@ -4,9 +4,17 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Aug 2022 07:22:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2022 08:27:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[5대 가상자산 거래소, 이달부터 상장 심사 공동 가이드라인 시범운영]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=100425</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=100425</guid>
+            <pubDate>Thu, 11 Aug 2022 08:25:19 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100425_117176_841_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[가상자산 적극 대응 시사한 금융당국 "산업 발전·투자자 보호 균형 맞춘 제도 마련"]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=100419</link>
@@ -110,14 +118,6 @@
             <pubDate>Thu, 11 Aug 2022 11:46:00 GMT</pubDate>
             <content:encoded><![CDATA[김가은 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202208/100390_117138_395_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["축구보면서 채팅도" 삼성전자, AWS 기반 실시간 TV 채팅 서비스 구축]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=100389</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=100389</guid>
-            <pubDate>Thu, 11 Aug 2022 11:23:00 GMT</pubDate>
-            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100389_117136_2019_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

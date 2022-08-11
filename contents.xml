@@ -4,9 +4,33 @@
         <title>테크M ─ 콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Aug 2022 07:22:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2022 08:27:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[크래프톤 "배틀그라운드 모바일 인도 서비스 재개 위해 노력중"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=100424</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=100424</guid>
+            <pubDate>Thu, 11 Aug 2022 08:24:38 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100424_117178_1638_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['종횡무진' 메이플 스토리...카트라이더 이어 바람의 나라와도 '콜라보']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=100412</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=100412</guid>
+            <pubDate>Thu, 11 Aug 2022 08:24:38 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100412_117170_1547_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김준우 크로스앵글 "크립토윈터는 겨울방학...공부하고 고민해야할 시기"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=100421</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=100421</guid>
+            <pubDate>Thu, 11 Aug 2022 08:24:38 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100421_117171_1914_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[네오위즈 'P의 거짓' 게임스컴 출품...글로벌 콘솔 시장 '공략']]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=100401</link>
@@ -16,7 +40,7 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202208/100401_117148_832_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[테크M 이슈] '웹 3.0' 총력전 선언한 넥슨, NFT 판매 수익 포기...왜?]]></title>
+            <title><![CDATA[[테크M 이슈] '웹 3.0' 총력전 선언한 넥슨, NFT 판매 수익 배제...왜?]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=100396</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=100396</guid>
             <pubDate>Thu, 11 Aug 2022 00:16:00 GMT</pubDate>
@@ -94,30 +118,6 @@
             <pubDate>Wed, 10 Aug 2022 10:07:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202208/100318_117023_619_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[LCK 브리핑] 끝날 때까지 끝난 게 아니다...PO 구도 결정될 9주차]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=100278</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=100278</guid>
-            <pubDate>Wed, 10 Aug 2022 07:30:00 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100278_116966_4236_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[KBW 22] 표철민 체인파트너스 "체인저 서비스로 모든 토큰 교환하게 될 것"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=100311</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=100311</guid>
-            <pubDate>Tue, 09 Aug 2022 14:22:00 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100311_117016_1438_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[KBW 22] 창펑 자오 바이낸스 "글로벌 유동성 허용이 가장 좋은 소비자 보호"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=100305</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=100305</guid>
-            <pubDate>Tue, 09 Aug 2022 14:22:00 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100305_117006_154_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
