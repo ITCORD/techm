@@ -4,9 +4,17 @@
         <title>테크M ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Aug 2022 07:21:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Aug 2022 08:28:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김범수 카카오 창업주, 집중 호우 피해 복구 위해 10억 기부]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=100470</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=100470</guid>
+            <pubDate>Fri, 12 Aug 2022 08:27:50 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100470_117291_641_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[테크M 리포트] '멸공 논란' 정용진의 이마트...동생 정유경에 2Q 판정패, 왜?]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=100461</link>
@@ -75,7 +83,7 @@
             <title><![CDATA[[부고] 정지영 현대백화점 영업본부장 부사장 부친상]]></title>
             <link>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN5&amp;view_type=sm</link>
             <guid>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN5&amp;view_type=sm</guid>
-            <pubDate>Fri, 12 Aug 2022 07:20:49 GMT</pubDate>
+            <pubDate>Fri, 12 Aug 2022 08:27:50 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
         </item>
         <item>
@@ -109,14 +117,6 @@
             <pubDate>Thu, 04 Aug 2022 09:04:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202208/100095_116703_435_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코빗, 신임 CTO로 이정우 기술연구부서 실장 선임]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=99973</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=99973</guid>
-            <pubDate>Mon, 01 Aug 2022 11:21:00 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202208/99973_116501_2632_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
