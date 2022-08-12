@@ -4,9 +4,17 @@
         <title>테크M ─ 이노베이션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Aug 2022 01:53:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Aug 2022 03:39:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[프리랜서 마켓 '크몽', AWS와 서버 개발자 교육 무료 웨비나 진행]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=100446</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=100446</guid>
+            <pubDate>Fri, 12 Aug 2022 11:30:00 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100446_117226_3019_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[주정차 단속 알림 앱 '휘슬'에 친구 초대하면 네이버페이 포인트 준다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=100439</link>
@@ -110,14 +118,6 @@
             <pubDate>Mon, 08 Aug 2022 00:49:00 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202208/100226_116898_490_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[KBW 22] KBW 만든 전선익 팩트블록 "웹 3.0 향해 간다"...KBW NFT 발행 예고]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=100222</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=100222</guid>
-            <pubDate>Mon, 08 Aug 2022 11:50:00 GMT</pubDate>
-            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100222_116894_4932_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
