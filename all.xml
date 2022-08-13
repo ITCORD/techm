@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 13 Aug 2022 16:27:54 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Aug 2022 17:22:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[게임코인TV] 전세계 블록체인 업계가 주목한 KBW, 현장에서 만난 위믹스와 보라(상) (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=100493</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=100493</guid>
+            <pubDate>Sun, 14 Aug 2022 01:48:00 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100493_117332_4645_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2022 LCK 서머 결승 전야제...LCK 팬 페스타 강릉 뜨겁게 달군다 (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=100492</link>
@@ -159,18 +167,10 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202208/100469_117289_256_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[가봤다] 가로수길 '핫플' 예약...나이스웨더 마켓에 KT Y 떴다 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=100468</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=100468</guid>
-            <pubDate>Fri, 12 Aug 2022 08:25:22 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100468_117298_4744_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[2022 LCK 서머 결승 전야제...LCK 팬 페스타 강릉 뜨겁게 달군다 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=100492</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=100492</guid>
-            <pubDate>Sat, 13 Aug 2022 16:25:54 GMT</pubDate>
+            <pubDate>Sat, 13 Aug 2022 16:25:35 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202208/100492_117330_5638_v150.jpg" length="0" type="image/jpg"/>
         </item>
@@ -618,7 +618,7 @@
             <title><![CDATA[[e스포츠人] '닐'의 간절한 바람 "문호준 리그로 돌아오길...꼭 붙어보고 싶다" (테크M ─ 피플)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=100490</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=100490</guid>
-            <pubDate>Sat, 13 Aug 2022 16:26:59 GMT</pubDate>
+            <pubDate>Sat, 13 Aug 2022 16:25:35 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202208/100490_117329_2159_v150.jpg" length="0" type="image/jpg"/>
         </item>
@@ -705,7 +705,7 @@
             <title><![CDATA[[부고] 정지영 현대백화점 영업본부장 부사장 부친상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Sat, 13 Aug 2022 16:26:59 GMT</pubDate>
+            <pubDate>Sat, 13 Aug 2022 17:21:11 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
         </item>
         <item>
@@ -949,6 +949,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202208/100128_116738_1832_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[게임코인TV] 전세계 블록체인 업계가 주목한 KBW, 현장에서 만난 위믹스와 보라(상) (테크M ─ 보는 뉴스)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=100493</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=100493</guid>
+            <pubDate>Sun, 14 Aug 2022 01:48:00 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100493_117332_4645_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[배그 토크 콘서트] 드라마틱한 우승의 주인공...광동 '아카드' 임광현 (테크M ─ 보는 뉴스)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=100208</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=100208</guid>
@@ -1051,14 +1059,6 @@
             <pubDate>Tue, 09 Aug 2022 14:24:34 GMT</pubDate>
             <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202207/99362_115436_322_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 어메이즈VR, SM엔터와 손잡았다... "가상현실에서 에스파 콘서트를?" (테크M ─ 보는 뉴스)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=99309</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=99309</guid>
-            <pubDate>Tue, 09 Aug 2022 14:24:34 GMT</pubDate>
-            <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202207/99309_115339_145_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
