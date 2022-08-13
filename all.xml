@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 13 Aug 2022 21:20:03 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Aug 2022 22:22:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[노래와 춤 좋아하고, 환경보호에 관심많은 그 아이...알고 보니 가상인간이었다고? (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=100455</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=100455</guid>
+            <pubDate>Sun, 14 Aug 2022 07:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100455_117239_504_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[게임코인TV] 전세계 블록체인 업계가 주목한 KBW, 현장에서 만난 위믹스와 보라(상) (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=100493</link>
@@ -157,14 +165,6 @@
             <pubDate>Fri, 12 Aug 2022 08:25:22 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202208/100470_117291_641_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2분기 글로벌 PC 출하량 11% '뚝'…2013년 이후 가장 큰 감소폭 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=100469</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=100469</guid>
-            <pubDate>Fri, 12 Aug 2022 08:25:22 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100469_117289_256_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022 LCK 서머 결승 전야제...LCK 팬 페스타 강릉 뜨겁게 달군다 (테크M ─ 콘텐츠)]]></title>
@@ -391,6 +391,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202208/100419_117168_733_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[노래와 춤 좋아하고, 환경보호에 관심많은 그 아이...알고 보니 가상인간이었다고? (테크M ─ 이노베이션)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=100455</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=100455</guid>
+            <pubDate>Sun, 14 Aug 2022 07:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100455_117239_504_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['메타버스? 유니티에 물어봐'...게임 넘어 통신-자동차까지 '유니티 엔진'이 만든 혁신 (테크M ─ 이노베이션)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=100487</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=100487</guid>
@@ -493,14 +501,6 @@
             <pubDate>Tue, 09 Aug 2022 09:23:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202208/100258_116942_2320_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[테크M 이슈] "맞춤형 분사 통했다" NHN, 기술사업 방긋...1년새 매출 34% '껑충' (테크M ─ 이노베이션)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=100256</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=100256</guid>
-            <pubDate>Tue, 09 Aug 2022 09:10:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100256_116939_1040_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[크립토 주간 브리핑] 인플레 둔화 조짐에 우상향한 비트코인...3200만원 돌파 (테크M ─ 인베스트먼트)]]></title>
@@ -705,7 +705,7 @@
             <title><![CDATA[[부고] 정지영 현대백화점 영업본부장 부사장 부친상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Sat, 13 Aug 2022 21:19:16 GMT</pubDate>
+            <pubDate>Sat, 13 Aug 2022 22:21:19 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
         </item>
         <item>
