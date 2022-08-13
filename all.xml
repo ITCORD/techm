@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 13 Aug 2022 14:21:08 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Aug 2022 15:23:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -167,6 +167,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202208/100463_117300_493_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[카트 통신] '닐' 리우창헝, 조1위로 16강행...'코리아 드림'이 시작됐다 (테크M ─ 콘텐츠)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=100489</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=100489</guid>
+            <pubDate>Sat, 13 Aug 2022 15:20:15 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100489_117326_838_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[BTS 진, 메이플스토리 기획팀 입사...웹 예능 '출근용사 김석진' 나온다 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=100485</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=100485</guid>
@@ -269,14 +277,6 @@
             <pubDate>Thu, 11 Aug 2022 08:24:23 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202208/100412_117170_1547_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김준우 크로스앵글 "크립토윈터는 겨울방학...공부하고 고민해야할 시기" (테크M ─ 콘텐츠)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=100421</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=100421</guid>
-            <pubDate>Thu, 11 Aug 2022 08:24:23 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100421_117171_1914_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[5G 중간 요금제 경쟁 본격화, SKT '선공'에 KT '반격'...LGU+ 대응에 '관심' (테크M ─ 인프라)]]></title>
@@ -697,7 +697,7 @@
             <title><![CDATA[[부고] 정지영 현대백화점 영업본부장 부사장 부친상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Sat, 13 Aug 2022 14:20:16 GMT</pubDate>
+            <pubDate>Sat, 13 Aug 2022 15:22:21 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
         </item>
         <item>
