@@ -4,9 +4,17 @@
         <title>테크M ─ 콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 13 Aug 2022 15:23:19 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Aug 2022 16:27:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022 LCK 서머 결승 전야제...LCK 팬 페스타 강릉 뜨겁게 달군다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=100492</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=100492</guid>
+            <pubDate>Sat, 13 Aug 2022 16:25:54 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100492_117330_5638_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카트 통신] '닐' 리우창헝, 조1위로 16강행...'코리아 드림'이 시작됐다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=100489</link>
@@ -110,14 +118,6 @@
             <pubDate>Thu, 11 Aug 2022 08:24:38 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202208/100424_117178_1638_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['종횡무진' 메이플 스토리...카트라이더 이어 바람의 나라와도 '콜라보']]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=100412</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=100412</guid>
-            <pubDate>Thu, 11 Aug 2022 08:24:38 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100412_117170_1547_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
