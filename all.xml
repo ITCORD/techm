@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 13 Aug 2022 03:24:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Aug 2022 04:30:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[부고] 박민제(위메이드 PR실 이사)씨 부친상 (테크M ─ 전체기사)]]></title>
+            <link>https://ITCORD.github.io/techm/all.xml</link>
+            <guid>https://ITCORD.github.io/techm/all.xml</guid>
+            <pubDate>Sat, 13 Aug 2022 00:27:00 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[크립토 주간 브리핑] 인플레 둔화 조짐에 우상향한 비트코인...3200만원 돌파 (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=100482</link>
@@ -158,14 +165,6 @@
             <pubDate>Fri, 12 Aug 2022 06:25:56 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202208/100461_117302_5240_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코웨이, 에어클린 항균필터 '화학물질저감 우수제품' 선정 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=100459</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=100459</guid>
-            <pubDate>Fri, 12 Aug 2022 06:25:56 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100459_117251_5136_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[같이봐영] '나는 그루트다'·'모범가족'·'퍼스트레이디'...연휴 '순삭' 라인업 (테크M ─ 콘텐츠)]]></title>
@@ -616,6 +615,13 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202208/100370_117108_89_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[부고] 박민제(위메이드 PR실 이사)씨 부친상 (테크M ─ 피플)]]></title>
+            <link>https://ITCORD.github.io/techm/all.xml</link>
+            <guid>https://ITCORD.github.io/techm/all.xml</guid>
+            <pubDate>Sat, 13 Aug 2022 00:27:00 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[김범수 카카오 창업주, 집중 호우 피해 복구 위해 10억 기부 (테크M ─ 피플)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=100470</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=100470</guid>
@@ -691,7 +697,7 @@
             <title><![CDATA[[부고] 정지영 현대백화점 영업본부장 부사장 부친상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Sat, 13 Aug 2022 03:24:02 GMT</pubDate>
+            <pubDate>Sat, 13 Aug 2022 04:29:56 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
         </item>
         <item>
@@ -717,14 +723,6 @@
             <pubDate>Tue, 09 Aug 2022 14:23:51 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202208/100140_116767_4247_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[위메프, 애플 본사 출신 이진호 CTO 영입 (테크M ─ 피플)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=100095</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=100095</guid>
-            <pubDate>Thu, 04 Aug 2022 09:04:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100095_116703_435_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[소라픽] 쿠팡서 팝콘-티몬서 불멍 조명...여기에 웨이브 있으면 '홈캉스' 완벽하네 (테크M ─ 라이프)]]></title>

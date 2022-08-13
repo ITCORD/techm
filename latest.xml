@@ -4,9 +4,16 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 13 Aug 2022 03:24:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Aug 2022 04:30:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[부고] 박민제(위메이드 PR실 이사)씨 부친상]]></title>
+            <link>https://www.techm.kr/news/articleList.html</link>
+            <guid>https://www.techm.kr/news/articleList.html</guid>
+            <pubDate>Sat, 13 Aug 2022 00:27:00 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[크립토 주간 브리핑] 인플레 둔화 조짐에 우상향한 비트코인...3200만원 돌파]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=100482</link>
@@ -158,14 +165,6 @@
             <pubDate>Fri, 12 Aug 2022 06:25:56 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202208/100461_117302_5240_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코웨이, 에어클린 항균필터 '화학물질저감 우수제품' 선정]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=100459</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=100459</guid>
-            <pubDate>Fri, 12 Aug 2022 06:25:56 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100459_117251_5136_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
