@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 14 Aug 2022 14:21:38 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Aug 2022 15:23:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[게임코인TV] 전세계 블록체인 업계가 주목한 KBW 현장의 클레이튼과 송재경 대표(중) (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=100502</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=100502</guid>
+            <pubDate>Sun, 14 Aug 2022 15:20:15 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100502_117346_4140_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[e스포츠人] 기블리e스포츠 '규민' 김규민의 넘치는 자신감 (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=100501</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=100501</guid>
+            <pubDate>Sun, 14 Aug 2022 15:20:15 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100501_117345_1943_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[PWS 통신] 1점차 아슬아슬한 승부...4주차 우승팀은 기블리 (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=100500</link>
@@ -151,26 +167,10 @@
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[크립토 주간 브리핑] 인플레 둔화 조짐에 우상향한 비트코인...3200만원 돌파 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=100482</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=100482</guid>
-            <pubDate>Sat, 13 Aug 2022 10:47:00 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100482_117306_4320_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[같이봐영] '나는 그루트다'·'모범가족'·'퍼스트레이디'...연휴 '순삭' 라인업 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=100465</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=100465</guid>
-            <pubDate>Sat, 13 Aug 2022 10:15:00 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100465_117263_5916_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[PWS 통신] 1점차 아슬아슬한 승부...4주차 우승팀은 기블리 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=100500</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=100500</guid>
-            <pubDate>Sun, 14 Aug 2022 14:18:49 GMT</pubDate>
+            <pubDate>Sun, 14 Aug 2022 14:18:32 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202208/100500_117342_5321_v150.jpg" length="0" type="image/jpg"/>
         </item>
@@ -615,6 +615,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202208/100399_117191_4859_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[e스포츠人] 기블리e스포츠 '규민' 김규민의 넘치는 자신감 (테크M ─ 피플)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=100501</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=100501</guid>
+            <pubDate>Sun, 14 Aug 2022 15:22:29 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100501_117345_1943_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[LG전자, 광복절 맞아 독립유공자 후손에 '디오스 식기세척기' 기부 (테크M ─ 피플)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=100495</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=100495</guid>
@@ -716,13 +724,6 @@
             <pubDate>Tue, 09 Aug 2022 14:21:46 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202208/100313_117018_1224_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[부고] 정지영 현대백화점 영업본부장 부사장 부친상 (테크M ─ 피플)]]></title>
-            <link>https://ITCORD.github.io/techm/all.xml</link>
-            <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Sun, 14 Aug 2022 14:20:48 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[소라픽] 쿠팡서 팝콘-티몬서 불멍 조명...여기에 웨이브 있으면 '홈캉스' 완벽하네 (테크M ─ 라이프)]]></title>
@@ -949,6 +950,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202208/100128_116738_1832_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[게임코인TV] 전세계 블록체인 업계가 주목한 KBW 현장의 클레이튼과 송재경 대표(중) (테크M ─ 보는 뉴스)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=100502</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=100502</guid>
+            <pubDate>Sun, 14 Aug 2022 15:23:17 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100502_117346_4140_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[게임코인TV] 전세계 블록체인 업계가 주목한 KBW, 현장에서 만난 위믹스와 보라(상) (테크M ─ 보는 뉴스)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=100493</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=100493</guid>
@@ -1051,14 +1060,6 @@
             <pubDate>Tue, 09 Aug 2022 14:24:34 GMT</pubDate>
             <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202207/99396_115525_644_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 패션플랫폼 무신사, VR 룸 오픈…3D로 무신사해! (테크M ─ 보는 뉴스)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=99362</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=99362</guid>
-            <pubDate>Tue, 09 Aug 2022 14:24:34 GMT</pubDate>
-            <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202207/99362_115436_322_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

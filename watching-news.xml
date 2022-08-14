@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 14 Aug 2022 14:21:38 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Aug 2022 15:23:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[게임코인TV] 전세계 블록체인 업계가 주목한 KBW 현장의 클레이튼과 송재경 대표(중)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=100502</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=100502</guid>
+            <pubDate>Sun, 14 Aug 2022 15:23:17 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100502_117346_4140_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[게임코인TV] 전세계 블록체인 업계가 주목한 KBW, 현장에서 만난 위믹스와 보라(상)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=100493</link>
@@ -110,14 +118,6 @@
             <pubDate>Tue, 09 Aug 2022 14:24:34 GMT</pubDate>
             <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202207/99396_115525_644_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 패션플랫폼 무신사, VR 룸 오픈…3D로 무신사해!]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=99362</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=99362</guid>
-            <pubDate>Tue, 09 Aug 2022 14:24:34 GMT</pubDate>
-            <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202207/99362_115436_322_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
