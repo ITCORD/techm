@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 14 Aug 2022 21:20:48 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Aug 2022 22:21:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[가봤다] 삼성 '갤Z플립4·폴드4' 향한 뜨거운 관심…폴더블폰 대중화 '성큼']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=100504</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=100504</guid>
+            <pubDate>Mon, 15 Aug 2022 07:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100504_117350_4647_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[LCK 브리핑] 정규시즌 마무리...부동의 1위 젠지-모래폭풍 일으킨 샌드박스]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=100503</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 13 Aug 2022 06:24:05 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202208/100485_117313_5939_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[5G 중간 요금제 경쟁 본격화, SKT '선공'에 KT '반격'...LGU+ 대응에 '관심']]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=100484</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=100484</guid>
-            <pubDate>Sat, 13 Aug 2022 06:24:05 GMT</pubDate>
-            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100484_117310_4644_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
