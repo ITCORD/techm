@@ -4,9 +4,17 @@
         <title>테크M ─ 콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 14 Aug 2022 15:23:18 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Aug 2022 16:29:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[LCK 브리핑] 정규시즌 마무리...부동의 1위 젠지-모래폭풍 일으킨 샌드박스]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=100503</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=100503</guid>
+            <pubDate>Sun, 14 Aug 2022 16:26:05 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100503_117347_251_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[PWS 통신] 1점차 아슬아슬한 승부...4주차 우승팀은 기블리]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=100500</link>
@@ -110,14 +118,6 @@
             <pubDate>Fri, 12 Aug 2022 09:58:00 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202208/100435_117216_5342_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[엔씨소프트 'TL' 사내 테스트 진행...내년 상반기 출시]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=100434</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=100434</guid>
-            <pubDate>Fri, 12 Aug 2022 09:33:00 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100434_117215_2817_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
