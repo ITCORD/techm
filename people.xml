@@ -4,9 +4,17 @@
         <title>테크M ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Aug 2022 02:07:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Aug 2022 04:18:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우아한형제들, 수해 복구 위해 3억원 기부...김봉진도 1억원 별도 기부]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=100512</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=100512</guid>
+            <pubDate>Mon, 15 Aug 2022 11:24:00 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100512_117372_2423_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[e스포츠人] 기블리e스포츠 '규민' 김규민의 넘치는 자신감]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=100501</link>
@@ -109,14 +117,6 @@
             <pubDate>Wed, 10 Aug 2022 11:45:00 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202208/100331_117038_448_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후지필름코리아, 초록우산어린이재단과 취약계층 아동 후원 '맞손']]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=100313</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=100313</guid>
-            <pubDate>Tue, 09 Aug 2022 14:23:51 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100313_117018_1224_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
