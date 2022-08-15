@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Aug 2022 06:30:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Aug 2022 07:20:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[테크M 이슈] 전기차 시대? 'SAP'에 물어봐...벤츠·아우디부터 현대차까지 모인 사연 (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=100517</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=100517</guid>
+            <pubDate>Mon, 15 Aug 2022 07:18:23 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100517_117406_3328_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['NFT 왜 사는데?' 질문에 대한 답, '테크B 콘퍼런스' 보면 나온다 (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=100516</link>
@@ -158,14 +166,6 @@
             <pubDate>Sun, 14 Aug 2022 11:20:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202208/100497_117339_2014_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LG전자, 광복절 맞아 독립유공자 후손에 '디오스 식기세척기' 기부 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=100495</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=100495</guid>
-            <pubDate>Sun, 14 Aug 2022 10:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100495_117336_4244_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[컴투스 '서머너즈 워: 크로니클', 사전 캐릭터 생성..."15일 단 하루!" (테크M ─ 콘텐츠)]]></title>
@@ -392,6 +392,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202208/100447_117227_3954_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[테크M 이슈] 전기차 시대? 'SAP'에 물어봐...벤츠·아우디부터 현대차까지 모인 사연 (테크M ─ 이노베이션)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=100517</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=100517</guid>
+            <pubDate>Mon, 15 Aug 2022 07:19:15 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100517_117406_3328_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['NFT 왜 사는데?' 질문에 대한 답, '테크B 콘퍼런스' 보면 나온다 (테크M ─ 이노베이션)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=100516</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=100516</guid>
@@ -496,12 +504,12 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202208/100288_116980_5147_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[라이드플럭스, 카카오모빌리티 손잡고 여객·물류 통합 자율주행 서비스 실증 나선다 (테크M ─ 이노베이션)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=100273</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=100273</guid>
-            <pubDate>Tue, 09 Aug 2022 11:37:00 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100273_116960_3630_v150.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[크립토 브리핑] 3200만원대 지켜낸 비트코인, 광복절 맞아 3300만원 돌파 시도 (테크M ─ 인베스트먼트)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=100510</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=100510</guid>
+            <pubDate>Mon, 15 Aug 2022 11:18:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100510_117370_1532_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[크립토 주간 브리핑] 인플레 둔화 조짐에 우상향한 비트코인...3200만원 돌파 (테크M ─ 인베스트먼트)]]></title>
@@ -606,14 +614,6 @@
             <pubDate>Thu, 11 Aug 2022 10:23:19 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202208/100403_117150_3510_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[컴투스 그룹, 코인 손실로 2Q 홀딩스 순손실 300억 (테크M ─ 인베스트먼트)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=100399</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=100399</guid>
-            <pubDate>Thu, 11 Aug 2022 00:33:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100399_117191_4859_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[우아한형제들, 수해 복구 위해 3억원 기부...김봉진도 1억원 별도 기부 (테크M ─ 피플)]]></title>
