@@ -4,9 +4,17 @@
         <title>테크M ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Aug 2022 23:22:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Aug 2022 02:04:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한종희 삼성전자 부회장 스웨덴 방문…'2030 부산엑스포' 유치 협력 요청]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=100538</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=100538</guid>
+            <pubDate>Tue, 16 Aug 2022 10:52:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100538_117436_5155_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[우아한형제들, 수해 복구 위해 3억원 기부...김봉진도 1억원 별도 기부]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=100512</link>
@@ -109,14 +117,6 @@
             <pubDate>Wed, 10 Aug 2022 09:23:08 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202208/100358_117083_3538_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성전자 노사, 창사 53년 만에 첫 임금협약 체결]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=100331</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=100331</guid>
-            <pubDate>Wed, 10 Aug 2022 11:45:00 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100331_117038_448_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
