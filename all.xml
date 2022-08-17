@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Aug 2022 04:21:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Aug 2022 05:43:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[코웨이, 수해 피해 고객 제품 무상 수리 지원 (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=100583</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=100583</guid>
+            <pubDate>Wed, 17 Aug 2022 05:41:20 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100583_117513_361_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[써봤다] 저 아이폰 쓰는 데…이거 사고 싶어요 '갤럭시 Z 폴드4' (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=100582</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 16 Aug 2022 10:22:49 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202208/100564_117482_2146_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[위믹스 스테이크360, 1년 예금보다 90일 예금 수익률이 더 높아진 이유는? (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=100181</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=100181</guid>
-            <pubDate>Tue, 16 Aug 2022 09:17:10 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100181_117413_4117_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[인재 확보에 진심인 코인원, 1년만에 직원수 71.6% 늘었다 (테크M ─ 콘텐츠)]]></title>
@@ -727,6 +727,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202208/100461_117253_1656_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[코웨이, 수해 피해 고객 제품 무상 수리 지원 (테크M ─ 라이프)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=100583</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=100583</guid>
+            <pubDate>Wed, 17 Aug 2022 05:42:58 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100583_117513_361_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[써봤다] 저 아이폰 쓰는 데…이거 사고 싶어요 '갤럭시 Z 폴드4' (테크M ─ 라이프)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=100582</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=100582</guid>
@@ -829,14 +837,6 @@
             <pubDate>Fri, 12 Aug 2022 10:02:00 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202208/100436_117217_025_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[신학기 기획전 준비한 쿠팡...디지털 페어부터 문구류까지 '다양' (테크M ─ 라이프)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=100422</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=100422</guid>
-            <pubDate>Thu, 11 Aug 2022 08:24:23 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100422_117173_3050_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[글로벌] 중국, 빅테크 알고리즘까지 장악...전당대회 앞두고 검열 강화되나 (테크M ─ 리포트)]]></title>
