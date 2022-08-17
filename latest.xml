@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Aug 2022 02:12:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Aug 2022 04:21:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[써봤다] 저 아이폰 쓰는 데…이거 사고 싶어요 '갤럭시 Z 폴드4']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=100582</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=100582</guid>
+            <pubDate>Wed, 17 Aug 2022 00:50:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100582_117503_2242_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[주담대 장벽 허문 카카오뱅크...최장 만기 45년까지 늘린다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=100581</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 16 Aug 2022 09:17:10 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202208/100181_117413_4117_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[네이버 ESG 이끄는 채선주, 상반기 보수액 16.5억 수령]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=100563</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=100563</guid>
-            <pubDate>Tue, 16 Aug 2022 09:17:10 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100563_117471_345_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
