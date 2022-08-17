@@ -4,16 +4,24 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Aug 2022 07:21:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Aug 2022 08:29:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[바이낸스, 일시적으로 모든 가상자산 출금 중단....기술 이슈 때문]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=100603</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=100603</guid>
+            <pubDate>Wed, 17 Aug 2022 08:26:54 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100603_117535_1458_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[테크M 이슈] 헬스케어·메타버스에 빠진 네이버...스타트업으로 미래 키운다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=100586</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=100586</guid>
             <pubDate>Wed, 17 Aug 2022 07:18:33 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100586_117519_4610_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100586_117541_2441_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[플랫폼 사업 키우는 하이브...위버스 美·日 거점 설립 완료]]></title>
@@ -21,7 +29,7 @@
             <guid>https://www.techm.kr/news/articleView.html?idxno=100588</guid>
             <pubDate>Wed, 17 Aug 2022 07:18:33 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100588_117524_342_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100588_117539_2358_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[주담대 장벽 허문 카카오뱅크...최장 만기 45년까지 늘린다]]></title>
@@ -110,14 +118,6 @@
             <pubDate>Tue, 16 Aug 2022 09:17:48 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202208/100557_117465_240_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[실적 주춤한 한컴, 하반기 클라우드로 재도약 노린다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=100552</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=100552</guid>
-            <pubDate>Tue, 16 Aug 2022 08:21:50 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100552_117460_3944_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
