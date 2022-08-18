@@ -4,9 +4,17 @@
         <title>테크M ─ 콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Aug 2022 08:27:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Aug 2022 09:23:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[박재범 신곡 '바이트' 뮤직비디오, 애플 '아이패드로 만들다' 캠페인 협업]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=100652</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=100652</guid>
+            <pubDate>Thu, 18 Aug 2022 09:21:11 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100652_117601_2451_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[컬러버스 퍼피레드 '에이핑크' 오하영과 콜라보 웹예능 내놨다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=100647</link>
@@ -110,14 +118,6 @@
             <pubDate>Wed, 17 Aug 2022 10:38:00 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202208/100580_117501_3633_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[게임이용장애 질병코드 도입 신중해야...3년새 사그라든 찬성론]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=100572</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=100572</guid>
-            <pubDate>Wed, 17 Aug 2022 10:19:00 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100572_117491_4343_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
