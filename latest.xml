@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Aug 2022 04:56:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Aug 2022 05:32:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["비트코인 고정 수익 보장?" 금융 연계형 '스미싱 주의보']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=100679</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=100679</guid>
+            <pubDate>Fri, 19 Aug 2022 05:29:26 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100679_117656_520_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[ESG 경영 확산 나서는 신세계아이앤씨, '미니콘테스트'로 사회적경제기업 돕는다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=100678</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 18 Aug 2022 08:24:27 GMT</pubDate>
             <content:encoded><![CDATA[김현기 대표]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202208/100659_117637_2546_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[글로벌] 미국, 中 핵심 기술 수출 통제...반도체 견제 나섰다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=100658</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=100658</guid>
-            <pubDate>Thu, 18 Aug 2022 08:24:27 GMT</pubDate>
-            <content:encoded><![CDATA[김현기 대표]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100658_117638_269_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
