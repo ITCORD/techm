@@ -4,9 +4,25 @@
         <title>테크M ─ 콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Aug 2022 05:32:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Aug 2022 06:32:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[테크M 이슈] 다급한 이마트, 5000원대 치킨으로 '이슈 몰이' 통했다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=100682</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=100682</guid>
+            <pubDate>Fri, 19 Aug 2022 06:30:01 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100682_117658_2612_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['이태원 클라쓰' 작가의 차기작 '존재'...카카오엔터테인먼트에서 만난다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=100681</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=100681</guid>
+            <pubDate>Fri, 19 Aug 2022 06:30:01 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100681_117657_2553_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[클레이튼 게임즈, 그라운드X와 파트너십...P2E 산업 지원한다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=100677</link>
@@ -102,22 +118,6 @@
             <pubDate>Thu, 18 Aug 2022 00:37:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202208/100629_117571_3631_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[티빙에 '임영웅' 다시 뜬다...'아임 히어로' 실황 독점 공개]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=100625</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=100625</guid>
-            <pubDate>Thu, 18 Aug 2022 11:09:00 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100625_117567_048_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[확 달라진 네이버웹툰..."작품별 포스터 적용하고 추천 기능 강화"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=100622</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=100622</guid>
-            <pubDate>Thu, 18 Aug 2022 10:54:00 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100622_117564_5215_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
