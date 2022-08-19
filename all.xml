@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Aug 2022 09:23:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Aug 2022 10:29:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[생필품부터 신학기 준비물까지...고물가 시대 쿠팡 기획전이 '효자'네 (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=100694</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=100694</guid>
+            <pubDate>Fri, 19 Aug 2022 10:26:37 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100694_117689_5930_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[루나 다음은 하이브? 업비트, 알고리즘 스테이블코인 투자주의보 (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=100691</link>
@@ -160,18 +168,10 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202208/100669_117680_5058_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[LCK 브리핑] 젠지 vs. 샌드박스, T1 vs. 담원...PO 2R 구도 완성 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=100663</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=100663</guid>
-            <pubDate>Thu, 18 Aug 2022 14:20:53 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100663_117623_4522_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[루나 다음은 하이브? 업비트, 알고리즘 스테이블코인 투자주의보 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=100691</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=100691</guid>
-            <pubDate>Fri, 19 Aug 2022 09:20:59 GMT</pubDate>
+            <pubDate>Fri, 19 Aug 2022 09:20:41 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202208/100691_117684_5212_v150.jpg" length="0" type="image/jpg"/>
         </item>
@@ -179,7 +179,7 @@
             <title><![CDATA[송재경의 블록체인 게임 '아키월드', 9월 1일 글로벌 정식 출시 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=100690</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=100690</guid>
-            <pubDate>Fri, 19 Aug 2022 09:20:59 GMT</pubDate>
+            <pubDate>Fri, 19 Aug 2022 09:20:41 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202208/100690_117682_2444_v150.jpg" length="0" type="image/jpg"/>
         </item>
@@ -728,6 +728,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202208/100496_117337_4647_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[생필품부터 신학기 준비물까지...고물가 시대 쿠팡 기획전이 '효자'네 (테크M ─ 라이프)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=100694</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=100694</guid>
+            <pubDate>Fri, 19 Aug 2022 10:29:09 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100694_117689_5930_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[테크M 트렌드] 치솟는 물가에 '휴포족 '겨냥한 취미 가전 '눈길' (테크M ─ 라이프)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=100687</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=100687</guid>
@@ -830,14 +838,6 @@
             <pubDate>Tue, 16 Aug 2022 11:02:00 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202208/100539_117437_5834_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[게이밍 모니터 '끝판왕' 떴다…삼성 '오디세이 아크' 출격 (테크M ─ 라이프)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=100537</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=100537</guid>
-            <pubDate>Tue, 16 Aug 2022 10:49:00 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100537_117433_476_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[글로벌] 테슬라, 오는 9월 말 휴머노이드 로봇 '옵티머스' 시제품 공개 (테크M ─ 리포트)]]></title>
