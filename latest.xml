@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 20 Aug 2022 20:23:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Aug 2022 21:21:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[템터뷰] 전통시장 확 달라졌다...월간시장 CEO 오윤서 "청년들이 ESG 더 잘해요"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=100701</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=100701</guid>
+            <pubDate>Sun, 21 Aug 2022 05:50:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100701_117705_948_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[라이엇 게임즈, 티파니앤코와 손잡고  소환사의 컵 재단장]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=100705</link>
@@ -43,7 +51,7 @@
             <title><![CDATA[[부고] 성상훈 아샤그룹 이사 부친상]]></title>
             <link>https://www.techm.kr/news/articleList.html</link>
             <guid>https://www.techm.kr/news/articleList.html</guid>
-            <pubDate>Sat, 20 Aug 2022 20:20:25 GMT</pubDate>
+            <pubDate>Sat, 20 Aug 2022 21:18:27 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
         </item>
         <item>
@@ -157,14 +165,6 @@
             <pubDate>Fri, 19 Aug 2022 06:29:44 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202208/100680_117659_2637_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[테크M 이슈] 다급한 이마트, 5000원대 치킨으로 '이슈 몰이' 통했다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=100682</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=100682</guid>
-            <pubDate>Fri, 19 Aug 2022 06:29:44 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100682_117678_5014_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
