@@ -4,9 +4,16 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 20 Aug 2022 05:23:35 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Aug 2022 06:27:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[부고] 성상훈 아샤그룹 이사 부친상]]></title>
+            <link>https://www.techm.kr/news/articleList.html</link>
+            <guid>https://www.techm.kr/news/articleList.html</guid>
+            <pubDate>Sat, 20 Aug 2022 06:24:11 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[글로벌] "테슬라봇, 한 번 붙어보자" 샤오미, 휴머노이드 '사이버원' 공개]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=100697</link>
@@ -158,14 +165,6 @@
             <pubDate>Fri, 19 Aug 2022 11:08:00 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202208/100677_117654_5955_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[메가존클라우드 후원 '방구석 인디 게임쇼' 성료]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=100675</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=100675</guid>
-            <pubDate>Fri, 19 Aug 2022 11:08:00 GMT</pubDate>
-            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100675_117652_5026_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
