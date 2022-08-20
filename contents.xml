@@ -4,9 +4,17 @@
         <title>테크M ─ 콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 20 Aug 2022 14:21:07 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Aug 2022 15:23:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[라이엇 게임즈, 티파니앤코와 손잡고  소환사의 컵 재단장]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=100705</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=100705</guid>
+            <pubDate>Sat, 20 Aug 2022 15:20:22 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100705_117715_2237_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카트 통신] '지난 시즌 결승전 리매치' 승자는 블레이즈...광동, 복수 실패]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=100703</link>
@@ -110,14 +118,6 @@
             <pubDate>Thu, 18 Aug 2022 06:26:04 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202208/100647_117593_5645_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[캐셔레스트, 금융권 출신 자금세탁방지 전문가 영입]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=100640</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=100640</guid>
-            <pubDate>Thu, 18 Aug 2022 05:38:02 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100640_117582_234_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

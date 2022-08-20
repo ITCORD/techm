@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 20 Aug 2022 14:21:07 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Aug 2022 15:23:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[라이엇 게임즈, 티파니앤코와 손잡고  소환사의 컵 재단장 (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=100705</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=100705</guid>
+            <pubDate>Sat, 20 Aug 2022 15:20:02 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100705_117715_2237_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카트 토크 콘서트] 지난 시즌 부진 만회하고 싶은 블레이즈 유창현 (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=100704</link>
@@ -35,7 +43,7 @@
             <title><![CDATA[[부고] 성상훈 아샤그룹 이사 부친상 (테크M ─ 전체기사)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Sat, 20 Aug 2022 14:17:47 GMT</pubDate>
+            <pubDate>Sat, 20 Aug 2022 15:20:02 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
         </item>
         <item>
@@ -159,12 +167,12 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202208/100682_117678_5014_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['이태원 클라쓰' 작가의 차기작 '존재'...카카오엔터테인먼트에서 만난다 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=100681</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=100681</guid>
-            <pubDate>Fri, 19 Aug 2022 06:29:44 GMT</pubDate>
-            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100681_117657_2553_v150.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[라이엇 게임즈, 티파니앤코와 손잡고  소환사의 컵 재단장 (테크M ─ 콘텐츠)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=100705</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=100705</guid>
+            <pubDate>Sat, 20 Aug 2022 15:20:22 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100705_117715_2237_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[카트 통신] '지난 시즌 결승전 리매치' 승자는 블레이즈...광동, 복수 실패 (테크M ─ 콘텐츠)]]></title>
@@ -269,14 +277,6 @@
             <pubDate>Thu, 18 Aug 2022 06:25:47 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202208/100647_117593_5645_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[캐셔레스트, 금융권 출신 자금세탁방지 전문가 영입 (테크M ─ 콘텐츠)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=100640</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=100640</guid>
-            <pubDate>Thu, 18 Aug 2022 05:37:45 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100640_117582_234_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2분기에도 웃은 IT서비스 '빅3'…하반기 주요 전략은? (테크M ─ 인프라)]]></title>
@@ -954,7 +954,7 @@
             <title><![CDATA[[카트 토크 콘서트] 지난 시즌 부진 만회하고 싶은 블레이즈 유창현 (테크M ─ 보는 뉴스)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=100704</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=100704</guid>
-            <pubDate>Sat, 20 Aug 2022 14:21:06 GMT</pubDate>
+            <pubDate>Sat, 20 Aug 2022 14:17:47 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202208/100704_117714_556_v150.jpg" length="0" type="image/jpg"/>
         </item>

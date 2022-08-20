@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 20 Aug 2022 14:21:07 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Aug 2022 15:23:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[라이엇 게임즈, 티파니앤코와 손잡고  소환사의 컵 재단장]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=100705</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=100705</guid>
+            <pubDate>Sat, 20 Aug 2022 15:20:02 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100705_117715_2237_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카트 토크 콘서트] 지난 시즌 부진 만회하고 싶은 블레이즈 유창현]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=100704</link>
@@ -35,7 +43,7 @@
             <title><![CDATA[[부고] 성상훈 아샤그룹 이사 부친상]]></title>
             <link>https://www.techm.kr/news/articleList.html</link>
             <guid>https://www.techm.kr/news/articleList.html</guid>
-            <pubDate>Sat, 20 Aug 2022 14:17:47 GMT</pubDate>
+            <pubDate>Sat, 20 Aug 2022 15:20:02 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
         </item>
         <item>
@@ -157,14 +165,6 @@
             <pubDate>Fri, 19 Aug 2022 06:29:44 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202208/100682_117678_5014_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['이태원 클라쓰' 작가의 차기작 '존재'...카카오엔터테인먼트에서 만난다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=100681</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=100681</guid>
-            <pubDate>Fri, 19 Aug 2022 06:29:44 GMT</pubDate>
-            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100681_117657_2553_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
