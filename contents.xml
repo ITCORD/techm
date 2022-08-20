@@ -4,9 +4,17 @@
         <title>테크M ─ 콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 20 Aug 2022 03:45:52 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Aug 2022 04:38:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[템터뷰] 빗썸경제연구소 "양질의 정보가 가상자산 투자자를 보호한다"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=100695</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=100695</guid>
+            <pubDate>Sat, 20 Aug 2022 04:35:46 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100695_117694_2754_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[루나 다음은 하이브? 업비트, 알고리즘 스테이블코인 투자주의보]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=100691</link>
@@ -110,14 +118,6 @@
             <pubDate>Thu, 18 Aug 2022 05:38:02 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202208/100637_117579_4526_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NFT 시장 표준화 이끌 '한국NFT학회' 국회서 출범식 개최]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=100633</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=100633</guid>
-            <pubDate>Thu, 18 Aug 2022 05:38:02 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100633_117576_1753_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
