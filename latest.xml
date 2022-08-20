@@ -4,11 +4,19 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 20 Aug 2022 13:32:49 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Aug 2022 14:21:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[[카트 통신] '빅매치' 승자는 블레이즈...광동, 복수 실패]]></title>
+            <title><![CDATA[[카트 토크 콘서트] 지난 시즌 부진 만회하고 싶은 블레이즈 유창현]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=100704</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=100704</guid>
+            <pubDate>Sat, 20 Aug 2022 14:17:47 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100704_117714_556_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[카트 통신] '지난 시즌 결승전 리매치' 승자는 블레이즈...광동, 복수 실패]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=100703</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=100703</guid>
             <pubDate>Sat, 20 Aug 2022 13:29:47 GMT</pubDate>
@@ -27,7 +35,7 @@
             <title><![CDATA[[부고] 성상훈 아샤그룹 이사 부친상]]></title>
             <link>https://www.techm.kr/news/articleList.html</link>
             <guid>https://www.techm.kr/news/articleList.html</guid>
-            <pubDate>Sat, 20 Aug 2022 13:29:47 GMT</pubDate>
+            <pubDate>Sat, 20 Aug 2022 14:17:47 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
         </item>
         <item>
@@ -157,14 +165,6 @@
             <pubDate>Fri, 19 Aug 2022 06:29:44 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202208/100681_117657_2553_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["비트코인 고정 수익 보장?" 금융 연계형 '스미싱 주의보']]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=100679</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=100679</guid>
-            <pubDate>Fri, 19 Aug 2022 05:29:26 GMT</pubDate>
-            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100679_117656_520_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

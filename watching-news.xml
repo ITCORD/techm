@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 20 Aug 2022 13:32:49 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Aug 2022 14:21:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카트 토크 콘서트] 지난 시즌 부진 만회하고 싶은 블레이즈 유창현]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=100704</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=100704</guid>
+            <pubDate>Sat, 20 Aug 2022 14:21:06 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100704_117714_556_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[게임코인TV] 블록체인 업계가 주목한 KBW 현장에서 만난 위믹스와 보라(하)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=100518</link>
@@ -110,14 +118,6 @@
             <pubDate>Tue, 09 Aug 2022 14:24:34 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202207/99424_115590_3213_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[게임코인TV] 소통의 부재?...잠잠한 '판교의 희망' 보라, 도대체 뭐하고 있나(상)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=99405</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=99405</guid>
-            <pubDate>Tue, 09 Aug 2022 14:24:34 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202207/99405_115550_5251_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
