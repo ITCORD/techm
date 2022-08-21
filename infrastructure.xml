@@ -4,9 +4,25 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 20 Aug 2022 23:22:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Aug 2022 01:57:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성전자, 2030 부산엑스포 유치 위한 국제 외교 총력]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=100708</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=100708</guid>
+            <pubDate>Sun, 21 Aug 2022 10:22:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100708_117733_2118_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["상저하고는 옛말?" 달라진 보안업계, 특화 솔루션 내세워 '승승장구']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=100706</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=100706</guid>
+            <pubDate>Sun, 21 Aug 2022 10:12:00 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100706_117717_2515_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2분기에도 웃은 IT서비스 '빅3'…하반기 주요 전략은?]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=100689</link>
@@ -102,22 +118,6 @@
             <pubDate>Thu, 18 Aug 2022 11:09:00 GMT</pubDate>
             <content:encoded><![CDATA[김가은 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202208/100624_117566_5726_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SK㈜ C&C, 건강관리 플랫폼 '킵웰' 출시…"AI·빅데이터 기술로 건강 지킨다"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=100626</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=100626</guid>
-            <pubDate>Thu, 18 Aug 2022 11:07:00 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100626_117568_645_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[CJ ENM '케이콘 2022 LA' 통해 '2030 부산세계박람회' 유치 지원]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=100620</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=100620</guid>
-            <pubDate>Thu, 18 Aug 2022 10:53:00 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100620_117561_4510_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
