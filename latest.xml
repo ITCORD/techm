@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Aug 2022 11:19:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Aug 2022 12:42:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[테크M 이슈] 김슬아의 마켓컬리, 코스피 입성 '청신호'...3조 몸값 증명할까]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=100746</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=100746</guid>
+            <pubDate>Mon, 22 Aug 2022 12:40:50 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100746_117807_4422_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[화웨이 '아시아 태평양 씨드 포 더 퓨처 2022' 개최…디지털 인재 키운다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=100745</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 22 Aug 2022 10:54:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202208/100727_117803_2243_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["제주도 항공권이 3만원" 여기어때, 최저가 전략으로 야놀자 잡는다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=100724</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=100724</guid>
-            <pubDate>Mon, 22 Aug 2022 10:42:00 GMT</pubDate>
-            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100724_117765_3034_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
