@@ -4,7 +4,7 @@
         <title>테크M ─ 콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Aug 2022 07:21:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Aug 2022 08:28:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Mon, 22 Aug 2022 11:42:00 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202208/100725_117766_4031_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[테크M 이슈] 컴투스 '테라' 딛고 'XPLA' 메인넷 첫발...P2E 확 키운다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=100726</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=100726</guid>
+            <pubDate>Mon, 22 Aug 2022 10:41:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100726_117804_235_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[네이버 스노우·알체라 JV 팔라, '마리끌레르 코리아'와 NFT 발행한다]]></title>
@@ -61,7 +69,7 @@
             <guid>https://www.techm.kr/news/articleView.html?idxno=100707</guid>
             <pubDate>Sun, 21 Aug 2022 09:59:00 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100707_117755_33_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100707_117725_934_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[라이엇 게임즈, 티파니앤코와 손잡고  소환사의 컵 재단장]]></title>
@@ -110,14 +118,6 @@
             <pubDate>Fri, 19 Aug 2022 09:20:59 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202208/100690_117682_2444_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[테크M 이슈] 다급한 이마트, 5000원대 치킨으로 '이슈 몰이' 통했다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=100682</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=100682</guid>
-            <pubDate>Fri, 19 Aug 2022 06:30:01 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100682_117658_2612_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
