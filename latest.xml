@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Aug 2022 20:24:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2022 21:21:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[치킨으로 웃은 이마트...햇 꽃게 100톤으로 '식탁 물가' 잡는다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=100791</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=100791</guid>
+            <pubDate>Wed, 24 Aug 2022 06:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100791_117890_4412_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[LCK 브리핑] 결승전 앞두고 자신감 넘치는 젠지와 T1...양팀이 뽑은 변수는 '정글러']]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=100788</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 23 Aug 2022 04:44:02 GMT</pubDate>
             <content:encoded><![CDATA[김가은 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202208/100769_117842_4256_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[베스핀글로벌 '스타트업 클라우드 활용기' 오프라인 세미나 열었다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=100770</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=100770</guid>
-            <pubDate>Tue, 23 Aug 2022 04:44:02 GMT</pubDate>
-            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100770_117843_4732_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
