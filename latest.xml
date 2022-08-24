@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Aug 2022 09:23:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Aug 2022 10:27:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[신작 영상 쏟아진 '게임스컴2022'...韓 게임=MMORPG 고정관념 깬다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=100833</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=100833</guid>
+            <pubDate>Wed, 24 Aug 2022 10:23:49 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100833_117944_122_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[24년만에 '적자' 낸 농심...결국 라면 가격 11.3% 올린다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=100834</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 24 Aug 2022 05:44:34 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202208/100808_117941_5044_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[델 '에이팩스 데이터 스토리지' 한국 출시…"클라우드보다 비용·데이터 주권 유리"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=100807</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=100807</guid>
-            <pubDate>Wed, 24 Aug 2022 04:26:13 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100807_117942_5114_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
