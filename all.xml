@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Aug 2022 15:24:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Aug 2022 16:31:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[하바의 꿈과 향후 행보는?...메인넷 넘나는 NFT 꿈꾸는 '하바'(중) (테크M ─ 전체기사)]]></title>
+            <link>https://ITCORD.github.io/techm/all.xml</link>
+            <guid>https://ITCORD.github.io/techm/all.xml</guid>
+            <pubDate>Thu, 25 Aug 2022 16:27:52 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[PWS GF] 해외팀들의 반란 시작?...GEX, 한국팀들 제치고 1일차 1위 '파란' (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=100897</link>
@@ -158,14 +165,6 @@
             <pubDate>Thu, 25 Aug 2022 12:39:51 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202208/100880_118013_2522_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['초거대 AI' 공급 사업자로 나선 네이버..."스타트업도 함께해요" (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=100878</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=100878</guid>
-            <pubDate>Thu, 25 Aug 2022 12:39:51 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100878_118010_5835_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[PWS GF] 해외팀들의 반란 시작?...GEX, 한국팀들 제치고 1일차 1위 '파란' (테크M ─ 콘텐츠)]]></title>
@@ -952,6 +951,13 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202208/100543_117444_270_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[하바의 꿈과 향후 행보는?...메인넷 넘나는 NFT 꿈꾸는 '하바'(중) (테크M ─ 보는 뉴스)]]></title>
+            <link>https://ITCORD.github.io/techm/all.xml</link>
+            <guid>https://ITCORD.github.io/techm/all.xml</guid>
+            <pubDate>Thu, 25 Aug 2022 16:31:19 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[카트 토크 콘서트] 지난 시즌 부진 만회하고 싶은 블레이즈 유창현 (테크M ─ 보는 뉴스)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=100704</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=100704</guid>
@@ -1054,14 +1060,6 @@
             <pubDate>Thu, 25 Aug 2022 12:41:42 GMT</pubDate>
             <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202207/99456_115628_3244_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[게임코인TV] 보라의 키를 쥔 게임은 아키월드?...잠잠한 '판교의 희망' 보라, 도대체 뭐하고 있나(중) (테크M ─ 보는 뉴스)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=99424</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=99424</guid>
-            <pubDate>Thu, 25 Aug 2022 12:41:42 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202207/99424_115590_3213_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

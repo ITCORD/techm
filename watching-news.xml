@@ -4,9 +4,16 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Aug 2022 15:24:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Aug 2022 16:31:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[하바의 꿈과 향후 행보는?...메인넷 넘나는 NFT 꿈꾸는 '하바'(중)]]></title>
+            <link>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN10&amp;view_type=sm</link>
+            <guid>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN10&amp;view_type=sm</guid>
+            <pubDate>Thu, 25 Aug 2022 16:31:19 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[카트 토크 콘서트] 지난 시즌 부진 만회하고 싶은 블레이즈 유창현]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=100704</link>
@@ -110,14 +117,6 @@
             <pubDate>Thu, 25 Aug 2022 12:41:42 GMT</pubDate>
             <content:encoded><![CDATA[복동실 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202207/99456_115628_3244_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[게임코인TV] 보라의 키를 쥔 게임은 아키월드?...잠잠한 '판교의 희망' 보라, 도대체 뭐하고 있나(중)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=99424</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=99424</guid>
-            <pubDate>Thu, 25 Aug 2022 12:41:42 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202207/99424_115590_3213_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
