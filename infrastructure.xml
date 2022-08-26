@@ -4,16 +4,24 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Aug 2022 08:29:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Aug 2022 09:23:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[카카오뱅크 "중·저신용 대출 비중 22.2%…공급액 6조원 돌파"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=100923</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=100923</guid>
+            <pubDate>Fri, 26 Aug 2022 09:20:27 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100923_118099_1729_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[인증서도 블록체인도 다 뚫린다…"미래 보안기술 개발 위해 산학연 손잡아야"]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=100922</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=100922</guid>
             <pubDate>Fri, 26 Aug 2022 08:26:46 GMT</pubDate>
             <content:encoded><![CDATA[김가은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100922_118092_1313_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100922_118102_4330_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[테크M 리포트] '적자탈피' 노리는 이마트에 증권가 "비용관리 주목, 투자매력 충분"]]></title>
@@ -21,7 +29,7 @@
             <guid>https://www.techm.kr/news/articleView.html?idxno=100916</guid>
             <pubDate>Fri, 26 Aug 2022 06:00:13 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100916_118079_731_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100916_118105_4452_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이희조 CSSA 연구소장 "18만개 넘는 보안 취약점, 개발 단계부터 관리 필요"]]></title>
@@ -61,7 +69,7 @@
             <guid>https://www.techm.kr/news/articleView.html?idxno=100892</guid>
             <pubDate>Thu, 25 Aug 2022 12:40:21 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100892_118036_5554_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100892_118028_11_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["메타버스가 현장교육 가장 가깝게 구현"...메타코리아, 교육으로 메타버스 확장]]></title>
@@ -69,7 +77,7 @@
             <guid>https://www.techm.kr/news/articleView.html?idxno=100888</guid>
             <pubDate>Thu, 25 Aug 2022 12:40:21 GMT</pubDate>
             <content:encoded><![CDATA[김가은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100888_118037_5618_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100888_118022_255_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[ESG 공들이는 NHN, 환경 인증 'ISO 14001·50001' 동시 획득]]></title>
@@ -110,14 +118,6 @@
             <pubDate>Thu, 25 Aug 2022 00:14:00 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202208/100870_117999_5035_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김진아 메타코리아 대표 "메타버스, 시공간 초월한 차세대 인터넷...교육기회 확장"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=100869</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=100869</guid>
-            <pubDate>Thu, 25 Aug 2022 00:11:00 GMT</pubDate>
-            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100869_117998_946_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
