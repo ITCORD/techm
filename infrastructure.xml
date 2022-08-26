@@ -4,9 +4,25 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Aug 2022 04:53:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Aug 2022 06:02:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[테크M 리포트] '적자탈피' 노리는 이마트에 증권가 "비용관리 주목, 투자매력 충분"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=100916</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=100916</guid>
+            <pubDate>Fri, 26 Aug 2022 06:00:13 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100916_118079_731_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이희조 CSSA 연구소장 "18만개 넘는 보안 취약점, 개발 단계부터 관리 필요"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=100914</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=100914</guid>
+            <pubDate>Fri, 26 Aug 2022 06:00:13 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100914_118075_08_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[해시드, 블록체인 프로그램 '프로토콜 캠프' 3기 모집]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=100908</link>
@@ -102,22 +118,6 @@
             <pubDate>Thu, 25 Aug 2022 00:10:00 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202208/100871_118042_5952_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['올림플래닛' 엘리펙스 써밋...학계 "메타버스 대중화 키는 유저"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=100872</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=100872</guid>
-            <pubDate>Thu, 25 Aug 2022 00:03:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100872_118001_341_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[네이버로 새옷 입은 전통시장...거래액 74배 '껑충']]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=100867</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=100867</guid>
-            <pubDate>Thu, 25 Aug 2022 11:10:00 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100867_117996_5753_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
