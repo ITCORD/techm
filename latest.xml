@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 27 Aug 2022 22:22:05 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Aug 2022 23:22:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[써봤다] 30년 전통 깬 파격 변신…레노버 '씽크패드 Z13']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=100943</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=100943</guid>
+            <pubDate>Sun, 28 Aug 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100943_118134_1552_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[e스포츠人] 광동 '이엔드' 노태영 "경계되는 팀 없어...자신과의 싸움에서 이기겠다"]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=100941</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 26 Aug 2022 05:59:38 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202208/100915_118098_2951_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[테크M 리포트] '적자탈피' 노리는 이마트에 증권가 "비용관리 주목, 투자매력 충분"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=100916</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=100916</guid>
-            <pubDate>Fri, 26 Aug 2022 05:59:38 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100916_118105_4452_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
