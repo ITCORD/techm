@@ -4,9 +4,17 @@
         <title>테크M ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 Aug 2022 05:33:46 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Aug 2022 06:27:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[카카오 안살림 맡은 이병선, 제주창조경제혁신센터장 부임]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=100955</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=100955</guid>
+            <pubDate>Sun, 28 Aug 2022 06:26:30 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100955_118175_20_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[템터뷰] 코빗리서치센터 "기관 위한 보고서에 집중...한국은행이 코빗 보고서 참고하길"]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=100949</link>
@@ -110,14 +118,6 @@
             <pubDate>Thu, 25 Aug 2022 12:40:59 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202208/100780_117854_2951_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["서민들은 우는데..." 이자장사 최고수는 진옥동의 신한은행]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=100781</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=100781</guid>
-            <pubDate>Thu, 25 Aug 2022 12:40:59 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100781_117855_4234_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
