@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Aug 2022 22:23:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Aug 2022 23:24:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[템터뷰] "커피는 일상의 콘텐츠...로봇카페 '비트'서 즐기세요"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=100989</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=100989</guid>
+            <pubDate>Tue, 30 Aug 2022 07:30:00 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100989_118237_4250_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[두나무, 상반기 매출 7850억원…전년 동기 대비 61.3% 감소]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=100992</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 29 Aug 2022 11:16:00 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202208/100971_118211_749_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성전자 버추얼 아바타 '지누스마스' 이름에 숨겨진 비밀은?]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=100963</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=100963</guid>
-            <pubDate>Mon, 29 Aug 2022 11:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100963_118191_5244_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
