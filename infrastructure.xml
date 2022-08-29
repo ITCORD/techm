@@ -4,9 +4,33 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Aug 2022 04:47:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Aug 2022 06:10:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["한국에서 데카콘 나온다" 마이크로소프트 'K-스타트업'에 최대 5억씩 지원(종합)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=100983</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=100983</guid>
+            <pubDate>Mon, 29 Aug 2022 06:09:24 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100983_118228_2037_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[美-韓 코인 규제 놓고 부처간 힘겨루기 스타트?...코인업계 "대중화 신호탄"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=100984</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=100984</guid>
+            <pubDate>Mon, 29 Aug 2022 06:09:24 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100984_118231_3629_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["애플워치 게 섯거라" 추격 고삐 죄는 삼성 '갤럭시워치']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=100982</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=100982</guid>
+            <pubDate>Mon, 29 Aug 2022 06:09:24 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100982_118226_1423_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["재벌보다 낫네" 청년 일자리 심는 두나무, UDC로 '블록체인 개발자' 전성시대 연다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=100976</link>
@@ -94,30 +118,6 @@
             <pubDate>Sun, 28 Aug 2022 09:00:00 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202208/100938_118124_2721_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[카카오뱅크 "중·저신용 대출 비중 22.2%…공급액 6조원 돌파"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=100923</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=100923</guid>
-            <pubDate>Fri, 26 Aug 2022 09:20:27 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100923_118099_1729_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인증서도 블록체인도 다 뚫린다…"미래 보안기술 개발 위해 산학연 손잡아야"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=100922</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=100922</guid>
-            <pubDate>Fri, 26 Aug 2022 08:26:46 GMT</pubDate>
-            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100922_118092_1313_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[테크M 리포트] '적자탈피' 노리는 이마트에 증권가 "비용관리 주목, 투자매력 충분"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=100916</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=100916</guid>
-            <pubDate>Fri, 26 Aug 2022 06:00:13 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100916_118079_731_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
