@@ -4,9 +4,17 @@
         <title>테크M ─ 콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Aug 2022 10:25:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Aug 2022 11:21:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[카카오게임즈의 새 먹거리 FPS '디스테라' 테스트에 쏠리는 눈]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=101051</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=101051</guid>
+            <pubDate>Tue, 30 Aug 2022 11:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202208/101051_118342_3927_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[글로벌로 달리는 카트라이더:드리프트...최종 테스트 시작]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=101042</link>
@@ -110,14 +118,6 @@
             <pubDate>Sat, 27 Aug 2022 15:20:28 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202208/100940_118129_76_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카트 통신] '김다빈 날았다' 블레이즈, 에결 끝에 샌드박스 제압...전승으로 1위 수성]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=100939</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=100939</guid>
-            <pubDate>Sat, 27 Aug 2022 14:18:01 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100939_118126_3259_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
