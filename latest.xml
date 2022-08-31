@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 Aug 2022 07:40:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2022 08:28:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["보안보다는 수익성 개선?" 韓 기업 최대 과제는 '비용절감']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=101097</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=101097</guid>
+            <pubDate>Wed, 31 Aug 2022 08:25:53 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202208/101097_118395_49_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['가전 1등' LG전자, MZ세대 공략할 '비밀무기' 대거 공개]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=101096</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 31 Aug 2022 11:36:00 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202208/101075_118366_3524_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[원스토어, 웹툰 플랫폼 '투믹스'의 테라핀스튜디오와 IP 공유-글로벌 동반 진출]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=101074</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=101074</guid>
-            <pubDate>Wed, 31 Aug 2022 11:28:00 GMT</pubDate>
-            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202208/101074_118365_2755_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
