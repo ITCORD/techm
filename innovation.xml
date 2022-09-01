@@ -4,9 +4,17 @@
         <title>테크M ─ 이노베이션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Sep 2022 04:30:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Sep 2022 05:55:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[주정차 단속 알림앱 '휘슬' 차 번호 기반 채팅 서비스 도입]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=101114</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=101114</guid>
+            <pubDate>Thu, 01 Sep 2022 05:53:08 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101114_118421_2428_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[네이버 '아이티앤베이직'에 투자…"업무 성향 분석해 관리"]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=101104</link>
@@ -110,14 +118,6 @@
             <pubDate>Thu, 25 Aug 2022 12:40:35 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202208/100879_118014_2552_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["컴투버스는 메타버스 인프라"...가상토지 위에 웹 3.0 오픈 생태계 만든다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=100876</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=100876</guid>
-            <pubDate>Thu, 25 Aug 2022 12:40:35 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100876_118006_452_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

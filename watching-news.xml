@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Sep 2022 04:30:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Sep 2022 05:55:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[게임코인TV] 우리가 블록체인 게임 시장을 주목하는 이유 1편]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=101101</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=101101</guid>
+            <pubDate>Thu, 01 Sep 2022 05:55:23 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101101_118418_133_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[배그 토크 콘서트] 광동 프릭스 우승의 숨은 공신, '히카리' 김동환]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=101038</link>
@@ -110,14 +118,6 @@
             <pubDate>Thu, 25 Aug 2022 12:41:42 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202207/99680_116016_2759_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[게임코인TV] 'C2X'가 주목해야 할 '서머너즈워 크로니클'...컴투스와 네오위즈는 뭐하고 있나(중)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=99648</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=99648</guid>
-            <pubDate>Fri, 22 Jul 2022 11:48:00 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202207/99648_115943_216_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
