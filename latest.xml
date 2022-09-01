@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Sep 2022 10:25:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Sep 2022 11:21:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[리니지 제친 '히트2', 구글플레이 매출 왕좌 등극]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=101138</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=101138</guid>
+            <pubDate>Thu, 01 Sep 2022 11:18:18 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101138_118476_3013_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[가상아이돌 '이터니티' K팝 월드스타들과 '한류! 코리안 웨이브' 선정]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=101137</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 01 Sep 2022 05:52:18 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202209/101113_118420_2120_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[송재경이 보여줄 블록체인 게임의 새로운 방정식은?...'아키월드', '보라' 플랫폼 타고 출격]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=101117</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=101117</guid>
-            <pubDate>Thu, 01 Sep 2022 05:52:18 GMT</pubDate>
-            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101117_118451_2446_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
