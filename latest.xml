@@ -4,9 +4,25 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 Aug 2022 23:24:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Sep 2022 02:04:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[헥토파이낸셜, 비즈니스 데이터 플랫폼 '데이브' 출시]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=101107</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=101107</guid>
+            <pubDate>Thu, 01 Sep 2022 10:34:00 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101107_118409_3019_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[네이버 '아이티앤베이직'에 투자…"업무 성향 분석해 관리"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=101104</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=101104</guid>
+            <pubDate>Thu, 01 Sep 2022 10:23:00 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101104_118406_1810_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[길세영의 기술과 IP] 경기 침체와 특허]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=101100</link>
@@ -150,22 +166,6 @@
             <pubDate>Wed, 31 Aug 2022 04:58:28 GMT</pubDate>
             <content:encoded><![CDATA[김가은 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202209/101079_118405_1547_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[키다리스튜디오, 스튜디오M 웹툰 PD 및 작가 대규모 채용]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=101078</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=101078</guid>
-            <pubDate>Wed, 31 Aug 2022 04:58:28 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202208/101078_118369_4836_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[9월부터 'e심' 이용 가능해진다...'원폰 투넘버' 서비스 이용 방법은?]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=101080</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=101080</guid>
-            <pubDate>Wed, 31 Aug 2022 04:58:28 GMT</pubDate>
-            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101080_118403_1349_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

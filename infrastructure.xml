@@ -4,9 +4,17 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 Aug 2022 23:24:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Sep 2022 02:04:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[헥토파이낸셜, 비즈니스 데이터 플랫폼 '데이브' 출시]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=101107</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=101107</guid>
+            <pubDate>Thu, 01 Sep 2022 10:34:00 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101107_118409_3019_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[글로벌 향하는 카카오모빌리티...유럽 택시도 '카카오 T'로 부른다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=101098</link>
@@ -110,14 +118,6 @@
             <pubDate>Wed, 31 Aug 2022 10:36:00 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202208/101064_118356_3112_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SK쉴더스, 임대관리 전문브랜드 '홈즈케어'와 MOU 체결]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=101063</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=101063</guid>
-            <pubDate>Wed, 31 Aug 2022 10:36:00 GMT</pubDate>
-            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202208/101063_118355_296_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
