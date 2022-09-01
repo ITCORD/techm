@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Sep 2022 16:33:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Sep 2022 17:26:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -504,12 +504,20 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202208/100891_118027_2037_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[신한은행-SK, ESG 우수협력사에 금융 지원 (테크M ─ 인베스트먼트)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=101133</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=101133</guid>
+            <pubDate>Thu, 01 Sep 2022 08:28:43 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101133_118455_3448_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[크립토 월간 브리핑] '파월 쇼크'가 휩쓴 8월…긴 롤러코스터의 끝은 하락 (테크M ─ 인베스트먼트)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=101111</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=101111</guid>
             <pubDate>Thu, 01 Sep 2022 05:52:18 GMT</pubDate>
             <content:encoded><![CDATA[김가은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101111_118413_5732_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101111_118452_251_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[상장 앞둔 컬리 주식, 증권플러스 비상장에서 산다 (테크M ─ 인베스트먼트)]]></title>
@@ -606,14 +614,6 @@
             <pubDate>Thu, 25 Aug 2022 12:40:44 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202208/100875_118005_2920_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[크립토 브리핑] 투자 심리 37일만에 다시 '극단적 공포'..."신규 투자 저조" (테크M ─ 인베스트먼트)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=100798</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=100798</guid>
-            <pubDate>Wed, 24 Aug 2022 10:05:00 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100798_117904_5958_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[롯데정보통신, 시각장애인용 전자 도서 제작 봉사활동 (테크M ─ 피플)]]></title>
