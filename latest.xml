@@ -4,9 +4,25 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Sep 2022 04:48:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Sep 2022 06:05:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이재용 '동행'에 웃는 중소기업…삼성전자, 제조혁신 노하우 전수]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=101159</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=101159</guid>
+            <pubDate>Fri, 02 Sep 2022 06:02:16 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101159_118503_2224_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[같이사소] 추석선물세트 쇼핑에 지친 소비자 위한 특별한 기획전]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=101154</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=101154</guid>
+            <pubDate>Fri, 02 Sep 2022 06:02:16 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101154_118496_4653_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[레노버, 폴더블 노트북 '씽크패드 X1 폴드 2세대' 출격]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=101157</link>
@@ -150,22 +166,6 @@
             <pubDate>Thu, 01 Sep 2022 15:25:07 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202209/101139_118477_5013_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[리니지 제친 '히트2', 구글플레이 매출 왕좌 등극]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=101138</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=101138</guid>
-            <pubDate>Thu, 01 Sep 2022 11:18:18 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101138_118476_3013_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가상아이돌 '이터니티' K팝 월드스타들과 '한류! 코리안 웨이브' 선정]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=101137</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=101137</guid>
-            <pubDate>Thu, 01 Sep 2022 10:22:54 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101137_118475_4352_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

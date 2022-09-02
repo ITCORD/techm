@@ -4,9 +4,17 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Sep 2022 04:48:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Sep 2022 06:05:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이재용 '동행'에 웃는 중소기업…삼성전자, 제조혁신 노하우 전수]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=101159</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=101159</guid>
+            <pubDate>Fri, 02 Sep 2022 06:02:48 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101159_118503_2224_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[레노버, 폴더블 노트북 '씽크패드 X1 폴드 2세대' 출격]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=101157</link>
@@ -110,14 +118,6 @@
             <pubDate>Thu, 01 Sep 2022 06:33:36 GMT</pubDate>
             <content:encoded><![CDATA[김가은 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202209/101121_118449_2410_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이글루코퍼레이션 'SIEM' 관련 특허 등록…"데이터 분석 효율성 높인다"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=101119</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=101119</guid>
-            <pubDate>Thu, 01 Sep 2022 05:52:51 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101119_118427_4756_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
