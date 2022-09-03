@@ -4,9 +4,17 @@
         <title>테크M ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 03 Sep 2022 22:22:22 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Sep 2022 23:22:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[템터뷰] 트로마츠 칫솔은 시작일 뿐…'바이오필름' 붙은 곳 어디든 간다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=101174</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=101174</guid>
+            <pubDate>Sun, 04 Sep 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101174_118536_4856_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[e스포츠人] 죽음의 조에서 살아남은 박인수 "멘탈 부여잡기도 힘든 경기였다"]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=101176</link>
@@ -110,14 +118,6 @@
             <pubDate>Sat, 27 Aug 2022 15:22:31 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202208/100941_118132_2636_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['워킹맘' 최수연의 네이버...공정한 능력주의로 '우먼파워' 키웠다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=100919</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=100919</guid>
-            <pubDate>Fri, 26 Aug 2022 08:28:27 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100919_118097_2725_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
