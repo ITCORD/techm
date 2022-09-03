@@ -4,9 +4,17 @@
         <title>테크M ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 03 Sep 2022 14:21:48 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Sep 2022 15:24:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[e스포츠人] 죽음의 조에서 살아남은 박인수 "멘탈 부여잡기도 힘든 경기였다"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=101176</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=101176</guid>
+            <pubDate>Sat, 03 Sep 2022 15:23:32 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101176_118543_2254_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[롯데정보통신, 시각장애인용 전자 도서 제작 봉사활동]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=101120</link>
@@ -110,14 +118,6 @@
             <pubDate>Fri, 26 Aug 2022 08:28:27 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202208/100919_118097_2725_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NBN TV, 디지털자산 자문위원단 위촉식 성료]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=100920</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=100920</guid>
-            <pubDate>Fri, 26 Aug 2022 07:26:34 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100920_118089_62_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
