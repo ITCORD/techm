@@ -4,9 +4,25 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 04 Sep 2022 02:09:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Sep 2022 04:28:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["메신저-문자 속 이상한 URL 클릭하지 마세요"...추석 앞두고 스팸-스미싱 주의보]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=101181</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=101181</guid>
+            <pubDate>Sun, 04 Sep 2022 00:31:00 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101181_118552_3032_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[통신3사, 추석연휴-태풍 북상 앞두고 네트워크 인프라 증설 등 '총력전']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=101180</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=101180</guid>
+            <pubDate>Sun, 04 Sep 2022 00:21:00 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101180_118550_218_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[삼성전자 모바일 AP '엑시노스' 2분기 '나홀로 선전'…출하량 54% 급증]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=101179</link>
@@ -102,22 +118,6 @@
             <pubDate>Fri, 02 Sep 2022 09:01:00 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202209/101141_118521_1829_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한종희 삼성전자 부회장 "올해가 스마트싱스 대중화 원년…타사 기기 연동 확대"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=101140</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=101140</guid>
-            <pubDate>Fri, 02 Sep 2022 08:51:00 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101140_118478_493_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[10돌 맞은 AWS코리아의 '초심'…"클라우드로 더 나은 대한민국 만들자"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=101131</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=101131</guid>
-            <pubDate>Thu, 01 Sep 2022 10:23:27 GMT</pubDate>
-            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101131_118471_235_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
