@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Sep 2022 09:24:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Sep 2022 10:26:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[5대 거래소, 이더리움 입출금 일시중단…"머지 안정성 확인 후 서비스 재개"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=101219</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=101219</guid>
+            <pubDate>Mon, 05 Sep 2022 10:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101219_118611_4056_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['오징어게임' 美 에미상 4관왕…"비영어권 최초 역사 썼다"]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=101217</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 05 Sep 2022 10:42:00 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202209/101199_118573_4146_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[카카오모빌리티 '카카오내비' 앱으로 전기차 발레 맞기면 충전까지 해준다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=101195</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=101195</guid>
-            <pubDate>Mon, 05 Sep 2022 10:31:00 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101195_118569_2937_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
