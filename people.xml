@@ -4,9 +4,17 @@
         <title>테크M ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 04 Sep 2022 23:23:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Sep 2022 02:16:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성전자 'IFA 2022'에서 '2030 부산엑스포' 유치 활동 홍보]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=101185</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=101185</guid>
+            <pubDate>Mon, 05 Sep 2022 09:46:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101185_118558_4427_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[템터뷰] 트로마츠 칫솔은 시작일 뿐…'바이오필름' 붙은 곳 어디든 간다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=101174</link>
@@ -110,14 +118,6 @@
             <pubDate>Sun, 28 Aug 2022 09:46:00 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202208/100944_118146_434_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[e스포츠人] 광동 '이엔드' 노태영 "경계되는 팀 없어...자신과의 싸움에서 이기겠다"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=100941</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=100941</guid>
-            <pubDate>Sat, 27 Aug 2022 15:22:31 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100941_118132_2636_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
