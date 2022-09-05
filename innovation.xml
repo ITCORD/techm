@@ -4,7 +4,7 @@
         <title>테크M ─ 이노베이션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Sep 2022 04:51:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Sep 2022 06:06:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,6 +54,14 @@
             <pubDate>Mon, 05 Sep 2022 09:35:00 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202209/101183_118556_3140_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[보안 전문 기업이 만드는 가상자산 지갑 나온다...안랩표 '웹3.0 지갑', 9월 출격]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=101162</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=101162</guid>
+            <pubDate>Mon, 05 Sep 2022 06:04:12 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101162_118516_1631_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[수입차 선호층 노리는 쏘카…'BMW X1' 카셰어링 도입]]></title>
@@ -110,14 +118,6 @@
             <pubDate>Thu, 01 Sep 2022 05:53:08 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202209/101114_118421_2428_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[네이버 '아이티앤베이직'에 투자…"업무 성향 분석해 관리"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=101104</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=101104</guid>
-            <pubDate>Thu, 01 Sep 2022 10:23:00 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101104_118406_1810_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
