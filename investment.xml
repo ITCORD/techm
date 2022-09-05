@@ -4,9 +4,25 @@
         <title>테크M ─ 인베스트먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Sep 2022 07:36:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Sep 2022 08:27:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[코빗 리서치센터 "이더리움 PoW, 하드포크 시 생존 가능성 있다"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=101200</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=101200</guid>
+            <pubDate>Mon, 05 Sep 2022 10:50:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101200_118574_424_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[크립토 브리핑] 꿈쩍 않는 비트코인...열흘째 2700만원대]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=101188</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=101188</guid>
+            <pubDate>Mon, 05 Sep 2022 09:58:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101188_118562_557_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[크립토 주간 브리핑] 긴축 공포에 가상자산 시장 '암울'…횡보세 이어가는 비트코인]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=101170</link>
@@ -37,7 +53,7 @@
             <guid>https://www.techm.kr/news/articleView.html?idxno=101111</guid>
             <pubDate>Thu, 01 Sep 2022 06:34:00 GMT</pubDate>
             <content:encoded><![CDATA[김가은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101111_118452_251_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101111_118413_5732_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[상장 앞둔 컬리 주식, 증권플러스 비상장에서 산다]]></title>
@@ -102,22 +118,6 @@
             <pubDate>Mon, 29 Aug 2022 09:52:00 GMT</pubDate>
             <content:encoded><![CDATA[김가은 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202208/100962_118190_491_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[크립토 주간 브리핑] 물가와의 전쟁 예고한 파월, 추락하는 가상자산 시장]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=100933</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=100933</guid>
-            <pubDate>Sat, 27 Aug 2022 11:06:00 GMT</pubDate>
-            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100933_118112_5429_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[코린이톡] '마진거래 1위' 韓 틈새 노리는 바이낸스...'루나 사태' 최대 수혜자?]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=100924</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=100924</guid>
-            <pubDate>Fri, 26 Aug 2022 10:23:50 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100924_118100_1859_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
