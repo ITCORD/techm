@@ -4,16 +4,24 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Sep 2022 08:29:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Sep 2022 09:24:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인재 찾아나선 IT서비스 '빅3', 하반기 공채 시작]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=101255</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=101255</guid>
+            <pubDate>Tue, 06 Sep 2022 09:21:30 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101255_118656_250_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[구글-MS는 '토이 앱'이라는 박대연 티맥스 회장..."슈퍼앱으로 모두의 IT 세상 열겠다"]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=101247</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=101247</guid>
             <pubDate>Tue, 06 Sep 2022 07:39:45 GMT</pubDate>
             <content:encoded><![CDATA[김가은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101247_118646_349_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101247_118661_3224_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[CJ올리브네트웍스, KBS UHD NPS 구축사업 수주…"방송미디어 SI 경쟁력 입증"]]></title>
@@ -110,14 +118,6 @@
             <pubDate>Mon, 05 Sep 2022 07:33:39 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202209/101213_118602_5449_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[CJ ENM 美 엔데버 콘텐트 제작 '세브란스', 에미상 2관왕]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=101212</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=101212</guid>
-            <pubDate>Mon, 05 Sep 2022 07:33:39 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101212_118601_4430_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
