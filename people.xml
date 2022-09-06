@@ -4,9 +4,17 @@
         <title>테크M ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Sep 2022 06:19:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Sep 2022 07:41:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['인재제일' 삼성, 하반기 공채 시작…향후 5년간 8만명 뽑는다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=101249</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=101249</guid>
+            <pubDate>Tue, 06 Sep 2022 07:40:27 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101249_118648_3621_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[삼성전자 'IFA 2022'에서 '2030 부산엑스포' 유치 활동 홍보]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=101185</link>
@@ -110,14 +118,6 @@
             <pubDate>Sun, 28 Aug 2022 11:56:00 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202208/100949_118159_5355_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성전자, 남태평양 피지에서 '2030 부산엑스포' 유치 지원]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=100944</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=100944</guid>
-            <pubDate>Sun, 28 Aug 2022 09:46:00 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100944_118146_434_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
