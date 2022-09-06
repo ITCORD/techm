@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Sep 2022 09:24:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Sep 2022 10:27:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[킨드릴, 가트너 '데이터센터 아웃소싱 활용 사례' 부문 최고 평가 획득]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=101257</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=101257</guid>
+            <pubDate>Tue, 06 Sep 2022 10:23:53 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101257_118671_444_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[인재 찾아나선 IT서비스 '빅3', 하반기 공채 시작]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=101255</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 06 Sep 2022 11:48:00 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202209/101236_118668_3439_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성-JA코리아, '2022 삼성 주니어 SW 창작대회' 시상]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=101234</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=101234</guid>
-            <pubDate>Tue, 06 Sep 2022 11:47:00 GMT</pubDate>
-            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101234_118631_2057_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
