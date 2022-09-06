@@ -4,9 +4,17 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Sep 2022 02:22:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Sep 2022 04:55:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성-JA코리아, '2022 삼성 주니어 SW 창작대회' 시상]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=101234</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=101234</guid>
+            <pubDate>Tue, 06 Sep 2022 11:47:00 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101234_118631_2057_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[카카오엔터프라이즈-강북삼성병원, 건강검진 가이드봇 개발 '맞손']]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=101233</link>
@@ -110,14 +118,6 @@
             <pubDate>Mon, 05 Sep 2022 04:48:55 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202209/101202_118577_5823_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[美 뉴욕 타임스퀘어에 '네이버 증권' 떴다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=101194</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=101194</guid>
-            <pubDate>Mon, 05 Sep 2022 10:30:00 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101194_118568_264_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
