@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Sep 2022 02:15:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Sep 2022 05:01:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[신작·콜라보에 기대감 커지는 컴투스 3분기 매출..."60%이상 증가 가능" (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=101277</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=101277</guid>
+            <pubDate>Wed, 07 Sep 2022 00:58:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101277_118697_3343_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[에스원 "추석 연휴 '빈 상점' 노린 절도범죄 급증한다" (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=101276</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=101276</guid>
+            <pubDate>Wed, 07 Sep 2022 11:27:00 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101276_118695_923_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['매각 대신 상생' 택한 카카오, 모빌리티 플랫폼 종사자 상생 기금 100억 조성 (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=101275</link>
@@ -152,22 +168,6 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202209/101257_118671_444_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[인재 찾아나선 IT서비스 '빅3', 하반기 공채 시작 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=101255</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=101255</guid>
-            <pubDate>Tue, 06 Sep 2022 09:20:40 GMT</pubDate>
-            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101255_118656_250_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[스타트업 썰전] ⑲멘탈케어 '휴마트컴퍼니'..."구성원들 밈으로 소통, 미션도 수행" (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=100837</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=100837</guid>
-            <pubDate>Tue, 06 Sep 2022 08:27:31 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202209/100837_118660_324_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[네이버-라인, NFT 공략에 힘 모은다...팬덤 NFT '나우드롭스' 티저 페이지 공개 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=101253</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=101253</guid>
@@ -280,6 +280,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202209/101198_118575_4335_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[에스원 "추석 연휴 '빈 상점' 노린 절도범죄 급증한다" (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=101276</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=101276</guid>
+            <pubDate>Wed, 07 Sep 2022 11:27:00 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101276_118695_923_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['매각 대신 상생' 택한 카카오, 모빌리티 플랫폼 종사자 상생 기금 100억 조성 (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=101275</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=101275</guid>
@@ -382,14 +390,6 @@
             <pubDate>Tue, 06 Sep 2022 07:39:14 GMT</pubDate>
             <content:encoded><![CDATA[김가은 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202209/101247_118661_3224_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[CJ올리브네트웍스, KBS UHD NPS 구축사업 수주…"방송미디어 SI 경쟁력 입증" (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=101246</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=101246</guid>
-            <pubDate>Tue, 06 Sep 2022 07:39:14 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101246_118644_2435_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[타다, 테크 직군 경력직 공개 채용…"이동의 문제 함께 해결하자" (테크M ─ 이노베이션)]]></title>
@@ -504,6 +504,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202209/101162_118516_1631_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[신작·콜라보에 기대감 커지는 컴투스 3분기 매출..."60%이상 증가 가능" (테크M ─ 인베스트먼트)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=101277</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=101277</guid>
+            <pubDate>Wed, 07 Sep 2022 00:58:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101277_118697_3343_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[크립토 브리핑] 하락폭 키우는 비트코인...'머지' 기대감에 버티는 이더리움 (테크M ─ 인베스트먼트)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=101260</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=101260</guid>
@@ -606,14 +614,6 @@
             <pubDate>Tue, 30 Aug 2022 10:23:00 GMT</pubDate>
             <content:encoded><![CDATA[김가은 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202208/101003_118264_1744_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[더블유게임즈, 美 소송 합의금으로 2000억 토해낸다 (테크M ─ 인베스트먼트)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=101000</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=101000</guid>
-            <pubDate>Tue, 30 Aug 2022 09:21:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202208/101000_118261_183_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[자립준비 돕는 삼성 임직원의 '동행'…11번째 '삼성 희망디딤돌' 충북센터 건립 (테크M ─ 피플)]]></title>

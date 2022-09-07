@@ -4,9 +4,17 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Sep 2022 02:15:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Sep 2022 05:01:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[에스원 "추석 연휴 '빈 상점' 노린 절도범죄 급증한다"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=101276</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=101276</guid>
+            <pubDate>Wed, 07 Sep 2022 11:27:00 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101276_118695_923_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['매각 대신 상생' 택한 카카오, 모빌리티 플랫폼 종사자 상생 기금 100억 조성]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=101275</link>
@@ -110,14 +118,6 @@
             <pubDate>Tue, 06 Sep 2022 07:39:45 GMT</pubDate>
             <content:encoded><![CDATA[김가은 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202209/101247_118661_3224_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[CJ올리브네트웍스, KBS UHD NPS 구축사업 수주…"방송미디어 SI 경쟁력 입증"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=101246</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=101246</guid>
-            <pubDate>Tue, 06 Sep 2022 07:39:45 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101246_118644_2435_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
