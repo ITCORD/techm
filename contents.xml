@@ -4,9 +4,17 @@
         <title>테크M ─ 콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Sep 2022 07:45:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Sep 2022 08:32:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["지스타 2022에서 푸드트럭 운영하실 분 모십니다"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=101290</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=101290</guid>
+            <pubDate>Wed, 07 Sep 2022 08:29:33 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101290_118719_4214_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[콘텐츠 자율 등급 분류 시대 열렸다...OTT 업계 "적극 환영"]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=101286</link>
@@ -110,14 +118,6 @@
             <pubDate>Tue, 06 Sep 2022 09:55:00 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202209/101223_118618_1333_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['오징어게임' 美 에미상 4관왕…"비영어권 최초 역사 썼다"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=101217</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=101217</guid>
-            <pubDate>Mon, 05 Sep 2022 09:21:45 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101217_118609_5238_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
