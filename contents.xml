@@ -4,9 +4,17 @@
         <title>테크M ─ 콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Sep 2022 17:34:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Sep 2022 18:30:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[데브시스터즈, 해외 게임쇼서 신작 '브릭시티' 플레이 영상 공개]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=101334</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=101334</guid>
+            <pubDate>Fri, 09 Sep 2022 03:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101334_118800_3712_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[IT's 콘텐츠] 'IP 부자' 네이버웹툰 "영화·드라마·애니 '맛집'으로"]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=101136</link>
@@ -110,14 +118,6 @@
             <pubDate>Tue, 06 Sep 2022 07:39:30 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202209/101243_118642_1718_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[드디어 출시? 카카오게임즈 메타보라, '버디샷' 사전등록 시작]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=101248</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=101248</guid>
-            <pubDate>Tue, 06 Sep 2022 07:39:30 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101248_118645_3252_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
