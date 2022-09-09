@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Sep 2022 02:23:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Sep 2022 04:29:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -392,6 +392,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202209/101285_118718_426_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[추석 알차게 보내는 '꿀팁'..."송편 클래스에 동네 특별전까지" (테크M ─ 이노베이션)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=101292</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=101292</guid>
+            <pubDate>Fri, 09 Sep 2022 09:10:00 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101292_118846_3254_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['국가대표 블록체인' 블로코, 기업공개 나섰다...2023년 특례상장 목표 (테크M ─ 이노베이션)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=101331</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=101331</guid>
@@ -494,14 +502,6 @@
             <pubDate>Mon, 05 Sep 2022 10:42:00 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202209/101196_118570_322_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[카카오모빌리티 '카카오내비' 앱으로 전기차 발레 맞기면 충전까지 해준다 (테크M ─ 이노베이션)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=101195</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=101195</guid>
-            <pubDate>Mon, 05 Sep 2022 10:31:00 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101195_118569_2937_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['넥슨 매각 없다'...지분 상속 완료한 유정현 NXC "전문경영인 체제 유지" (테크M ─ 인베스트먼트)]]></title>
