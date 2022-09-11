@@ -4,9 +4,17 @@
         <title>테크M ─ 인베스트먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 11 Sep 2022 02:16:12 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Sep 2022 04:26:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[테크M 이슈] IPO 앞두고 반등에 성공한 케이뱅크]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=101355</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=101355</guid>
+            <pubDate>Sun, 11 Sep 2022 00:29:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101355_118873_2935_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[크립토 주간 브리핑] 막판 반등 성공한 비트코인...3000만원 돌파 넘본다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=101353</link>
@@ -110,14 +118,6 @@
             <pubDate>Mon, 05 Sep 2022 09:58:00 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202209/101188_118562_557_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[크립토 주간 브리핑] 긴축 공포에 가상자산 시장 '암울'…횡보세 이어가는 비트코인]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=101170</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=101170</guid>
-            <pubDate>Sat, 03 Sep 2022 08:26:03 GMT</pubDate>
-            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101170_118529_4827_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
