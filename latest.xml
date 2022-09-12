@@ -4,9 +4,33 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 11 Sep 2022 23:25:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Sep 2022 02:26:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아마존 글로벌 스토어 '벌서 1년'...11번가, 첫돌 맞아 크게 쏜다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=101367</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=101367</guid>
+            <pubDate>Mon, 12 Sep 2022 11:06:00 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101367_118929_526_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[크립토 브리핑] 8월 CPI 앞두고 숨고르는 가상자산 시장…투심 '극단적 공포' 지속]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=101365</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=101365</guid>
+            <pubDate>Mon, 12 Sep 2022 10:58:00 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101365_118924_615_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이재용 부회장, 멕시코에서도 '셀카' 찍고 '구내식당' 식사…부산엑스포 유치 활동까지 '열일']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=101366</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=101366</guid>
+            <pubDate>Mon, 12 Sep 2022 10:45:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101366_118925_4154_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아웃도어를 향한 동경…애플워치 울트라 vs. 갤럭시워치 프로]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=101363</link>
@@ -142,30 +166,6 @@
             <pubDate>Fri, 09 Sep 2022 10:15:00 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202209/101294_118738_3838_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[크립토 브리핑] 2만달러 회복 못하는 비트코인...엇갈리는 가격 전망]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=101347</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=101347</guid>
-            <pubDate>Fri, 09 Sep 2022 10:06:00 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101347_118839_321_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[3000만명 '대이동' 예정된 추석…안전한 귀성길 돕는 블랙박스 총정리]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=101345</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=101345</guid>
-            <pubDate>Fri, 09 Sep 2022 10:01:00 GMT</pubDate>
-            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101345_118831_2056_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[탄소중립과 혁신Ⅱ] (4)글로벌 그린 스타트업 투자 트렌드와 녹색 성장]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=101346</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=101346</guid>
-            <pubDate>Fri, 09 Sep 2022 09:39:00 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101346_118836_3245_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
