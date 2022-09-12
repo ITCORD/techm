@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Sep 2022 04:57:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Sep 2022 06:20:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[LG전자, 북미 스타트업 투자 본격화…헬스케어·모빌리티 등 2000만달러 투입]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=101369</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=101369</guid>
+            <pubDate>Mon, 12 Sep 2022 06:17:17 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101369_118936_5148_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[KT, 신입 및 채용전환형 인턴 채용 나선다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=101368</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 10 Sep 2022 07:50:00 GMT</pubDate>
             <content:encoded><![CDATA[김현기 대표]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202209/101335_118887_4342_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[글로벌] 머스크의 트위터 인수 소송전에...전 보안 직원까지 소환된다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=101336</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=101336</guid>
-            <pubDate>Sat, 10 Sep 2022 07:50:00 GMT</pubDate>
-            <content:encoded><![CDATA[김현기 대표]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101336_118886_4319_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
