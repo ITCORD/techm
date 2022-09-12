@@ -4,9 +4,17 @@
         <title>테크M ─ 콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Sep 2022 02:26:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Sep 2022 04:57:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[가봤다] 함께 진화한 컴퓨터와 게임, 그리고 게이머...추억이 쌓인 '넥슨컴퓨터박물관']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=101360</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=101360</guid>
+            <pubDate>Mon, 12 Sep 2022 00:25:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101360_118931_4527_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[추석 선물 쏟아내는 게임사들...온라인서 송편도 빗고 한복도 입어보자]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=101351</link>
@@ -21,7 +29,7 @@
             <guid>https://www.techm.kr/news/articleView.html?idxno=101352</guid>
             <pubDate>Sat, 10 Sep 2022 00:05:00 GMT</pubDate>
             <content:encoded><![CDATA[김가은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101352_118882_4153_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101352_118860_07_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[같이봐영] '수리남'·'위기의X'·'임영웅'...온가족 모여 '정주행'하자]]></title>
@@ -109,15 +117,7 @@
             <guid>https://www.techm.kr/news/articleView.html?idxno=101288</guid>
             <pubDate>Wed, 07 Sep 2022 07:43:01 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101288_118723_4449_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['디지털 서포터즈'부터 '버스형 테마파크'까지...카카오게임즈, 지역상생에 힘 싣는다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=101283</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=101283</guid>
-            <pubDate>Wed, 07 Sep 2022 07:43:01 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101283_118705_529_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101288_118713_3654_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
