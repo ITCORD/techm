@@ -4,7 +4,7 @@
         <title>테크M ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Sep 2022 19:21:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Sep 2022 20:27:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -56,28 +56,12 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202209/101272_118692_4813_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['인재제일' 삼성, 하반기 공채 시작…향후 5년간 8만명 뽑는다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=101249</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=101249</guid>
-            <pubDate>Tue, 06 Sep 2022 07:40:27 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101249_118648_3621_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[삼성전자 'IFA 2022'에서 '2030 부산엑스포' 유치 활동 홍보]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=101185</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=101185</guid>
             <pubDate>Mon, 05 Sep 2022 09:46:00 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202209/101185_118558_4427_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[템터뷰] 트로마츠 칫솔은 시작일 뿐…'바이오필름' 붙은 곳 어디든 간다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=101174</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=101174</guid>
-            <pubDate>Sun, 04 Sep 2022 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101174_118536_4856_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[e스포츠人] 죽음의 조에서 살아남은 박인수 "멘탈 부여잡기도 힘든 경기였다"]]></title>
@@ -104,20 +88,36 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202209/101108_118410_360_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[싱가포르 법원, BXA 소송서 이정훈 전 빗썸홀딩스 의장 '손' 들어줬다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=101099</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=101099</guid>
-            <pubDate>Wed, 31 Aug 2022 11:19:37 GMT</pubDate>
-            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202208/101099_118397_831_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[50만 창업자 키운 '프로젝트꽃'...최수연 대표 "네이버의 자부심"]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=101068</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=101068</guid>
             <pubDate>Wed, 31 Aug 2022 11:12:00 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202208/101068_118359_529_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[템터뷰] "커피는 일상의 콘텐츠...로봇카페 '비트'서 즐기세요"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=100989</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=100989</guid>
+            <pubDate>Tue, 30 Aug 2022 07:30:00 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100989_118237_4250_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[테크M 이슈] "MAU 1200만" 이재근의 KB국민은행, 신한 진옥동에 모바일 경쟁 '압승']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=100978</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=100978</guid>
+            <pubDate>Tue, 13 Sep 2022 20:26:25 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100978_118222_257_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[e스포츠人] '무관'과 무관해진 젠지e스포츠 선수단 "롤드컵 정조준"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=100957</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=100957</guid>
+            <pubDate>Tue, 13 Sep 2022 20:26:25 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100957_118181_5843_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
