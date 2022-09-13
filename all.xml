@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Sep 2022 20:27:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Sep 2022 21:23:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -75,7 +75,7 @@
             <title><![CDATA[[부고] 김은석 신한은행 홍보부 수석 부친상 (테크M ─ 전체기사)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Tue, 13 Sep 2022 20:24:10 GMT</pubDate>
+            <pubDate>Tue, 13 Sep 2022 21:20:28 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
         </item>
         <item>
@@ -223,6 +223,22 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202209/101372_118944_3323_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[템터뷰] 탐험과 타이쿤, 도트와 3D 결합으로 구현...넥슨 '데이브 더 다이버' (테크M ─ 콘텐츠)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=101371</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=101371</guid>
+            <pubDate>Tue, 13 Sep 2022 09:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101371_118997_4510_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[매년 9월17일은 '오징어 게임의 날'...LA시 공식 지정 (테크M ─ 콘텐츠)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=101370</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=101370</guid>
+            <pubDate>Tue, 13 Sep 2022 21:20:43 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101370_118937_5445_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[가봤다] 함께 진화한 컴퓨터와 게임, 그리고 게이머...추억이 쌓인 '넥슨컴퓨터박물관' (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=101360</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=101360</guid>
@@ -261,22 +277,6 @@
             <pubDate>Fri, 09 Sep 2022 10:15:00 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202209/101294_118738_3838_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[데브시스터즈, 해외 게임쇼서 신작 '브릭시티' 플레이 영상 공개 (테크M ─ 콘텐츠)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=101334</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=101334</guid>
-            <pubDate>Fri, 09 Sep 2022 03:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101334_118800_3712_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[IT's 콘텐츠] 'IP 부자' 네이버웹툰 "영화·드라마·애니 '맛집'으로" (테크M ─ 콘텐츠)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=101136</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=101136</guid>
-            <pubDate>Tue, 13 Sep 2022 20:24:27 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101136_118804_720_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[KISIA, 제21회 정보보호 대상 공모 실시 (테크M ─ 인프라)]]></title>
@@ -663,12 +663,28 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202209/101272_118692_4813_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['인재제일' 삼성, 하반기 공채 시작…향후 5년간 8만명 뽑는다 (테크M ─ 피플)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=101249</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=101249</guid>
+            <pubDate>Tue, 13 Sep 2022 21:22:35 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101249_118648_3621_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[삼성전자 'IFA 2022'에서 '2030 부산엑스포' 유치 활동 홍보 (테크M ─ 피플)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=101185</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=101185</guid>
             <pubDate>Mon, 05 Sep 2022 09:46:00 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202209/101185_118558_4427_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[템터뷰] 트로마츠 칫솔은 시작일 뿐…'바이오필름' 붙은 곳 어디든 간다 (테크M ─ 피플)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=101174</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=101174</guid>
+            <pubDate>Sun, 04 Sep 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101174_118536_4856_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[e스포츠人] 죽음의 조에서 살아남은 박인수 "멘탈 부여잡기도 힘든 경기였다" (테크M ─ 피플)]]></title>
@@ -695,36 +711,20 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202209/101108_118410_360_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[싱가포르 법원, BXA 소송서 이정훈 전 빗썸홀딩스 의장 '손' 들어줬다 (테크M ─ 피플)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=101099</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=101099</guid>
+            <pubDate>Tue, 13 Sep 2022 21:22:35 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202208/101099_118397_831_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[50만 창업자 키운 '프로젝트꽃'...최수연 대표 "네이버의 자부심" (테크M ─ 피플)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=101068</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=101068</guid>
             <pubDate>Wed, 31 Aug 2022 11:12:00 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202208/101068_118359_529_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[템터뷰] "커피는 일상의 콘텐츠...로봇카페 '비트'서 즐기세요" (테크M ─ 피플)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=100989</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=100989</guid>
-            <pubDate>Tue, 30 Aug 2022 07:30:00 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100989_118237_4250_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[테크M 이슈] "MAU 1200만" 이재근의 KB국민은행, 신한 진옥동에 모바일 경쟁 '압승' (테크M ─ 피플)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=100978</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=100978</guid>
-            <pubDate>Tue, 13 Sep 2022 20:26:25 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100978_118222_257_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[e스포츠人] '무관'과 무관해진 젠지e스포츠 선수단 "롤드컵 정조준" (테크M ─ 피플)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=100957</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=100957</guid>
-            <pubDate>Tue, 13 Sep 2022 20:26:25 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202208/100957_118181_5843_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[무신사 부티크, 론칭 1주년...'미츠 캠페인' 눈길 (테크M ─ 라이프)]]></title>

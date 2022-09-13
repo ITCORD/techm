@@ -4,7 +4,7 @@
         <title>테크M ─ 콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Sep 2022 20:27:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Sep 2022 21:23:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -64,6 +64,22 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202209/101372_118944_3323_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[템터뷰] 탐험과 타이쿤, 도트와 3D 결합으로 구현...넥슨 '데이브 더 다이버']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=101371</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=101371</guid>
+            <pubDate>Tue, 13 Sep 2022 09:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101371_118997_4510_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[매년 9월17일은 '오징어 게임의 날'...LA시 공식 지정]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=101370</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=101370</guid>
+            <pubDate>Tue, 13 Sep 2022 21:20:43 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101370_118937_5445_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[가봤다] 함께 진화한 컴퓨터와 게임, 그리고 게이머...추억이 쌓인 '넥슨컴퓨터박물관']]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=101360</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=101360</guid>
@@ -102,22 +118,6 @@
             <pubDate>Fri, 09 Sep 2022 10:15:00 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202209/101294_118738_3838_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[데브시스터즈, 해외 게임쇼서 신작 '브릭시티' 플레이 영상 공개]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=101334</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=101334</guid>
-            <pubDate>Fri, 09 Sep 2022 03:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101334_118800_3712_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[IT's 콘텐츠] 'IP 부자' 네이버웹툰 "영화·드라마·애니 '맛집'으로"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=101136</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=101136</guid>
-            <pubDate>Tue, 13 Sep 2022 20:24:27 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101136_118804_720_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
