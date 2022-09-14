@@ -4,9 +4,16 @@
         <title>테크M ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Sep 2022 09:28:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Sep 2022 10:28:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[부고] 김동현(한국산업은행 차장)씨 부친상]]></title>
+            <link>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN5&amp;view_type=sm</link>
+            <guid>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN5&amp;view_type=sm</guid>
+            <pubDate>Wed, 14 Sep 2022 10:27:15 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[직원들 챙기는 이재용 부회장, 파나마 장기출장자 가족에게 '굴비세트' 선물]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=101436</link>
@@ -110,14 +117,6 @@
             <pubDate>Thu, 01 Sep 2022 06:34:16 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202209/101120_118428_5049_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[광동 프릭스, 철권 프로게이머 '울산' 임수훈 영입]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=101108</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=101108</guid>
-            <pubDate>Thu, 01 Sep 2022 05:54:32 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101108_118410_360_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
