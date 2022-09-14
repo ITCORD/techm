@@ -4,9 +4,17 @@
         <title>테크M ─ 이노베이션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Sep 2022 06:10:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Sep 2022 07:39:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[헥토파이낸셜, 간편결제 '010PAY' 충전에 휴대폰 소액결제 기능 추가]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=101438</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=101438</guid>
+            <pubDate>Wed, 14 Sep 2022 07:36:44 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101438_119047_134_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[골프-등산-낚시...액티브 시니어 위한 플랫폼 '애슬러', 패스트벤처스서 투자 유치]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=101407</link>
@@ -110,14 +118,6 @@
             <pubDate>Tue, 06 Sep 2022 10:17:00 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202209/101226_118621_1325_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['콜 몰아주기'는 없었다…'카카오T' 택시 배차 알고리즘 소스코드 검증 결과 공개]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=101224</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=101224</guid>
-            <pubDate>Tue, 06 Sep 2022 09:40:00 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101224_118619_3635_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
