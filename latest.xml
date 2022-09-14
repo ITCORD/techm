@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Sep 2022 22:24:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Sep 2022 23:26:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[韓 이커머스 '격변의 시대'...종합몰은 '깊게' 전문몰은 '넓게']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=101439</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=101439</guid>
+            <pubDate>Thu, 15 Sep 2022 07:55:00 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101439_119048_1537_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["휴대폰 반입 제한, 차별 NO" 쿠팡 손 들어준 인권위...민주노총 진정 각하]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=101451</link>
@@ -19,7 +27,7 @@
             <title><![CDATA[[부고] 김동현(한국산업은행 차장)씨 부친상]]></title>
             <link>https://www.techm.kr/news/articleList.html</link>
             <guid>https://www.techm.kr/news/articleList.html</guid>
-            <pubDate>Wed, 14 Sep 2022 22:22:44 GMT</pubDate>
+            <pubDate>Wed, 14 Sep 2022 23:22:54 GMT</pubDate>
             <content:encoded><![CDATA[김가은 기자]]></content:encoded>
         </item>
         <item>
@@ -157,14 +165,6 @@
             <pubDate>Wed, 14 Sep 2022 00:44:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202209/101428_119064_432_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['듀랑고' 이은석의 신작 이름은 '워헤이븐'...내달 글로벌 테스트 본격 가동]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=101425</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=101425</guid>
-            <pubDate>Wed, 14 Sep 2022 00:27:00 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101425_119029_5919_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

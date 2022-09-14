@@ -4,9 +4,17 @@
         <title>테크M ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Sep 2022 22:24:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Sep 2022 23:26:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[韓 이커머스 '격변의 시대'...종합몰은 '깊게' 전문몰은 '넓게']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=101439</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=101439</guid>
+            <pubDate>Thu, 15 Sep 2022 07:55:00 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101439_119048_1537_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[스타벅스 "커피찌꺼기 재활용 퇴비 1000만포대 넘어선다"]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=101422</link>
@@ -110,14 +118,6 @@
             <pubDate>Thu, 08 Sep 2022 11:14:00 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202209/101314_118771_1346_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마켓컬리 "추석에는 역시 컬리표 건강기능식품"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=101312</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=101312</guid>
-            <pubDate>Thu, 08 Sep 2022 11:08:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101312_118769_745_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
