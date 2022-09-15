@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Sep 2022 22:25:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Sep 2022 23:28:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[탄소중립과 혁신Ⅱ] (5)살아있는 기후기술 실험실 '리빙랩']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=101319</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=101319</guid>
+            <pubDate>Fri, 16 Sep 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101319_118779_4451_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[카카오게임즈, 엑스엘게임즈 '아키에이지2' 퍼블리싱 계약]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=101501</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 15 Sep 2022 07:32:46 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202209/101483_119118_458_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['승리의 여신: 니케', 사전예약 1주일만에 100만명 몰렸다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=101482</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=101482</guid>
-            <pubDate>Thu, 15 Sep 2022 07:32:46 GMT</pubDate>
-            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101482_119117_3831_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
