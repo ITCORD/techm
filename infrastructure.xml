@@ -4,9 +4,17 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Sep 2022 07:36:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Sep 2022 08:33:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["기업 데이터 활용 높인다" 한국IBM, '데이터 패브릭'으로 국내 시장 공략]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=101476</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=101476</guid>
+            <pubDate>Thu, 15 Sep 2022 08:31:42 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101476_119106_1157_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[업비트·빗썸 등 5대 거래소, ETHW 에어드랍 지원…"스냅샷은 미정"]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=101487</link>
@@ -110,14 +118,6 @@
             <pubDate>Thu, 15 Sep 2022 11:00:00 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202209/101461_119086_4928_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[CJ ENM 美 스튜디오 제작 '도쿄 바이스' 국내 시청자 만난다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=101468</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=101468</guid>
-            <pubDate>Thu, 15 Sep 2022 10:45:00 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101468_119091_3925_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
