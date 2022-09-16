@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Sep 2022 22:27:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Sep 2022 23:27:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[템터뷰] "로봇이 반죽부터 튀김까지"...사장님 '손품' 덜고 맛도 잡는다 (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=101526</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=101526</guid>
+            <pubDate>Sat, 17 Sep 2022 07:30:00 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101526_119190_121_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['형제 계열 분리 수순?'...현대백화점·현대그린푸드, 인적분할로 각각 지주사 전환 (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=101533</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 16 Sep 2022 10:39:00 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202209/101505_119195_5220_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[두나무, 고려대 정보보호대학원에 15억원 기부...블록체인 연구 지원한다 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=101515</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=101515</guid>
-            <pubDate>Fri, 16 Sep 2022 10:30:00 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101515_119164_2124_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[넥슨-계원예술대 맞손...메이플스토리 월드 기반 교과 과정 신설 (테크M ─ 콘텐츠)]]></title>
@@ -616,10 +616,18 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202209/101350_118850_018_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[템터뷰] "로봇이 반죽부터 튀김까지"...사장님 '손품' 덜고 맛도 잡는다 (테크M ─ 피플)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=101526</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=101526</guid>
+            <pubDate>Sat, 17 Sep 2022 07:30:00 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101526_119190_121_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[부고] 김동현(한국산업은행 차장)씨 부친상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Fri, 16 Sep 2022 22:26:20 GMT</pubDate>
+            <pubDate>Fri, 16 Sep 2022 23:25:22 GMT</pubDate>
             <content:encoded><![CDATA[김가은 기자]]></content:encoded>
         </item>
         <item>
@@ -717,14 +725,6 @@
             <pubDate>Sat, 03 Sep 2022 15:21:07 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202209/101176_118543_2254_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[롯데정보통신, 시각장애인용 전자 도서 제작 봉사활동 (테크M ─ 피플)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=101120</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=101120</guid>
-            <pubDate>Thu, 01 Sep 2022 06:33:05 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101120_118428_5049_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['형제 계열 분리 수순?'...현대백화점·현대그린푸드, 인적분할로 각각 지주사 전환 (테크M ─ 라이프)]]></title>

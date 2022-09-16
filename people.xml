@@ -4,14 +4,22 @@
         <title>테크M ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Sep 2022 22:27:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Sep 2022 23:27:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[템터뷰] "로봇이 반죽부터 튀김까지"...사장님 '손품' 덜고 맛도 잡는다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=101526</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=101526</guid>
+            <pubDate>Sat, 17 Sep 2022 07:30:00 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101526_119190_121_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[부고] 김동현(한국산업은행 차장)씨 부친상]]></title>
             <link>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN5&amp;view_type=sm</link>
             <guid>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN5&amp;view_type=sm</guid>
-            <pubDate>Fri, 16 Sep 2022 22:26:20 GMT</pubDate>
+            <pubDate>Fri, 16 Sep 2022 23:25:22 GMT</pubDate>
             <content:encoded><![CDATA[김가은 기자]]></content:encoded>
         </item>
         <item>
@@ -109,14 +117,6 @@
             <pubDate>Sat, 03 Sep 2022 15:23:32 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202209/101176_118543_2254_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[롯데정보통신, 시각장애인용 전자 도서 제작 봉사활동]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=101120</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=101120</guid>
-            <pubDate>Thu, 01 Sep 2022 06:34:16 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101120_118428_5049_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

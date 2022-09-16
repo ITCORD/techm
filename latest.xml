@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Sep 2022 22:27:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Sep 2022 23:27:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[템터뷰] "로봇이 반죽부터 튀김까지"...사장님 '손품' 덜고 맛도 잡는다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=101526</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=101526</guid>
+            <pubDate>Sat, 17 Sep 2022 07:30:00 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101526_119190_121_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['형제 계열 분리 수순?'...현대백화점·현대그린푸드, 인적분할로 각각 지주사 전환]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=101533</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 16 Sep 2022 10:39:00 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202209/101505_119195_5220_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[두나무, 고려대 정보보호대학원에 15억원 기부...블록체인 연구 지원한다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=101515</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=101515</guid>
-            <pubDate>Fri, 16 Sep 2022 10:30:00 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101515_119164_2124_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
