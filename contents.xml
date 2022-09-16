@@ -4,7 +4,7 @@
         <title>테크M ─ 콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Sep 2022 04:56:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Sep 2022 06:10:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Fri, 16 Sep 2022 11:56:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202209/101523_119175_5637_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[프레임게임즈, 무협 판타지 신작 '신의 영역' 예약자 모집]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=101522</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=101522</guid>
+            <pubDate>Fri, 16 Sep 2022 11:50:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101522_119174_5012_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[두나무, 고려대 정보보호대학원에 15억원 기부...블록체인 연구 지원한다]]></title>
@@ -110,14 +118,6 @@
             <pubDate>Thu, 15 Sep 2022 07:33:05 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202209/101474_119104_4459_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[게임명가 넥슨이 만드는 메타버스는?...게임허브 될 '넥슨타운' 시범 오픈]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=101465</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=101465</guid>
-            <pubDate>Thu, 15 Sep 2022 11:24:00 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101465_119144_5649_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
