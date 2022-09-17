@@ -4,9 +4,17 @@
         <title>테크M ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 17 Sep 2022 15:25:58 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Sep 2022 16:33:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[e스포츠人] 광동 이재혁 "김다원 경게 대상 1호...5번째 우승 욕심난다"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=101543</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=101543</guid>
+            <pubDate>Sun, 18 Sep 2022 01:03:00 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101543_119220_233_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[템터뷰] "로봇이 반죽부터 튀김까지"...사장님 '손품' 덜고 맛도 잡는다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=101526</link>
@@ -19,7 +27,7 @@
             <title><![CDATA[[부고] 김동현(한국산업은행 차장)씨 부친상]]></title>
             <link>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN5&amp;view_type=sm</link>
             <guid>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN5&amp;view_type=sm</guid>
-            <pubDate>Sat, 17 Sep 2022 15:25:02 GMT</pubDate>
+            <pubDate>Sat, 17 Sep 2022 16:32:13 GMT</pubDate>
             <content:encoded><![CDATA[김가은 기자]]></content:encoded>
         </item>
         <item>
@@ -109,14 +117,6 @@
             <pubDate>Sun, 04 Sep 2022 08:00:00 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202209/101174_118536_4856_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[e스포츠人] 죽음의 조에서 살아남은 박인수 "멘탈 부여잡기도 힘든 경기였다"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=101176</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=101176</guid>
-            <pubDate>Sat, 03 Sep 2022 15:23:32 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101176_118543_2254_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

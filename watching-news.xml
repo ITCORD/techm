@@ -4,9 +4,16 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 17 Sep 2022 15:25:58 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Sep 2022 16:33:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[게임코인TV] 업비트 개발자 콘퍼런스(UDC) 꼭 들어야 하는 세션은?...UDC 예고(중)]]></title>
+            <link>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN10&amp;view_type=sm</link>
+            <guid>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN10&amp;view_type=sm</guid>
+            <pubDate>Sun, 18 Sep 2022 01:10:00 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[게임코인TV] 업비트 개발자 콘퍼런스(UDC) 히스토리 정리부터, 꼭 가야하는 이유까지...UDC 예고(상)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=101503</link>
@@ -110,14 +117,6 @@
             <pubDate>Thu, 25 Aug 2022 12:41:42 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202207/99942_116441_229_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[게임코인TV] 블룸버그발, FTX의 빗썸 인수 소식이 가지는 의미(상)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=99938</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=99938</guid>
-            <pubDate>Thu, 25 Aug 2022 12:41:42 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202207/99938_116434_2128_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
