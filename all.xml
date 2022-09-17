@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 17 Sep 2022 05:41:58 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Sep 2022 06:31:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -504,6 +504,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202209/101394_118976_4147_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[크립토 주간 브리핑] 긴축 공포에 힘 못쓰는 비트코인, 이더리움은 '머지' 이후 하락세 (테크M ─ 인베스트먼트)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=101535</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=101535</guid>
+            <pubDate>Sat, 17 Sep 2022 11:48:00 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101535_119204_2745_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[게리 겐슬러 美 SEC 위원장 "PoS 블록체인, SEC 감독 범위에 포함된다" (테크M ─ 인베스트먼트)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=101520</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=101520</guid>
@@ -608,14 +616,6 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202209/101353_118862_2920_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[비트코인, 2만달러 돌파...'머지' 앞둔 이더리움도 상승세 이어가 (테크M ─ 인베스트먼트)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=101350</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=101350</guid>
-            <pubDate>Fri, 09 Sep 2022 12:42:39 GMT</pubDate>
-            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101350_118850_018_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[템터뷰] "로봇이 반죽부터 튀김까지"...사장님 '손품' 덜고 맛도 잡는다 (테크M ─ 피플)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=101526</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=101526</guid>
@@ -627,7 +627,7 @@
             <title><![CDATA[[부고] 김동현(한국산업은행 차장)씨 부친상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Sat, 17 Sep 2022 05:41:00 GMT</pubDate>
+            <pubDate>Sat, 17 Sep 2022 06:30:34 GMT</pubDate>
             <content:encoded><![CDATA[김가은 기자]]></content:encoded>
         </item>
         <item>
@@ -839,6 +839,22 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202209/101363_118914_3940_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[글로벌] 연이은 조사와 소송에 난처한 아마존...美 캘리포니아도 소송 제기 (테크M ─ 리포트)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=101537</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=101537</guid>
+            <pubDate>Sat, 17 Sep 2022 06:31:12 GMT</pubDate>
+            <content:encoded><![CDATA[김현기 대표]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101537_119209_2858_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[글로벌] 빠르게 확장 중인 '긱 이코노미'...美 FTC, 근로자 보호 나선다 (테크M ─ 리포트)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=101536</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=101536</guid>
+            <pubDate>Sat, 17 Sep 2022 06:31:12 GMT</pubDate>
+            <content:encoded><![CDATA[김현기 대표]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101536_119208_2743_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[글로벌] 모바일 충전기 규제했던 유럽, 이번엔 업데이트·부품 '만지작' (테크M ─ 리포트)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=101492</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=101492</guid>
@@ -933,22 +949,6 @@
             <pubDate>Thu, 08 Sep 2022 00:36:00 GMT</pubDate>
             <content:encoded><![CDATA[김현기 대표]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202209/101323_118787_3538_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[글로벌] TSMC, 파운드리 공정 설비에 60조원 투자..."1위 굳히기 나선다" (테크M ─ 리포트)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=101322</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=101322</guid>
-            <pubDate>Thu, 08 Sep 2022 00:34:00 GMT</pubDate>
-            <content:encoded><![CDATA[김현기 대표]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101322_118786_3415_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[글로벌] "플로피 디스크 퇴출하겠다"...日, 디지털 혁신 가능할까 (테크M ─ 리포트)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=101252</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=101252</guid>
-            <pubDate>Tue, 06 Sep 2022 07:39:14 GMT</pubDate>
-            <content:encoded><![CDATA[김현기 대표]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101252_118652_4040_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[게임코인TV] 업비트 개발자 콘퍼런스(UDC) 히스토리 정리부터, 꼭 가야하는 이유까지...UDC 예고(상) (테크M ─ 보는 뉴스)]]></title>
