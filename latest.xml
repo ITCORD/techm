@@ -4,14 +4,22 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 18 Sep 2022 20:26:02 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Sep 2022 21:21:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['화웨이 커넥트 2022' 방콕 개막…4개국 돌며 '산업 디지털화' 전략 공개]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=101556</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=101556</guid>
+            <pubDate>Mon, 19 Sep 2022 06:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101556_119246_427_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[부고] 류세나(톱데일리 기자)씨 모친상, 강성길(위메이드플레이 과장)씨 빙부상]]></title>
             <link>https://www.techm.kr/news/articleList.html</link>
             <guid>https://www.techm.kr/news/articleList.html</guid>
-            <pubDate>Sun, 18 Sep 2022 20:22:38 GMT</pubDate>
+            <pubDate>Sun, 18 Sep 2022 21:19:20 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
         </item>
         <item>
@@ -156,14 +164,6 @@
             <pubDate>Sat, 17 Sep 2022 07:20:29 GMT</pubDate>
             <content:encoded><![CDATA[김현기 대표]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202209/101536_119242_130_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[크립토 주간 브리핑] 긴축 공포에 힘 못쓰는 비트코인, 이더리움은 '머지' 이후 하락세]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=101535</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=101535</guid>
-            <pubDate>Sat, 17 Sep 2022 11:48:00 GMT</pubDate>
-            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101535_119243_157_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
