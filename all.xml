@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 18 Sep 2022 12:42:17 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Sep 2022 13:40:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[게임코인TV] 업비트 개발자 콘퍼런스(UDC) 꼭 들어야 하는 세션은?...UDC 예고(하) (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=101554</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=101554</guid>
+            <pubDate>Sun, 18 Sep 2022 13:37:51 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101554_119245_5531_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[SKB, OTT 포털 'PlayZ' 기능 고도화...OTT별 최신 콘텐츠 한눈에 본다 (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=101553</link>
@@ -157,14 +165,6 @@
             <pubDate>Sat, 17 Sep 2022 11:04:00 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202209/101534_119203_5741_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[스타트업 썰전] ⑳피부미용 '여신티켓'..."프로 스포츠 구단처럼 일해요" (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=101504</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=101504</guid>
-            <pubDate>Sat, 17 Sep 2022 09:30:00 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101504_119244_227_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[SKB, OTT 포털 'PlayZ' 기능 고도화...OTT별 최신 콘텐츠 한눈에 본다 (테크M ─ 콘텐츠)]]></title>
@@ -642,7 +642,7 @@
             <title><![CDATA[[부고] 김동현(한국산업은행 차장)씨 부친상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Sun, 18 Sep 2022 12:41:23 GMT</pubDate>
+            <pubDate>Sun, 18 Sep 2022 13:40:03 GMT</pubDate>
             <content:encoded><![CDATA[김가은 기자]]></content:encoded>
         </item>
         <item>
@@ -950,6 +950,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202209/101324_118788_3656_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[게임코인TV] 업비트 개발자 콘퍼런스(UDC) 꼭 들어야 하는 세션은?...UDC 예고(하) (테크M ─ 보는 뉴스)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=101554</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=101554</guid>
+            <pubDate>Sun, 18 Sep 2022 13:40:54 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101554_119245_5531_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[게임코인TV] 업비트 개발자 콘퍼런스(UDC) 꼭 들어야 하는 세션은?...UDC 예고(중) (테크M ─ 보는 뉴스)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
@@ -1051,14 +1059,6 @@
             <pubDate>Mon, 01 Aug 2022 01:16:00 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202208/99959_116481_160_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[게임코인TV] 빗썸이 인수되면 좋은점 vs. 안좋은점...FTX의 빗썸 인수설에 위믹스 주목?(중) (테크M ─ 보는 뉴스)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=99942</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=99942</guid>
-            <pubDate>Thu, 25 Aug 2022 12:41:42 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202207/99942_116441_229_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
