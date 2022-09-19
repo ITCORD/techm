@@ -4,16 +4,32 @@
         <title>테크M ─ 인베스트먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Sep 2022 21:24:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Sep 2022 22:24:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[테크M 리포트] 돌풍의 넥슨게임즈, 나홀로 훨훨...호실적+멀티플랫폼 모멘텀 'UP']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=101566</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=101566</guid>
+            <pubDate>Mon, 19 Sep 2022 11:08:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101566_119262_740_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[크립토 브리핑] '머지'에도 폭락한 이더리움, 200만원 붕괴...FOMC 앞두고 가상자산 '급락']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=101560</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=101560</guid>
+            <pubDate>Mon, 19 Sep 2022 10:14:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101560_119255_926_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[크립토 주간 브리핑] 긴축 공포에 힘 못쓰는 비트코인, 이더리움은 '머지' 이후 하락세]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=101535</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=101535</guid>
             <pubDate>Sat, 17 Sep 2022 11:48:00 GMT</pubDate>
             <content:encoded><![CDATA[김가은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101535_119243_157_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101535_119204_2745_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[게리 겐슬러 美 SEC 위원장 "PoS 블록체인, SEC 감독 범위에 포함된다"]]></title>
@@ -102,22 +118,6 @@
             <pubDate>Mon, 12 Sep 2022 10:58:00 GMT</pubDate>
             <content:encoded><![CDATA[김가은 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202209/101365_118924_615_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[테크M 이슈] IPO 앞두고 반등에 성공한 케이뱅크]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=101355</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=101355</guid>
-            <pubDate>Sun, 11 Sep 2022 00:29:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101355_118873_2935_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[크립토 주간 브리핑] 막판 반등 성공한 비트코인...3000만원 돌파 넘본다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=101353</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=101353</guid>
-            <pubDate>Sat, 10 Sep 2022 11:34:00 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101353_118862_2920_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
