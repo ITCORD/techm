@@ -4,9 +4,17 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Sep 2022 04:59:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Sep 2022 06:18:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[화웨이 커넥트] '클라우드'를 통해 구체화되는 화웨이의 생존전략]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=101587</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=101587</guid>
+            <pubDate>Mon, 19 Sep 2022 06:15:59 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101587_119286_610_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[화웨이 커넥트] "AWS 게섯거라"…글로벌 향하는 화웨이 클라우드]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=101578</link>
@@ -110,14 +118,6 @@
             <pubDate>Sun, 18 Sep 2022 00:06:00 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202209/101550_119231_633_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['허위 매물·위장 딜러 없앤다'...KT, 중고차 매매 전자계약 전환 돕는다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=101549</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=101549</guid>
-            <pubDate>Sun, 18 Sep 2022 00:04:00 GMT</pubDate>
-            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101549_119230_340_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
