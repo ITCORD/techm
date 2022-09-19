@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Sep 2022 08:35:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Sep 2022 09:29:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[화웨이 커넥트] 폴더블폰으로 재기 노리는 화웨이…실제로 만져보니 (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=101594</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=101594</guid>
+            <pubDate>Mon, 19 Sep 2022 09:26:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101594_119305_3859_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[대학생 전용 네이버플러스 멤버십 '스튜던트' 출시..크림·엑스박스도 더했다 (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=101592</link>
@@ -160,14 +168,6 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202209/101568_119265_158_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[아낌없이 주는 두나무, 코로나19·수해 피해 결식아동 위해 식사 전달 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=101567</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=101567</guid>
-            <pubDate>Mon, 19 Sep 2022 11:29:00 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101567_119264_113_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[우마무스메 사태 '국정감사' 핫이슈 부상...권익보호 당연하지만 과도한 관여되면 '곤란' (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=101589</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=101589</guid>
@@ -280,10 +280,18 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202209/101539_119211_4137_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[화웨이 커넥트] 폴더블폰으로 재기 노리는 화웨이…실제로 만져보니 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=101594</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=101594</guid>
+            <pubDate>Mon, 19 Sep 2022 09:26:39 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101594_119305_3859_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[대학생 전용 네이버플러스 멤버십 '스튜던트' 출시..크림·엑스박스도 더했다 (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=101592</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=101592</guid>
-            <pubDate>Mon, 19 Sep 2022 08:32:23 GMT</pubDate>
+            <pubDate>Mon, 19 Sep 2022 08:31:44 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202209/101592_119295_3148_v150.jpg" length="0" type="image/jpg"/>
         </item>
@@ -382,14 +390,6 @@
             <pubDate>Mon, 19 Sep 2022 09:55:00 GMT</pubDate>
             <content:encoded><![CDATA[김가은 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202209/101559_119249_4826_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['화웨이 커넥트 2022' 방콕 개막…4개국 돌며 '산업 디지털화' 전략 공개 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=101556</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=101556</guid>
-            <pubDate>Mon, 19 Sep 2022 06:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101556_119246_427_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[스타트업 썰전] ⑳피부미용 '여신티켓'..."프로 스포츠 구단처럼 일해요" (테크M ─ 이노베이션)]]></title>
@@ -619,7 +619,7 @@
             <title><![CDATA[[부고] 류세나(톱데일리 기자)씨 모친상, 강성길(위메이드플레이 과장)씨 빙부상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Mon, 19 Sep 2022 08:34:08 GMT</pubDate>
+            <pubDate>Mon, 19 Sep 2022 09:28:26 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
         </item>
         <item>
@@ -650,7 +650,7 @@
             <title><![CDATA[[부고] 김동현(한국산업은행 차장)씨 부친상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Mon, 19 Sep 2022 08:34:08 GMT</pubDate>
+            <pubDate>Mon, 19 Sep 2022 09:28:26 GMT</pubDate>
             <content:encoded><![CDATA[김가은 기자]]></content:encoded>
         </item>
         <item>
