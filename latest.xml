@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Sep 2022 06:10:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Sep 2022 07:32:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["랜섬웨어에 속수무책" 정부, '회복 탄력성' 중심으로 대응 패러다임 바꾼다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=101639</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=101639</guid>
+            <pubDate>Tue, 20 Sep 2022 07:29:31 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101639_119367_932_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[화웨이 커넥트] 엔터프라이즈 사업 폭풍 성장 중인 화웨이…비결은 '시나리오 기반 솔루션']]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=101637</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 20 Sep 2022 10:22:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202209/101618_119344_2251_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[크립토 브리핑] 美 증시 반등에 가상자산 소폭 상승…제롬 파월 입에 쏠린 눈]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=101615</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=101615</guid>
-            <pubDate>Tue, 20 Sep 2022 10:20:00 GMT</pubDate>
-            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101615_119342_1631_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
