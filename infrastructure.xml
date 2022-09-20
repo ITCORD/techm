@@ -4,9 +4,17 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Sep 2022 10:29:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Sep 2022 11:22:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[NHN아카데미, 광주 캠퍼스 개소…지역 중심 IT 인재양성 본격화]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=101652</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=101652</guid>
+            <pubDate>Tue, 20 Sep 2022 11:20:34 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101652_119402_2756_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[화웨이 커넥트] "데이터, A부터 Z까지 맡겨달라" 화웨이의 자신감]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=101645</link>
@@ -110,14 +118,6 @@
             <pubDate>Tue, 20 Sep 2022 10:22:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202209/101618_119344_2251_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LG유플러스, AWS-삼성과 백업망 구축...재난 상황 대응력 'UP']]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=101605</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=101605</guid>
-            <pubDate>Tue, 20 Sep 2022 09:49:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101605_119331_4910_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Sep 2022 10:29:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Sep 2022 11:22:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[NHN아카데미, 광주 캠퍼스 개소…지역 중심 IT 인재양성 본격화]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=101652</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=101652</guid>
+            <pubDate>Tue, 20 Sep 2022 11:20:04 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101652_119402_2756_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["흑자 핀테크는 달라요" 韓 인터넷은행 1호 케이뱅크, 코스피 상장예심 뚫었다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=101651</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 20 Sep 2022 10:53:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202209/101626_119391_356_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[롯데정보통신, 환경경영시스템 국제표준 'ISO14001' 인증 획득]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=101624</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=101624</guid>
-            <pubDate>Tue, 20 Sep 2022 10:48:00 GMT</pubDate>
-            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101624_119351_4530_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
