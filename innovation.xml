@@ -1,8 +1,123 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN3&amp;view_type=sm</id>
-    <title>테크M ─ 이노베이션</title>
-    <updated>2022-09-22T10:27:43.896Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.techm.kr/news/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>테크M ─ 이노베이션</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 22 Sep 2022 11:21:17 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[UDC 22] 부산에 모인 '스마트 컨트랙트' 강자들, 전략도 '각양각색']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=101734</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=101734</guid>
+            <pubDate>Thu, 22 Sep 2022 11:20:11 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101734_119534_2438_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[UDC 22] 수익보단 대중화...'한국판 컨센시스' 꿈꾸는 '람다256']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=101725</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=101725</guid>
+            <pubDate>Thu, 22 Sep 2022 11:20:11 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101725_119511_1043_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[UDC 22] 웹 3.0 시대의 이사회 'DAO'...제도화 앞서 규제 이슈 풀어야]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=101726</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=101726</guid>
+            <pubDate>Thu, 22 Sep 2022 11:20:11 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101726_119509_433_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[UDC 22] 휴식공간에 무료 간식·게임기까지, '네트워킹의 장' 열렸다...UDC 이모저모]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=101716</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=101716</guid>
+            <pubDate>Thu, 22 Sep 2022 11:20:11 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101716_119512_116_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[UDC 22] 온체인데이터, 코인 투자 넘어 웹 3.0 길잡이로 '우뚝']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=101714</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=101714</guid>
+            <pubDate>Thu, 22 Sep 2022 11:20:11 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101714_119488_4335_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[UDC 22] 두나무 업비트에서 '자금세탁'이 불가능한 이유]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=101711</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=101711</guid>
+            <pubDate>Thu, 22 Sep 2022 11:20:11 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101711_119486_2838_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[UDC 22] 박세준 티오리 대표 "웹 3.0 시대, 맞춤형 보안이 필요"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=101709</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=101709</guid>
+            <pubDate>Thu, 22 Sep 2022 11:20:11 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101709_119484_5551_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[UDC 22] 카르다노 "웹 3.0 시대는 시기상조, 간결성·안정성이 중요"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=101703</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=101703</guid>
+            <pubDate>Thu, 22 Sep 2022 11:20:11 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101703_119513_1132_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[UDC 22] 이석우 두나무 대표 "바이낸스 韓 진출? 동등한 경쟁환경이 먼저"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=101705</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=101705</guid>
+            <pubDate>Thu, 22 Sep 2022 11:20:11 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101705_119514_1155_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[UDC 22] UDC에 뜬 이더리움 킬러 '솔라나', NFT 생태계에 힘 싣는다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=101700</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=101700</guid>
+            <pubDate>Thu, 22 Sep 2022 00:40:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101700_119516_1223_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[UDC 22] 두나무가 꼽은 블록체인 기술 트렌드...'스마트계약-레이어2-인터체인']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=101699</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=101699</guid>
+            <pubDate>Thu, 22 Sep 2022 11:54:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101699_119472_533_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[UDC 22] 폴리곤 "웹 3.0 확장 핵심은 개발자 성공...개발자 교육에 집중"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=101698</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=101698</guid>
+            <pubDate>Thu, 22 Sep 2022 11:52:00 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101698_119517_1253_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[UDC 22] '코인 실명제'라 불리는 트래블룰 개념 들여다보니]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=101688</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=101688</guid>
+            <pubDate>Thu, 22 Sep 2022 10:52:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101688_119459_5238_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['덕질' 패러다임 바꾸는 네이버..."나우드롭스에서 엔믹스 NFT 소장하세요"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=101675</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=101675</guid>
+            <pubDate>Thu, 22 Sep 2022 11:20:11 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101675_119433_3126_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
