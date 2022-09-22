@@ -1,7 +1,123 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://ITCORD.github.io/techm/all.xml</id>
-    <title>Combined feed</title>
-    <updated>2022-09-22T07:38:27.041Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Combined feed</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 22 Sep 2022 08:32:22 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[크립토 브리핑] 美 3연속 '자이언트 스텝'에 힘 빠진 코인시장…전망도 암울 (테크M ─ 인베스트먼트)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=101687</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=101687</guid>
+            <pubDate>Thu, 22 Sep 2022 10:57:00 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101687_119458_5040_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[밈코인 전락한 테라 루나...권도형 구속 영장에도 일거래량 수천억 (테크M ─ 인베스트먼트)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=101667</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=101667</guid>
+            <pubDate>Thu, 22 Sep 2022 08:31:21 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101667_119420_3318_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[크립토 브리핑] 바닥은 어디? 추락하는 비트코인-이더리움..금리인상 공포 지속 (테크M ─ 인베스트먼트)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=101655</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=101655</guid>
+            <pubDate>Wed, 21 Sep 2022 10:12:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101655_119406_439_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["흑자 핀테크는 달라요" 韓 인터넷은행 1호 케이뱅크, 코스피 상장예심 뚫었다 (테크M ─ 인베스트먼트)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=101651</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=101651</guid>
+            <pubDate>Thu, 22 Sep 2022 08:31:21 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101651_119401_2324_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[유상증자 발표에도 주가 '곤두박질'...드래곤플라이, 블록체인-디지털치료제 사업 '노란불' (테크M ─ 인베스트먼트)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=101642</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=101642</guid>
+            <pubDate>Thu, 22 Sep 2022 08:31:21 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101642_119393_4040_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['머지' 업그레이드로 등장한 'ETHW'...가격은 10달러 아래로 '침몰' (테크M ─ 인베스트먼트)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=101641</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=101641</guid>
+            <pubDate>Thu, 22 Sep 2022 08:31:21 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101641_119370_524_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[테크M 이슈] 한류 포털 꿈꾸는 컴투스...콘텐츠 투자 펀드에 목돈 푸는 이유 (테크M ─ 인베스트먼트)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=101606</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=101606</guid>
+            <pubDate>Tue, 20 Sep 2022 11:05:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101606_119389_3422_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[크립토 브리핑] 美 증시 반등에 가상자산 소폭 상승…제롬 파월 입에 쏠린 눈 (테크M ─ 인베스트먼트)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=101615</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=101615</guid>
+            <pubDate>Tue, 20 Sep 2022 10:20:00 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101615_119342_1631_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[테크M 리포트] 돌풍의 넥슨게임즈, 나홀로 훨훨...호실적+멀티플랫폼 모멘텀 'UP' (테크M ─ 인베스트먼트)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=101566</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=101566</guid>
+            <pubDate>Mon, 19 Sep 2022 11:08:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101566_119262_740_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[크립토 브리핑] '머지'에도 폭락한 이더리움, 200만원 붕괴...FOMC 앞두고 가상자산 '급락' (테크M ─ 인베스트먼트)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=101560</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=101560</guid>
+            <pubDate>Mon, 19 Sep 2022 10:14:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101560_119255_926_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[크립토 주간 브리핑] 긴축 공포에 힘 못쓰는 비트코인, 이더리움은 '머지' 이후 하락세 (테크M ─ 인베스트먼트)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=101535</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=101535</guid>
+            <pubDate>Sat, 17 Sep 2022 11:48:00 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101535_119204_2745_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[게리 겐슬러 美 SEC 위원장 "PoS 블록체인, SEC 감독 범위에 포함된다" (테크M ─ 인베스트먼트)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=101520</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=101520</guid>
+            <pubDate>Fri, 16 Sep 2022 11:14:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101520_119171_1432_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[크립토 브리핑] '머지'에도 하락하는 이더리움...200만원선 위태 (테크M ─ 인베스트먼트)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=101510</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=101510</guid>
+            <pubDate>Fri, 16 Sep 2022 10:02:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101510_119158_5425_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[업그레이드 성공으로 '지분증명 시대' 연 이더리움…가격은 소폭 상승 (테크M ─ 인베스트먼트)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=101494</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=101494</guid>
+            <pubDate>Thu, 22 Sep 2022 08:31:21 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101494_119132_1738_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
