@@ -1,8 +1,123 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN1&amp;view_type=sm</id>
-    <title>테크M ─ 콘텐츠</title>
-    <updated>2022-09-26T20:26:48.352Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.techm.kr/news/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>테크M ─ 콘텐츠</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Mon, 26 Sep 2022 21:24:57 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["추억 속 불고기 버거가 NFT로" 롯데리아가 선보인 NFT '완판']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=101843</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=101843</guid>
+            <pubDate>Tue, 27 Sep 2022 01:02:00 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101843_119724_2131_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[카카오 VX '카카오골프예약', 춘식이와 1박 2일 가을 골프 여행 떠난다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=101836</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=101836</guid>
+            <pubDate>Mon, 26 Sep 2022 21:22:29 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101836_119717_026_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한국YMCA, 세계YMCA와 글로벌 모금운동 시작...NFT 활용한다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=101832</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=101832</guid>
+            <pubDate>Mon, 26 Sep 2022 21:22:29 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101832_119713_357_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2030 세계박람회 유치 위해...부산 'BTS 도시'로 탈바꿈]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=101834</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=101834</guid>
+            <pubDate>Mon, 26 Sep 2022 21:22:29 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101834_119715_392_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[FreeView] K-게임, 즐거우십니까?]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=101829</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=101829</guid>
+            <pubDate>Mon, 26 Sep 2022 21:22:29 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101829_119709_1236_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[엔씨, 채용·직무 설명회로 메타버스 플랫폼 '미니버스' 최초 공개]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=101826</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=101826</guid>
+            <pubDate>Mon, 26 Sep 2022 21:22:29 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101826_119703_4425_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[결정적e장면] 1등을 위한 주행과 상위권 유지를 위한 주행은 다르다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=101821</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=101821</guid>
+            <pubDate>Mon, 26 Sep 2022 21:22:29 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101821_119697_2629_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[어린이 창의력 교육 위해 뭉쳤다...넥슨재단-교사-전남교육청 맞손]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=101820</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=101820</guid>
+            <pubDate>Mon, 26 Sep 2022 21:22:29 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101820_119689_506_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[네오핀, 클레이튼 도메인 서비스 'KNS'와 파트너십 체결]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=101819</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=101819</guid>
+            <pubDate>Mon, 26 Sep 2022 11:46:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101819_119688_3835_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[컴투스홀딩스 '엑스플라(XPLA)', 싱가포르 간다...블록체인 행사서 존재감 뽐낸다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=101814</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=101814</guid>
+            <pubDate>Mon, 26 Sep 2022 10:54:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101814_119683_3737_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[카카오엔터, 1.5억뷰 웹툰 '악마리'에 차은우 뜬다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=101813</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=101813</guid>
+            <pubDate>Mon, 26 Sep 2022 10:51:00 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101813_119682_3658_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[폴리곤 손잡은 네오위즈 '고양이와 스프' NFT 만든다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=101816</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=101816</guid>
+            <pubDate>Mon, 26 Sep 2022 10:50:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101816_119685_4352_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['장원영'과 나란히...온마인드 버추얼 휴먼 '나수아', SKT 광고 모델 발탁]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=101807</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=101807</guid>
+            <pubDate>Mon, 26 Sep 2022 10:25:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101807_119676_1624_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['일산이 들썩'...포켓몬고 '사파리 존: 고양' 행사에 가족 단위 관람객들로 북적]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=101798</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=101798</guid>
+            <pubDate>Mon, 26 Sep 2022 21:22:29 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101798_119665_2527_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
