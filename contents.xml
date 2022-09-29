@@ -1,8 +1,123 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN1&amp;view_type=sm</id>
-    <title>테크M ─ 콘텐츠</title>
-    <updated>2022-09-29T17:41:00.678Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.techm.kr/news/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>테크M ─ 콘텐츠</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 29 Sep 2022 18:33:52 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[롤드컵 브리핑] 랜선으로 즐기는 롤드컵...드롭-보상 캡슐 등 다양한 이벤트 제공된다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=101962</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=101962</guid>
+            <pubDate>Thu, 29 Sep 2022 18:31:32 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101962_119929_5227_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[애드히시브, 美 'IDEA 2022' 2관왕…"디자인 경쟁력 입증"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=101960</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=101960</guid>
+            <pubDate>Thu, 29 Sep 2022 18:31:32 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101960_119926_1143_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['갓겜' 칭호 탈환 나선 '던파 모바일'…최고 레벨 65로 확장]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=101953</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=101953</guid>
+            <pubDate>Thu, 29 Sep 2022 18:31:32 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101953_119902_1322_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[카카오게임즈, 대형 신작 '아레스' 공식 트레일러 최초 공개]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=101954</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=101954</guid>
+            <pubDate>Thu, 29 Sep 2022 18:31:32 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101954_119903_2055_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[넷마블 블록체인 신작 '킹 오브 파이터 아레나' 글로벌 사전등록 시작]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=101955</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=101955</guid>
+            <pubDate>Thu, 29 Sep 2022 18:31:32 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101955_119904_274_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[PCS가 온다] 국제대회 약했던 광동 프릭스, 이번엔 다를까]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=101947</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=101947</guid>
+            <pubDate>Thu, 29 Sep 2022 18:31:32 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101947_119923_236_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[​[PCS가 온다] 2주간의 대장정...중국 vs 한국의 불꽃튀는 대결]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=101940</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=101940</guid>
+            <pubDate>Thu, 29 Sep 2022 18:31:32 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101940_119924_36_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[컴투스홀딩스 '엑스테리오'와 맞손...XPLA 기반 웹 3.0 게임 선보인다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=101949</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=101949</guid>
+            <pubDate>Thu, 29 Sep 2022 18:31:32 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101949_119896_2636_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['지스타 2022' 역대급 규모로 재도약..."다시 한번 게임의 세상으로"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=101945</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=101945</guid>
+            <pubDate>Thu, 29 Sep 2022 18:31:32 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101945_119890_950_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['조선의 4번 타자' 이대호 은퇴 경기, 업비트 NFT서 판매]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=101933</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=101933</guid>
+            <pubDate>Thu, 29 Sep 2022 10:54:00 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101933_119877_5313_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[카트통신] 노준현의 뜨거운 눈물...광동, 블레이즈 잡고 결승행]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=101920</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=101920</guid>
+            <pubDate>Thu, 29 Sep 2022 18:31:32 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101920_119860_4223_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[롤드컵 브리핑] 하루 남은 개막...이번 시즌은 어떻게 펼쳐지나]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=101914</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=101914</guid>
+            <pubDate>Thu, 29 Sep 2022 18:31:32 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101914_119836_5856_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[라이징윙스, 힐링 감성 게임 '캠핑 캣 패밀리' 국내 정식 출시]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=101889</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=101889</guid>
+            <pubDate>Wed, 28 Sep 2022 11:01:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101889_119805_3531_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[국감 '핫이슈' 된 가상자산...이석우 대표·이정훈 의장 증인 채택]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=101878</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=101878</guid>
+            <pubDate>Thu, 29 Sep 2022 18:31:32 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101878_119782_2550_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
