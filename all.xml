@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 01 Oct 2022 08:32:19 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Oct 2022 09:27:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[크립토 월간 브리핑] 머지·금리인상·소송 등 이슈 쏟아진 9월...비트 횡보·이더 하락·리플 급등 (테크M ─ 인베스트먼트)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102001</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102001</guid>
+            <pubDate>Sat, 01 Oct 2022 10:37:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102001_119992_211_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['오딘' 신화 라이온하트 스튜디오, 증권신고서 제출...11월 코스닥 상장 목표 (테크M ─ 인베스트먼트)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=101992</link>
@@ -110,14 +118,6 @@
             <pubDate>Mon, 26 Sep 2022 10:07:00 GMT</pubDate>
             <content:encoded><![CDATA[김가은 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202209/101805_119674_449_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[크립토 주간 브리핑] '자이언트 스텝'에 눌린 가상자산…SEC 소송 호재에 리플 홀로 53%↑ (테크M ─ 인베스트먼트)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=101785</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=101785</guid>
-            <pubDate>Wed, 28 Sep 2022 22:25:15 GMT</pubDate>
-            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101785_119633_4626_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
