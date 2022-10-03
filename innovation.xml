@@ -1,8 +1,123 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN3&amp;view_type=sm</id>
-    <title>테크M ─ 이노베이션</title>
-    <updated>2022-10-03T09:33:12.333Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.techm.kr/news/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>테크M ─ 이노베이션</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Mon, 03 Oct 2022 10:29:31 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[카카오뱅크, 중신용대출 금리 최대 0.50%p 인하…"금융포용 앞장"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102026</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102026</guid>
+            <pubDate>Mon, 03 Oct 2022 10:23:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102026_120059_2239_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[스타트업 썰전] ㉑프리랜서 마켓 '크몽'..."프로 N잡러 널렸죠"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=101638</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=101638</guid>
+            <pubDate>Mon, 03 Oct 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/101638_120065_433_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[카카오뱅크 '가명정보 활용 우수사례' 2년 연속 대상 수상]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102010</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102010</guid>
+            <pubDate>Sun, 02 Oct 2022 09:52:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102010_120027_5041_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[메타버스 핵심은 게임…"규제로 성장동력 잃어선 안돼"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=101995</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=101995</guid>
+            <pubDate>Mon, 03 Oct 2022 10:27:35 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101995_119974_2737_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[두나무, '루나' 거래수수료 66억 전액 투자자 보호에 쓴다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=101978</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=101978</guid>
+            <pubDate>Fri, 30 Sep 2022 11:18:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101978_119948_1127_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[테크M 트렌드] 경기 불황 속 건설업계 생존전략..."메타버스 트랜스포메이션"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=101923</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=101923</guid>
+            <pubDate>Fri, 30 Sep 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101923_119866_5014_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[토큰 2049] 장현국 위메이드 "스테이블코인, 지금이 적기...위믹스 달러가 가장 혁신적"(종합)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=101956</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=101956</guid>
+            <pubDate>Mon, 03 Oct 2022 10:27:35 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101956_119918_5957_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[디파이·크로스체인에 힘 싣는 '오지스'....라경수 COO "중요한 건 소유권"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=101951</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=101951</guid>
+            <pubDate>Mon, 03 Oct 2022 10:27:35 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101951_119899_17_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["타다, 불법 콜택시 아니다" 이재웅 쏘카 전 대표 2심도 '무죄']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=101952</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=101952</guid>
+            <pubDate>Mon, 03 Oct 2022 10:27:35 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101952_119900_1014_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[토큰 2049] 장현국 위메이드 "위믹스 버전 클레바 나온다...UI 개편도 예고"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=101950</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=101950</guid>
+            <pubDate>Mon, 03 Oct 2022 10:27:35 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101950_119898_4057_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김우석 라인테크플러스 대표 "메타버스 대중화 열쇠는 NFT...콘텐츠 소비 주도할 것"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=101942</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=101942</guid>
+            <pubDate>Mon, 03 Oct 2022 10:27:35 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101942_119888_207_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[토큰 2049] 장현국 위메이드 "위믹스 3.0 메인넷, 10월20일 출시 목표"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=101943</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=101943</guid>
+            <pubDate>Mon, 03 Oct 2022 10:27:35 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101943_119886_172_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이석우 두나무 대표 "규제 공백에 수년간 사기꾼 취급…명확한 기준 마련해달라"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=101937</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=101937</guid>
+            <pubDate>Thu, 29 Sep 2022 00:18:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101937_119880_168_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['디지털자산기본법'에 당정 한 목소리 "진흥과 규율 균형 잡아야"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=101929</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=101929</guid>
+            <pubDate>Thu, 29 Sep 2022 10:59:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101929_119872_3640_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
