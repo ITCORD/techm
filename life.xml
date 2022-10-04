@@ -1,8 +1,123 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN6&amp;view_type=sm</id>
-    <title>테크M ─ 라이프</title>
-    <updated>2022-10-04T07:33:28.516Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.techm.kr/news/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>테크M ─ 라이프</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Tue, 04 Oct 2022 08:34:53 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["어느 집이 더 편리한가"…삼성-LG '한국전자전'서 스마트홈 맞대결]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102038</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102038</guid>
+            <pubDate>Tue, 04 Oct 2022 10:15:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102038_120143_3919_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[컬리 "고물가에 대용량 제품 판매 2배 늘었다"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102028</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102028</guid>
+            <pubDate>Tue, 04 Oct 2022 08:34:25 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102028_120061_1059_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['LG 그램 360' 활용한 심청전 뮤비, 유튜브 조회수 1000만뷰 돌파]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102021</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102021</guid>
+            <pubDate>Mon, 03 Oct 2022 11:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102021_120050_5235_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[마스크 벗자 치솟는 '뷰티' 수요…티몬, 뷰티 전문관 '뷰티꿀딜' 상시 운영]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102023</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102023</guid>
+            <pubDate>Mon, 03 Oct 2022 10:02:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102023_120053_135_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[LG전자, '올인원타워' 결합한 로봇청소기 '코드제로 오브제컬렉션 R9' 출시]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102019</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102019</guid>
+            <pubDate>Mon, 03 Oct 2022 10:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102019_120047_4320_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[쿠팡 '슈퍼세일위크' 한달 할인 계획 미리보고 쇼핑…첫 주는 '가전']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102022</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102022</guid>
+            <pubDate>Mon, 03 Oct 2022 09:58:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102022_120052_5741_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[삼성 전자제품 구매하면 'e식품관'에서 식료품 할인 받는다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102018</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102018</guid>
+            <pubDate>Mon, 03 Oct 2022 09:37:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102018_120046_3526_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[LG전자 세계 최대 97형 올레드 TV 북미시장 출격]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102008</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102008</guid>
+            <pubDate>Sun, 02 Oct 2022 10:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102008_120024_3849_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[같이사소] 10월의 시작, 쿠팡-티몬-위메프가 준비한 기획전으로 연휴를 즐기자]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=101987</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=101987</guid>
+            <pubDate>Sat, 01 Oct 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101987_119958_3046_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[물가 상승에 B급 농산물 인기...11번가, '어글리러블리' 매출 7배 급증]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=101938</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=101938</guid>
+            <pubDate>Thu, 29 Sep 2022 11:59:00 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101938_119882_553_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이마트, 노브랜드·피코크 '가격동결'…'고물가 시대' 가계 부담 던다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=101917</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=101917</guid>
+            <pubDate>Thu, 29 Sep 2022 06:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101917_119848_320_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NHN, 사내 경매 수익으로 어린이 도서 기부...ESG경영 강화]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=101891</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=101891</guid>
+            <pubDate>Wed, 28 Sep 2022 10:59:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101891_119807_4443_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[같이사소] 치솟는 물가, 다양한 쿠팡 기획전으로 가계 부담 덜어보자]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=101881</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=101881</guid>
+            <pubDate>Wed, 28 Sep 2022 09:54:00 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101881_119792_3923_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[테크M 이슈] "역시 흑자 유니콘" 무신사, 스타일쉐어 통합...밸류에이션 'UP']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=101883</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=101883</guid>
+            <pubDate>Wed, 28 Sep 2022 09:37:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101883_119800_3728_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
