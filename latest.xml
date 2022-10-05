@@ -1,8 +1,171 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.techm.kr/news/articleList.html</id>
-    <title>테크M ─ 전체기사</title>
-    <updated>2022-10-05T22:28:17.862Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.techm.kr/news/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>테크M ─ 전체기사</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 05 Oct 2022 23:31:35 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[미티컬게임즈 코인 나온다...크래프톤 위메이드 등 韓 게임사와도 '맞손']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102140</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102140</guid>
+            <pubDate>Wed, 05 Oct 2022 23:27:47 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102140_120220_4451_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[게임코인TV] 위메이드 '위믹스'의 디오스 프로토콜의 모든 것(상)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102141</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102141</guid>
+            <pubDate>Wed, 05 Oct 2022 23:27:47 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102141_120223_416_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[노벨화학상 버토지·멜달·샤플리스…'클릭화학'으로 인류에 기여]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102139</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102139</guid>
+            <pubDate>Wed, 05 Oct 2022 23:27:47 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102139_120218_5542_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[국감 2022] '산재 건수 급증' 지적에...쿠팡 "고용·작업환경 개선할 것"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102138</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102138</guid>
+            <pubDate>Wed, 05 Oct 2022 23:27:47 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102138_120217_494_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[글로벌] 일론 머스크, 트위터 인수 재개..."슈퍼 앱 개발 촉진제로 활용"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102137</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102137</guid>
+            <pubDate>Wed, 05 Oct 2022 23:27:47 GMT</pubDate>
+            <content:encoded><![CDATA[김현기 대표]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102137_120210_3237_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[국감 2022] 류호정 "제페토 내 게임도 게임, 등급분류 받아야"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102136</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102136</guid>
+            <pubDate>Wed, 05 Oct 2022 23:27:47 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102136_120211_3255_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[국감 2022] 김성회 G식백과 "게임산업 커진 만큼 이용자 권익보호도 힘써야"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102135</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102135</guid>
+            <pubDate>Wed, 05 Oct 2022 23:27:47 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102135_120212_3313_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[테크M 이슈] 오류투성이 '차세대 사회보장정보시스템'…무엇이 문제였나]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102129</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102129</guid>
+            <pubDate>Wed, 05 Oct 2022 23:27:47 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102129_120213_3332_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2D 게임 캐틱터가 서울패션위크에?...'러브언홀릭' '정하이' 모델로 무대 선다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102132</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102132</guid>
+            <pubDate>Wed, 05 Oct 2022 23:27:47 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102132_120200_4441_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[네오핀, NFT 사업 본격화...NFT 지갑 추가하고 파트너사 모집한다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102133</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102133</guid>
+            <pubDate>Wed, 05 Oct 2022 23:27:47 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102133_120201_520_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[카카오게임즈 메타보라, 블록체인 게임 '버디샷' 글로벌 정식 출시...상금 8억원 이벤트도 연다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102131</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102131</guid>
+            <pubDate>Wed, 05 Oct 2022 23:27:47 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102131_120199_3828_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[올림플래닛, TBWA코리아와 맞손..."메타버스 마케팅 저변 확대"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102130</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102130</guid>
+            <pubDate>Wed, 05 Oct 2022 23:27:47 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102130_120198_3323_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['2022 대한민국 게임대상' 내달 16일 개최...올해 최고의 게임은?]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102125</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102125</guid>
+            <pubDate>Wed, 05 Oct 2022 23:27:47 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102125_120192_3342_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[벌써 사전예약자 250만 돌파한 '승리의 여신: 니케'...김형태표 캐릭터 돌풍 예고]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102128</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102128</guid>
+            <pubDate>Wed, 05 Oct 2022 23:27:47 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102128_120193_527_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[카트 토크 콘서트] 코리안 드림 이룬 '닐' 리우창헝 "꿈만 같네요"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102124</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102124</guid>
+            <pubDate>Wed, 05 Oct 2022 23:27:47 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102124_120214_3351_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[위메이드, 위믹스에 슬롯 게임 '어비스리움 골드' 띄운다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102123</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102123</guid>
+            <pubDate>Wed, 05 Oct 2022 23:27:47 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102123_120191_645_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[창립 10주년 NC문화재단, 창의성 콘퍼런스 연다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102122</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102122</guid>
+            <pubDate>Wed, 05 Oct 2022 23:27:47 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102122_120190_136_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[위메이드플레이, 관계사와 '지스타 2022' 공동관 운영]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102121</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102121</guid>
+            <pubDate>Wed, 05 Oct 2022 23:27:47 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102121_120189_516_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[창작자 육성 진심인 카카오 '브런치'...모바일 출판시대 '활짝']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102119</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102119</guid>
+            <pubDate>Wed, 05 Oct 2022 23:27:47 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102119_120188_5047_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[컴투스, 뉴욕서 '서머너즈 워' 팬 만난다...美 코믹콘 출격]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102118</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102118</guid>
+            <pubDate>Wed, 05 Oct 2022 23:27:47 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102118_120187_468_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
