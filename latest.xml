@@ -1,8 +1,171 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.techm.kr/news/articleList.html</id>
-    <title>테크M ─ 전체기사</title>
-    <updated>2022-10-06T09:32:51.358Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.techm.kr/news/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>테크M ─ 전체기사</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 06 Oct 2022 10:30:11 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['싸이 NFT' 띄우는 피네이션, 업비트 NFT서 판매할듯]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102176</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102176</guid>
+            <pubDate>Thu, 06 Oct 2022 10:27:32 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102176_120266_236_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[국감 2022] '기업 회원 우대' 지적에...카카오모빌리티 "사실 아냐"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102175</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102175</guid>
+            <pubDate>Thu, 06 Oct 2022 10:27:32 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102175_120261_438_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[국감 2022] 법제도 만들어 달라 호소한 이석우 두나무 "투자자 보호 위해 최선 다했다"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102174</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102174</guid>
+            <pubDate>Thu, 06 Oct 2022 10:27:32 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102174_120268_3640_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[고객 관리 힘주는 SAP "단순 CRM 넘어 개인맞춤형 경험 지원"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102172</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102172</guid>
+            <pubDate>Thu, 06 Oct 2022 10:27:32 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102172_120269_3953_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[국감 2022] 정무위원회, 이정훈 전 빗썸 의장에게 동행명령장 발부]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102171</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102171</guid>
+            <pubDate>Thu, 06 Oct 2022 10:27:32 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102171_120255_522_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[국감 2022] 고개 숙인 김영섭 LG CNS 대표 "사회보장정보시스템 사전 준비 미흡…책임 통감"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102169</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102169</guid>
+            <pubDate>Thu, 06 Oct 2022 10:27:32 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102169_120262_1310_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[국감 2022] 한상혁 "트위치 화질 저하, 금지 행위 해당하는지 검토 중"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102170</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102170</guid>
+            <pubDate>Thu, 06 Oct 2022 10:27:32 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102170_120253_4351_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[KT 'AI 기술'+밀리의서재 '스토리'..."오디오 드라마 새역사 쓴다"(종합)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102168</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102168</guid>
+            <pubDate>Thu, 06 Oct 2022 10:27:32 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102168_120265_1611_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[국감 2022] 與, 한상혁 방통위원장 사퇴 압박 "대통령과 철학 맞지 않으면 물러나야"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102167</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102167</guid>
+            <pubDate>Thu, 06 Oct 2022 10:27:32 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102167_120248_3113_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[MZ세대 '모바일 편의점'...에이블리, 패션 이어 푸드 잡는다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102165</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102165</guid>
+            <pubDate>Thu, 06 Oct 2022 10:27:32 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102165_120246_630_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이젠 버추얼 아이돌이다...카카오엔터 '소녀 리버스' 띄운다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102166</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102166</guid>
+            <pubDate>Thu, 06 Oct 2022 10:27:32 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102166_120247_2039_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[글로벌] 아이폰 '라이트닝' 어쩌나...유럽의회, 충전기 단일화 법안 통과]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102164</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102164</guid>
+            <pubDate>Thu, 06 Oct 2022 10:27:32 GMT</pubDate>
+            <content:encoded><![CDATA[김현기 대표]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102164_120270_4033_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[글로벌] 애플 팀쿡 "AR은 미래 기술"이라면서…"메타버스는 모르겠다"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102163</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102163</guid>
+            <pubDate>Thu, 06 Oct 2022 10:27:32 GMT</pubDate>
+            <content:encoded><![CDATA[김현기 대표]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102163_120271_4054_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[넵튠·컬러버스, '디시인사이드'와 맞손... 메타버스 협력한다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102161</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102161</guid>
+            <pubDate>Thu, 06 Oct 2022 00:58:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102161_120243_4759_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[국감 2022] OTT 사업자도 방발기금 내라? 한상혁 "산업에 미칠 영향 종합적으로 검토해야"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102160</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102160</guid>
+            <pubDate>Thu, 06 Oct 2022 11:39:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102160_120242_3847_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[국감 2022] 윤상현 국민의힘 "모두가 간접 공모자... 테라 루나 사태 특검 도입해야"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102159</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102159</guid>
+            <pubDate>Thu, 06 Oct 2022 11:29:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102159_120240_2559_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SK텔레콤, 송창식 정훈희 등 레전드 아티스트 공연 '3D 영상 기록'으로 남긴다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102158</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102158</guid>
+            <pubDate>Thu, 06 Oct 2022 11:22:00 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102158_120239_2130_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[LG유플러스, 한국신용데이터에 252억원 투자...소상공인 서비스서 협력]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102157</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102157</guid>
+            <pubDate>Thu, 06 Oct 2022 11:15:00 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102157_120238_1429_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["바른 우리말 쓰자"..SK텔레콤, '사람 잡는 글쓰기2' 출간]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102156</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102156</guid>
+            <pubDate>Thu, 06 Oct 2022 11:07:00 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102156_120237_78_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한국화웨이, 한양대학교와 국내 ICT 인재 양성 '맞손']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102155</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102155</guid>
+            <pubDate>Thu, 06 Oct 2022 10:58:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102155_120236_5733_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
