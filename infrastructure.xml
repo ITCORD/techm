@@ -1,8 +1,123 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN2&amp;view_type=sm</id>
-    <title>테크M ─ 인프라</title>
-    <updated>2022-10-10T22:27:56.302Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.techm.kr/news/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>테크M ─ 인프라</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Mon, 10 Oct 2022 23:31:31 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성전자 '타이젠' vs. LG전자 '웹OS'…TV 플랫폼 경쟁 '후끈']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102259</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102259</guid>
+            <pubDate>Mon, 10 Oct 2022 11:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102259_120439_2214_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[LG유플러스 '멤버십 앱' 개편...고객 맞춤형 '혜택 허브 플랫폼' 된다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102258</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102258</guid>
+            <pubDate>Mon, 10 Oct 2022 10:04:00 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102258_120437_44_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[KT 교통DX 솔루션 '로드센스', 한국건설기술연구원 성능평가 최고 등급]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102257</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102257</guid>
+            <pubDate>Mon, 10 Oct 2022 10:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102257_120436_04_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[LG유플러스-업스테이지, 아이들나라 콘텐츠 추천 알고리즘 경진대회 개최]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102256</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102256</guid>
+            <pubDate>Mon, 10 Oct 2022 09:57:00 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102256_120435_5629_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["아이폰 안 부러워" 삼성전자 '갤럭시팬' 2000명 모여 파티]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102250</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102250</guid>
+            <pubDate>Sun, 09 Oct 2022 10:47:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102250_120412_4610_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[LG전자 '클로이' 로봇 강국 일본 뚫었다…해외 시장 진출 '청신호']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102249</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102249</guid>
+            <pubDate>Sun, 09 Oct 2022 10:40:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102249_120410_398_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[LG유플러스, 이은결 마술쇼에 5년 이상 장기고객 '찐팬' 초청]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102247</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102247</guid>
+            <pubDate>Sun, 09 Oct 2022 09:09:00 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102247_120406_832_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[공간 혁신가를 만나다] "3D 도면을 누구나 쉽게 '뚝딱'...日 소뱅도 홀렸다"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102002</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102002</guid>
+            <pubDate>Sun, 09 Oct 2022 08:15:00 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102002_120421_058_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[테크M 트렌드] 뭐 볼까? 뭐 살까?…고민하지 마세요, 알아서 찾아드립니다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102207</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102207</guid>
+            <pubDate>Sun, 09 Oct 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102207_120422_127_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[국감 2022] 국감 데뷔전 치른 남궁훈·홍은택..."카카오, 상생하겠다"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102233</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102233</guid>
+            <pubDate>Mon, 10 Oct 2022 23:29:17 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102233_120367_3032_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[LG유플러스, 한글날 맞아 '고객 언어 가이드북 2.0' 발간]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102221</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102221</guid>
+            <pubDate>Mon, 10 Oct 2022 23:29:17 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102221_120344_4147_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[LG전자, 3분기 영업이익 전망치 하회…매출은 '역대 최고'(종합)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102220</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102220</guid>
+            <pubDate>Mon, 10 Oct 2022 23:29:17 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102220_120343_420_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[LG전자, 3분기 영업이익 7466억…전년 동기 대비 25.1% 증가(1보)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102218</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102218</guid>
+            <pubDate>Mon, 10 Oct 2022 23:29:17 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102218_120342_4715_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[가봤다] 명동 달군 아이폰14 출시 첫날..."비싸진 가격에도 여전한 열기"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102214</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102214</guid>
+            <pubDate>Mon, 10 Oct 2022 23:29:17 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102214_120337_4828_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
