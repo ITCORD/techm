@@ -1,8 +1,123 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN2&amp;view_type=sm</id>
-    <title>테크M ─ 인프라</title>
-    <updated>2022-10-11T19:26:33.052Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.techm.kr/news/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>테크M ─ 인프라</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Tue, 11 Oct 2022 20:29:54 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[신한은행, 국립목포해양대학교와 '헤이영 캠퍼스' 업무협약]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102297</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102297</guid>
+            <pubDate>Tue, 11 Oct 2022 20:27:44 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102297_120500_1153_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[카카오페이손보 출격...최세훈 대표 "가장 사랑받는 보험사 될 것"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102293</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102293</guid>
+            <pubDate>Tue, 11 Oct 2022 20:27:44 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102293_120497_916_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["바이오는 제2의 반도체" 삼성 이재용, 10년간 7.5조원 투입...초격차 승부수(종합)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102291</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102291</guid>
+            <pubDate>Tue, 11 Oct 2022 20:27:44 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102291_120509_5124_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["유튜브는 창작자 위한 캔버스, 골리앗 이긴 '다윗' 늘 발굴 된다"...유튜브 웍스 어워드 개최]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102290</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102290</guid>
+            <pubDate>Tue, 11 Oct 2022 20:27:44 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102290_120505_4556_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[국감 2022] 이종성 의원 "사회보장정보시스템, 계약부터 부실"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102287</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102287</guid>
+            <pubDate>Tue, 11 Oct 2022 20:27:44 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102287_120474_46_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[테크M 이슈] 물류혁신 꾀하는 카카오모빌리티...화물운송업체 지분 사들인 이유]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102285</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102285</guid>
+            <pubDate>Tue, 11 Oct 2022 20:27:44 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102285_120472_1757_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["건당 최대 357만원" 지니언스, '버그 바운티' 우수 신고자에 포상금 지급]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102282</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102282</guid>
+            <pubDate>Tue, 11 Oct 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102282_120468_5153_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["목소리 넘어 감정까지 표현" CJ올리브네트웍스, AI로 무용극 '밤의 여왕' 주인공 구현]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102281</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102281</guid>
+            <pubDate>Tue, 11 Oct 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102281_120467_3149_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[KT, 듀얼 상품 가입자 23만 돌파..."연내 50만 이용자 돌파 예상"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102278</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102278</guid>
+            <pubDate>Tue, 11 Oct 2022 10:48:00 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102278_120460_486_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SK그룹의 ICT 역량 총집결...'SK 테크 서밋 2022' 열린다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102276</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102276</guid>
+            <pubDate>Tue, 11 Oct 2022 10:44:00 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102276_120458_4428_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[세브란스병원에서는 AI가 병원 예약일 챙긴다...KT, 'AI 세라봇' 구축]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102275</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102275</guid>
+            <pubDate>Tue, 11 Oct 2022 10:37:00 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102275_120457_3654_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[신한 진옥동의 플랫폼 야심작 '땡겨요'...9월 성적도 '낙제점']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102274</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102274</guid>
+            <pubDate>Tue, 11 Oct 2022 10:36:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102274_120507_4651_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[LG유플러스, 양자내성암호 적용 광전송장비 도입...2배 많은 데이터 전송 가능]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102273</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102273</guid>
+            <pubDate>Tue, 11 Oct 2022 10:32:00 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102273_120455_3129_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[존재감 키우는 케이뱅크...금리 최대 4.38% 아파트 대출 내놨다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102271</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102271</guid>
+            <pubDate>Tue, 11 Oct 2022 10:25:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102271_120453_2552_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
