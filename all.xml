@@ -1,7 +1,235 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://ITCORD.github.io/techm/all.xml</id>
-    <title>Combined feed</title>
-    <updated>2022-10-12T07:33:25.989Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Combined feed</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 12 Oct 2022 08:32:52 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[대작급 신작만 5개? '카카오게임즈' 멀티플 확장은 현재진행형 (테크M ─ 인베스트먼트)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102329</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102329</guid>
+            <pubDate>Wed, 12 Oct 2022 08:31:03 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102329_120577_320_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[반등 노리는 크래프톤...외인이 4거래일 연속 사들이는 이유 (테크M ─ 인베스트먼트)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102324</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102324</guid>
+            <pubDate>Wed, 12 Oct 2022 11:46:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102324_120573_4326_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["외인이 돌아왔다" 반등 성공한 네이버...3Q 호실적 기대감 '쑥' (테크M ─ 인베스트먼트)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102323</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102323</guid>
+            <pubDate>Wed, 12 Oct 2022 11:30:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102323_120572_2948_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[크립토 브리핑] 美 CPI 발표 앞두고 맥 못추는 시장…비트코인 5일째 '제자리걸음' (테크M ─ 인베스트먼트)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102316</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102316</guid>
+            <pubDate>Wed, 12 Oct 2022 10:08:00 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102316_120564_221_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[과매도 구간 놓인 네이버...코로나19 팬데믹 전보다 싸다? (테크M ─ 인베스트먼트)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102279</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102279</guid>
+            <pubDate>Tue, 11 Oct 2022 11:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102279_120506_4627_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[카카오뱅크, 임원진 5만685주의 자사주 매입..."주가 부양과 주주 가치 제고" (테크M ─ 인베스트먼트)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102268</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102268</guid>
+            <pubDate>Tue, 11 Oct 2022 10:19:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102268_120450_1928_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[크립토 브리핑] CPI 발표 임박...美 나스닥·비트코인·이더리움 동반 하락 (테크M ─ 인베스트먼트)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102264</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102264</guid>
+            <pubDate>Tue, 11 Oct 2022 09:51:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102264_120446_438_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["두자릿 수 이익률 재탈환" 다시 뛰는 카카오...3Q 영업익 '어닝서프라이즈' (테크M ─ 인베스트먼트)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102261</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102261</guid>
+            <pubDate>Tue, 11 Oct 2022 05:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102261_120443_2439_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[크립토 브리핑] 홀로 상승하는 리플...비트코인·이더리움은 여전히 횡보 (테크M ─ 인베스트먼트)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102260</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102260</guid>
+            <pubDate>Wed, 12 Oct 2022 08:31:03 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102260_120442_348_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[크립토 주간 브리핑] 美 고용지표 호조에 비트코인 2만달러 아래로…리플 홀로 강세 (테크M ─ 인베스트먼트)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102239</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102239</guid>
+            <pubDate>Sat, 08 Oct 2022 00:47:00 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102239_120424_245_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[토큰 허브 공격으로 BNB 체인 네트워크 가동 중단..."피해액 1억달러" (테크M ─ 인베스트먼트)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102197</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102197</guid>
+            <pubDate>Fri, 07 Oct 2022 10:28:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102197_120301_2117_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[크립토 브리핑] 하루만에 위축된 투자심리...등락 반복하는 비트코인-이더리움 (테크M ─ 인베스트먼트)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102195</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102195</guid>
+            <pubDate>Fri, 07 Oct 2022 10:18:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102195_120296_558_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[크립토 브리핑] 비트코인 2만달러 '턱걸이'...관건은 美 고용지표? (테크M ─ 인베스트먼트)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102144</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102144</guid>
+            <pubDate>Thu, 06 Oct 2022 10:26:00 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102144_120226_244_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[크립토 브리핑] 사흘 연속 상승한 비트코인...3000만원 재돌파 눈앞 (테크M ─ 인베스트먼트)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102096</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102096</guid>
+            <pubDate>Wed, 05 Oct 2022 10:12:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102096_120162_922_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[카드뉴스] K게임도 넷플릭스 올라탄다...네오위즈 '고양이와 스프'가 첫 게임 (테크M ─ 보는 뉴스)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102335</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102335</guid>
+            <pubDate>Wed, 12 Oct 2022 08:32:51 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102335_120596_535_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[카드뉴스] '한글날' 맞아 IT업계도 우리말 지키기 나섰다 (테크M ─ 보는 뉴스)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102303</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102303</guid>
+            <pubDate>Wed, 12 Oct 2022 08:32:51 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102303_120543_2817_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[게임코인TV] '위믹스' 메인넷과 100개의 온보딩 게임?...토큰 2049 후기(하) (테크M ─ 보는 뉴스)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102244</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102244</guid>
+            <pubDate>Sun, 09 Oct 2022 01:04:00 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102244_120438_1121_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[카드뉴스] 올림플래닛, TBWA코리아와 맞손..."메타버스 마케팅 저변 확대" (테크M ─ 보는 뉴스)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102199</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102199</guid>
+            <pubDate>Fri, 07 Oct 2022 00:03:00 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102199_120324_620_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[게임코인TV] 루나-테라와 무엇이 다른가...위메이드 '위믹스'의 디오스 프로토콜의 모든 것(중) (테크M ─ 보는 뉴스)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102185</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102185</guid>
+            <pubDate>Wed, 12 Oct 2022 08:32:51 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102185_120323_440_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[게임코인TV] 위메이드 '위믹스'의 디오스 프로토콜의 모든 것(상) (테크M ─ 보는 뉴스)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102141</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102141</guid>
+            <pubDate>Wed, 12 Oct 2022 08:32:51 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102141_120223_416_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[카트 토크 콘서트] 코리안 드림 이룬 '닐' 리우창헝 "꿈만 같네요" (테크M ─ 보는 뉴스)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102124</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102124</guid>
+            <pubDate>Wed, 12 Oct 2022 08:32:51 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102124_120194_87_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[게임코인TV] 장현국 위메이드 대표 강연-간담회 뒷애기부터, 전시부스 취재기...토큰 2049 총정리 (테크M ─ 보는 뉴스)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102007</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102007</guid>
+            <pubDate>Wed, 12 Oct 2022 08:32:51 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102007_120023_4717_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[게임코인TV] '토큰 2049' 뜨거운 블록체인 열기...전시부스 탐방! 위메이드-클레이튼-체인파트너스도 있다(2편) (테크M ─ 보는 뉴스)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=101998</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=101998</guid>
+            <pubDate>Wed, 12 Oct 2022 08:32:51 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101998_119980_3342_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[게임코인TV] '토큰 2049' 뜨거운 블록체인 열기...전시부스 탐방! 위메이드-클레이튼-체인파트너스도 있다(1편) (테크M ─ 보는 뉴스)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=101961</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=101961</guid>
+            <pubDate>Wed, 12 Oct 2022 08:32:51 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101961_119928_1518_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[게임코인TV] 샌프란 찍고 싱가포르로...글로벌 항해 중인 '위믹스', 토큰 2049에 뜬다 (테크M ─ 보는 뉴스)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=101880</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=101880</guid>
+            <pubDate>Wed, 28 Sep 2022 07:48:00 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101880_119791_4529_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[게임코인TV] 솔라나-아바랩스-알고랜드까지...UDC에서 '게임'이 주인공인 이유(하) (테크M ─ 보는 뉴스)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=101683</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=101683</guid>
+            <pubDate>Wed, 12 Oct 2022 08:32:51 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/101683_120333_2529_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[게임코인TV] UDC에 등장한 새로운 프로젝트 '폴라나'??...UDC에서 '게임'이 주인공인 이유(상) (테크M ─ 보는 뉴스)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=101653</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=101653</guid>
+            <pubDate>Wed, 12 Oct 2022 08:32:51 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/101653_120332_2448_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[게임코인TV] 업비트 개발자 콘퍼런스(UDC) 꼭 들어야 하는 세션은?...UDC 예고(하) (테크M ─ 보는 뉴스)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=101554</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=101554</guid>
+            <pubDate>Wed, 12 Oct 2022 08:32:51 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202209/101554_119245_5531_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
