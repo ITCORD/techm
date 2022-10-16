@@ -1,8 +1,123 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN2&amp;view_type=sm</id>
-    <title>테크M ─ 인프라</title>
-    <updated>2022-10-15T23:29:56.690Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.techm.kr/news/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>테크M ─ 인프라</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sun, 16 Oct 2022 02:31:07 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이종호 과기정통부 장관 "사업자 피해 파악...소홀하지 않도록 관계부처 협의"(2보)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102478</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102478</guid>
+            <pubDate>Sun, 16 Oct 2022 11:07:00 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102478_120830_338_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[실리콘밸리 달군 삼성의 '미래 혁신'…'테크 포럼 2022' 통해 기술 비전 공유]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102471</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102471</guid>
+            <pubDate>Sun, 16 Oct 2022 11:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102471_120821_404_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[카카오 사태에 고개 숙인 이종호 과기정통부 장관 "주무장관으로서 큰 유감"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102477</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102477</guid>
+            <pubDate>Sun, 16 Oct 2022 10:46:00 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102477_120829_3951_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이번엔 '물류 로봇'…LG전자 로봇 굴기 속도낸다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102472</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102472</guid>
+            <pubDate>Sun, 16 Oct 2022 10:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102472_120822_4542_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[글로벌 사업 힘 주는 KT...구현모 대표, 필리핀 대통령 만나 DX 협력 논의]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102476</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102476</guid>
+            <pubDate>Sun, 16 Oct 2022 09:20:00 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102476_120828_1952_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[LG유플러스, 글로벌 PR시상식서 수상...광복절 캠페인 '당연하지 않은 일상']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102475</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102475</guid>
+            <pubDate>Sun, 16 Oct 2022 09:03:00 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102475_120827_256_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[카카오, 카카오톡 및 카카오 서비스 복구현황 공개...카톡 PC는 아직]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102474</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102474</guid>
+            <pubDate>Sun, 16 Oct 2022 08:57:00 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102474_120826_5646_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['희망 메시지 전도사' LG전자…美·英서 '세계 식량의 날' 알려]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102473</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102473</guid>
+            <pubDate>Sun, 16 Oct 2022 08:53:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102473_120824_524_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[직접 느끼는 연결 혁신…삼성전자 'SDC 2022' 맞아 '갤럭시 체험관' 운영]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102470</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102470</guid>
+            <pubDate>Sun, 16 Oct 2022 08:35:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102470_120818_3324_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[카카오톡 11시간만에 일부 정상화, 완전 복구는 '아직'...카카오 "재발 방지책 강화"(상보)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102463</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102463</guid>
+            <pubDate>Sun, 16 Oct 2022 02:53:00 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102463_120810_2853_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[카카오 "카카오톡 메시지 수발신 기능 일부 복구"...공식 발표(2보)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102469</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102469</guid>
+            <pubDate>Sun, 16 Oct 2022 02:20:00 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102469_120817_2011_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[카카오톡 서비스 일부 복구...아직 서비스는 불안정(1보)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102468</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102468</guid>
+            <pubDate>Sun, 16 Oct 2022 02:01:00 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102468_120816_058_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[데이터센터 화재로 10시간 넘게 먹통된 카카오...과기정통부-국회가 집중 추궁 나선다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102462</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102462</guid>
+            <pubDate>Sun, 16 Oct 2022 01:24:00 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102462_120808_1324_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[카카오 "다음 뉴스 서비스 일부 복구"...카카오톡은 언제?]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102464</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102464</guid>
+            <pubDate>Sun, 16 Oct 2022 02:28:56 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102464_120811_3443_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
