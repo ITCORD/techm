@@ -1,8 +1,123 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN5&amp;view_type=sm</id>
-    <title>테크M ─ 피플</title>
-    <updated>2022-10-17T18:44:11.285Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.techm.kr/news/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>테크M ─ 피플</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Mon, 17 Oct 2022 19:36:13 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이재용 부회장, 13년 만에 '2022 국제기능올림픽' 참석…'기술인재' 중요성 강조]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102529</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102529</guid>
+            <pubDate>Mon, 17 Oct 2022 19:34:45 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102529_120949_1815_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[e스포츠人] '베가' 이진건 "어떤 에결도 지지 않을 것 같은 자신감"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102495</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102495</guid>
+            <pubDate>Mon, 17 Oct 2022 19:34:45 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102495_120857_134_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[尹, 카카오 먹통에 "정부가 상황실 지휘...재발 방지" 지시]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102485</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102485</guid>
+            <pubDate>Sun, 16 Oct 2022 00:22:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102485_120837_2242_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[템터뷰] 경찰 23년 경력 장석원 센터장 "이젠 코인원 이용자 지킨다"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102410</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102410</guid>
+            <pubDate>Sun, 16 Oct 2022 07:30:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102410_120726_2131_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[소통 힘쓰는 조주완 사장…"LG전자를 가슴 뛰는 브랜드로 만들자"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102385</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102385</guid>
+            <pubDate>Mon, 17 Oct 2022 19:34:45 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102385_120680_4948_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[삼성전자 이인용 사장, 남아프리카 국제협력부장관 만나 부산엑스포 유치 협력 요청]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102382</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102382</guid>
+            <pubDate>Mon, 17 Oct 2022 19:34:45 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102382_120672_3649_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[테크M 피플] 금감원장도 놀란 '700억 횡령'...고개 숙인 우리은행 이원덕]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102377</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102377</guid>
+            <pubDate>Mon, 17 Oct 2022 19:34:45 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102377_120667_1529_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["역시 통이 크네" 방시혁 하이브 의장, 사랑의열매 50억원 쏜다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102376</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102376</guid>
+            <pubDate>Mon, 17 Oct 2022 19:34:45 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102376_120666_5711_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['세계 1등 바이오' 삼바 4공장 찾은 삼성 이재용...바이오 굴기 '속도']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102283</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102283</guid>
+            <pubDate>Mon, 17 Oct 2022 19:34:45 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102283_120469_5036_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[테크M 이슈] 현장 행보 속도내는 삼성 이재용...'회장 자격' 스스로 입증]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102284</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102284</guid>
+            <pubDate>Mon, 17 Oct 2022 19:34:45 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102284_120471_580_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[템터뷰] 이중원 셀러노트 "누구나 '쉽게' 수입무역 하도록...운송·통관 '원스톱' 제공"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102134</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102134</guid>
+            <pubDate>Mon, 10 Oct 2022 08:30:00 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102134_120203_2753_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[e스포츠人] '올킬'로 근심 날린 박인수 샌드박스 "팀원들과 함께 이겨내 기쁘다"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102245</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102245</guid>
+            <pubDate>Sun, 09 Oct 2022 08:22:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102245_120402_5948_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[e스포츠人] 녹슬지 않은 실력 과시한 '피오' 차승훈의 다짐]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102237</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102237</guid>
+            <pubDate>Mon, 17 Oct 2022 19:34:45 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102237_120378_2952_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[템터뷰] 양주일 그라운드X "내년 1월, 클립 2.0 가동...카카오 공동체 협업 본격화"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102223</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102223</guid>
+            <pubDate>Mon, 17 Oct 2022 19:34:45 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102223_120346_3013_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
