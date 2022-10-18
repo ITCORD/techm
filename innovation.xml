@@ -1,8 +1,123 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN3&amp;view_type=sm</id>
-    <title>테크M ─ 이노베이션</title>
-    <updated>2022-10-18T14:03:54.414Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.techm.kr/news/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>테크M ─ 이노베이션</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Tue, 18 Oct 2022 14:41:47 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[변협 '로톡' 활동 변호사 첫 징계…코스포 "리걸테크 발목 잡는 징계 강행 규탄"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102567</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102567</guid>
+            <pubDate>Tue, 18 Oct 2022 14:39:50 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102567_121033_5751_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[​이영 중기부 장관 "한국, 스타트업 요람지로...민간주도가 핵심"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102549</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102549</guid>
+            <pubDate>Tue, 18 Oct 2022 14:39:50 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102549_121046_1835_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["스타트업 '겨울' 넘어 '봄' 온다...'컴업'이 역할 다할 것"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102550</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102550</guid>
+            <pubDate>Tue, 18 Oct 2022 14:39:50 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102550_121047_190_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[잡코리아, '직장 분쟁 다루는 방법' HR웨비나 개최]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102524</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102524</guid>
+            <pubDate>Tue, 18 Oct 2022 14:39:50 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102524_120917_161_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[크립토 브리핑] 비트코인은 횡보중...전문가 예측은 엇갈려 '5000만원 vs. 500만원']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102501</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102501</guid>
+            <pubDate>Mon, 17 Oct 2022 10:22:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102501_120874_315_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[공간 혁신가를 만나다] 호텔 예약부터 객실 관리까지 '디지털 전환'..."매출 20% 향상"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102402</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102402</guid>
+            <pubDate>Sun, 16 Oct 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102402_120715_2926_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[불금에, 비오는 날에, 강남에 호출 몰리는데…택시는 낮에만 운행 집중?]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102432</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102432</guid>
+            <pubDate>Tue, 18 Oct 2022 14:39:50 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102432_120757_3044_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아이언소스 'ROAS 옵티마이저' 대규모 업데이트]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102420</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102420</guid>
+            <pubDate>Tue, 18 Oct 2022 14:39:50 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102420_120743_1941_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["태국 스타로 우뚝" 넵튠 '나수아'...K-가상인간 한류 중심에 자리잡다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102416</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102416</guid>
+            <pubDate>Fri, 14 Oct 2022 00:28:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102416_120738_2743_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[네이버가 점찍은 플로틱, 물류 자동화 로봇 시제품 첫 공개]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102408</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102408</guid>
+            <pubDate>Fri, 14 Oct 2022 10:07:00 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102408_120723_5726_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[네이버가 품은 美 포쉬마크, 포천 '세상 바꾸는 혁신기업' 선정]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102405</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102405</guid>
+            <pubDate>Fri, 14 Oct 2022 09:47:00 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102405_120720_4359_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[국감 2022] 이용호 "무돌삼국지처럼 막아도 결국 터져...P2E 허용 방법 찾아야"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102401</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102401</guid>
+            <pubDate>Tue, 18 Oct 2022 14:39:50 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102401_120713_2814_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[서울블록체인핀테크지원센터, 블록체인 창업 교육과정 열었다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102391</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102391</guid>
+            <pubDate>Tue, 18 Oct 2022 14:39:50 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102391_120690_408_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아키드로우, 일본 진출 성과 가시화…도쿄 덴엔초후 개발 프로젝트 참여]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102383</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102383</guid>
+            <pubDate>Tue, 18 Oct 2022 14:39:50 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102383_120679_439_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
