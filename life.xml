@@ -1,8 +1,123 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN6&amp;view_type=sm</id>
-    <title>테크M ─ 라이프</title>
-    <updated>2022-10-23T15:27:08.092Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.techm.kr/news/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>테크M ─ 라이프</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sun, 23 Oct 2022 16:35:56 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이른 추위로 난방 가전 인기 급증...티몬, 24일 '가전데이' 연다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102744</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102744</guid>
+            <pubDate>Sun, 23 Oct 2022 16:35:31 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102744_121356_258_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[19대 'LG 디오스 오브제컬렉션 무드업'이 펼치는 신비로운 분위기]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102740</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102740</guid>
+            <pubDate>Sun, 23 Oct 2022 10:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102740_121334_2820_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[엔데믹 맞은 SSG닷컴, 핼러윈 '트릭 오어 트릿' 프로모션 열었다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102733</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102733</guid>
+            <pubDate>Sun, 23 Oct 2022 06:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102733_121313_849_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[써봤다] 칫솔에 '테크'를 더하다...잇몸 약한 사람들 미세전류 칫솔에 '주목']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102456</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102456</guid>
+            <pubDate>Sat, 22 Oct 2022 10:30:00 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102456_121343_4547_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[소라픽] 단풍이 예쁜 가을, 피크닉 떠날때 필수품 베스트3]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102724</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102724</guid>
+            <pubDate>Sat, 22 Oct 2022 09:55:00 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102724_121296_1042_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[소니코리아, 셀피 촬영 최적화된 'ZV-1F' 출시…"초보 브이로거 필수품"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102664</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102664</guid>
+            <pubDate>Thu, 20 Oct 2022 11:36:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102664_121191_3359_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이마트, 10월에 출하되는 프리미엄 햇사과 3총사 할인전]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102634</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102634</guid>
+            <pubDate>Thu, 20 Oct 2022 06:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102634_121138_5043_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[사회공헌 나선 쿠팡-티몬...음악회 개최-소셜기부 등 각양각색 활동 '눈길']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102630</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102630</guid>
+            <pubDate>Sun, 23 Oct 2022 16:35:31 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102630_121128_3431_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[테크M 트렌드] 페이코로 살펴본 밥값 부담 1위는 삼성동...끼니당 1만5000원]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102608</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102608</guid>
+            <pubDate>Wed, 19 Oct 2022 00:04:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102608_121091_340_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[테크M 트렌드] MZ세대 '발'을 잡아라…삼성-LG '신발관리기' 경쟁]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102584</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102584</guid>
+            <pubDate>Wed, 19 Oct 2022 09:43:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102584_121064_385_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["1초 완판 '푸빌라'와 함께하는 핼러윈 파티"...신세계百, NFT 홀더 파티 연다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102571</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102571</guid>
+            <pubDate>Wed, 19 Oct 2022 06:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102571_121037_1419_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["핼러윈은 역시 이마트" 정용진의 공간혁신...MZ세대 꽉 잡는다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102560</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102560</guid>
+            <pubDate>Sun, 23 Oct 2022 16:35:31 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102560_121010_540_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["스포츠도 '무신사'랑 해"...아마추어 풋살 대회 개최]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102552</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102552</guid>
+            <pubDate>Sun, 23 Oct 2022 16:35:31 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102552_121002_729_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[대우산업개발, 마스크 '에어데이즈' 구매하면 '힐키트'도 준다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102522</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102522</guid>
+            <pubDate>Sun, 23 Oct 2022 16:35:31 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102522_120915_1227_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
