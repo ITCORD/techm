@@ -1,8 +1,123 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN1&amp;view_type=sm</id>
-    <title>테크M ─ 콘텐츠</title>
-    <updated>2022-10-24T12:54:40.884Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.techm.kr/news/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>테크M ─ 콘텐츠</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Mon, 24 Oct 2022 14:06:28 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[넷마블 기대작 '파라곤: 디 오버프라임' 11월 10일 파이널 테스트]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102792</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102792</guid>
+            <pubDate>Mon, 24 Oct 2022 14:03:57 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102792_121413_4025_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[다시 뛰는 넷마블, 지스타 특별페이지 열었다...출품작 4종 공개]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102788</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102788</guid>
+            <pubDate>Mon, 24 Oct 2022 14:03:57 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102788_121408_355_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[국감 2022] 국회 정무위, 증인 불출석한 이정훈-김서준-신현성에 동행명령장 발부]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102783</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102783</guid>
+            <pubDate>Mon, 24 Oct 2022 14:03:57 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102783_121403_4654_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[국감 2022] 테라-루나 사태 관련 증인 줄줄이 불출석...윤상현 국민의힘 "조치 취해야"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102772</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102772</guid>
+            <pubDate>Mon, 24 Oct 2022 14:03:57 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102772_121438_4029_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[국감 2022] 국회 정무위원회, 이재원 빗썸 대표 국정감사 증인 채택]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102771</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102771</guid>
+            <pubDate>Mon, 24 Oct 2022 14:03:57 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102771_121391_4610_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[데이터에이아이, 전세계 모바일 게임 이용자 3분기에 매주 2조원 썼다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102766</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102766</guid>
+            <pubDate>Mon, 24 Oct 2022 14:03:57 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102766_121384_4644_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[유니티, 글로벌 개발자 컨퍼런스 '유나이트 2022' 내달 1일 개최]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102769</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102769</guid>
+            <pubDate>Mon, 24 Oct 2022 14:03:57 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102769_121388_2911_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[롤드컵 브리핑] 4강 대진 완성...'T1 vs. JD'-'젠지 vs. DRX']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102764</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102764</guid>
+            <pubDate>Mon, 24 Oct 2022 14:03:57 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102764_121383_2910_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[CJ ENM 다이아 티비-플레이인더박스, MZ세대 맞춤 전시 꾸렸다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102760</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102760</guid>
+            <pubDate>Mon, 24 Oct 2022 11:48:00 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102760_121374_2650_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[CFK, SK브로드밴드와 맞손...SK B tv서 CFK 콘솔게임 즐긴다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102759</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102759</guid>
+            <pubDate>Mon, 24 Oct 2022 11:48:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102759_121373_2618_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[테크M 이슈] 넥슨 '던파모바일' 새로 쓴 흥행 공식...게임대상 1순위?]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102763</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102763</guid>
+            <pubDate>Mon, 24 Oct 2022 11:45:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102763_121442_4226_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[롤드컵 브리핑] T1, 4강 진출...젠지-DRX도 명승부 끝에 4강 합류]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102751</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102751</guid>
+            <pubDate>Mon, 24 Oct 2022 11:21:00 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102751_121441_423_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[KRPL 통신] 너트마이트 연승 행진은 어디까지?..분노의 질주 보여준 '런민기']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102742</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102742</guid>
+            <pubDate>Mon, 24 Oct 2022 14:03:57 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102742_121349_100_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[팬데믹 뚫고 돌아온 '지스타 2022'...주요 게임사 부스 살펴보니]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102738</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102738</guid>
+            <pubDate>Sun, 23 Oct 2022 00:44:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102738_121339_4412_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
