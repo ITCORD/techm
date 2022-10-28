@@ -1,8 +1,123 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN6&amp;view_type=sm</id>
-    <title>테크M ─ 라이프</title>
-    <updated>2022-10-28T07:22:09.313Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.techm.kr/news/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>테크M ─ 라이프</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 28 Oct 2022 08:35:17 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[LG전자 야심작 '무드업 냉장고' 알려라…드론쇼에서 사진전까지 이색 마케팅]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102999</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102999</guid>
+            <pubDate>Fri, 28 Oct 2022 11:34:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102999_121754_3225_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[삼성전자서비스, 가전제품 콜센터 품질 '최우수 기업' 4년 연속 선정]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102998</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102998</guid>
+            <pubDate>Fri, 28 Oct 2022 11:24:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102998_121753_238_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[LG전자, 가전제품 콜센터품질 '최우수 기업' 2년 연속 선정]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102996</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102996</guid>
+            <pubDate>Fri, 28 Oct 2022 11:19:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102996_121751_1854_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['쇼핑의 달' 11월 앞둔 e커머스, 다양한 전야제로 쇼핑 축제 '예열중']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102993</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102993</guid>
+            <pubDate>Fri, 28 Oct 2022 10:58:00 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102993_121745_515_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[정용진이 믿는 강희석號 이마트, 다시 간다...'신세계 유니버스' 구축 속도]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102985</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102985</guid>
+            <pubDate>Fri, 28 Oct 2022 08:34:51 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102985_121730_4445_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[테크M 이슈] 활동 영역 넓히는 '무아인'…무신사 패션 세계관 '무한확장']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102976</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102976</guid>
+            <pubDate>Fri, 28 Oct 2022 08:34:51 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102976_121719_5045_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[효율화 택한 지마켓, G9 서비스 종료…해외직구 역량 'UP']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102962</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102962</guid>
+            <pubDate>Fri, 28 Oct 2022 08:34:51 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102962_121684_4626_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[MZ 잡기 나선 이마트...이마트24X선미야클럽 'NFT 아트와인' 출격]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102949</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102949</guid>
+            <pubDate>Thu, 27 Oct 2022 00:36:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102949_121661_3625_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[통큰 신세계그룹, 31일부터 12일간 '쓱데이·빅스마일데이' 동시 행사]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102910</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102910</guid>
+            <pubDate>Thu, 27 Oct 2022 06:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102910_121614_558_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[같이사소] 쿠팡 '모토로라'·티몬 '요즘 로컬'·마켓컬리 '핼러윈'...e커머스의 독특한 기획전]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102890</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102890</guid>
+            <pubDate>Fri, 28 Oct 2022 08:34:51 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102890_121569_5030_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[LG전자, 북미 신사옥에 'LG 과학관' 개관…"미래세대를 위한 투자"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102897</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102897</guid>
+            <pubDate>Fri, 28 Oct 2022 08:34:51 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102897_121579_4334_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[삼성전자, 글로벌 34개국에 '모바일 폐제품 수거함' 확대…친환경 경영 박차]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102893</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102893</guid>
+            <pubDate>Fri, 28 Oct 2022 08:34:51 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102893_121575_2849_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[해외 판로에 눈돌린 쿠팡...대만 로켓직구 시작으로 글로벌 점령 나선다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102888</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102888</guid>
+            <pubDate>Fri, 28 Oct 2022 08:34:51 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102888_121567_319_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이마트·SSG닷컴, 반값 수준 '한우데이'…170톤 물량 준비]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102873</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102873</guid>
+            <pubDate>Wed, 26 Oct 2022 09:52:00 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102873_121546_2444_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
