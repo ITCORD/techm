@@ -1,8 +1,123 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN2&amp;view_type=sm</id>
-    <title>테크M ─ 인프라</title>
-    <updated>2022-10-31T20:26:43.654Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.techm.kr/news/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>테크M ─ 인프라</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Mon, 31 Oct 2022 21:22:58 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[카카오뱅크, 26주적금·저금통 금리 '대폭' 인상…최고 연 7% 금리 쏜다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=103073</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=103073</guid>
+            <pubDate>Mon, 31 Oct 2022 21:20:34 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/103073_121906_1925_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[삼성전자 "이태원 참사, 국가 애도기간 희생자 추모할 것"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=103067</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=103067</guid>
+            <pubDate>Mon, 31 Oct 2022 21:20:34 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/103067_121895_1726_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[LG전자, 방콕 '탑골프 메가시티'에 디지털 사이니지 솔루션 공급]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=103058</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=103058</guid>
+            <pubDate>Mon, 31 Oct 2022 21:20:34 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/103058_121884_2145_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SAP, 네이버클라우드 손잡고 공공 클라우드 시장 공략]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=103057</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=103057</guid>
+            <pubDate>Mon, 31 Oct 2022 21:20:34 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/103057_121882_1456_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[네이버클라우드, 홈리빙 기업 '엠에이치앤코'에 무중단 클라우드 이전 지원]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=103056</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=103056</guid>
+            <pubDate>Mon, 31 Oct 2022 00:04:00 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/103056_121879_446_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[VM웨어, KB국민은행에 마이데이터 서비스 구축 지원]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=103054</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=103054</guid>
+            <pubDate>Mon, 31 Oct 2022 00:04:00 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/103054_121877_3110_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[KISA, 글로벌 개인정보 보호 컴플라이언스 밋업 개최]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=103055</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=103055</guid>
+            <pubDate>Mon, 31 Oct 2022 00:02:00 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/103055_121878_3717_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[삼성SDS, 데이터 분석 플랫폼 '브라이틱스 스튜디오'로 인재 양성 지원]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=103052</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=103052</guid>
+            <pubDate>Mon, 31 Oct 2022 11:20:00 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/103052_121871_143_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[LG유플러스, '클라우드고객센터' 회선 1만 돌파...중소기업 부담 줄였다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=103050</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=103050</guid>
+            <pubDate>Mon, 31 Oct 2022 10:52:00 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/103050_121867_4822_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[네이버, 토론토대와 AI 협력…왓패드 콘텐츠 추천 기능 강화]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=103048</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=103048</guid>
+            <pubDate>Mon, 31 Oct 2022 10:51:00 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/103048_121866_432_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[카카오뱅크 "중·저신용자에 첫달 대출 이자 지원해드려요"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=103046</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=103046</guid>
+            <pubDate>Mon, 31 Oct 2022 10:41:00 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/103046_121861_369_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[네이버·카카오, 이태원 참사 온라인 추모공간 마련...2차 피해 방지 '총력']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=103041</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=103041</guid>
+            <pubDate>Mon, 31 Oct 2022 10:18:00 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/103041_121919_2619_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[KT, 'AI 통화비서'로 국내외 디자인어워드서 '3관왕']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=103025</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=103025</guid>
+            <pubDate>Sun, 30 Oct 2022 09:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/103025_121816_5145_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[LG유플러스, 구독 플랫폼 '유독' 제휴사 '윌라'와 공동 기부 캠페인]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=103026</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=103026</guid>
+            <pubDate>Sun, 30 Oct 2022 09:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/103026_121817_5849_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
