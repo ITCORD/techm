@@ -1,8 +1,123 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN10&amp;view_type=sm</id>
-    <title>테크M ─ 보는 뉴스</title>
-    <updated>2022-11-04T03:50:09.872Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.techm.kr/news/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>테크M ─ 보는 뉴스</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 04 Nov 2022 04:49:26 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 월드컵 열풍에 올라탄 '월드컵 코인'이 있다...축구와 블록체인의 만남]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=103227</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=103227</guid>
+            <pubDate>Fri, 04 Nov 2022 04:49:23 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202211/103227_122161_156_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[카드뉴스] 마마무-오마이걸 NFT 나온다...네오핀-메타비트 '맞손']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=103159</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=103159</guid>
+            <pubDate>Fri, 04 Nov 2022 04:49:23 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202211/103159_122059_213_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[카드뉴스] 손쉽게 만든 나만의 캐릭터로 돈버는 프렌즈(FRENZ)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=103118</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=103118</guid>
+            <pubDate>Fri, 04 Nov 2022 04:49:23 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202211/103118_121981_76_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[카드뉴스] 롯데정보통신의 미래는 '메타버스-전기차'다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=103075</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=103075</guid>
+            <pubDate>Fri, 04 Nov 2022 04:49:23 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/103075_121907_3857_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[카드뉴스] 커뮤니티 NFT가 뜬다...레딧 NFT 월렛 이용자 250만명 넘었다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=103013</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=103013</guid>
+            <pubDate>Fri, 04 Nov 2022 04:49:23 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/103013_121782_5319_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[카드뉴스] 서울 성수동에는 메타버스를 체험할 수 있는 '밋 메타 팝업'이 있다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102978</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102978</guid>
+            <pubDate>Fri, 04 Nov 2022 04:49:23 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102978_121712_4859_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[카드뉴스] "메타버스에서 내가 원하는 '비스포크 제트 봇 AI 캐릭터'에 투표하세요"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102908</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102908</guid>
+            <pubDate>Fri, 04 Nov 2022 04:49:23 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102908_121599_5119_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[게임코인TV] 위믹스달러-파이-월렛...위메이드의 '위믹스 3.0' 광폭행보 '놀랍네'(상)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102912</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102912</guid>
+            <pubDate>Fri, 04 Nov 2022 04:49:23 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102912_121616_3721_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[카드뉴스] LG유플러스의 새로운 AI브랜드 '익시(ixi)'를 소개합니다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102853</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102853</guid>
+            <pubDate>Fri, 04 Nov 2022 04:49:23 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102853_121499_5526_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[카드뉴스] 무게도 가격도 가벼운 '피코4'..."지금 VR세상 문을 두드려라"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102797</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102797</guid>
+            <pubDate>Fri, 04 Nov 2022 04:49:23 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102797_121421_2013_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[카드뉴스] 위메이드, 메인넷 '위믹스 3.0' 띄웠다...제네시스 블록 생성]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102715</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102715</guid>
+            <pubDate>Fri, 04 Nov 2022 04:49:23 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102715_121273_4226_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[게임코인TV] 위믹스 3.0이 가지는 의미...메인넷 이후 위메이드 행보는?(중)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102687</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102687</guid>
+            <pubDate>Fri, 04 Nov 2022 04:49:23 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102687_121238_2429_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[카드뉴스] 메타버스 '이프랜드'에 대한민국 대표 '목소리 장인'들 들어온다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102684</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102684</guid>
+            <pubDate>Fri, 04 Nov 2022 04:49:23 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102684_121212_3142_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[게임코인TV] 메인넷 론칭 앞두고 급등중인 위믹스...메인넷 이후 위메이드 행보는?(상)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=102639</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=102639</guid>
+            <pubDate>Fri, 04 Nov 2022 04:49:23 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102639_121237_249_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
