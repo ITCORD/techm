@@ -1,8 +1,170 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.techm.kr/news/articleList.html</id>
-    <title>테크M ─ 전체기사</title>
-    <updated>2022-11-06T10:24:24.732Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.techm.kr/news/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>테크M ─ 전체기사</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sun, 06 Nov 2022 11:18:55 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[부고] 한성진(네시삼십삼분 대표이사)씨 부친상]]></title>
+            <link>https://www.techm.kr/news/articleList.html</link>
+            <guid>https://www.techm.kr/news/articleList.html</guid>
+            <pubDate>Sun, 06 Nov 2022 11:16:19 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[e스포츠人] 10년의 도전, 그리고 꿈을 이룬 '데프트']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=103319</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=103319</guid>
+            <pubDate>Sun, 06 Nov 2022 11:16:19 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202211/103319_122352_130_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[롤드컵 브리핑] 낭만 소년 드라마 완성한 DRX...역대 최고 반전 시나리오]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=103318</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=103318</guid>
+            <pubDate>Sun, 06 Nov 2022 11:16:19 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202211/103318_122351_1639_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[롤드컵 브리핑] '언더독의 반란' DRX...풀세트 접전 끝에 T1 꺾고 세계 재패]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=103317</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=103317</guid>
+            <pubDate>Sun, 06 Nov 2022 11:16:19 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202211/103317_122347_456_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[디지털 아트 품은 삼성 '더 프레임' 홍콩 최대 갤러리서 전시]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=103316</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=103316</guid>
+            <pubDate>Sun, 06 Nov 2022 11:16:19 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202211/103316_122345_3612_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[LG전자 조주완 사장, 아프리카 3개국 방문 '2030 부산세계박람회' 유치 활동]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=103315</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=103315</guid>
+            <pubDate>Sun, 06 Nov 2022 11:16:19 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202211/103315_122354_4514_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["같은 워치, 다른 느낌"...갤럭시 워치5·워치5 프로 메탈 스트랩 2종 출시]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=103314</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=103314</guid>
+            <pubDate>Sun, 06 Nov 2022 11:16:19 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202211/103314_122342_220_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[삼성 TV로 '엑스박스' 게임 즐기자…'게이밍 패키지 프로모션' 진행]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=103313</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=103313</guid>
+            <pubDate>Sun, 06 Nov 2022 11:16:19 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202211/103313_122341_1425_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[베리파이바스프, 싱가포르통화청 '2022 글로벌 핀테크 핵셀러레이터' 수상]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=103312</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=103312</guid>
+            <pubDate>Sun, 06 Nov 2022 11:16:19 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202211/103312_122340_1135_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[KT, 보험 산업 혁신 나선다...신한EZ손해보험 지분 9.9% 인수해 2대 주주로]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=103311</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=103311</guid>
+            <pubDate>Sun, 06 Nov 2022 00:22:00 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202211/103311_122339_2219_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[KT, 글로벌 시상식서 '올해의 통신사상' 등 3개 부문 수상]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=103310</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=103310</guid>
+            <pubDate>Sun, 06 Nov 2022 00:18:00 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202211/103310_122338_1750_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[아로와나 사태 집중 분석] 빗썸만의 문제 아니다..."룰 없이 방치한 건 정부" (하)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=103304</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=103304</guid>
+            <pubDate>Sun, 06 Nov 2022 11:53:00 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202211/103304_122328_5853_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[아로와나 사태 집중 분석] 부실 코인 나오면...거래소 책임일까, 발행사 책임일까 (중)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=103303</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=103303</guid>
+            <pubDate>Sun, 06 Nov 2022 11:52:00 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202211/103303_122325_5353_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[아로와나 사태 집중 분석] 끊이지 않는 아로와나 토큰 논란...진실은? (상)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=103302</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=103302</guid>
+            <pubDate>Sun, 06 Nov 2022 11:51:00 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202211/103302_122323_4449_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[LG유플러스, 임직원이 만든 '점자 동화책' 기부...시각장애인 학습 돕는다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=103305</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=103305</guid>
+            <pubDate>Sun, 06 Nov 2022 09:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202211/103305_122329_856_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[써봤다] 감각의 제국, 낫싱의 무선이어폰 '이어스틱']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=103290</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=103290</guid>
+            <pubDate>Sun, 06 Nov 2022 07:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202211/103290_122296_3419_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[PGC 통신] 다나와-광동 승자브래킷 진출...韓 자존심 지켜]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=103309</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=103309</guid>
+            <pubDate>Sun, 06 Nov 2022 02:32:00 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202211/103309_122335_51_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[e스포츠人] 개인전 준우승 이후 이재혁의 다짐 "초심 찾을 것"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=103308</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=103308</guid>
+            <pubDate>Sun, 06 Nov 2022 11:16:19 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202211/103308_122334_1057_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[카트 통신] 완벽 부활한 블레이즈, 광동에 완승...이재혁은 개인전 1위]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=103307</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=103307</guid>
+            <pubDate>Sun, 06 Nov 2022 11:16:19 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202211/103307_122331_478_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[돌풍의 '니케', 아시아를 휩쓸다...한국-일본 앱스토어 매출 1위 '석권']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=103306</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=103306</guid>
+            <pubDate>Sun, 06 Nov 2022 11:16:19 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202211/103306_122330_278_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
