@@ -1,8 +1,123 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN6&amp;view_type=sm</id>
-    <title>테크M ─ 라이프</title>
-    <updated>2022-11-10T01:54:17.424Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.techm.kr/news/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>테크M ─ 라이프</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 10 Nov 2022 03:31:40 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[LG유플러스 '아이들나라' 키즈 OTT로 탈바꿈…2027년 100만 구독자 모은다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=103541</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=103541</guid>
+            <pubDate>Thu, 10 Nov 2022 10:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202211/103541_122732_5250_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[LG전자, 병원에 식물생활가전 '틔운 미니' 150대 기부]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=103512</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=103512</guid>
+            <pubDate>Thu, 10 Nov 2022 03:31:13 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202211/103512_122682_2224_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[무신사, 배우 이이경과 '패션고민상담소' 연다..."고객 소통 강화"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=103504</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=103504</guid>
+            <pubDate>Thu, 10 Nov 2022 03:31:13 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202211/103504_122665_2345_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[지그재그표 브랜드 'Z 셀렉티드'...'원로그' 협업 슬랙스 선봬]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=103505</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=103505</guid>
+            <pubDate>Thu, 10 Nov 2022 03:31:13 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202211/103505_122666_2841_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[테크M 이슈] 이마트 '트레이더스 클럽' 한달만에 30만명에 몰린 비결은]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=103488</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=103488</guid>
+            <pubDate>Wed, 09 Nov 2022 10:47:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202211/103488_122646_4654_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["아이폰 13, 싸게 사자" 네이버 크림 '리뉴드 테크' 카테고리 열었다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=103486</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=103486</guid>
+            <pubDate>Wed, 09 Nov 2022 10:40:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202211/103486_122644_4035_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[코웨이, KS-SQI 정수기·공기청정기 A/S 부문 1위 '석권']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=103464</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=103464</guid>
+            <pubDate>Thu, 10 Nov 2022 03:31:13 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202211/103464_122606_2857_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[현대백화점, 3분기 영업이익 94.1%↑..."지누스 편입 효과"(종합)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=103447</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=103447</guid>
+            <pubDate>Thu, 10 Nov 2022 03:31:13 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202211/103447_122557_1215_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[현대백화점, 3분기 영업익 922억원…전년比 94.1%↑(1보)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=103440</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=103440</guid>
+            <pubDate>Thu, 10 Nov 2022 03:31:13 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202211/103440_122550_3047_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['LG 씽큐' 앱, 배송현황부터 제품 연동까지 '원클릭'으로 챙긴다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=103430</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=103430</guid>
+            <pubDate>Tue, 08 Nov 2022 00:42:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202211/103430_122533_4151_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SSG닷컴, 30초 완판 브랜드 '언더마이카' 신상 발마칸 코트 발매]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=103400</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=103400</guid>
+            <pubDate>Tue, 08 Nov 2022 06:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202211/103400_122492_5641_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[같이사소] 11월엔 쇼핑대전이 '대세'...티몬-G마켓-머스트잇]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=103386</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=103386</guid>
+            <pubDate>Thu, 10 Nov 2022 03:31:13 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202211/103386_122466_5113_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[신세계, 3Q 영업익 1530억원…전년比 49.4% '껑충'(1보)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=103364</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=103364</guid>
+            <pubDate>Thu, 10 Nov 2022 03:31:13 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202211/103364_122430_4449_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뷰티 전문 플랫폼 '뷰티컬리' 블랙핑크 제니 전속모델 발탁]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=103362</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=103362</guid>
+            <pubDate>Thu, 10 Nov 2022 03:31:13 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202211/103362_122428_1011_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>

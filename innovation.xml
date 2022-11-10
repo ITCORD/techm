@@ -1,8 +1,123 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN3&amp;view_type=sm</id>
-    <title>테크M ─ 이노베이션</title>
-    <updated>2022-11-10T01:54:17.404Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.techm.kr/news/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>테크M ─ 이노베이션</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 10 Nov 2022 03:31:40 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[흑자 이뤄낸 쿠팡, 3Q 영업익 1037억...수익성 입증했다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=103539</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=103539</guid>
+            <pubDate>Thu, 10 Nov 2022 08:38:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202211/103539_122730_380_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이영 중기부 장관 "금융권이 스타트업 생존 위한 '다리' 될 것"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=103507</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=103507</guid>
+            <pubDate>Thu, 10 Nov 2022 03:29:39 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202211/103507_122671_4955_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[박재욱 쏘카 대표 "스타트업 혹한기...정부가 중간다리 역할 해달라"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=103506</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=103506</guid>
+            <pubDate>Thu, 10 Nov 2022 03:29:39 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202211/103506_122669_3911_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[당근마켓 "함께 성장하는 우리동네 사장님 응원해요"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=103503</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=103503</guid>
+            <pubDate>Thu, 10 Nov 2022 03:29:39 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202211/103503_122664_214_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한국블록체인학회, 추계학술대회 개최...장현국 위메이드 대표 기조강연]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=103502</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=103502</guid>
+            <pubDate>Wed, 09 Nov 2022 00:13:00 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202211/103502_122663_1320_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[3Q 호실적 달성한 펄어비스...'붉은사막-도깨비' 개발 총력전(종합)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=103485</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=103485</guid>
+            <pubDate>Wed, 09 Nov 2022 10:33:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202211/103485_122721_1156_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이정헌 넥슨 "콘솔에 맞는 새로운 비즈니스모델 내놓는다...페이투윈은 지양"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=103434</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=103434</guid>
+            <pubDate>Thu, 10 Nov 2022 03:29:39 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202211/103434_122539_5811_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[헥토파이낸셜, 페북·인스타에 '내통장결제' 기능 제공…광고비 현금 결제 가능해졌다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=103432</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=103432</guid>
+            <pubDate>Tue, 08 Nov 2022 00:47:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202211/103432_122534_4521_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[버추얼 아이돌 '이터니티', DTDTGMGN 뮤직비디오 조회수 600만 돌파]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=103420</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=103420</guid>
+            <pubDate>Tue, 08 Nov 2022 10:47:00 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202211/103420_122520_471_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[카카오뱅크 품고 '제2의 도약' 노리는 코인원, MZ세대 정조준해 '양강구도' 깨뜨릴까]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=103405</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=103405</guid>
+            <pubDate>Tue, 08 Nov 2022 09:15:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202211/103405_122500_5829_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[코인원, 11월 29일부터 카카오뱅크 실명계좌 쓴다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=103401</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=103401</guid>
+            <pubDate>Thu, 10 Nov 2022 03:29:39 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202211/103401_122494_2626_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[AI에 진심인 엔씨소프트...'가장 인간적인 미래' 출간]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=103395</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=103395</guid>
+            <pubDate>Thu, 10 Nov 2022 03:29:39 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202211/103395_122472_2556_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["우린 카카오톡과 달라"...쿠브 개발사 블록체인랩스, 무중앙서버 메신저 '블록챗' 출시]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=103369</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=103369</guid>
+            <pubDate>Thu, 10 Nov 2022 03:29:39 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202211/103369_122435_449_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['어닝서프라이즈' 케이뱅크, 3Q 순익 256억원…1년새 8배 뛰었다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=103360</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=103360</guid>
+            <pubDate>Mon, 07 Nov 2022 11:31:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202211/103360_122426_3148_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
