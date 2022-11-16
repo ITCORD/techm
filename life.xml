@@ -1,8 +1,123 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN6&amp;view_type=sm</id>
-    <title>테크M ─ 라이프</title>
-    <updated>2022-11-16T16:42:38.978Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.techm.kr/news/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>테크M ─ 라이프</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 16 Nov 2022 17:33:17 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[농심 '꿀꽈배기의 핵심' 아카시아꿀 양봉농가 살린다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=103789</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=103789</guid>
+            <pubDate>Wed, 16 Nov 2022 11:23:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202211/103789_123144_2332_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[KBO 휩쓴 신세계...SSG랜더스 우승 기념 '쓱세일' 열었다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=103786</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=103786</guid>
+            <pubDate>Wed, 16 Nov 2022 11:07:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202211/103786_123141_713_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[코웨이, ESG 환경 경영 일환 태양광 발전소 설치]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=103785</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=103785</guid>
+            <pubDate>Wed, 16 Nov 2022 11:04:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202211/103785_123139_418_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[LG전자-서울시, 자율주행 통신기술 기반 '어린이 교통안전 서비스' 선보인다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=103769</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=103769</guid>
+            <pubDate>Wed, 16 Nov 2022 11:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202211/103769_123124_365_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[삼성 스마트 TV, 2년 연속 '영국 왕립 시각장애인 접근성 인증' 획득]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=103768</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=103768</guid>
+            <pubDate>Wed, 16 Nov 2022 09:32:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202211/103768_123123_3128_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['패션 맛집' 카카오 '큐레이션'으로 매달 100만명 끌어모은다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=103763</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=103763</guid>
+            <pubDate>Wed, 16 Nov 2022 17:32:40 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202211/103763_123098_557_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[템터뷰] '웹3' 시대의 패션, DAO가 '과정'부터 바꾼다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=103758</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=103758</guid>
+            <pubDate>Wed, 16 Nov 2022 17:32:40 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202211/103758_123106_5746_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[가상세계서 컬렉션 사고 판다...나이키표 '웹 3.0' 플랫폼 출격]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=103750</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=103750</guid>
+            <pubDate>Wed, 16 Nov 2022 17:32:40 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202211/103750_123062_2135_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[영업익 빠졌는데 어닝서프라이즈...'라면 한류' 농심에 놀란 증권가, 왜?]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=103732</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=103732</guid>
+            <pubDate>Tue, 15 Nov 2022 10:47:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202211/103732_123038_4755_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[무신사 '블랙 프라이데이' 흥행 돌풍...시간당 10억씩 팔았다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=103726</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=103726</guid>
+            <pubDate>Tue, 15 Nov 2022 10:33:00 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202211/103726_123032_309_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['갤럭시 워치' 체성분 측정 정확하네…美대학 논문에서 입증]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=103718</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=103718</guid>
+            <pubDate>Tue, 15 Nov 2022 10:01:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202211/103718_123024_059_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[리스크 극복한 스타벅스코리아...플래너 주는 'e-프리퀀시 이벤트' 론칭]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=103712</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=103712</guid>
+            <pubDate>Wed, 16 Nov 2022 17:32:40 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202211/103712_123011_3152_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[올림플래닛 '엘리펙스' CNB미디어 공간연구소와 손잡았다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=103702</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=103702</guid>
+            <pubDate>Wed, 16 Nov 2022 17:32:40 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202211/103702_122996_307_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이선호 앞세운 CJ제일제당, 3Q 영업익 4842억...1년새 12% '껑충']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=103701</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=103701</guid>
+            <pubDate>Wed, 16 Nov 2022 17:32:40 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202211/103701_122995_2232_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
