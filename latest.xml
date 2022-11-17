@@ -4,11 +4,19 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Nov 2022 17:24:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Nov 2022 18:31:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[[PGC 통신] 다나와 7위로 1일차 마무리...2치킨 몰아친 17게임 1위]]></title>
+            <title><![CDATA[축구에 진심인 쿠팡...월드컵 앞두고 기획전 개최]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=103868</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=103868</guid>
+            <pubDate>Fri, 18 Nov 2022 02:22:00 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202211/103868_123307_1949_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[PGC 통신] 다나와 7위로 1일차 마무리...2치킨 몰아친 17게이밍 1위]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=103867</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=103867</guid>
             <pubDate>Fri, 18 Nov 2022 02:02:00 GMT</pubDate>
@@ -27,7 +35,7 @@
             <title><![CDATA[[부고] 노재현(쿠키뉴스 대구경북취재본부 부국장)씨 빙모상]]></title>
             <link>https://www.techm.kr/news/articleList.html</link>
             <guid>https://www.techm.kr/news/articleList.html</guid>
-            <pubDate>Thu, 17 Nov 2022 17:20:11 GMT</pubDate>
+            <pubDate>Thu, 17 Nov 2022 18:24:04 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
         </item>
         <item>
@@ -157,14 +165,6 @@
             <pubDate>Thu, 17 Nov 2022 06:24:54 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202211/103844_123242_037_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[지스타 2022] 칼리스토 프로토콜의 개발 철학은..."딥스페이스 감옥에서 살아남아라"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=103843</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=103843</guid>
-            <pubDate>Thu, 17 Nov 2022 06:24:54 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202211/103843_123252_4827_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
