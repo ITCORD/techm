@@ -4,9 +4,33 @@
         <title>테크M ─ 콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Nov 2022 04:27:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Nov 2022 05:21:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[지스타 2022] '아키에이지2' 최초 공개...송재경 "PC-콘솔 멀티플랫폼, 액션에 중점"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=103841</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=103841</guid>
+            <pubDate>Thu, 17 Nov 2022 05:18:58 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202211/103841_123238_4143_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[지스타 2022] '리니지의 아버지' 송재경의 '아키에이지2'...인게임 영상에 시선 집중]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=103839</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=103839</guid>
+            <pubDate>Thu, 17 Nov 2022 05:18:58 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202211/103839_123236_3638_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[지스타 2022] "MS가 탐낼만 하네" 웹 3.0 새 시대 연 위메이드 위믹스]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=103838</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=103838</guid>
+            <pubDate>Thu, 17 Nov 2022 05:18:58 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202211/103838_123235_3059_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[지스타 2022] 넥슨 블루아카이브, 韓 게임대상 3개 부문 휩쓸어...개발력 '입증']]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=103837</link>
@@ -94,30 +118,6 @@
             <pubDate>Thu, 17 Nov 2022 10:44:00 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202211/103817_123208_280_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['다시 한번 게임의 세상으로'....제18회 국제게임전시회 '지스타 2022' 개막]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=103813</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=103813</guid>
-            <pubDate>Thu, 17 Nov 2022 09:56:00 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202211/103813_123204_5025_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[게임대상 4관왕 휩쓴 '대항해시대 오리진'...작품성 빛났다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=103812</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=103812</guid>
-            <pubDate>Wed, 16 Nov 2022 17:30:17 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202211/103812_123203_5758_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['게임대상' 품은 이정헌의 넥슨...던파 모바일로 왕의 귀환 알리다(상보)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=103810</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=103810</guid>
-            <pubDate>Wed, 16 Nov 2022 17:30:17 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202211/103810_123198_3958_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
