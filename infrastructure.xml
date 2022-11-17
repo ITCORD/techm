@@ -4,9 +4,17 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Nov 2022 07:21:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Nov 2022 08:30:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[네이버 라인 "日서 활약하는 '하이퍼클로바'...대화·문서집필 등 무궁무진"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=103853</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=103853</guid>
+            <pubDate>Thu, 17 Nov 2022 08:27:35 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202211/103853_123260_95_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[라인·야후재팬 "지구촌 2억명의 플랫폼...기술적 신뢰 향상 중요"]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=103846</link>
@@ -110,14 +118,6 @@
             <pubDate>Wed, 16 Nov 2022 17:30:35 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202211/103794_123162_173_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LG유플러스, 초정밀측위로 공유 킥보드 안전 주차 지원]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=103793</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=103793</guid>
-            <pubDate>Wed, 16 Nov 2022 17:30:35 GMT</pubDate>
-            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202211/103793_123161_1242_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

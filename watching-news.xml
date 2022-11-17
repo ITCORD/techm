@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Nov 2022 07:21:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Nov 2022 08:30:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 패션엑스다오, '패션'과 'DAO'로 패션산업의 성장을 꿈꾸다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=103854</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=103854</guid>
+            <pubDate>Thu, 17 Nov 2022 08:30:13 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202211/103854_123265_3141_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 나이키, 자체 개발한 웹3.0 플랫폼 닷스우시(.Swoosh) 출시]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=103802</link>
@@ -110,14 +118,6 @@
             <pubDate>Wed, 16 Nov 2022 17:33:16 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202210/102978_121712_4859_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] "메타버스에서 내가 원하는 '비스포크 제트 봇 AI 캐릭터'에 투표하세요"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=102908</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=102908</guid>
-            <pubDate>Wed, 16 Nov 2022 17:33:16 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202210/102908_121599_5119_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
