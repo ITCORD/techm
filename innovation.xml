@@ -4,9 +4,17 @@
         <title>테크M ─ 이노베이션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Nov 2022 01:48:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Nov 2022 03:18:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[네이버가 투자한 스타트업들 'CES' 무대 오른다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=103819</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=103819</guid>
+            <pubDate>Thu, 17 Nov 2022 11:10:00 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202211/103819_123210_4423_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[카카오가 찍은 휴마트컴퍼니, 투자용 기술신용평가 '매우 우수']]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=103782</link>
@@ -110,14 +118,6 @@
             <pubDate>Mon, 14 Nov 2022 11:19:00 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202211/103679_122966_1218_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[토스, 광군제 앞두고 '알리익스프레스'에 간편결제 서비스 개시]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=103631</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=103631</guid>
-            <pubDate>Wed, 16 Nov 2022 17:30:53 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202211/103631_122863_3019_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
