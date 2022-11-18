@@ -4,9 +4,17 @@
         <title>테크M ─ 콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Nov 2022 01:56:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Nov 2022 03:20:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[지스타 2022] 넷마블표 '나 혼자만 레벨업'...글로벌 IP 팬덤 다잡는다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=103875</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=103875</guid>
+            <pubDate>Fri, 18 Nov 2022 11:38:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202211/103875_123325_3357_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[축구에 진심인 쿠팡...월드컵 앞두고 기획전 개최]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=103868</link>
@@ -110,14 +118,6 @@
             <pubDate>Thu, 17 Nov 2022 06:25:09 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202211/103844_123242_037_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[지스타 2022] 칼리스토 프로토콜의 개발 철학은..."딥스페이스 감옥에서 살아남아라"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=103843</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=103843</guid>
-            <pubDate>Thu, 17 Nov 2022 06:25:09 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202211/103843_123252_4827_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
