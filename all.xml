@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 19 Nov 2022 05:21:04 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Nov 2022 06:29:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,6 +168,22 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202211/103893_123416_546_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[지스타 2022] 콘솔 국가대표 펄어비스 '검은사막'...삼성전자 부스에서 인기몰이 (테크M ─ 콘텐츠)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=103917</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=103917</guid>
+            <pubDate>Sat, 19 Nov 2022 05:17:20 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202211/103917_123440_81_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[지스타 2022] 주말 총공세 나선 넷마블... 꽉찬 이벤트 '눈길' (테크M ─ 콘텐츠)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=103916</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=103916</guid>
+            <pubDate>Sat, 19 Nov 2022 05:17:20 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202211/103916_123437_358_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[PGC 통신] 반전은 없었던 2일차...다나와 8위-광동 14위로 마무리 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=103913</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=103913</guid>
@@ -262,22 +278,6 @@
             <pubDate>Fri, 18 Nov 2022 07:19:25 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202211/103896_123415_5335_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[지스타 2022] 카카오게임즈의 야심작 '가디스 오더'...짜릿한 '액션 손맛' 담았다 (테크M ─ 콘텐츠)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=103891</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=103891</guid>
-            <pubDate>Fri, 18 Nov 2022 07:19:25 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202211/103891_123343_2432_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[지스타 2022] 왕의 귀환에 응답한 韓 게이머...넥슨 부스에 1만명 몰려 (테크M ─ 콘텐츠)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=103890</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=103890</guid>
-            <pubDate>Fri, 18 Nov 2022 05:18:28 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202211/103890_123341_520_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[지스타 2022] 게임업계가 선택한 보안 솔루션 'NHN 앱가드'…"성능·비용 앞세워 일본 공략" (테크M ─ 인프라)]]></title>
@@ -635,7 +635,7 @@
             <title><![CDATA[[부고] 노재현(쿠키뉴스 대구경북취재본부 부국장)씨 빙모상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Sat, 19 Nov 2022 05:20:16 GMT</pubDate>
+            <pubDate>Sat, 19 Nov 2022 06:27:30 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
         </item>
         <item>
