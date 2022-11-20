@@ -4,9 +4,24 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Nov 2022 03:27:07 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Nov 2022 04:29:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[부고] 이소라(테크M 선임기자)씨 동생상]]></title>
+            <link>https://www.techm.kr/news/articleList.html</link>
+            <guid>https://www.techm.kr/news/articleList.html</guid>
+            <pubDate>Sun, 20 Nov 2022 00:23:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[LGU+, IPTV를 OTT TV로 개편..."구글 크롬캐스트로 즐겨요"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=103915</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=103915</guid>
+            <pubDate>Sun, 20 Nov 2022 09:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202211/103915_123436_155_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[PGC 통신] 우승과 멀어져 가는 韓...3일차 다나와 7위-광동 13위로 마무리]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=103933</link>
@@ -150,22 +165,6 @@
             <pubDate>Sat, 19 Nov 2022 01:57:00 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202211/103913_123432_2424_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[지스타 2022] 게임업계가 선택한 보안 솔루션 'NHN 앱가드'…"성능·비용 앞세워 일본 공략"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=103907</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=103907</guid>
-            <pubDate>Fri, 18 Nov 2022 11:16:19 GMT</pubDate>
-            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202211/103907_123408_5911_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[지스타 2022] 출시 앞둔 카카오게임즈 '디스테라', 서바이벌 장르 진입장벽 확 낮췄다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=103909</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=103909</guid>
-            <pubDate>Fri, 18 Nov 2022 11:16:20 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202211/103909_123411_4738_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

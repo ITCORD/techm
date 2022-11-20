@@ -4,9 +4,24 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Nov 2022 03:27:07 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Nov 2022 04:29:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[부고] 이소라(테크M 선임기자)씨 동생상 (테크M ─ 전체기사)]]></title>
+            <link>https://ITCORD.github.io/techm/all.xml</link>
+            <guid>https://ITCORD.github.io/techm/all.xml</guid>
+            <pubDate>Sun, 20 Nov 2022 00:23:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[LGU+, IPTV를 OTT TV로 개편..."구글 크롬캐스트로 즐겨요" (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=103915</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=103915</guid>
+            <pubDate>Sun, 20 Nov 2022 09:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202211/103915_123436_155_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[PGC 통신] 우승과 멀어져 가는 韓...3일차 다나와 7위-광동 13위로 마무리 (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=103933</link>
@@ -152,22 +167,6 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202211/103913_123432_2424_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[지스타 2022] 게임업계가 선택한 보안 솔루션 'NHN 앱가드'…"성능·비용 앞세워 일본 공략" (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=103907</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=103907</guid>
-            <pubDate>Fri, 18 Nov 2022 09:21:08 GMT</pubDate>
-            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202211/103907_123408_5911_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[지스타 2022] 출시 앞둔 카카오게임즈 '디스테라', 서바이벌 장르 진입장벽 확 낮췄다 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=103909</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=103909</guid>
-            <pubDate>Fri, 18 Nov 2022 09:20:49 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202211/103909_123411_4738_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[PGC 통신] 우승과 멀어져 가는 韓...3일차 다나와 7위-광동 13위로 마무리 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=103933</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=103933</guid>
@@ -280,6 +279,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202211/103906_123407_5412_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[LGU+, IPTV를 OTT TV로 개편..."구글 크롬캐스트로 즐겨요" (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=103915</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=103915</guid>
+            <pubDate>Sun, 20 Nov 2022 09:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202211/103915_123436_155_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[지스타 2022] 게임업계가 선택한 보안 솔루션 'NHN 앱가드'…"성능·비용 앞세워 일본 공략" (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=103907</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=103907</guid>
@@ -382,14 +389,6 @@
             <pubDate>Fri, 18 Nov 2022 10:39:00 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202211/103871_123310_3844_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[지스타 2022] 부담없이 즐기는 VR '피코 4'…가볍게 쓰고 스트레스 '쫙' 푼다 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=103866</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=103866</guid>
-            <pubDate>Fri, 18 Nov 2022 07:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202211/103866_123418_5624_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[지스타 2022] 하이브, 지스타서 게임산업 출사표..."종합 엔터사 경쟁력 강화" (테크M ─ 이노베이션)]]></title>
@@ -616,6 +615,13 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202211/103681_122968_2434_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[부고] 이소라(테크M 선임기자)씨 동생상 (테크M ─ 피플)]]></title>
+            <link>https://ITCORD.github.io/techm/all.xml</link>
+            <guid>https://ITCORD.github.io/techm/all.xml</guid>
+            <pubDate>Sun, 20 Nov 2022 00:23:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[e스포츠人] 광동 노준현 "2연속 준우승, 너무 힘들었다" (테크M ─ 피플)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=103932</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=103932</guid>
@@ -643,7 +649,7 @@
             <title><![CDATA[[부고] 노재현(쿠키뉴스 대구경북취재본부 부국장)씨 빙모상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Sat, 19 Nov 2022 23:22:51 GMT</pubDate>
+            <pubDate>Sun, 20 Nov 2022 04:27:42 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
         </item>
         <item>
@@ -717,14 +723,6 @@
             <pubDate>Wed, 16 Nov 2022 17:32:22 GMT</pubDate>
             <content:encoded><![CDATA[김가은 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202211/103509_122672_850_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["투자자는 피눈물" 손태승 우리금융 회장, 연임 적신호...금융위 중징계 '철퇴' (테크M ─ 피플)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=103567</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=103567</guid>
-            <pubDate>Wed, 16 Nov 2022 17:32:22 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202211/103567_122765_827_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[대박친 무신사 '블랙 프라이데이'...5일 만에 1000억어치 팔았다 (테크M ─ 라이프)]]></title>
