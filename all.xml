@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Nov 2022 03:24:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Nov 2022 04:33:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,6 +168,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202211/103939_123478_1313_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[드림어스컴퍼니, 콘텐츠테크놀로지스 20억원 투자…IP 기반 확장 (테크M ─ 콘텐츠)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=103965</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=103965</guid>
+            <pubDate>Mon, 21 Nov 2022 04:29:20 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202211/103965_123521_649_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[카카오 멜론 "올해 455억회, 총 27억 시간 스트리밍 기록" (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=103957</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=103957</guid>
@@ -272,12 +280,68 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202211/103927_123455_152_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[지스타 2022] 아레스부터 가디스 오더까지...지스타의 주인공은 '카카오게임즈' (테크M ─ 콘텐츠)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=103926</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=103926</guid>
-            <pubDate>Sat, 19 Nov 2022 09:18:39 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202211/103926_123453_5715_v150.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[LG유플러스, 6G 차세대 안테나 기술로 국무총리상 품었다 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=103963</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=103963</guid>
+            <pubDate>Mon, 21 Nov 2022 00:52:00 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202211/103963_123519_520_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["지니 TV로 카타르 월드컵 더 빠르고 선명하게 즐겨라" (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=103962</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=103962</guid>
+            <pubDate>Mon, 21 Nov 2022 00:49:00 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202211/103962_123518_4945_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[韓-日 1등 이동통신사 '맞손'...SKT-NTT도코모, 메타버스-6G 등 전방위 협력 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=103961</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=103961</guid>
+            <pubDate>Mon, 21 Nov 2022 00:45:00 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202211/103961_123517_4514_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[LG전자 '글로벌 장애청소년 IT챌린지' 개최…11년째 이어진 응원 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=103959</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=103959</guid>
+            <pubDate>Mon, 21 Nov 2022 00:36:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202211/103959_123515_3554_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[롯데정보통신 자회사 중앙제어, 청주시 전기차 충전인프라 구축 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=103949</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=103949</guid>
+            <pubDate>Mon, 21 Nov 2022 11:26:00 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202211/103949_123490_5429_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[네이버, 한국AI학회와 공동 학술대회 성료…AI 리더와 교류 확대 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=103950</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=103950</guid>
+            <pubDate>Mon, 21 Nov 2022 11:26:00 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202211/103950_123492_1622_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[네이버 커넥트재단, 소프트웨어 교육 컨퍼런스 개최…누구나 무료 참여 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=103953</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=103953</guid>
+            <pubDate>Mon, 21 Nov 2022 11:26:00 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202211/103953_123496_2318_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[메가존클라우드, AWS IoT 컨설팅 컴피턴시 획득…"제조·건설 공략 박차" (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=103948</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=103948</guid>
+            <pubDate>Mon, 21 Nov 2022 10:46:00 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202211/103948_123489_4357_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[네이버클라우드 '루트CA' 인증서, 구글·애플 등 글로벌 주요 OS 및 브라우저 탑재 (테크M ─ 인프라)]]></title>
@@ -326,70 +390,6 @@
             <pubDate>Fri, 18 Nov 2022 09:21:08 GMT</pubDate>
             <content:encoded><![CDATA[김가은 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202211/103907_123408_5911_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[지스타 2022] '선한 영향력' 조명한 스마일게이트 "게임은 즐거움 넘어 사회에 희망 주는 플랫폼" (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=103912</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=103912</guid>
-            <pubDate>Fri, 18 Nov 2022 09:21:08 GMT</pubDate>
-            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202211/103912_123428_957_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[지스타 2022] 내년 1월 출격하는 '카트라이더: 드리프트'…"AI·ML로 완성도 높였다" (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=103897</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=103897</guid>
-            <pubDate>Fri, 18 Nov 2022 07:19:40 GMT</pubDate>
-            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202211/103897_123386_5956_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['국민의 재산' 주파수 받아 놓고 투자 안한 통신사들...정부, 주파수 회수 '초강수' (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=103894</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=103894</guid>
-            <pubDate>Fri, 18 Nov 2022 07:19:40 GMT</pubDate>
-            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202211/103894_123349_402_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[테크M 이슈] 네이버·카카오 '카타르 월드컵'으로 관심사 기반 소셜 키운다 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=103886</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=103886</guid>
-            <pubDate>Fri, 18 Nov 2022 05:18:28 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202211/103886_123336_4120_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["젊은이여, 그 길은 너의 것이다" 애플, 수험생 응원 캠페인 전개 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=103882</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=103882</guid>
-            <pubDate>Fri, 18 Nov 2022 05:18:28 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202211/103882_123332_229_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[카카오뱅크와 '자주만나요'...선물로 캐시 5억원 쏜다 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=103880</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=103880</guid>
-            <pubDate>Fri, 18 Nov 2022 05:18:28 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202211/103880_123330_362_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국민 메신저 '카톡'에서 '라방'...카카오, 소상공인 지원 확대 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=103879</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=103879</guid>
-            <pubDate>Fri, 18 Nov 2022 05:18:28 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202211/103879_123329_296_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[네이버, 세종대와 '초거대 AI' 꿈나무 키운다 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=103878</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=103878</guid>
-            <pubDate>Fri, 18 Nov 2022 05:18:28 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202211/103878_123328_15_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[지스타 2022] 하이브, 지스타서 게임산업 출사표..."종합 엔터사 경쟁력 강화" (테크M ─ 이노베이션)]]></title>
@@ -616,6 +616,30 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202211/103681_122968_2434_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[테크M 이슈] 체질개선 선언한 넷마블...혁신가 '방준혁' 대전환 시작됐다 (테크M ─ 피플)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=103958</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=103958</guid>
+            <pubDate>Mon, 21 Nov 2022 00:03:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202211/103958_123501_38_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[평사원서 대표까지 15년...던파 IP와 날아오른 '윤명진 네오플' (테크M ─ 피플)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=103954</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=103954</guid>
+            <pubDate>Mon, 21 Nov 2022 11:45:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202211/103954_123497_3922_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[네오플 새 대표는 '던파맨'...윤명진 신임 대표이사 내정 (테크M ─ 피플)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=103952</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=103952</guid>
+            <pubDate>Mon, 21 Nov 2022 11:20:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202211/103952_123495_2246_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[테크M 피플] 이윤숙 네이버 포레스트 대표의 도전, '한국의 쇼피파이' (테크M ─ 피플)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=103801</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=103801</guid>
@@ -635,7 +659,7 @@
             <title><![CDATA[[부고] 한준호(아주경제 금융부장)씨 모친상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Sun, 20 Nov 2022 23:23:45 GMT</pubDate>
+            <pubDate>Mon, 21 Nov 2022 04:32:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
         </item>
         <item>
@@ -673,7 +697,7 @@
             <title><![CDATA[[부고] 노재현(쿠키뉴스 대구경북취재본부 부국장)씨 빙모상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Sun, 20 Nov 2022 23:23:45 GMT</pubDate>
+            <pubDate>Mon, 21 Nov 2022 04:32:00 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
         </item>
         <item>
@@ -701,28 +725,20 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202211/103811_123200_4456_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['연임 도전' 구현모 KT "디지코 전략 옳았다...체질 변화 2~3년으론 안돼" (테크M ─ 피플)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=103780</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=103780</guid>
-            <pubDate>Wed, 16 Nov 2022 10:46:00 GMT</pubDate>
-            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202211/103780_123164_2336_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[권혁빈 스마일게이트 창업주 이혼 소송?...재산분할에 쏠린 눈 (테크M ─ 피플)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=103738</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=103738</guid>
-            <pubDate>Tue, 15 Nov 2022 00:10:00 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202211/103738_123044_349_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[테크M 피플] '왕의 귀환' 넥슨의 히어로 윤명진...게임대상 거머쥘까 (테크M ─ 피플)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=103724</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=103724</guid>
-            <pubDate>Tue, 15 Nov 2022 10:20:00 GMT</pubDate>
+            <title><![CDATA["목표 140% 초과 달성" 韓 유통가 흔든 이마트 쓱세일...정용진 초격차 경영 통했다 (테크M ─ 라이프)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=103964</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=103964</guid>
+            <pubDate>Mon, 21 Nov 2022 04:32:14 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202211/103724_123030_1958_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202211/103964_123520_416_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[호주에서도 역시 '가전은 LG'...TV·냉장고 '최고 브랜드' 선정 (테크M ─ 라이프)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=103960</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=103960</guid>
+            <pubDate>Mon, 21 Nov 2022 00:39:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202211/103960_123516_3927_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[대박친 무신사 '블랙 프라이데이'...5일 만에 1000억어치 팔았다 (테크M ─ 라이프)]]></title>
@@ -819,22 +835,6 @@
             <pubDate>Tue, 15 Nov 2022 10:47:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202211/103732_123038_4755_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[무신사 '블랙 프라이데이' 흥행 돌풍...시간당 10억씩 팔았다 (테크M ─ 라이프)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=103726</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=103726</guid>
-            <pubDate>Tue, 15 Nov 2022 10:33:00 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202211/103726_123032_309_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['갤럭시 워치' 체성분 측정 정확하네…美대학 논문에서 입증 (테크M ─ 라이프)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=103718</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=103718</guid>
-            <pubDate>Tue, 15 Nov 2022 10:01:00 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202211/103718_123024_059_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[글로벌] 게임 '아편' 취급하던 중국...돌연 "게임 산업 가치 재평가해야" (테크M ─ 리포트)]]></title>
