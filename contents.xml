@@ -4,9 +4,17 @@
         <title>테크M ─ 콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Nov 2022 09:26:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Nov 2022 10:27:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[기자수첩] '겜알못' 기자에게 지스타가 놀라웠던 3가지 이유]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=103978</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=103978</guid>
+            <pubDate>Mon, 21 Nov 2022 10:22:57 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202211/103978_123555_1353_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[韓 모바일게임은 결국 다시 '리니지'...니케 3위로 밀렸다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=103967</link>
@@ -110,14 +118,6 @@
             <pubDate>Sat, 19 Nov 2022 10:20:20 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202211/103930_123459_261_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[지스타 2022] 웹 3.0 구글플레이 꿈꾸는 위메이드 '위믹스'...지스타서 빛나다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=103929</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=103929</guid>
-            <pubDate>Sat, 19 Nov 2022 09:18:56 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202211/103929_123457_144_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

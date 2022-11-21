@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Nov 2022 09:26:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Nov 2022 10:27:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,6 +168,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202211/103957_123500_5352_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[기자수첩] '겜알못' 기자에게 지스타가 놀라웠던 3가지 이유 (테크M ─ 콘텐츠)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=103978</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=103978</guid>
+            <pubDate>Mon, 21 Nov 2022 10:22:57 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202211/103978_123555_1353_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[韓 모바일게임은 결국 다시 '리니지'...니케 3위로 밀렸다 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=103967</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=103967</guid>
@@ -270,14 +278,6 @@
             <pubDate>Sat, 19 Nov 2022 10:20:01 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202211/103930_123459_261_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[지스타 2022] 웹 3.0 구글플레이 꿈꾸는 위메이드 '위믹스'...지스타서 빛나다 (테크M ─ 콘텐츠)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=103929</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=103929</guid>
-            <pubDate>Sat, 19 Nov 2022 09:18:39 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202211/103929_123457_144_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[플랫폼은 '심판' 아닌 '플레잉코치'…"공정위 자사우대·최혜대우 심사지침 신중해야" (테크M ─ 인프라)]]></title>
@@ -667,7 +667,7 @@
             <title><![CDATA[[부고] 한준호(아주경제 금융부장)씨 모친상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Mon, 21 Nov 2022 09:24:45 GMT</pubDate>
+            <pubDate>Mon, 21 Nov 2022 10:25:38 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
         </item>
         <item>
@@ -705,7 +705,7 @@
             <title><![CDATA[[부고] 노재현(쿠키뉴스 대구경북취재본부 부국장)씨 빙모상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Mon, 21 Nov 2022 09:24:45 GMT</pubDate>
+            <pubDate>Mon, 21 Nov 2022 10:25:38 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
         </item>
         <item>
