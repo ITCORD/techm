@@ -4,9 +4,17 @@
         <title>테크M ─ 콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Nov 2022 23:26:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Nov 2022 01:51:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[코빗, 데일리 보너스 시즌2 오픈...참여만 하면 리워드 100% 당첨]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=103946</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=103946</guid>
+            <pubDate>Mon, 21 Nov 2022 10:33:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202211/103946_123487_2852_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[PGC 통신] 유럽 나투스 빈세레 우승...다나와-광동 톱10 진입 실패]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=103939</link>
@@ -110,14 +118,6 @@
             <pubDate>Sat, 19 Nov 2022 06:24:52 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202211/103916_123437_358_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[PGC 통신] 반전은 없었던 2일차...다나와 8위-광동 14위로 마무리]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=103913</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=103913</guid>
-            <pubDate>Sat, 19 Nov 2022 01:57:00 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202211/103913_123432_2424_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
