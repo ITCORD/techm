@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Nov 2022 03:19:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Nov 2022 04:29:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -392,6 +392,22 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202211/103949_123490_5429_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[새단장 마친 직방...'반값중개·스마트홈' 날개 단다 (테크M ─ 이노베이션)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=103990</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=103990</guid>
+            <pubDate>Tue, 22 Nov 2022 11:57:00 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202211/103990_123583_3242_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[카카오 김범수의 '브라이언임팩트'...장애인 삶 관찰 연구 돕는다 (테크M ─ 이노베이션)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=103983</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=103983</guid>
+            <pubDate>Tue, 22 Nov 2022 10:48:00 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202211/103983_123577_3442_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[社告] 2022 디지털금융 포럼, 오는 23일 개최..."조각투자와 STO의 모든 것" (테크M ─ 이노베이션)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=103955</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=103955</guid>
@@ -486,22 +502,6 @@
             <pubDate>Wed, 16 Nov 2022 10:54:00 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202211/103782_123137_5319_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[엔픽셀, 앱토스와 맞손...웹3.0 게임 생태계 구축 협업한다 (테크M ─ 이노베이션)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=103777</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=103777</guid>
-            <pubDate>Wed, 16 Nov 2022 10:43:00 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202211/103777_123131_3353_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[네이버·카카오가 찍은 '가지랩', 13억 브릿지 투자 유치 (테크M ─ 이노베이션)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=103778</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=103778</guid>
-            <pubDate>Wed, 16 Nov 2022 10:42:00 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202211/103778_123132_3746_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[실적 둔화 中 텐센트…규제 등쌀에 사업 전략 조정 (테크M ─ 인베스트먼트)]]></title>
@@ -667,7 +667,7 @@
             <title><![CDATA[[부고] 한준호(아주경제 금융부장)씨 모친상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Tue, 22 Nov 2022 01:50:42 GMT</pubDate>
+            <pubDate>Tue, 22 Nov 2022 04:27:39 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
         </item>
         <item>
@@ -705,7 +705,7 @@
             <title><![CDATA[[부고] 노재현(쿠키뉴스 대구경북취재본부 부국장)씨 빙모상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Tue, 22 Nov 2022 01:50:42 GMT</pubDate>
+            <pubDate>Tue, 22 Nov 2022 04:27:39 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
         </item>
         <item>
@@ -723,6 +723,22 @@
             <pubDate>Thu, 17 Nov 2022 00:14:00 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202211/103828_123223_959_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오아시스마켓 '위아더김치 with 김치의 날' 라이브 방송 열었다 (테크M ─ 라이프)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=103991</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=103991</guid>
+            <pubDate>Tue, 22 Nov 2022 11:58:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202211/103991_123585_5816_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["ESG도 멋지게" 배달의민족, 현대카드와 맞손...다회용 배달용기 내놨다 (테크M ─ 라이프)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=103989</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=103989</guid>
+            <pubDate>Tue, 22 Nov 2022 11:07:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202211/103989_123582_652_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[카카오스타일 '블랙 프라이데이' 통크게 쏜다...최대 94% 할인 (테크M ─ 라이프)]]></title>
@@ -819,22 +835,6 @@
             <pubDate>Wed, 16 Nov 2022 17:32:40 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202211/103763_123098_557_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[템터뷰] '웹3' 시대의 패션, DAO가 '과정'부터 바꾼다 (테크M ─ 라이프)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=103758</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=103758</guid>
-            <pubDate>Wed, 16 Nov 2022 17:32:40 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202211/103758_123106_5746_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가상세계서 컬렉션 사고 판다...나이키표 '웹 3.0' 플랫폼 출격 (테크M ─ 라이프)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=103750</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=103750</guid>
-            <pubDate>Wed, 16 Nov 2022 17:32:40 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202211/103750_123062_2135_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[글로벌] 게임 '아편' 취급하던 중국...돌연 "게임 산업 가치 재평가해야" (테크M ─ 리포트)]]></title>
