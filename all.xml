@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Nov 2022 05:23:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Nov 2022 06:29:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -280,6 +280,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202211/103978_123567_4338_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[KT, 영상회의 강자 '줌'과 맞손...내년에 '줌폰' 나온다 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=104053</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=104053</guid>
+            <pubDate>Wed, 23 Nov 2022 06:25:00 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202211/104053_123685_1030_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[월드컵 파업 예고에 고객∙라이더 싸늘…업계 "영향 크지 않을 것" (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=104047</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=104047</guid>
@@ -382,14 +390,6 @@
             <pubDate>Wed, 23 Nov 2022 10:15:00 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202211/104023_123642_728_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[델 테크놀로지스, HPC·AI 시장 '정조준'…"성능·효율성·보안 다 잡았다" (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=104021</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=104021</guid>
-            <pubDate>Tue, 22 Nov 2022 11:16:47 GMT</pubDate>
-            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202211/104021_123638_5845_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[메사쿠어컴퍼니, AI 얼굴인식 SaaS 서비스 '아이제너스(iJANUS)' 출시 (테크M ─ 이노베이션)]]></title>
@@ -837,6 +837,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202211/103769_123124_365_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[테크M 이슈] CJ온스타일 수수료 34% 1위...TV홈쇼핑, 납품업체 부담 여전해 (테크M ─ 리포트)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=104052</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=104052</guid>
+            <pubDate>Wed, 23 Nov 2022 06:28:46 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202211/104052_123682_5758_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[글로벌] 트위터 계정 부활한 트럼프 "복귀할 이유 없다" (테크M ─ 리포트)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=104011</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=104011</guid>
@@ -939,14 +947,6 @@
             <pubDate>Wed, 16 Nov 2022 17:32:58 GMT</pubDate>
             <content:encoded><![CDATA[김현기 대표]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202211/103590_122798_5428_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[글로벌] 해커 집단 '킬넷', 연이은 사이버 공격...美 정부·공항 웹사이트 타깃 (테크M ─ 리포트)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=103589</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=103589</guid>
-            <pubDate>Wed, 16 Nov 2022 17:32:58 GMT</pubDate>
-            <content:encoded><![CDATA[김현기 대표]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202211/103589_122797_5331_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[카드뉴스] 글로벌 VR 전문기업 피코(PICO), 지스타 2022에서 '피코 4'를 선보이다 (테크M ─ 보는 뉴스)]]></title>
