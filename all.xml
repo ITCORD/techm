@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Nov 2022 03:00:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Nov 2022 03:34:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -725,6 +725,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202211/103860_123286_1649_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[무신사, 무진장 팔았다...'블프' 판매액 2135억 돌파 역대 최고 (테크M ─ 라이프)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=104083</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=104083</guid>
+            <pubDate>Thu, 24 Nov 2022 11:55:00 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202211/104083_123733_3533_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['악성 리뷰'와의 전쟁 펼치는 배달의민족...추천순 정렬-리뷰 통계 도입 (테크M ─ 라이프)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=104034</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=104034</guid>
@@ -827,14 +835,6 @@
             <pubDate>Wed, 16 Nov 2022 11:07:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202211/103786_123141_713_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코웨이, ESG 환경 경영 일환 태양광 발전소 설치 (테크M ─ 라이프)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=103785</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=103785</guid>
-            <pubDate>Wed, 16 Nov 2022 11:04:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202211/103785_123139_418_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[테크M 이슈] CJ온스타일 수수료 34% 1위...TV홈쇼핑, 납품업체 부담 여전해 (테크M ─ 리포트)]]></title>
