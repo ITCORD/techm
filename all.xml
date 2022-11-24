@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Nov 2022 23:22:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Nov 2022 01:45:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,6 +168,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202211/104049_123715_414_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[카카오게임즈 생존 FPS '디스테라' 스팀 얼리 액세스 출격 (테크M ─ 콘텐츠)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=104070</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=104070</guid>
+            <pubDate>Thu, 24 Nov 2022 10:35:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202211/104070_123720_359_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['넥슨표 엘든링' 나올까…3D 액션 RPG 게임 개발 착수 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=104069</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=104069</guid>
@@ -270,14 +278,6 @@
             <pubDate>Tue, 22 Nov 2022 05:19:27 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202211/104000_123597_154_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[빗썸경제연구소 "韓에선 FTX 사태 불가능"...합리적 규제는 산업 발전 주춧돌 (테크M ─ 콘텐츠)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=103998</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=103998</guid>
-            <pubDate>Tue, 22 Nov 2022 05:19:27 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202211/103998_123595_5944_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[카카오, 내달 개발자 콘퍼런스서 '먹통 재발방지책' 발표한다 (테크M ─ 인프라)]]></title>
