@@ -4,9 +4,25 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Nov 2022 23:22:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Nov 2022 01:32:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우루과이전, 네이버로 동시에 200만명이 봤다...승부예측 최후 1인 아쉽게 '탈락']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=104126</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=104126</guid>
+            <pubDate>Fri, 25 Nov 2022 10:24:00 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202211/104126_123806_2016_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[크립토 브리핑] '상폐 쇼크'에 위믹스 67% 추락…'위메이드 3형제' 주가도 하한가]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=104125</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=104125</guid>
+            <pubDate>Fri, 25 Nov 2022 10:19:00 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202211/104125_123805_1444_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[위메이드 위믹스 "투자자에 사과, DAXA 결정에 유감...적극 대응"]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=104124</link>
@@ -150,22 +166,6 @@
             <pubDate>Thu, 24 Nov 2022 07:17:16 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202211/104102_123757_4245_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[글로벌] 전세계 PC 업계 혹한기에...HP, 3년간 6000명 감원키로]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=104105</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=104105</guid>
-            <pubDate>Thu, 24 Nov 2022 07:17:16 GMT</pubDate>
-            <content:encoded><![CDATA[김현기 대표]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202211/104105_123779_209_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[글로벌] EU, '우주 인터넷'에 8조원 투자...글로벌 위성 통신 경쟁 심화]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=104104</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=104104</guid>
-            <pubDate>Thu, 24 Nov 2022 07:17:16 GMT</pubDate>
-            <content:encoded><![CDATA[김현기 대표]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202211/104104_123780_2050_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
