@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 26 Nov 2022 08:28:30 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Nov 2022 09:21:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,6 +168,22 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202211/104135_123815_3059_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['원신' 3.3 버전이 온다...호요버스, 내달 7일 업데이트 예고 (테크M ─ 콘텐츠)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=104153</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=104153</guid>
+            <pubDate>Sat, 26 Nov 2022 08:22:24 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202211/104153_123862_4150_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[봤다] "축구 찐팬 모여라" 월드컵 열기 더하는 웹툰 모음.zip (테크M ─ 콘텐츠)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=104148</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=104148</guid>
+            <pubDate>Sat, 26 Nov 2022 08:22:24 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202211/104148_123851_150_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[위기 맞은 MS·블리자드 '80조 빅딜'…"美 FTC 반독점 소송 가능성" (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=104141</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=104141</guid>
@@ -262,22 +278,6 @@
             <pubDate>Wed, 23 Nov 2022 07:17:29 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202211/104054_123686_1326_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LG유플러스 "카타르 월드컵, 스포키에서 보세요" (테크M ─ 콘텐츠)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=104037</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=104037</guid>
-            <pubDate>Wed, 23 Nov 2022 11:12:00 GMT</pubDate>
-            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202211/104037_123656_1155_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[해외서도 '메타버스=이프랜드'...SK텔레콤, 글로벌 49개국 동시 출시 (테크M ─ 콘텐츠)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=104035</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=104035</guid>
-            <pubDate>Wed, 23 Nov 2022 11:02:00 GMT</pubDate>
-            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202211/104035_123654_26_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['고독한 박명수방' 월드컵 즐기는 법…카카오 '오픈채팅' 이색응원 눈길 (테크M ─ 인프라)]]></title>
@@ -395,7 +395,7 @@
             <title><![CDATA[위메이드, e스포츠단 DRX에 전략적 투자...위믹스에 IP 온보딩 (테크M ─ 이노베이션)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=104157</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=104157</guid>
-            <pubDate>Sat, 26 Nov 2022 08:24:16 GMT</pubDate>
+            <pubDate>Sat, 26 Nov 2022 08:22:24 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202211/104157_123866_5852_v150.jpg" length="0" type="image/jpg"/>
         </item>
@@ -403,7 +403,7 @@
             <title><![CDATA[위메이드 '위믹스 3.0' 노드 운영사 '40원더스'에 '오지스' 정식 합류 (테크M ─ 이노베이션)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=104154</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=104154</guid>
-            <pubDate>Sat, 26 Nov 2022 08:24:16 GMT</pubDate>
+            <pubDate>Sat, 26 Nov 2022 08:22:24 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202211/104154_123863_4547_v150.jpg" length="0" type="image/jpg"/>
         </item>
@@ -723,7 +723,7 @@
             <title><![CDATA[[부고] 한준호(아주경제 금융부장)씨 모친상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Sat, 26 Nov 2022 07:20:57 GMT</pubDate>
+            <pubDate>Sat, 26 Nov 2022 09:20:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
         </item>
         <item>
