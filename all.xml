@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Nov 2022 11:22:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Nov 2022 12:40:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,6 +168,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202211/104143_123835_5111_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[KRPL 통신] 드디어 '천적' 극복! 게임코치, 락스게이밍 꺾고 결승행 (테크M ─ 콘텐츠)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=104162</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=104162</guid>
+            <pubDate>Sun, 27 Nov 2022 12:34:45 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202211/104162_123876_341_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[카트 통신] '닐' 압도적 경기력으로 결승 합류...2연패 도전 기회 잡았다 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=104158</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=104158</guid>
@@ -270,14 +278,6 @@
             <pubDate>Thu, 24 Nov 2022 04:50:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202211/104069_123786_2334_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국인터넷신문협회, '2022 인터넷 신문인의 밤' 개최 (테크M ─ 콘텐츠)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=104060</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=104060</guid>
-            <pubDate>Wed, 23 Nov 2022 08:24:31 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202211/104060_123696_1243_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[유영상 SKT, 루마니아서 부산세계박람회 유치전 나섰다 (테크M ─ 인프라)]]></title>
@@ -616,6 +616,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202211/104075_123725_5741_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[e스포츠人] '리밋' 최림 "결승 상대 SGA 인천 약점 잘 파고들겠다" (테크M ─ 피플)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=104163</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=104163</guid>
+            <pubDate>Sun, 27 Nov 2022 12:38:15 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202211/104163_123880_455_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[e스포츠人] '닐' 리우창헝 "나를 키운 8할은 선수들...결승전 즐기겠다" (테크M ─ 피플)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=104159</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=104159</guid>
@@ -718,14 +726,6 @@
             <pubDate>Mon, 21 Nov 2022 05:05:00 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202211/103801_123175_4320_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[e스포츠人] 도전 의지 불태운 다나와 선수단 "팬들께 미안하고 고마워" (테크M ─ 피플)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=103941</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=103941</guid>
-            <pubDate>Mon, 21 Nov 2022 02:32:00 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202211/103941_123482_1558_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[백종원 레시피 받은 '포방터 닭볶음탕'...SK스토아 통해 전국서 맛본다 (테크M ─ 라이프)]]></title>
