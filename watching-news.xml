@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Nov 2022 07:24:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Nov 2022 08:27:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 2022 카타르 월드컵의 숨은 조력자 '최첨단 AI기술']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=104209</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=104209</guid>
+            <pubDate>Mon, 28 Nov 2022 08:27:40 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202211/104209_123951_128_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] LG유플러스, 이화여대 전용 메타버스 플랫폼 구축한다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=104145</link>
@@ -110,14 +118,6 @@
             <pubDate>Wed, 16 Nov 2022 17:33:16 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202211/103159_122059_213_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 손쉽게 만든 나만의 캐릭터로 돈버는 프렌즈(FRENZ)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=103118</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=103118</guid>
-            <pubDate>Wed, 16 Nov 2022 17:33:16 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202211/103118_121981_76_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
