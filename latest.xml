@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Nov 2022 22:21:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Nov 2022 23:23:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[AWS 리인벤트] "첫째도, 둘째도 안전" 경찰·소방 인력 대거 배치한 AWS]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=104260</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=104260</guid>
+            <pubDate>Wed, 30 Nov 2022 08:14:00 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202211/104260_124061_4842_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[AWS 리인벤트] HPC 시장 지각변동 예고한 AWS…"맞춤형 HW·SW로 한계 뛰어넘는다"]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=104259</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 29 Nov 2022 00:51:00 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202211/104242_124010_5043_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[네이버클라우드, '파스-타' 최고 레벨 인증…공공 클라우드 강자 입증]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=104241</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=104241</guid>
-            <pubDate>Tue, 29 Nov 2022 00:45:00 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202211/104241_124009_4513_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
