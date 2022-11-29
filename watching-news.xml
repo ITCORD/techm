@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Nov 2022 08:30:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Nov 2022 09:22:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] '제페토' 이용자 보호 위한 안전자문위원회 '발족']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=104251</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=104251</guid>
+            <pubDate>Tue, 29 Nov 2022 09:22:51 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202211/104251_124021_1355_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 2022 카타르 월드컵의 숨은 조력자 '최첨단 AI기술']]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=104209</link>
@@ -110,14 +118,6 @@
             <pubDate>Wed, 16 Nov 2022 17:33:16 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202211/103227_122161_156_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 마마무-오마이걸 NFT 나온다...네오핀-메타비트 '맞손']]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=103159</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=103159</guid>
-            <pubDate>Wed, 16 Nov 2022 17:33:16 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202211/103159_122059_213_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
