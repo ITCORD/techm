@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Nov 2022 14:21:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Nov 2022 15:24:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카트 토크 콘서트] 샌드박스 박수 브라더스 "오늘 경기, 제점수는요~"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=104309</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=104309</guid>
+            <pubDate>Wed, 30 Nov 2022 15:20:12 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202211/104309_124174_3726_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카트 통신] 샌드박스, 완벽한 경기력으로 결승행...광동-블레이즈 플레이오프 맞대결]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=104308</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 30 Nov 2022 05:17:44 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202211/104286_124157_4816_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[테크M 리포트] '린저씨' 넘어 글로벌 중심으로...무르익는 택진이형의 글로벌 꿈]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=104284</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=104284</guid>
-            <pubDate>Wed, 30 Nov 2022 04:23:14 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202211/104284_124097_1950_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

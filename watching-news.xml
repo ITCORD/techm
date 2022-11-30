@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Nov 2022 14:21:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Nov 2022 15:24:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카트 토크 콘서트] 샌드박스 박수 브라더스 "오늘 경기, 제점수는요~"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=104309</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=104309</guid>
+            <pubDate>Wed, 30 Nov 2022 15:24:10 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202211/104309_124174_3726_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 슈퍼랩스, 첫 버추얼휴먼 '모아(MOA)'를 선보이다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=104306</link>
@@ -110,14 +118,6 @@
             <pubDate>Wed, 16 Nov 2022 17:33:16 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202211/103397_122474_3337_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 메타버스 열풍, B2B 메타버스 트랜스포메이션 시대가 열린다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=103285</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=103285</guid>
-            <pubDate>Wed, 16 Nov 2022 17:33:16 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202211/103285_122287_419_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
