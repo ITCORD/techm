@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Nov 2022 09:24:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Nov 2022 10:26:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 슈퍼랩스, 첫 버추얼휴먼 '모아(MOA)'를 선보이다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=104306</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=104306</guid>
+            <pubDate>Wed, 30 Nov 2022 10:26:27 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202211/104306_124146_473_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] '제페토' 이용자 보호 위한 안전자문위원회 '발족']]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=104251</link>
@@ -110,14 +118,6 @@
             <pubDate>Wed, 16 Nov 2022 17:33:16 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202211/103285_122287_419_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 월드컵 열풍에 올라탄 '월드컵 코인'이 있다...축구와 블록체인의 만남]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=103227</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=103227</guid>
-            <pubDate>Wed, 16 Nov 2022 17:33:16 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202211/103227_122161_156_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
