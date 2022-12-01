@@ -4,9 +4,17 @@
         <title>테크M ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Dec 2022 06:29:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Dec 2022 07:24:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[원스토어, 전동진 신임 대표 이사 선임]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=104361</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=104361</guid>
+            <pubDate>Thu, 01 Dec 2022 07:22:36 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202212/104361_124245_3845_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['동행'의 삼성, 연말 이웃사랑성금 500억원 전달]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=104357</link>
@@ -110,14 +118,6 @@
             <pubDate>Mon, 21 Nov 2022 07:21:55 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202211/103971_123534_3932_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[테크M 이슈] 체질개선 선언한 넷마블...혁신가 '방준혁' 대전환 시작됐다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=103958</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=103958</guid>
-            <pubDate>Mon, 21 Nov 2022 00:03:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202211/103958_123501_38_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
