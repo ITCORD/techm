@@ -4,9 +4,25 @@
         <title>테크M ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Dec 2022 07:24:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Dec 2022 08:28:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[잡코리아, 윤현준 신임 대표이사 취임...우아한형제들 출신 IT 전문가]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=104370</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=104370</guid>
+            <pubDate>Thu, 01 Dec 2022 08:26:43 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202212/104370_124251_2618_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SK스퀘어, 신임 CEO로 박성하 전 SK(주) C&C 대표 선임]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=104367</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=104367</guid>
+            <pubDate>Thu, 01 Dec 2022 08:26:43 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202212/104367_124249_2148_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[원스토어, 전동진 신임 대표 이사 선임]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=104361</link>
@@ -102,22 +118,6 @@
             <pubDate>Thu, 24 Nov 2022 10:37:00 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202211/104071_123721_3555_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[템터뷰] 라인의 '게임도시'가 부산 지스타에 간 이유는..."NFT는 콘텐츠 확장의 열쇠"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=104015</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=104015</guid>
-            <pubDate>Tue, 22 Nov 2022 08:31:06 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202211/104015_123622_142_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[벤처 위기 속 나홀로 빛난 황성재의 '엑스와이지'...로봇 대중화 이끈다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=103971</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=103971</guid>
-            <pubDate>Mon, 21 Nov 2022 07:21:55 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202211/103971_123534_3932_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
