@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Dec 2022 09:25:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Dec 2022 10:24:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[AWS 리인벤트] 韓 IT 화두로 떠오른 '가용성'…AWS가 내놓은 답은 '액티브-액티브' 체계 (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=104372</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=104372</guid>
+            <pubDate>Thu, 01 Dec 2022 10:20:38 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202212/104372_124271_054_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 신한은행, 메타버스 플랫폼 '시나몬' 오픈 이벤트 (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=104369</link>
@@ -160,14 +168,6 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202212/104348_124229_4534_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[신뢰 키우는 번개장터, 성수동에 '정품 검수 센터' 열었다 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=104347</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=104347</guid>
-            <pubDate>Thu, 01 Dec 2022 11:42:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202212/104347_124228_4159_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[확 바뀐 '빗썸' 체험하면 총 1억원 상당 혜택 쏟아진다 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=104358</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=104358</guid>
@@ -221,7 +221,7 @@
             <guid>https://www.techm.kr/news/articleView.html?idxno=104311</guid>
             <pubDate>Thu, 01 Dec 2022 11:08:00 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202212/104311_124178_459_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202212/104311_124270_4642_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[게임대상 거머쥔 던파 모바일, 구글플레이 올해의 게임으로 '우뚝' (테크M ─ 콘텐츠)]]></title>
@@ -277,13 +277,21 @@
             <guid>https://www.techm.kr/news/articleView.html?idxno=104310</guid>
             <pubDate>Thu, 01 Dec 2022 10:40:00 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202212/104310_124176_4721_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202212/104310_124269_4515_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[AWS 리인벤트] 韓 IT 화두로 떠오른 '가용성'…AWS가 내놓은 답은 '액티브-액티브' 체계 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=104372</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=104372</guid>
+            <pubDate>Thu, 01 Dec 2022 10:21:16 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202212/104372_124271_054_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[유영상 SKT 대표, SKB CEO도 겸직...AI컴퍼니 위한 조직체계 구축 (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=104371</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=104371</guid>
-            <pubDate>Thu, 01 Dec 2022 09:20:03 GMT</pubDate>
+            <pubDate>Thu, 01 Dec 2022 09:18:43 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202212/104371_124260_3118_v150.jpg" length="0" type="image/jpg"/>
         </item>
@@ -384,14 +392,6 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202212/104314_124266_4353_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA["1등은 다르네" 카카오뱅크, 취약 계층 대상 '모두의 김장 나눔' 열었다 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=104328</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=104328</guid>
-            <pubDate>Thu, 01 Dec 2022 10:30:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202212/104328_124206_3017_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[신뢰 키우는 번개장터, 성수동에 '정품 검수 센터' 열었다 (테크M ─ 이노베이션)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=104347</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=104347</guid>
@@ -485,7 +485,7 @@
             <guid>https://www.techm.kr/news/articleView.html?idxno=104282</guid>
             <pubDate>Wed, 30 Nov 2022 00:25:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202211/104282_124159_4854_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202211/104282_124094_2434_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[네이버 디자인 콜로키움] 국민 '디지털 지갑' Na, 지값 없는 세상 꿈꾸다 (테크M ─ 이노베이션)]]></title>
@@ -955,7 +955,7 @@
             <title><![CDATA[[카드뉴스] 신한은행, 메타버스 플랫폼 '시나몬' 오픈 이벤트 (테크M ─ 보는 뉴스)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=104369</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=104369</guid>
-            <pubDate>Thu, 01 Dec 2022 09:25:07 GMT</pubDate>
+            <pubDate>Thu, 01 Dec 2022 09:18:43 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202212/104369_124252_2715_v150.jpg" length="0" type="image/jpg"/>
         </item>
