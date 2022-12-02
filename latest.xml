@@ -4,9 +4,25 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Dec 2022 05:19:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Dec 2022 06:28:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[올해의 폴더블폰 '갤럭시 Z 플립4'…내년 '5'는 확 달라진다?]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=104395</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=104395</guid>
+            <pubDate>Fri, 02 Dec 2022 06:22:16 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202212/104395_124314_1123_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[위믹스 상장폐지 가처분 결정 앞두고 장외 여론전 뜨겁다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=104396</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=104396</guid>
+            <pubDate>Fri, 02 Dec 2022 06:22:16 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202212/104396_124317_1227_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[AWS 리인벤트] AWS가 태풍·홍수 속에서 희망을 전달하는 방법은?]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=104394</link>
@@ -150,22 +166,6 @@
             <pubDate>Fri, 02 Dec 2022 09:18:00 GMT</pubDate>
             <content:encoded><![CDATA[김가은 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202212/104374_124278_130_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[TCP가 온다] 심상치 않은 사전 판매량...'제2의 배그' 꿈꾸는 칼리스토 프로토콜 (하)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=104350</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=104350</guid>
-            <pubDate>Fri, 02 Dec 2022 06:05:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202212/104350_124230_587_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[TCP가 온다] "딥스페이스 감옥에서 살아남아라"...'칼리스토 프로토콜' 출시 (상)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=104360</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=104360</guid>
-            <pubDate>Fri, 02 Dec 2022 06:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202212/104360_124240_2722_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
