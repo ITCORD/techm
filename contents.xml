@@ -4,9 +4,17 @@
         <title>테크M ─ 콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Dec 2022 03:26:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Dec 2022 04:25:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[디즈니 100년] 13년 만에 귀환 '아바타'...압도적 기술로 세계관 '확장']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=104391</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=104391</guid>
+            <pubDate>Fri, 02 Dec 2022 04:21:39 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202212/104391_124299_5758_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['저 스니커즈 이름이 뭐였지?'...네이버에서 이미지로 정확한 제품명 찾는다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=104386</link>
@@ -110,14 +118,6 @@
             <pubDate>Thu, 01 Dec 2022 11:08:00 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202212/104311_124270_4642_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[게임대상 거머쥔 던파 모바일, 구글플레이 올해의 게임으로 '우뚝']]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=104336</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=104336</guid>
-            <pubDate>Thu, 01 Dec 2022 11:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202212/104336_124214_5951_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
