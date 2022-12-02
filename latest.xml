@@ -4,9 +4,25 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Dec 2022 04:25:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Dec 2022 05:19:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[AWS 리인벤트] AWS가 태풍·홍수 속에서 희망을 전달하는 방법은?]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=104394</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=104394</guid>
+            <pubDate>Fri, 02 Dec 2022 05:16:10 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202212/104394_124308_429_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["곪은 부위 도려내야" vs. "자의적 판단에 사망 수준"...거래소-위메이드 입장 '팽팽']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=104393</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=104393</guid>
+            <pubDate>Fri, 02 Dec 2022 05:16:10 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202212/104393_124309_4232_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[디즈니 100년] 13년 만에 귀환 '아바타'...압도적 기술로 세계관 '확장']]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=104391</link>
@@ -150,22 +166,6 @@
             <pubDate>Fri, 02 Dec 2022 06:00:00 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202212/104360_124240_2722_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[TCP가 온다] '원 히트 원더'는 이제 그만...크래프톤, '콘솔'에서 답을 찾다 (중)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=104373</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=104373</guid>
-            <pubDate>Fri, 02 Dec 2022 06:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202212/104373_124272_81_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[AWS 리인벤트] 韓 IT 화두로 떠오른 '가용성'…AWS가 내놓은 답은 '액티브-액티브' 체계]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=104372</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=104372</guid>
-            <pubDate>Thu, 01 Dec 2022 10:20:38 GMT</pubDate>
-            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202212/104372_124271_054_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

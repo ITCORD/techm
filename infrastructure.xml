@@ -4,9 +4,17 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Dec 2022 04:25:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Dec 2022 05:19:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[AWS 리인벤트] AWS가 태풍·홍수 속에서 희망을 전달하는 방법은?]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=104394</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=104394</guid>
+            <pubDate>Fri, 02 Dec 2022 05:16:43 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202212/104394_124308_429_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[빗썸 변호인 율촌 "위믹스 상폐, 행정처분 아냐...투자자 혼란↑"]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=104389</link>
@@ -110,14 +118,6 @@
             <pubDate>Thu, 01 Dec 2022 11:06:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202212/104339_124267_4424_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['공공 포털' 도약한 네이버, 세종시와 맞손...공공정보 키운다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=104337</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=104337</guid>
-            <pubDate>Thu, 01 Dec 2022 11:02:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202212/104337_124215_158_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
