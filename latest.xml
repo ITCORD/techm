@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 03 Dec 2022 21:18:16 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Dec 2022 22:19:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[디즈니 100년] 내년 100돌 디즈니 미래는 한국...작품·수익 두마리 토끼 잡는다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=104392</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=104392</guid>
+            <pubDate>Sun, 04 Dec 2022 07:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202212/104392_124306_1542_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[KRPL 결승] 생애 첫 우승 노리는 게임코치...4파전으로 좁혀진 개인전]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=104412</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 02 Dec 2022 05:16:10 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202212/104393_124324_811_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[디즈니 100년] 13년 만에 귀환 '아바타'...압도적 기술로 세계관 '확장']]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=104391</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=104391</guid>
-            <pubDate>Fri, 02 Dec 2022 04:21:22 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202212/104391_124325_842_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
