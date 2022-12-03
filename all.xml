@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 03 Dec 2022 17:18:50 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Dec 2022 18:24:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,6 +168,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202212/104391_124325_842_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[KRPL 결승] 생애 첫 우승 노리는 게임코치...4파전으로 좁혀진 개인전 (테크M ─ 콘텐츠)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=104412</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=104412</guid>
+            <pubDate>Sun, 04 Dec 2022 01:27:00 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202212/104412_124367_954_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[카트 통신] 광동 프릭스, 블레이즈꺾고 결승행...특급 신예 대결서 웃은 노준현 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=104410</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=104410</guid>
@@ -270,14 +278,6 @@
             <pubDate>Thu, 01 Dec 2022 06:24:08 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202212/104359_124239_1620_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[넷마블 '머지 쿵야 아일랜드', 구글플레이 '올해를 빛낸 게임' 우수상 (테크M ─ 콘텐츠)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=104354</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=104354</guid>
-            <pubDate>Thu, 01 Dec 2022 05:17:51 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202212/104354_124234_373_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[포르투갈 꺾고 기적의 16강...네이버에서 218만명 '환호' (테크M ─ 인프라)]]></title>
