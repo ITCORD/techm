@@ -4,9 +4,33 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 03 Dec 2022 07:18:01 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Dec 2022 08:24:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[IT기자의 캠핑 이야기] (5)신박한 서비스 '캠땡'을 아시나요? 차바꿀 필요 없어요]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=104399</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=104399</guid>
+            <pubDate>Sat, 03 Dec 2022 08:20:59 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202212/104399_124332_1948_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[블록체인 '팬시' 가동하는 메타버스엔터 "어닝(Earning)이 있으면 소비처도 있어야"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=104400</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=104400</guid>
+            <pubDate>Sat, 03 Dec 2022 08:20:59 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202212/104400_124333_3328_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[카드뉴스] 한컴프론티스-플루닛, AI 가상인간에 메타버스 더한다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=104401</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=104401</guid>
+            <pubDate>Sat, 03 Dec 2022 08:20:59 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202212/104401_124334_457_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[글로벌] 사람 뇌에 칩 심겠다는 머스크...6개월 내 임상 실험한다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=104409</link>
@@ -142,30 +166,6 @@
             <pubDate>Fri, 02 Dec 2022 00:11:00 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202212/104387_124295_1023_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['저 스니커즈 이름이 뭐였지?'...네이버에서 이미지로 정확한 제품명 찾는다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=104386</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=104386</guid>
-            <pubDate>Fri, 02 Dec 2022 11:53:00 GMT</pubDate>
-            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202212/104386_124294_535_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[탄소중립과 혁신Ⅱ] (16)탄소중립 실천을 위한 ICT 융복합 환경교육]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=104382</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=104382</guid>
-            <pubDate>Fri, 02 Dec 2022 11:51:00 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202212/104382_124326_859_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2023년에도 핫할 메타버스 트랜스포메이션...시장 규모 '폭증']]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=104384</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=104384</guid>
-            <pubDate>Fri, 02 Dec 2022 11:49:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202212/104384_124290_486_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

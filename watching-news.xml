@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 03 Dec 2022 07:18:01 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Dec 2022 08:24:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 한컴프론티스-플루닛, AI 가상인간에 메타버스 더한다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=104401</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=104401</guid>
+            <pubDate>Sat, 03 Dec 2022 08:24:16 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202212/104401_124334_457_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 신한은행, 메타버스 플랫폼 '시나몬' 오픈 이벤트]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=104369</link>
@@ -110,14 +118,6 @@
             <pubDate>Wed, 16 Nov 2022 17:33:16 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202211/103521_122697_154_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 'AI 컴퍼니' 도약 위한 SK텔레콤의 3대 추진 전략은?]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=103457</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=103457</guid>
-            <pubDate>Wed, 16 Nov 2022 17:33:16 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202211/103457_122573_32_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
