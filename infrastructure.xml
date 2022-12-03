@@ -4,9 +4,17 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 03 Dec 2022 02:42:51 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Dec 2022 03:23:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[포르투갈 꺾고 기적의 16강...네이버에서 218만명 '환호']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=104406</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=104406</guid>
+            <pubDate>Sat, 03 Dec 2022 00:12:00 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202212/104406_124358_78_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[티맥스그룹, 정기 임원 인사 단행…"슈퍼앱 출시 속도 낸다"]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=104398</link>
@@ -110,14 +118,6 @@
             <pubDate>Thu, 01 Dec 2022 00:58:00 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202212/104352_124232_5847_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[학교에도, 병원에도, 식당에도 'LG 클로이' 로봇이 간다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=104341</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=104341</guid>
-            <pubDate>Thu, 01 Dec 2022 11:22:00 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202212/104341_124218_1152_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
