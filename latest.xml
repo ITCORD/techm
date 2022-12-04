@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 04 Dec 2022 07:19:28 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Dec 2022 08:25:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[쿠팡서 햇반만 납품 미달? "CJ제일제당, 300개 제품 납품률 고작 60%"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=104414</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=104414</guid>
+            <pubDate>Sun, 04 Dec 2022 08:21:56 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202212/104414_124372_012_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[위메이드, 바이낸스에 '위믹스' 맡긴다...위믹스 가격 15% 껑충]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=104413</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 02 Dec 2022 06:22:16 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202212/104396_124323_756_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[AWS 리인벤트] AWS가 태풍·홍수 속에서 희망을 전달하는 방법은?]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=104394</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=104394</guid>
-            <pubDate>Fri, 02 Dec 2022 05:16:10 GMT</pubDate>
-            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202212/104394_124308_429_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
