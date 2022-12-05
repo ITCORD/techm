@@ -4,17 +4,9 @@
         <title>테크M ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Dec 2022 04:25:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Dec 2022 05:20:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA['뉴삼성' 띄운 삼성 이재용...한종희-경계현 체제 유지(상보)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=104426</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=104426</guid>
-            <pubDate>Mon, 05 Dec 2022 10:36:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202212/104426_124433_1717_v150.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[인사] 삼성전자]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=104425</link>
@@ -118,6 +110,14 @@
             <pubDate>Sat, 26 Nov 2022 14:18:42 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202211/104159_123872_430_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[공간 혁신가를 만나다] "공장서 만든 주택, 레고처럼 조립"...건설업계 테슬라 꿈꾼다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=103979</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=103979</guid>
+            <pubDate>Mon, 05 Dec 2022 05:19:59 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202211/103979_123867_29_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
