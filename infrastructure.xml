@@ -4,9 +4,17 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Dec 2022 07:21:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Dec 2022 08:29:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[기자수첩] 바다 건너 미국땅서 열린 IT축제…"혁신의 시작은 결국 데이터"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=104451</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=104451</guid>
+            <pubDate>Mon, 05 Dec 2022 08:25:33 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202212/104451_124486_5031_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[STO 도전장? 신한투자증권, 증권형토큰 플랫폼 사업 '눈독']]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=104446</link>
@@ -61,7 +69,7 @@
             <guid>https://www.techm.kr/news/articleView.html?idxno=104428</guid>
             <pubDate>Mon, 05 Dec 2022 11:12:00 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202212/104428_124420_052_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202212/104428_124485_500_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['뉴삼성' 띄운 삼성 이재용...한종희-경계현 체제 유지(상보)]]></title>
@@ -110,14 +118,6 @@
             <pubDate>Fri, 02 Dec 2022 00:11:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202212/104389_124296_1144_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[카카오 '1015피해지원 협의체' 2차 회의...피해 접수 사례 10.5만건]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=104381</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=104381</guid>
-            <pubDate>Fri, 02 Dec 2022 11:41:00 GMT</pubDate>
-            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202212/104381_124286_4059_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
