@@ -4,9 +4,17 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Dec 2022 02:53:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Dec 2022 03:26:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[테크M 이슈] 쿠팡이츠 "악천후-초인접, 예외적 2건 배달"…고객들은 "눈 와도 빠르네"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=104528</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=104528</guid>
+            <pubDate>Wed, 07 Dec 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202212/104528_124599_25_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[이프 카카오] 카카오 "시스템 다중화 및 데이터센터 추가 건설 약속"]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=104534</link>
@@ -110,14 +118,6 @@
             <pubDate>Wed, 07 Dec 2022 10:27:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202212/104517_124588_2719_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[카카오, '먹통사태' 두달 만에 재발방지책 내놓는다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=104509</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=104509</guid>
-            <pubDate>Wed, 07 Dec 2022 09:20:00 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202212/104509_124580_1330_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
