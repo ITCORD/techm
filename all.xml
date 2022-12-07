@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Dec 2022 08:26:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Dec 2022 09:22:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[카카오가 투자한 스타트업들 'CES' 무대 오른다 (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=104557</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=104557</guid>
+            <pubDate>Wed, 07 Dec 2022 09:17:08 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202212/104557_124657_3253_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[논란 틈탄 이커머스 대규모 프로모션...그래도 쿠팡이 더 싸다? (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=104556</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=104556</guid>
+            <pubDate>Wed, 07 Dec 2022 09:17:08 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202212/104556_124656_319_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['서명키 유출' 대응 마친 NHN페이코…"신규 업데이트 완료, 개인정보 피해 無" (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=104555</link>
@@ -152,22 +168,6 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202212/104528_124599_25_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[이프 카카오] 카카오 "시스템 다중화 및 데이터센터 추가 건설 약속" (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=104534</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=104534</guid>
-            <pubDate>Wed, 07 Dec 2022 11:48:00 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202212/104534_124607_4334_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[이프 카카오] 카카오 서비스 안정화 위해 투자금 '3배' 늘린다 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=104533</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=104533</guid>
-            <pubDate>Wed, 07 Dec 2022 11:47:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202212/104533_124608_4749_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[콘진원, 2022 콘텐츠 산업 매출 147조원..."2023년 성장 돌파구 될 것" (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=104535</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=104535</guid>
@@ -283,7 +283,7 @@
             <title><![CDATA['서명키 유출' 대응 마친 NHN페이코…"신규 업데이트 완료, 개인정보 피해 無" (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=104555</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=104555</guid>
-            <pubDate>Wed, 07 Dec 2022 08:22:50 GMT</pubDate>
+            <pubDate>Wed, 07 Dec 2022 08:22:18 GMT</pubDate>
             <content:encoded><![CDATA[김가은 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202212/104555_124649_526_v150.jpg" length="0" type="image/jpg"/>
         </item>
@@ -291,7 +291,7 @@
             <title><![CDATA[한국화웨이, 한국정보처리학회와 손잡고 국내 ICT 인재 양성 돕는다 (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=104552</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=104552</guid>
-            <pubDate>Wed, 07 Dec 2022 08:22:50 GMT</pubDate>
+            <pubDate>Wed, 07 Dec 2022 08:22:18 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202212/104552_124646_2314_v150.jpg" length="0" type="image/jpg"/>
         </item>
@@ -955,7 +955,7 @@
             <title><![CDATA[[카드뉴스] 더 샌드박스, K콘텐츠를 위한 공간 케이버스(K-verse) 구축 (테크M ─ 보는 뉴스)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=104550</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=104550</guid>
-            <pubDate>Wed, 07 Dec 2022 08:26:47 GMT</pubDate>
+            <pubDate>Wed, 07 Dec 2022 08:22:18 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202212/104550_124637_598_v150.jpg" length="0" type="image/jpg"/>
         </item>
