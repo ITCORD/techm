@@ -4,9 +4,17 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Dec 2022 11:20:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Dec 2022 12:38:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[위메이드 위믹스, 결국 상장폐지로...가처분 기각(1보)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=104554</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=104554</guid>
+            <pubDate>Wed, 07 Dec 2022 12:34:03 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202212/104554_124648_3138_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['서명키 유출' 대응 마친 NHN페이코…"신규 업데이트 완료, 개인정보 피해 無"]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=104555</link>
@@ -110,14 +118,6 @@
             <pubDate>Wed, 07 Dec 2022 11:20:00 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202212/104529_124600_1657_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[이프 카카오] 카카오 먹통의 원인..."미흡한 장애 대응 매뉴얼 탓"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=104530</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=104530</guid>
-            <pubDate>Wed, 07 Dec 2022 11:20:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202212/104530_124601_1821_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
