@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Dec 2022 07:21:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Dec 2022 08:26:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 더 샌드박스, K콘텐츠를 위한 공간 케이버스(K-verse) 구축]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=104550</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=104550</guid>
+            <pubDate>Wed, 07 Dec 2022 08:26:47 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202212/104550_124637_598_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] KT도 고양이 캐릭터 '라온' 활용해 멤버십 NFT 사업 뛰어든다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=104502</link>
@@ -110,14 +118,6 @@
             <pubDate>Wed, 16 Nov 2022 17:33:16 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202211/103762_123096_5446_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 넷마블 메타버스엔터테인먼트가 '디지털 휴먼' 제작 노하우 알려준다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=103581</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=103581</guid>
-            <pubDate>Wed, 16 Nov 2022 17:33:16 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202211/103581_122782_854_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
