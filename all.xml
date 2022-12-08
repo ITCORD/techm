@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Dec 2022 03:23:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Dec 2022 04:29:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -616,6 +616,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202212/104379_124285_3515_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[커피한잔] KRPL '레전드' 반열에 올라서다...락스 '쫑' 한종문 (테크M ─ 피플)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=104582</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=104582</guid>
+            <pubDate>Thu, 08 Dec 2022 04:28:10 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202212/104582_124680_4722_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[자전거래 혐의 벗었다...송치형 두나무 회장 2심서 무죄 (테크M ─ 피플)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=104547</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=104547</guid>
@@ -718,14 +726,6 @@
             <pubDate>Sun, 04 Dec 2022 01:08:00 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202212/104411_124366_5625_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[잡코리아, 윤현준 신임 대표이사 취임...우아한형제들 출신 IT 전문가 (테크M ─ 피플)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=104370</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=104370</guid>
-            <pubDate>Wed, 07 Dec 2022 08:24:27 GMT</pubDate>
-            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202212/104370_124251_2618_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[지그재그 브랜드 'Z 셀렉티드', '로렌하이'와 캐시미어 코트 출시 (테크M ─ 라이프)]]></title>
