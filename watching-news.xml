@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Dec 2022 07:21:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Dec 2022 08:27:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 2030 세계박람회 유치전에 활용된 메타버스 '컬러버스' 눈길]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=104598</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=104598</guid>
+            <pubDate>Thu, 08 Dec 2022 08:27:12 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202212/104598_124715_5851_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 더 샌드박스, K콘텐츠를 위한 공간 케이버스(K-verse) 구축]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=104550</link>
@@ -110,14 +118,6 @@
             <pubDate>Wed, 16 Nov 2022 17:33:16 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202211/103802_123178_5235_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 메타버스에서의 경험을 오프라인에서도...컬러버스, '하이 퍼피레드' 오픈]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=103762</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=103762</guid>
-            <pubDate>Wed, 16 Nov 2022 17:33:16 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202211/103762_123096_5446_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
