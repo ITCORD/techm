@@ -4,9 +4,17 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Dec 2022 02:50:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Dec 2022 03:23:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[이프 카카오] "카카오표 기술 나눔으로 더 나은 세상 만들 것"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=104579</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=104579</guid>
+            <pubDate>Thu, 08 Dec 2022 11:57:00 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202212/104579_124679_4616_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["해외 대학생, 청소년들도 안랩 사옥 랜선투어 신청하세요"]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=104578</link>
@@ -110,14 +118,6 @@
             <pubDate>Wed, 07 Dec 2022 08:22:50 GMT</pubDate>
             <content:encoded><![CDATA[김가은 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202212/104555_124649_526_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국화웨이, 한국정보처리학회와 손잡고 국내 ICT 인재 양성 돕는다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=104552</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=104552</guid>
-            <pubDate>Wed, 07 Dec 2022 08:22:50 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202212/104552_124646_2314_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
