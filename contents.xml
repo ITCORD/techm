@@ -4,9 +4,17 @@
         <title>테크M ─ 콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Dec 2022 23:20:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Dec 2022 01:25:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["김호중 콘서트 'U+tv'와 '아이돌플러스'로 보세요"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=104566</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=104566</guid>
+            <pubDate>Thu, 08 Dec 2022 09:57:00 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202212/104566_124663_5416_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[위믹스 상장폐지 가처분 기각...위메이드 최악의 시나리오 펼쳐졌다(상보)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=104560</link>
@@ -110,14 +118,6 @@
             <pubDate>Tue, 06 Dec 2022 00:33:00 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202212/104475_124511_4019_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[북미 팬 사로잡은 네이버웹툰 美 'LA코믹콘'...열띤 호응 속 성료]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=104477</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=104477</guid>
-            <pubDate>Tue, 06 Dec 2022 10:49:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202212/104477_124516_4932_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
