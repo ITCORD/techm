@@ -4,9 +4,17 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Dec 2022 01:29:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Dec 2022 02:52:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["로컬 맛집 찾아볼까"…네이버 검색에 '키워드 리뷰' 더했다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=104619</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=104619</guid>
+            <pubDate>Fri, 09 Dec 2022 10:37:00 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202212/104619_124758_3322_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[LG유플러스, 시각장애 학생 위한 'U+희망도서관' 7호점 구축]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=104616</link>
@@ -110,14 +118,6 @@
             <pubDate>Thu, 08 Dec 2022 11:20:00 GMT</pubDate>
             <content:encoded><![CDATA[김가은 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202212/104577_124676_1430_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[효성인포메이션시스템-비엠텍시스템, 데이터 사업 강화 및 시장 공략 '맞손']]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=104576</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=104576</guid>
-            <pubDate>Thu, 08 Dec 2022 11:06:00 GMT</pubDate>
-            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202212/104576_124674_5520_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
