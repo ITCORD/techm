@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Dec 2022 08:29:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Dec 2022 09:21:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 웹3.0 메타버스 '캐리버스' 영상 최초 공개]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=104643</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=104643</guid>
+            <pubDate>Fri, 09 Dec 2022 09:21:17 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202212/104643_124806_3239_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 2030 세계박람회 유치전에 활용된 메타버스 '컬러버스' 눈길]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=104598</link>
@@ -110,14 +118,6 @@
             <pubDate>Thu, 17 Nov 2022 08:30:13 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202211/103854_123265_3141_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 나이키, 자체 개발한 웹3.0 플랫폼 닷스우시(.Swoosh) 출시]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=103802</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=103802</guid>
-            <pubDate>Wed, 16 Nov 2022 17:33:16 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202211/103802_123178_5235_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
