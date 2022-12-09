@@ -4,9 +4,17 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Dec 2022 23:25:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Dec 2022 01:29:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[LG유플러스, 시각장애 학생 위한 'U+희망도서관' 7호점 구축]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=104616</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=104616</guid>
+            <pubDate>Fri, 09 Dec 2022 10:08:00 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202212/104616_124756_651_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[라인 '도시', 가상자산 '링크' 전용 지갑 이달말 출시..."구글 로그인 가능"]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=104605</link>
@@ -110,14 +118,6 @@
             <pubDate>Thu, 08 Dec 2022 11:06:00 GMT</pubDate>
             <content:encoded><![CDATA[김가은 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202212/104576_124674_5520_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LG CNS, 구독형 AICC 서비스로 '컨택센터' 사업 본격화]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=104574</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=104574</guid>
-            <pubDate>Thu, 08 Dec 2022 11:05:00 GMT</pubDate>
-            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202212/104574_124672_476_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
