@@ -4,9 +4,16 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Dec 2022 09:21:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Dec 2022 10:23:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[부고] 최태복(해군 전 공보정훈병과장)씨 부인상]]></title>
+            <link>https://www.techm.kr/news/articleList.html</link>
+            <guid>https://www.techm.kr/news/articleList.html</guid>
+            <pubDate>Fri, 09 Dec 2022 10:19:14 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[오케스트라로 듣는 게임 OST, 재미를 넘어 예술로...게임 문화예술콘서트 개최]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=104646</link>
@@ -158,14 +165,6 @@
             <pubDate>Fri, 09 Dec 2022 00:17:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202212/104629_124777_172_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[이프 카카오] 카카오브레인 "콜럼버스처럼 AI 헬스케어 개척할 것"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=104628</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=104628</guid>
-            <pubDate>Fri, 09 Dec 2022 00:10:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202212/104628_124773_1034_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

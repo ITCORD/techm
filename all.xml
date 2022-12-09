@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Dec 2022 09:21:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Dec 2022 10:23:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[부고] 최태복(해군 전 공보정훈병과장)씨 부인상 (테크M ─ 전체기사)]]></title>
+            <link>https://ITCORD.github.io/techm/all.xml</link>
+            <guid>https://ITCORD.github.io/techm/all.xml</guid>
+            <pubDate>Fri, 09 Dec 2022 10:19:14 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[오케스트라로 듣는 게임 OST, 재미를 넘어 예술로...게임 문화예술콘서트 개최 (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=104646</link>
@@ -160,18 +167,10 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202212/104629_124777_172_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[이프 카카오] 카카오브레인 "콜럼버스처럼 AI 헬스케어 개척할 것" (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=104628</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=104628</guid>
-            <pubDate>Fri, 09 Dec 2022 00:10:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202212/104628_124773_1034_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[오케스트라로 듣는 게임 OST, 재미를 넘어 예술로...게임 문화예술콘서트 개최 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=104646</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=104646</guid>
-            <pubDate>Fri, 09 Dec 2022 09:17:50 GMT</pubDate>
+            <pubDate>Fri, 09 Dec 2022 09:17:17 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202212/104646_124816_3932_v150.jpg" length="0" type="image/jpg"/>
         </item>
@@ -179,7 +178,7 @@
             <title><![CDATA[문화에서 예술이 된 게임...조승래 의원 "예술로서의 게임 인식 높여야" (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=104645</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=104645</guid>
-            <pubDate>Fri, 09 Dec 2022 09:17:50 GMT</pubDate>
+            <pubDate>Fri, 09 Dec 2022 09:17:17 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202212/104645_124815_1340_v150.jpg" length="0" type="image/jpg"/>
         </item>
@@ -445,7 +444,7 @@
             <guid>https://www.techm.kr/news/articleView.html?idxno=104548</guid>
             <pubDate>Wed, 07 Dec 2022 07:18:55 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202212/104548_124651_650_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202212/104548_124634_2044_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[가상자산 거래소 캐셔레스트, BKEX와 국내 스타트업 발굴·육성 나선다 (테크M ─ 이노베이션)]]></title>
@@ -616,6 +615,13 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202212/104379_124285_3515_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[부고] 최태복(해군 전 공보정훈병과장)씨 부인상 (테크M ─ 피플)]]></title>
+            <link>https://ITCORD.github.io/techm/all.xml</link>
+            <guid>https://ITCORD.github.io/techm/all.xml</guid>
+            <pubDate>Fri, 09 Dec 2022 10:21:36 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[이프 카카오] "사회적 약자 챙긴다" 카카오톡, 국민 플랫폼으로 '우뚝' (테크M ─ 피플)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=104630</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=104630</guid>
@@ -637,7 +643,7 @@
             <guid>https://www.techm.kr/news/articleView.html?idxno=104582</guid>
             <pubDate>Thu, 08 Dec 2022 04:28:10 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202212/104582_124744_423_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202212/104582_124680_4722_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[자전거래 혐의 벗었다...송치형 두나무 회장 2심서 무죄 (테크M ─ 피플)]]></title>
@@ -720,14 +726,6 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202212/104424_124416_2810_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[이재용의 뉴삼성 '한종희-경계현' 2인 체제 유지...이영희 사장 승진(1보) (테크M ─ 피플)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=104423</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=104423</guid>
-            <pubDate>Mon, 05 Dec 2022 10:20:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202212/104423_124414_2051_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA['쓱세일' 대박에…용진이형, 이마트 전직원에 26억 쏜다 (테크M ─ 라이프)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=104610</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=104610</guid>
@@ -749,7 +747,7 @@
             <guid>https://www.techm.kr/news/articleView.html?idxno=104596</guid>
             <pubDate>Thu, 08 Dec 2022 07:16:26 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202212/104596_124740_4040_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202212/104596_124710_326_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[취업률 75.5%...콘진원, 게임인재원 5기 교육생 신규 모집 (테크M ─ 라이프)]]></title>
@@ -955,7 +953,7 @@
             <title><![CDATA[[카드뉴스] 웹3.0 메타버스 '캐리버스' 영상 최초 공개 (테크M ─ 보는 뉴스)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=104643</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=104643</guid>
-            <pubDate>Fri, 09 Dec 2022 09:21:17 GMT</pubDate>
+            <pubDate>Fri, 09 Dec 2022 09:17:17 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202212/104643_124806_3239_v150.jpg" length="0" type="image/jpg"/>
         </item>
