@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Dec 2022 22:19:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Dec 2022 23:22:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[글로벌] '카메라 센서' 올인하던 테슬라, 결국 '백기?'...레이더 센서 선보인다 (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=104649</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=104649</guid>
+            <pubDate>Sat, 10 Dec 2022 07:30:00 GMT</pubDate>
+            <content:encoded><![CDATA[김현기 대표]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202212/104649_124821_208_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[글로벌] 메타, 핵심 수익원 잃나...EU, '맞춤형 광고' 차단 나섰다 (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=104650</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=104650</guid>
+            <pubDate>Sat, 10 Dec 2022 07:30:00 GMT</pubDate>
+            <content:encoded><![CDATA[김현기 대표]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202212/104650_124822_2259_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[글로벌] MS, '90조원' 블리자드 인수 무산되나...美 FTC 소송 제기 (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=104651</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=104651</guid>
+            <pubDate>Sat, 10 Dec 2022 07:30:00 GMT</pubDate>
+            <content:encoded><![CDATA[김현기 대표]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202212/104651_124823_262_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[보난자팩토리, 네이버와 디지털자산 분야 전략적 제휴 (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=104654</link>
@@ -27,7 +51,7 @@
             <title><![CDATA[[부고] 최태복(해군 전 공보정훈병과장)씨 부인상 (테크M ─ 전체기사)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Fri, 09 Dec 2022 22:17:06 GMT</pubDate>
+            <pubDate>Fri, 09 Dec 2022 23:18:15 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
         </item>
         <item>
@@ -141,30 +165,6 @@
             <pubDate>Fri, 09 Dec 2022 06:24:02 GMT</pubDate>
             <content:encoded><![CDATA[김가은 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202212/104634_124798_2331_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[이프 카카오] 트랜잭션 처리시간 가장 빠른 클레이튼..."메타버스에 가장 적합" (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=104632</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=104632</guid>
-            <pubDate>Fri, 09 Dec 2022 04:21:44 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202212/104632_124780_391_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[이프 카카오] 진화하는 카카오 데이터, 분석툴로 성장했다 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=104633</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=104633</guid>
-            <pubDate>Fri, 09 Dec 2022 00:41:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202212/104633_124782_4051_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[이프 카카오] ESG 힘 주는 카카오 "기술 윤리로 디지털 생태계 지킬 것" (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=104631</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=104631</guid>
-            <pubDate>Fri, 09 Dec 2022 00:33:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202212/104631_124799_2411_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[오케스트라로 듣는 게임 OST, 재미를 넘어 예술로...게임 문화예술콘서트 개최 (테크M ─ 콘텐츠)]]></title>
@@ -618,7 +618,7 @@
             <title><![CDATA[[부고] 최태복(해군 전 공보정훈병과장)씨 부인상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Fri, 09 Dec 2022 22:19:11 GMT</pubDate>
+            <pubDate>Fri, 09 Dec 2022 23:21:22 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
         </item>
         <item>
@@ -838,6 +838,30 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202212/104449_124473_5628_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[글로벌] '카메라 센서' 올인하던 테슬라, 결국 '백기?'...레이더 센서 선보인다 (테크M ─ 리포트)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=104649</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=104649</guid>
+            <pubDate>Sat, 10 Dec 2022 07:30:00 GMT</pubDate>
+            <content:encoded><![CDATA[김현기 대표]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202212/104649_124821_208_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[글로벌] 메타, 핵심 수익원 잃나...EU, '맞춤형 광고' 차단 나섰다 (테크M ─ 리포트)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=104650</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=104650</guid>
+            <pubDate>Sat, 10 Dec 2022 07:30:00 GMT</pubDate>
+            <content:encoded><![CDATA[김현기 대표]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202212/104650_124822_2259_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[글로벌] MS, '90조원' 블리자드 인수 무산되나...美 FTC 소송 제기 (테크M ─ 리포트)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=104651</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=104651</guid>
+            <pubDate>Sat, 10 Dec 2022 07:30:00 GMT</pubDate>
+            <content:encoded><![CDATA[김현기 대표]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202212/104651_124823_262_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[글로벌] 엑스박스 가격 인상 없다는 MS, 게임 출시가격은 70달러로 올린다 (테크M ─ 리포트)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=104603</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=104603</guid>
@@ -924,30 +948,6 @@
             <pubDate>Thu, 01 Dec 2022 08:24:40 GMT</pubDate>
             <content:encoded><![CDATA[김현기 대표]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202212/104365_124247_1638_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[글로벌] "애플, 트위터 광고 중단"...머스크, 애플과의 전쟁 선포 (테크M ─ 리포트)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=104364</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=104364</guid>
-            <pubDate>Thu, 01 Dec 2022 08:24:40 GMT</pubDate>
-            <content:encoded><![CDATA[김현기 대표]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202212/104364_124246_1528_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[글로벌] 애플, 정저우 공장 사태로 10억달러 손실 예상..."탈중국 가속화" (테크M ─ 리포트)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=104236</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=104236</guid>
-            <pubDate>Tue, 29 Nov 2022 00:03:00 GMT</pubDate>
-            <content:encoded><![CDATA[김현기 대표]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202211/104236_124001_239_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[글로벌] 오리온 우주선, 아폴로13호 기록 깨고 지구에서 가장 멀리 날았다 (테크M ─ 리포트)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=104235</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=104235</guid>
-            <pubDate>Tue, 29 Nov 2022 00:01:00 GMT</pubDate>
-            <content:encoded><![CDATA[김현기 대표]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202211/104235_123997_115_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[카드뉴스] 웹3.0 메타버스 '캐리버스' 영상 최초 공개 (테크M ─ 보는 뉴스)]]></title>
