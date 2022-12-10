@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 10 Dec 2022 11:18:28 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Dec 2022 12:35:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카트 결승] 5회 우승 대기록...이재혁, 명실상부 '레전드' 등극]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=104658</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=104658</guid>
+            <pubDate>Sat, 10 Dec 2022 12:30:31 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202212/104658_124834_5556_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[크립토 주간 브리핑] '지닥'으로 피신한 위믹스…美 CPI·FOMC 앞두고 숨죽인 비트코인]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=104657</link>
@@ -67,7 +75,7 @@
             <title><![CDATA[[부고] 최태복(해군 전 공보정훈병과장)씨 부인상]]></title>
             <link>https://www.techm.kr/news/articleList.html</link>
             <guid>https://www.techm.kr/news/articleList.html</guid>
-            <pubDate>Sat, 10 Dec 2022 10:17:51 GMT</pubDate>
+            <pubDate>Sat, 10 Dec 2022 12:30:31 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
         </item>
         <item>
@@ -157,14 +165,6 @@
             <pubDate>Fri, 09 Dec 2022 09:17:17 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202212/104626_124795_2229_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[더존비즈온-메가존클라우드, '아마란스 10' 사업화 및 글로벌 시장 확대 '맞손']]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=104636</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=104636</guid>
-            <pubDate>Fri, 09 Dec 2022 09:17:17 GMT</pubDate>
-            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202212/104636_124786_5851_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
