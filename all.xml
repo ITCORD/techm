@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 11 Dec 2022 01:39:04 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Dec 2022 02:53:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[테크M 트렌드] 오픈AI가 선보인 '챗GPT'에 IT업계 '들썩'..."대화 넘어 코딩·원고 작성까지" (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=104661</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=104661</guid>
+            <pubDate>Sun, 11 Dec 2022 11:46:00 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202212/104661_124837_1153_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[LG유플러스, 사내 개발자 대회 '핵스티벌'로 플랫폼 기술력 확보 나서 (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=104653</link>
@@ -19,7 +27,7 @@
             <title><![CDATA[[카트 토크 콘서트] "형 마음, 내가 제일 잘 알아"...'5회 우승' 이재혁의 못다한 이야기 (테크M ─ 전체기사)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Sun, 11 Dec 2022 01:35:09 GMT</pubDate>
+            <pubDate>Sun, 11 Dec 2022 02:50:35 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
         </item>
         <item>
@@ -90,7 +98,7 @@
             <title><![CDATA[[부고] 최태복(해군 전 공보정훈병과장)씨 부인상 (테크M ─ 전체기사)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Sun, 11 Dec 2022 01:35:09 GMT</pubDate>
+            <pubDate>Sun, 11 Dec 2022 02:50:35 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
         </item>
         <item>
@@ -156,14 +164,6 @@
             <pubDate>Fri, 09 Dec 2022 08:23:23 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202212/104639_124790_4258_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[이프 카카오] '韓 대표 인터넷' 카카오 패밀리, 한목소리로 '기술윤리' 외치다 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=104638</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=104638</guid>
-            <pubDate>Fri, 09 Dec 2022 06:24:02 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202212/104638_124789_3349_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[카트 결승] 5회 우승 대기록...이재혁, 명실상부 '레전드' 등극 (테크M ─ 콘텐츠)]]></title>
@@ -278,6 +278,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202212/104622_124763_035_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[테크M 트렌드] 오픈AI가 선보인 '챗GPT'에 IT업계 '들썩'..."대화 넘어 코딩·원고 작성까지" (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=104661</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=104661</guid>
+            <pubDate>Sun, 11 Dec 2022 11:46:00 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202212/104661_124837_1153_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[LG유플러스, 사내 개발자 대회 '핵스티벌'로 플랫폼 기술력 확보 나서 (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=104653</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=104653</guid>
@@ -380,14 +388,6 @@
             <pubDate>Thu, 08 Dec 2022 07:16:26 GMT</pubDate>
             <content:encoded><![CDATA[김가은 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202212/104600_124724_735_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[이프 카카오] 한 문장만 녹음하면, 1초 만에 음성 합성 '뚝딱' (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=104599</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=104599</guid>
-            <pubDate>Thu, 08 Dec 2022 07:16:26 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202212/104599_124723_157_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[보난자팩토리, 네이버와 디지털자산 분야 전략적 제휴 (테크M ─ 이노베이션)]]></title>
@@ -617,14 +617,14 @@
             <title><![CDATA[[카트 토크 콘서트] "형 마음, 내가 제일 잘 알아"...'5회 우승' 이재혁의 못다한 이야기 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Sun, 11 Dec 2022 01:38:15 GMT</pubDate>
+            <pubDate>Sun, 11 Dec 2022 02:52:46 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[부고] 최태복(해군 전 공보정훈병과장)씨 부인상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Sun, 11 Dec 2022 01:38:15 GMT</pubDate>
+            <pubDate>Sun, 11 Dec 2022 02:52:47 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
         </item>
         <item>
