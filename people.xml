@@ -4,21 +4,29 @@
         <title>테크M ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Dec 2022 01:28:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Dec 2022 02:54:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아모레퍼시픽, 신임 사장에 김승환 지주사 대표 선임]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=104672</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=104672</guid>
+            <pubDate>Mon, 12 Dec 2022 10:36:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202212/104672_124870_4732_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카트 토크 콘서트] "형 마음, 내가 제일 잘 알아"...'5회 우승' 이재혁의 못다한 이야기]]></title>
             <link>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN5&amp;view_type=sm</link>
             <guid>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN5&amp;view_type=sm</guid>
-            <pubDate>Mon, 12 Dec 2022 01:26:27 GMT</pubDate>
+            <pubDate>Mon, 12 Dec 2022 02:52:30 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[부고] 최태복(해군 전 공보정훈병과장)씨 부인상]]></title>
             <link>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN5&amp;view_type=sm</link>
             <guid>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN5&amp;view_type=sm</guid>
-            <pubDate>Mon, 12 Dec 2022 01:26:27 GMT</pubDate>
+            <pubDate>Mon, 12 Dec 2022 02:52:30 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
         </item>
         <item>
@@ -108,14 +116,6 @@
             <pubDate>Mon, 05 Dec 2022 07:20:02 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202212/104445_124469_370_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[인사] 삼성전자]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=104425</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=104425</guid>
-            <pubDate>Mon, 05 Dec 2022 10:30:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202212/104425_124417_3039_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

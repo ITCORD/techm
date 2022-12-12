@@ -4,9 +4,17 @@
         <title>테크M ─ 콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Dec 2022 01:28:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Dec 2022 02:54:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[네이버웹툰 "웹툰 이용자 올해 평균 938개 회차 감상"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=104668</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=104668</guid>
+            <pubDate>Mon, 12 Dec 2022 10:20:00 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202212/104668_124851_1312_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[국민 레이싱 게임 역사 속으로...'카트라이더' 서비스 종료 공식화]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=104664</link>
@@ -110,14 +118,6 @@
             <pubDate>Fri, 09 Dec 2022 11:58:00 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202212/104627_124768_5540_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[넥슨 '카트라이더' 서비스 종료하나...불안한 이용자들은 '공식 입장' 원한다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=104625</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=104625</guid>
-            <pubDate>Fri, 09 Dec 2022 11:47:00 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202212/104625_124766_3712_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
