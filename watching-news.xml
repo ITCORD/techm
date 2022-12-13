@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Dec 2022 07:19:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Dec 2022 08:27:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 오픈AI, 대화형 AI챗봇 '챗GPT(ChatGPT)' 개발]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=104745</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=104745</guid>
+            <pubDate>Tue, 13 Dec 2022 08:27:30 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202212/104745_124978_1454_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 웹3.0 메타버스 '캐리버스' 영상 최초 공개]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=104643</link>
@@ -110,14 +118,6 @@
             <pubDate>Fri, 18 Nov 2022 09:24:30 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202211/103911_123420_653_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 패션엑스다오, '패션'과 'DAO'로 패션산업의 성장을 꿈꾸다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=103854</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=103854</guid>
-            <pubDate>Thu, 17 Nov 2022 08:30:13 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202211/103854_123265_3141_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
