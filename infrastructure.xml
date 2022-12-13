@@ -4,9 +4,17 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Dec 2022 05:19:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Dec 2022 06:25:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[해봤다] 새롭고, 경악스러운 '챗GPT']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=104729</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=104729</guid>
+            <pubDate>Tue, 13 Dec 2022 06:23:37 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202212/104729_124946_4546_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[카카오톡 선물하기, '원소주 크리스마스 에디션' 단독 판매]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=104724</link>
@@ -110,14 +118,6 @@
             <pubDate>Mon, 12 Dec 2022 08:24:05 GMT</pubDate>
             <content:encoded><![CDATA[김가은 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202212/104697_124897_1832_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[KB국민은행, 맞춤형 종합자산관리 서비스 확대 오픈]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=104695</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=104695</guid>
-            <pubDate>Mon, 12 Dec 2022 06:23:07 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202212/104695_124895_1021_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
