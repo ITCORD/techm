@@ -4,9 +4,17 @@
         <title>테크M ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Dec 2022 23:22:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Dec 2022 01:30:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[LG전자 '사랑의 김치'로 소외계층 나눔 실천]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=104708</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=104708</guid>
+            <pubDate>Tue, 13 Dec 2022 10:10:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202212/104708_124924_947_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아모레퍼시픽, 신임 사장에 김승환 지주사 대표 선임]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=104672</link>
@@ -19,14 +27,14 @@
             <title><![CDATA[[카트 토크 콘서트] "형 마음, 내가 제일 잘 알아"...'5회 우승' 이재혁의 못다한 이야기]]></title>
             <link>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN5&amp;view_type=sm</link>
             <guid>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN5&amp;view_type=sm</guid>
-            <pubDate>Mon, 12 Dec 2022 23:21:50 GMT</pubDate>
+            <pubDate>Tue, 13 Dec 2022 01:29:07 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[부고] 최태복(해군 전 공보정훈병과장)씨 부인상]]></title>
             <link>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN5&amp;view_type=sm</link>
             <guid>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN5&amp;view_type=sm</guid>
-            <pubDate>Mon, 12 Dec 2022 23:21:50 GMT</pubDate>
+            <pubDate>Tue, 13 Dec 2022 01:29:07 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
         </item>
         <item>
@@ -108,14 +116,6 @@
             <pubDate>Tue, 06 Dec 2022 10:25:00 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202212/104470_124507_2411_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[금감원, 신한은행에 자금세탁 경고 날렸다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=104445</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=104445</guid>
-            <pubDate>Mon, 05 Dec 2022 07:20:02 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202212/104445_124469_370_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

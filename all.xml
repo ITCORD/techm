@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Dec 2022 23:22:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Dec 2022 01:30:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[테크M 이슈] 내가 가고 싶었던 곳...네이버 지도 '저장 탭'의 모든 것 (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=104711</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=104711</guid>
+            <pubDate>Tue, 13 Dec 2022 10:24:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202212/104711_124927_2356_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[LG전자 '사랑의 김치'로 소외계층 나눔 실천 (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=104708</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=104708</guid>
+            <pubDate>Tue, 13 Dec 2022 10:10:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202212/104708_124924_947_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[폐어망으로 스마트폰 부품 만든 삼성전자, 'SEAL 지속가능 어워드' 수상 (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=104707</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=104707</guid>
+            <pubDate>Tue, 13 Dec 2022 10:06:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202212/104707_124923_543_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 메타버스에서 즐기는 데이트...'누리온(Nurion)' 나왔다 (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=104705</link>
@@ -144,30 +168,6 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202212/104687_124885_261_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[카카오톡 쇼핑하기, '연말 감사제' 진행…최대 91% 할인 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=104685</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=104685</guid>
-            <pubDate>Mon, 12 Dec 2022 11:22:00 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202212/104685_124880_1932_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["국가 배후 해킹 늘어난다" 이스트시큐리티, '2023년 사이버 위협 전망' 발표 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=104684</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=104684</guid>
-            <pubDate>Mon, 12 Dec 2022 11:22:00 GMT</pubDate>
-            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202212/104684_124879_197_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[메디패스, 메디힐병원과 실손 보험 간편청구 서비스 연동 완료 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=104683</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=104683</guid>
-            <pubDate>Mon, 12 Dec 2022 11:07:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202212/104683_124878_755_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[韓 개발시장 판 키우는 엔씨소프트, 게임데이터 오픈 API로 공개 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=104696</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=104696</guid>
@@ -280,6 +280,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202212/104641_124794_1926_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[폐어망으로 스마트폰 부품 만든 삼성전자, 'SEAL 지속가능 어워드' 수상 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=104707</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=104707</guid>
+            <pubDate>Tue, 13 Dec 2022 10:06:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202212/104707_124923_543_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[야놀자, 소비자중심경영 인증 '재획득' (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=104703</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=104703</guid>
@@ -384,12 +392,12 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202212/104679_124874_052_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[아프리카TV, 13일부터 2023년 신입·경력사원 공개채용 진행 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=104678</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=104678</guid>
-            <pubDate>Mon, 12 Dec 2022 10:52:00 GMT</pubDate>
+            <title><![CDATA[[테크M 이슈] 내가 가고 싶었던 곳...네이버 지도 '저장 탭'의 모든 것 (테크M ─ 이노베이션)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=104711</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=104711</guid>
+            <pubDate>Tue, 13 Dec 2022 10:24:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202212/104678_124872_521_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202212/104711_124927_2356_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[카드뉴스] 메타버스에서 즐기는 데이트...'누리온(Nurion)' 나왔다 (테크M ─ 이노베이션)]]></title>
@@ -494,14 +502,6 @@
             <pubDate>Wed, 07 Dec 2022 07:18:55 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202212/104548_124634_2044_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가상자산 거래소 캐셔레스트, BKEX와 국내 스타트업 발굴·육성 나선다 (테크M ─ 이노베이션)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=104525</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=104525</guid>
-            <pubDate>Wed, 07 Dec 2022 11:21:00 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202212/104525_124596_5536_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['정부 방임' '자율규제 미비' '방만 운영'...5년간 곪은 상처가 위믹스 투자자 피해 키웠다 (테크M ─ 인베스트먼트)]]></title>
@@ -616,6 +616,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202212/104427_124419_3924_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[LG전자 '사랑의 김치'로 소외계층 나눔 실천 (테크M ─ 피플)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=104708</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=104708</guid>
+            <pubDate>Tue, 13 Dec 2022 10:10:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202212/104708_124924_947_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[아모레퍼시픽, 신임 사장에 김승환 지주사 대표 선임 (테크M ─ 피플)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=104672</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=104672</guid>
@@ -627,14 +635,14 @@
             <title><![CDATA[[카트 토크 콘서트] "형 마음, 내가 제일 잘 알아"...'5회 우승' 이재혁의 못다한 이야기 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Mon, 12 Dec 2022 23:21:50 GMT</pubDate>
+            <pubDate>Tue, 13 Dec 2022 01:29:07 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[부고] 최태복(해군 전 공보정훈병과장)씨 부인상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Mon, 12 Dec 2022 23:21:50 GMT</pubDate>
+            <pubDate>Tue, 13 Dec 2022 01:29:07 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
         </item>
         <item>
@@ -716,14 +724,6 @@
             <pubDate>Tue, 06 Dec 2022 10:25:00 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202212/104470_124507_2411_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[금감원, 신한은행에 자금세탁 경고 날렸다 (테크M ─ 피플)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=104445</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=104445</guid>
-            <pubDate>Mon, 05 Dec 2022 07:16:43 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202212/104445_124469_370_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[코웨이 휠체어농구단, 창단 첫해 국내리그 챔피언 등극 (테크M ─ 라이프)]]></title>

@@ -4,9 +4,17 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Dec 2022 23:22:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Dec 2022 01:30:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[폐어망으로 스마트폰 부품 만든 삼성전자, 'SEAL 지속가능 어워드' 수상]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=104707</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=104707</guid>
+            <pubDate>Tue, 13 Dec 2022 10:06:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202212/104707_124923_543_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[야놀자, 소비자중심경영 인증 '재획득']]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=104703</link>
@@ -110,14 +118,6 @@
             <pubDate>Mon, 12 Dec 2022 11:01:00 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202212/104679_124874_052_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아프리카TV, 13일부터 2023년 신입·경력사원 공개채용 진행]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=104678</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=104678</guid>
-            <pubDate>Mon, 12 Dec 2022 10:52:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202212/104678_124872_521_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
