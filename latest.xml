@@ -4,9 +4,25 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Dec 2022 09:20:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Dec 2022 10:22:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["온라인 플랫폼, 독과점이라 보기 어렵다...공정위 심사지침 우려"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=104787</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=104787</guid>
+            <pubDate>Wed, 14 Dec 2022 10:18:57 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202212/104787_125058_471_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["AI·ML 실사용 가속화" 델 테크놀로지스, 2023년 주요 IT 전망 발표]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=104791</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=104791</guid>
+            <pubDate>Wed, 14 Dec 2022 10:18:57 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202212/104791_125061_2126_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[효성인포메이션시스템, 스누아이랩과 손잡고 '비전 AI' 시장 공략]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=104790</link>
@@ -150,22 +166,6 @@
             <pubDate>Wed, 14 Dec 2022 05:16:29 GMT</pubDate>
             <content:encoded><![CDATA[김가은 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202212/104774_125016_5849_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[네이버클라우드 서밋] 한규흥 웍스모바일 대표 "AI 개인비서 대중화 이룰 것"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=104771</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=104771</guid>
-            <pubDate>Wed, 14 Dec 2022 05:16:29 GMT</pubDate>
-            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202212/104771_125013_1454_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[네이버클라우드 서밋] 박원기 네이버클라우드 대표 "소버린 클라우드로 아태 톱3 도약"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=104769</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=104769</guid>
-            <pubDate>Wed, 14 Dec 2022 05:16:29 GMT</pubDate>
-            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202212/104769_125052_2941_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
