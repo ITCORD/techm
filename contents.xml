@@ -4,16 +4,32 @@
         <title>테크M ─ 콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Dec 2022 09:25:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Dec 2022 10:23:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[새 단장한 카카오 브런치...MZ세대 독서 문화 이끈다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=104841</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=104841</guid>
+            <pubDate>Thu, 15 Dec 2022 10:19:59 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202212/104841_125129_843_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[봤다] 환상과 인내 그 사이 어딘가...'아바타2']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=104838</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=104838</guid>
+            <pubDate>Thu, 15 Dec 2022 10:19:59 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202212/104838_125130_912_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[LCK 스토브 리그 종료...10개팀 로스터 모두 채웠다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=104836</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=104836</guid>
             <pubDate>Thu, 15 Dec 2022 07:17:13 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202212/104836_125108_100_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202212/104836_125131_939_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[자금난 시달리는 왓챠, 수익성 개선 위한 '건별 결제' 개봉관 열었다]]></title>
@@ -102,22 +118,6 @@
             <pubDate>Tue, 13 Dec 2022 11:17:00 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202212/104723_124940_1725_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지니 TV에서 '원밀리언 홈댄스' 즐기고 AI 코치 강습 받는다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=104721</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=104721</guid>
-            <pubDate>Tue, 13 Dec 2022 11:04:00 GMT</pubDate>
-            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202212/104721_124938_422_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[韓 개발시장 판 키우는 엔씨소프트, 게임데이터 오픈 API로 공개]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=104696</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=104696</guid>
-            <pubDate>Mon, 12 Dec 2022 06:22:50 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202212/104696_124896_1524_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

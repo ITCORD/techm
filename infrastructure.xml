@@ -4,16 +4,24 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Dec 2022 09:25:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Dec 2022 10:23:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[넷플릭스에 더핑크퐁컴퍼니 아동 애니 '베베핀' 뜬다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=104842</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=104842</guid>
+            <pubDate>Thu, 15 Dec 2022 10:20:22 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202212/104842_125128_4951_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["해킹 모의 훈련 효과 뚜렷"…정부 '사이버 시큐리티 훈련 플랫폼'으로 기업 보안 역량 키운다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=104827</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=104827</guid>
             <pubDate>Thu, 15 Dec 2022 05:17:27 GMT</pubDate>
             <content:encoded><![CDATA[김가은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202212/104827_125096_710_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202212/104827_125137_1210_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[KB국민은행, KB Wallet 출시 3개월여만에 가입자 100만명 돌파]]></title>
@@ -29,7 +37,7 @@
             <guid>https://www.techm.kr/news/articleView.html?idxno=104825</guid>
             <pubDate>Thu, 15 Dec 2022 00:17:00 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202212/104825_125093_1457_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202212/104825_125138_1236_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[카카오 김범수의 케이큐브 "금융회사 아냐"…공정위 제재에 대응 시사]]></title>
@@ -110,14 +118,6 @@
             <pubDate>Thu, 15 Dec 2022 10:40:00 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202212/104809_125078_3919_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[중소상공인 '금융 등대' 네이버, '빠른 정산' 월 지급액 1조 돌파]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=104807</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=104807</guid>
-            <pubDate>Thu, 15 Dec 2022 10:36:00 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202212/104807_125076_3351_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
