@@ -4,11 +4,19 @@
         <title>테크M ─ 콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 17 Dec 2022 12:32:11 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Dec 2022 13:22:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[조재윤 디렉터, 마지막 카트리그 현장 찾았다]]></title>
+            <title><![CDATA[[카트 결승] V5 달성한 샌드박스...광동 꺾고 마지막 별이 되다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=104876</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=104876</guid>
+            <pubDate>Sat, 17 Dec 2022 13:19:27 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202212/104876_125211_1116_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[조재윤 디렉터, 카트리그 현장 찾았다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=104875</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=104875</guid>
             <pubDate>Sat, 17 Dec 2022 12:29:19 GMT</pubDate>
@@ -110,14 +118,6 @@
             <pubDate>Wed, 14 Dec 2022 10:56:00 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202212/104764_125006_5415_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[블록체인 프롭테크 '아지트', 피르마체인과 전자계약 기술개발 협업한다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=104763</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=104763</guid>
-            <pubDate>Wed, 14 Dec 2022 10:52:00 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202212/104763_125005_451_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

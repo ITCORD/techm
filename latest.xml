@@ -4,11 +4,19 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 17 Dec 2022 12:32:11 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Dec 2022 13:22:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[조재윤 디렉터, 마지막 카트리그 현장 찾았다]]></title>
+            <title><![CDATA[[카트 결승] V5 달성한 샌드박스...광동 꺾고 마지막 별이 되다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=104876</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=104876</guid>
+            <pubDate>Sat, 17 Dec 2022 13:19:09 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202212/104876_125211_1116_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[조재윤 디렉터, 카트리그 현장 찾았다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=104875</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=104875</guid>
             <pubDate>Sat, 17 Dec 2022 10:16:36 GMT</pubDate>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 16 Dec 2022 00:37:00 GMT</pubDate>
             <content:encoded><![CDATA[김가은 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202212/104851_125147_2153_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아이디어스, 2022 핸드메이드 어워드 성황리 개최]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=104854</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=104854</guid>
-            <pubDate>Fri, 16 Dec 2022 11:36:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202212/104854_125150_3653_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
