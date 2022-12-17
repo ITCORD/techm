@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 17 Dec 2022 11:20:36 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Dec 2022 12:32:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,6 +168,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202212/104854_125150_3653_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[조재윤 디렉터, 마지막 카트리그 현장 찾았다 (테크M ─ 콘텐츠)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=104875</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=104875</guid>
+            <pubDate>Sat, 17 Dec 2022 10:16:36 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202212/104875_125199_2924_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[숫자로 보는 올해의 '넷플릭스'..."21개 韓 콘텐츠, 2.2억명 만나" (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=104865</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=104865</guid>
@@ -270,14 +278,6 @@
             <pubDate>Wed, 14 Dec 2022 10:52:00 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202212/104763_125005_451_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[라인 제네시스, '온라이프'와 맞손...日서 '애글릿' 서비스 협업 (테크M ─ 콘텐츠)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=104753</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=104753</guid>
-            <pubDate>Wed, 14 Dec 2022 10:41:00 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202212/104753_124996_1834_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[카카오모빌리티, 내년 '포괄임금제' 폐지…"일한 만큼 보상" (테크M ─ 인프라)]]></title>
@@ -691,14 +691,14 @@
             <title><![CDATA[[카트 토크 콘서트] "형 마음, 내가 제일 잘 알아"...'5회 우승' 이재혁의 못다한 이야기 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Sat, 17 Dec 2022 11:18:55 GMT</pubDate>
+            <pubDate>Sat, 17 Dec 2022 12:31:21 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[부고] 최태복(해군 전 공보정훈병과장)씨 부인상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Sat, 17 Dec 2022 11:18:55 GMT</pubDate>
+            <pubDate>Sat, 17 Dec 2022 12:31:21 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
         </item>
         <item>
