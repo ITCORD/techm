@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 17 Dec 2022 09:23:29 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Dec 2022 10:22:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[조재윤 디렉터, 마지막 카트리그 현장 찾았다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=104875</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=104875</guid>
+            <pubDate>Sat, 17 Dec 2022 10:16:36 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202212/104875_125199_2924_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[크립토 주간 브리핑] 금리인상 속도조절에도 힘 못쓰는 비트코인...하락세 계속]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=104874</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 16 Dec 2022 11:36:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202212/104854_125150_3653_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[현대백화점 "무역센터점에서 BTS 데뷔 10주년 메달 만나요"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=104853</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=104853</guid>
-            <pubDate>Fri, 16 Dec 2022 11:33:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202212/104853_125149_3255_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
