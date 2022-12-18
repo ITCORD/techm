@@ -4,9 +4,17 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 18 Dec 2022 05:18:04 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Dec 2022 06:26:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[베리파이바스프, 美 공인회계사협회 글로벌 보안 감사 완료]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=104885</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=104885</guid>
+            <pubDate>Sun, 18 Dec 2022 06:21:02 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202212/104885_125227_5724_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이재용 회장, BMW CEO 만났다…전기차 협업 강화]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=104884</link>
@@ -110,14 +118,6 @@
             <pubDate>Thu, 15 Dec 2022 05:17:27 GMT</pubDate>
             <content:encoded><![CDATA[김가은 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202212/104827_125096_710_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[KB국민은행, KB Wallet 출시 3개월여만에 가입자 100만명 돌파]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=104826</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=104826</guid>
-            <pubDate>Thu, 15 Dec 2022 00:41:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202212/104826_125094_4135_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
