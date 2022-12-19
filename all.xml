@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Dec 2022 06:25:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Dec 2022 07:22:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -280,6 +280,22 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202212/104875_125199_2924_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[테크M 이슈] '원가절감 달인' 노태문은 왜 '프리미엄 경쟁력'으로 노선을 틀었나 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=104922</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=104922</guid>
+            <pubDate>Mon, 19 Dec 2022 06:21:02 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202212/104922_125290_33_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["커뮤니티가 미래"라는 최수연 대표 전략 통했다...네이버, 월드컵으로 '활짝' (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=104918</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=104918</guid>
+            <pubDate>Mon, 19 Dec 2022 06:21:02 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202212/104918_125283_547_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[안랩, 폐쇄망 OT 보안 솔루션 '안랩 EPS 릴레이' 출시 (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=104915</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=104915</guid>
@@ -376,26 +392,10 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202212/104892_125241_5345_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[신한은행, 미리 해 보는 '연말정산' 서비스 내놨다 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=104891</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=104891</guid>
-            <pubDate>Mon, 19 Dec 2022 09:50:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202212/104891_125240_4959_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[베리파이바스프, 美 공인회계사협회 글로벌 보안 감사 완료 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=104885</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=104885</guid>
-            <pubDate>Sun, 18 Dec 2022 06:19:34 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202212/104885_125227_5724_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[멀티체인 띄우는 그라운드엑스, 클립으로 블록체인 대중화 일군다 (테크M ─ 이노베이션)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=104921</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=104921</guid>
-            <pubDate>Mon, 19 Dec 2022 06:22:40 GMT</pubDate>
+            <pubDate>Mon, 19 Dec 2022 06:21:02 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202212/104921_125289_5443_v150.jpg" length="0" type="image/jpg"/>
         </item>
@@ -691,14 +691,14 @@
             <title><![CDATA[[카트 토크 콘서트] "형 마음, 내가 제일 잘 알아"...'5회 우승' 이재혁의 못다한 이야기 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Mon, 19 Dec 2022 06:24:06 GMT</pubDate>
+            <pubDate>Mon, 19 Dec 2022 07:19:58 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[부고] 최태복(해군 전 공보정훈병과장)씨 부인상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Mon, 19 Dec 2022 06:24:06 GMT</pubDate>
+            <pubDate>Mon, 19 Dec 2022 07:19:58 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
         </item>
         <item>
