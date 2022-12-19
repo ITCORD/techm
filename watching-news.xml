@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Dec 2022 07:22:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Dec 2022 08:26:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] NFT 대중화 꿈꾸는 스노우-알체라 합작사 '팔라']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=104926</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=104926</guid>
+            <pubDate>Mon, 19 Dec 2022 08:26:26 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202212/104926_125302_4136_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] NFT 거래소 매직에덴, 메타버스·게임 NFT 분야에 힘 준다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=104863</link>
@@ -110,14 +118,6 @@
             <pubDate>Tue, 29 Nov 2022 09:22:51 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202211/104251_124021_1355_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 2022 카타르 월드컵의 숨은 조력자 '최첨단 AI기술']]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=104209</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=104209</guid>
-            <pubDate>Mon, 28 Nov 2022 08:27:40 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202211/104209_123951_128_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
