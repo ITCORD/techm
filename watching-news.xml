@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Dec 2022 07:18:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Dec 2022 08:25:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 넷마블에프앤씨, '수이' 메인넷 기반으로 메타버스 플랫폼 개발한다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=104966</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=104966</guid>
+            <pubDate>Tue, 20 Dec 2022 08:25:20 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202212/104966_125377_217_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] NFT 대중화 꿈꾸는 스노우-알체라 합작사 '팔라']]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=104926</link>
@@ -110,14 +118,6 @@
             <pubDate>Wed, 30 Nov 2022 10:26:27 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202211/104306_124146_473_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] '제페토' 이용자 보호 위한 안전자문위원회 '발족']]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=104251</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=104251</guid>
-            <pubDate>Tue, 29 Nov 2022 09:22:51 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202211/104251_124021_1355_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
