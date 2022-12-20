@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Dec 2022 06:28:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Dec 2022 07:18:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[글로벌에서 내공 쌓은 그라비티 '라그나로크X', 국내서도 통할까]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=104964</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=104964</guid>
+            <pubDate>Tue, 20 Dec 2022 07:15:27 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202212/104964_125375_2916_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[그라비티, '라그나로크X' 내년 1월 5일 국내 출시... 트릴로지 대미 장식한다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=104957</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 20 Dec 2022 10:52:00 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202212/104940_125332_487_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국후지쯔, 네이버 클라우드 플랫폼에 '후지쯔 엔터프라이즈 포스트그레스' 서비스]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=104938</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=104938</guid>
-            <pubDate>Tue, 20 Dec 2022 10:42:00 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202212/104938_125329_4014_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
