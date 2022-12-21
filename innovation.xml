@@ -4,9 +4,17 @@
         <title>테크M ─ 이노베이션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 21 Dec 2022 01:19:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Dec 2022 02:39:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오늘의집, 뉴스룸 개설…다채로운 공간 스토리 전해]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=104985</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=104985</guid>
+            <pubDate>Wed, 21 Dec 2022 10:43:00 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202212/104985_125422_3634_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[빗썸 임직원 100여명 연말 헌혈증 나눔으로 온정 전했다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=104977</link>
@@ -110,14 +118,6 @@
             <pubDate>Thu, 15 Dec 2022 09:48:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202212/104792_125062_4849_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[집에 켜둔 오딘, 모바일로 컨트롤한다...카카오게임즈, '오딘 링크' 출시]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=104784</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=104784</guid>
-            <pubDate>Wed, 14 Dec 2022 09:18:03 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202212/104784_125041_2721_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
