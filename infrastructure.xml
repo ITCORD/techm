@@ -4,9 +4,17 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 21 Dec 2022 04:23:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Dec 2022 05:18:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[데이터 보안 강자 파수, AI 기술로 '비정형 데이터' 지킨다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=104998</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=104998</guid>
+            <pubDate>Wed, 21 Dec 2022 05:16:24 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202212/104998_125437_2520_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[KT '메타버스' 사업 본격화...'KT 메타라운지'로 B2B·B2G 시장 공략]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=104991</link>
@@ -110,14 +118,6 @@
             <pubDate>Tue, 20 Dec 2022 11:30:00 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202212/104944_125336_2911_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SK텔레콤, 텔레컨스와 안전운전 돕는 차량용 'HUD' 서비스 선보인다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=104941</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=104941</guid>
-            <pubDate>Tue, 20 Dec 2022 11:11:00 GMT</pubDate>
-            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202212/104941_125333_1034_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
