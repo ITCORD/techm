@@ -4,16 +4,24 @@
         <title>테크M ─ 콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Dec 2022 07:18:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Dec 2022 08:24:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[KeSPA-한화생명e스포츠, LoL 점령전 연다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=105054</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=105054</guid>
+            <pubDate>Thu, 22 Dec 2022 08:21:39 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202212/105054_125534_1121_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[테라-루나 사태에 해킹·파산까지...2022년 가상자산 관련 피해액 62조원]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=105051</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=105051</guid>
             <pubDate>Thu, 22 Dec 2022 07:15:50 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202212/105051_125528_5132_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202212/105051_125558_350_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[조이시티, 크리에이터 크루 '조이크루' 모집 페이지 오픈]]></title>
@@ -110,14 +118,6 @@
             <pubDate>Wed, 21 Dec 2022 10:14:00 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202212/104976_125409_423_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[네오위즈 '고양이와 스프'에 '스누피'가 뜬다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=104974</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=104974</guid>
-            <pubDate>Wed, 21 Dec 2022 10:05:00 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202212/104974_125408_027_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
