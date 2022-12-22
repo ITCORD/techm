@@ -4,9 +4,17 @@
         <title>테크M ─ 콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Dec 2022 02:40:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Dec 2022 03:21:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[네오위즈홀딩스 네오핀, 미술 전문 프로젝트 '세번째 공간' 품는다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=105024</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=105024</guid>
+            <pubDate>Thu, 22 Dec 2022 00:01:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202212/105024_125493_4710_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[서비스 종료에 뿔난 카트라이더 이용자들, 트럭시위 나섰다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=105018</link>
@@ -110,14 +118,6 @@
             <pubDate>Tue, 20 Dec 2022 08:21:57 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202212/104965_125376_5859_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[글로벌에서 내공 쌓은 그라비티 '라그나로크X', 국내서도 통할까]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=104964</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=104964</guid>
-            <pubDate>Tue, 20 Dec 2022 07:15:46 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202212/104964_125375_2916_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
