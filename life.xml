@@ -4,9 +4,17 @@
         <title>테크M ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 Dec 2022 01:20:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Dec 2022 02:41:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성전자, 미국에서 화재 위험으로 세탁기 66만대 리콜]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=105077</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=105077</guid>
+            <pubDate>Fri, 23 Dec 2022 11:02:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202212/105077_125591_037_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["중고거래, 안심하고 하세요"...번개장터, 경찰청과 협력해 사기 근절 나섰다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=105058</link>
@@ -110,14 +118,6 @@
             <pubDate>Mon, 19 Dec 2022 11:00:00 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202212/104912_125269_4821_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["산타도 반했다" 삼성전자 '오디세이 아크' 영국 런던 중심가 상륙]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=104882</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=104882</guid>
-            <pubDate>Sun, 18 Dec 2022 11:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202212/104882_125220_3236_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
