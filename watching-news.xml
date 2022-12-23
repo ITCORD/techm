@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 Dec 2022 04:22:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Dec 2022 05:19:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] KT, 메타버스 사업 본격화하며 'KT 메타라운지'로 시장 공략]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=105055</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=105055</guid>
+            <pubDate>Fri, 23 Dec 2022 05:19:32 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202212/105055_125537_144_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 텐센트 클라우드, 넥슨과 모바일 앱 '넥슨타운' 출시 위해 협업]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=105007</link>
@@ -110,14 +118,6 @@
             <pubDate>Thu, 01 Dec 2022 09:25:07 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202212/104369_124252_2715_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카트 토크 콘서트] 샌드박스 박수 브라더스 "오늘 경기, 제점수는요~"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=104309</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=104309</guid>
-            <pubDate>Wed, 30 Nov 2022 15:24:10 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202211/104309_124174_3726_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
