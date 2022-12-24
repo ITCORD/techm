@@ -4,9 +4,16 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 24 Dec 2022 14:19:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Dec 2022 15:19:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[부고] 박지은(펄스나인 대표)씨 부친상]]></title>
+            <link>https://www.techm.kr/news/articleList.html</link>
+            <guid>https://www.techm.kr/news/articleList.html</guid>
+            <pubDate>Sat, 24 Dec 2022 15:16:07 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[크립토 주간 브리핑] 끝없이 뒷걸음질 치는 비트코인...물 건너간 '산타랠리']]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=105102</link>
@@ -158,14 +165,6 @@
             <pubDate>Fri, 23 Dec 2022 11:37:00 GMT</pubDate>
             <content:encoded><![CDATA[김가은 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202212/105080_125593_1833_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[탄소중립과 혁신II] (22)베트남 호치민시의 '녹색교통' 위한 스마트 공유 자전거 시스템]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=105079</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=105079</guid>
-            <pubDate>Fri, 23 Dec 2022 11:36:00 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202212/105079_125622_581_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
