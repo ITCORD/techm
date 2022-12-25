@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 25 Dec 2022 03:21:13 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Dec 2022 04:22:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[봤다] "아직 D.P밖에 몰라?" 땀냄새 나는 것만 같은 군대 웹툰 모음.zip]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=105109</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=105109</guid>
+            <pubDate>Sun, 25 Dec 2022 00:38:00 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202212/105109_125655_2447_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[템터뷰] "복잡한 장애 관리 AI로 한번에" 베스핀글로벌, '얼럿나우'로 기업 생산성 극대화]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=104888</link>
@@ -59,7 +67,7 @@
             <title><![CDATA[[부고] 박지은(펄스나인 대표)씨 부친상]]></title>
             <link>https://www.techm.kr/news/articleList.html</link>
             <guid>https://www.techm.kr/news/articleList.html</guid>
-            <pubDate>Sun, 25 Dec 2022 03:18:12 GMT</pubDate>
+            <pubDate>Sun, 25 Dec 2022 04:19:46 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
         </item>
         <item>
@@ -157,14 +165,6 @@
             <pubDate>Fri, 23 Dec 2022 07:15:23 GMT</pubDate>
             <content:encoded><![CDATA[김가은 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202212/105087_125607_1748_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] KT, 메타버스 사업 본격화하며 'KT 메타라운지'로 시장 공략]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=105055</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=105055</guid>
-            <pubDate>Fri, 23 Dec 2022 05:15:34 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202212/105055_125537_144_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
