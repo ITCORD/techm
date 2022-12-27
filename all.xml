@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Dec 2022 08:26:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Dec 2022 09:19:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 롯데정보통신, 2023년 '전기차·메타버스' 사업 본격화 (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=105193</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=105193</guid>
+            <pubDate>Tue, 27 Dec 2022 09:16:01 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202212/105193_125833_3924_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한기정 공정거래위원장, CVC 제도 모범사례로 니어스랩 방문 (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=105192</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 27 Dec 2022 11:26:00 GMT</pubDate>
             <content:encoded><![CDATA[김현기 대표]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202212/105178_125827_3733_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성전자, 43형 대화면 게이밍 모니터 '오디세이 네오 G7' 출시…"화질·편의 다 잡았다" (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=105177</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=105177</guid>
-            <pubDate>Tue, 27 Dec 2022 11:25:00 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202212/105177_125795_2226_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[스마일게이트 메타휴먼 한유아, 연말 훈훈한 기부로 '친환경' 제품 만든다 (테크M ─ 콘텐츠)]]></title>
@@ -349,7 +349,7 @@
             <guid>https://www.techm.kr/news/articleView.html?idxno=105160</guid>
             <pubDate>Tue, 27 Dec 2022 09:30:00 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202212/105160_125768_2214_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202212/105160_125832_3917_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[테크M 리포트] 롯데정보통신, 2023년 성장 키워드는 '전기차·메타버스' (테크M ─ 인프라)]]></title>
@@ -635,7 +635,7 @@
             <title><![CDATA[[부고] 박지은(펄스나인 대표)씨 부친상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Tue, 27 Dec 2022 07:17:31 GMT</pubDate>
+            <pubDate>Tue, 27 Dec 2022 09:19:04 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
         </item>
         <item>
@@ -951,6 +951,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202212/104870_125191_1011_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[카드뉴스] 롯데정보통신, 2023년 '전기차·메타버스' 사업 본격화 (테크M ─ 보는 뉴스)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=105193</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=105193</guid>
+            <pubDate>Tue, 27 Dec 2022 09:19:57 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202212/105193_125833_3924_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[카드뉴스] SK텔레콤·KT·LG유플러스, 통신3사의 메타버스 키우기는 현재진행형 (테크M ─ 보는 뉴스)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=105098</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=105098</guid>
@@ -1053,14 +1061,6 @@
             <pubDate>Tue, 06 Dec 2022 08:22:39 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202212/104502_124555_1742_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 한컴프론티스-플루닛, AI 가상인간에 메타버스 더한다 (테크M ─ 보는 뉴스)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=104401</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=104401</guid>
-            <pubDate>Sat, 03 Dec 2022 08:20:59 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202212/104401_124334_457_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
