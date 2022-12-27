@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Dec 2022 04:24:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Dec 2022 05:18:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[테크M 트렌드] 2023년 게임시장 키워드는 '멀티플랫폼']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=105184</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=105184</guid>
+            <pubDate>Tue, 27 Dec 2022 05:15:19 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202212/105184_125804_253_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[주주와 함께하는 컴투스, 155억원 현금배당 이어 150억원 자사주 매입]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=105182</link>
@@ -152,20 +160,12 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202212/105165_125779_1136_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[삼성SDS, 글로벌 AI학회 '뉴럴PS'에 3년 연속 강화학습 최적화 논문 등재]]></title>
+            <title><![CDATA[삼성SDS, 글로벌 AI학회 '뉴립스'에 3년 연속 강화학습 최적화 논문 등재]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=105163</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=105163</guid>
             <pubDate>Tue, 27 Dec 2022 10:10:00 GMT</pubDate>
             <content:encoded><![CDATA[김가은 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202212/105163_125776_220_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[KT, 기업-고객 소통 돕는 클라우드 기반 커뮤니케이션 플랫폼 서비스 선보인다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=105164</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=105164</guid>
-            <pubDate>Tue, 27 Dec 2022 10:10:00 GMT</pubDate>
-            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202212/105164_125778_956_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
