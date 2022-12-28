@@ -4,9 +4,25 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Dec 2022 02:41:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Dec 2022 03:21:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[테크M 리포트] 다시 뛰는 넷마블...새판짜기 중심은 '넷마블에프앤씨']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=105206</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=105206</guid>
+            <pubDate>Wed, 28 Dec 2022 11:53:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202212/105206_125859_5318_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[달 탐사선 '다누리' 임무궤도 최종 진입 성공…"세계 7대 우주강국 도약한 韓"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=105204</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=105204</guid>
+            <pubDate>Wed, 28 Dec 2022 11:38:00 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202212/105204_125857_2737_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한국화웨이, 한국장학재단에 '푸른등대 기부장학금' 기탁…"ICT 인재 양성 노력할 것"]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=105205</link>
@@ -150,22 +166,6 @@
             <pubDate>Tue, 27 Dec 2022 07:15:11 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202212/105187_125809_718_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[네이버 '시리즈온', 유료 결제 이용자 1000만 넘겼다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=105188</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=105188</guid>
-            <pubDate>Tue, 27 Dec 2022 07:15:11 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202212/105188_125810_1026_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['무신사 어스' 내달 론칭...리사이클·비건 등 상품 제안]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=105189</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=105189</guid>
-            <pubDate>Tue, 27 Dec 2022 07:15:11 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202212/105189_125811_132_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
