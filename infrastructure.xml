@@ -4,9 +4,16 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 29 Dec 2022 03:21:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Dec 2022 04:24:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[부고] 임혜미(하이브 미디어관계팀)씨 부친상]]></title>
+            <link>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN2&amp;view_type=sm</link>
+            <guid>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN2&amp;view_type=sm</guid>
+            <pubDate>Thu, 29 Dec 2022 00:52:00 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[티맥스소프트, 사쿠라정보시스템 손잡고 일본 금융권 디지털전환 시장 공략]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=105232</link>
@@ -110,14 +117,6 @@
             <pubDate>Wed, 28 Dec 2022 09:30:00 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202212/105195_125846_3015_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[카카오엔터프라이즈, AI 국제학회 휩쓸다...논문 23편 발표]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=105187</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=105187</guid>
-            <pubDate>Tue, 27 Dec 2022 07:15:47 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202212/105187_125809_718_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
