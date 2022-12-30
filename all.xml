@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 30 Dec 2022 01:22:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Dec 2022 02:43:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,6 +168,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202212/105247_125936_1456_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[엔씨소프트 '길드워2', 북미서 연이은 '올해의 게임' 선정...제2의 전성기 '활짝' (테크M ─ 콘텐츠)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=105271</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=105271</guid>
+            <pubDate>Fri, 30 Dec 2022 10:59:00 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202212/105271_126008_568_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA["보상이 적다고?" 국민 메신저 카카오, 이모티콘 3100억 보따리 풀었다 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=105259</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=105259</guid>
@@ -272,12 +280,12 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202212/105214_125874_5129_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[가봤다] 방콕 번화가를 사로잡은 'K-웹툰 전시회'...카카오엔터, 태국 웹툰 열풍 '선봉장' (테크M ─ 콘텐츠)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=105213</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=105213</guid>
-            <pubDate>Wed, 28 Dec 2022 08:21:16 GMT</pubDate>
+            <title><![CDATA[카카오, 농가와 상생 프로젝트…고창쌀 '느린마을소주21' 출시 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=105268</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=105268</guid>
+            <pubDate>Fri, 30 Dec 2022 10:21:00 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202212/105213_125867_3719_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202212/105268_126005_1849_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[카카오뱅크, 청소년 예체능 활동 지원 1억 기부 (테크M ─ 인프라)]]></title>
@@ -331,7 +339,7 @@
             <title><![CDATA[카카오, 피해접수 소상공인 일괄지원...인당 5만원까지(1보) (테크M ─ 인프라)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Fri, 30 Dec 2022 01:20:14 GMT</pubDate>
+            <pubDate>Fri, 30 Dec 2022 02:39:59 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
         </item>
         <item>
@@ -382,12 +390,12 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202212/105217_125877_48_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[카카오로 새옷 입은 전통시장 …전국 10개 시장 디지털화 도왔다 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=105215</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=105215</guid>
-            <pubDate>Wed, 28 Dec 2022 08:21:16 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202212/105215_125875_5610_v150.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[코인 팔아 투자하는 일 절대 없다...라인 블록체인, 토큰 이코노미 2.0 공개 (테크M ─ 이노베이션)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=105270</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=105270</guid>
+            <pubDate>Fri, 30 Dec 2022 11:01:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202212/105270_126007_4945_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[미리보는 CES] 삼성 모니터부터 LG 게이밍 패널까지...K-디스플레이 엿보기 (테크M ─ 이노베이션)]]></title>
@@ -492,14 +500,6 @@
             <pubDate>Thu, 22 Dec 2022 09:18:27 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202212/105062_125552_474_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인터체인 플랫폼 하바, 팔라·노드인프라 밸리데이터 합류 공개 (테크M ─ 이노베이션)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=105057</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=105057</guid>
-            <pubDate>Thu, 22 Dec 2022 09:18:27 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202212/105057_125548_3645_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[투자 선택지 늘리는 코인원, '플러스 이더리움2.0 스테이킹' 출시 (테크M ─ 인베스트먼트)]]></title>
@@ -725,6 +725,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202212/104786_125055_3724_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[무신사 플레이어, 새해 운동 다짐 함께한다…스포츠 MBTI 제안 (테크M ─ 라이프)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=105267</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=105267</guid>
+            <pubDate>Fri, 30 Dec 2022 10:20:00 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202212/105267_126003_5854_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['컬리'서 0.1초에 1개씩 팔렸다…1위는 '가정간편식(HMR)' (테크M ─ 라이프)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=105255</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=105255</guid>
@@ -827,14 +835,6 @@
             <pubDate>Tue, 27 Dec 2022 11:13:00 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202212/105175_125793_1228_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아이디어스-텀블벅, 누적 거래 1조원 넘었다...창작자 생태계 위한 비전도 발표 (테크M ─ 라이프)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=105169</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=105169</guid>
-            <pubDate>Tue, 27 Dec 2022 10:25:00 GMT</pubDate>
-            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202212/105169_125784_2514_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[글로벌] 해외 투자 늘리던 TSMC...'반도체 탈대만' 우려 해소한다 (테크M ─ 리포트)]]></title>
