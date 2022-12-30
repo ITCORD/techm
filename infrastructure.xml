@@ -4,9 +4,25 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 29 Dec 2022 23:22:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Dec 2022 01:22:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[카카오뱅크, 청소년 예체능 활동 지원 1억 기부]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=105265</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=105265</guid>
+            <pubDate>Fri, 30 Dec 2022 09:51:00 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202212/105265_126000_4953_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["검은 토끼가 오면 뭐가 달라지나" 2023년 바뀌는 IT 6대 이슈]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=105191</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=105191</guid>
+            <pubDate>Fri, 30 Dec 2022 09:30:00 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202212/105191_125813_1634_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[테크M 이슈] 전격 무료 보상안 띄운 카카오...'플랫폼 상생' 의지 눈길]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=105258</link>
@@ -43,7 +59,7 @@
             <title><![CDATA[카카오, 피해접수 소상공인 일괄지원...인당 5만원까지(1보)]]></title>
             <link>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN2&amp;view_type=sm</link>
             <guid>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN2&amp;view_type=sm</guid>
-            <pubDate>Thu, 29 Dec 2022 23:19:37 GMT</pubDate>
+            <pubDate>Fri, 30 Dec 2022 01:20:14 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
         </item>
         <item>
@@ -100,22 +116,6 @@
             <pubDate>Wed, 28 Dec 2022 08:21:47 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202212/105215_125875_5610_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['디지코 KT' 3년 더...구현모, 27명과의 경선에서도 KT CEO '적합' 판정(종합)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=105212</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=105212</guid>
-            <pubDate>Wed, 28 Dec 2022 08:21:47 GMT</pubDate>
-            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202212/105212_125865_2313_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[구현모 연임 확정...KT 이사회, 차기 대표이사 후보로 추천(1보)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=105210</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=105210</guid>
-            <pubDate>Wed, 28 Dec 2022 07:15:54 GMT</pubDate>
-            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202212/105210_125863_933_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

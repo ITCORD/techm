@@ -4,9 +4,25 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 29 Dec 2022 23:22:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Dec 2022 01:22:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[카카오뱅크, 청소년 예체능 활동 지원 1억 기부]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=105265</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=105265</guid>
+            <pubDate>Fri, 30 Dec 2022 09:51:00 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202212/105265_126000_4953_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["검은 토끼가 오면 뭐가 달라지나" 2023년 바뀌는 IT 6대 이슈]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=105191</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=105191</guid>
+            <pubDate>Fri, 30 Dec 2022 09:30:00 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202212/105191_125813_1634_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[지닥, 위믹스3.0 '위믹스' 상장...위믹스 토큰·코인 모두 거래지원]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=105262</link>
@@ -150,21 +166,6 @@
             <pubDate>Thu, 29 Dec 2022 07:15:17 GMT</pubDate>
             <content:encoded><![CDATA[김현기 대표]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202212/105247_125936_1456_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[카카오, 피해접수 소상공인 일괄지원...인당 5만원까지(1보)]]></title>
-            <link>https://www.techm.kr/news/articleList.html</link>
-            <guid>https://www.techm.kr/news/articleList.html</guid>
-            <pubDate>Thu, 29 Dec 2022 23:18:19 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[위메이드 계열사, 2022년 하반기 성남시 고용우수기업 선정]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=105245</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=105245</guid>
-            <pubDate>Thu, 29 Dec 2022 07:15:17 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202212/105245_125934_4120_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
