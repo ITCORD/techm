@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 31 Dec 2022 03:20:27 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 31 Dec 2022 04:24:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[게임 세상에서 즐기는 신년 해돋이...이벤트 아이템도 풍성하게 챙기자]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=105302</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=105302</guid>
+            <pubDate>Sat, 31 Dec 2022 00:44:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202212/105302_126082_5122_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[IT기자의 캠핑 이야기] 2023년 '신묘년'은 캠핑장 예약 쉽게 합시다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=105297</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 30 Dec 2022 08:20:32 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202212/105287_126034_2247_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[KT클라우드, 안랩과 공공 보건복지분야 클라우드 전환 나선다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=105288</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=105288</guid>
-            <pubDate>Fri, 30 Dec 2022 08:20:32 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202212/105288_126033_2221_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
