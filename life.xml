@@ -4,9 +4,17 @@
         <title>테크M ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 31 Dec 2022 23:19:53 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Jan 2023 01:42:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[써봤다] 새해에는 운동합시다…어메이즈핏 '티렉스2']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=105301</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=105301</guid>
+            <pubDate>Sun, 01 Jan 2023 10:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202212/105301_126072_3436_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2022년 선한 소비 선도한 11번가...SOVAC 마켓 거래액 120억원 돌파]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=105299</link>
@@ -110,14 +118,6 @@
             <pubDate>Thu, 29 Dec 2022 10:00:00 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202212/105222_125899_5440_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성전자 '더 프레임' 현대 미술 작가들의 캔버스가 되다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=105223</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=105223</guid>
-            <pubDate>Thu, 29 Dec 2022 10:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202212/105223_125900_2330_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
