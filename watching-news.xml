@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 Jan 2023 06:25:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Jan 2023 07:19:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 카카오게임즈, 올해 첫 대작급 신작 '에버소울' 선보인다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=105362</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=105362</guid>
+            <pubDate>Mon, 02 Jan 2023 07:19:31 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202301/105362_126207_5435_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 2023년 '검은 토끼 해'가 온다...내년에 주목해야 할 IT 6대 이슈는?]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=105298</link>
@@ -110,14 +118,6 @@
             <pubDate>Tue, 13 Dec 2022 08:27:30 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202212/104745_124978_1454_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 웹3.0 메타버스 '캐리버스' 영상 최초 공개]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=104643</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=104643</guid>
-            <pubDate>Fri, 09 Dec 2022 09:21:17 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202212/104643_124806_3239_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
