@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 Jan 2023 07:18:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Jan 2023 08:24:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 네이버, 커뮤니티와 커머스에 집중 '신사업 본격화']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=105419</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=105419</guid>
+            <pubDate>Tue, 03 Jan 2023 08:24:43 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202301/105419_126308_1036_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 카카오게임즈, 올해 첫 대작급 신작 '에버소울' 선보인다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=105362</link>
@@ -110,14 +118,6 @@
             <pubDate>Wed, 14 Dec 2022 09:20:28 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202212/104783_125040_2715_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 오픈AI, 대화형 AI챗봇 '챗GPT(ChatGPT)' 개발]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=104745</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=104745</guid>
-            <pubDate>Tue, 13 Dec 2022 08:27:30 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202212/104745_124978_1454_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
