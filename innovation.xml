@@ -4,9 +4,17 @@
         <title>테크M ─ 이노베이션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 Jan 2023 02:39:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Jan 2023 03:22:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[테크M 이슈] "자동화 시대 커밍순" 삼성전자의 새해 첫 로봇 투자...배경은]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=105404</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=105404</guid>
+            <pubDate>Tue, 03 Jan 2023 11:48:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202301/105404_126288_4840_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[테크M 리포트] LG이노텍, 2023년은 퀀텀점프의 해]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=105395</link>
@@ -110,14 +118,6 @@
             <pubDate>Fri, 30 Dec 2022 05:18:07 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202212/105282_126027_241_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LG유플러스, 위치컴퍼니와 '웹3 키즈 서비스' 개발...내년 1분기 출시]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=105276</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=105276</guid>
-            <pubDate>Fri, 30 Dec 2022 11:59:00 GMT</pubDate>
-            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202212/105276_126018_5917_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

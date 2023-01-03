@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 Jan 2023 02:39:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Jan 2023 03:22:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['트렌비 스타일' 서비스 론칭…'착용샷' 정보 모았다 (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=105403</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=105403</guid>
+            <pubDate>Tue, 03 Jan 2023 11:51:00 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202301/105403_126287_4546_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[테크M 이슈] "자동화 시대 커밍순" 삼성전자의 새해 첫 로봇 투자...배경은 (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=105404</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=105404</guid>
+            <pubDate>Tue, 03 Jan 2023 11:48:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202301/105404_126288_4840_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[같이사소] 계묘년 설 준비, 미리미리 합시다...쿠팡-티몬-위메프에서 (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=105394</link>
@@ -150,22 +166,6 @@
             <pubDate>Tue, 03 Jan 2023 10:10:00 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202301/105383_126253_314_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[태국 배달 책임지는 '라인맨 웡나이'...1000만 이용자 돌파하며 '태국판 배민'된 비결은? (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=105369</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=105369</guid>
-            <pubDate>Tue, 03 Jan 2023 10:09:00 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202301/105369_126225_3650_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[CES 2023] LG전자, 올레드 TV 10년 내공 쏟은 '2023년형 올레드 에보' 공개 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=105382</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=105382</guid>
-            <pubDate>Tue, 03 Jan 2023 10:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202301/105382_126250_545_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[컴투스홀딩스 엑스플라, 온보딩 게임 재화 전환 수수료 지원 (테크M ─ 콘텐츠)]]></title>
@@ -392,6 +392,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202301/105351_126197_5147_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[테크M 이슈] "자동화 시대 커밍순" 삼성전자의 새해 첫 로봇 투자...배경은 (테크M ─ 이노베이션)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=105404</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=105404</guid>
+            <pubDate>Tue, 03 Jan 2023 11:48:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202301/105404_126288_4840_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[테크M 리포트] LG이노텍, 2023년은 퀀텀점프의 해 (테크M ─ 이노베이션)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=105395</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=105395</guid>
@@ -494,14 +502,6 @@
             <pubDate>Fri, 30 Dec 2022 05:15:21 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202212/105282_126027_241_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LG유플러스, 위치컴퍼니와 '웹3 키즈 서비스' 개발...내년 1분기 출시 (테크M ─ 이노베이션)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=105276</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=105276</guid>
-            <pubDate>Fri, 30 Dec 2022 11:59:00 GMT</pubDate>
-            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202212/105276_126018_5917_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[투자 선택지 늘리는 코인원, '플러스 이더리움2.0 스테이킹' 출시 (테크M ─ 인베스트먼트)]]></title>
@@ -728,6 +728,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202212/105194_125980_2918_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['트렌비 스타일' 서비스 론칭…'착용샷' 정보 모았다 (테크M ─ 라이프)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=105403</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=105403</guid>
+            <pubDate>Tue, 03 Jan 2023 11:51:00 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202301/105403_126287_4546_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[같이사소] 계묘년 설 준비, 미리미리 합시다...쿠팡-티몬-위메프에서 (테크M ─ 라이프)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=105394</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=105394</guid>
@@ -830,14 +838,6 @@
             <pubDate>Fri, 30 Dec 2022 07:19:51 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202212/105289_126036_2723_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[계묘년 첫 기획전 준비한 위메프...설선물세트-시즌상품 할인 판매 (테크M ─ 라이프)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=105277</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=105277</guid>
-            <pubDate>Fri, 30 Dec 2022 05:15:21 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202212/105277_126019_4628_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[글로벌] 휴지 들고 출근...일론 머스크의 트위터, 청소비도 줄였다? (테크M ─ 리포트)]]></title>
