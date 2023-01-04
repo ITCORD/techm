@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 Jan 2023 20:21:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Jan 2023 21:19:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[에버소울 출격] 서브컬쳐 장인 카카오게임즈, 우마무스메 영광 이을까]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=105453</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=105453</guid>
+            <pubDate>Thu, 05 Jan 2023 06:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202301/105453_126386_1337_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[CES 2023] 세계 최대 97형 'LG 시그니처 올레드 M' 최초 공개]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=105458</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 04 Jan 2023 11:00:00 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202301/105442_126361_5734_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[토종 블록체인 대표주자 아이콘루프, 특허시장 공략 나섰다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=105437</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=105437</guid>
-            <pubDate>Wed, 04 Jan 2023 10:33:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202301/105437_126353_3310_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
