@@ -4,9 +4,33 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 Jan 2023 22:19:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Jan 2023 23:20:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[CES 2023] 삼성전자 '스마트싱스 스페이션' 공개…버튼 하나로 '스마트홈' 구현]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=105461</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=105461</guid>
+            <pubDate>Thu, 05 Jan 2023 08:13:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202301/105461_126423_111_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[CES 2023] '탄소중립' 도전하는 삼성전자…파트너들과 협업 통해 친환경경영 실천]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=105460</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=105460</guid>
+            <pubDate>Thu, 05 Jan 2023 08:03:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202301/105460_126420_5855_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[CES 2023] 삼성전자 '초연결 시대' 연다…한종희 부회장 "새로운 도전 필요한 시기"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=105459</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=105459</guid>
+            <pubDate>Thu, 05 Jan 2023 07:57:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202301/105459_126416_4914_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[에버소울 출격] 서브컬쳐 장인 카카오게임즈, 우마무스메 영광 이을까]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=105453</link>
@@ -142,30 +166,6 @@
             <pubDate>Wed, 04 Jan 2023 11:14:00 GMT</pubDate>
             <content:encoded><![CDATA[김가은 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202301/105439_126355_4421_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SK쉴더스, 환경경영시스템 국제표준 'ISO 14001' 인증 획득]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=105438</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=105438</guid>
-            <pubDate>Wed, 04 Jan 2023 11:14:00 GMT</pubDate>
-            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202301/105438_126354_3651_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[CES 2023] 삼성전자가 제안하는 '초연결 시대'…3대 플랫폼 기반 '캄테크' 구현]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=105440</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=105440</guid>
-            <pubDate>Wed, 04 Jan 2023 11:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202301/105440_126356_471_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LG전자, 마그나와 자율주행 협업 확대...전장 사업 경쟁력 강화 나선다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=105442</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=105442</guid>
-            <pubDate>Wed, 04 Jan 2023 11:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202301/105442_126361_5734_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
