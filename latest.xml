@@ -4,9 +4,25 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 Jan 2023 16:33:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Jan 2023 17:20:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[CES 2023] 세계 최대 97형 'LG 시그니처 올레드 M' 최초 공개]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=105458</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=105458</guid>
+            <pubDate>Thu, 05 Jan 2023 01:38:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202301/105458_126414_3624_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[CES 2023] 조주완 LG전자 "모든 혁신의 시작과 끝은 고객"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=105457</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=105457</guid>
+            <pubDate>Thu, 05 Jan 2023 01:29:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202301/105457_126411_2128_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 컴투버스, '메타버스 포털'에 속도내다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=105455</link>
@@ -150,22 +166,6 @@
             <pubDate>Wed, 04 Jan 2023 10:33:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202301/105437_126353_3310_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[롯데정보통신 자회사 중앙제어, 'CES 2023'서 초급속 전기차 신제품 공개]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=105436</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=105436</guid>
-            <pubDate>Wed, 04 Jan 2023 10:31:00 GMT</pubDate>
-            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202301/105436_126352_3037_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[크립토 브리핑] 14번째 생일 맞은 비트코인, 소폭 상승...2023년 전망은 여전히 엇갈려]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=105433</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=105433</guid>
-            <pubDate>Wed, 04 Jan 2023 10:31:00 GMT</pubDate>
-            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202301/105433_126348_1559_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
