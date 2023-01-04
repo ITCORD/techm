@@ -4,9 +4,17 @@
         <title>테크M ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 Jan 2023 06:26:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Jan 2023 07:18:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[코웨이, 美 CES 2023서 혁신상 2관왕 쾌거]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=105452</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=105452</guid>
+            <pubDate>Wed, 04 Jan 2023 07:17:54 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202301/105452_126385_387_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[CES 2023] 삼성전자 2023년 TV 신제품 대거 공개…강화된 화질에 '연결' 더했다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=105446</link>
@@ -110,14 +118,6 @@
             <pubDate>Tue, 03 Jan 2023 10:00:00 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202301/105382_126250_545_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['이커머스 강자' 오아시스마켓, 대한민국 수산대전 동참]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=105365</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=105365</guid>
-            <pubDate>Mon, 02 Jan 2023 09:19:05 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202301/105365_126217_740_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
