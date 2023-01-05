@@ -4,9 +4,17 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 Jan 2023 01:26:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Jan 2023 02:44:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[CES 2023] LG디스플레이, 3세대 OLED TV 패널 공개…신기술 '메타 테크놀로지'로 화질 개선]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=105469</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=105469</guid>
+            <pubDate>Thu, 05 Jan 2023 11:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202301/105469_126437_1614_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[컴투스, 블록체인 커뮤니티 빌더 '팩트블록' 투자]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=105467</link>
@@ -110,14 +118,6 @@
             <pubDate>Wed, 04 Jan 2023 11:14:00 GMT</pubDate>
             <content:encoded><![CDATA[김가은 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202301/105438_126354_3651_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LG전자, 마그나와 자율주행 협업 확대...전장 사업 경쟁력 강화 나선다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=105442</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=105442</guid>
-            <pubDate>Wed, 04 Jan 2023 11:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202301/105442_126361_5734_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
