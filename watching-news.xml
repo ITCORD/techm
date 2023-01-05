@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 Jan 2023 06:23:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Jan 2023 07:19:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 팔라와 제프, 메타버스 및 NFT 활성화 위해 '맞손']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=105498</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=105498</guid>
+            <pubDate>Thu, 05 Jan 2023 07:19:57 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202301/105498_126483_5555_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 컴투버스, '메타버스 포털'에 속도내다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=105455</link>
@@ -110,14 +118,6 @@
             <pubDate>Fri, 16 Dec 2022 07:20:22 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202212/104863_125163_4124_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 두나무 증권플러스, 2023년 증시 전망 메타버스 세미나 개최]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=104840</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=104840</guid>
-            <pubDate>Thu, 15 Dec 2022 08:30:41 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202212/104840_125117_3826_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
