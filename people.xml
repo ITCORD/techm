@@ -4,9 +4,16 @@
         <title>테크M ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 07 Jan 2023 03:23:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Jan 2023 04:25:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[부고] 조계현(카카오게임즈 대표)씨 모친상]]></title>
+            <link>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN5&amp;view_type=sm</link>
+            <guid>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN5&amp;view_type=sm</guid>
+            <pubDate>Sat, 07 Jan 2023 00:01:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[네이버, AI 연구 '클라우드' 중심으로...하정우 소장도 이동]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=105470</link>
@@ -110,14 +117,6 @@
             <pubDate>Mon, 02 Jan 2023 10:38:00 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202301/105327_126144_3658_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[신년사] 정용진 신세계 부회장 "리테일 비즈니스의 위기, 기본으로 돌아가자"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=105328</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=105328</guid>
-            <pubDate>Mon, 02 Jan 2023 10:37:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202301/105328_126145_377_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
