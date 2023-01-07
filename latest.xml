@@ -4,9 +4,23 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 07 Jan 2023 02:41:56 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Jan 2023 03:23:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[​[부고] 남궁단 이터널에디션즈 대표 형님상]]></title>
+            <link>https://www.techm.kr/news/articleList.html</link>
+            <guid>https://www.techm.kr/news/articleList.html</guid>
+            <pubDate>Sat, 07 Jan 2023 00:01:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[부고] 조계현(카카오게임즈 대표)씨 모친상]]></title>
+            <link>https://www.techm.kr/news/articleList.html</link>
+            <guid>https://www.techm.kr/news/articleList.html</guid>
+            <pubDate>Sat, 07 Jan 2023 00:01:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[LG전자, 연매출 80조 돌파에도 못 웃었다…'R의 공포' 현실화(종합)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=105554</link>
@@ -150,22 +164,6 @@
             <pubDate>Fri, 06 Jan 2023 11:07:00 GMT</pubDate>
             <content:encoded><![CDATA[김가은 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202301/105535_126552_67_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[네이버 엑스퍼트, '새해 계획 달성' 돕는다…상담 클래스 선봬]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=105533</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=105533</guid>
-            <pubDate>Fri, 06 Jan 2023 11:05:00 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202301/105533_126550_051_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이스트소프트, '2023년 AI 바우처 지원사업' 공급기업 선정]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=105532</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=105532</guid>
-            <pubDate>Fri, 06 Jan 2023 11:05:00 GMT</pubDate>
-            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202301/105532_126549_5857_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
