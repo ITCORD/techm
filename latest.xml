@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 07 Jan 2023 22:18:26 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Jan 2023 23:21:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[써봤다] 사과 대신 창문은 어떠세요?…MS '서피스 랩탑5']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=105557</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=105557</guid>
+            <pubDate>Sun, 08 Jan 2023 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202301/105557_126611_4423_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['총상금 2700만원' 발할라 리그에 서버별 '네임드' 모였다...우승은 '토르' 서버]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=105572</link>
@@ -156,14 +164,6 @@
             <pubDate>Fri, 06 Jan 2023 07:14:50 GMT</pubDate>
             <content:encoded><![CDATA[김가은 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202301/105545_126564_5419_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LG전자, 4분기 영업이익 655억원...전년비 91.2% 급감(1보)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=105550</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=105550</guid>
-            <pubDate>Fri, 06 Jan 2023 07:14:50 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202301/105550_126583_74_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
