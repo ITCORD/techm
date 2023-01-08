@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 07 Jan 2023 23:21:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Jan 2023 01:29:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -725,6 +725,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202301/105327_126144_3658_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[써봤다] 사과 대신 창문은 어떠세요?…MS '서피스 랩탑5' (테크M ─ 라이프)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=105557</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=105557</guid>
+            <pubDate>Sun, 08 Jan 2023 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202301/105557_126611_4423_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[코웨이, 스마트 매트리스 홈 체험 이벤트 열었다 (테크M ─ 라이프)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=105528</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=105528</guid>
@@ -827,14 +835,6 @@
             <pubDate>Wed, 04 Jan 2023 10:10:00 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202301/105432_126347_914_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[해외 숙소 예약도 '마이리얼트립'...전세계 60만개 숙소 예약부터 결제까지 OK (테크M ─ 라이프)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=105429</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=105429</guid>
-            <pubDate>Wed, 04 Jan 2023 10:02:00 GMT</pubDate>
-            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202301/105429_126342_212_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[글로벌] 달 탐사 열망 드러낸 중국...미중 달 탐사 경쟁 본격화 (테크M ─ 리포트)]]></title>
