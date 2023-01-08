@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 08 Jan 2023 01:29:04 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Jan 2023 02:49:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[CES 2023] 조주완 LG전자 사장 "HW 넘어 플랫폼·콘텐츠·솔루션 포트폴리오 확장" (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=105575</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=105575</guid>
+            <pubDate>Sun, 08 Jan 2023 10:50:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202301/105575_126648_4450_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[써봤다] 사과 대신 창문은 어떠세요?…MS '서피스 랩탑5' (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=105557</link>
@@ -158,14 +166,6 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202301/105548_126570_5539_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[CES 2023] '롯데표' 메타버스 세상…"NFT마켓·지갑 더해 완성도 높인다" (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=105545</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=105545</guid>
-            <pubDate>Fri, 06 Jan 2023 07:14:50 GMT</pubDate>
-            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202301/105545_126564_5419_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA['총상금 2700만원' 발할라 리그에 서버별 '네임드' 모였다...우승은 '토르' 서버 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=105572</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=105572</guid>
@@ -278,6 +278,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202301/105509_126512_032_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[CES 2023] 조주완 LG전자 사장 "HW 넘어 플랫폼·콘텐츠·솔루션 포트폴리오 확장" (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=105575</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=105575</guid>
+            <pubDate>Sun, 08 Jan 2023 10:50:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202301/105575_126648_4450_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[CES 2023] SK텔레콤 실감 UAM 체험에 관람객 운집...라스베이거스 달궜다 (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=105569</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=105569</guid>
@@ -380,14 +388,6 @@
             <pubDate>Fri, 06 Jan 2023 11:05:00 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202301/105533_126550_051_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이스트소프트, '2023년 AI 바우처 지원사업' 공급기업 선정 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=105532</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=105532</guid>
-            <pubDate>Fri, 06 Jan 2023 11:05:00 GMT</pubDate>
-            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202301/105532_126549_5857_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[글로벌·신작·블록체인 광폭행보...컴투스 "글로벌 히트 IP 만든다" (테크M ─ 이노베이션)]]></title>
