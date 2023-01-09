@@ -4,9 +4,17 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 08 Jan 2023 23:20:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Jan 2023 01:24:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[테크M 리포트] 잘 나가는 카카오게임즈...고속성장기 재진입 앞뒀다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=105580</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=105580</guid>
+            <pubDate>Mon, 09 Jan 2023 10:09:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202301/105580_126653_932_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[CES 2023] 유영상 SKT, AI 초협력 광폭 행보..."글로벌 톱 AI 컴퍼니 도약"]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=105577</link>
@@ -110,14 +118,6 @@
             <pubDate>Fri, 06 Jan 2023 11:18:00 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202301/105538_126555_1746_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[CES 2023] LG유플러스, 양자내성암호 적용한 커넥티드카 보안기술 선봬]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=105537</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=105537</guid>
-            <pubDate>Fri, 06 Jan 2023 11:13:00 GMT</pubDate>
-            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202301/105537_126554_1258_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
