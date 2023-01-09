@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 Jan 2023 11:19:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Jan 2023 12:36:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -280,6 +280,30 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202301/105571_126634_3428_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[KB국민은행, 글로벌가정 사회정착 프로그램 지원 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=105620</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=105620</guid>
+            <pubDate>Mon, 09 Jan 2023 08:22:37 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202301/105620_126707_5443_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[CES 2023] '메타버스' 지속될 것...유통·금융·콘텐츠 영역 넓힌다 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=105610</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=105610</guid>
+            <pubDate>Mon, 09 Jan 2023 08:22:37 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202301/105610_126699_4657_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["제시어 입력하면 뚝딱"...카카오브레인, AI 화가 '칼로' API 공개 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=105613</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=105613</guid>
+            <pubDate>Mon, 09 Jan 2023 08:22:37 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202301/105613_126703_57_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA["무인점포 범죄 초기에 잡는다" 마크애니, 이상행위 감지 기술 고도화 (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=105602</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=105602</guid>
@@ -366,30 +390,6 @@
             <pubDate>Sun, 08 Jan 2023 11:46:00 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202301/105576_126649_4456_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[CES 2023] 조주완 LG전자 사장 "HW 넘어 플랫폼·콘텐츠·솔루션 포트폴리오 확장" (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=105575</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=105575</guid>
-            <pubDate>Sun, 08 Jan 2023 10:50:00 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202301/105575_126648_4450_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[CES 2023] SK텔레콤 실감 UAM 체험에 관람객 운집...라스베이거스 달궜다 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=105569</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=105569</guid>
-            <pubDate>Sat, 07 Jan 2023 00:53:00 GMT</pubDate>
-            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202301/105569_126629_525_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[CES 2023] MS가 말하는 미래 모빌리티 키워드는? (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=105553</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=105553</guid>
-            <pubDate>Sat, 07 Jan 2023 00:44:00 GMT</pubDate>
-            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202301/105553_126590_524_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['성과관리' 솔루션 레몬베이스, 70억 투자 유치 (테크M ─ 이노베이션)]]></title>
