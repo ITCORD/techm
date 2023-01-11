@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 Jan 2023 05:20:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Jan 2023 06:26:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[테크M 이슈] 인텔 '사파이어 래피즈' 출격, DDR5로 '메모리 혹한기' 돌파구 열까]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=105692</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=105692</guid>
+            <pubDate>Wed, 11 Jan 2023 06:21:31 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202301/105692_126844_109_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["DDR5 시장 확대 이끈다"...인텔, 차세대 서버용 CPU '사파이어 래피즈' 출시]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=105689</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 10 Jan 2023 12:33:33 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202301/105669_126811_5819_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[18만 고객정보 유출 LG유플러스…"다크웹 판매에 늑장 신고도?"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=105668</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=105668</guid>
-            <pubDate>Tue, 10 Jan 2023 11:15:09 GMT</pubDate>
-            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202301/105668_126808_4510_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
