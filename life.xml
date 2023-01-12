@@ -4,9 +4,17 @@
         <title>테크M ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 Jan 2023 23:22:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Jan 2023 01:26:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[LG전자 '올레드 에보' 전통의 TV 명가 일본 홀렸다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=105706</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=105706</guid>
+            <pubDate>Thu, 12 Jan 2023 10:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202301/105706_126898_930_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[트렌비, 설 명절 맞아 '리세일 기획전'...최대 84% 할인]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=105694</link>
@@ -110,14 +118,6 @@
             <pubDate>Mon, 09 Jan 2023 11:03:00 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202301/105592_126666_236_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["파티의 완성은 음악"…JBL '파티박스 앙코르 블루투스 스피커' 출시]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=105591</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=105591</guid>
-            <pubDate>Mon, 09 Jan 2023 11:03:00 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202301/105591_126664_137_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
