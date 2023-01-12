@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 Jan 2023 05:21:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Jan 2023 06:26:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,6 +168,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202301/105727_126917_4727_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[넥슨 '카트라이더: 드리프트' 첫날부터 흥행 돌풍...대기열만 10만명 (테크M ─ 콘텐츠)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=105746</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=105746</guid>
+            <pubDate>Thu, 12 Jan 2023 06:23:22 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202301/105746_126941_458_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[다시 뛰는 액션스퀘어...킹덤 IP로 퀀텀점프 노린다 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=105741</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=105741</guid>
@@ -272,12 +280,28 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202301/105670_126814_2719_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[포맷 '싹' 바뀌는 롤드컵...5년만에 한국으로 돌아온다 (테크M ─ 콘텐츠)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=105669</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=105669</guid>
-            <pubDate>Tue, 10 Jan 2023 12:33:33 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202301/105669_126891_324_v150.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[LG유플러스, '탄소 중립 실천 요금제' 출시 한달 만에 가입자 1000명 달성 눈앞 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=105743</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=105743</guid>
+            <pubDate>Thu, 12 Jan 2023 06:23:40 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202301/105743_126937_1242_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[KT클라우드-아콘소프트, 공공 클라우드 전환사업 및 SaaS 서비스 확대 '맞손' (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=105744</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=105744</guid>
+            <pubDate>Thu, 12 Jan 2023 06:23:40 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202301/105744_126938_1944_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[KT, 어린이 전용 스마트폰 '신비 키즈폰3' 출시 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=105742</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=105742</guid>
+            <pubDate>Thu, 12 Jan 2023 06:23:40 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202301/105742_126936_057_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[CES서 경영진 회동 가진 SKT, 조비 에비에이션과 한국형 UAM 상용화 나선다 (테크M ─ 인프라)]]></title>
@@ -368,28 +392,12 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202301/105715_126907_573_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[야놀자, UAE 경제사절단 동행…"중동 시장 공략" (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=105712</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=105712</guid>
-            <pubDate>Thu, 12 Jan 2023 09:53:00 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202301/105712_126903_3525_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한컴라이프케어, 혼합현실 기반 軍 훈련 시스템 개발 나선다 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=105711</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=105711</guid>
-            <pubDate>Thu, 12 Jan 2023 09:40:00 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202301/105711_126904_3757_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[롯데정보통신, 설 앞두고 협력사 납품대금 320억원 조기 지급 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=105710</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=105710</guid>
-            <pubDate>Thu, 12 Jan 2023 09:33:00 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202301/105710_126902_3214_v150.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[넷마블 '마브렉스', 멀티체인 전략 공개...바이낸스 BNB체인이 첫 파트너 (테크M ─ 이노베이션)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=105745</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=105745</guid>
+            <pubDate>Thu, 12 Jan 2023 06:23:57 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202301/105745_126940_1153_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[헥토파이낸셜, 50억 규모 자사주 취득 신탁계약 체결…"주주가치 지속 제고" (테크M ─ 이노베이션)]]></title>
@@ -494,14 +502,6 @@
             <pubDate>Mon, 09 Jan 2023 09:53:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202301/105579_126652_5153_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[글로벌·신작·블록체인 광폭행보...컴투스 "글로벌 히트 IP 만든다" (테크M ─ 이노베이션)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=105546</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=105546</guid>
-            <pubDate>Fri, 06 Jan 2023 07:14:50 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202301/105546_126568_5634_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[투자 선택지 늘리는 코인원, '플러스 이더리움2.0 스테이킹' 출시 (테크M ─ 인베스트먼트)]]></title>

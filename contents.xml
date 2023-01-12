@@ -4,9 +4,17 @@
         <title>테크M ─ 콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 Jan 2023 05:21:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Jan 2023 06:26:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[넥슨 '카트라이더: 드리프트' 첫날부터 흥행 돌풍...대기열만 10만명]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=105746</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=105746</guid>
+            <pubDate>Thu, 12 Jan 2023 06:23:22 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202301/105746_126941_458_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[다시 뛰는 액션스퀘어...킹덤 IP로 퀀텀점프 노린다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=105741</link>
@@ -110,14 +118,6 @@
             <pubDate>Tue, 10 Jan 2023 14:20:23 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202301/105670_126814_2719_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[포맷 '싹' 바뀌는 롤드컵...5년만에 한국으로 돌아온다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=105669</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=105669</guid>
-            <pubDate>Tue, 10 Jan 2023 12:33:51 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202301/105669_126891_324_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
