@@ -4,9 +4,17 @@
         <title>테크M ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 Jan 2023 03:22:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Jan 2023 04:25:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[테크M 피플] 4Q도 훨훨 나는 코웨이...서장원 효과로 글로벌 '톡톡']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=105733</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=105733</guid>
+            <pubDate>Thu, 12 Jan 2023 00:11:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202301/105733_126924_933_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[카카오엔터 1.2조 투자 유치...이진수 대표 "점프업 계기로 삼겠다"]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=105714</link>
@@ -109,14 +117,6 @@
             <pubDate>Mon, 02 Jan 2023 11:00:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202301/105335_126155_5954_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[신년사] 손경식 CJ 회장 "위기이자 기회, 중기전략 실행할 것"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=105333</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=105333</guid>
-            <pubDate>Mon, 02 Jan 2023 10:53:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202301/105333_126152_5141_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
