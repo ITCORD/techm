@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 Jan 2023 06:26:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Jan 2023 07:21:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 뉴진스 소통 앱 '포닝' 개발한 위버스컴퍼니가 궁금하다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=105750</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=105750</guid>
+            <pubDate>Thu, 12 Jan 2023 07:21:11 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202301/105750_126957_5329_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 제페토의 '신라면 분식점', 현실세계에 구현되다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=105698</link>
@@ -110,14 +118,6 @@
             <pubDate>Fri, 23 Dec 2022 11:17:35 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202212/105098_125632_394_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] KT, 메타버스 사업 본격화하며 'KT 메타라운지'로 시장 공략]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=105055</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=105055</guid>
-            <pubDate>Fri, 23 Dec 2022 05:19:32 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202212/105055_125537_144_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
