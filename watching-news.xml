@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 13 Jan 2023 04:30:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Jan 2023 12:37:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 컴투버스와 TG나래, 메타버스 위한 업무협약 체결]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=105782</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=105782</guid>
+            <pubDate>Fri, 13 Jan 2023 12:37:17 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202301/105782_127020_3849_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 뉴진스 소통 앱 '포닝' 개발한 위버스컴퍼니가 궁금하다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=105750</link>
@@ -110,14 +118,6 @@
             <pubDate>Tue, 27 Dec 2022 09:19:57 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202212/105193_125833_3924_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] SK텔레콤·KT·LG유플러스, 통신3사의 메타버스 키우기는 현재진행형]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=105098</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=105098</guid>
-            <pubDate>Fri, 23 Dec 2022 11:17:35 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202212/105098_125632_394_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
