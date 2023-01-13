@@ -4,9 +4,16 @@
         <title>테크M ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 Jan 2023 23:22:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Jan 2023 03:29:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[부고] 김영빈 두나무 최고법률책임자 빙부상]]></title>
+            <link>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN5&amp;view_type=sm</link>
+            <guid>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN5&amp;view_type=sm</guid>
+            <pubDate>Fri, 13 Jan 2023 00:09:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[테크M 피플] 4Q도 훨훨 나는 코웨이...서장원 효과로 글로벌 '톡톡']]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=105733</link>
@@ -109,14 +116,6 @@
             <pubDate>Mon, 02 Jan 2023 00:07:00 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202301/105345_126169_634_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[네이버클라우드, 김유원 단독대표 체제로…글로벌 기술 성장 이끈다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=105335</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=105335</guid>
-            <pubDate>Mon, 02 Jan 2023 11:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202301/105335_126155_5954_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
