@@ -4,9 +4,17 @@
         <title>테크M ─ 콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 13 Jan 2023 23:20:59 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Jan 2023 01:20:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[IT's 콘텐츠] 투자 전문가가 카카오엔터 나와 '튀르키예' 웹툰 플랫폼 만든 사연]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=105752</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=105752</guid>
+            <pubDate>Sat, 14 Jan 2023 10:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202301/105752_127004_4732_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[서브컬쳐는 역시 카카오게임즈...'에버소울' 글로벌 다운로드 100만 돌파]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=105781</link>
@@ -110,14 +118,6 @@
             <pubDate>Thu, 12 Jan 2023 00:21:00 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202301/105732_126930_1516_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[글로벌 향하는 카트] e스포츠 리그로 글로벌 안착 노리는 카트라이더:드리프트]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=105695</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=105695</guid>
-            <pubDate>Thu, 12 Jan 2023 11:29:00 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202301/105695_126971_159_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
