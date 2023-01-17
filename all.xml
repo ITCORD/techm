@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 17 Jan 2023 09:20:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Jan 2023 10:23:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,6 +168,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202301/105871_127185_2928_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[변화 외친 게임위, 게임 이용자와 첫 만남..."어떤 의견이든 적극 수용" (테크M ─ 콘텐츠)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=105890</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=105890</guid>
+            <pubDate>Tue, 17 Jan 2023 10:19:40 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202301/105890_127231_040_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[넷플릭스, 스위트홈2·택배기사 등 韓 콘텐츠 28편 띄운다 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=105889</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=105889</guid>
@@ -270,14 +278,6 @@
             <pubDate>Mon, 16 Jan 2023 07:16:27 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202301/105835_127132_424_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[또 밀린 '디지털자산기본법', 오는 2월 재논의...계속되는 규제 공백 (테크M ─ 콘텐츠)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=105826</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=105826</guid>
-            <pubDate>Mon, 16 Jan 2023 06:23:23 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202301/105826_127148_3033_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[5G 28㎓ 주파수 정책 실패에 통신장비업계 '한숨'..."투자금 회수 못해 피해 막심" (테크M ─ 인프라)]]></title>
