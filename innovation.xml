@@ -4,9 +4,17 @@
         <title>테크M ─ 이노베이션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 17 Jan 2023 01:26:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Jan 2023 02:46:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[LG전자, '라이프스굿 어워드' 시상…대상은 '닷']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=105845</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=105845</guid>
+            <pubDate>Tue, 17 Jan 2023 11:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202301/105845_127157_5950_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한국마이크로소프트, 런처 코워킹 스페이스 입주 스타트업 6개사 선정]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=105820</link>
@@ -110,14 +118,6 @@
             <pubDate>Tue, 10 Jan 2023 09:18:56 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202301/105667_126795_3136_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[원격근무 판 흔드는 NHN 두레이...B2B 큰손으로 '우뚝']]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=105654</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=105654</guid>
-            <pubDate>Tue, 10 Jan 2023 07:16:29 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202301/105654_126762_389_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
