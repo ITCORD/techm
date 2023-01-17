@@ -4,9 +4,17 @@
         <title>테크M ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 16 Jan 2023 23:22:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Jan 2023 01:26:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[웨버샌드윅, 한국 대표로 홍보 전문가 배정화 대표 선임]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=105847</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=105847</guid>
+            <pubDate>Tue, 17 Jan 2023 09:25:00 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202301/105847_127159_2542_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[부고] 김영빈 두나무 최고법률책임자 빙부상]]></title>
             <link>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN5&amp;view_type=sm</link>
@@ -108,14 +116,6 @@
             <pubDate>Mon, 02 Jan 2023 00:18:00 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202301/105348_126172_1719_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[신년사] 정철동 LG이노텍 사장 "차별화된 고객가치 창출의 해로 만들자"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=105345</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=105345</guid>
-            <pubDate>Mon, 02 Jan 2023 00:07:00 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202301/105345_126169_634_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
