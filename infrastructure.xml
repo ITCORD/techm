@@ -4,9 +4,25 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 18 Jan 2023 07:19:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Jan 2023 08:26:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['틱톡'에 개인정보 맡기려던 삼성전자, 결국 위탁 취소 결정]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=105927</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=105927</guid>
+            <pubDate>Wed, 18 Jan 2023 08:23:02 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202301/105927_127301_3420_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[애플 '맥북' vs. 삼성 '갤럭시북', 역대 최강 성능으로 맞붙는다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=105924</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=105924</guid>
+            <pubDate>Wed, 18 Jan 2023 08:23:02 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202301/105924_127294_719_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[10년 거쳐온 공공SW 대기업 참여제한...업계 "낡은 제도 재정비해야"]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=105923</link>
@@ -102,22 +118,6 @@
             <pubDate>Tue, 17 Jan 2023 11:15:06 GMT</pubDate>
             <content:encoded><![CDATA[김가은 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202301/105891_127245_4341_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[5G 28㎓ 주파수 정책 실패에 통신장비업계 '한숨'..."투자금 회수 못해 피해 막심"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=105888</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=105888</guid>
-            <pubDate>Tue, 17 Jan 2023 08:23:18 GMT</pubDate>
-            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202301/105888_127235_1535_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["고인 추억하는 공간"…카카오, '추모 프로필' 기능 선봬]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=105883</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=105883</guid>
-            <pubDate>Tue, 17 Jan 2023 06:21:36 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202301/105883_127208_5014_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

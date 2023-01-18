@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 18 Jan 2023 07:19:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Jan 2023 08:26:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 빗썸, 가상자산 지갑 '부리또 월렛' 사전등록 시작]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=105929</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=105929</guid>
+            <pubDate>Wed, 18 Jan 2023 08:26:16 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202301/105929_127305_5643_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 이스트소프트와 YBM, 'AI 토익스피킹 강사' 출시]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=105884</link>
@@ -110,14 +118,6 @@
             <pubDate>Fri, 30 Dec 2022 07:21:24 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202212/105298_126047_4610_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 넷마블에프엔씨, 메타버스와 블록체인 사업 주도 '넷마블 반등 시작']]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=105261</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=105261</guid>
-            <pubDate>Thu, 29 Dec 2022 08:24:59 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202212/105261_125959_2531_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
