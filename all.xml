@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 18 Jan 2023 12:39:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Jan 2023 13:27:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,6 +168,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202301/105912_127273_3355_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[LCK 브리핑] 이변은 없었다...우승후보 1, 2순위 DK-T1, 개막전 승리 (테크M ─ 콘텐츠)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=105932</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=105932</guid>
+            <pubDate>Wed, 18 Jan 2023 13:24:21 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202301/105932_127327_3938_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['위믹스' 투자자와 소통 나서는 장현국 위메이드...매분기 정기 간담회 연다 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=105925</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=105925</guid>
@@ -270,14 +278,6 @@
             <pubDate>Tue, 17 Jan 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202301/105874_127189_4211_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[빗썸이 만드는 가상자산 지갑 나온다...'부리또 월렛' 사전등록 시작 (테크M ─ 콘텐츠)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=105869</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=105869</guid>
-            <pubDate>Tue, 17 Jan 2023 11:27:00 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202301/105869_127181_2055_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[윤영찬 의원, 알뜰폰 통신서비스 도매제공 의무 점진 폐지 입법 추진 (테크M ─ 인프라)]]></title>
