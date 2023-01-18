@@ -4,9 +4,17 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 18 Jan 2023 06:25:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Jan 2023 07:19:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[10년 거쳐온 공공SW 대기업 참여제한...업계 "낡은 제도 재정비해야"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=105923</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=105923</guid>
+            <pubDate>Wed, 18 Jan 2023 07:16:45 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202301/105923_127292_4430_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[HTC, VR 헤드셋 '바이브 XR 엘리트' 국내 예약 판매]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=105922</link>
@@ -110,14 +118,6 @@
             <pubDate>Tue, 17 Jan 2023 06:21:36 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202301/105883_127208_5014_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[카카오톡, 9분간 메시지 발송 오류...긴급점검 통해 정상화]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=105882</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=105882</guid>
-            <pubDate>Tue, 17 Jan 2023 06:21:36 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202301/105882_127207_3033_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
