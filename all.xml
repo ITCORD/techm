@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 19 Jan 2023 04:26:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Jan 2023 05:20:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -280,6 +280,22 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202301/105889_127230_035_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[라인 넥스트, NFT 플랫폼 도시에 '링크' 결제수단 적용 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=105962</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=105962</guid>
+            <pubDate>Thu, 19 Jan 2023 05:17:40 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202301/105962_127363_1437_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[KB국민은행, 가계부채 연착륙 지원 프로그램 시행 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=105960</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=105960</guid>
+            <pubDate>Thu, 19 Jan 2023 05:17:40 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202301/105960_127361_1121_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[SK쉴더스 "인질극 넘어 데이터 파괴"...랜섬웨어, 더 악랄해졌다 (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=105955</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=105955</guid>
@@ -374,22 +390,6 @@
             <pubDate>Wed, 18 Jan 2023 07:16:12 GMT</pubDate>
             <content:encoded><![CDATA[김가은 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202301/105923_127323_4231_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[HTC, VR 헤드셋 '바이브 XR 엘리트' 국내 예약 판매 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=105922</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=105922</guid>
-            <pubDate>Wed, 18 Jan 2023 06:21:59 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202301/105922_127291_5919_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[AI 꿈나무 심는 KT…'에이블스쿨'로 얼어붙은 구직·구인시장 녹인다 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=105918</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=105918</guid>
-            <pubDate>Wed, 18 Jan 2023 04:20:45 GMT</pubDate>
-            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202301/105918_127285_1332_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[금융위, 증권을 디지털화 한다...STO 전면 허용 (테크M ─ 이노베이션)]]></title>
@@ -726,6 +726,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202301/105370_126239_1047_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[무신사, 뉴진스와 화보 공개...10가지 스타일 제안 (테크M ─ 라이프)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=105959</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=105959</guid>
+            <pubDate>Thu, 19 Jan 2023 05:19:30 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202301/105959_127360_826_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA["펫케어 가전 사고 사료 할인 받으세요"…삼성전자 펫팸족 겨냥 '마이펫 플랜' 출시 (테크M ─ 라이프)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=105952</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=105952</guid>
@@ -828,14 +836,6 @@
             <pubDate>Mon, 16 Jan 2023 11:11:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202301/105812_127104_1152_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[컬리, 설맞이 릴레이 라방…하루 2번 역대급 혜택 만난다 (테크M ─ 라이프)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=105809</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=105809</guid>
-            <pubDate>Mon, 16 Jan 2023 11:02:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202301/105809_127101_232_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[글로벌] '황금주' 사들이는 중국 정부...빅테크 경영 옥죄인다 (테크M ─ 리포트)]]></title>

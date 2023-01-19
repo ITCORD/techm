@@ -4,9 +4,17 @@
         <title>테크M ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 19 Jan 2023 04:26:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Jan 2023 05:20:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[무신사, 뉴진스와 화보 공개...10가지 스타일 제안]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=105959</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=105959</guid>
+            <pubDate>Thu, 19 Jan 2023 05:19:30 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202301/105959_127360_826_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["펫케어 가전 사고 사료 할인 받으세요"…삼성전자 펫팸족 겨냥 '마이펫 플랜' 출시]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=105952</link>
@@ -110,14 +118,6 @@
             <pubDate>Mon, 16 Jan 2023 11:11:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202301/105812_127104_1152_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[컬리, 설맞이 릴레이 라방…하루 2번 역대급 혜택 만난다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=105809</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=105809</guid>
-            <pubDate>Mon, 16 Jan 2023 11:02:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202301/105809_127101_232_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
