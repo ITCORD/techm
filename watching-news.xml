@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 19 Jan 2023 07:20:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Jan 2023 08:25:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 인텔라X-하바-컴투버스, 투자유치 발표 '블록체인 게임 분야 승승장구']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=105982</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=105982</guid>
+            <pubDate>Thu, 19 Jan 2023 08:25:35 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202301/105982_127393_650_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 빗썸, 가상자산 지갑 '부리또 월렛' 사전등록 시작]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=105929</link>
@@ -110,14 +118,6 @@
             <pubDate>Mon, 02 Jan 2023 07:19:31 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202301/105362_126207_5435_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 2023년 '검은 토끼 해'가 온다...내년에 주목해야 할 IT 6대 이슈는?]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=105298</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=105298</guid>
-            <pubDate>Fri, 30 Dec 2022 07:21:24 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202212/105298_126047_4610_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
