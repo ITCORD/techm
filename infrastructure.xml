@@ -4,9 +4,17 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 19 Jan 2023 23:24:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Jan 2023 01:27:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SKT "설 맞이 'V컬러링'으로 덕담 나누세요"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=105987</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=105987</guid>
+            <pubDate>Fri, 20 Jan 2023 10:14:00 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202301/105987_127418_252_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[카카오뱅크, 적금 금리 최대 0.3% 포인트 인상...최고 4.7%]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=105981</link>
@@ -110,14 +118,6 @@
             <pubDate>Thu, 19 Jan 2023 11:19:00 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202301/105944_127346_1916_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[골목경제 조력자 KT, 빅데이터로 소상공인 월 매출 27%↑]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=105942</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=105942</guid>
-            <pubDate>Thu, 19 Jan 2023 11:18:00 GMT</pubDate>
-            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202301/105942_127344_1535_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
