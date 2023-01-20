@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 20 Jan 2023 07:20:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Jan 2023 08:26:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 메타버스엔터테인먼트, 첫 걸그룹 '메이브' 공개]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=106018</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=106018</guid>
+            <pubDate>Fri, 20 Jan 2023 08:26:16 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202301/106018_127481_1959_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 인텔라X-하바-컴투버스, 투자유치 발표 '블록체인 게임 분야 승승장구']]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=105982</link>
@@ -110,14 +118,6 @@
             <pubDate>Tue, 03 Jan 2023 08:24:43 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202301/105419_126308_1036_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 카카오게임즈, 올해 첫 대작급 신작 '에버소울' 선보인다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=105362</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=105362</guid>
-            <pubDate>Mon, 02 Jan 2023 07:19:31 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202301/105362_126207_5435_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
