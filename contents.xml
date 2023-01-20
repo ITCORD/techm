@@ -4,9 +4,17 @@
         <title>테크M ─ 콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 20 Jan 2023 03:23:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Jan 2023 04:24:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[IT진맥] '제로 확률' 드리프트와 민트로켓 '데이브 더 다이버'로 찾아낸 '넥슨다움']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=106007</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=106007</guid>
+            <pubDate>Fri, 20 Jan 2023 00:33:00 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202301/106007_127449_2851_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[신민철 로똔다, 블록체인허브 다보스 연사로 참여..."지갑 서비스 활성화돼야"]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=106006</link>
@@ -110,14 +118,6 @@
             <pubDate>Thu, 19 Jan 2023 11:19:00 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202301/105945_127347_2046_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[펄어비스, 한국마이크로소프트와 맞손...기술 협력·공동 마케팅 진행]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=105943</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=105943</guid>
-            <pubDate>Thu, 19 Jan 2023 11:19:00 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202301/105943_127345_1645_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
