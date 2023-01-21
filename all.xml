@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 21 Jan 2023 21:17:10 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Jan 2023 22:18:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["새해 폰 한 번 바꿔볼까?" MBTI 유형별 스마트폰 추천 (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=106037</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=106037</guid>
+            <pubDate>Sun, 22 Jan 2023 07:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202301/106037_127558_323_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[크립토 주간 브리핑] 비트코인 약 70일만에 2800만원 탈환...이더리움도 '껑충' (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=106036</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 20 Jan 2023 06:22:16 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202301/106010_127456_5718_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[테크M 이슈] 제2의 오딘...카카오 '아키에이지 워'에 쏠린 눈 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=106008</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=106008</guid>
-            <pubDate>Fri, 20 Jan 2023 06:22:16 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202301/106008_127495_365_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[민족 대명절 '설날' 韓 게임사 총출동...100여종 게임서 이벤트 풍성 (테크M ─ 콘텐츠)]]></title>
@@ -726,6 +726,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202301/105412_126299_2827_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA["새해 폰 한 번 바꿔볼까?" MBTI 유형별 스마트폰 추천 (테크M ─ 라이프)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=106037</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=106037</guid>
+            <pubDate>Sun, 22 Jan 2023 07:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202301/106037_127558_323_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[같이사소] 설 연휴에도 멈출 수 없는 쇼핑 욕구...쿠팡-티몬-위메프로 '해결'하자 (테크M ─ 라이프)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=106004</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=106004</guid>
@@ -828,14 +836,6 @@
             <pubDate>Tue, 17 Jan 2023 06:21:04 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202301/105870_127186_2937_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["소고기엔 역시 와인" 현대백화점 '한우+와인' 선물세트 700세트 완판 (테크M ─ 라이프)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=105867</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=105867</guid>
-            <pubDate>Tue, 17 Jan 2023 10:56:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202301/105867_127178_5626_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[글로벌] 마이크로소프트도 1만명 감원한다...빅테크, 1년간 6만명 해고 (테크M ─ 리포트)]]></title>
