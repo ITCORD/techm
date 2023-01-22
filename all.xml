@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 22 Jan 2023 21:17:51 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Jan 2023 22:18:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[테크M 트렌드] MZ가 사랑하는 이커머스, 오프라인 공략 나선 이유 (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=106009</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=106009</guid>
+            <pubDate>Mon, 23 Jan 2023 07:10:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202301/106009_127454_5328_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[써봤다] 알차게 채운 성능에 감성 한 스푼…후지필름 'X-T5' (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=106038</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=106038</guid>
+            <pubDate>Mon, 23 Jan 2023 07:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202301/106038_127566_1117_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[커피한잔] '드리프트'를 맞이하는 두 레전드...박인수-이재혁 더블 인터뷰 (하) (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=106032</link>
@@ -150,22 +166,6 @@
             <pubDate>Fri, 20 Jan 2023 08:22:11 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202301/106018_127481_1959_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[변방에서 주류로...블록체인 게임, 1년만에 GDC 주인공으로 '우뚝' (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=105985</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=105985</guid>
-            <pubDate>Fri, 20 Jan 2023 08:22:11 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202301/105985_127492_3454_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서울부터 부산까지 9시간 예정…설 연휴 안전한 귀성길 돕는 블랙박스 모음.zip (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=106017</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=106017</guid>
-            <pubDate>Fri, 20 Jan 2023 08:22:11 GMT</pubDate>
-            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202301/106017_127493_3518_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['페이포인트' 받고, '영화·웹소설' 정주행...설엔 네이버서 놀자 (테크M ─ 콘텐츠)]]></title>
@@ -726,6 +726,22 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202301/105470_126439_2347_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[테크M 트렌드] MZ가 사랑하는 이커머스, 오프라인 공략 나선 이유 (테크M ─ 라이프)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=106009</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=106009</guid>
+            <pubDate>Mon, 23 Jan 2023 07:10:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202301/106009_127454_5328_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[써봤다] 알차게 채운 성능에 감성 한 스푼…후지필름 'X-T5' (테크M ─ 라이프)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=106038</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=106038</guid>
+            <pubDate>Mon, 23 Jan 2023 07:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202301/106038_127566_1117_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA["새해 폰 한 번 바꿔볼까?" MBTI 유형별 스마트폰 추천 (테크M ─ 라이프)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=106037</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=106037</guid>
@@ -820,22 +836,6 @@
             <pubDate>Wed, 18 Jan 2023 11:00:00 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202301/105903_127259_2848_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LG전자 '휘센 오브제컬렉션 타워에어컨' 신제품 출시…"자동 청정기능 강화" (테크M ─ 라이프)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=105901</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=105901</guid>
-            <pubDate>Wed, 18 Jan 2023 10:21:00 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202301/105901_127256_2023_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[같이사소] 연휴 전에 배송받을 마지막 기회...쿠팡-티몬-11번가에서 설 선물 골라보자 (테크M ─ 라이프)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=105870</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=105870</guid>
-            <pubDate>Tue, 17 Jan 2023 06:21:04 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202301/105870_127186_2937_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[글로벌] 마이크로소프트도 1만명 감원한다...빅테크, 1년간 6만명 해고 (테크M ─ 리포트)]]></title>
