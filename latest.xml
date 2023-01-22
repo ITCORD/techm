@@ -4,9 +4,25 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 21 Jan 2023 23:19:48 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Jan 2023 01:28:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['페이포인트' 받고, '영화·웹소설' 정주행...설엔 네이버서 놀자]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=106023</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=106023</guid>
+            <pubDate>Sun, 22 Jan 2023 10:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202301/106023_127502_216_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[웹툰 정주행 랭킹전부터 패션 특가 쇼핑까지...설, 카카오서 놀자]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=106024</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=106024</guid>
+            <pubDate>Sun, 22 Jan 2023 10:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202301/106024_127505_541_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["새해 폰 한 번 바꿔볼까?" MBTI 유형별 스마트폰 추천]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=106037</link>
@@ -150,22 +166,6 @@
             <pubDate>Fri, 20 Jan 2023 07:15:37 GMT</pubDate>
             <content:encoded><![CDATA[김가은 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202301/106013_127494_3543_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[박세정의 테크인문학] SK루브리컨츠, 바람과 함께 사라지다 2편]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=106015</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=106015</guid>
-            <pubDate>Fri, 20 Jan 2023 07:15:37 GMT</pubDate>
-            <content:encoded><![CDATA[김현기 대표]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202301/106015_127466_3011_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[올해도 이어지는 장현국 위메이드 대표의 위믹스 매입...벌써 11번째]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=106010</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=106010</guid>
-            <pubDate>Fri, 20 Jan 2023 06:22:16 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202301/106010_127456_5718_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
