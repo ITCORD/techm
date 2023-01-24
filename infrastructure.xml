@@ -4,9 +4,17 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 Jan 2023 03:21:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Jan 2023 04:23:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성디스플레이, 대면적 터치 일체형 OLED 개발…차세대 '갤럭시북' 탑재]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=106046</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=106046</guid>
+            <pubDate>Tue, 24 Jan 2023 00:34:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202301/106046_127601_3258_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[문 활짝 열린 STO 시장...코인시장 새판짜기 본격화?]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=106012</link>
@@ -110,14 +118,6 @@
             <pubDate>Thu, 19 Jan 2023 06:22:36 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202301/105970_127370_186_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[테크M 이슈] MZ 꽉 잡은 신한은행...뉴진스 다음은 'DRX 적금']]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=105965</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=105965</guid>
-            <pubDate>Thu, 19 Jan 2023 06:22:36 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202301/105965_127366_3153_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

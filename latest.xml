@@ -4,9 +4,25 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 Jan 2023 03:21:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Jan 2023 04:23:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성디스플레이, 대면적 터치 일체형 OLED 개발…차세대 '갤럭시북' 탑재]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=106046</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=106046</guid>
+            <pubDate>Tue, 24 Jan 2023 00:34:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202301/106046_127601_3258_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[크립토키티·엑시인피티니는 잊어라...퀄리티 높아진 블록체인 게임]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=106042</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=106042</guid>
+            <pubDate>Tue, 24 Jan 2023 00:15:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202301/106042_127588_5521_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[크립토 브리핑] 비트코인 가격 설연휴 나흘간 2800만원대 유지]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=106044</link>
@@ -150,22 +166,6 @@
             <pubDate>Sat, 21 Jan 2023 10:43:00 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202301/106035_127556_3637_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[봤다] 슬램덩크부터 스위트홈까지...한파 속 연휴, '집콕'하며 기대작의 '전편'을 몰아보자]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=106025</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=106025</guid>
-            <pubDate>Sat, 21 Jan 2023 10:30:00 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202301/106025_127507_2334_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[커피한잔] '카트라이더'를 떠나 보내는 두 레전드...박인수-이재혁 더블 인터뷰 (상)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=106014</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=106014</guid>
-            <pubDate>Sat, 21 Jan 2023 10:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202301/106014_127557_3658_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
