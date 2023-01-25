@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 Jan 2023 08:29:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Jan 2023 09:19:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 메타버스 플랫폼 캐리버스, 글로벌 거래소 게이트아이오에 'CVTX' 상장]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=106084</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=106084</guid>
+            <pubDate>Wed, 25 Jan 2023 09:19:39 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202301/106084_127656_405_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 메타버스엔터테인먼트, 첫 걸그룹 '메이브' 공개]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=106018</link>
@@ -110,14 +118,6 @@
             <pubDate>Wed, 04 Jan 2023 08:25:57 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202301/105455_126390_375_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 네이버, 커뮤니티와 커머스에 집중 '신사업 본격화']]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=105419</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=105419</guid>
-            <pubDate>Tue, 03 Jan 2023 08:24:43 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202301/105419_126308_1036_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
