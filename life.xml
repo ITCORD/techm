@@ -4,9 +4,17 @@
         <title>테크M ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 Jan 2023 23:19:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Jan 2023 01:23:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[현대백화점, 문화센터 '2023 봄 학기 접수' 진행]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=106052</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=106052</guid>
+            <pubDate>Wed, 25 Jan 2023 10:18:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202301/106052_127611_1759_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[쉽게 꾸미는 나만의 '스마트홈'…삼성전자 '스마트싱스 스테이션' 출시]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=106043</link>
@@ -110,14 +118,6 @@
             <pubDate>Thu, 19 Jan 2023 11:00:00 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202301/105952_127355_4813_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성전자 생활가전 인공지능 성능 입증…국내 최초 'AI 신뢰성 인증' 획득]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=105953</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=105953</guid>
-            <pubDate>Thu, 19 Jan 2023 11:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202301/105953_127356_5220_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
