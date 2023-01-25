@@ -4,9 +4,16 @@
         <title>테크M ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 Jan 2023 01:23:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Jan 2023 02:46:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[부고] 백창훈(하나증권 홍보팀장)씨 모친상]]></title>
+            <link>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN5&amp;view_type=sm</link>
+            <guid>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN5&amp;view_type=sm</guid>
+            <pubDate>Wed, 25 Jan 2023 10:47:00 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[커피한잔] '드리프트'를 맞이하는 두 레전드...박인수-이재혁 더블 인터뷰 (하)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=106032</link>
@@ -108,14 +115,6 @@
             <guid>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN5&amp;view_type=sm</guid>
             <pubDate>Sat, 07 Jan 2023 00:01:00 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[네이버, AI 연구 '클라우드' 중심으로...하정우 소장도 이동]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=105470</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=105470</guid>
-            <pubDate>Thu, 05 Jan 2023 10:37:00 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202301/105470_126439_2347_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
