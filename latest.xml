@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 Jan 2023 22:21:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Jan 2023 23:21:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넥스트 K-유니콘] 네이버·카카오·토스보다 먼저...美 사로잡은 '해빗팩토리']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=105934</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=105934</guid>
+            <pubDate>Thu, 26 Jan 2023 07:30:00 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202301/105934_127330_2152_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[다시 뛰는 위메이드 '위믹스'...상폐 당시 대비 4배 '껑충']]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=106086</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 25 Jan 2023 00:58:00 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202301/106068_127667_4529_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[테크M 트렌드] STO-NFT 효과 톡톡? 카카오 클립...지갑 이용자 한달새 2배 '껑충']]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=106065</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=106065</guid>
-            <pubDate>Wed, 25 Jan 2023 11:05:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202301/106065_127668_4547_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
