@@ -4,9 +4,17 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 Jan 2023 09:20:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Jan 2023 10:21:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[바이프로스트 네트워크 밸리데이터로 '티오리' 합류]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=106127</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=106127</guid>
+            <pubDate>Thu, 26 Jan 2023 10:19:17 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202301/106127_127769_3336_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[통신3사, '초거대 AI 전쟁' 참전…"챗GPT 아성 도전한다"]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=106125</link>
@@ -110,14 +118,6 @@
             <pubDate>Thu, 26 Jan 2023 10:15:00 GMT</pubDate>
             <content:encoded><![CDATA[김가은 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202301/106092_127682_1229_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["춘식이가 올바른 금융습관 만들어준다"...LG유플러스, 'U+키즈폰 with 춘식이' 출시]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=106089</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=106089</guid>
-            <pubDate>Thu, 26 Jan 2023 10:01:00 GMT</pubDate>
-            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202301/106089_127678_5625_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
