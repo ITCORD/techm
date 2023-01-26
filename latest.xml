@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 Jan 2023 03:22:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Jan 2023 04:23:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[LG전자, '프로빔' 4K 프로젝터 앞세워 실내 골프 시장 공략]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=106105</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=106105</guid>
+            <pubDate>Thu, 26 Jan 2023 00:19:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202301/106105_127700_1817_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[삼성전자, '사업 연속성 관리 체계' 인증 획득…"반도체 사업 신뢰 확보"]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=106104</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 25 Jan 2023 09:16:18 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202301/106084_127656_405_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['어닝쇼크' 맞이한 삼성전기..."2Q 이후 업황 회복할 것"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=106087</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=106087</guid>
-            <pubDate>Wed, 25 Jan 2023 09:16:18 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202301/106087_127672_5958_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
