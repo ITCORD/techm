@@ -4,9 +4,25 @@
         <title>테크M ─ 콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 Jan 2023 02:45:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Jan 2023 03:22:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[네오핀, 폴리곤 기반 블록체인 게임 '픽셀배틀' 온보딩]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=106101</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=106101</guid>
+            <pubDate>Thu, 26 Jan 2023 00:03:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202301/106101_127694_5951_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[왓챠 "日 신규가입자 3배 상승…오리지널 콘텐츠 효과"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=106098</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=106098</guid>
+            <pubDate>Thu, 26 Jan 2023 00:02:00 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202301/106098_127691_2915_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['제로 확률'로 게이머 사로잡았나...카트라이더: 드리프트, 매일 20만명이 달린다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=106080</link>
@@ -102,22 +118,6 @@
             <pubDate>Sat, 21 Jan 2023 10:43:00 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202301/106035_127537_5449_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[봤다] 슬램덩크부터 스위트홈까지...한파 속 연휴, '집콕'하며 기대작의 '전편'을 몰아보자]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=106025</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=106025</guid>
-            <pubDate>Sat, 21 Jan 2023 10:30:00 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202301/106025_127507_2334_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[블록체인의 인스타그램 '피블' 2.0 띄운다...NFT 기반 멀티체인으로 확대]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=106020</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=106020</guid>
-            <pubDate>Fri, 20 Jan 2023 09:17:38 GMT</pubDate>
-            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202301/106020_127498_4753_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
