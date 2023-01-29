@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 29 Jan 2023 09:18:38 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 Jan 2023 10:20:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[LG유플러스, 인터넷 접속 장애로 이용자 불편 호소]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=106183</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=106183</guid>
+            <pubDate>Sun, 29 Jan 2023 10:17:05 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202301/106183_127868_3752_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뉴진스가 반한 'LG 그램' 무신사와 함께 스타일링 해보자]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=106182</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 27 Jan 2023 08:21:12 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202301/106162_127820_4449_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[컨콜] LG전자 "1분기부터 물류비 인하 효과 반영될 것"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=106161</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=106161</guid>
-            <pubDate>Fri, 27 Jan 2023 08:21:12 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202301/106161_127819_3523_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
