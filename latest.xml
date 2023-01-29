@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 29 Jan 2023 02:51:58 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 Jan 2023 03:22:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뉴진스가 반한 'LG 그램' 무신사와 함께 스타일링 해보자]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=106182</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=106182</guid>
+            <pubDate>Sun, 29 Jan 2023 11:56:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202301/106182_127865_5450_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[전운 감도는 통신 시장…'혁신의 메기' 토스, 데이터 '페이백' 앞세워 출사표]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=106178</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 27 Jan 2023 08:21:12 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202301/106161_127819_3523_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[컨콜] LG전자 "글로벌 TV 수요 개선 전망 불확실"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=106159</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=106159</guid>
-            <pubDate>Fri, 27 Jan 2023 08:21:12 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202301/106159_127807_1551_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

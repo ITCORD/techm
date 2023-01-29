@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 29 Jan 2023 02:51:58 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 Jan 2023 03:22:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뉴진스가 반한 'LG 그램' 무신사와 함께 스타일링 해보자 (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=106182</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=106182</guid>
+            <pubDate>Sun, 29 Jan 2023 11:56:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202301/106182_127865_5450_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[전운 감도는 통신 시장…'혁신의 메기' 토스, 데이터 '페이백' 앞세워 출사표 (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=106178</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 27 Jan 2023 08:21:12 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202301/106161_127819_3523_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[컨콜] LG전자 "글로벌 TV 수요 개선 전망 불확실" (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=106159</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=106159</guid>
-            <pubDate>Fri, 27 Jan 2023 08:21:12 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202301/106159_127807_1551_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["러브 스토리, 이제는 귀로도 듣는다"…LG유플러스, 오디오 드라마 '썸타임즈' 공개 (테크M ─ 콘텐츠)]]></title>
@@ -616,6 +616,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202301/105801_127095_3252_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[템터뷰] "개방과 경쟁이 K보안 변화의 시작...글로벌서 통하려면 체질개선 서둘러야" (테크M ─ 피플)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=106175</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=106175</guid>
+            <pubDate>Sun, 29 Jan 2023 11:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202301/106175_127851_573_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[수익성 강조한 강희석 SSG닷컴 대표 "흑자 이뤄낼 것" (테크M ─ 피플)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=106145</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=106145</guid>
@@ -718,12 +726,12 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202301/105671_126815_4758_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[최수연 네이버 대표, 포시마크 직원들과 상견례…"원팀 시너지 기대" (테크M ─ 피플)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=105641</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=105641</guid>
-            <pubDate>Tue, 10 Jan 2023 07:15:45 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202301/105641_126758_913_v150.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[뉴진스가 반한 'LG 그램' 무신사와 함께 스타일링 해보자 (테크M ─ 라이프)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=106182</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=106182</guid>
+            <pubDate>Sun, 29 Jan 2023 11:56:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202301/106182_127865_5450_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[소니코리아, 풀프레임 표준 줌렌즈 'FE 20-70mm F4 G' 예약 판매 (테크M ─ 라이프)]]></title>
@@ -828,14 +836,6 @@
             <pubDate>Mon, 23 Jan 2023 07:10:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202301/106009_127454_5328_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[써봤다] 알차게 채운 성능에 감성 한 스푼…후지필름 'X-T5' (테크M ─ 라이프)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=106038</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=106038</guid>
-            <pubDate>Mon, 23 Jan 2023 07:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202301/106038_127566_1117_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[글로벌] MS 클라우드 '애저' 7시간 먹통..."전세계 클라우드 불신론 우려” (테크M ─ 리포트)]]></title>
