@@ -4,9 +4,17 @@
         <title>테크M ─ 콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 Jan 2023 23:21:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Jan 2023 01:27:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성전자, 찰리 코프먼 감독과 갤럭시 스마트폰으로 촬영한 단편영화 공개]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=106227</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=106227</guid>
+            <pubDate>Tue, 31 Jan 2023 08:26:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202301/106227_127968_247_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["아프리카TV 덕분이야" 룰러-스카웃 경기 안방서 시청한다...LPL 스프링 독점 중계]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=106219</link>
@@ -110,14 +118,6 @@
             <pubDate>Fri, 27 Jan 2023 07:15:51 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202301/106158_127830_036_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[LCK 브리핑] 전승의 DK와 T1 맞대결...1R 판도 결정될 듯]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=106138</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=106138</guid>
-            <pubDate>Fri, 27 Jan 2023 04:21:17 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202301/106138_127783_632_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
