@@ -4,9 +4,17 @@
         <title>테크M ─ 콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 Jan 2023 08:24:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Jan 2023 09:22:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[엠넷 '보이즈 플래닛'이 더 샌드박스에 떴다...메타버스서 K팝 즐긴다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=106283</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=106283</guid>
+            <pubDate>Tue, 31 Jan 2023 09:17:32 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202301/106283_128052_205_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[IT진맥] 확률형 아이템 정보 공개, '모든' 광고물에 표시해야 할까요?]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=106281</link>
@@ -110,14 +118,6 @@
             <pubDate>Mon, 30 Jan 2023 05:16:39 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202301/106204_127931_547_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[LCK 브리핑] 스프링 1R 최강팀은 T1...DK 꺾고 전승 행진]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=106201</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=106201</guid>
-            <pubDate>Mon, 30 Jan 2023 05:16:39 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202301/106201_127933_5453_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
