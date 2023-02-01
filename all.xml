@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Feb 2023 13:29:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Feb 2023 14:20:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[게임코인TV] 불장 시작하나...1000원대 회복한 위믹스 (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=106334</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=106334</guid>
+            <pubDate>Wed, 01 Feb 2023 14:16:22 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202302/106334_128168_921_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[투자자 우려 진화 나선 업비트-빗썸 "증권성 토큰 없어요" (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=106340</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 01 Feb 2023 07:16:48 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202302/106317_128110_1942_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[레노버, 2050년 '넷제로' 달성 목표 제시 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=106318</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=106318</guid>
-            <pubDate>Wed, 01 Feb 2023 07:16:48 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202302/106318_128111_2247_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[덩치 키우는 밸로프...日 게임 유통사 100억에 인수 (테크M ─ 콘텐츠)]]></title>
@@ -950,6 +950,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202301/105976_127378_3429_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[게임코인TV] 불장 시작하나...1000원대 회복한 위믹스 (테크M ─ 보는 뉴스)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=106334</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=106334</guid>
+            <pubDate>Wed, 01 Feb 2023 14:20:47 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202302/106334_128168_921_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[카드뉴스] 더 샌드박스-CJ ENM, '보이즈 플래닛' 메타버스 공간 오픈 (테크M ─ 보는 뉴스)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=106325</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=106325</guid>
@@ -1052,14 +1060,6 @@
             <pubDate>Thu, 12 Jan 2023 07:21:11 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202301/105750_126957_5329_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 제페토의 '신라면 분식점', 현실세계에 구현되다 (테크M ─ 보는 뉴스)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=105698</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=105698</guid>
-            <pubDate>Wed, 11 Jan 2023 09:20:14 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202301/105698_126868_2023_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
