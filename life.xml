@@ -4,9 +4,17 @@
         <title>테크M ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Feb 2023 03:00:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Feb 2023 03:29:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오늘의집 "가구·가전 목돈 지출…500만원 이상 고객 62%↑"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=106299</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=106299</guid>
+            <pubDate>Wed, 01 Feb 2023 00:01:00 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202302/106299_128088_3222_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[후지필름코리아, 지난해 렌즈 판매율 35% 'UP'…2030세대 사로잡은 매력은?]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=106280</link>
@@ -110,14 +118,6 @@
             <pubDate>Wed, 25 Jan 2023 10:26:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202301/106056_127615_2627_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SSG닷컴, 장보기 브랜드사 7곳과 합동 행사…'블라썸 위크' 오픈]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=106055</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=106055</guid>
-            <pubDate>Wed, 25 Jan 2023 10:23:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202301/106055_127614_2327_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
