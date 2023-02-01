@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Feb 2023 19:19:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Feb 2023 20:23:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[갤럭시 언팩] 삼성 '갤럭시 XR' 커밍순?...퀄컴·구글과 '연합군' 결성]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=106346</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=106346</guid>
+            <pubDate>Thu, 02 Feb 2023 04:57:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202302/106346_128179_248_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[갤럭시 언팩] '갤럭시 S23' 전격 공개…카메라·게임 성능으로 프리미엄폰 새 기준 세운다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=106331</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 01 Feb 2023 08:22:12 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202302/106323_128117_2753_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미래차 성장키 쥔 현대오토에버...차량SW로 '고공행진' 이어간다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=106320</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=106320</guid>
-            <pubDate>Wed, 01 Feb 2023 08:22:12 GMT</pubDate>
-            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202302/106320_128141_1320_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
