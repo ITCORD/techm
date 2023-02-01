@@ -4,11 +4,19 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Feb 2023 08:25:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Feb 2023 09:22:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[체면 구긴 NHN클라우드...DB문제로 3시간 14분간 서비스 장애]]></title>
+            <title><![CDATA[中 해커조직 샤오치잉 추가 공격 예고…"다음 달 28일부터 韓 공격"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=106335</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=106335</guid>
+            <pubDate>Wed, 01 Feb 2023 09:19:27 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202302/106335_128150_4910_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NHN클라우드, DB문제로 3시간 14분간 서비스 장애]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=106330</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=106330</guid>
             <pubDate>Wed, 01 Feb 2023 08:22:41 GMT</pubDate>
@@ -110,14 +118,6 @@
             <pubDate>Wed, 01 Feb 2023 00:01:00 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202302/106301_128090_500_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[테크M 리포트] 韓 C2C 커머스 최강자 네이버 '크림'...지난해 거래액 2조 '육박']]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=106297</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=106297</guid>
-            <pubDate>Wed, 01 Feb 2023 11:33:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202302/106297_128143_141_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

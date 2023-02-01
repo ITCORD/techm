@@ -4,11 +4,27 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Feb 2023 08:25:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Feb 2023 09:22:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[체면 구긴 NHN클라우드...DB문제로 3시간 14분간 서비스 장애]]></title>
+            <title><![CDATA[中 해커조직 샤오치잉 추가 공격 예고…"다음 달 28일부터 韓 공격"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=106335</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=106335</guid>
+            <pubDate>Wed, 01 Feb 2023 09:18:50 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202302/106335_128150_4910_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[나란히 약진하고 있는 FPS 게임...인기 키워드는 'e스포츠'와 '소통']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=106327</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=106327</guid>
+            <pubDate>Wed, 01 Feb 2023 09:18:50 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202302/106327_128138_5822_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NHN클라우드, DB문제로 3시간 14분간 서비스 장애]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=106330</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=106330</guid>
             <pubDate>Wed, 01 Feb 2023 08:22:12 GMT</pubDate>
@@ -150,22 +166,6 @@
             <pubDate>Wed, 01 Feb 2023 06:22:28 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202302/106311_128102_413_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[1세대 블록체인 기업 아이콘루프, '파라메타'로 새 출발...웹3 비즈니스 '시동']]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=106309</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=106309</guid>
-            <pubDate>Wed, 01 Feb 2023 06:22:28 GMT</pubDate>
-            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202302/106309_128101_5613_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다야몬즈, 청춘 배구 게임 '하이큐!! 터치더드림' 정식 서비스 시작]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=106308</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=106308</guid>
-            <pubDate>Wed, 01 Feb 2023 06:22:28 GMT</pubDate>
-            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202302/106308_128100_4151_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
