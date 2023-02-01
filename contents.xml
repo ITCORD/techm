@@ -4,9 +4,17 @@
         <title>테크M ─ 콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Feb 2023 04:26:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Feb 2023 05:19:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[카트라이더:드리프트, 3월 9일부터는 콘솔로도 즐긴다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=106303</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=106303</guid>
+            <pubDate>Wed, 01 Feb 2023 05:16:22 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202302/106303_128095_4325_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[컴투스홀딩스 엑스플라, FTX 사태 피해자 지원안 가결...XPLA 1980만개 투입]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=106289</link>
@@ -110,14 +118,6 @@
             <pubDate>Mon, 30 Jan 2023 09:17:48 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202301/106219_127934_5632_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[차명훈 코인원 "외국인·법인·금융사 가상자산 투자 허용해달라"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=106223</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=106223</guid>
-            <pubDate>Mon, 30 Jan 2023 09:17:48 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202301/106223_127945_46_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
