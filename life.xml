@@ -4,9 +4,17 @@
         <title>테크M ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Feb 2023 03:21:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Feb 2023 04:24:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[현대백화점, 안데르센 어워드 작품전 열었다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=106375</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=106375</guid>
+            <pubDate>Thu, 02 Feb 2023 00:25:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202302/106375_128216_2531_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[LG전자, 프리미엄 빌트인에 'UP가전' 더해 미국 시장 공략]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=106312</link>
@@ -110,14 +118,6 @@
             <pubDate>Thu, 26 Jan 2023 00:07:00 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202301/106102_127695_424_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LG전자, 14인용 디오스 오브제컬렉션 식기세척기 출시…"최대 110개 식기 세척"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=106071</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=106071</guid>
-            <pubDate>Wed, 25 Jan 2023 07:29:10 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202301/106071_127639_5120_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
