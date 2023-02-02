@@ -4,9 +4,17 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Feb 2023 05:18:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Feb 2023 06:24:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[연설문부터 수학문제 풀이까지...대통령도 주목한 '챗GPT' 한계는 어디?]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=106376</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=106376</guid>
+            <pubDate>Thu, 02 Feb 2023 06:22:22 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202302/106376_128219_5812_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["클라우드 관리, 이제는 AI로"…베스핀글로벌, '옵스나우 360'으로 'CMaaS' 시대 연다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=106368</link>
@@ -110,14 +118,6 @@
             <pubDate>Thu, 02 Feb 2023 09:17:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202302/106353_128191_1750_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[안랩, 공인 파트너 대상 '안랩 파트너데이 2023' 개최]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=106351</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=106351</guid>
-            <pubDate>Thu, 02 Feb 2023 09:14:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202302/106351_128189_1436_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
