@@ -4,9 +4,25 @@
         <title>테크M ─ 콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Feb 2023 05:20:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Feb 2023 06:24:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[컴투스홀딩스 엑스플라, 새 밸리데이터로 '오지스' 합류]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=106425</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=106425</guid>
+            <pubDate>Fri, 03 Feb 2023 06:22:08 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202302/106425_128294_2338_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[인터체인 플랫폼 하바, 새 밸리데이터로 '하이퍼리즘'·'코인니스' 합류]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=106423</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=106423</guid>
+            <pubDate>Fri, 03 Feb 2023 06:22:08 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202302/106423_128293_1727_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[컴투스홀딩스, 신작 MMORPG '제노니아' 타이틀 확정]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=106418</link>
@@ -102,22 +118,6 @@
             <pubDate>Wed, 01 Feb 2023 08:22:26 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202302/106313_128108_1625_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다야몬즈, 청춘 배구 게임 '하이큐!! 터치더드림' 정식 서비스 시작]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=106308</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=106308</guid>
-            <pubDate>Wed, 01 Feb 2023 06:22:45 GMT</pubDate>
-            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202302/106308_128100_4151_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[카트라이더: 드리프트 리그, 아프리카TV서 본다...넥슨-아프리카TV '맞손']]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=106307</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=106307</guid>
-            <pubDate>Wed, 01 Feb 2023 06:22:45 GMT</pubDate>
-            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202302/106307_128099_3729_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
