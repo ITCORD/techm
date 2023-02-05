@@ -4,9 +4,25 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Feb 2023 02:54:02 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Feb 2023 03:25:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[STO 대중화 시동...토큰도 주식처럼 발행·규제 받는다(상보)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=106468</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=106468</guid>
+            <pubDate>Sun, 05 Feb 2023 00:10:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202302/106468_128388_930_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[STO 시대 열렸다...금융위, 자본시장법 통한 '토큰 비즈니스' 허용]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=106467</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=106467</guid>
+            <pubDate>Sun, 05 Feb 2023 00:03:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202302/106467_128386_310_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[LG그룹, 2050년 '탄소중립' 선언…국내 최초 그룹 차원 계획 발표]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=106466</link>
@@ -150,22 +166,6 @@
             <pubDate>Fri, 03 Feb 2023 08:21:42 GMT</pubDate>
             <content:encoded><![CDATA[김가은 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202302/106430_128321_528_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LG유플러스 "상반기 중 스튜디오 엑스플러스유 오리지널 콘텐츠 공개"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=106431</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=106431</guid>
-            <pubDate>Fri, 03 Feb 2023 08:21:42 GMT</pubDate>
-            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202302/106431_128331_191_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[고팍스, 바이낸스와 투자 협약 체결...금액은 비공개]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=106448</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=106448</guid>
-            <pubDate>Fri, 03 Feb 2023 08:21:42 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202302/106448_128330_1216_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
