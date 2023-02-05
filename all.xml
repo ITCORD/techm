@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Feb 2023 03:25:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Feb 2023 04:24:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[협업·투자부터 인수까지 '증권사-STO 기업' 합종연횡 본격화 (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=106461</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=106461</guid>
+            <pubDate>Sun, 05 Feb 2023 00:29:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202302/106461_128374_2136_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[STO 대중화 시동...토큰도 주식처럼 발행·규제 받는다(상보) (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=106468</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 03 Feb 2023 09:19:05 GMT</pubDate>
             <content:encoded><![CDATA[김가은 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202302/106450_128343_3222_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LG유플러스 "2023년, 서비스 수익 4% 성장이 목표" (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=106430</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=106430</guid>
-            <pubDate>Fri, 03 Feb 2023 08:21:42 GMT</pubDate>
-            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202302/106430_128321_528_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[타이페이 게임쇼 후끈 달군 '서머너즈워: 크로니클'...현지 모델-개발진 총출동 (테크M ─ 콘텐츠)]]></title>
@@ -392,6 +392,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202302/106429_128318_226_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[협업·투자부터 인수까지 '증권사-STO 기업' 합종연횡 본격화 (테크M ─ 이노베이션)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=106461</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=106461</guid>
+            <pubDate>Sun, 05 Feb 2023 00:29:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202302/106461_128374_2136_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[LG그룹, 2050년 '탄소중립' 선언…국내 최초 그룹 차원 계획 발표 (테크M ─ 이노베이션)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=106466</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=106466</guid>
@@ -494,14 +502,6 @@
             <pubDate>Mon, 30 Jan 2023 05:16:21 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202301/106207_127910_33_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이대 앞 요거트 신화 '그릭데이', 105억 시리즈B 투자 유치 (테크M ─ 이노베이션)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=106197</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=106197</guid>
-            <pubDate>Mon, 30 Jan 2023 05:16:21 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202301/106197_127889_259_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[크립토 주간 브리핑] 2900만원 횡보하는 비트코인...6개월 이상 보유자는 사상 최대 (테크M ─ 인베스트먼트)]]></title>
@@ -619,14 +619,14 @@
             <title><![CDATA[[부고] 조두인 블루홀스튜디오 대표 부친상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Sun, 05 Feb 2023 03:23:44 GMT</pubDate>
+            <pubDate>Sun, 05 Feb 2023 04:24:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[부고] 김혜진(아이엠아이 법무대외팀 대리)씨 외조모상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Sun, 05 Feb 2023 03:23:44 GMT</pubDate>
+            <pubDate>Sun, 05 Feb 2023 04:24:00 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
         </item>
         <item>
