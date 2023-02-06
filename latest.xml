@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Feb 2023 06:26:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Feb 2023 07:21:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["다크웹에서도 챗GPT"...사이버 공격 활용 사례 늘어난다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=106510</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=106510</guid>
+            <pubDate>Mon, 06 Feb 2023 07:18:03 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202302/106510_128468_1119_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[증권사 러브콜 받는 서울옥션블루 조각투자 '소투'...신한투자증권-KB증권과 '맞손']]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=106509</link>
@@ -67,7 +75,7 @@
             <title><![CDATA[[부고] 원윤식(네이버 대외커뮤니케이션 전무)씨 빙모상]]></title>
             <link>https://www.techm.kr/news/articleList.html</link>
             <guid>https://www.techm.kr/news/articleList.html</guid>
-            <pubDate>Mon, 06 Feb 2023 06:23:30 GMT</pubDate>
+            <pubDate>Mon, 06 Feb 2023 07:18:03 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
         </item>
         <item>
@@ -157,14 +165,6 @@
             <pubDate>Mon, 06 Feb 2023 10:30:00 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202302/106490_128438_2910_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[글로벌 DT 사업 강화한 티맥스소프트…오라클 출신 고성호 부사장 선임]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=106489</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=106489</guid>
-            <pubDate>Mon, 06 Feb 2023 10:30:00 GMT</pubDate>
-            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202302/106489_128437_2714_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
