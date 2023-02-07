@@ -4,9 +4,17 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Feb 2023 22:20:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Feb 2023 23:20:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SK텔레콤, 지난해 영업이익 1조6120억...전년비 16.2%↑(1보)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=106564</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=106564</guid>
+            <pubDate>Wed, 08 Feb 2023 08:04:00 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202302/106564_128569_030_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["서비스 개발-수익화 분담"...네이버-소프트뱅크 합작사 Z홀딩스, 경영 효율화 '속도']]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=106556</link>
@@ -110,14 +118,6 @@
             <pubDate>Tue, 07 Feb 2023 09:37:00 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202302/106515_128495_468_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["다크웹에서도 챗GPT"...사이버 공격 활용 사례 늘어난다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=106510</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=106510</guid>
-            <pubDate>Mon, 06 Feb 2023 07:18:42 GMT</pubDate>
-            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202302/106510_128466_106_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

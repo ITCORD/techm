@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Feb 2023 22:20:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Feb 2023 23:20:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SK텔레콤, 지난해 영업이익 1조6120억...전년비 16.2%↑(1보) (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=106564</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=106564</guid>
+            <pubDate>Wed, 08 Feb 2023 08:04:00 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202302/106564_128569_030_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[크래프톤, 3개년 주주환원정책 공개...올해 취득 자사주 전량소각 (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=106562</link>
@@ -35,7 +43,7 @@
             <title><![CDATA[[부고] 조용하(아시아타임즈 회장)씨 부친상 (테크M ─ 전체기사)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Tue, 07 Feb 2023 22:17:34 GMT</pubDate>
+            <pubDate>Tue, 07 Feb 2023 23:17:22 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
         </item>
         <item>
@@ -159,14 +167,6 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202302/106542_128522_582_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[카카오, SM엔터에 1200억 배팅...지분 4.91% 취득(1보) (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=106541</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=106541</guid>
-            <pubDate>Tue, 07 Feb 2023 05:15:58 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202302/106541_128521_5434_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[플레이위드, '씰M' 인도네시아 비공개테스트 마무리 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=106524</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=106524</guid>
@@ -279,6 +279,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202302/106464_128383_3554_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[SK텔레콤, 지난해 영업이익 1조6120억...전년비 16.2%↑(1보) (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=106564</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=106564</guid>
+            <pubDate>Wed, 08 Feb 2023 08:04:00 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202302/106564_128569_030_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA["서비스 개발-수익화 분담"...네이버-소프트뱅크 합작사 Z홀딩스, 경영 효율화 '속도' (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=106556</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=106556</guid>
@@ -381,14 +389,6 @@
             <pubDate>Tue, 07 Feb 2023 09:37:00 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202302/106515_128495_468_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["다크웹에서도 챗GPT"...사이버 공격 활용 사례 늘어난다 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=106510</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=106510</guid>
-            <pubDate>Mon, 06 Feb 2023 07:18:03 GMT</pubDate>
-            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202302/106510_128466_106_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[김봉진·김상헌이 투자한 교양 웹툰 제작사 노틸러스, '주키즈' 손 잡고 베트남 진출 (테크M ─ 이노베이션)]]></title>
@@ -618,7 +618,7 @@
             <title><![CDATA[[부고] 조용하(아시아타임즈 회장)씨 부친상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Tue, 07 Feb 2023 22:19:58 GMT</pubDate>
+            <pubDate>Tue, 07 Feb 2023 23:19:41 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
         </item>
         <item>
@@ -633,7 +633,7 @@
             <title><![CDATA[[부고] 원윤식(네이버 대외커뮤니케이션 전무)씨 빙모상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Tue, 07 Feb 2023 22:19:58 GMT</pubDate>
+            <pubDate>Tue, 07 Feb 2023 23:19:41 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
         </item>
         <item>
@@ -656,14 +656,14 @@
             <title><![CDATA[[부고] 조두인 블루홀스튜디오 대표 부친상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Tue, 07 Feb 2023 22:19:58 GMT</pubDate>
+            <pubDate>Tue, 07 Feb 2023 23:19:41 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[부고] 김혜진(아이엠아이 법무대외팀 대리)씨 외조모상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Tue, 07 Feb 2023 22:19:58 GMT</pubDate>
+            <pubDate>Tue, 07 Feb 2023 23:19:41 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
         </item>
         <item>

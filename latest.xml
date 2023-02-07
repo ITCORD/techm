@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Feb 2023 22:20:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Feb 2023 23:20:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SK텔레콤, 지난해 영업이익 1조6120억...전년비 16.2%↑(1보)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=106564</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=106564</guid>
+            <pubDate>Wed, 08 Feb 2023 08:04:00 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202302/106564_128569_030_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[크래프톤, 3개년 주주환원정책 공개...올해 취득 자사주 전량소각]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=106562</link>
@@ -35,7 +43,7 @@
             <title><![CDATA[[부고] 조용하(아시아타임즈 회장)씨 부친상]]></title>
             <link>https://www.techm.kr/news/articleList.html</link>
             <guid>https://www.techm.kr/news/articleList.html</guid>
-            <pubDate>Tue, 07 Feb 2023 22:17:34 GMT</pubDate>
+            <pubDate>Tue, 07 Feb 2023 23:17:22 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
         </item>
         <item>
@@ -157,14 +165,6 @@
             <pubDate>Tue, 07 Feb 2023 05:15:58 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202302/106542_128522_582_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[카카오, SM엔터에 1200억 배팅...지분 4.91% 취득(1보)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=106541</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=106541</guid>
-            <pubDate>Tue, 07 Feb 2023 05:15:58 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202302/106541_128521_5434_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
