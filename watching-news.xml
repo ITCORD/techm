@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Feb 2023 22:21:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Feb 2023 23:22:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 신사업 역량 강화 나선 SKT, '에이닷'부터 데이터센터, 클라우드까지]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=106683</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=106683</guid>
+            <pubDate>Fri, 10 Feb 2023 07:56:00 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202302/106683_128732_5625_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] SM엔터X카카오, IP사업 키운다...하이브X네이버에 '맞불']]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=106631</link>
@@ -110,14 +118,6 @@
             <pubDate>Thu, 26 Jan 2023 08:27:20 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202301/106124_127739_3336_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 메타버스 플랫폼 캐리버스, 글로벌 거래소 게이트아이오에 'CVTX' 상장]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=106084</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=106084</guid>
-            <pubDate>Wed, 25 Jan 2023 09:19:39 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202301/106084_127656_405_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
