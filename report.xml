@@ -4,9 +4,33 @@
         <title>테크M ─ 리포트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Feb 2023 06:27:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Feb 2023 07:21:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[글로벌] 애플 아이폰15 어떻게 나올까?...역방향 충전 등 여러 추측 나온다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=106680</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=106680</guid>
+            <pubDate>Thu, 09 Feb 2023 07:21:09 GMT</pubDate>
+            <content:encoded><![CDATA[김현기 대표]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202302/106680_128728_475_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[글로벌] 바이두 "3월 AI 챗봇 출시"...美 AI 기술 경쟁에 뛰어든 中]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=106679</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=106679</guid>
+            <pubDate>Thu, 09 Feb 2023 07:21:09 GMT</pubDate>
+            <content:encoded><![CDATA[김현기 대표]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202302/106679_128726_4543_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[글로벌] 클롭 랜섬웨어 '변종' 발견...리눅스 랜섬웨어 피해 늘어]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=106678</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=106678</guid>
+            <pubDate>Thu, 09 Feb 2023 07:21:09 GMT</pubDate>
+            <content:encoded><![CDATA[김현기 대표]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202302/106678_128724_4425_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[글로벌] 뜨거워지는 AI 챗봇 경쟁…구글, '앤스로픽'에 5000억원 투자]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=106539</link>
@@ -94,30 +118,6 @@
             <pubDate>Tue, 31 Jan 2023 05:18:48 GMT</pubDate>
             <content:encoded><![CDATA[김현기 대표]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202301/106267_128021_459_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[글로벌] 메타 전 직원의 폭로 "페이스북, 고의로 휴대폰 배터리 소모"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=106266</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=106266</guid>
-            <pubDate>Tue, 31 Jan 2023 05:18:48 GMT</pubDate>
-            <content:encoded><![CDATA[김현기 대표]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202301/106266_128020_354_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[글로벌] MS 클라우드 '애저' 7시간 먹통..."전세계 클라우드 불신론 우려”]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=106172</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=106172</guid>
-            <pubDate>Sat, 28 Jan 2023 11:23:00 GMT</pubDate>
-            <content:encoded><![CDATA[김현기 대표]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202301/106172_127846_2229_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[글로벌] 버즈피드, '챗GPT' 개발사 오픈AI와 맞손..."AI로 콘텐츠 개발"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=106171</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=106171</guid>
-            <pubDate>Sat, 28 Jan 2023 11:21:00 GMT</pubDate>
-            <content:encoded><![CDATA[김현기 대표]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202301/106171_127845_210_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
