@@ -4,9 +4,17 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Feb 2023 05:20:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Feb 2023 06:27:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[카카오모빌리티 "일반택시 '무료호출' 폐지 안한다"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=106750</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=106750</guid>
+            <pubDate>Fri, 10 Feb 2023 06:23:42 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202302/106750_128870_79_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["AI가 알려준 맛집 1위는 어디?"…KT, '전국 맛집 지도' 공개]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=106736</link>
@@ -110,14 +118,6 @@
             <pubDate>Thu, 09 Feb 2023 07:18:55 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202302/106677_128768_2318_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ESG 역량 인정받은 통신3사…글로벌 CDP서 나란히 우수 성적표]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=106676</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=106676</guid>
-            <pubDate>Thu, 09 Feb 2023 07:18:55 GMT</pubDate>
-            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202302/106676_128721_377_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
