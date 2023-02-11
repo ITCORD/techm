@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Feb 2023 01:21:49 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Feb 2023 02:45:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[소라픽] 발렌타인데이 빈손이면 섭섭하지...선물 준비할 마지막 기회]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=106757</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=106757</guid>
+            <pubDate>Sat, 11 Feb 2023 10:29:00 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202302/106757_128898_265_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[글로벌] '불만 듣지 않겠다?'...튀르키예 정부, 트위터 고의 차단 의혹]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=106754</link>
@@ -83,7 +91,7 @@
             <title><![CDATA[게이머들 직접 만난다...바람의나라:연, 3월에 첫 오프라인 쇼케이스 개최]]></title>
             <link>https://www.techm.kr/news/articleList.html</link>
             <guid>https://www.techm.kr/news/articleList.html</guid>
-            <pubDate>Sat, 11 Feb 2023 01:18:59 GMT</pubDate>
+            <pubDate>Sat, 11 Feb 2023 02:42:07 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
         </item>
         <item>
@@ -157,14 +165,6 @@
             <pubDate>Fri, 10 Feb 2023 11:20:00 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202302/106737_128827_814_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["AI가 알려준 맛집 1위는 어디?"…KT, '전국 맛집 지도' 공개]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=106736</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=106736</guid>
-            <pubDate>Fri, 10 Feb 2023 11:20:00 GMT</pubDate>
-            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202302/106736_128826_055_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
