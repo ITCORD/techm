@@ -4,16 +4,32 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Feb 2023 03:21:59 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Feb 2023 04:23:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[가봤다] "강남 땅 속의 군사기지?"…'틈'에서 갤럭시 S23으로 과몰입 '배그' 즐겨보자]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=106759</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=106759</guid>
+            <pubDate>Sat, 11 Feb 2023 04:20:30 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202302/106759_128906_5150_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[크립토 주간 브리핑] 美 SEC 개입에 바뀐 시장 분위기...횡보 끝내고 하락한 비트·이더]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=106758</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=106758</guid>
+            <pubDate>Sat, 11 Feb 2023 00:49:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202302/106758_128902_159_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[소라픽] 발렌타인데이 빈손이면 섭섭하지...선물 준비할 마지막 기회]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=106757</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=106757</guid>
             <pubDate>Sat, 11 Feb 2023 10:29:00 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202302/106757_128898_265_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202302/106757_128899_3911_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[글로벌] '불만 듣지 않겠다?'...튀르키예 정부, 트위터 고의 차단 의혹]]></title>
@@ -91,7 +107,7 @@
             <title><![CDATA[게이머들 직접 만난다...바람의나라:연, 3월에 첫 오프라인 쇼케이스 개최]]></title>
             <link>https://www.techm.kr/news/articleList.html</link>
             <guid>https://www.techm.kr/news/articleList.html</guid>
-            <pubDate>Sat, 11 Feb 2023 03:19:08 GMT</pubDate>
+            <pubDate>Sat, 11 Feb 2023 04:20:30 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
         </item>
         <item>
@@ -149,22 +165,6 @@
             <pubDate>Fri, 10 Feb 2023 11:35:00 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202302/106739_128830_2826_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[투자손실에 적자전환한 컴투스홀딩스...투자한 크립토 기업 약세가 주요 원인]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=106738</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=106738</guid>
-            <pubDate>Fri, 10 Feb 2023 11:34:00 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202302/106738_128829_1922_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연매출 '7조 클럽' 가입한 카카오..."코GPT·신사업 강화할 것"(종합)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=106737</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=106737</guid>
-            <pubDate>Fri, 10 Feb 2023 11:20:00 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202302/106737_128827_814_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
