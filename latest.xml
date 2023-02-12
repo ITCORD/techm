@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Feb 2023 02:51:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Feb 2023 03:23:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["중단·사고·재해, 3無"...네이버가 데이터센터 '각 춘천·세종'에 보인 자신감]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=106753</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=106753</guid>
+            <pubDate>Sun, 12 Feb 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202302/106753_128873_2618_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[신년 가상자산 특별 간담회] "토큰증권이 금융 영역 넓힌다...증권사·기술기업 합종연횡은 필연" (중)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=106561</link>
@@ -131,7 +139,7 @@
             <title><![CDATA[게이머들 직접 만난다...바람의나라:연, 3월에 첫 오프라인 쇼케이스 개최]]></title>
             <link>https://www.techm.kr/news/articleList.html</link>
             <guid>https://www.techm.kr/news/articleList.html</guid>
-            <pubDate>Sun, 12 Feb 2023 02:48:26 GMT</pubDate>
+            <pubDate>Sun, 12 Feb 2023 03:20:47 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
         </item>
         <item>
@@ -157,14 +165,6 @@
             <pubDate>Fri, 10 Feb 2023 06:23:06 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202302/106479_128879_59_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지주사 전환 좌초된 현대백화점, 인적분할 부결…"인적분할 추진 NO"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=106744</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=106744</guid>
-            <pubDate>Fri, 10 Feb 2023 06:23:06 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202302/106744_128844_5643_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
