@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Feb 2023 10:24:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Feb 2023 11:19:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[안랩, 지난해 영업익 17.69%↑…"통합 보안 내세워 글로벌 경쟁력 확보"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=106805</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=106805</guid>
+            <pubDate>Mon, 13 Feb 2023 11:15:46 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202302/106805_129031_2052_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 신년 가상자산 특별 간담회 개최, 2023년 업계 흐름 알아보다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=106802</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 13 Feb 2023 10:55:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202302/106787_128971_5534_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[KB국민은행, 구독형 건강관리 서비스 '건강코칭 알림톡' 출시]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=106786</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=106786</guid>
-            <pubDate>Mon, 13 Feb 2023 10:52:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202302/106786_128970_5231_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
