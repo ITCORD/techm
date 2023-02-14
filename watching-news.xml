@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Feb 2023 11:19:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Feb 2023 12:40:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[게임코인TV] 악재 떨쳐내고 기지개 펴는 컴투스, 엑스플라]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=106862</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=106862</guid>
+            <pubDate>Tue, 14 Feb 2023 12:40:06 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202302/106862_129120_2349_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 위메이드 '위믹스'의 재도전...국내 원화마켓 거래소 상장 추진]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=106842</link>
@@ -110,14 +118,6 @@
             <pubDate>Wed, 01 Feb 2023 08:25:54 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202302/106325_128121_356_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 람다256, 아크피아와 파트너십 체결...NFT 아트 플랫폼 구축]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=106279</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=106279</guid>
-            <pubDate>Tue, 31 Jan 2023 08:24:50 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202301/106279_128037_710_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

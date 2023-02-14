@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Feb 2023 11:19:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Feb 2023 12:40:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[게임코인TV] 악재 떨쳐내고 기지개 펴는 컴투스, 엑스플라]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=106862</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=106862</guid>
+            <pubDate>Tue, 14 Feb 2023 12:36:07 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202302/106862_129120_2349_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["개발자 없이 누구나"...토스페이먼츠, 노코드 서비스 '결제 위젯' 출시]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=106861</link>
@@ -112,7 +120,7 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202302/106847_129113_5558_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[LG유플러스에 디도스 공격 막는 '칩입방지시스템' 미비..."소흘한 보안 투자로 골든타임 놓쳐"]]></title>
+            <title><![CDATA[LG유플러스에 디도스 공격 막는 '칩입방지시스템' 미비..."소홀한 보안 투자로 골든타임 놓쳐"]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=106844</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=106844</guid>
             <pubDate>Tue, 14 Feb 2023 07:16:49 GMT</pubDate>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 14 Feb 2023 07:16:49 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202302/106841_129073_614_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[LCK 브리핑] 반환점 돈 스프링 스플릿...T1, 1위 굳히기 나선다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=106827</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=106827</guid>
-            <pubDate>Tue, 14 Feb 2023 06:23:08 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202302/106827_129060_2245_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
