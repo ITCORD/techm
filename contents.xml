@@ -4,9 +4,17 @@
         <title>테크M ─ 콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Feb 2023 06:26:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Feb 2023 07:20:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아직은 생소한 위메이드 DAO 플랫폼 '나일'...초기 라인업 살펴보니]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=106899</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=106899</guid>
+            <pubDate>Wed, 15 Feb 2023 07:16:54 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202302/106899_129181_5459_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["총싸움하고 코인 받자" QORPO, 웹 3.0 FPS '시티즌 컨플릭트' 글로벌 테스트]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=106891</link>
@@ -110,14 +118,6 @@
             <pubDate>Tue, 14 Feb 2023 10:55:00 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202302/106821_129048_4141_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[펄어비스 "붉은사막, 하반기 개발 완료할 것"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=106808</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=106808</guid>
-            <pubDate>Tue, 14 Feb 2023 08:38:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202302/106808_129033_3841_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
