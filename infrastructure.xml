@@ -4,9 +4,17 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Feb 2023 21:18:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Feb 2023 22:21:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[써봤다] 정면승부, 갤럭시 S23 울트라 vs. 아이폰14 프로맥스]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=106913</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=106913</guid>
+            <pubDate>Thu, 16 Feb 2023 07:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202302/106913_129204_3414_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[中 해커조직 '샤오치잉', 국내 서버 5곳 또 털었다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=106910</link>
@@ -110,14 +118,6 @@
             <pubDate>Wed, 15 Feb 2023 10:15:00 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202302/106875_129146_139_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SK텔레콤, 통신데이터에 AI 더해 교통혼잡 해결한다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=106872</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=106872</guid>
-            <pubDate>Wed, 15 Feb 2023 10:14:00 GMT</pubDate>
-            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202302/106872_129140_351_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
