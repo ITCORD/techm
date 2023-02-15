@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Feb 2023 05:20:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Feb 2023 06:26:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 메타버스 본디, 일이용자 100만 돌파]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=106894</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=106894</guid>
+            <pubDate>Wed, 15 Feb 2023 06:26:31 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202302/106894_129165_2041_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[게임코인TV] 악재 떨쳐내고 기지개 펴는 컴투스, 엑스플라]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=106862</link>
@@ -110,14 +118,6 @@
             <pubDate>Wed, 01 Feb 2023 14:20:47 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202302/106334_128168_921_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 더 샌드박스-CJ ENM, '보이즈 플래닛' 메타버스 공간 오픈]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=106325</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=106325</guid>
-            <pubDate>Wed, 01 Feb 2023 08:25:54 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202302/106325_128121_356_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
