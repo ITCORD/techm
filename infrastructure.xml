@@ -4,9 +4,17 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Feb 2023 02:53:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Feb 2023 03:26:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[尹 발언에 '화들짝'...통신3사, 데이터 30GB 일제히 풀었다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=106883</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=106883</guid>
+            <pubDate>Wed, 15 Feb 2023 11:51:00 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202302/106883_129153_4855_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["콘텐츠 플랫폼 기업 M&A, 규제 말아야…과거 재벌기업과 달라"]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=106881</link>
@@ -110,14 +118,6 @@
             <pubDate>Tue, 14 Feb 2023 06:23:37 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202302/106838_129069_422_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['코GPT' 공개한 카카오브레인, 모션 생성 모델 '플레임' 띄운다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=106837</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=106837</guid>
-            <pubDate>Tue, 14 Feb 2023 06:23:37 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202302/106837_129068_5556_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
