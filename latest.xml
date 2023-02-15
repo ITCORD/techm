@@ -4,9 +4,25 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Feb 2023 12:38:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Feb 2023 13:30:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[게임코인TV] 바이낸스가 인수하는 고팍스의 운명은?]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=106912</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=106912</guid>
+            <pubDate>Wed, 15 Feb 2023 13:27:14 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202302/106912_129203_1826_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[토종 블록체인 기술기업 파라메타, 서울거래 비상장과 토큰증권 플랫폼 공동 개발]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=106911</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=106911</guid>
+            <pubDate>Wed, 15 Feb 2023 13:27:14 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202302/106911_129202_5053_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[中 해커조직 '샤오치잉', 국내 서버 5곳 또 털었다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=106910</link>
@@ -150,22 +166,6 @@
             <pubDate>Wed, 15 Feb 2023 05:17:16 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202302/106891_129162_2458_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[테크M 이슈] 격화되는 경영권 분쟁...SM '디어유'가 주목받는 이유]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=106890</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=106890</guid>
-            <pubDate>Wed, 15 Feb 2023 05:17:16 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202302/106890_129195_222_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기술 금융 이뤄낸 신한은행...'쏠' 얼굴 인증 띄웠다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=106889</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=106889</guid>
-            <pubDate>Wed, 15 Feb 2023 05:17:16 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202302/106889_129160_848_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
