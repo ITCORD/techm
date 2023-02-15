@@ -4,9 +4,17 @@
         <title>테크M ─ 이노베이션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Feb 2023 23:21:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Feb 2023 01:29:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[여기어때 "아시아 여행 수요 폭발...가격보다 '여행 욕구'"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=106870</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=106870</guid>
+            <pubDate>Wed, 15 Feb 2023 10:02:00 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202302/106870_129138_5727_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["개발자 없이 누구나"...토스페이먼츠, 노코드 서비스 '결제 위젯' 출시]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=106861</link>
@@ -110,14 +118,6 @@
             <pubDate>Wed, 08 Feb 2023 11:51:00 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202302/106609_128630_462_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김봉진·김상헌이 투자한 교양 웹툰 제작사 노틸러스, '주키즈' 손 잡고 베트남 진출]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=106558</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=106558</guid>
-            <pubDate>Tue, 07 Feb 2023 08:24:09 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202302/106558_128555_5235_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

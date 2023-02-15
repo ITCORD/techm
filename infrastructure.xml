@@ -4,9 +4,25 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Feb 2023 23:21:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Feb 2023 01:29:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[네이버 '인플루언서 서비스홈' 새단장…"창작자 손쉽게 찾자"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=106875</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=106875</guid>
+            <pubDate>Wed, 15 Feb 2023 10:15:00 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202302/106875_129146_139_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SK텔레콤, 통신데이터에 AI 더해 교통혼잡 해결한다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=106872</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=106872</guid>
+            <pubDate>Wed, 15 Feb 2023 10:14:00 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202302/106872_129140_351_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[LG유플러스가 당한 디도스 공격, 이례적 방식...전문가들 "코어망 보안투자 확대해야"]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=106858</link>
@@ -102,22 +118,6 @@
             <pubDate>Tue, 14 Feb 2023 00:09:00 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202302/106835_129117_5948_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NHN페이코 '금융 서비스 탭' 전면 개편...MZ 이용 편의성 키운다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=106833</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=106833</guid>
-            <pubDate>Tue, 14 Feb 2023 11:30:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202302/106833_129065_300_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['AI 대중화 시대' 맞이한 한국핀테크학회...동계학술대회 개최]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=106831</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=106831</guid>
-            <pubDate>Tue, 14 Feb 2023 11:28:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202302/106831_129064_2755_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
