@@ -4,9 +4,25 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Feb 2023 09:22:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Feb 2023 10:23:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[코인원에 다시 뜬 위믹스, 20분만에 56억원 규모 거래...2500원 내외 등락중]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=106971</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=106971</guid>
+            <pubDate>Thu, 16 Feb 2023 10:19:48 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202302/106971_129311_2054_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이정헌 넥슨코리아 대표, 넥슨 일본법인 등기이사 후보 선임]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=106970</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=106970</guid>
+            <pubDate>Thu, 16 Feb 2023 10:19:48 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202302/106970_129310_1534_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[넷마블, 버추얼 아이돌 '메이브' 오는 18일 지상파 음악방송 출연]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=106969</link>
@@ -150,22 +166,6 @@
             <pubDate>Thu, 16 Feb 2023 06:22:48 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202302/106943_129256_2610_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[플레이댑, P2P 네트워크 게임 서버 엔진 개발사 '넷텐션' 인수]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=106946</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=106946</guid>
-            <pubDate>Thu, 16 Feb 2023 06:22:48 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202302/106946_129259_3149_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[자금세탁방지센터 확장하는 코인원, AML 체계 내실화 속도]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=106949</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=106949</guid>
-            <pubDate>Thu, 16 Feb 2023 06:22:48 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202302/106949_129262_403_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
