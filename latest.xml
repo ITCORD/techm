@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Feb 2023 02:53:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Feb 2023 03:25:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인텔, 제온 워크스테이션 프로세서 출시]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=106938</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=106938</guid>
+            <pubDate>Thu, 16 Feb 2023 11:54:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202302/106938_129252_5256_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[SAP코리아, 메타넷글로벌 손잡고 공공 클라우드 혁신 나선다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=106937</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 16 Feb 2023 09:04:00 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202302/106915_129221_5714_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[통신3사 "세금고지서도 문자로 받으세요"...발송기관 인증 안심마크 적용]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=106916</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=106916</guid>
-            <pubDate>Thu, 16 Feb 2023 09:03:00 GMT</pubDate>
-            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202302/106916_129222_232_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
