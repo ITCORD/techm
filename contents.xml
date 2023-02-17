@@ -4,9 +4,17 @@
         <title>테크M ─ 콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Feb 2023 15:23:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Feb 2023 16:27:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['이번에도 매출 1위?'...원신, 3.5버전 '윈드블룸의 숨결' 3월1일 출격]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=107024</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=107024</guid>
+            <pubDate>Fri, 17 Feb 2023 16:23:58 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202302/107024_129415_2020_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[블록체인 소셜 공유 플랫폼 피블, 저작권 기반 AI 수익 창출 플랫폼으로 진화한다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=107023</link>
@@ -110,14 +118,6 @@
             <pubDate>Thu, 16 Feb 2023 09:18:28 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202302/106964_129290_47_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[문체부 '인앱수수료 제한 음악저작권료 조율' 결정에...업계 "지지"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=106963</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=106963</guid>
-            <pubDate>Thu, 16 Feb 2023 09:18:28 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202302/106963_129289_5120_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
