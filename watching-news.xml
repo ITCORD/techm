@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Feb 2023 15:19:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Feb 2023 16:26:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[게임코인TV] 위믹스의 코인원 재상장 둘러싼 말말말...기자들의 '뇌피셜' 예측은?' (하)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=107029</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=107029</guid>
+            <pubDate>Sat, 18 Feb 2023 16:26:45 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202302/107029_129428_4617_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 소니의 '플레이스테이션 VR2', 메타버스 시대를 엿보다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=107000</link>
@@ -110,14 +118,6 @@
             <pubDate>Mon, 06 Feb 2023 12:47:45 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202302/106512_128473_5555_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[게임코인TV] 불장 시작하나...인텔라X 본격 가동한 네오위즈]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=106455</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=106455</guid>
-            <pubDate>Fri, 03 Feb 2023 13:27:14 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202302/106455_128353_4753_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
