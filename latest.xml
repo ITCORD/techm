@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Feb 2023 22:20:18 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Feb 2023 23:22:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MWC 23] AI컴퍼니 SK텔레콤, MWC서 AI가 몰고 올 혁신 선보인다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=107020</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=107020</guid>
+            <pubDate>Sun, 19 Feb 2023 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202302/107020_129409_5540_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[연간 최대 120만원 적립...이마트 'TRADERS CLUB 삼성카드' 출시]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=107027</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 17 Feb 2023 06:23:16 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202302/106994_129349_2740_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[토종 블록체인 기술 기업 소셜인프라테크, 토큰증권 발행 플랫폼 '미닉 ST' 출시]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=107009</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=107009</guid>
-            <pubDate>Fri, 17 Feb 2023 06:23:16 GMT</pubDate>
-            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202302/107009_129385_581_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
