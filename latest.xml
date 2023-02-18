@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Feb 2023 03:21:59 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Feb 2023 05:18:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[IT진맥] 아직도 정부는 통신요금 내리라고 통신사를 옥죈다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=107026</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=107026</guid>
+            <pubDate>Sat, 18 Feb 2023 05:15:38 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202302/107026_129424_927_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[크립토 주간 브리핑] 가상자산 시장에 봄바람...비트코인·이더리움 급등에 위믹스는 재상장]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=107025</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 17 Feb 2023 06:23:16 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202302/107007_129383_5053_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[임시완·천우희 '스마트폰을 떨어뜨렸을 뿐인데', 넷플릭스에 뜬다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=107004</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=107004</guid>
-            <pubDate>Fri, 17 Feb 2023 06:23:16 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202302/107004_129376_3829_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
