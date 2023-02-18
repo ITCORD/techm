@@ -4,9 +4,17 @@
         <title>테크M ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Feb 2023 20:20:34 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Feb 2023 21:18:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[연간 최대 120만원 적립...이마트 'TRADERS CLUB 삼성카드' 출시]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=107027</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=107027</guid>
+            <pubDate>Sun, 19 Feb 2023 06:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202302/107027_129426_2248_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[IT기자의 캠핑 이야기] 트렌드 바뀐 캠핑 요리, 요즘은 '바비큐'보다 '그리들'이 대세]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=107015</link>
@@ -110,14 +118,6 @@
             <pubDate>Thu, 16 Feb 2023 07:19:22 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202302/106948_129261_3730_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[현대백화점그룹, 고객과 함께 '튀르키예 지진' 피해 복구 나섰다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=106947</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=106947</guid>
-            <pubDate>Thu, 16 Feb 2023 07:19:22 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202302/106947_129260_3310_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
