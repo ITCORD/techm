@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Feb 2023 04:26:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Feb 2023 05:22:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -725,6 +725,14 @@
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[그릭요거트부터 토핑까지...마켓컬리, 건강 잡을 기획전 개최 (테크M ─ 라이프)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=107034</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=107034</guid>
+            <pubDate>Sun, 19 Feb 2023 05:21:36 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202302/107034_129432_1314_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['프리즈 LA' 데뷔한 2023년형 LG 올레드 에보…"화질이 예술이네" (테크M ─ 라이프)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=107032</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=107032</guid>
@@ -827,14 +835,6 @@
             <pubDate>Fri, 17 Feb 2023 10:14:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202302/106981_129322_1418_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[농심, 아카시아꿀 양봉농가 육성 지원금 전달 (테크M ─ 라이프)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=106980</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=106980</guid>
-            <pubDate>Fri, 17 Feb 2023 10:12:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202302/106980_129321_1253_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[글로벌] 애플, 폴더블 관련 특허 취득...접는 아이폰·아이패드 드디어 나오나 (테크M ─ 리포트)]]></title>
