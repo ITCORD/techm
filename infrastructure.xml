@@ -4,9 +4,17 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Feb 2023 23:20:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Feb 2023 01:29:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[LG유플러스, 20대 전용 브랜드 '유쓰' 출시]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=107036</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=107036</guid>
+            <pubDate>Mon, 20 Feb 2023 10:06:00 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202302/107036_129434_5027_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[포스코ICT, '포스코DX'로 사명 바꾼다…로봇·물류 자동화 신사업 총력]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=107033</link>
@@ -110,14 +118,6 @@
             <pubDate>Fri, 17 Feb 2023 10:23:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202302/106985_129326_2330_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[안랩, 컨설팅 전문인력 키우는 '컨설팅본부 스쿨' 성료]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=106979</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=106979</guid>
-            <pubDate>Fri, 17 Feb 2023 10:10:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202302/106979_129320_1049_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
