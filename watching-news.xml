@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Feb 2023 07:20:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Feb 2023 08:27:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] STO 실무 세미나 개최, 'All about STO-STO의 모든 것']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=107077</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=107077</guid>
+            <pubDate>Mon, 20 Feb 2023 08:27:37 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202302/107077_129508_4913_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[게임코인TV] 위믹스의 코인원 재상장 둘러싼 말말말...기자들의 '뇌피셜' 예측은?' (하)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=107029</link>
@@ -110,14 +118,6 @@
             <pubDate>Tue, 07 Feb 2023 08:27:49 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202302/106549_128542_451_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 코난테크놀로지부터 플리토와 솔트룩스까지...'AI기술과 관련산업 인기']]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=106512</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=106512</guid>
-            <pubDate>Mon, 06 Feb 2023 12:47:45 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202302/106512_128473_5555_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
