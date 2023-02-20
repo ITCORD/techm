@@ -4,9 +4,17 @@
         <title>테크M ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Feb 2023 02:57:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Feb 2023 03:26:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["고급 한우 반값에 즐기자" 마켓컬리, 한우 최대 50% 할인]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=107048</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=107048</guid>
+            <pubDate>Mon, 20 Feb 2023 00:21:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202302/107048_129462_2149_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[삼성전자, 2023년형 네오 QLED·OLED 사전 판매]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=107045</link>
@@ -110,14 +118,6 @@
             <pubDate>Fri, 17 Feb 2023 10:21:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202302/106984_129325_2118_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["커피차 쏩니다" 쿠팡, 중소 뷰티 브랜드 응원 나섰다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=106983</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=106983</guid>
-            <pubDate>Fri, 17 Feb 2023 10:19:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202302/106983_129324_1854_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
