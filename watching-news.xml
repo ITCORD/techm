@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Feb 2023 08:28:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Feb 2023 09:20:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["온라인-오프라인 모두 뜨거웠다"...사진으로 보는 'STO의 모든 것' 실무 세미나]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=107123</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=107123</guid>
+            <pubDate>Tue, 21 Feb 2023 09:20:59 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202302/107123_129622_107_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] STO 실무 세미나 개최, 'All about STO-STO의 모든 것']]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=107077</link>
@@ -110,14 +118,6 @@
             <pubDate>Wed, 08 Feb 2023 08:25:44 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202302/106631_128656_34_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] AI 걸그룹 '메이브' 열풍, 뮤비 조회수 1000만 육박...넷마블 신사업 통했다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=106549</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=106549</guid>
-            <pubDate>Tue, 07 Feb 2023 08:27:49 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202302/106549_128542_451_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
