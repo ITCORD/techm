@@ -4,9 +4,17 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Feb 2023 05:20:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Feb 2023 06:25:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[KT클라우드 '공공 DaaS' CSAP 획득…"시장 공략 박차"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=107110</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=107110</guid>
+            <pubDate>Tue, 21 Feb 2023 06:23:01 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202302/107110_129562_409_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[SK쉴더스 '사이버가드' 랜섬웨어 피해 보상까지 지원한다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=107107</link>
@@ -110,14 +118,6 @@
             <pubDate>Mon, 20 Feb 2023 07:17:26 GMT</pubDate>
             <content:encoded><![CDATA[김가은 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202302/107075_129505_1247_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성페이-네이버페이 온·오프라인 결제 '맞손'…애플페이 견제 나섰다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=107074</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=107074</guid>
-            <pubDate>Mon, 20 Feb 2023 07:17:26 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202302/107074_129521_4329_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
