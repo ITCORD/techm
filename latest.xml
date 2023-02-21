@@ -4,9 +4,16 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Feb 2023 22:20:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Feb 2023 23:20:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[부고] 유승민(맥심코리아 대표)씨 부친상]]></title>
+            <link>https://www.techm.kr/news/articleList.html</link>
+            <guid>https://www.techm.kr/news/articleList.html</guid>
+            <pubDate>Wed, 22 Feb 2023 08:12:00 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA["온라인-오프라인 모두 뜨거웠다"...사진으로 보는 'STO의 모든 것' 실무 세미나]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=107123</link>
@@ -158,14 +165,6 @@
             <pubDate>Tue, 21 Feb 2023 06:22:26 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202302/107112_129616_054_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[STO 세미나] 정석문 코빗 리서치센터장 "토큰증권 목적, 자산유동화...블록체인 기능 잘 사용해야"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=107111</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=107111</guid>
-            <pubDate>Tue, 21 Feb 2023 06:22:26 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202302/107111_129618_121_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
