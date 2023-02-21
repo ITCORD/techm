@@ -4,9 +4,25 @@
         <title>테크M ─ 리포트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Feb 2023 01:31:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Feb 2023 02:55:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[글로벌] '바이러스 개발하겠다'는 빙 챗봇...MS, 문답 횟수 제한한다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=107090</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=107090</guid>
+            <pubDate>Tue, 21 Feb 2023 11:16:00 GMT</pubDate>
+            <content:encoded><![CDATA[김현기 대표]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202302/107090_129537_1524_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[글로벌] 테슬라, 美 경쟁사에 '슈퍼차저' 개방...9조원 보조금 때문?]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=107088</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=107088</guid>
+            <pubDate>Tue, 21 Feb 2023 11:13:00 GMT</pubDate>
+            <content:encoded><![CDATA[김현기 대표]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202302/107088_129535_1319_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[글로벌] 애플, 폴더블 관련 특허 취득...접는 아이폰·아이패드 드디어 나오나]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=107016</link>
@@ -102,22 +118,6 @@
             <pubDate>Thu, 09 Feb 2023 07:21:09 GMT</pubDate>
             <content:encoded><![CDATA[김현기 대표]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202302/106680_128728_475_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[글로벌] 바이두 "3월 AI 챗봇 출시"...美 AI 기술 경쟁에 뛰어든 中]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=106679</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=106679</guid>
-            <pubDate>Thu, 09 Feb 2023 07:21:09 GMT</pubDate>
-            <content:encoded><![CDATA[김현기 대표]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202302/106679_128726_4543_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[글로벌] 클롭 랜섬웨어 '변종' 발견...리눅스 랜섬웨어 피해 늘어]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=106678</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=106678</guid>
-            <pubDate>Thu, 09 Feb 2023 07:21:09 GMT</pubDate>
-            <content:encoded><![CDATA[김현기 대표]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202302/106678_128724_4425_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
