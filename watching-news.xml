@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Feb 2023 07:19:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Feb 2023 08:26:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] STO 실무 세미나 하이라이트, 온오프라인 모두 성공적 개최]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=107166</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=107166</guid>
+            <pubDate>Wed, 22 Feb 2023 08:26:49 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202302/107166_129677_3855_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["온라인-오프라인 모두 뜨거웠다"...사진으로 보는 'STO의 모든 것' 실무 세미나]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=107123</link>
@@ -110,14 +118,6 @@
             <pubDate>Fri, 10 Feb 2023 07:56:00 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202302/106683_128732_5625_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] SM엔터X카카오, IP사업 키운다...하이브X네이버에 '맞불']]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=106631</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=106631</guid>
-            <pubDate>Wed, 08 Feb 2023 08:25:44 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202302/106631_128656_34_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
