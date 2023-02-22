@@ -4,16 +4,24 @@
         <title>테크M ─ 콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Feb 2023 10:23:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Feb 2023 11:19:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[엔씨소프트, 아마존에 'TL' 글로벌 퍼블리싱 맡긴다...계약금 최소 500억 이상]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=107175</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=107175</guid>
+            <pubDate>Wed, 22 Feb 2023 11:16:23 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202302/107175_129706_5752_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[​LCK 브리핑] '통신사 더비' 화끈하게 붙는다...1위 T1 vs. 5연승 KT]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=107151</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=107151</guid>
             <pubDate>Wed, 22 Feb 2023 07:17:01 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202302/107151_129654_273_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202302/107151_129704_4343_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[K-예능 '붐업'...넷플릭스 '피지컬:100' 2주 연속 1위 수성]]></title>
@@ -110,14 +118,6 @@
             <pubDate>Fri, 17 Feb 2023 12:33:21 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202302/107023_129414_2014_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[위메이드, 레이어2 프로젝트 가동...'위믹스 캔버스' 공개]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=107014</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=107014</guid>
-            <pubDate>Fri, 17 Feb 2023 08:22:35 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202302/107014_129391_143_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
