@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Feb 2023 04:24:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Feb 2023 05:19:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[하이브, 이수만 지분 14.8% 확보…SM·이수만은 법정다툼 돌입 (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=107154</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=107154</guid>
+            <pubDate>Wed, 22 Feb 2023 05:16:49 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202302/107154_129659_5729_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[정부 압박에 4만원대 '무제한 5G' 내놓은 LG U+…KT도 신규 요금제 출시 검토 (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=107153</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=107153</guid>
+            <pubDate>Wed, 22 Feb 2023 05:16:49 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202302/107153_129658_5253_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["슬램덩크 열풍, 쿠팡은 거들뿐"...한국프로농구 레플리카 유니폼 판매 (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=107152</link>
@@ -152,21 +168,6 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202302/107133_129623_5530_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[부고] 유승민(맥심코리아 대표)씨 부친상 (테크M ─ 전체기사)]]></title>
-            <link>https://ITCORD.github.io/techm/all.xml</link>
-            <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Wed, 22 Feb 2023 08:12:00 GMT</pubDate>
-            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA["온라인-오프라인 모두 뜨거웠다"...사진으로 보는 'STO의 모든 것' 실무 세미나 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=107123</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=107123</guid>
-            <pubDate>Tue, 21 Feb 2023 09:17:54 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202302/107123_129622_107_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[K-예능 '붐업'...넷플릭스 '피지컬:100' 2주 연속 1위 수성 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=107144</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=107144</guid>
@@ -279,6 +280,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202302/106999_129355_1315_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[정부 압박에 4만원대 '무제한 5G' 내놓은 LG U+…KT도 신규 요금제 출시 검토 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=107153</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=107153</guid>
+            <pubDate>Wed, 22 Feb 2023 05:17:26 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202302/107153_129658_5253_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[효성인포메이션시스템 'DX센터 시즌3' 오픈..."AI·데이터 기반 DX 로드맵 제시" (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=107147</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=107147</guid>
@@ -381,14 +390,6 @@
             <pubDate>Tue, 21 Feb 2023 06:22:26 GMT</pubDate>
             <content:encoded><![CDATA[김가은 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202302/107110_129562_409_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SK쉴더스 '사이버가드' 랜섬웨어 피해 보상까지 지원한다 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=107107</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=107107</guid>
-            <pubDate>Tue, 21 Feb 2023 05:17:02 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202302/107107_129558_1227_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2023년 로드맵 공개한 '라인 블록체인'...퍼블릭 체인 운영부터 상장까지 '박차' (테크M ─ 이노베이션)]]></title>
@@ -503,6 +504,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202302/107002_129371_288_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[하이브, 이수만 지분 14.8% 확보…SM·이수만은 법정다툼 돌입 (테크M ─ 인베스트먼트)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=107154</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=107154</guid>
+            <pubDate>Wed, 22 Feb 2023 05:17:54 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202302/107154_129659_5729_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[美 상장 계획 부인한 두나무 "전혀 사실 아냐...구체적 계획없다" (테크M ─ 인베스트먼트)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=107143</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=107143</guid>
@@ -605,14 +614,6 @@
             <pubDate>Tue, 21 Feb 2023 07:16:14 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202302/107117_129612_5827_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[STO 세미나] 정의헌 람다256 CPO "루니버스 STO로 발행 유통, 사업화 통합 지원" (테크M ─ 인베스트먼트)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=107113</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=107113</guid>
-            <pubDate>Tue, 21 Feb 2023 07:16:14 GMT</pubDate>
-            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202302/107113_129615_022_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[포티투닷, 최진희 부대표 선임..."글로벌 SW 역량 강화 집중" (테크M ─ 피플)]]></title>
