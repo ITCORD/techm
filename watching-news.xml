@@ -4,9 +4,16 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Feb 2023 08:26:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Feb 2023 09:21:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[게임코인TV] 드디어 베일 벗는다...엔씨가 발표할 신작게임 TL]]></title>
+            <link>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN10&amp;view_type=sm</link>
+            <guid>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN10&amp;view_type=sm</guid>
+            <pubDate>Thu, 23 Feb 2023 09:21:21 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] LG유플러스, 메타버스 키즈토피아 출시 '알파세대는 놀면서 공부도 한다']]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=107204</link>
@@ -110,14 +117,6 @@
             <pubDate>Tue, 14 Feb 2023 06:26:01 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202302/106842_129075_171_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 신년 가상자산 특별 간담회 개최, 2023년 업계 흐름 알아보다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=106802</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=106802</guid>
-            <pubDate>Mon, 13 Feb 2023 08:26:55 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202302/106802_128997_2447_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
