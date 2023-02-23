@@ -4,9 +4,17 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Feb 2023 07:19:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Feb 2023 08:26:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[구글은 한국의 문화 파트너..."기술과 예술 만남, 국경 넘나들어"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=107209</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=107209</guid>
+            <pubDate>Thu, 23 Feb 2023 08:24:09 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202302/107209_129762_2442_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['디지코'로 쌓은 최대 실적도 '외풍'은 못 견뎌...구현모 KT 대표 결국 연임 포기(종합)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=107205</link>
@@ -110,14 +118,6 @@
             <pubDate>Thu, 23 Feb 2023 09:53:00 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202302/107185_129723_5216_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성전자 '빅스비' 맞춤형 기능 업데이트…"글로 써주면 내 목소리로 전달"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=107184</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=107184</guid>
-            <pubDate>Thu, 23 Feb 2023 09:47:00 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202302/107184_129722_4643_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
