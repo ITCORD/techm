@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Feb 2023 22:19:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Feb 2023 23:23:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -616,6 +616,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202302/107124_129610_5734_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[템터뷰] 드라이브스루 하이패스 결제 도입한 맥도날드 "기술로 고객이 더 편하게" (테크M ─ 피플)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=107215</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=107215</guid>
+            <pubDate>Fri, 24 Feb 2023 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202302/107215_129776_75_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[테크M 피플] 배재현·정신아 띄우는 카카오...'투자·벤처 전문가'로 불황 넘는다 (테크M ─ 피플)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=107177</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=107177</guid>
@@ -717,14 +725,6 @@
             <pubDate>Tue, 14 Feb 2023 11:28:00 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202302/106830_129063_2658_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국가대표 후보된 박지민 "지난 선발전 패배 아쉬워 이 악물었다" (테크M ─ 피플)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=106766</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=106766</guid>
-            <pubDate>Sun, 12 Feb 2023 12:30:41 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202302/106766_128944_3454_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[리빙으로 판 키우는 컬리...봄맞이 이벤트 나섰다 (테크M ─ 라이프)]]></title>
