@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Feb 2023 06:26:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Feb 2023 07:19:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] LG유플러스, 메타버스 키즈토피아 출시 '알파세대는 놀면서 공부도 한다']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=107204</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=107204</guid>
+            <pubDate>Thu, 23 Feb 2023 07:19:28 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202302/107204_129746_4317_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[게임코인TV] 새판짜기 돌입한 클레이튼...'제로 리저브' 향해 간다?]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=107172</link>
@@ -110,14 +118,6 @@
             <pubDate>Mon, 13 Feb 2023 08:26:55 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202302/106802_128997_2447_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 엔씨소프트, AI 규모 확장한다 '게임 제작부터 디지털 휴먼까지']]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=106746</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=106746</guid>
-            <pubDate>Fri, 10 Feb 2023 06:27:03 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202302/106746_128854_155_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
