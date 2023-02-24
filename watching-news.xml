@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Feb 2023 06:26:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Feb 2023 07:18:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 마이리얼트립, 'AI 여행플래너' 서비스 출시]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=107240</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=107240</guid>
+            <pubDate>Fri, 24 Feb 2023 07:18:50 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202302/107240_129816_3838_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[게임코인TV] 드디어 베일 벗는다...엔씨가 발표할 신작게임 TL]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=107212</link>
@@ -110,14 +118,6 @@
             <pubDate>Tue, 14 Feb 2023 12:40:06 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202302/106862_129120_2349_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 위메이드 '위믹스'의 재도전...국내 원화마켓 거래소 상장 추진]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=106842</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=106842</guid>
-            <pubDate>Tue, 14 Feb 2023 06:26:01 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202302/106842_129075_171_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
