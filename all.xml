@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Feb 2023 22:21:12 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Feb 2023 23:20:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -280,6 +280,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202302/107178_129710_4843_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[MWC 23] KT, MWC서 AI반도체·로봇·차세대 네트워크 솔루션 선보인다 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=107254</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=107254</guid>
+            <pubDate>Sun, 26 Feb 2023 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202302/107254_129874_55_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[클라우드로 실적 숨 고른 한컴…"쌓아둔 현금, 글로벌 M&A 승부수 던진다" (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=107248</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=107248</guid>
@@ -382,14 +390,6 @@
             <pubDate>Thu, 23 Feb 2023 07:16:35 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202302/107205_129765_3935_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[구현모 KT 대표, 연임 포기..."3월 주총 끝으로 사퇴" (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=107203</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=107203</guid>
-            <pubDate>Thu, 23 Feb 2023 06:22:35 GMT</pubDate>
-            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202302/107203_129745_156_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["기업간 경쟁, 소비자 선택지 늘려"...업계 '자율규제' 한목소리 (테크M ─ 이노베이션)]]></title>
