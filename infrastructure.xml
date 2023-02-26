@@ -4,9 +4,17 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Feb 2023 03:01:40 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Feb 2023 03:32:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[망법 개정으로 힘 받은 KISA…"기업 침해사고 제대로 잡는다"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=107256</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=107256</guid>
+            <pubDate>Sun, 26 Feb 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202302/107256_129850_322_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[MWC 23] 삼성전자 '가상화' 무기로 차세대 네트워크 시장 선도…"변화의 중심은 소프트웨어"]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=107272</link>
@@ -110,14 +118,6 @@
             <pubDate>Fri, 24 Feb 2023 08:24:20 GMT</pubDate>
             <content:encoded><![CDATA[김가은 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202302/107243_129832_2524_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[디도스 공격 받은 가비아…접속 장애로 고객사 홈페이지 '먹통']]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=107229</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=107229</guid>
-            <pubDate>Fri, 24 Feb 2023 11:33:00 GMT</pubDate>
-            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202302/107229_129806_2148_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
