@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Feb 2023 14:21:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Feb 2023 15:21:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[PWS 통신] 정규시즌의 벽은 높았다...프로팀들 상위권 독식]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=107340</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=107340</guid>
+            <pubDate>Mon, 27 Feb 2023 15:19:06 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202302/107340_130026_4733_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[MWC 23] 화웨이 9000㎡ 초대형 부스로 존재감 과시…"5.5G부터 6G까지 준비 만반"]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=107338</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 27 Feb 2023 05:17:34 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202302/107313_129955_118_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['대륙의 강자' 넥슨, 中 텐센트와 맞손...메이플스토리M 중국 서비스]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=107312</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=107312</guid>
-            <pubDate>Mon, 27 Feb 2023 05:17:34 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202302/107312_129980_3952_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
