@@ -4,16 +4,24 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Feb 2023 07:19:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Feb 2023 08:29:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[네이버 데뷰2023] 네이버의 AI 자신감 "챗GPT보다 한국어 6500배 학습"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=107326</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=107326</guid>
+            <pubDate>Mon, 27 Feb 2023 08:25:32 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202302/107326_129975_3827_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[네이버 데뷰2023] "실수 있어도 오류는 없다" 클로바 OCR 모델이 국제대회 휩쓴 비결]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=107319</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=107319</guid>
             <pubDate>Mon, 27 Feb 2023 07:18:00 GMT</pubDate>
             <content:encoded><![CDATA[김가은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202302/107319_129962_2057_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202302/107319_129974_389_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[MWC 23] 삼성전자 '2030 부산엑스포' 유치 홍보 나섰다]]></title>
@@ -61,7 +69,7 @@
             <guid>https://www.techm.kr/news/articleView.html?idxno=107311</guid>
             <pubDate>Mon, 27 Feb 2023 06:24:29 GMT</pubDate>
             <content:encoded><![CDATA[김가은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202302/107311_129951_3110_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202302/107311_129976_3835_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[블로코-베스핀글로벌, '토큰증권' 사업 활성화 손잡았다]]></title>
@@ -110,14 +118,6 @@
             <pubDate>Mon, 27 Feb 2023 10:00:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202302/107292_129919_021_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['AI 상용화 초읽기' 한국판 챗GPT...네이버-카카오 통해 대중화 꿈꾼다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=107283</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=107283</guid>
-            <pubDate>Mon, 27 Feb 2023 10:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202302/107283_129907_316_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
