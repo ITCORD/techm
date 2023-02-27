@@ -4,9 +4,17 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Feb 2023 06:26:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Feb 2023 07:19:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[네이버 데뷰2023] "실수 있어도 오류는 없다" 클로바 OCR 모델이 국제대회 휩쓴 비결]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=107319</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=107319</guid>
+            <pubDate>Mon, 27 Feb 2023 07:18:00 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202302/107319_129962_2057_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[MWC 23] 삼성전자 '2030 부산엑스포' 유치 홍보 나섰다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=107318</link>
@@ -110,14 +118,6 @@
             <pubDate>Mon, 27 Feb 2023 10:00:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202302/107283_129907_316_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["최대 3억원 지원" KT, 함께 성장할 'AI·클라우드' 스타트업 모집]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=107289</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=107289</guid>
-            <pubDate>Mon, 27 Feb 2023 09:56:00 GMT</pubDate>
-            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202302/107289_129916_5423_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
