@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Feb 2023 20:22:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Feb 2023 22:20:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MWC 23] "망 사용료 받겠다고? 콘텐츠 투자 비용 낼텐가"...통신사 축제서 카운터펀치 날린 넷플릭스 새 CEO (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=107400</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=107400</guid>
+            <pubDate>Wed, 01 Mar 2023 07:07:00 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202303/107400_130141_544_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[같이사소] 3월 3일 삼겹살데이...쿠팡-마켓컬리-티몬으로 준비하자 (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=107362</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=107362</guid>
+            <pubDate>Wed, 01 Mar 2023 05:30:00 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202302/107362_130064_528_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[프라시아 전기 vs 아키에이지 워...넥슨-카카오게임즈, MMO로 제대로 붙는다 (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=107382</link>
@@ -152,22 +168,6 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202302/107377_130089_1453_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[상생 금융 이뤄낸 토스뱅크...중저신용자 대출 비중 40% 넘었다 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=107376</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=107376</guid>
-            <pubDate>Tue, 28 Feb 2023 08:25:57 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202302/107376_130074_443_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[게임 오류낸 컴투스...법원 "이용자에게 최대 200만원 배상" (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=107375</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=107375</guid>
-            <pubDate>Tue, 28 Feb 2023 07:18:18 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202302/107375_130073_3519_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[프라시아 전기 vs 아키에이지 워...넥슨-카카오게임즈, MMO로 제대로 붙는다 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=107382</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=107382</guid>
@@ -280,6 +280,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202302/107340_130026_4733_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[MWC 23] "망 사용료 받겠다고? 콘텐츠 투자 비용 낼텐가"...통신사 축제서 카운터펀치 날린 넷플릭스 새 CEO (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=107400</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=107400</guid>
+            <pubDate>Wed, 01 Mar 2023 07:07:00 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202303/107400_130141_544_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[MWC 23] 갤럭시 S23 '괴물 카메라' 잡아라…中 제조사 추격 혈안 (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=107397</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=107397</guid>
@@ -382,14 +390,6 @@
             <pubDate>Tue, 28 Feb 2023 06:25:19 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202302/107371_130069_266_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[네이버 데뷰2023] "정답·탐색·반응·발견"...네이버 검색의 新무기 들여다보니 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=107366</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=107366</guid>
-            <pubDate>Tue, 28 Feb 2023 05:17:40 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202302/107366_130077_5729_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2월에도 '반도체 한파'는 현재진행형...D램 가격 1달러대 유지 (테크M ─ 이노베이션)]]></title>
