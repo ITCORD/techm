@@ -4,9 +4,17 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Feb 2023 03:29:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Feb 2023 04:25:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MWC 23] "몽골 이어 필리핀 DX도 돕는다" KT, 컨버지와 글로벌 사업 확장 박차]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=107353</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=107353</guid>
+            <pubDate>Tue, 28 Feb 2023 00:43:00 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202302/107353_130040_5144_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["산업현장 DX 주도" LG U+, 토탈 스마트팩토리 솔루션 선보인다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=107344</link>
@@ -110,14 +118,6 @@
             <pubDate>Mon, 27 Feb 2023 08:25:32 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202302/107326_129975_3827_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[네이버 데뷰2023] "실수 있어도 오류는 없다" 클로바 OCR 모델이 국제대회 휩쓴 비결]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=107319</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=107319</guid>
-            <pubDate>Mon, 27 Feb 2023 07:18:00 GMT</pubDate>
-            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202302/107319_129974_389_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
