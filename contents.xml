@@ -4,9 +4,17 @@
         <title>테크M ─ 콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Feb 2023 14:23:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Feb 2023 15:22:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[PWS 통신] 더욱 날카로워진 공격력 선보인 DK, 1주차 우승]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=107391</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=107391</guid>
+            <pubDate>Tue, 28 Feb 2023 15:19:29 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202302/107391_130120_121_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[게임 오류낸 컴투스...법원 "이용자에게 최대 200만원 배상"]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=107375</link>
@@ -110,14 +118,6 @@
             <pubDate>Mon, 27 Feb 2023 04:22:23 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202302/107308_129946_1412_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[디지털자산기본법 또 '패싱'...규제 공백에 투자자 피해 우려]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=107307</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=107307</guid>
-            <pubDate>Mon, 27 Feb 2023 04:22:23 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202302/107307_129972_3710_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
