@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Feb 2023 18:25:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Feb 2023 19:18:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MWC 23] "갤Z플립 신제품인줄"…中 오포 '파인드 N2 플립' 만져보니]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=107396</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=107396</guid>
+            <pubDate>Wed, 01 Mar 2023 03:41:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202303/107396_130130_364_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[MWC 23] 그렉 피터스 넷플릭스 CEO "망사용료는 이중청구...CP-ISP 양자택일 할 문제 아냐"]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=107394</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 28 Feb 2023 06:25:18 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202302/107369_130082_19_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[패스트캠퍼스-플러스엑스 'PLUS X SHARE X', BX 디자인 강의 론칭]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=107371</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=107371</guid>
-            <pubDate>Tue, 28 Feb 2023 06:25:19 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202302/107371_130069_266_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
