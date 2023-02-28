@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Feb 2023 07:21:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Feb 2023 08:28:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] SK텔레콤, '이프랜드'에 NFT마켓 도입한다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=107378</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=107378</guid>
+            <pubDate>Tue, 28 Feb 2023 08:28:23 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202302/107378_130093_411_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] MWC2023, 국가대표 ICT 기업 총출동 '통신넘어 AI 역량 뽐내다']]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=107331</link>
@@ -110,14 +118,6 @@
             <pubDate>Wed, 15 Feb 2023 13:30:26 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202302/106912_129203_1826_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 메타버스 본디, 일이용자 100만 돌파]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=106894</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=106894</guid>
-            <pubDate>Wed, 15 Feb 2023 06:26:31 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202302/106894_129165_2041_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
