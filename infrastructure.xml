@@ -4,9 +4,17 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Mar 2023 01:43:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Mar 2023 03:02:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MWC 23] LG유플러스, 노키아와 '오픈랜 테스트베드' 구축한다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=107411</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=107411</guid>
+            <pubDate>Wed, 01 Mar 2023 11:54:00 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202303/107411_130159_1939_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[MWC 23] 메타버스 연합군 꾸린 SKT…이프랜드로 미주·유럽·동남아 본격 진출]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=107408</link>
@@ -110,14 +118,6 @@
             <pubDate>Tue, 28 Feb 2023 10:21:11 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202302/107385_130115_4144_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[MWC 23] 한종희 삼성전자 부회장 "다음엔 갤럭시로 금성 찍자"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=107384</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=107384</guid>
-            <pubDate>Tue, 28 Feb 2023 10:21:11 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202302/107384_130114_413_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
