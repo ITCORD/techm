@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Mar 2023 10:22:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Mar 2023 11:19:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MWC 23] 화면 접고 늘리고…모바일 디바이스 '폼팩터 혁신' 계속된다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=107416</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=107416</guid>
+            <pubDate>Wed, 01 Mar 2023 11:16:15 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202303/107416_130177_3614_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[MWC 23] GSMA 선정 '최고의 스마트폰'은 애플 '아이폰 14 프로']]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=107415</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 01 Mar 2023 05:15:00 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202302/107382_130108_4220_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[LCK 브리핑] 2연패 당한 KT 롤스터, 자력으로 PO 확정짓나]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=107355</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=107355</guid>
-            <pubDate>Wed, 01 Mar 2023 05:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202302/107355_130049_2228_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
