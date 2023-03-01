@@ -4,9 +4,17 @@
         <title>테크M ─ 콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Mar 2023 03:02:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Mar 2023 03:36:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[봤다] "실제와 상상의 조화" 삼일절, 정주행하기 좋은 역사 웹툰 모음.zip]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=107413</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=107413</guid>
+            <pubDate>Wed, 01 Mar 2023 00:21:00 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202303/107413_130163_610_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[프라시아 전기 vs 아키에이지 워...넥슨-카카오게임즈, MMO로 제대로 붙는다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=107382</link>
@@ -110,14 +118,6 @@
             <pubDate>Tue, 28 Feb 2023 10:26:00 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202302/107348_130035_196_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[PWS 통신] 정규시즌의 벽은 높았다...프로팀들 상위권 독식]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=107340</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=107340</guid>
-            <pubDate>Mon, 27 Feb 2023 15:19:24 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202302/107340_130026_4733_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
