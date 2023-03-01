@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Mar 2023 15:22:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Mar 2023 16:28:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MWC 23] 'XR 시대' 갈 길 멀다?…전문가들 "5G·AI 융합이 앞당길 것" (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=107420</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=107420</guid>
+            <pubDate>Thu, 02 Mar 2023 01:04:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202303/107420_130189_551_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[MWC 23] MWC에도 '웹3' '디파이' 바람 분다...더샌드박스·딤플·코인베이스 등 참여 (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=107421</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=107421</guid>
+            <pubDate>Wed, 01 Mar 2023 16:26:00 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202303/107421_130186_499_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[MWC 23] AI 피팅부터 교육 플랫폼, VR 여행 솔루션까지...K스타트업도 글로벌 '노크' (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=107419</link>
@@ -152,22 +168,6 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202303/107407_130148_5237_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA["3년 뒤면 700조 빅뱅" 유통 빅3 올라선 쿠팡...'이마롯쿠' 무한경쟁 개막 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=107406</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=107406</guid>
-            <pubDate>Wed, 01 Mar 2023 09:50:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202303/107406_130146_506_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[MWC 23] "망 사용료 받겠다고? 콘텐츠 투자 비용 낼텐가"...통신사 축제서 카운터펀치 날린 넷플릭스 새 CEO (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=107400</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=107400</guid>
-            <pubDate>Wed, 01 Mar 2023 07:07:00 GMT</pubDate>
-            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202303/107400_130141_544_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[봤다] "실제와 상상의 조화" 삼일절, 정주행하기 좋은 역사 웹툰 모음.zip (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=107413</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=107413</guid>
@@ -280,6 +280,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202302/107348_130035_196_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[MWC 23] 'XR 시대' 갈 길 멀다?…전문가들 "5G·AI 융합이 앞당길 것" (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=107420</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=107420</guid>
+            <pubDate>Thu, 02 Mar 2023 01:04:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202303/107420_130189_551_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[MWC 23] 토종 SW 자존심 한컴, 'SDK' 앞세워 글로벌 시장 공략 (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=107417</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=107417</guid>
@@ -384,12 +392,12 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202303/107396_130130_364_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[MWC 23] 그렉 피터스 넷플릭스 CEO "망사용료는 이중청구...CP-ISP 양자택일 할 문제 아냐" (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=107394</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=107394</guid>
-            <pubDate>Wed, 01 Mar 2023 02:36:00 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202303/107394_130126_2933_v150.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[MWC 23] MWC에도 '웹3' '디파이' 바람 분다...더샌드박스·딤플·코인베이스 등 참여 (테크M ─ 이노베이션)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=107421</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=107421</guid>
+            <pubDate>Wed, 01 Mar 2023 16:26:54 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202303/107421_130186_499_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[MWC 23] AI 피팅부터 교육 플랫폼, VR 여행 솔루션까지...K스타트업도 글로벌 '노크' (테크M ─ 이노베이션)]]></title>
@@ -494,14 +502,6 @@
             <pubDate>Wed, 22 Feb 2023 09:18:40 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202302/107156_129664_225_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[AI 대표 기업들 만난 이종호 과기정통부 "챗GPT, AI 일상화 신호탄...총력 대응" (테크M ─ 이노베이션)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=107163</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=107163</guid>
-            <pubDate>Wed, 22 Feb 2023 08:22:51 GMT</pubDate>
-            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202302/107163_129675_1949_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[크립토 월간 브리핑] 다시 오른 비트코인...재상장·제로 리저브로 뜨거운 K코인 (테크M ─ 인베스트먼트)]]></title>
