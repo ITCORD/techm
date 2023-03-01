@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Mar 2023 09:23:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Mar 2023 10:22:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MWC 23] GSMA 선정 '최고의 스마트폰'은 애플 '아이폰 14 프로']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=107415</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=107415</guid>
+            <pubDate>Wed, 01 Mar 2023 10:20:23 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202303/107415_130175_173_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[크립토 월간 브리핑] 다시 오른 비트코인...재상장·제로 리저브로 뜨거운 K코인]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=107414</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 01 Mar 2023 05:00:00 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202302/107355_130049_2228_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[MWC 23] 갤럭시 S23 '괴물 카메라' 잡아라…中 제조사 추격 혈안]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=107397</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=107397</guid>
-            <pubDate>Wed, 01 Mar 2023 04:57:00 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202303/107397_130134_4515_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
