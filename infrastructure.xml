@@ -4,9 +4,17 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Mar 2023 01:40:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Mar 2023 02:57:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MWC 23] KT-인텔, 와이파이 7 생태계 조성 '맞손']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=107433</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=107433</guid>
+            <pubDate>Thu, 02 Mar 2023 10:43:00 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202303/107433_130215_3756_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[MWC 23] LGU+, HPE와 AI 기반 오픈랜 운영 자동화 기술 개발한다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=107431</link>
@@ -110,14 +118,6 @@
             <pubDate>Wed, 01 Mar 2023 00:22:00 GMT</pubDate>
             <content:encoded><![CDATA[김가은 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202303/107410_130154_122_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[MWC 23] LG유플러스, 노키아와 '오픈랜 테스트베드' 구축한다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=107411</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=107411</guid>
-            <pubDate>Wed, 01 Mar 2023 11:54:00 GMT</pubDate>
-            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202303/107411_130159_1939_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
