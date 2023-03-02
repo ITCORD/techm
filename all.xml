@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Mar 2023 09:21:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Mar 2023 10:22:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] MWC2023, XR과 5G·AI가 만나다 (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=107460</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=107460</guid>
+            <pubDate>Thu, 02 Mar 2023 10:19:52 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202303/107460_130255_1653_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[IT진맥] "도대체 어떻게 더 공정하게 하란 말이죠?"...CEO '외풍'에 흔들리는 KT (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=107459</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=107459</guid>
+            <pubDate>Thu, 02 Mar 2023 10:19:52 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202303/107459_130267_2219_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[KT 차기대표 후보에 '쓴소리' 뱉은 대통령실·여당…"공정·투명한 거버넌스 필요" (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=107457</link>
@@ -152,22 +168,6 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202303/107437_130240_240_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[타다, 함께 타고 요금 'N분의 1' 나눠 정산한다 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=107439</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=107439</guid>
-            <pubDate>Thu, 02 Mar 2023 05:17:17 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202303/107439_130224_3453_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[네이버클라우드, 인도네시아에 통신용 클라우드 구축 나섰다 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=107438</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=107438</guid>
-            <pubDate>Thu, 02 Mar 2023 05:17:17 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202303/107438_130220_3327_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA["무엇이든 물어보세요"...위메이드, 위믹스 AMA 오는 15일 개최 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=107453</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=107453</guid>
@@ -280,10 +280,18 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202302/107369_130082_19_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[IT진맥] "도대체 어떻게 더 공정하게 하란 말이죠?"...CEO '외풍'에 흔들리는 KT (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=107459</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=107459</guid>
+            <pubDate>Thu, 02 Mar 2023 10:20:29 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202303/107459_130267_2219_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[KT 차기대표 후보에 '쓴소리' 뱉은 대통령실·여당…"공정·투명한 거버넌스 필요" (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=107457</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=107457</guid>
-            <pubDate>Thu, 02 Mar 2023 09:19:06 GMT</pubDate>
+            <pubDate>Thu, 02 Mar 2023 09:18:28 GMT</pubDate>
             <content:encoded><![CDATA[김가은 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202303/107457_130254_4722_v150.jpg" length="0" type="image/jpg"/>
         </item>
@@ -291,7 +299,7 @@
             <title><![CDATA[[MWC 23] 화웨이 "글로벌 ICT 선도하는 한국과 중국 기업, 더 많이 협력해야" (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=107398</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=107398</guid>
-            <pubDate>Thu, 02 Mar 2023 09:19:06 GMT</pubDate>
+            <pubDate>Thu, 02 Mar 2023 09:18:28 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202303/107398_130139_213_v150.jpg" length="0" type="image/jpg"/>
         </item>
@@ -299,7 +307,7 @@
             <title><![CDATA["주식회사 맞아요?" KT CEO 혼선에 증권가도 "매수 금지" (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=107456</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=107456</guid>
-            <pubDate>Thu, 02 Mar 2023 09:19:06 GMT</pubDate>
+            <pubDate>Thu, 02 Mar 2023 09:18:28 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202303/107456_130253_3812_v150.jpg" length="0" type="image/jpg"/>
         </item>
@@ -382,14 +390,6 @@
             <pubDate>Thu, 02 Mar 2023 10:30:00 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202303/107432_130213_2816_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["디자인·용량·기능 다 바꿨다"…삼성전자, 2023년형 '비스포크 에어드레서' 출시 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=107427</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=107427</guid>
-            <pubDate>Thu, 02 Mar 2023 10:07:00 GMT</pubDate>
-            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202303/107427_130202_459_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['돈 버는 유니콘' 여기어때 "4년 연속 흑자 달성" (테크M ─ 이노베이션)]]></title>
@@ -952,6 +952,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202302/107018_129406_2936_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[카드뉴스] MWC2023, XR과 5G·AI가 만나다 (테크M ─ 보는 뉴스)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=107460</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=107460</guid>
+            <pubDate>Thu, 02 Mar 2023 10:22:11 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202303/107460_130255_1653_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[카드뉴스] SK텔레콤, '이프랜드'에 NFT마켓 도입한다 (테크M ─ 보는 뉴스)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=107378</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=107378</guid>
@@ -1054,14 +1062,6 @@
             <pubDate>Thu, 16 Feb 2023 07:16:42 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202302/106957_129272_4710_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[게임코인TV] 바이낸스가 인수한다고?...고팍스의 운명은? (테크M ─ 보는 뉴스)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=106912</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=106912</guid>
-            <pubDate>Wed, 15 Feb 2023 13:27:14 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202302/106912_129203_1826_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,25 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Mar 2023 09:21:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Mar 2023 10:22:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] MWC2023, XR과 5G·AI가 만나다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=107460</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=107460</guid>
+            <pubDate>Thu, 02 Mar 2023 10:19:52 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202303/107460_130255_1653_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[IT진맥] "도대체 어떻게 더 공정하게 하란 말이죠?"...CEO '외풍'에 흔들리는 KT]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=107459</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=107459</guid>
+            <pubDate>Thu, 02 Mar 2023 10:19:52 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202303/107459_130267_2219_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[KT 차기대표 후보에 '쓴소리' 뱉은 대통령실·여당…"공정·투명한 거버넌스 필요"]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=107457</link>
@@ -150,22 +166,6 @@
             <pubDate>Thu, 02 Mar 2023 05:17:17 GMT</pubDate>
             <content:encoded><![CDATA[김가은 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202303/107437_130240_240_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[타다, 함께 타고 요금 'N분의 1' 나눠 정산한다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=107439</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=107439</guid>
-            <pubDate>Thu, 02 Mar 2023 05:17:17 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202303/107439_130224_3453_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[네이버클라우드, 인도네시아에 통신용 클라우드 구축 나섰다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=107438</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=107438</guid>
-            <pubDate>Thu, 02 Mar 2023 05:17:17 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202303/107438_130220_3327_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
