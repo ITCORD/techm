@@ -4,9 +4,17 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Mar 2023 07:20:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Mar 2023 08:25:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MWC 23] "네트워크·데이터센터 혁신 주도" 화웨이, 신규 솔루션 발표]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=107523</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=107523</guid>
+            <pubDate>Fri, 03 Mar 2023 08:22:50 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202303/107523_130407_2128_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[LG전자, 전국 서비스센터에 '디지털휴먼 수어 안내' 도입]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=107516</link>
@@ -110,14 +118,6 @@
             <pubDate>Fri, 03 Mar 2023 09:55:00 GMT</pubDate>
             <content:encoded><![CDATA[김가은 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202303/107480_130334_3935_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이종호 과학기술정보통신부 장관, 망고부스트 DPU 연구현장 방문]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=107478</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=107478</guid>
-            <pubDate>Fri, 03 Mar 2023 09:35:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202303/107478_130332_3518_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Mar 2023 07:20:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Mar 2023 08:25:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] MWC 23, K-에듀 우수성 알렸다 '웅진씽크빅'과 '넥스트메타' 주목]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=107524</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=107524</guid>
+            <pubDate>Fri, 03 Mar 2023 08:25:15 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202303/107524_130409_5418_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] MWC2023, XR과 5G·AI가 만나다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=107460</link>
@@ -110,14 +118,6 @@
             <pubDate>Fri, 17 Feb 2023 01:17:00 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202302/106972_129312_1532_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 카카오엔터프라이즈, 교보생명에 AI 고객센터 열다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=106957</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=106957</guid>
-            <pubDate>Thu, 16 Feb 2023 07:19:52 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202302/106957_129272_4710_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
