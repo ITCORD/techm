@@ -4,9 +4,25 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Mar 2023 04:48:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Mar 2023 05:23:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['CNAPP' 띄운 아쿠아시큐리티…"클라우드 물샐틈없이 막는다"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=107500</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=107500</guid>
+            <pubDate>Fri, 03 Mar 2023 05:21:04 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202303/107500_130365_94_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[인터체인 플랫폼 '하바', 블록체인 게임 플랫폼 '이스크라'와 파트너십]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=107499</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=107499</guid>
+            <pubDate>Fri, 03 Mar 2023 05:21:04 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202303/107499_130364_4136_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["K팝 저작권 지킨다"...한국저작권보호원-음콘협 '의기투합']]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=107495</link>
@@ -150,22 +166,6 @@
             <pubDate>Fri, 03 Mar 2023 09:35:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202303/107478_130332_3518_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[메타버스 키우는 신한은행...'시나몬 시즌2' 오픈 이벤트]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=107477</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=107477</guid>
-            <pubDate>Fri, 03 Mar 2023 09:33:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202303/107477_130331_335_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[4주년 맞은 쿠팡 '경북세일페스타'...성공 사례 줄이어]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=107476</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=107476</guid>
-            <pubDate>Fri, 03 Mar 2023 09:31:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202303/107476_130330_3154_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

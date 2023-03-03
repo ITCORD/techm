@@ -4,9 +4,17 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Mar 2023 04:48:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Mar 2023 05:23:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['CNAPP' 띄운 아쿠아시큐리티…"클라우드 물샐틈없이 막는다"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=107500</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=107500</guid>
+            <pubDate>Fri, 03 Mar 2023 05:21:35 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202303/107500_130365_94_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["법카 손님 들어오세요"...카톡 선물하기, 예약 기능 도입]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=107497</link>
@@ -110,14 +118,6 @@
             <pubDate>Fri, 03 Mar 2023 02:36:00 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202303/107467_130290_3353_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[MWC 23] K메타버스 가능성 쐈다...이프랜드-지니버스 글로벌 시장 성공적 데뷔]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=107466</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=107466</guid>
-            <pubDate>Fri, 03 Mar 2023 02:32:00 GMT</pubDate>
-            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202303/107466_130287_281_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
