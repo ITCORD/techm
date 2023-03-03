@@ -4,9 +4,17 @@
         <title>테크M ─ 콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Mar 2023 20:21:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Mar 2023 21:18:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[같이봐영] 다큐·영화·예능...넷플·디플·웨이브의 '신작 보따리']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=107494</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=107494</guid>
+            <pubDate>Sat, 04 Mar 2023 05:30:00 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202303/107494_130356_5710_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["11시간만에 모두 매진"...넥슨 신작 프라시아 전기 '대박' 예감]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=107518</link>
@@ -110,14 +118,6 @@
             <pubDate>Fri, 03 Mar 2023 09:29:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202303/107475_130329_2915_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[업비트, 보이스피싱 피해액 25억원 환급...피해 예방 총력]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=107473</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=107473</guid>
-            <pubDate>Fri, 03 Mar 2023 09:25:00 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202303/107473_130327_1645_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
