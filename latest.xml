@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Mar 2023 01:26:20 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Mar 2023 02:47:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[크립토 주간 브리핑] 3000만원선 붕괴된 비트코인...긴장감 높아지는 가상자산 시장]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=107530</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=107530</guid>
+            <pubDate>Sat, 04 Mar 2023 11:37:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202303/107530_130429_1655_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[같이봐영] 다큐·영화·예능...넷플·디플·웨이브의 '신작 보따리']]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=107494</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 03 Mar 2023 06:31:46 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202303/107509_130376_4224_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LG유플러스, CISO-CPO 공개 모집]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=107507</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=107507</guid>
-            <pubDate>Fri, 03 Mar 2023 06:31:46 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202303/107507_130374_3721_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
