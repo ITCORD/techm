@@ -4,9 +4,25 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Mar 2023 23:19:10 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Mar 2023 01:46:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[LG유플러스, '제2회 고객 아이디어 공모전' 개최…"최대 상금 300만원"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=107531</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=107531</guid>
+            <pubDate>Sun, 05 Mar 2023 09:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202303/107531_130435_2311_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["야구 좋아한다면 주목" LG유플러스, '스포키'서 WBC 생중계한다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=107532</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=107532</guid>
+            <pubDate>Sun, 05 Mar 2023 09:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202303/107532_130436_3330_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[주사위는 주총으로...'SM 새판짜기' 하이브 "전문성·투명성 갖춰"]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=107528</link>
@@ -150,22 +166,6 @@
             <pubDate>Fri, 03 Mar 2023 06:31:46 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202303/107515_130386_956_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[하드웨어 개선에 고퀄리티 게임까지...다시 주목받는 'VR게임']]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=107513</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=107513</guid>
-            <pubDate>Fri, 03 Mar 2023 06:31:46 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202303/107513_130380_5353_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[컴투스홀딩스, 수집형 전략 RPG '이터널 삼국지' 예약 돌입]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=107514</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=107514</guid>
-            <pubDate>Fri, 03 Mar 2023 06:31:46 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202303/107514_130379_5232_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
