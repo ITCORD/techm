@@ -4,9 +4,17 @@
         <title>테크M ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Mar 2023 07:19:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Mar 2023 08:29:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[기술인재 꿈나무 만난 이재용 "젊은 기술인재가 제조업 경쟁력의 원동력"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=107646</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=107646</guid>
+            <pubDate>Tue, 07 Mar 2023 08:27:04 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202303/107646_130625_5052_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['승부사' 윤호영 카카오뱅크 대표, 4연임...이달 주총서 확정]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=107570</link>
@@ -110,14 +118,6 @@
             <pubDate>Sun, 26 Feb 2023 11:00:00 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202302/107234_129936_2413_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LG전자 'BPW 골드 어워드' 수상…"양성평등 노력 인정"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=107270</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=107270</guid>
-            <pubDate>Sun, 26 Feb 2023 10:57:00 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202302/107270_129888_5635_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
