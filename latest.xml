@@ -4,9 +4,25 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Mar 2023 04:24:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Mar 2023 05:20:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["삼성전자 웰컴" 10년 혁신 쌓은 '올레드 명가' LG전자의 자신감]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=107690</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=107690</guid>
+            <pubDate>Wed, 08 Mar 2023 05:17:32 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202303/107690_130694_5350_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[LG전자, TV사업 흑자 전환 노린다…"비용 낮추고 플랫폼 띄우고"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=107692</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=107692</guid>
+            <pubDate>Wed, 08 Mar 2023 05:17:32 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202303/107692_130696_4258_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[기술 변화 '길잡이' NHN데이터, '다이티 GA 서비스'로 GA4 지원 나선다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=107681</link>
@@ -37,7 +53,7 @@
             <guid>https://www.techm.kr/news/articleView.html?idxno=107685</guid>
             <pubDate>Wed, 08 Mar 2023 11:03:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202303/107685_130684_351_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202303/107685_130697_4658_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[신한은행, 모두투어와 환전 이벤트 시행]]></title>
@@ -150,22 +166,6 @@
             <pubDate>Wed, 08 Mar 2023 10:35:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202303/107671_130670_3444_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[카카오모빌리티, 크루데이 개최…택시문화 개선 나섰다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=107670</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=107670</guid>
-            <pubDate>Wed, 08 Mar 2023 10:30:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202303/107670_130669_3036_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[크래프톤, 너바나나와 '제타' 글로버 퍼블리싱 파트너십]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=107667</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=107667</guid>
-            <pubDate>Wed, 08 Mar 2023 10:26:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202303/107667_130666_2645_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
