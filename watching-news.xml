@@ -4,9 +4,16 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Mar 2023 12:36:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Mar 2023 13:29:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[게임코인TV] IT기자라면 꼭 가봐야 할 MWC...생생한 취재 후기]]></title>
+            <link>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN10&amp;view_type=sm</link>
+            <guid>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN10&amp;view_type=sm</guid>
+            <pubDate>Wed, 08 Mar 2023 13:29:27 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 네오위즈, '스포츠박스AI'에 전략적 투자]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=107716</link>
@@ -110,14 +117,6 @@
             <pubDate>Tue, 21 Feb 2023 09:20:59 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202302/107123_129622_107_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] STO 실무 세미나 개최, 'All about STO-STO의 모든 것']]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=107077</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=107077</guid>
-            <pubDate>Mon, 20 Feb 2023 08:27:37 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202302/107077_129508_4913_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

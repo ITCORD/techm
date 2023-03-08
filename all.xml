@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Mar 2023 12:36:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Mar 2023 13:29:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[게임코인TV] IT기자라면 꼭 가봐야 할 MWC...생생한 취재 후기 (테크M ─ 전체기사)]]></title>
+            <link>https://ITCORD.github.io/techm/all.xml</link>
+            <guid>https://ITCORD.github.io/techm/all.xml</guid>
+            <pubDate>Wed, 08 Mar 2023 13:27:10 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA['바쁜 첫날' 윤경림 차기 KT 대표 내정자…'지배구조 개선·임직원 독려'로 안팎 관리(종합) (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=107719</link>
@@ -158,14 +165,6 @@
             <pubDate>Wed, 08 Mar 2023 06:22:55 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202303/107701_130707_5141_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[KB국민은행, 2017년부터 지역아동센터 160곳에 학습공간 리모델링 선물 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=107700</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=107700</guid>
-            <pubDate>Wed, 08 Mar 2023 06:22:55 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202303/107700_130706_4954_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[남녀 모두 즐기는 게임인데...게임업계 여성임원 비중은 여전히 '미미' (테크M ─ 콘텐츠)]]></title>
@@ -952,6 +951,13 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202302/107250_129841_4852_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[게임코인TV] IT기자라면 꼭 가봐야 할 MWC...생생한 취재 후기 (테크M ─ 보는 뉴스)]]></title>
+            <link>https://ITCORD.github.io/techm/all.xml</link>
+            <guid>https://ITCORD.github.io/techm/all.xml</guid>
+            <pubDate>Wed, 08 Mar 2023 13:29:27 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[카드뉴스] 네오위즈, '스포츠박스AI'에 전략적 투자 (테크M ─ 보는 뉴스)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=107716</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=107716</guid>
@@ -1054,14 +1060,6 @@
             <pubDate>Tue, 21 Feb 2023 09:17:54 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202302/107123_129622_107_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] STO 실무 세미나 개최, 'All about STO-STO의 모든 것' (테크M ─ 보는 뉴스)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=107077</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=107077</guid>
-            <pubDate>Mon, 20 Feb 2023 08:27:37 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202302/107077_129508_4913_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
