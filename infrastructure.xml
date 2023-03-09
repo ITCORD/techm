@@ -4,9 +4,17 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Mar 2023 04:24:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Mar 2023 05:20:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["진정한 OLED 강자는 우리" 삼성전자, 10년 만에 OLED TV 선보이며 LG전자에 '도전장']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=107741</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=107741</guid>
+            <pubDate>Thu, 09 Mar 2023 05:18:10 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202303/107741_130778_2226_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[안랩 V3 모바일 시큐리티 'AV-TEST' 만점…"국내 최다 인증 획득"]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=107736</link>
@@ -110,14 +118,6 @@
             <pubDate>Wed, 08 Mar 2023 08:23:51 GMT</pubDate>
             <content:encoded><![CDATA[김가은 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202303/107708_130748_511_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LG 올레드 TV '팔색조' 매력으로 거실 풍경 바꾼다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=107706</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=107706</guid>
-            <pubDate>Wed, 08 Mar 2023 08:23:51 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202303/107706_130714_5059_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
