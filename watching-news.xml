@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Mar 2023 06:28:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Mar 2023 07:21:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 메타버스 플랫폼 '젭', 소프트뱅크 손잡고 일본 진출 본격화]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=107755</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=107755</guid>
+            <pubDate>Thu, 09 Mar 2023 07:20:59 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202303/107755_130803_558_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[게임코인TV] 메이플스토리 게임 코인 나올까?...GDC 참가하는 넥슨]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=107742</link>
@@ -110,14 +118,6 @@
             <pubDate>Wed, 22 Feb 2023 12:37:53 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202302/107172_129707_2851_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] STO 실무 세미나 하이라이트, 온오프라인 모두 성공적 개최]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=107166</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=107166</guid>
-            <pubDate>Wed, 22 Feb 2023 08:26:49 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202302/107166_129677_3855_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
