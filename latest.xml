@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Mar 2023 13:36:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Mar 2023 14:19:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[하이브 IM "우리가 아이언메이스에 투자? 사실 아니다"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=107761</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=107761</guid>
+            <pubDate>Thu, 09 Mar 2023 14:17:52 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202303/107761_130841_4413_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[넥슨 "강경 대응" 입장에 발끈한 아이언메이스..."영업비밀 사용 안했다...우리도 강경 대응"]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=107760</link>
@@ -67,7 +75,7 @@
             <title><![CDATA[[부고] 최원효씨 별세]]></title>
             <link>https://www.techm.kr/news/articleList.html</link>
             <guid>https://www.techm.kr/news/articleList.html</guid>
-            <pubDate>Thu, 09 Mar 2023 13:33:10 GMT</pubDate>
+            <pubDate>Thu, 09 Mar 2023 14:17:52 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
         </item>
         <item>
@@ -157,14 +165,6 @@
             <pubDate>Thu, 09 Mar 2023 06:26:14 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202303/107738_130777_029_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["진정한 OLED 강자는 우리" 삼성전자, 10년 만에 OLED TV 선보이며 LG전자에 '도전장']]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=107741</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=107741</guid>
-            <pubDate>Thu, 09 Mar 2023 05:17:36 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202303/107741_130833_2259_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
