@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Mar 2023 05:20:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Mar 2023 06:28:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[게임코인TV] 메이플스토리 게임 코인 나올까?...GDC 참가하는 넥슨]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=107742</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=107742</guid>
+            <pubDate>Thu, 09 Mar 2023 06:28:33 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202303/107742_130792_4621_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[게임코인TV] IT기자라면 꼭 가봐야 할 MWC...생생한 취재 후기]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=107720</link>
@@ -110,14 +118,6 @@
             <pubDate>Wed, 22 Feb 2023 08:26:49 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202302/107166_129677_3855_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["온라인-오프라인 모두 뜨거웠다"...사진으로 보는 'STO의 모든 것' 실무 세미나]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=107123</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=107123</guid>
-            <pubDate>Tue, 21 Feb 2023 09:20:59 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202302/107123_129622_107_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

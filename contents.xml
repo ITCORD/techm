@@ -4,9 +4,25 @@
         <title>테크M ─ 콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Mar 2023 05:20:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Mar 2023 06:28:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[해긴, 신작 '데미안 전기' 첫 공개...4월 글로벌 출시]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=107747</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=107747</guid>
+            <pubDate>Thu, 09 Mar 2023 06:26:33 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202303/107747_130793_4645_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[글로벌 서비스 시작한 '서머너즈 워: 크로니클', '서머너즈 워 IP' 영광 이을까]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=107744</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=107744</guid>
+            <pubDate>Thu, 09 Mar 2023 06:26:33 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202303/107744_130785_2451_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[카트라이더:드리프트 정규시즌 돌입...속도 높이고 콘텐츠 늘렸다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=107737</link>
@@ -102,22 +118,6 @@
             <pubDate>Wed, 08 Mar 2023 06:23:13 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202303/107688_130691_5044_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다시 뛰는 리니지M...'Shooting Star: 구원의 활시위' 예약 돌입]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=107682</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=107682</guid>
-            <pubDate>Wed, 08 Mar 2023 11:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202303/107682_130682_014_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스마일게이트 테일즈런너, 대규모 업데이트...'에이스' 열렸다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=107678</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=107678</guid>
-            <pubDate>Wed, 08 Mar 2023 10:47:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202303/107678_130678_4712_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
