@@ -4,9 +4,17 @@
         <title>테크M ─ 콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Mar 2023 01:41:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Mar 2023 02:56:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[위메이드, 신작 '나이트 크로우' 3월 16일 사전등록 시작]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=107733</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=107733</guid>
+            <pubDate>Thu, 09 Mar 2023 11:43:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202303/107733_130771_1529_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[남녀 모두 즐기는 게임인데...게임업계 여성임원 비중은 여전히 '미미']]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=107704</link>
@@ -110,14 +118,6 @@
             <pubDate>Wed, 08 Mar 2023 10:42:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202303/107676_130676_4159_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[테크M 이슈] 출시 하루 앞둔 컴투스 서머너즈 워:크로니클...해외 반응은 '후끈']]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=107671</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=107671</guid>
-            <pubDate>Wed, 08 Mar 2023 10:35:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202303/107671_130670_3444_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
