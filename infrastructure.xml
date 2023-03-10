@@ -4,9 +4,25 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Mar 2023 06:26:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Mar 2023 07:20:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성전자, OLED TV 시장 점유율 상승세…"10년 만에 돌아온 이유 있었네"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=107789</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=107789</guid>
+            <pubDate>Fri, 10 Mar 2023 07:17:30 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202303/107789_130880_06_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[구현모·윤경림 배임 의혹 전면 반박한 KT…"사실과 달라"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=107788</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=107788</guid>
+            <pubDate>Fri, 10 Mar 2023 07:17:30 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202303/107788_130879_4428_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[홍은택의 '카카오메이커스', 소셜 임팩트로 7000억 거래액 달성]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=107785</link>
@@ -102,22 +118,6 @@
             <pubDate>Thu, 09 Mar 2023 06:26:52 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202303/107743_130784_2025_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["진정한 OLED 강자는 우리" 삼성전자, 10년 만에 OLED TV 선보이며 LG전자에 '도전장']]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=107741</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=107741</guid>
-            <pubDate>Thu, 09 Mar 2023 05:18:10 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202303/107741_130833_2259_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[안랩 V3 모바일 시큐리티 'AV-TEST' 만점…"국내 최다 인증 획득"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=107736</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=107736</guid>
-            <pubDate>Thu, 09 Mar 2023 11:44:00 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202303/107736_130774_4328_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
