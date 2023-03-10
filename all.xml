@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Mar 2023 09:22:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Mar 2023 10:23:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -392,6 +392,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202303/107743_130784_2025_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[새단장 예고한 '위믹스 플레이3.0'... 게임부터 디파이까지 한눈에 (테크M ─ 이노베이션)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=107797</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=107797</guid>
+            <pubDate>Fri, 10 Mar 2023 09:18:40 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202303/107797_130909_4540_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[봄기운 성큼...세탁특공대, 스키·보드복 서비스 최대 32% 할인 (테크M ─ 이노베이션)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=107795</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=107795</guid>
@@ -494,14 +502,6 @@
             <pubDate>Tue, 07 Mar 2023 06:24:38 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202303/107616_130573_2218_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[벤처시장 키우는 AI 양재 허브...스타트업 데모데이 열었다 (테크M ─ 이노베이션)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=107610</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=107610</guid>
-            <pubDate>Tue, 07 Mar 2023 05:17:34 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202303/107610_130567_338_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[크립토윈터를 잊은 블록체인 게임...1월 이어 2월에도 2000억원 투자 유치 (테크M ─ 인베스트먼트)]]></title>
