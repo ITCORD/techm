@@ -4,9 +4,17 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Mar 2023 05:22:43 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Mar 2023 06:24:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['삼성SDS표' 클라우드 본격 시동…"통합 브랜드·HPC데이터센터로 韓 기업 시장 평정한다"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=107817</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=107817</guid>
+            <pubDate>Sun, 12 Mar 2023 00:39:00 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202303/107817_130942_1445_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[배재현 카카오 투자총괄 "예정대로 공개 매수...SM 인수 최선"]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=107816</link>
@@ -110,14 +118,6 @@
             <pubDate>Fri, 10 Mar 2023 10:43:00 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202303/107768_130849_3716_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SK쉴더스, 일선시스템과 IoT 기반 화재 대응 솔루션 '맞손']]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=107766</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=107766</guid>
-            <pubDate>Fri, 10 Mar 2023 10:25:00 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202303/107766_130847_2342_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
