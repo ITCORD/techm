@@ -4,9 +4,17 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Mar 2023 23:20:26 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Mar 2023 01:34:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[LG유플러스, 개인정보 유출-접속오류 피해지원협의체 구성]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=107802</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=107802</guid>
+            <pubDate>Sun, 12 Mar 2023 09:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202303/107802_130919_4413_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[써봤다] 똑똑하고 유능한 카톡 친구가 생겼다…눈달린 챗GPT 'AskUp']]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=107807</link>
@@ -110,14 +118,6 @@
             <pubDate>Thu, 09 Mar 2023 07:17:58 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202303/107753_130798_3015_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['챗GPT' 활용성 키우는 韓 인터넷 기업들...카톡 이어 토스 합류]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=107745</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=107745</guid>
-            <pubDate>Thu, 09 Mar 2023 06:26:52 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202303/107745_130790_2946_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
