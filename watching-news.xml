@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Mar 2023 07:20:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Mar 2023 08:28:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 위메이드, 위믹스 플레이 3.0 오는 15일 공개...'게임부터 디파이까지']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=107851</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=107851</guid>
+            <pubDate>Mon, 13 Mar 2023 08:28:10 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202303/107851_131004_3557_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 韓 인터넷 기업들, '챗GPT' 활용성 키우다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=107792</link>
@@ -110,14 +118,6 @@
             <pubDate>Thu, 23 Feb 2023 13:35:09 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202302/107212_129775_5558_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] LG유플러스, 메타버스 키즈토피아 출시 '알파세대는 놀면서 공부도 한다']]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=107204</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=107204</guid>
-            <pubDate>Thu, 23 Feb 2023 07:19:28 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202302/107204_129746_4317_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
