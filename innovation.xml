@@ -4,9 +4,17 @@
         <title>테크M ─ 이노베이션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Mar 2023 04:23:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Mar 2023 05:20:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[벚꽃여행은 쏘카와 함께…미리 예약하면 더 저렴하다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=107838</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=107838</guid>
+            <pubDate>Mon, 13 Mar 2023 05:18:13 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202303/107838_130980_2125_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[체인파트너스, 한글 챗GPT '네이티브' 모바일 앱 출시]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=107830</link>
@@ -110,14 +118,6 @@
             <pubDate>Wed, 08 Mar 2023 10:48:00 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202303/107677_130677_4326_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인터체인 플랫폼 '하바' 첫 온보딩 서비스는 게임 플랫폼 '퍼플레이']]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=107673</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=107673</guid>
-            <pubDate>Wed, 08 Mar 2023 10:35:00 GMT</pubDate>
-            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202303/107673_130672_358_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
