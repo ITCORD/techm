@@ -4,9 +4,25 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Mar 2023 06:25:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Mar 2023 07:20:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[롯데정보통신, 삼성SDS 동탄 데이터센터 전기차 충전소도 관리한다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=107848</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=107848</guid>
+            <pubDate>Mon, 13 Mar 2023 07:17:33 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202303/107848_131000_424_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[AI 시대, GPU 대신 NPU 강조되는 이유…"핵심은 전력·비용 절감"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=107847</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=107847</guid>
+            <pubDate>Mon, 13 Mar 2023 07:17:33 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202303/107847_130997_3648_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[테크M 이슈] 애플 '노랑 아이폰' 속 숨은 야심…'삼성 텃밭' 한국 시장 전방위 공세]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=107845</link>
@@ -102,22 +118,6 @@
             <pubDate>Sun, 12 Mar 2023 00:01:00 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202303/107815_130940_4621_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[글로벌 DNA 심는 한컴...김연수 대표, '한컴얼라이언스' 직접 챙긴다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=107809</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=107809</guid>
-            <pubDate>Sun, 12 Mar 2023 11:35:00 GMT</pubDate>
-            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202303/107809_130950_5940_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LG유플러스, 개인정보 유출-접속오류 피해지원협의체 구성]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=107802</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=107802</guid>
-            <pubDate>Sun, 12 Mar 2023 09:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202303/107802_130919_4413_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
