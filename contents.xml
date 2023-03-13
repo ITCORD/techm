@@ -4,9 +4,17 @@
         <title>테크M ─ 콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Mar 2023 05:20:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Mar 2023 06:25:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[LCK 브리핑] T1, 2년 연속 스프링 정규 리그 1위 등극]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=107835</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=107835</guid>
+            <pubDate>Mon, 13 Mar 2023 06:23:02 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202303/107835_130976_1238_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[지난해 韓 모바일 게임시장 지출 7조원...RPG가 60% 이상]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=107828</link>
@@ -110,14 +118,6 @@
             <pubDate>Fri, 10 Mar 2023 06:23:56 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202303/107777_130862_239_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['서머너즈 워: 크로니클', 글로벌서 통했다...독일·일본·대만 등 6개국 인기 1위 '기염']]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=107767</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=107767</guid>
-            <pubDate>Fri, 10 Mar 2023 10:45:00 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202303/107767_130904_4540_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
