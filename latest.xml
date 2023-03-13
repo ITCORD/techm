@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Mar 2023 22:19:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Mar 2023 23:20:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['M&A통' 네이버 최수연·김남선, 취임 1년...올해는 '수익성'에 방점]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=107857</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=107857</guid>
+            <pubDate>Tue, 14 Mar 2023 07:59:00 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202303/107857_131028_2020_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이젠 할인 상품도 소비자가 고른다...쿠팡, 뷰티 어워즈 기획세트 출시]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=107855</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 13 Mar 2023 04:21:19 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202303/107837_130979_1657_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[헥토데이터, 데이터바우처 지원사업 수요기업 모집]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=107836</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=107836</guid>
-            <pubDate>Mon, 13 Mar 2023 04:21:19 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202303/107836_130975_128_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
