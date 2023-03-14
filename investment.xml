@@ -4,9 +4,17 @@
         <title>테크M ─ 인베스트먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Mar 2023 05:19:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Mar 2023 06:25:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[부활 꾀하는 넷마블...'카툰 렌더링' 기술에 주목하는 이유]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=107881</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=107881</guid>
+            <pubDate>Tue, 14 Mar 2023 06:24:31 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202303/107881_131068_919_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[토스뱅크 '지금 이자 받기' 출시 1년...2670억원 이자 전했다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=107865</link>
@@ -110,14 +118,6 @@
             <pubDate>Thu, 09 Mar 2023 06:27:20 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202303/107746_130791_4413_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[크립토 브리핑] 약세 이어지는 비트코인...투자심리 두달만에 '공포' 전환]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=107725</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=107725</guid>
-            <pubDate>Thu, 09 Mar 2023 10:03:00 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202303/107725_130763_582_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
