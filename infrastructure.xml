@@ -4,9 +4,17 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Mar 2023 09:21:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Mar 2023 10:24:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[통신사 "중과실 시 서비스 장애 2시간 미만이어도 10배 배상"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=107896</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=107896</guid>
+            <pubDate>Tue, 14 Mar 2023 10:22:42 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202303/107896_131096_493_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[카카오엔터프라이즈, AI 컨택센터 플랫폼 '카카오 i 커넥트 센터' 통해 알뜰폰 사업자 지원]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=107893</link>
@@ -110,14 +118,6 @@
             <pubDate>Tue, 14 Mar 2023 09:44:00 GMT</pubDate>
             <content:encoded><![CDATA[김가은 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202303/107860_131031_4224_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["한국어 몰라도 쉽게 이용" LG유플러스, '외국어 채팅 상담' 서비스' 지원]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=107859</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=107859</guid>
-            <pubDate>Tue, 14 Mar 2023 09:44:00 GMT</pubDate>
-            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202303/107859_131030_3544_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

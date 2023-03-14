@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Mar 2023 09:21:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Mar 2023 10:24:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[통신사 "중과실 시 서비스 장애 2시간 미만이어도 10배 배상"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=107896</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=107896</guid>
+            <pubDate>Tue, 14 Mar 2023 10:22:12 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202303/107896_131096_493_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[네이버 ESG 이끄는 채선주, 지난해 보수총액 21.6억]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=107897</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 14 Mar 2023 05:16:58 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202303/107871_131088_250_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[글로벌] 지구 위협하는 우주 쓰레기..."국제 조약 체결 필요"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=107874</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=107874</guid>
-            <pubDate>Tue, 14 Mar 2023 05:16:58 GMT</pubDate>
-            <content:encoded><![CDATA[김현기 대표]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202303/107874_131089_321_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
