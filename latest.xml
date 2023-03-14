@@ -4,9 +4,33 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Mar 2023 02:36:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Mar 2023 03:20:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['오픈카톡'서 개인정보 유출?…카카오 "서비스 구조상 불가능, 수사기관 신고"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=107870</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=107870</guid>
+            <pubDate>Tue, 14 Mar 2023 11:59:00 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202303/107870_131042_5712_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이글루코퍼레이션, 온라인 AI 탐지모델 개발…"챗GPT 연계한 AI 보안 선보인다"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=107869</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=107869</guid>
+            <pubDate>Tue, 14 Mar 2023 11:52:00 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202303/107869_131041_3417_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[중앙제어, 'EV 트렌드 코리아 2023'서 전기차 충전기 신제품 대거 선보인다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=107868</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=107868</guid>
+            <pubDate>Tue, 14 Mar 2023 11:31:00 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202303/107868_131039_282_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[LG CNS, SAP와 '차세대 ERP' 프로젝트로 글로벌 확장 나선다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=107867</link>
@@ -142,30 +166,6 @@
             <pubDate>Mon, 13 Mar 2023 08:23:27 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202303/107851_131004_3557_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[당근마켓, 사내 성추행 솜방망이 처벌 지적하니..."성비위 엄중 대처...외부 자문위 꾸릴 것"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=107850</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=107850</guid>
-            <pubDate>Mon, 13 Mar 2023 08:23:27 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202303/107850_131003_3433_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[롯데정보통신, 삼성SDS 동탄 데이터센터 전기차 충전소도 관리한다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=107848</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=107848</guid>
-            <pubDate>Mon, 13 Mar 2023 08:23:27 GMT</pubDate>
-            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202303/107848_131000_424_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[AI 시대, GPU 대신 NPU 강조되는 이유…"핵심은 전력·비용 절감"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=107847</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=107847</guid>
-            <pubDate>Mon, 13 Mar 2023 08:23:27 GMT</pubDate>
-            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202303/107847_131015_1224_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
