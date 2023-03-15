@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Mar 2023 23:22:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Mar 2023 01:23:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] KT, 메타버스 '지니버스' 시범 서비스 시작]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=107876</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=107876</guid>
+            <pubDate>Wed, 15 Mar 2023 08:12:00 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202303/107876_131052_2543_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 위메이드, 위믹스 플레이 3.0 오는 15일 공개...'게임부터 디파이까지']]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=107851</link>
@@ -110,14 +118,6 @@
             <pubDate>Fri, 24 Feb 2023 07:18:50 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202302/107240_129816_3838_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[게임코인TV] 드디어 베일 벗는다...엔씨가 발표할 신작게임 TL]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=107212</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=107212</guid>
-            <pubDate>Thu, 23 Feb 2023 13:35:09 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202302/107212_129775_5558_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
