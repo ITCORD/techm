@@ -4,9 +4,17 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Mar 2023 10:22:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Mar 2023 11:19:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한국-영국 '분산형 신재생에너지 기술' 힘 모은다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=107971</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=107971</guid>
+            <pubDate>Wed, 15 Mar 2023 11:16:50 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202303/107971_131213_1221_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[라온시큐어, 차세대 IT 보안∙인증 전문 기업으로 거듭난다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=107969</link>
@@ -110,14 +118,6 @@
             <pubDate>Wed, 15 Mar 2023 10:53:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202303/107935_131141_4859_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[무신사 테라스, 홍대 도심에 '스몰 캠핑' 연다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=107934</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=107934</guid>
-            <pubDate>Wed, 15 Mar 2023 10:53:00 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202303/107934_131140_4739_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
