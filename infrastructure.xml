@@ -4,9 +4,17 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Mar 2023 02:42:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Mar 2023 03:21:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이스트소프트, 신규 CI 공개…"AI 기업 아이덴티티 강화"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=108004</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=108004</guid>
+            <pubDate>Thu, 16 Mar 2023 11:50:00 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202303/108004_131255_4248_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[마이크로소프트, 'ISV 성공 프로그램'으로 국내 SW 기업 성장 지원]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=107996</link>
@@ -110,14 +118,6 @@
             <pubDate>Thu, 16 Mar 2023 09:48:00 GMT</pubDate>
             <content:encoded><![CDATA[김가은 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202303/107976_131219_396_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["U+tv서 티빙 본다" LG U+, OTT TV 라인업 개편]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=107975</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=107975</guid>
-            <pubDate>Thu, 16 Mar 2023 09:17:00 GMT</pubDate>
-            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202303/107975_131218_5512_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
