@@ -4,9 +4,16 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Mar 2023 10:22:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Mar 2023 11:17:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[게임코인TV] 2023 GDC 예고...컴투스와 위메이드 이야기]]></title>
+            <link>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN10&amp;view_type=sm</link>
+            <guid>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN10&amp;view_type=sm</guid>
+            <pubDate>Thu, 16 Mar 2023 11:17:36 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 웅진씽크빅, 교육플랫폼에 '생성형AI' 도입]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=108020</link>
@@ -110,14 +117,6 @@
             <pubDate>Fri, 03 Mar 2023 08:25:15 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202303/107524_130409_5418_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] MWC2023, XR과 5G·AI가 만나다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=107460</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=107460</guid>
-            <pubDate>Thu, 02 Mar 2023 10:22:11 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202303/107460_130255_1653_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
