@@ -4,14 +4,22 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Mar 2023 21:19:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Mar 2023 22:20:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[AI 기반 'MS 365 코파일럿' 띄운 마이크로소프트…"생산성 향상 게임 체인저"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=108028</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=108028</guid>
+            <pubDate>Fri, 17 Mar 2023 06:26:00 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202303/108028_131311_5647_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[게임코인TV] 2023 GDC 예고...컴투스와 위메이드 이야기]]></title>
             <link>https://www.techm.kr/news/articleList.html</link>
             <guid>https://www.techm.kr/news/articleList.html</guid>
-            <pubDate>Thu, 16 Mar 2023 21:15:26 GMT</pubDate>
+            <pubDate>Thu, 16 Mar 2023 22:18:18 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
         </item>
         <item>
@@ -157,14 +165,6 @@
             <pubDate>Thu, 16 Mar 2023 05:16:30 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202303/108009_131264_581_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코인플러그, 공무원연금공단 '모바일 사원증' 구축 완료]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=108008</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=108008</guid>
-            <pubDate>Thu, 16 Mar 2023 05:16:30 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202303/108008_131263_561_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
