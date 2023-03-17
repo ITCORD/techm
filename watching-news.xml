@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Mar 2023 10:22:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Mar 2023 11:18:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[게임코인TV] 2023 GDC 예고...위메이드부터 넥슨-넷마블까지]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=108074</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=108074</guid>
+            <pubDate>Fri, 17 Mar 2023 11:18:56 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202303/108074_131390_058_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 삼성전자, '지능형 로봇' 사업 본격화]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=108057</link>
@@ -110,14 +118,6 @@
             <pubDate>Tue, 07 Mar 2023 07:19:04 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202303/107635_130601_5127_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 신한은행, '시나몬 시즌2' 오픈]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=107579</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=107579</guid>
-            <pubDate>Mon, 06 Mar 2023 09:22:16 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202303/107579_130509_538_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
