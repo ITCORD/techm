@@ -4,9 +4,17 @@
         <title>테크M ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Mar 2023 04:22:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Mar 2023 05:18:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[KB국민은행, 스타트업 성장 지원 프로그램 실시]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=108051</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=108051</guid>
+            <pubDate>Fri, 17 Mar 2023 05:17:35 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202303/108051_131341_1115_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['나이키 앱' 나온다..."언제 어디서나 내게 최적화된 나이키를 만나라"]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=108037</link>
@@ -110,14 +118,6 @@
             <pubDate>Tue, 14 Mar 2023 08:26:13 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202303/107894_131084_5957_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["프리미엄 위스키, 한 자리에"...현대百 판교점, 대규모 위스키 페어 연다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=107891</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=107891</guid>
-            <pubDate>Tue, 14 Mar 2023 08:26:13 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202303/107891_131075_3529_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
