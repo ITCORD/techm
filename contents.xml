@@ -4,9 +4,17 @@
         <title>테크M ─ 콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Mar 2023 23:21:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Mar 2023 01:23:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[돌풍의 컴투스 '크로니클'...글로벌 매출 100억 넘겼다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=108031</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=108031</guid>
+            <pubDate>Fri, 17 Mar 2023 09:35:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202303/108031_131318_3529_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[DCON 2023 성료...독과점 문제부터 IEO·토큰증권까지 다양한 논의]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=108026</link>
@@ -110,14 +118,6 @@
             <pubDate>Wed, 15 Mar 2023 06:23:40 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202303/107962_131173_5443_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['韓 게임 다크호스' 해긴, 시간파괴 RPG '데미안 전기' 출시 임박]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=107961</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=107961</guid>
-            <pubDate>Wed, 15 Mar 2023 06:23:40 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202303/107961_131172_514_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
