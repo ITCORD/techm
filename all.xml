@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Mar 2023 13:23:51 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Mar 2023 14:16:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[부고] 박재욱씨(쏘카 대표) 모친상 (테크M ─ 전체기사)]]></title>
+            <link>https://ITCORD.github.io/techm/all.xml</link>
+            <guid>https://ITCORD.github.io/techm/all.xml</guid>
+            <pubDate>Sat, 18 Mar 2023 14:14:28 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[크립토 주간 브리핑] '전화위복' 비트코인...일주일새 1000만원 급등 (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=108080</link>
@@ -158,14 +165,6 @@
             <pubDate>Fri, 17 Mar 2023 07:16:06 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202303/108056_131378_467_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 삼성전자, '지능형 로봇' 사업 본격화 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=108057</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=108057</guid>
-            <pubDate>Fri, 17 Mar 2023 06:20:56 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202303/108057_131347_4739_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[넥슨, '서든어택' 노하우로 '슈팅명가' 노린다...'더 파이널스'부터 '베일드 엑스퍼트'까지 (테크M ─ 콘텐츠)]]></title>
@@ -616,6 +615,13 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202303/107865_131036_2356_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[부고] 박재욱씨(쏘카 대표) 모친상 (테크M ─ 피플)]]></title>
+            <link>https://ITCORD.github.io/techm/all.xml</link>
+            <guid>https://ITCORD.github.io/techm/all.xml</guid>
+            <pubDate>Sat, 18 Mar 2023 14:15:50 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[e스포츠人] 아마추어 돌풍 주역 '헤더' 차지훈...마인드는 이미 '프로'다 (테크M ─ 피플)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=107988</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=107988</guid>
@@ -707,7 +713,7 @@
             <title><![CDATA[[부고] 최원효씨 별세 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Sat, 18 Mar 2023 13:22:56 GMT</pubDate>
+            <pubDate>Sat, 18 Mar 2023 14:15:50 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
         </item>
         <item>
@@ -717,14 +723,6 @@
             <pubDate>Thu, 09 Mar 2023 06:26:14 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202303/107740_130781_2715_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김민영 넷플릭스 亞 총괄...美 버라이어티 '영향력 있는 여성' 선정 (테크M ─ 피플)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=107718</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=107718</guid>
-            <pubDate>Wed, 08 Mar 2023 10:20:13 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202303/107718_130752_219_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[헥토파이낸셜 '010PAY'에서 봄맞이 '최저가 선물전' 연다 (테크M ─ 라이프)]]></title>

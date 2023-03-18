@@ -4,9 +4,16 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Mar 2023 13:23:51 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Mar 2023 14:16:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[부고] 박재욱씨(쏘카 대표) 모친상]]></title>
+            <link>https://www.techm.kr/news/articleList.html</link>
+            <guid>https://www.techm.kr/news/articleList.html</guid>
+            <pubDate>Sat, 18 Mar 2023 14:14:28 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[크립토 주간 브리핑] '전화위복' 비트코인...일주일새 1000만원 급등]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=108080</link>
@@ -158,14 +165,6 @@
             <pubDate>Fri, 17 Mar 2023 07:16:06 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202303/108056_131378_467_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 삼성전자, '지능형 로봇' 사업 본격화]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=108057</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=108057</guid>
-            <pubDate>Fri, 17 Mar 2023 06:20:56 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202303/108057_131347_4739_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
