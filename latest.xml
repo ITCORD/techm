@@ -4,9 +4,25 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Mar 2023 02:39:56 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Mar 2023 03:20:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[크립토 주간 브리핑] '전화위복' 비트코인...일주일새 1000만원 급등]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=108080</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=108080</guid>
+            <pubDate>Sat, 18 Mar 2023 00:07:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202303/108080_131396_5831_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ISS도 윤경림 '찬성'…KT, 외국인 투자자 '표심' 사로잡나]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=108079</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=108079</guid>
+            <pubDate>Sat, 18 Mar 2023 11:53:00 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202303/108079_131394_3553_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[IT기자의 캠핑 이야기] 편하게 캠핑 음식 준비하는 방법은?...이커머스에서 끝낸다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=108075</link>
@@ -150,22 +166,6 @@
             <pubDate>Fri, 17 Mar 2023 06:20:56 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202303/108057_131347_4739_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[컴투스 코인 '엑스플라' 빗썸 입성에도 웃지 못한 이유]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=108060</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=108060</guid>
-            <pubDate>Fri, 17 Mar 2023 06:20:56 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202303/108060_131365_528_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[테크M 리포트] 토종 영상 플랫폼 '아프리카TV'가 웃는 이유]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=108058</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=108058</guid>
-            <pubDate>Fri, 17 Mar 2023 06:20:56 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202303/108058_131379_4630_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
