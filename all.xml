@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Mar 2023 02:50:33 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Mar 2023 03:23:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -167,6 +167,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202303/108068_131374_3251_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA["전세계 게임 개발자 다 모여라" 전통 게임부터 웹3.0까지...GDC 2023 미리보기 (테크M ─ 콘텐츠)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=108085</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=108085</guid>
+            <pubDate>Sun, 19 Mar 2023 11:49:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202303/108085_131408_1742_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['카트라이더' 이용자를 신속히 이동시켜라...드리프트는 카트 게이머 맞이할 준비 끝냈나 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=108082</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=108082</guid>
@@ -271,12 +279,12 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202303/108040_131328_254_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[돌풍의 컴투스 '크로니클'...글로벌 매출 100억 넘겼다 (테크M ─ 콘텐츠)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=108031</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=108031</guid>
-            <pubDate>Fri, 17 Mar 2023 09:35:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202303/108031_131318_3529_v150.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[LG유플러스, 알뜰폰 대학생 서포터즈 운영…"MZ 세대 공략 나선다" (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=108084</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=108084</guid>
+            <pubDate>Sun, 19 Mar 2023 11:47:00 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202303/108084_131407_627_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[LG디스플레이, OLED TV 패널 업계 최초 '탄소발자국 인증' 획득 (테크M ─ 인프라)]]></title>
@@ -381,14 +389,6 @@
             <pubDate>Fri, 17 Mar 2023 10:08:00 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202303/108039_131327_812_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[안정성 꾀하는 토스뱅크, 2000억 유상증자…자본금 1조6500억원 확대 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=108035</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=108035</guid>
-            <pubDate>Fri, 17 Mar 2023 09:40:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202303/108035_131322_4034_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[카톡에서 'GPT-4' 쓴다…업스테이지 '아숙업'에 적용 (테크M ─ 이노베이션)]]></title>

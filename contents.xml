@@ -4,9 +4,17 @@
         <title>테크M ─ 콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Mar 2023 02:50:33 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Mar 2023 03:23:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["전세계 게임 개발자 다 모여라" 전통 게임부터 웹3.0까지...GDC 2023 미리보기]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=108085</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=108085</guid>
+            <pubDate>Sun, 19 Mar 2023 11:49:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202303/108085_131408_1742_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['카트라이더' 이용자를 신속히 이동시켜라...드리프트는 카트 게이머 맞이할 준비 끝냈나]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=108082</link>
@@ -110,14 +118,6 @@
             <pubDate>Fri, 17 Mar 2023 10:31:00 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202303/108040_131328_254_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[돌풍의 컴투스 '크로니클'...글로벌 매출 100억 넘겼다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=108031</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=108031</guid>
-            <pubDate>Fri, 17 Mar 2023 09:35:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202303/108031_131318_3529_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
