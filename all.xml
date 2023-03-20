@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Mar 2023 17:18:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Mar 2023 18:26:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,6 +168,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202303/108121_131460_5245_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[GDC 23] 'GDC 개막' 첫날부터 몰려든 구름인파...전세계 게임업계 이목 집중 (테크M ─ 콘텐츠)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=108154</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=108154</guid>
+            <pubDate>Tue, 21 Mar 2023 03:03:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202303/108154_131514_142_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[PWS 통신] 다나와 중간 합계 1위...오피지지-필더-젠지 바짝 추격 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=108153</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=108153</guid>
@@ -270,14 +278,6 @@
             <pubDate>Sun, 19 Mar 2023 08:00:00 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202303/108071_131382_2046_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[넥슨, '서든어택' 노하우로 '슈팅명가' 노린다...'더 파이널스'부터 '베일드 엑스퍼트'까지 (테크M ─ 콘텐츠)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=108072</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=108072</guid>
-            <pubDate>Sat, 18 Mar 2023 09:30:00 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202303/108072_131383_4230_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[테크M 이슈] 샘 알트만도 두려워하는 'GPT-4'…해커들에게 악용 우려 (테크M ─ 인프라)]]></title>
@@ -616,6 +616,13 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202303/107913_131116_3440_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[부고] 장동준(게임톡 국장)씨 모친상 (테크M ─ 피플)]]></title>
+            <link>https://ITCORD.github.io/techm/all.xml</link>
+            <guid>https://ITCORD.github.io/techm/all.xml</guid>
+            <pubDate>Tue, 21 Mar 2023 02:49:00 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[엔씨소프트, 구현범 COO 신규 선임...지원 조직 전반 총괄 (테크M ─ 피플)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=108119</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=108119</guid>
@@ -635,7 +642,7 @@
             <title><![CDATA[[부고] 박재욱씨(쏘카 대표) 모친상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Mon, 20 Mar 2023 17:17:53 GMT</pubDate>
+            <pubDate>Mon, 20 Mar 2023 18:24:17 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
         </item>
         <item>
@@ -717,14 +724,6 @@
             <pubDate>Fri, 10 Mar 2023 08:23:28 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202303/107796_130908_336_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[테크M 이슈] 다시 뛰는 넷마블 방준혁...의사결정 구조 속도 'UP' (테크M ─ 피플)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=107771</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=107771</guid>
-            <pubDate>Fri, 10 Mar 2023 11:08:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202303/107771_130854_846_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[디지털-가전 준비는 쿠팡에서...국내외 120여개 브랜드 최대 '반값' (테크M ─ 라이프)]]></title>

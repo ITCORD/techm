@@ -4,9 +4,16 @@
         <title>테크M ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Mar 2023 17:18:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Mar 2023 18:26:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[부고] 장동준(게임톡 국장)씨 모친상]]></title>
+            <link>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN5&amp;view_type=sm</link>
+            <guid>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN5&amp;view_type=sm</guid>
+            <pubDate>Tue, 21 Mar 2023 02:49:00 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[엔씨소프트, 구현범 COO 신규 선임...지원 조직 전반 총괄]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=108119</link>
@@ -27,7 +34,7 @@
             <title><![CDATA[[부고] 박재욱씨(쏘카 대표) 모친상]]></title>
             <link>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN5&amp;view_type=sm</link>
             <guid>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN5&amp;view_type=sm</guid>
-            <pubDate>Mon, 20 Mar 2023 17:17:53 GMT</pubDate>
+            <pubDate>Mon, 20 Mar 2023 18:24:17 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
         </item>
         <item>
@@ -109,14 +116,6 @@
             <pubDate>Fri, 10 Mar 2023 08:25:33 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202303/107796_130908_336_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[테크M 이슈] 다시 뛰는 넷마블 방준혁...의사결정 구조 속도 'UP']]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=107771</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=107771</guid>
-            <pubDate>Fri, 10 Mar 2023 11:08:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202303/107771_130854_846_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

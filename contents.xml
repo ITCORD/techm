@@ -4,9 +4,17 @@
         <title>테크M ─ 콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Mar 2023 17:18:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Mar 2023 18:26:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[GDC 23] 'GDC 개막' 첫날부터 몰려든 구름인파...전세계 게임업계 이목 집중]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=108154</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=108154</guid>
+            <pubDate>Tue, 21 Mar 2023 03:03:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202303/108154_131514_142_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[PWS 통신] 다나와 중간 합계 1위...오피지지-필더-젠지 바짝 추격]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=108153</link>
@@ -110,14 +118,6 @@
             <pubDate>Sun, 19 Mar 2023 08:00:00 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202303/108071_131382_2046_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[넥슨, '서든어택' 노하우로 '슈팅명가' 노린다...'더 파이널스'부터 '베일드 엑스퍼트'까지]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=108072</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=108072</guid>
-            <pubDate>Sat, 18 Mar 2023 09:30:00 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202303/108072_131383_4230_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
