@@ -4,9 +4,17 @@
         <title>테크M ─ 콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Mar 2023 05:20:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Mar 2023 06:25:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[흥행 조합 장혁·장나라 '패밀리'...디즈니플러스에 뜬다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=108121</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=108121</guid>
+            <pubDate>Mon, 20 Mar 2023 06:23:44 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202303/108121_131460_5245_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["자막 크기·스타일 맘대로"…넷플릭스, '설정 기능' 도입]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=108113</link>
@@ -110,14 +118,6 @@
             <pubDate>Fri, 17 Mar 2023 09:18:10 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202303/108069_131375_3654_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[카카오게임즈, 신작 '아키에이지 워' 20일 사전 다운로드 시작]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=108068</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=108068</guid>
-            <pubDate>Fri, 17 Mar 2023 09:18:10 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202303/108068_131374_3251_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
