@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Mar 2023 03:21:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Mar 2023 04:23:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[엔씨소프트, 구현범 COO 신규 선임...지원 조직 전반 총괄 (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=108119</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=108119</guid>
+            <pubDate>Mon, 20 Mar 2023 00:20:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202303/108119_131458_1939_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[테크M 이슈] 'IT 역량 UP' 신한은행, 디지털 부문 채용에 공들이는 이유 (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=108118</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 20 Mar 2023 10:20:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202303/108099_131433_2049_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[새판 짜는 크래프톤 배틀그라운드...신규 맵 '네온' 등장 예고 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=108098</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=108098</guid>
-            <pubDate>Mon, 20 Mar 2023 10:19:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202303/108098_131431_194_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["자막 크기·스타일 맘대로"…넷플릭스, '설정 기능' 도입 (테크M ─ 콘텐츠)]]></title>
@@ -616,6 +616,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202303/107931_131138_4048_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[엔씨소프트, 구현범 COO 신규 선임...지원 조직 전반 총괄 (테크M ─ 피플)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=108119</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=108119</guid>
+            <pubDate>Mon, 20 Mar 2023 00:20:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202303/108119_131458_1939_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[조주완 LG전자 사장, 브라질·칠레서 '2030 부산세계박람회' 유치 활동 (테크M ─ 피플)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=108087</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=108087</guid>
@@ -627,7 +635,7 @@
             <title><![CDATA[[부고] 박재욱씨(쏘카 대표) 모친상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Mon, 20 Mar 2023 02:46:05 GMT</pubDate>
+            <pubDate>Mon, 20 Mar 2023 04:22:39 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
         </item>
         <item>
@@ -717,13 +725,6 @@
             <pubDate>Fri, 10 Mar 2023 11:08:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202303/107771_130854_846_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[부고] 최원효씨 별세 (테크M ─ 피플)]]></title>
-            <link>https://ITCORD.github.io/techm/all.xml</link>
-            <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Mon, 20 Mar 2023 02:46:05 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[여행포털로 도약한 티몬...사이판 여행 상품 특가 판매 (테크M ─ 라이프)]]></title>
