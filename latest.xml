@@ -4,9 +4,24 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Mar 2023 18:26:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Mar 2023 19:17:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[GDC 23] 'GDC 개막' 첫날부터 몰려든 구름인파...전세계 게임업계 이목 집중]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=108154</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=108154</guid>
+            <pubDate>Tue, 21 Mar 2023 03:03:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202303/108154_131517_311_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[부고] 장동준(게임톡 국장)씨 모친상]]></title>
+            <link>https://www.techm.kr/news/articleList.html</link>
+            <guid>https://www.techm.kr/news/articleList.html</guid>
+            <pubDate>Tue, 21 Mar 2023 02:49:00 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[PWS 통신] 다나와 중간 합계 1위...오피지지-필더-젠지 바짝 추격]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=108153</link>
@@ -150,22 +165,6 @@
             <pubDate>Mon, 20 Mar 2023 06:23:29 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202303/108128_131466_1947_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["할인코드 입력하면 10% 할인"…우티, 브랜드 캠페인 및 이벤트 진행]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=108120</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=108120</guid>
-            <pubDate>Mon, 20 Mar 2023 06:23:29 GMT</pubDate>
-            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202303/108120_131459_4526_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[흥행 조합 장혁·장나라 '패밀리'...디즈니플러스에 뜬다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=108121</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=108121</guid>
-            <pubDate>Mon, 20 Mar 2023 06:23:29 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202303/108121_131460_5245_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
