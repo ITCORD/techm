@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Mar 2023 08:27:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Mar 2023 09:20:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 업스테이지, '아숙업(AskUp)'에 GPT-4 도입]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=108141</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=108141</guid>
+            <pubDate>Mon, 20 Mar 2023 09:20:23 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202303/108141_131482_3528_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[게임코인TV] 2023 GDC 예고...위메이드부터 넥슨-넷마블까지]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=108074</link>
@@ -110,14 +118,6 @@
             <pubDate>Wed, 08 Mar 2023 08:25:35 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202303/107716_130734_524_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 넷마블, 모두의마블2: 메타월드 선보인다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=107635</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=107635</guid>
-            <pubDate>Tue, 07 Mar 2023 07:19:04 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202303/107635_130601_5127_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
