@@ -4,9 +4,17 @@
         <title>테크M ─ 콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Mar 2023 01:20:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Mar 2023 02:35:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스튜디오드래곤, 안전 관리 캠페인…"제작환경 사고 방지"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=108180</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=108180</guid>
+            <pubDate>Tue, 21 Mar 2023 10:46:00 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202303/108180_131542_2328_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[GDC 23] 화려한 조연 넘어 주연으로...블록체인 게임, GDC로 '확실한 대세' 눈도장]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=108162</link>
@@ -110,14 +118,6 @@
             <pubDate>Mon, 20 Mar 2023 11:52:00 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202303/108116_131452_4726_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[카카오게임즈 '아키에이지 워' 출격 D-1...韓 MMO 판도 변화 이끈다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=108112</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=108112</guid>
-            <pubDate>Mon, 20 Mar 2023 11:27:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202303/108112_131496_174_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
