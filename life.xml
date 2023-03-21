@@ -4,9 +4,17 @@
         <title>테크M ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Mar 2023 09:20:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Mar 2023 10:20:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[해킹 당해 고객정보 털렸다? 억울한 쿠팡 "사실무근"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=108211</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=108211</guid>
+            <pubDate>Tue, 21 Mar 2023 10:20:20 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202303/108211_131604_5217_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[에너지 효율 키운 삼성전자 비스포크 가전...초연결성도 'UP']]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=108171</link>
@@ -110,14 +118,6 @@
             <pubDate>Fri, 17 Mar 2023 09:33:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202303/108030_131317_3337_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["와인은 역시 이마트" 소믈리에가 맛으로만 고른 고품질 와인전 눈길]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=108012</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=108012</guid>
-            <pubDate>Thu, 16 Mar 2023 06:23:47 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202303/108012_131267_344_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
