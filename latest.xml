@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Mar 2023 07:17:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Mar 2023 08:23:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[카카오게임즈 아키에이지, 출시 첫날 애플 매출 1위로...'송재경' 이름값 톡톡]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=108206</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=108206</guid>
+            <pubDate>Tue, 21 Mar 2023 08:21:30 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202303/108206_131589_4731_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["더 이상 먹통은 없다" 카카오, 영업익 뒷걸음에도 '설비투자' 대폭 늘려]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=108200</link>
@@ -83,7 +91,7 @@
             <title><![CDATA[[게임코인TV] 현지에서 생생하게 전달하는 GDC 소식 1편]]></title>
             <link>https://www.techm.kr/news/articleList.html</link>
             <guid>https://www.techm.kr/news/articleList.html</guid>
-            <pubDate>Tue, 21 Mar 2023 07:15:13 GMT</pubDate>
+            <pubDate>Tue, 21 Mar 2023 08:21:30 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
         </item>
         <item>
@@ -157,14 +165,6 @@
             <pubDate>Tue, 21 Mar 2023 11:27:00 GMT</pubDate>
             <content:encoded><![CDATA[김가은 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202303/108183_131545_2135_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성전자, UWB 기반 근거리 무선통신용 반도체 '엑시노스 커넥트 U100' 공개]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=108173</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=108173</guid>
-            <pubDate>Tue, 21 Mar 2023 11:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202303/108173_131534_5647_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Mar 2023 07:17:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Mar 2023 08:23:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[카카오게임즈 아키에이지, 출시 첫날 애플 매출 1위로...'송재경' 이름값 톡톡 (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=108206</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=108206</guid>
+            <pubDate>Tue, 21 Mar 2023 08:21:30 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202303/108206_131589_4731_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["더 이상 먹통은 없다" 카카오, 영업익 뒷걸음에도 '설비투자' 대폭 늘려 (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=108200</link>
@@ -83,7 +91,7 @@
             <title><![CDATA[[게임코인TV] 현지에서 생생하게 전달하는 GDC 소식 1편 (테크M ─ 전체기사)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Tue, 21 Mar 2023 07:15:13 GMT</pubDate>
+            <pubDate>Tue, 21 Mar 2023 08:21:30 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
         </item>
         <item>
@@ -159,18 +167,10 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202303/108183_131545_2135_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[삼성전자, UWB 기반 근거리 무선통신용 반도체 '엑시노스 커넥트 U100' 공개 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=108173</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=108173</guid>
-            <pubDate>Tue, 21 Mar 2023 11:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202303/108173_131534_5647_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA["내가 즐기는 게임하며 코인 번다"...퍼플레이, 게임업계 베테랑 멤버 공개 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=108202</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=108202</guid>
-            <pubDate>Tue, 21 Mar 2023 07:15:31 GMT</pubDate>
+            <pubDate>Tue, 21 Mar 2023 07:15:13 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202303/108202_131588_238_v150.jpg" length="0" type="image/jpg"/>
         </item>
@@ -282,7 +282,7 @@
             <title><![CDATA["더 이상 먹통은 없다" 카카오, 영업익 뒷걸음에도 '설비투자' 대폭 늘려 (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=108200</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=108200</guid>
-            <pubDate>Tue, 21 Mar 2023 07:15:50 GMT</pubDate>
+            <pubDate>Tue, 21 Mar 2023 07:15:13 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202303/108200_131586_5257_v150.jpg" length="0" type="image/jpg"/>
         </item>
@@ -290,7 +290,7 @@
             <title><![CDATA['애플페이' 오니 '아이폰14' 최대 45만원 싸졌다…통신사 공시지원금 일제 상향 (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=108199</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=108199</guid>
-            <pubDate>Tue, 21 Mar 2023 07:15:50 GMT</pubDate>
+            <pubDate>Tue, 21 Mar 2023 07:15:13 GMT</pubDate>
             <content:encoded><![CDATA[김가은 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202303/108199_131585_3335_v150.jpg" length="0" type="image/jpg"/>
         </item>
@@ -394,7 +394,7 @@
             <title><![CDATA[삼성, 로봇 스타트업 '뉴빌리티' 찍었다...30억원 투자 유치 (테크M ─ 이노베이션)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=108201</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=108201</guid>
-            <pubDate>Tue, 21 Mar 2023 07:16:08 GMT</pubDate>
+            <pubDate>Tue, 21 Mar 2023 07:15:13 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202303/108201_131587_151_v150.jpg" length="0" type="image/jpg"/>
         </item>
@@ -503,6 +503,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202303/107964_131174_444_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[카카오게임즈 아키에이지, 출시 첫날 애플 매출 1위로...'송재경' 이름값 톡톡 (테크M ─ 인베스트먼트)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=108206</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=108206</guid>
+            <pubDate>Tue, 21 Mar 2023 08:22:26 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202303/108206_131589_4731_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[테크M 이슈] "역시 방준혁" 中 판호 최대 보유자 넷마블...대륙 정벌 본격화 (테크M ─ 인베스트먼트)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=108185</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=108185</guid>
@@ -607,14 +615,6 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202303/108041_131329_4049_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[테크M 리포트] 다시 뛰는 넥슨게임즈...中 대륙정벌 기대감 'UP' (테크M ─ 인베스트먼트)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=108010</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=108010</guid>
-            <pubDate>Thu, 16 Mar 2023 05:16:30 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202303/108010_131265_114_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[부고] 장동준(게임톡 국장)씨 모친상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
@@ -641,7 +641,7 @@
             <title><![CDATA[[부고] 박재욱씨(쏘카 대표) 모친상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Tue, 21 Mar 2023 07:16:36 GMT</pubDate>
+            <pubDate>Tue, 21 Mar 2023 08:22:41 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
         </item>
         <item>
@@ -960,7 +960,7 @@
             <title><![CDATA[[게임코인TV] 현지에서 생생하게 전달하는 GDC 소식 1편 (테크M ─ 보는 뉴스)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Tue, 21 Mar 2023 07:17:30 GMT</pubDate>
+            <pubDate>Tue, 21 Mar 2023 08:23:27 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
         </item>
         <item>
