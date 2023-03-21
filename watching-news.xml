@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Mar 2023 03:21:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Mar 2023 04:21:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[GDC 23] 등록대기열에 굿즈숍도 인기, 부모 위한 키즈룸도 완비...사진으로 보는 GDC 2023]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=108190</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=108190</guid>
+            <pubDate>Tue, 21 Mar 2023 04:21:51 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202303/108190_131561_4856_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 업스테이지, '아숙업(AskUp)'에 GPT-4 도입]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=108141</link>
@@ -110,14 +118,6 @@
             <pubDate>Thu, 09 Mar 2023 01:41:15 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202303/107720_130756_3136_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 네오위즈, '스포츠박스AI'에 전략적 투자]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=107716</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=107716</guid>
-            <pubDate>Wed, 08 Mar 2023 08:25:35 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202303/107716_130734_524_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
