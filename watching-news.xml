@@ -4,9 +4,24 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Mar 2023 04:21:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Mar 2023 05:20:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 티맥스소프트, 메타버스 디지털 가상 홍보관 설립]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=108194</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=108194</guid>
+            <pubDate>Tue, 21 Mar 2023 05:20:26 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202303/108194_131571_5821_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[게임코인TV] 현지에서 생생하게 전달하는 GDC 소식 1편]]></title>
+            <link>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN10&amp;view_type=sm</link>
+            <guid>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN10&amp;view_type=sm</guid>
+            <pubDate>Tue, 21 Mar 2023 05:20:26 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[GDC 23] 등록대기열에 굿즈숍도 인기, 부모 위한 키즈룸도 완비...사진으로 보는 GDC 2023]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=108190</link>
@@ -102,22 +117,6 @@
             <pubDate>Thu, 09 Mar 2023 07:20:59 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202303/107755_130803_558_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[게임코인TV] 메이플스토리 게임 코인 나올까?...GDC 참가하는 넥슨]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=107742</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=107742</guid>
-            <pubDate>Thu, 09 Mar 2023 06:28:33 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202303/107742_130792_4621_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[게임코인TV] IT기자라면 꼭 가봐야 할 MWC...생생한 취재 후기]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=107720</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=107720</guid>
-            <pubDate>Thu, 09 Mar 2023 01:41:15 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202303/107720_130756_3136_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
