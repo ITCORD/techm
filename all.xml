@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Mar 2023 17:17:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Mar 2023 18:22:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[게임코인TV] '흥행 대박' GDC 입장하려면 대기시간만 2시간?...현지 생생 GDC 소식 2편 (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=108213</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=108213</guid>
+            <pubDate>Wed, 22 Mar 2023 02:51:00 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202303/108213_131609_5048_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[PWS 통신] 1점차 아찔한 승부...DK, 펜타그램 추격 따돌리고 대역전승 (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=108212</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 21 Mar 2023 00:38:00 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202303/108189_131553_3641_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[GDC 23] 베일 벗은 넷마블 '모두의마블2'...게임 플랫폼 거쳐 메타버스로 간다 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=108188</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=108188</guid>
-            <pubDate>Tue, 21 Mar 2023 00:37:00 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202303/108188_131594_2424_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[PWS 통신] 1점차 아찔한 승부...DK, 펜타그램 추격 따돌리고 대역전승 (테크M ─ 콘텐츠)]]></title>
@@ -642,7 +642,7 @@
             <title><![CDATA[[부고] 박재욱씨(쏘카 대표) 모친상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Tue, 21 Mar 2023 17:16:28 GMT</pubDate>
+            <pubDate>Tue, 21 Mar 2023 18:21:41 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
         </item>
         <item>
@@ -950,6 +950,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202303/107800_130917_3518_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[게임코인TV] '흥행 대박' GDC 입장하려면 대기시간만 2시간?...현지 생생 GDC 소식 2편 (테크M ─ 보는 뉴스)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=108213</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=108213</guid>
+            <pubDate>Wed, 22 Mar 2023 02:51:00 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202303/108213_131609_5048_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[카드뉴스] 티맥스소프트, 메타버스 디지털 가상 홍보관 설립 (테크M ─ 보는 뉴스)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=108194</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=108194</guid>
@@ -1052,14 +1060,6 @@
             <pubDate>Fri, 10 Mar 2023 08:23:28 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202303/107792_130888_3447_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 메타버스 플랫폼 '젭', 소프트뱅크 손잡고 일본 진출 본격화 (테크M ─ 보는 뉴스)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=107755</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=107755</guid>
-            <pubDate>Thu, 09 Mar 2023 07:17:27 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202303/107755_130803_558_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
