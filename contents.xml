@@ -4,9 +4,17 @@
         <title>테크M ─ 콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Mar 2023 23:18:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Mar 2023 01:20:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[GDC 23] 화려한 조연 넘어 주연으로...블록체인 게임, GDC로 '확실한 대세' 눈도장]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=108162</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=108162</guid>
+            <pubDate>Tue, 21 Mar 2023 08:47:00 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202303/108162_131521_2247_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[GDC 23] 블록체인 게임 기업 갈라 "조이시티-액션스퀘어와 트리플A 게임 만든다"]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=108160</link>
@@ -110,14 +118,6 @@
             <pubDate>Mon, 20 Mar 2023 11:27:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202303/108112_131496_174_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한류 IP 수호자 카카오엔터...1년새 인니서 불법유통 1.5만건 차단]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=108103</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=108103</guid>
-            <pubDate>Mon, 20 Mar 2023 10:28:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202303/108103_131437_2818_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
