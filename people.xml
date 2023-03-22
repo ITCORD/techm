@@ -4,9 +4,17 @@
         <title>테크M ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Mar 2023 01:19:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Mar 2023 02:36:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성전자, 라오스에 '2030 부산엑스포' 지지 요청]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=108229</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=108229</guid>
+            <pubDate>Wed, 22 Mar 2023 10:23:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202303/108229_131631_2229_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[부고] 장동준(게임톡 국장)씨 모친상]]></title>
             <link>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN5&amp;view_type=sm</link>
@@ -34,7 +42,7 @@
             <title><![CDATA[[부고] 박재욱씨(쏘카 대표) 모친상]]></title>
             <link>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN5&amp;view_type=sm</link>
             <guid>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN5&amp;view_type=sm</guid>
-            <pubDate>Wed, 22 Mar 2023 01:18:20 GMT</pubDate>
+            <pubDate>Wed, 22 Mar 2023 02:35:52 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
         </item>
         <item>
@@ -108,14 +116,6 @@
             <pubDate>Sun, 12 Mar 2023 00:53:00 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202303/107818_130945_4525_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[구광모 회장 상대로 가족들 "상속재산 다시 분할하자" 소송…LG "경영권 흔들기 용인 못해"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=107796</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=107796</guid>
-            <pubDate>Fri, 10 Mar 2023 08:25:33 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202303/107796_130908_336_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
