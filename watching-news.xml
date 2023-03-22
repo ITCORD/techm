@@ -4,9 +4,24 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Mar 2023 09:19:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Mar 2023 10:19:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[게임코인TV] 진짜 대박난 GDC, 게코가 전하는 더욱 풍성해진 둘째날 이야기]]></title>
+            <link>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN10&amp;view_type=sm</link>
+            <guid>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN10&amp;view_type=sm</guid>
+            <pubDate>Wed, 22 Mar 2023 10:19:49 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[카드뉴스] 넷마블 GDC 2023서 '모두의 마블2' 공개…게임 플랫폼 거쳐 메타버스로]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=108254</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=108254</guid>
+            <pubDate>Wed, 22 Mar 2023 10:19:50 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202303/108254_131663_4016_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[게임코인TV] '흥행 대박' GDC 입장하려면 대기시간만 2시간?...현지 생생 GDC 소식 2편]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=108213</link>
@@ -102,22 +117,6 @@
             <pubDate>Wed, 15 Mar 2023 08:12:00 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202303/107876_131052_2543_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 위메이드, 위믹스 플레이 3.0 오는 15일 공개...'게임부터 디파이까지']]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=107851</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=107851</guid>
-            <pubDate>Mon, 13 Mar 2023 08:28:10 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202303/107851_131004_3557_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 韓 인터넷 기업들, '챗GPT' 활용성 키우다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=107792</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=107792</guid>
-            <pubDate>Fri, 10 Mar 2023 08:26:18 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202303/107792_130888_3447_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
