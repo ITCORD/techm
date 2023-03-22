@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Mar 2023 20:19:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Mar 2023 21:16:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[GDC 23] 올해도 GDC 찾은 장현국 위메이드 "블록체인 게임, 1인치 전진했다" (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=108260</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=108260</guid>
+            <pubDate>Thu, 23 Mar 2023 06:09:00 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202303/108260_131689_916_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[GDC 23] 송재준 컴투스 "이제는 수확할 때...블록체인·메타버스·콘텐츠로 기업가치 10조 향한다" (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=108227</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=108227</guid>
+            <pubDate>Thu, 23 Mar 2023 05:50:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202303/108227_131685_4728_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[GDC 23] 윤송이 엔씨, 에픽 간담회 깜짝 등장...김택진 디지털휴먼과 함께 프로젝트M 소개 (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=108258</link>
@@ -150,22 +166,6 @@
             <pubDate>Wed, 22 Mar 2023 05:16:00 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202303/108241_131648_5313_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[네이버 주총 경영진 '안정'에 방점…최수연호 글로벌 향해 뛴다 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=108239</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=108239</guid>
-            <pubDate>Wed, 22 Mar 2023 00:38:00 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202303/108239_131678_3952_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[LCK 브리핑] 또 하나의 역사 쓴 T1...5명 모두 '올 퍼스트팀' 선정 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=108238</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=108238</guid>
-            <pubDate>Wed, 22 Mar 2023 11:36:00 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202303/108238_131644_3324_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[GDC 23] 윤송이 엔씨, 에픽 간담회 깜짝 등장...김택진 디지털휴먼과 함께 프로젝트M 소개 (테크M ─ 콘텐츠)]]></title>
@@ -616,6 +616,30 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202303/108100_131435_2312_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[GDC 23] 인터게임 이코노미 강조한 장현국 위메이드 "게임내 모든 재화가 토큰 된다" (테크M ─ 피플)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=108259</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=108259</guid>
+            <pubDate>Thu, 23 Mar 2023 06:13:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202303/108259_131688_5054_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[GDC 23] 올해도 GDC 찾은 장현국 위메이드 "블록체인 게임, 1인치 전진했다" (테크M ─ 피플)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=108260</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=108260</guid>
+            <pubDate>Thu, 23 Mar 2023 06:09:00 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202303/108260_131689_916_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[GDC 23] 송재준 컴투스 "이제는 수확할 때...블록체인·메타버스·콘텐츠로 기업가치 10조 향한다" (테크M ─ 피플)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=108227</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=108227</guid>
+            <pubDate>Thu, 23 Mar 2023 05:50:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202303/108227_131685_4728_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[GDC 23] 송재준 컴투스 "블록체인 게임은 '크로니클' 전후로 나뉜다" (테크M ─ 피플)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=108220</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=108220</guid>
@@ -658,7 +682,7 @@
             <title><![CDATA[[부고] 박재욱씨(쏘카 대표) 모친상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Wed, 22 Mar 2023 20:18:52 GMT</pubDate>
+            <pubDate>Wed, 22 Mar 2023 21:15:54 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
         </item>
         <item>
@@ -700,30 +724,6 @@
             <pubDate>Wed, 15 Mar 2023 05:16:37 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202303/107953_131163_5714_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이재진 웅진씽크빅 "네이버 클로바-챗GPT와 기술 협력...맞춤 교육의 완성" (테크M ─ 피플)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=107947</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=107947</guid>
-            <pubDate>Wed, 15 Mar 2023 00:54:00 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202303/107947_131159_4553_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[네이버 ESG 이끄는 채선주, 지난해 보수총액 21.6억 (테크M ─ 피플)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=107897</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=107897</guid>
-            <pubDate>Tue, 14 Mar 2023 09:19:51 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202303/107897_131095_4826_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[안랩, 창립 28주년 기념일 맞아 '생명 나눔' 헌혈 캠페인 진행 (테크M ─ 피플)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=107895</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=107895</guid>
-            <pubDate>Tue, 14 Mar 2023 07:17:49 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202303/107895_131083_5743_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[마켓컬리, '컬리온리' 통해 발린느 카이막 내놨다 (테크M ─ 라이프)]]></title>
