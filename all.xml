@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Mar 2023 17:18:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Mar 2023 18:24:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,6 +168,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202303/108237_131642_1916_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[GDC 23] 윤송이 엔씨, 에픽 간담회 깜짝 등장...김택진 디지털휴먼과 함께 프로젝트M 소개 (테크M ─ 콘텐츠)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=108258</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=108258</guid>
+            <pubDate>Thu, 23 Mar 2023 03:19:00 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202303/108258_131683_1813_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[린저씨 다잡기 나선 엔씨소프트...리니지M·2M 동시 업데이트 띄웠다 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=108247</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=108247</guid>
@@ -270,14 +278,6 @@
             <pubDate>Tue, 21 Mar 2023 00:37:00 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202303/108188_131551_2259_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이제동-김민철-김명운-이영한...ASL 16강, 최고의 저그 총출동 (테크M ─ 콘텐츠)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=108187</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=108187</guid>
-            <pubDate>Tue, 21 Mar 2023 00:29:00 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202303/108187_131552_278_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[두나무, 5월 '차세대 내부통제 시스템' 가동…가상자산 지갑 트래킹 기능 강화 (테크M ─ 인프라)]]></title>
@@ -658,7 +658,7 @@
             <title><![CDATA[[부고] 박재욱씨(쏘카 대표) 모친상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Wed, 22 Mar 2023 17:16:53 GMT</pubDate>
+            <pubDate>Wed, 22 Mar 2023 18:22:37 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
         </item>
         <item>
