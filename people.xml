@@ -4,9 +4,17 @@
         <title>테크M ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Mar 2023 15:20:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Mar 2023 16:24:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[GDC 23] 송재준 컴투스 "블록체인 게임은 '크로니클' 전후로 나뉜다"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=108220</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=108220</guid>
+            <pubDate>Thu, 23 Mar 2023 01:07:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202303/108220_131681_450_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[삼성전자, 라오스에 '2030 부산엑스포' 지지 요청]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=108229</link>
@@ -42,7 +50,7 @@
             <title><![CDATA[[부고] 박재욱씨(쏘카 대표) 모친상]]></title>
             <link>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN5&amp;view_type=sm</link>
             <guid>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN5&amp;view_type=sm</guid>
-            <pubDate>Wed, 22 Mar 2023 15:19:56 GMT</pubDate>
+            <pubDate>Wed, 22 Mar 2023 16:23:40 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
         </item>
         <item>
@@ -108,14 +116,6 @@
             <pubDate>Tue, 14 Mar 2023 07:19:07 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202303/107895_131083_5743_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[韓 1등 메신저 만든 카카오 김범수, '한국판 디즈니' 향해간다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=107818</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=107818</guid>
-            <pubDate>Sun, 12 Mar 2023 00:53:00 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202303/107818_130945_4525_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
