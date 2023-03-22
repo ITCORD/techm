@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Mar 2023 03:19:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Mar 2023 04:23:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[네이버 주총 경영진 '안정'에 방점…최수연호 글로벌 향해 뛴다 (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=108239</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=108239</guid>
+            <pubDate>Wed, 22 Mar 2023 00:38:00 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202303/108239_131647_3624_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[LCK 브리핑] 또 하나의 역사 쓴 T1...5명 모두 '올 퍼스트팀' 선정 (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=108238</link>
@@ -160,14 +168,6 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202303/108217_131620_1229_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[GDC 23] 블록체인 게임이 성공하려면?...컴투스가 얻은 교훈 '크로니클'에 담아 7월 출격 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=108219</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=108219</guid>
-            <pubDate>Wed, 22 Mar 2023 06:53:00 GMT</pubDate>
-            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202303/108219_131617_4810_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[LCK 브리핑] 또 하나의 역사 쓴 T1...5명 모두 '올 퍼스트팀' 선정 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=108238</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=108238</guid>
@@ -280,6 +280,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202303/108162_131596_2551_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[네이버 주총 경영진 '안정'에 방점…최수연호 글로벌 향해 뛴다 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=108239</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=108239</guid>
+            <pubDate>Wed, 22 Mar 2023 00:38:00 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202303/108239_131647_3624_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[네이버, 정기 주총 개회...변대규 의장 재선임·이사 보수 한도 삭감 (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=108237</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=108237</guid>
@@ -382,14 +390,6 @@
             <pubDate>Tue, 21 Mar 2023 07:15:13 GMT</pubDate>
             <content:encoded><![CDATA[김가은 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202303/108199_131585_3335_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["게 섯거라 네이버-카카오" 협업툴 잔디, 2월 이용자 10만 육박...비결은 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=108198</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=108198</guid>
-            <pubDate>Tue, 21 Mar 2023 06:20:53 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202303/108198_131584_5249_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[김성수 카카오 의장 '계열사 다이어트' 약속...11개 정리에 그친 이유 (테크M ─ 이노베이션)]]></title>
@@ -650,7 +650,7 @@
             <title><![CDATA[[부고] 박재욱씨(쏘카 대표) 모친상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Wed, 22 Mar 2023 03:18:47 GMT</pubDate>
+            <pubDate>Wed, 22 Mar 2023 04:21:26 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
         </item>
         <item>
