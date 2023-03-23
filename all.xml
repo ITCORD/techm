@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Mar 2023 14:24:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Mar 2023 15:24:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -167,6 +167,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202303/108269_131705_3613_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[LCK 브리핑] KT-한화생명 PO 2R 진출...T1, 2R 상대 KT '픽'했다 (테크M ─ 콘텐츠)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=108311</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=108311</guid>
+            <pubDate>Thu, 23 Mar 2023 15:18:19 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202303/108311_131777_923_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[전투 흐름 주도할 '정통' 서포터 등장...라이엇 게임즈, 163번째 챔피언 '밀리오' 선봬 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=108305</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=108305</guid>
@@ -186,7 +194,7 @@
             <title><![CDATA[[게임코인TV] 위메이드 키노트 강연 등 3일차의 모든 것...현지 생생GDC 소식 4편 (테크M ─ 콘텐츠)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Thu, 23 Mar 2023 14:17:40 GMT</pubDate>
+            <pubDate>Thu, 23 Mar 2023 15:18:19 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
         </item>
         <item>
@@ -268,14 +276,6 @@
             <pubDate>Thu, 23 Mar 2023 08:57:00 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202303/108265_131772_2113_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[GDC 23] GDC 강연 나선 위메이드 임원들...위믹스·블록체인 게임 알리기 총력 (테크M ─ 콘텐츠)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=108264</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=108264</guid>
-            <pubDate>Thu, 23 Mar 2023 08:33:00 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202303/108264_131697_2036_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[삼성SDS가 선택한 엠로, 지난해 매출 586억원…"최대 실적 경신" (테크M ─ 인프라)]]></title>
