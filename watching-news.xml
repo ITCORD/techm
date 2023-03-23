@@ -4,9 +4,25 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Mar 2023 18:28:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Mar 2023 19:18:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[게임코인TV] 미리보는 GDC 2일차! 위메이드 키노트 강연과 메이플스토리 유니버스 등장...현지 생생 GDC 소식 4편]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=108302</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=108302</guid>
+            <pubDate>Thu, 23 Mar 2023 19:18:15 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202303/108302_131785_943_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[카드뉴스] 컴투스, 기업가치 10조 향한다 '게임·블록체인·메타버스·콘텐츠로']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=108293</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=108293</guid>
+            <pubDate>Thu, 23 Mar 2023 19:18:15 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202303/108293_131737_2820_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[게임코인TV] 드디어 공개된 넷마블 '모두의마블2', 한국 게임사와 협력하는 갈라...현지 생생 GDC 소식 3편]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=108257</link>
@@ -102,22 +118,6 @@
             <pubDate>Thu, 16 Mar 2023 01:24:40 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202303/107973_131216_5242_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 메타버스 '이프랜드'에 미스터트롯2 전용 공간 생긴다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=107966</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=107966</guid>
-            <pubDate>Wed, 15 Mar 2023 08:26:23 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202303/107966_131181_111_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] KT, 메타버스 '지니버스' 시범 서비스 시작]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=107876</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=107876</guid>
-            <pubDate>Wed, 15 Mar 2023 08:12:00 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202303/107876_131052_2543_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
