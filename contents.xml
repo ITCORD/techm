@@ -4,9 +4,17 @@
         <title>테크M ─ 콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Mar 2023 16:31:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Mar 2023 17:23:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["오딘 기록 넘었다" 카카오게임즈 '아키에이지 워' 출시 이틀새 구글 매출 5위 '껑충']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=108313</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=108313</guid>
+            <pubDate>Thu, 23 Mar 2023 17:18:18 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202303/108313_131780_2920_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[LCK 브리핑] KT-한화생명 PO 2R 진출...T1, 2R 상대 KT '픽'했다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=108311</link>
@@ -32,11 +40,12 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202303/108304_131759_257_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[게임코인TV] 위메이드 키노트 강연 등 3일차의 모든 것...현지 생생GDC 소식 4편]]></title>
-            <link>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN1&amp;view_type=sm</link>
-            <guid>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN1&amp;view_type=sm</guid>
-            <pubDate>Thu, 23 Mar 2023 15:18:19 GMT</pubDate>
+            <title><![CDATA[[게임코인TV] 미리보는 GDC 2일차! 위메이드 키노트 강연과 메이플스토리 유니버스 등장...현지 생생 GDC 소식 4편]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=108302</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=108302</guid>
+            <pubDate>Thu, 23 Mar 2023 17:18:18 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202303/108302_131785_943_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[조이시티 '캐리비안의해적:전쟁의물결' 신규 항해사 업데이트]]></title>
@@ -109,14 +118,6 @@
             <pubDate>Thu, 23 Mar 2023 09:59:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202303/108272_131708_5923_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[GDC 23] '라이브게임 제왕' 넥슨 노하우 결정체 '게임스케일'...MS 통해 외부에도 개방]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=108265</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=108265</guid>
-            <pubDate>Thu, 23 Mar 2023 08:57:00 GMT</pubDate>
-            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202303/108265_131772_2113_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
