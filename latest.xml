@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Mar 2023 21:17:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Mar 2023 22:18:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[GDC 23] 온마인드가 유니티를 선택한 이유...버추얼 휴먼 쉽고 빠르게 만든다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=108354</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=108354</guid>
+            <pubDate>Sat, 25 Mar 2023 07:01:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202303/108354_131868_4910_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[게임코인TV] '1주일에 100억' 글로벌 대박난 서머너즈: 크로니클엔 '쌀먹' 없다...현지 생생 GDC 소식 7편]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=108352</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 24 Mar 2023 05:15:25 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202303/108333_131860_3951_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[게임코인TV] '인터게임 이코노미' 장현국 위메이드 대표 GDC 강연 후기...현지 생생 GDC 소식 5편]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=108332</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=108332</guid>
-            <pubDate>Fri, 24 Mar 2023 00:40:00 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202303/108332_131820_299_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
