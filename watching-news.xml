@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Mar 2023 05:18:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Mar 2023 06:24:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] GDC 2023, 'VR게임' 대중화 시대 열리다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=108342</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=108342</guid>
+            <pubDate>Fri, 24 Mar 2023 06:24:32 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202303/108342_131831_4714_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[게임코인TV] '인터게임 이코노미' 장현국 위메이드 대표 GDC 강연 후기...현지 생생 GDC 소식 5편]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=108332</link>
@@ -110,14 +118,6 @@
             <pubDate>Thu, 16 Mar 2023 23:21:07 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202303/108027_131315_11_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 웅진씽크빅, 교육플랫폼에 '생성형AI' 도입]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=108020</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=108020</guid>
-            <pubDate>Thu, 16 Mar 2023 07:18:47 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202303/108020_131278_2314_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
