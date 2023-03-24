@@ -4,9 +4,23 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Mar 2023 10:20:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Mar 2023 11:18:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[게임코인TV] '일주일에 100억' 글로벌에서 대박난 서머너즈:크로니클 이야기...현지 생생 GDC 소식 7편]]></title>
+            <link>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN10&amp;view_type=sm</link>
+            <guid>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN10&amp;view_type=sm</guid>
+            <pubDate>Fri, 24 Mar 2023 11:18:17 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[게임코인TV] 넥슨이 꿈꾸는 블록체인 게임 오픈형 생태계?...현지 생생 GDC 소식 6편]]></title>
+            <link>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN10&amp;view_type=sm</link>
+            <guid>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN10&amp;view_type=sm</guid>
+            <pubDate>Fri, 24 Mar 2023 11:18:17 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] GDC 2023, 'VR게임' 대중화 시대 열리다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=108342</link>
@@ -102,22 +116,6 @@
             <pubDate>Fri, 17 Mar 2023 11:18:56 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202303/108074_131390_058_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 삼성전자, '지능형 로봇' 사업 본격화]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=108057</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=108057</guid>
-            <pubDate>Fri, 17 Mar 2023 06:22:51 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202303/108057_131347_4739_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[게임코인TV] 2023 GDC 예고...컴투스와 위메이드 이야기]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=108027</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=108027</guid>
-            <pubDate>Thu, 16 Mar 2023 23:21:07 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202303/108027_131315_11_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
