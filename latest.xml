@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Mar 2023 22:18:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Mar 2023 23:18:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[같이봐영] 나이트 에이전트·보스톤 교살자...나른한 봄을 깨울 미스터리·스릴러]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=108315</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=108315</guid>
+            <pubDate>Sat, 25 Mar 2023 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202303/108315_131783_5735_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[GDC 23] 온마인드가 유니티를 선택한 이유...버추얼 휴먼 쉽고 빠르게 만든다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=108354</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 24 Mar 2023 05:15:25 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202303/108334_131822_1448_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[韓 넥슨 초격차 1위 이끈 CEO 이정헌...이제 '글로벌 넥슨' 중책 맡는다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=108333</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=108333</guid>
-            <pubDate>Fri, 24 Mar 2023 05:15:25 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202303/108333_131860_3951_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

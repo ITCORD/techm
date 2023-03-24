@@ -4,9 +4,17 @@
         <title>테크M ─ 콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Mar 2023 22:18:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Mar 2023 23:18:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[같이봐영] 나이트 에이전트·보스톤 교살자...나른한 봄을 깨울 미스터리·스릴러]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=108315</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=108315</guid>
+            <pubDate>Sat, 25 Mar 2023 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202303/108315_131783_5735_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[GDC 23] 넷마블, '7대죄 오리진' 시연 빌드 첫선]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=108346</link>
@@ -110,14 +118,6 @@
             <pubDate>Thu, 23 Mar 2023 07:16:23 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202303/108301_131757_221_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[GDC 23] 넷마블 카밤, 언리얼5 기반 '원탁의 기사 첫선]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=108300</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=108300</guid>
-            <pubDate>Thu, 23 Mar 2023 07:16:23 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202303/108300_131755_5958_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
