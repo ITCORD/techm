@@ -4,9 +4,16 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Mar 2023 03:21:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Mar 2023 04:23:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[게임코인TV] 장현국 위메이드 대표 GDC 강연 후기...현지 생생 GDC 소식 5편]]></title>
+            <link>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN10&amp;view_type=sm</link>
+            <guid>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN10&amp;view_type=sm</guid>
+            <pubDate>Fri, 24 Mar 2023 00:40:00 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[게임코인TV] 미리보는 GDC 2일차! 위메이드 키노트 강연과 메이플스토리 유니버스 등장...현지 생생 GDC 소식 4편]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=108302</link>
@@ -110,14 +117,6 @@
             <pubDate>Thu, 16 Mar 2023 07:18:47 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202303/108020_131278_2314_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[게임코인TV] 5일 앞으로 다가온 GDC, 게임개발자 콘퍼런스의 의미는?]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=107973</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=107973</guid>
-            <pubDate>Thu, 16 Mar 2023 01:24:40 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202303/107973_131216_5242_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

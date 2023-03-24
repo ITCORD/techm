@@ -4,9 +4,16 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Mar 2023 03:21:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Mar 2023 04:23:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[게임코인TV] 장현국 위메이드 대표 GDC 강연 후기...현지 생생 GDC 소식 5편]]></title>
+            <link>https://www.techm.kr/news/articleList.html</link>
+            <guid>https://www.techm.kr/news/articleList.html</guid>
+            <pubDate>Fri, 24 Mar 2023 00:40:00 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[재하·퓨처리스틱 스웨버, YG 플러스 '믹스테이프' 지원사격…응원곡 발매]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=108330</link>
@@ -158,14 +165,6 @@
             <pubDate>Thu, 23 Mar 2023 19:13:40 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202303/108307_131764_316_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[테크M 이슈] 윤경림도 OUT? 증권가 "KT 지배구조 불확실성, 5월까지 갈 것"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=108306</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=108306</guid>
-            <pubDate>Thu, 23 Mar 2023 19:13:40 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202303/108306_131768_1847_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
