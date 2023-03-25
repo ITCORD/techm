@@ -4,9 +4,17 @@
         <title>테크M ─ 콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Mar 2023 23:18:27 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Mar 2023 01:18:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[GDC 23] 'VR게임이 이렇게 재밌다고?'...'크로스파이어: 시에라 스쿼드' 직접 해보니]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=108356</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=108356</guid>
+            <pubDate>Sat, 25 Mar 2023 09:25:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202303/108356_131875_548_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[같이봐영] 나이트 에이전트·보스톤 교살자...나른한 봄을 깨울 미스터리·스릴러]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=108315</link>
@@ -110,14 +118,6 @@
             <pubDate>Thu, 23 Mar 2023 10:19:26 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202303/108304_131759_257_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[조이시티 '캐리비안의해적:전쟁의물결' 신규 항해사 업데이트]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=108301</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=108301</guid>
-            <pubDate>Thu, 23 Mar 2023 07:16:23 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202303/108301_131757_221_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

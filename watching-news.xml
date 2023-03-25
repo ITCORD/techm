@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Mar 2023 23:18:27 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Mar 2023 01:18:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[GDC 23] "입장하고 싶어요" 흥행 대박낸 위메이드 '위믹스', 에픽-유니티-메타 부스까지...사진으로 보는 GDC 2023]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=108355</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=108355</guid>
+            <pubDate>Sat, 25 Mar 2023 09:11:00 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202303/108355_131871_5725_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[게임코인TV] '1주일에 100억' 글로벌 대박난 서머너즈: 크로니클엔 '쌀먹' 없다...현지 생생 GDC 소식 7편]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=108352</link>
@@ -110,14 +118,6 @@
             <pubDate>Mon, 20 Mar 2023 09:20:23 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202303/108141_131482_3528_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[게임코인TV] 2023 GDC 예고...위메이드부터 넥슨-넷마블까지]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=108074</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=108074</guid>
-            <pubDate>Fri, 17 Mar 2023 11:18:56 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202303/108074_131390_058_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
