@@ -4,9 +4,17 @@
         <title>테크M ─ 콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Mar 2023 04:22:30 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Mar 2023 05:17:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[GDC 23] GDC에도 불어닥친 AI 열풍..."게임 개발 속도 확 줄여준다"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=108361</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=108361</guid>
+            <pubDate>Sat, 25 Mar 2023 05:15:05 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202303/108361_131892_224_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[GDC 23] 원작 알면 더 재밌는 '일곱개의 대죄 오리진' 해보니...콘솔 느낌 '물씬']]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=108360</link>
@@ -110,14 +118,6 @@
             <pubDate>Thu, 23 Mar 2023 15:18:19 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202303/108311_131777_923_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전투 흐름 주도할 '정통' 서포터 등장...라이엇 게임즈, 163번째 챔피언 '밀리오' 선봬]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=108305</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=108305</guid>
-            <pubDate>Thu, 23 Mar 2023 10:19:26 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202303/108305_131760_3438_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
