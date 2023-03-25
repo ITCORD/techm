@@ -4,9 +4,16 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Mar 2023 10:22:50 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Mar 2023 11:16:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[게임코인TV] GDC 주류로 들어온 웹3.0 게임...'폴리곤부터 아발란체까지']]></title>
+            <link>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN10&amp;view_type=sm</link>
+            <guid>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN10&amp;view_type=sm</guid>
+            <pubDate>Sat, 25 Mar 2023 11:16:22 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[GDC 23] "입장하고 싶어요" 흥행 대박낸 위메이드 '위믹스', 에픽-유니티-메타 부스까지...사진으로 보는 GDC 2023]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=108355</link>
@@ -110,14 +117,6 @@
             <pubDate>Tue, 21 Mar 2023 09:20:17 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202303/108193_131605_1620_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[GDC 23] 등록대기열에 굿즈숍도 인기, 부모 위한 키즈룸도 완비...사진으로 보는 GDC 2023]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=108190</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=108190</guid>
-            <pubDate>Tue, 21 Mar 2023 04:21:51 GMT</pubDate>
-            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202303/108190_131561_4856_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

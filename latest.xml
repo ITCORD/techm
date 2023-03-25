@@ -4,9 +4,16 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Mar 2023 10:22:50 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Mar 2023 11:16:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[게임코인TV] GDC 주류로 들어온 웹3.0 게임...'폴리곤부터 아발란체까지']]></title>
+            <link>https://www.techm.kr/news/articleList.html</link>
+            <guid>https://www.techm.kr/news/articleList.html</guid>
+            <pubDate>Sat, 25 Mar 2023 11:12:34 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[PMPS가 온다] 확 늘어난 프로팀...DK-농심-우승후보 0순위]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=108364</link>
@@ -158,14 +165,6 @@
             <pubDate>Fri, 24 Mar 2023 06:20:49 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202303/108344_131848_1459_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[美 개척 의지 강조한 신동원 농심 회장...3공장 설립 구체화]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=108343</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=108343</guid>
-            <pubDate>Fri, 24 Mar 2023 06:20:49 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202303/108343_131847_720_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
