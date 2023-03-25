@@ -4,9 +4,17 @@
         <title>테크M ─ 콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Mar 2023 22:18:04 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Mar 2023 23:19:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[GDC 23] 어느때 보다 뜨거웠던 GDC 2023 폐막...3대 키워드는 가상현실·인공지능·블록체인]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=108363</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=108363</guid>
+            <pubDate>Sun, 26 Mar 2023 07:30:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202303/108363_131894_5547_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[PMPS가 온다] 확 늘어난 프로팀...DK-농심 우승후보 0순위]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=108364</link>
@@ -110,14 +118,6 @@
             <pubDate>Fri, 24 Mar 2023 06:24:00 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202303/108320_131804_184_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[GDC 23] 드디어 VR 세상 열리나...GDC 엑스포 시연대 장악한 VR게임]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=108318</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=108318</guid>
-            <pubDate>Fri, 24 Mar 2023 04:40:00 GMT</pubDate>
-            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202303/108318_131792_3244_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

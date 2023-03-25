@@ -4,21 +4,37 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Mar 2023 22:18:04 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Mar 2023 23:19:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[웹 3.0 시대 향한 네이버 제페토의 '넥스트 스텝'...연내 '아바타 빌더' 서비스 출시 (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=108314</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=108314</guid>
+            <pubDate>Sun, 26 Mar 2023 07:30:00 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202303/108314_131782_3749_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[GDC 23] 어느때 보다 뜨거웠던 GDC 2023 폐막...3대 키워드는 가상현실·인공지능·블록체인 (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=108363</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=108363</guid>
+            <pubDate>Sun, 26 Mar 2023 07:30:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202303/108363_131894_5547_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[게임코인TV] VR게임과 한국게임 가득한 GDC 메인 부스 탐험기 (테크M ─ 전체기사)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Sat, 25 Mar 2023 22:15:47 GMT</pubDate>
+            <pubDate>Sat, 25 Mar 2023 23:15:32 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[게임코인TV] GDC 주류로 들어온 웹3.0 게임...'폴리곤부터 아발란체까지' (테크M ─ 전체기사)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Sat, 25 Mar 2023 22:15:47 GMT</pubDate>
+            <pubDate>Sat, 25 Mar 2023 23:15:32 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
         </item>
         <item>
@@ -150,20 +166,12 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202303/108347_131863_4125_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[GDC 23] 넷마블, '7대죄 오리진' 시연 빌드 첫선 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=108346</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=108346</guid>
-            <pubDate>Fri, 24 Mar 2023 06:20:49 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202303/108346_131850_1923_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한빛소프트, 정기 주총서 이승현 대표 재선임 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=108345</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=108345</guid>
-            <pubDate>Fri, 24 Mar 2023 06:20:49 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202303/108345_131849_1754_v150.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[GDC 23] 어느때 보다 뜨거웠던 GDC 2023 폐막...3대 키워드는 가상현실·인공지능·블록체인 (테크M ─ 콘텐츠)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=108363</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=108363</guid>
+            <pubDate>Sun, 26 Mar 2023 07:30:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202303/108363_131894_5547_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[PMPS가 온다] 확 늘어난 프로팀...DK-농심 우승후보 0순위 (테크M ─ 콘텐츠)]]></title>
@@ -268,14 +276,6 @@
             <pubDate>Fri, 24 Mar 2023 06:24:00 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202303/108320_131804_184_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[GDC 23] 드디어 VR 세상 열리나...GDC 엑스포 시연대 장악한 VR게임 (테크M ─ 콘텐츠)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=108318</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=108318</guid>
-            <pubDate>Fri, 24 Mar 2023 04:40:00 GMT</pubDate>
-            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202303/108318_131792_3244_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["이자 수익 1000억 포기" 신한은행, 상생 금융에 소매 걷었다 (테크M ─ 인프라)]]></title>
@@ -390,6 +390,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202303/108288_131726_408_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[웹 3.0 시대 향한 네이버 제페토의 '넥스트 스텝'...연내 '아바타 빌더' 서비스 출시 (테크M ─ 이노베이션)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=108314</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=108314</guid>
+            <pubDate>Sun, 26 Mar 2023 07:30:00 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202303/108314_131782_3749_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[GDC 23] 온마인드가 유니티를 선택한 이유...버추얼 휴먼 쉽고 빠르게 만든다 (테크M ─ 이노베이션)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=108354</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=108354</guid>
@@ -492,14 +500,6 @@
             <pubDate>Tue, 21 Mar 2023 00:38:00 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202303/108189_131553_3641_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[올림플래닛, 페퍼저축은행 'AI페퍼스' 배구단 맞손...스포츠 메타버스 '눈길' (테크M ─ 이노베이션)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=108138</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=108138</guid>
-            <pubDate>Mon, 20 Mar 2023 08:25:03 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202303/108138_131478_1927_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[컴투스, 에스엠 지분 전량 처분한다…총 1488억원 규모로 차익 실현 (테크M ─ 인베스트먼트)]]></title>
@@ -952,14 +952,14 @@
             <title><![CDATA[[게임코인TV] VR게임과 한국게임 가득한 GDC 메인 부스 탐험기 (테크M ─ 보는 뉴스)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Sat, 25 Mar 2023 22:18:03 GMT</pubDate>
+            <pubDate>Sat, 25 Mar 2023 23:19:16 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[게임코인TV] GDC 주류로 들어온 웹3.0 게임...'폴리곤부터 아발란체까지' (테크M ─ 보는 뉴스)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Sat, 25 Mar 2023 22:18:03 GMT</pubDate>
+            <pubDate>Sat, 25 Mar 2023 23:19:16 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
         </item>
         <item>
