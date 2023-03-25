@@ -4,14 +4,21 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Mar 2023 15:19:48 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Mar 2023 16:25:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[게임코인TV] VR게임과 한국게임 가득한 GDC 메인 부스 탐험기]]></title>
+            <link>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN10&amp;view_type=sm</link>
+            <guid>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN10&amp;view_type=sm</guid>
+            <pubDate>Sat, 25 Mar 2023 16:25:24 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[게임코인TV] GDC 주류로 들어온 웹3.0 게임...'폴리곤부터 아발란체까지']]></title>
             <link>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN10&amp;view_type=sm</link>
             <guid>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN10&amp;view_type=sm</guid>
-            <pubDate>Sat, 25 Mar 2023 14:17:37 GMT</pubDate>
+            <pubDate>Sat, 25 Mar 2023 16:25:24 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
         </item>
         <item>
@@ -109,14 +116,6 @@
             <pubDate>Tue, 21 Mar 2023 05:20:26 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202303/108194_131571_5821_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[게임코인TV] 대박 조짐 보이는 GDC 분위기와 놓치면 안되는 강연까지...현지 생생 GDC 소식 1편]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=108193</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=108193</guid>
-            <pubDate>Tue, 21 Mar 2023 09:20:17 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202303/108193_131605_1620_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
