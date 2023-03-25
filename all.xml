@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Mar 2023 02:34:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Mar 2023 03:20:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -64,7 +64,15 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202303/108354_131868_4910_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[게임코인TV] '1주일에 100억' 글로벌 대박난 서머너즈: 크로니클엔 '쌀먹' 없다...현지 생생 GDC 소식 7편 (테크M ─ 전체기사)]]></title>
+            <title><![CDATA[[게임코인TV] 대박난 GDC 2023 위메이드 전시부스...위믹스 플레이 체험존에 관람객 '호평' (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=108353</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=108353</guid>
+            <pubDate>Sat, 25 Mar 2023 02:23:00 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202303/108353_131890_626_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[게임코인TV] '1주일에 100억' 글로벌 대박난 서머너즈워: 크로니클엔 '쌀먹' 없다...현지 생생 GDC 소식 7편 (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=108352</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=108352</guid>
             <pubDate>Fri, 24 Mar 2023 16:22:45 GMT</pubDate>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 24 Mar 2023 06:20:49 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202303/108340_131829_4032_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[니어프로토콜, 韓 웹3 게임 키운다…위메이드와 전략적 파트너십 체결 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=108339</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=108339</guid>
-            <pubDate>Fri, 24 Mar 2023 06:20:49 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202303/108339_131828_3831_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[GDC 23] 'VR게임이 이렇게 재밌다고?'...'크로스파이어: 시에라 스쿼드' 직접 해보니 (테크M ─ 콘텐츠)]]></title>
