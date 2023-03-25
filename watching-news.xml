@@ -4,7 +4,7 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Mar 2023 03:20:35 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Mar 2023 04:22:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,7 +16,15 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202303/108355_131871_5725_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[게임코인TV] '1주일에 100억' 글로벌 대박난 서머너즈: 크로니클엔 '쌀먹' 없다...현지 생생 GDC 소식 7편]]></title>
+            <title><![CDATA[[게임코인TV] 대박난 GDC 2023 위메이드 전시부스...위믹스 플레이 체험존에 관람객 '호평']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=108353</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=108353</guid>
+            <pubDate>Sat, 25 Mar 2023 02:23:00 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202303/108353_131890_626_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[게임코인TV] '1주일에 100억' 글로벌 대박난 서머너즈워: 크로니클엔 '쌀먹' 없다...현지 생생 GDC 소식 7편]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=108352</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=108352</guid>
             <pubDate>Fri, 24 Mar 2023 17:18:36 GMT</pubDate>
@@ -110,14 +118,6 @@
             <pubDate>Tue, 21 Mar 2023 04:21:51 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202303/108190_131561_4856_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 업스테이지, '아숙업(AskUp)'에 GPT-4 도입]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=108141</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=108141</guid>
-            <pubDate>Mon, 20 Mar 2023 09:20:23 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202303/108141_131482_3528_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

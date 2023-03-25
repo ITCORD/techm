@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Mar 2023 03:20:35 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Mar 2023 04:22:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[GDC 23] 원작 알면 더 재밌는 '일곱개의 대죄 오리진' 해보니...콘솔 느낌 '물씬']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=108360</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=108360</guid>
+            <pubDate>Sat, 25 Mar 2023 00:15:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202303/108360_131888_254_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[글로벌] 소행성에서 비타민B 등 발견돼… '생명체 외계 기원설' 힘 실려]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=108359</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 24 Mar 2023 06:20:49 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202303/108341_131830_439_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[토스뱅크, 예금 가입 즉시 이자 준다...선이자 3.5% 지급]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=108340</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=108340</guid>
-            <pubDate>Fri, 24 Mar 2023 06:20:49 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202303/108340_131829_4032_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

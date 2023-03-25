@@ -4,9 +4,17 @@
         <title>테크M ─ 콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Mar 2023 03:20:35 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Mar 2023 04:22:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[GDC 23] 원작 알면 더 재밌는 '일곱개의 대죄 오리진' 해보니...콘솔 느낌 '물씬']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=108360</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=108360</guid>
+            <pubDate>Sat, 25 Mar 2023 00:15:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202303/108360_131888_254_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[GDC 23] 'VR게임이 이렇게 재밌다고?'...'크로스파이어: 시에라 스쿼드' 직접 해보니]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=108356</link>
@@ -110,14 +118,6 @@
             <pubDate>Thu, 23 Mar 2023 10:19:26 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202303/108305_131760_3438_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['콜라보 제왕' 명성 잇는다...카트라이더:드리프트에 메이플스토리 더하다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=108304</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=108304</guid>
-            <pubDate>Thu, 23 Mar 2023 10:19:26 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202303/108304_131759_257_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
