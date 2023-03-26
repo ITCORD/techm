@@ -4,9 +4,17 @@
         <title>테크M ─ 콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Mar 2023 23:19:17 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Mar 2023 01:27:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[GDC 23] 게임에 스며드는 웹3.0...해시드 투자 심사역이 보는 블록체인 게임]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=108368</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=108368</guid>
+            <pubDate>Sun, 26 Mar 2023 09:17:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202303/108368_131901_1711_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[GDC 23] 어느때 보다 뜨거웠던 GDC 2023 폐막...3대 키워드는 가상현실·인공지능·블록체인]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=108363</link>
@@ -110,14 +118,6 @@
             <pubDate>Fri, 24 Mar 2023 06:32:00 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202303/108321_131809_3124_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[GDC 23] GDC 엑스포서 존재감 뽐낸 블록체인 게임...메인 전시장 '입성']]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=108320</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=108320</guid>
-            <pubDate>Fri, 24 Mar 2023 06:24:00 GMT</pubDate>
-            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202303/108320_131804_184_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Mar 2023 23:19:17 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Mar 2023 01:27:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[KT, 세이프메이트로 공중화장실 안전 지킨다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=108370</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=108370</guid>
+            <pubDate>Sun, 26 Mar 2023 09:13:00 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202303/108370_131904_5729_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["이자 수익 1000억 포기" 신한은행, 상생 금융에 소매 걷었다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=108336</link>
@@ -110,14 +118,6 @@
             <pubDate>Thu, 23 Mar 2023 07:16:39 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202303/108291_131735_4647_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["원하는 대로 직접 설계"…SKT '이용패턴·연령' 맞춤형 5G 요금제 선보인다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=108288</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=108288</guid>
-            <pubDate>Thu, 23 Mar 2023 07:16:39 GMT</pubDate>
-            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202303/108288_131726_408_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
