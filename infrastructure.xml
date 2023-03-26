@@ -4,9 +4,17 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Mar 2023 05:16:45 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Mar 2023 06:22:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["AI는 어디에나 있다" SKT, 신규 기업 캠페인 런칭]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=108372</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=108372</guid>
+            <pubDate>Sun, 26 Mar 2023 06:20:16 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202303/108372_131907_4014_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[3년 만에 中 찾은 이재용 회장…삼성전기 현지 생산 라인 점검]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=108371</link>
@@ -110,14 +118,6 @@
             <pubDate>Thu, 23 Mar 2023 07:16:39 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202303/108296_131750_5352_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["챗GPT는 꼬마 수준" 워크데이, AI·ML기반 솔루션으로 韓 업무혁신 나서]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=108290</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=108290</guid>
-            <pubDate>Thu, 23 Mar 2023 07:16:39 GMT</pubDate>
-            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202303/108290_131732_2418_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
