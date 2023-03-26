@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Mar 2023 09:19:52 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Mar 2023 10:23:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[써봤다] 성능만이 너를 증명한다…HP '오멘 17' 게이밍 노트북]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=108374</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=108374</guid>
+            <pubDate>Sun, 26 Mar 2023 10:16:14 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202303/108374_131912_2921_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[GDC 23] 마크 위튼 유니티 부사장 "AI, 창작자 생산성 100배 UP"...생태계 커진다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=108373</link>
@@ -75,14 +83,14 @@
             <title><![CDATA[[게임코인TV] VR게임과 한국게임 가득한 GDC 메인 부스 탐험기]]></title>
             <link>https://www.techm.kr/news/articleList.html</link>
             <guid>https://www.techm.kr/news/articleList.html</guid>
-            <pubDate>Sun, 26 Mar 2023 09:15:29 GMT</pubDate>
+            <pubDate>Sun, 26 Mar 2023 10:16:14 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[게임코인TV] GDC 주류로 들어온 웹3.0 게임...'폴리곤부터 아발란체까지']]></title>
             <link>https://www.techm.kr/news/articleList.html</link>
             <guid>https://www.techm.kr/news/articleList.html</guid>
-            <pubDate>Sun, 26 Mar 2023 09:15:29 GMT</pubDate>
+            <pubDate>Sun, 26 Mar 2023 10:16:14 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
         </item>
         <item>
@@ -156,14 +164,6 @@
             <pubDate>Sat, 25 Mar 2023 09:11:00 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202303/108355_131871_5725_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[같이봐영] 나이트 에이전트·보스톤 교살자...나른한 봄을 깨울 미스터리·스릴러]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=108315</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=108315</guid>
-            <pubDate>Sat, 25 Mar 2023 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202303/108315_131783_5735_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
