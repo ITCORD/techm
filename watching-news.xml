@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Mar 2023 06:24:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Mar 2023 07:19:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 네이버 제페토, '아바타 빌더' 서비스 론칭]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=108413</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=108413</guid>
+            <pubDate>Mon, 27 Mar 2023 07:19:51 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202303/108413_131985_1358_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[게임코인TV] 샌프란시스코를 후끈 달궜던 2023 GDC, 그 마지막 이야기]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=108376</link>
@@ -110,14 +118,6 @@
             <pubDate>Wed, 22 Mar 2023 16:24:34 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202303/108257_131680_5424_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 넷마블 GDC 2023서 '모두의 마블2' 공개…게임 플랫폼 거쳐 메타버스로]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=108254</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=108254</guid>
-            <pubDate>Wed, 22 Mar 2023 10:19:50 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202303/108254_131663_4016_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
