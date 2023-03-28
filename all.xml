@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Mar 2023 22:20:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Mar 2023 23:20:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -280,6 +280,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202303/108416_132008_932_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[윤경림까지...KT 민영화 20년 역사는 CEO 수난의 역사, 외풍에 반복된 CEO 잔혹사 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=108466</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=108466</guid>
+            <pubDate>Wed, 29 Mar 2023 08:03:00 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202303/108466_132104_389_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[KT, 박종욱 직무대행 체제로 전환…"조기 경영 안정화 추진" (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=108474</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=108474</guid>
@@ -382,14 +390,6 @@
             <pubDate>Tue, 28 Mar 2023 09:34:00 GMT</pubDate>
             <content:encoded><![CDATA[김가은 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202303/108422_132099_314_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LG디스플레이, LG전자서 1조원 차입...연 이자 6%대 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=108417</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=108417</guid>
-            <pubDate>Mon, 27 Mar 2023 09:18:18 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202303/108417_132009_2044_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[표철민이 키우는 메셔...세계 첫 웹 3.0+AI 결합서비스 출시 (테크M ─ 이노베이션)]]></title>
