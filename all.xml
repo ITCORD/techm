@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Mar 2023 08:30:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Mar 2023 09:24:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -280,12 +280,20 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202303/108397_131949_4510_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[KT, 박종욱 직무대행 체제로 전환…"조기 경영 안정화 추진" (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=108474</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=108474</guid>
+            <pubDate>Tue, 28 Mar 2023 09:20:50 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202303/108474_132108_136_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[써봤다] 너 하나면 충분해…델 울트라샤프 27 4K USB-C 모니터 (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=108450</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=108450</guid>
             <pubDate>Tue, 28 Mar 2023 07:16:38 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202303/108450_132087_5535_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202303/108450_132102_1649_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[써봤다] "비행기 타서 연락 못해요"는 옛말?...너무 잘돼서 속상한 기내 와이파이 체험기 (테크M ─ 인프라)]]></title>
@@ -382,14 +390,6 @@
             <pubDate>Mon, 27 Mar 2023 09:18:18 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202303/108417_132009_2044_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['오픈랜' 상용화 박차 가하는 LG유플러스 "보안도 문제없다" (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=108408</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=108408</guid>
-            <pubDate>Mon, 27 Mar 2023 07:17:31 GMT</pubDate>
-            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202303/108408_131968_3756_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[표철민이 키우는 메셔...세계 첫 웹 3.0+AI 결합서비스 출시 (테크M ─ 이노베이션)]]></title>
