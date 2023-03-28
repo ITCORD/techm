@@ -4,9 +4,25 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Mar 2023 23:22:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Mar 2023 01:23:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[LG유플러스, 우리가게패키지' 앱에 챗GPT 탑재]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=108423</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=108423</guid>
+            <pubDate>Tue, 28 Mar 2023 09:53:00 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202303/108423_132018_521_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[MZ세대 성지된 '틈'…100만 문화공간 넘어 '경험 설계지'로 거듭난다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=108422</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=108422</guid>
+            <pubDate>Tue, 28 Mar 2023 09:34:00 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202303/108422_132015_265_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[길세영의 기술과 IP] 블록화 시대 IP 전략 세우기]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=108419</link>
@@ -150,22 +166,6 @@
             <pubDate>Mon, 27 Mar 2023 11:56:00 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202303/108394_132006_4212_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["하이브 이어 컴투스도 매도세" SM엔터, 공개매수 경쟁률 무려 '2.27:1']]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=108400</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=108400</guid>
-            <pubDate>Mon, 27 Mar 2023 11:56:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202303/108400_131959_5612_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['착한기업' 이마트, 전지점서 '자원 절감' ESG 행보 나섰다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=108399</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=108399</guid>
-            <pubDate>Mon, 27 Mar 2023 11:49:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202303/108399_131958_495_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
