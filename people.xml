@@ -4,9 +4,17 @@
         <title>테크M ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Mar 2023 02:43:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Mar 2023 03:22:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[테크M 이슈] 장병규-김창한 책임경영 띄운 크래프톤...뚝심으로 보릿고개 넘긴다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=108438</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=108438</guid>
+            <pubDate>Tue, 28 Mar 2023 11:23:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202303/108438_132032_181_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[GDC 23] 마크 위튼 유니티 부사장 "AI, 창작자 생산성 100배 UP"...생태계 커진다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=108373</link>
@@ -109,14 +117,6 @@
             <pubDate>Thu, 23 Mar 2023 07:42:00 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202303/108263_131694_355_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[GDC 23] '안티프래자일' 위믹스...장현국 위메이드 "사업과 산업 발전 과정"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=108262</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=108262</guid>
-            <pubDate>Thu, 23 Mar 2023 07:26:00 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202303/108262_131693_1913_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
