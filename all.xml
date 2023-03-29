@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Mar 2023 20:21:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Mar 2023 21:21:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -167,6 +167,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202303/108487_132146_3724_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[넥슨의 야심작 프라시아 전기]① 양산형 MMO와 차별화...'공성전' 모든 것 담았다 (테크M ─ 콘텐츠)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=108503</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=108503</guid>
+            <pubDate>Thu, 30 Mar 2023 06:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202303/108503_132171_1058_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[글로벌 e스포츠 페스티벌 WCG 2023, 게임도시 '부산'서 열린다 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=108510</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=108510</guid>
@@ -269,14 +277,6 @@
             <pubDate>Tue, 28 Mar 2023 00:02:00 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202303/108440_132034_2358_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[용퇴 각오했다는 김창한 크래프톤 "동서양 아우르는 유니크 IP 만들 것" (테크M ─ 콘텐츠)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=108443</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=108443</guid>
-            <pubDate>Tue, 28 Mar 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202303/108443_132038_3752_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[과기정통부 "통신시장 경쟁촉진 방안 6월까지 결론낸다" (테크M ─ 인프라)]]></title>
@@ -954,7 +954,7 @@
             <title><![CDATA[[게임코인TV] 2023 GDC 취재 뒷이야기...송재준 컴투스 대표 만난 사연은? (테크M ─ 보는 뉴스)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Wed, 29 Mar 2023 20:21:55 GMT</pubDate>
+            <pubDate>Wed, 29 Mar 2023 21:21:30 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
         </item>
         <item>
