@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Mar 2023 15:00:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Mar 2023 17:19:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[게임코인TV] 2023 GDC 취재 뒷이야기...송재준 컴투스 대표 만난 사연은? (테크M ─ 전체기사)]]></title>
+            <link>https://ITCORD.github.io/techm/all.xml</link>
+            <guid>https://ITCORD.github.io/techm/all.xml</guid>
+            <pubDate>Wed, 29 Mar 2023 17:16:10 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[네오위즈, 100억 규모 자사주 취득 나섰다 (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=108512</link>
@@ -158,14 +165,6 @@
             <pubDate>Wed, 29 Mar 2023 11:47:00 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202303/108487_132146_3724_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[위메이드, '위믹스' 투자심위원회 공개...박수용-안유화-이건호-현대원 참여 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=108488</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=108488</guid>
-            <pubDate>Wed, 29 Mar 2023 11:45:00 GMT</pubDate>
-            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202303/108488_132147_4353_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[글로벌 e스포츠 페스티벌 WCG 2023, 게임도시 '부산'서 열린다 (테크M ─ 콘텐츠)]]></title>
@@ -952,6 +951,13 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202303/108077_131392_2754_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[게임코인TV] 2023 GDC 취재 뒷이야기...송재준 컴투스 대표 만난 사연은? (테크M ─ 보는 뉴스)]]></title>
+            <link>https://ITCORD.github.io/techm/all.xml</link>
+            <guid>https://ITCORD.github.io/techm/all.xml</guid>
+            <pubDate>Wed, 29 Mar 2023 17:19:02 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[카드뉴스] 넷마블 마브렉스, NFT 스테이킹 서비스 오픈 (테크M ─ 보는 뉴스)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=108507</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=108507</guid>
@@ -1054,14 +1060,6 @@
             <pubDate>Fri, 24 Mar 2023 00:40:00 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202303/108332_131820_299_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[게임코인TV] 미리보는 GDC 2일차! 위메이드 키노트 강연과 메이플스토리 유니버스 등장...현지 생생 GDC 소식 4편 (테크M ─ 보는 뉴스)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=108302</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=108302</guid>
-            <pubDate>Thu, 23 Mar 2023 17:18:18 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202303/108302_131785_943_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
