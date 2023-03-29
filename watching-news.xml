@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Mar 2023 06:27:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Mar 2023 07:26:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 넷마블 마브렉스, NFT 스테이킹 서비스 오픈]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=108507</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=108507</guid>
+            <pubDate>Wed, 29 Mar 2023 07:26:12 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202303/108507_132177_569_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] GDC 2023 주인공은 가상현실(VR), 인공지능(AI), 블록체인]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=108449</link>
@@ -110,14 +118,6 @@
             <pubDate>Thu, 23 Mar 2023 19:18:15 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202303/108302_131785_943_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 컴투스, 기업가치 10조 향한다 '게임·블록체인·메타버스·콘텐츠로']]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=108293</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=108293</guid>
-            <pubDate>Thu, 23 Mar 2023 19:18:15 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202303/108293_131737_2820_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
