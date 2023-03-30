@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Mar 2023 06:28:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Mar 2023 07:19:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 한글과컴퓨터, 한컴오피스에 '하이퍼클로바X' 탑재]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=108557</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=108557</guid>
+            <pubDate>Thu, 30 Mar 2023 07:19:58 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202303/108557_132260_448_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[게임코인TV] 2023 GDC 취재 뒷이야기...송재준 컴투스그룹 사장 만난 사연은?]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=108513</link>
@@ -110,14 +118,6 @@
             <pubDate>Fri, 24 Mar 2023 06:24:32 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202303/108342_131831_4714_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[게임코인TV] '인터게임 이코노미' 장현국 위메이드 대표 GDC 강연 후기...현지 생생 GDC 소식 5편]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=108332</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=108332</guid>
-            <pubDate>Fri, 24 Mar 2023 00:40:00 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202303/108332_131820_299_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
