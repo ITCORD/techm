@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Mar 2023 11:17:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Mar 2023 12:37:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -167,11 +167,12 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202303/108552_132291_5426_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[게임코인TV] 넥슨이 만들면 다르다? 메이플코인 및 강대현 부사장 인터뷰 뒷이야기 (테크M ─ 콘텐츠)]]></title>
-            <link>https://ITCORD.github.io/techm/all.xml</link>
-            <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Thu, 30 Mar 2023 11:14:34 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <title><![CDATA[넥슨표 MMORPG '프라시아 전기', 출시 첫날 구글-애플 인기순위 '1위' (테크M ─ 콘텐츠)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=108574</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=108574</guid>
+            <pubDate>Thu, 30 Mar 2023 12:34:18 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202303/108574_132313_348_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['제로 리저브' 주인공 라인, 웹3.0 대중화 시장 노린다...관계사 적극 활용 (테크M ─ 콘텐츠)]]></title>
@@ -729,7 +730,7 @@
             <title><![CDATA[베트남 여행 계획 중인 사람? 4월 3일, 티몬으로 GO! (테크M ─ 라이프)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=108571</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=108571</guid>
-            <pubDate>Thu, 30 Mar 2023 11:15:52 GMT</pubDate>
+            <pubDate>Thu, 30 Mar 2023 11:14:17 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202303/108571_132299_4740_v150.jpg" length="0" type="image/jpg"/>
         </item>
@@ -950,6 +951,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202303/108166_131527_2554_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[게임코인TV] 넥슨이 만들면 다르다? 메이플코인 및 강대현 부사장 인터뷰 뒷이야기 (테크M ─ 보는 뉴스)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=108563</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=108563</guid>
+            <pubDate>Thu, 30 Mar 2023 12:37:48 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202303/108563_132312_579_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[카드뉴스] 한글과컴퓨터, 한컴오피스에 '하이퍼클로바X' 탑재 (테크M ─ 보는 뉴스)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=108557</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=108557</guid>
@@ -1052,14 +1061,6 @@
             <pubDate>Fri, 24 Mar 2023 16:22:45 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202303/108351_131865_92_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] GDC 2023, 'VR게임' 대중화 시대 열리다 (테크M ─ 보는 뉴스)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=108342</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=108342</guid>
-            <pubDate>Fri, 24 Mar 2023 06:20:49 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202303/108342_131831_4714_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
