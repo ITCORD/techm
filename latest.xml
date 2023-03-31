@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 31 Mar 2023 16:27:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Mar 2023 17:17:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[PWS GF 통신] 하루 3치킨으로 증명한 국대 클래스...다나와, 창단 첫 우승!]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=108631</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=108631</guid>
+            <pubDate>Fri, 31 Mar 2023 17:14:55 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202303/108631_132411_5652_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[비덴트, '감사의견 거절'...상장폐지 사유 발생]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=108626</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 31 Mar 2023 07:15:44 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202303/108605_132393_202_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[카카오엔터프라이즈, STO 플랫폼 구축 박차]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=108607</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=108607</guid>
-            <pubDate>Fri, 31 Mar 2023 07:15:44 GMT</pubDate>
-            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202303/108607_132368_344_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
