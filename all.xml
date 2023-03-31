@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 31 Mar 2023 13:24:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Mar 2023 14:17:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,6 +168,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202303/108607_132368_344_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[PWS GF 통신] 하루 3치킨으로 증명한 국대 클래스...다나와, 창단 첫 우승! (테크M ─ 콘텐츠)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=108631</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=108631</guid>
+            <pubDate>Fri, 31 Mar 2023 14:15:18 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202303/108631_132411_5652_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['탈' 클레이튼 LG전자, GC 멤버서 빠졌다...15억 규모 클레이 시장에 풀리나 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=108616</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=108616</guid>
@@ -270,14 +278,6 @@
             <pubDate>Thu, 30 Mar 2023 08:22:44 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202303/108565_132290_5335_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[넥슨 '프라시아 전기', 디렉터스 메시지 깜짝 공개..."게임 근간 해치지 않는 비즈니스 모델" (테크M ─ 콘텐츠)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=108567</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=108567</guid>
-            <pubDate>Thu, 30 Mar 2023 08:22:44 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202303/108567_132281_2126_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[美 제재에도 실적 선방한 화웨이…"올해 칩셋·네트워크·단말·클라우드 연계 혁신 강화" (테크M ─ 인프라)]]></title>
