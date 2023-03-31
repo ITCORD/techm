@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 31 Mar 2023 09:20:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Mar 2023 10:22:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[美 제재에도 실적 선방한 화웨이…"올해 칩셋·네트워크·단말·클라우드 연계 혁신 강화"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=108624</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=108624</guid>
+            <pubDate>Fri, 31 Mar 2023 10:17:52 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202303/108624_132399_555_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['탈' 클레이튼 LG전자, GC 멤버서 빠졌다...15억 규모 클레이 시장에 풀리나]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=108616</link>
@@ -40,7 +48,7 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202303/108599_132350_5932_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[페이커-데프트 NFT 나올까...LCK, 카카오 계열사 레전더리스 손잡고 NFT 사업 착수]]></title>
+            <title><![CDATA[페이커-데프트 NFT 나올까...LCK, 레전더리스 손잡고 디지털 콜렉터블 사업 착수]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=108620</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=108620</guid>
             <pubDate>Fri, 31 Mar 2023 09:16:27 GMT</pubDate>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 31 Mar 2023 06:21:24 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202303/108604_132360_2259_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["쿠키런-블루아카이브 출격" 中 출시 앞둔 게임한류...다음 타자 곧 나온다?]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=108603</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=108603</guid>
-            <pubDate>Fri, 31 Mar 2023 06:21:24 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202303/108603_132359_759_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
