@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 31 Mar 2023 07:19:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Mar 2023 08:26:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 라인, 블록체인 대중화 추진 '아바타 메타버스, 게임, 팬덤에 집중']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=108608</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=108608</guid>
+            <pubDate>Fri, 31 Mar 2023 08:26:31 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202303/108608_132369_616_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[게임코인TV] 넥슨이 만들면 다르다? 메이플코인 및 강대현 부사장 인터뷰 뒷이야기]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=108563</link>
@@ -110,14 +118,6 @@
             <pubDate>Fri, 24 Mar 2023 17:18:36 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202303/108352_131864_641_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[게임코인TV] 넥슨 '메이플 코인' 발표, 폴리곤과 협력이 중요한 이유는?...현지 생생 GDC 소식 6편]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=108351</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=108351</guid>
-            <pubDate>Fri, 24 Mar 2023 17:18:36 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202303/108351_131865_92_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
