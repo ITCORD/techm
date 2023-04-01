@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 01 Apr 2023 21:19:13 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Apr 2023 22:19:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[써봤다] 작은 맥이 더 맵다…애플 'M2 맥 미니' (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=108635</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=108635</guid>
+            <pubDate>Sun, 02 Apr 2023 07:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202304/108635_132425_1211_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[크립토 월간 브리핑] 거짓말처럼 급등한 비트코인, 한달새 20% 껑충...리플은 40% 급등 (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=108634</link>
@@ -160,14 +168,6 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202303/108618_132386_4726_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[18년 주행 멈추는 카트라이더...'드리프트' 집중 전략 통할까 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=108610</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=108610</guid>
-            <pubDate>Fri, 31 Mar 2023 08:22:02 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202303/108610_132390_1845_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[KBO 리그 개막과 함께 돌아온 야구게임들...반등 신호탄 쏜다 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=108633</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=108633</guid>
@@ -280,6 +280,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202303/108573_132311_5145_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[써봤다] 작은 맥이 더 맵다…애플 'M2 맥 미니' (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=108635</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=108635</guid>
+            <pubDate>Sun, 02 Apr 2023 07:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202304/108635_132425_1211_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[美 제재에도 실적 선방한 화웨이…"올해 칩셋·네트워크·단말·클라우드 연계 혁신 강화" (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=108624</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=108624</guid>
@@ -382,14 +390,6 @@
             <pubDate>Fri, 31 Mar 2023 09:56:00 GMT</pubDate>
             <content:encoded><![CDATA[김가은 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202303/108577_132324_3613_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[KT 사외이사 후보 3인 사퇴…재선임 의안 자동폐기 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=108576</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=108576</guid>
-            <pubDate>Fri, 31 Mar 2023 09:09:00 GMT</pubDate>
-            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202303/108576_132323_4450_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[12년 AI 투자 결실...베일 벗은 엔씨 '디지털 휴먼'...핵심은 '인터랙션' (테크M ─ 이노베이션)]]></title>
