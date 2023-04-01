@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 31 Mar 2023 23:21:16 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Apr 2023 01:22:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,6 +168,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202303/108605_132393_202_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[LCK 브리핑] T1-젠지, 결승 직행 티켓 가져갈 팀은?...PO 3R 예고 (테크M ─ 콘텐츠)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=108597</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=108597</guid>
+            <pubDate>Sat, 01 Apr 2023 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202303/108597_132346_4141_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[PWS GF 통신] 하루 3치킨으로 증명한 국대 클래스...다나와, 창단 첫 우승! (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=108631</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=108631</guid>
@@ -270,14 +278,6 @@
             <pubDate>Thu, 30 Mar 2023 12:34:18 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202303/108574_132313_348_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['제로 리저브' 주인공 라인, 웹3.0 대중화 시장 노린다...관계사 적극 활용 (테크M ─ 콘텐츠)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=108565</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=108565</guid>
-            <pubDate>Thu, 30 Mar 2023 08:22:44 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202303/108565_132290_5335_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[美 제재에도 실적 선방한 화웨이…"올해 칩셋·네트워크·단말·클라우드 연계 혁신 강화" (테크M ─ 인프라)]]></title>
