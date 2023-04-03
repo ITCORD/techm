@@ -4,9 +4,17 @@
         <title>테크M ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Apr 2023 02:33:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Apr 2023 03:18:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[토스증권, 김승연 신임 대표이사 선임]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=108663</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=108663</guid>
+            <pubDate>Mon, 03 Apr 2023 11:36:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202304/108663_132475_3622_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[토스증권, 김승연 신임 대표이사 선임..."서비스 고도화할 것"]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=108659</link>
@@ -110,14 +118,6 @@
             <pubDate>Sun, 26 Mar 2023 09:14:00 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202303/108369_131902_2556_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[美 개척 의지 강조한 신동원 농심 회장...3공장 설립 구체화]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=108343</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=108343</guid>
-            <pubDate>Fri, 24 Mar 2023 06:22:54 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202303/108343_131847_720_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
