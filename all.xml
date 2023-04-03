@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Apr 2023 16:28:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Apr 2023 17:22:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -726,6 +726,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202303/108373_131909_597_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA["SK스토아에서는 믿고 명품 사세요"...NFT로 보증서 준다 (테크M ─ 라이프)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=108686</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=108686</guid>
+            <pubDate>Mon, 03 Apr 2023 12:30:58 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202304/108686_132527_518_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[같이사소] 특색살린 기획전으로 시선 '집중'...명품 화장품부터 리퍼제품까지 (테크M ─ 라이프)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=108667</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=108667</guid>
@@ -828,14 +836,6 @@
             <pubDate>Tue, 28 Mar 2023 05:15:51 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202303/108447_132044_2313_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[써봤다] 성능만이 너를 증명한다…HP '오멘 17' 게이밍 노트북 (테크M ─ 라이프)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=108374</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=108374</guid>
-            <pubDate>Sun, 26 Mar 2023 10:16:14 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202303/108374_131912_2921_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[글로벌] AI 개발 잠시 중단이 가능할까?...머스크·워즈니악, 공개서한 서명 (테크M ─ 리포트)]]></title>
