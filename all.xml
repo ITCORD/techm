@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Apr 2023 08:30:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Apr 2023 09:25:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -504,6 +504,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202303/108501_132169_5928_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[서버 멈춘 업비트 "모니터링 완료...서버 정상 운영"(상보) (테크M ─ 인베스트먼트)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=108699</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=108699</guid>
+            <pubDate>Mon, 03 Apr 2023 09:20:58 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202304/108699_132536_3412_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[업비트 "이상징후 포착...긴급 서버 점검 돌입"(1보) (테크M ─ 인베스트먼트)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=108698</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=108698</guid>
@@ -606,14 +614,6 @@
             <pubDate>Fri, 31 Mar 2023 06:21:24 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202303/108606_132367_158_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['배민' 우아한형제들, 3년만에 흑자전환…지난해 영업익 4241억원 (테크M ─ 인베스트먼트)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=108604</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=108604</guid>
-            <pubDate>Fri, 31 Mar 2023 06:21:24 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202303/108604_132360_2259_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[토스증권, 김승연 신임 대표이사 선임 (테크M ─ 피플)]]></title>
