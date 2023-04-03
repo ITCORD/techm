@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Apr 2023 15:25:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Apr 2023 16:28:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -615,6 +615,13 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202303/108606_132367_158_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[인사] 한국후지쯔 (테크M ─ 피플)]]></title>
+            <link>https://ITCORD.github.io/techm/all.xml</link>
+            <guid>https://ITCORD.github.io/techm/all.xml</guid>
+            <pubDate>Mon, 03 Apr 2023 16:25:26 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[토스증권, 김승연 신임 대표이사 선임 (테크M ─ 피플)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=108663</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=108663</guid>
@@ -717,14 +724,6 @@
             <pubDate>Sun, 26 Mar 2023 06:19:39 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202303/108373_131909_597_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[GDC 23] 플레이댑 품에 안긴 넷텐션...'프라우드넷 플러스'로 웹3.0 전환 돕는다 (테크M ─ 피플)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=108369</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=108369</guid>
-            <pubDate>Sun, 26 Mar 2023 09:14:00 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202303/108369_131902_2556_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[같이사소] 특색살린 기획전으로 시선 '집중'...명품 화장품부터 리퍼제품까지 (테크M ─ 라이프)]]></title>

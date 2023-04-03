@@ -4,9 +4,16 @@
         <title>테크M ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Apr 2023 15:25:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Apr 2023 16:28:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[인사] 한국후지쯔]]></title>
+            <link>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN5&amp;view_type=sm</link>
+            <guid>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN5&amp;view_type=sm</guid>
+            <pubDate>Mon, 03 Apr 2023 16:25:26 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[토스증권, 김승연 신임 대표이사 선임]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=108663</link>
@@ -110,14 +117,6 @@
             <pubDate>Sun, 26 Mar 2023 06:21:05 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202303/108373_131909_597_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[GDC 23] 플레이댑 품에 안긴 넷텐션...'프라우드넷 플러스'로 웹3.0 전환 돕는다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=108369</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=108369</guid>
-            <pubDate>Sun, 26 Mar 2023 09:14:00 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202303/108369_131902_2556_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
