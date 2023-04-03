@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Apr 2023 04:21:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Apr 2023 05:18:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 안랩 자회사 제이슨, 삼성생명과 AI 금융IT 관제시스템 개발]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=108668</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=108668</guid>
+            <pubDate>Mon, 03 Apr 2023 05:18:56 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202304/108668_132486_1041_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[게임코인TV] GDC에서 만난 사람들...장현국 위메이드 대표 기자회견 뒷이야기]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=108640</link>
@@ -110,14 +118,6 @@
             <pubDate>Sat, 25 Mar 2023 09:11:00 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202303/108355_131871_5725_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[게임코인TV] 대박난 GDC 2023 위메이드 전시부스...위믹스 플레이 체험존에 관람객 '호평']]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=108353</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=108353</guid>
-            <pubDate>Sat, 25 Mar 2023 02:23:00 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202303/108353_131890_626_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
