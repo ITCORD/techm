@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Apr 2023 07:20:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Apr 2023 08:26:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -509,7 +509,7 @@
             <guid>https://www.techm.kr/news/articleView.html?idxno=108743</guid>
             <pubDate>Tue, 04 Apr 2023 06:24:22 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202304/108743_132632_5813_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202304/108743_132637_1556_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[블록체인 기술기업 비피엠지, 아이티센·메가존 등서 70억원 투자 유치 (테크M ─ 인베스트먼트)]]></title>
@@ -619,7 +619,7 @@
             <title><![CDATA[[인사] 한국후지쯔 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Tue, 04 Apr 2023 07:17:45 GMT</pubDate>
+            <pubDate>Tue, 04 Apr 2023 08:23:55 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
         </item>
         <item>
@@ -951,6 +951,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202303/108267_131703_2020_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[카드뉴스] 오늘 LG트윈스 이길까?...LG유플러스 '스포키' AI승부예측에 물어봐 (테크M ─ 보는 뉴스)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=108741</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=108741</guid>
+            <pubDate>Tue, 04 Apr 2023 08:26:17 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202304/108741_132602_2812_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[카드뉴스] 안랩 자회사 제이슨, 삼성생명과 AI 금융IT 관제시스템 개발 (테크M ─ 보는 뉴스)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=108668</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=108668</guid>
@@ -1053,14 +1061,6 @@
             <pubDate>Sun, 26 Mar 2023 14:13:55 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202303/108365_131927_147_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[GDC 23] "입장하고 싶어요" 흥행 대박낸 위메이드 '위믹스', 에픽-유니티-메타 부스까지...사진으로 보는 GDC 2023 (테크M ─ 보는 뉴스)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=108355</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=108355</guid>
-            <pubDate>Sat, 25 Mar 2023 09:11:00 GMT</pubDate>
-            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202303/108355_131871_5725_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
