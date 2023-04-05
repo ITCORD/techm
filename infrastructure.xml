@@ -4,9 +4,25 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Apr 2023 02:24:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Apr 2023 03:21:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[엔씨소프트, 韓 게임업계 첫 'APEC 개인정보 인증' 따냈다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=108768</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=108768</guid>
+            <pubDate>Wed, 05 Apr 2023 00:13:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202304/108768_132673_1259_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[KB국민은행, 1조900억원 인수금융 리파이낸싱 주선]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=108761</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=108761</guid>
+            <pubDate>Wed, 05 Apr 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202304/108761_132664_040_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[SK텔레콤, 제조사 간 양자암호통신망 통합 기술 개발]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=108760</link>
@@ -102,22 +118,6 @@
             <pubDate>Tue, 04 Apr 2023 10:21:00 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202304/108712_132571_1622_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SK㈜ C&C, ESG 실천 앱 '행가래'로 헌혈 문화 활성화 선도한다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=108711</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=108711</guid>
-            <pubDate>Tue, 04 Apr 2023 10:12:00 GMT</pubDate>
-            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202304/108711_132570_746_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["에코백 선물 받으세요"...LG유플러스, 부산엑스포 유치 기원 이벤트·광고]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=108709</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=108709</guid>
-            <pubDate>Tue, 04 Apr 2023 10:07:00 GMT</pubDate>
-            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202304/108709_132568_027_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
