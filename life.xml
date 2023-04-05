@@ -4,9 +4,17 @@
         <title>테크M ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Apr 2023 07:22:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Apr 2023 08:27:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[코웨이, 대한민국 100대 브랜드로...36위 기록]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=108788</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=108788</guid>
+            <pubDate>Wed, 05 Apr 2023 08:26:45 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202304/108788_132716_3931_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[소니, 초경량 노이즈 캔슬링 무선이어폰 'WF-C700N' 출시]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=108780</link>
@@ -110,14 +118,6 @@
             <pubDate>Mon, 03 Apr 2023 10:04:00 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202304/108651_132456_353_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['차박'부터 '미니멀 캠핑'까지...쿠팡 봄맞이 캠핑용품 최대 30% 할인]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=108639</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=108639</guid>
-            <pubDate>Sun, 02 Apr 2023 14:17:06 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202304/108639_132444_4113_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
