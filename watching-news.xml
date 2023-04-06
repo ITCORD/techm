@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Apr 2023 23:17:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Apr 2023 01:17:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[게임코인TV] NFT는 증권일까? 블록체인은 게임의 미래다?...구독자 2000명 기념 'AMA'(1편)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=108791</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=108791</guid>
+            <pubDate>Thu, 06 Apr 2023 07:52:00 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202304/108791_132732_4949_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 눈 달린 챗GPT '아숙업(AskUp)'에 손 더해졌다..."내 프사 더 젊게 만들어준다"]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=108779</link>
@@ -110,14 +118,6 @@
             <pubDate>Sun, 26 Mar 2023 15:19:16 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202303/108375_131924_591_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[게임코인TV] VR게임과 한국게임 가득한 GDC 메인 부스 탐험기]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=108367</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=108367</guid>
-            <pubDate>Sun, 26 Mar 2023 15:19:16 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202303/108367_131926_11_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
