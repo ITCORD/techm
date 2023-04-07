@@ -4,9 +4,17 @@
         <title>테크M ─ 인베스트먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Apr 2023 07:17:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Apr 2023 08:23:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[코인원, 지난해 매출 349억원...1년새 80% 급감]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=108878</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=108878</guid>
+            <pubDate>Fri, 07 Apr 2023 08:22:03 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202304/108878_132866_4142_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[경기침체 직면한 네이버-카카오...1Q 수익성 적신호]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=108867</link>
@@ -110,14 +118,6 @@
             <pubDate>Mon, 03 Apr 2023 08:26:01 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202304/108698_132535_1920_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[테크M 리포트] LG전자에 이자수익 안긴 LG디스플레이...OLED 성장성 '총력']]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=108677</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=108677</guid>
-            <pubDate>Mon, 03 Apr 2023 06:24:40 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202304/108677_132510_2426_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
