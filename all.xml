@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Apr 2023 23:19:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Apr 2023 01:13:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -280,6 +280,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202304/108778_132691_4157_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[삼성전자, 반도체 한파에 1분기 '어닝쇼크'…영업이익 96% 급감 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=108842</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=108842</guid>
+            <pubDate>Fri, 07 Apr 2023 09:25:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202304/108842_132811_254_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[리벨리온 AI 반도체, '엔비디아·퀄컴' 꺾었다...KT AI 전략 '청신호' (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=108839</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=108839</guid>
@@ -382,14 +390,6 @@
             <pubDate>Thu, 06 Apr 2023 10:00:00 GMT</pubDate>
             <content:encoded><![CDATA[김가은 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202304/108794_132735_4211_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LG유플러스, '무전원 디지털락'으로 산업현장 출입·안전관리 효율성 높인다 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=108793</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=108793</guid>
-            <pubDate>Thu, 06 Apr 2023 09:37:00 GMT</pubDate>
-            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202304/108793_132734_3559_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[벤처기업협회 "올해 벤처금융 활성화하고, 글로벌화 돕겠다" (테크M ─ 이노베이션)]]></title>
@@ -627,7 +627,7 @@
             <title><![CDATA[[인사] 한국후지쯔 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Thu, 06 Apr 2023 21:13:42 GMT</pubDate>
+            <pubDate>Fri, 07 Apr 2023 01:13:04 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
         </item>
         <item>
