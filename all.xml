@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Apr 2023 10:22:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Apr 2023 11:16:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -504,6 +504,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202304/108776_132689_2728_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[코인원, '퓨리에버(PURE)' 유의 종목 지정 (테크M ─ 인베스트먼트)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=108883</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=108883</guid>
+            <pubDate>Fri, 07 Apr 2023 11:15:23 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202304/108883_132878_5750_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[코인원, 지난해 매출 349억원...1년새 80% 급감 (테크M ─ 인베스트먼트)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=108878</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=108878</guid>
@@ -608,14 +616,6 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202304/108699_132536_3412_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[업비트 "이상징후 포착...긴급 서버 점검 돌입"(1보) (테크M ─ 인베스트먼트)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=108698</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=108698</guid>
-            <pubDate>Mon, 03 Apr 2023 08:26:01 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202304/108698_132535_1920_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[韓 1등 배달앱 만든 김봉진, 亞 '제 2 배민' 꿈 영근다 (테크M ─ 피플)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=108874</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=108874</guid>
@@ -635,7 +635,7 @@
             <title><![CDATA[[인사] 한국후지쯔 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Fri, 07 Apr 2023 10:20:53 GMT</pubDate>
+            <pubDate>Fri, 07 Apr 2023 11:15:39 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
         </item>
         <item>
