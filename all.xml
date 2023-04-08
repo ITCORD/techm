@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 08 Apr 2023 02:31:41 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Apr 2023 03:19:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[크립토 주간 브리핑] 횡보하는 비트코인, 바닥 다지는 중?...커지는 기대감 (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=108885</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=108885</guid>
+            <pubDate>Sat, 08 Apr 2023 11:35:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202304/108885_132883_213_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[글로벌] 노익장 발휘하는 화성 헬기, 시속·고도 기록 경신했다 (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=108880</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 07 Apr 2023 06:22:20 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202304/108862_132870_410_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[해긴, 모바일 RPG '데미안 전기' 4월 13일 출시 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=108866</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=108866</guid>
-            <pubDate>Fri, 07 Apr 2023 06:21:45 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202304/108866_132837_345_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[KDL이 온다] 카트-카러플 '레전드' 게이머들, 드리프트 앞으로 집결 (테크M ─ 콘텐츠)]]></title>
@@ -504,6 +504,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202304/108776_132689_2728_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[크립토 주간 브리핑] 횡보하는 비트코인, 바닥 다지는 중?...커지는 기대감 (테크M ─ 인베스트먼트)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=108885</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=108885</guid>
+            <pubDate>Sat, 08 Apr 2023 11:35:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202304/108885_132883_213_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[코인원, '퓨리에버(PURE)' 유의 종목 지정 (테크M ─ 인베스트먼트)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=108883</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=108883</guid>
@@ -608,14 +616,6 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202304/108714_132573_1810_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[서비스 멈춘 업비트 "모니터링 완료...서버 정상 운영"(상보) (테크M ─ 인베스트먼트)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=108699</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=108699</guid>
-            <pubDate>Mon, 03 Apr 2023 09:20:58 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202304/108699_132536_3412_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[韓 1등 배달앱 만든 김봉진, 亞 '제 2 배민' 꿈 영근다 (테크M ─ 피플)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=108874</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=108874</guid>
@@ -635,7 +635,7 @@
             <title><![CDATA[[인사] 한국후지쯔 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Sat, 08 Apr 2023 02:29:58 GMT</pubDate>
+            <pubDate>Sat, 08 Apr 2023 03:18:09 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
         </item>
         <item>
