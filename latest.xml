@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 09 Apr 2023 14:17:47 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Apr 2023 15:18:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[KDL 통신] 광동-아우라, 나란히 1승 신고...문호준, 개인전 32강 탈락 '충격']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=108906</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=108906</guid>
+            <pubDate>Sun, 09 Apr 2023 15:15:09 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202304/108906_132926_2322_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[PMPS 통신] 페이즈1 최하위였던 레드페퍼, 페이즈2 중반 선두 '반전']]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=108904</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 08 Apr 2023 08:55:00 GMT</pubDate>
             <content:encoded><![CDATA[김현기 대표]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202304/108881_132876_4341_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[글로벌] "차량 내부 영상 돌려봤다"...테슬라 직원의 충격 폭로]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=108882</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=108882</guid>
-            <pubDate>Sat, 08 Apr 2023 08:55:00 GMT</pubDate>
-            <content:encoded><![CDATA[김현기 대표]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202304/108882_132877_4535_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
