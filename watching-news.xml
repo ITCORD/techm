@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Apr 2023 06:30:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Apr 2023 07:20:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 에픽게임즈, 메타버스 생태계 조성 'UEFN과 크리에이터 이코노미2.0으로']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=108954</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=108954</guid>
+            <pubDate>Mon, 10 Apr 2023 07:20:41 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202304/108954_132993_3647_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 위시컴퍼니, AI 명상 음원 출시 '멜론, 스포티파이로 오세요']]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=108871</link>
@@ -110,14 +118,6 @@
             <pubDate>Tue, 28 Mar 2023 07:19:38 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202303/108449_132046_5442_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 네이버 제페토, '아바타 빌더' 서비스 론칭]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=108413</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=108413</guid>
-            <pubDate>Mon, 27 Mar 2023 07:19:51 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202303/108413_131985_1358_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
