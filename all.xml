@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Apr 2023 11:18:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Apr 2023 12:33:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,6 +168,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202304/108941_132978_351_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[게임베리 스튜디오 '조선 좀비전', 애플 앱스토어 인기 1위 달성 (테크M ─ 콘텐츠)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=108964</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=108964</guid>
+            <pubDate>Mon, 10 Apr 2023 10:17:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202304/108964_133021_4629_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[그라비티 '라그나로크 오리진' 韓 출시 후 첫 서버 통합 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=108963</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=108963</guid>
@@ -270,14 +278,6 @@
             <pubDate>Mon, 10 Apr 2023 10:50:00 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202304/108917_132945_509_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[창간기획-비욘드 게임] 게임을 즐기는 다양한 방법...'하거나' '보거나' '듣거나' '돈도 벌거나' (테크M ─ 콘텐츠)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=108806</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=108806</guid>
-            <pubDate>Mon, 10 Apr 2023 08:14:00 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202304/108806_132937_4155_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[써봤다] KT 'AI 보이스' 더한 망고보드…"생동감이 다르다" (테크M ─ 인프라)]]></title>
@@ -651,7 +651,7 @@
             <title><![CDATA[[인사] 한국후지쯔 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Mon, 10 Apr 2023 11:16:58 GMT</pubDate>
+            <pubDate>Mon, 10 Apr 2023 12:32:31 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
         </item>
         <item>
