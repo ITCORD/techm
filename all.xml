@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Apr 2023 15:25:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Apr 2023 16:27:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -392,6 +392,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202304/108900_132918_3125_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[전진수의 야심작 '라스코 AI' 오픈...네이버, '이미지 AI' 뛰어든다 (테크M ─ 이노베이션)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=108998</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=108998</guid>
+            <pubDate>Tue, 11 Apr 2023 12:30:52 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202304/108998_133081_543_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[플라스크 "AI 이미지 생성 도구 출시...美·日 2만명 몰려" (테크M ─ 이노베이션)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=108959</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=108959</guid>
@@ -494,14 +502,6 @@
             <pubDate>Fri, 07 Apr 2023 10:15:00 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202304/108846_132813_575_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[벤처기업협회 "올해 벤처금융 활성화하고, 글로벌화 돕겠다" (테크M ─ 이노베이션)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=108841</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=108841</guid>
-            <pubDate>Thu, 06 Apr 2023 09:18:51 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202304/108841_132809_148_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[검찰, 코인원 전직 임직원 2명 구속..."시세 조종 세력과 결탁" (테크M ─ 인베스트먼트)]]></title>
