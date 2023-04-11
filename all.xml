@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Apr 2023 10:25:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Apr 2023 11:20:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -280,12 +280,52 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202304/108917_132945_509_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[벤처기업협회, 국내 기업 글로벌 진출 돕는다...INKE와 협력 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=109002</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=109002</guid>
+            <pubDate>Tue, 11 Apr 2023 11:15:30 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202304/109002_133088_5636_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[해외 사업 보폭 넓히는 카카오페이, 하나금융그룹 '지엘엔'에 투자 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=109001</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=109001</guid>
+            <pubDate>Tue, 11 Apr 2023 11:15:30 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202304/109001_133078_537_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[글로벌 진출 꿈꾸는 협업툴 플로우…"5년 내 나스닥 상장 목표" (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=109000</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=109000</guid>
+            <pubDate>Tue, 11 Apr 2023 11:15:30 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202304/109000_133079_5328_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[초거대 AI와 K팝이 나아가야 할 방향은?...음콘협, 'MWM 컨퍼런스' 라인업 공개 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=108989</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=108989</guid>
+            <pubDate>Tue, 11 Apr 2023 06:20:28 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202304/108989_133051_2053_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[5G 중간 요금제 확대, SKT 선공에 LG유플러스도 대응...마지막 타자 KT도 임박 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=108985</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=108985</guid>
+            <pubDate>Tue, 11 Apr 2023 06:20:28 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202304/108985_133047_3057_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['중간요금제' 확대 나선 LG U+…"하반기, 저가 구간 요금제도 출시"(종합) (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=108982</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=108982</guid>
             <pubDate>Tue, 11 Apr 2023 11:57:00 GMT</pubDate>
             <content:encoded><![CDATA[김가은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202304/108982_133042_5156_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202304/108982_133086_5523_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[일체형 세탁건조기 'LG 트롬 워시타워'...터치형태 신제품 이달 출시 (테크M ─ 인프라)]]></title>
@@ -349,47 +389,7 @@
             <guid>https://www.techm.kr/news/articleView.html?idxno=108900</guid>
             <pubDate>Mon, 10 Apr 2023 08:21:28 GMT</pubDate>
             <content:encoded><![CDATA[김가은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202304/108900_133012_5235_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정식 승인 '눈앞' 국민은행 알뜰폰 'KB리브엠'…금융 알뜰폰 확산 신호탄 될까 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=108950</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=108950</guid>
-            <pubDate>Mon, 10 Apr 2023 08:21:28 GMT</pubDate>
-            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202304/108950_133013_5254_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[라이엇게임즈 '와일드 리프트 리그' 亞 대회 시즌1 8일 개막 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=108956</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=108956</guid>
-            <pubDate>Mon, 10 Apr 2023 08:21:28 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202304/108956_133008_5134_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[야놀자클라우드-트러스테이, 코리빙하우스 신정점 열었다 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=108951</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=108951</guid>
-            <pubDate>Mon, 10 Apr 2023 08:21:28 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202304/108951_132989_2726_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['크림 패밀리' 시크, 월 거래액 100억 넘겼다...'안전 거래' 효과 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=108948</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=108948</guid>
-            <pubDate>Mon, 10 Apr 2023 08:21:28 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202304/108948_132986_1818_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[올해는 바꿔볼까, 아이폰 15 프로 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=108942</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=108942</guid>
-            <pubDate>Mon, 10 Apr 2023 08:21:28 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202304/108942_133014_5310_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202304/108900_132918_3125_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[플라스크 "AI 이미지 생성 도구 출시...美·日 2만명 몰려" (테크M ─ 이노베이션)]]></title>
