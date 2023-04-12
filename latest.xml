@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Apr 2023 21:20:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Apr 2023 22:23:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[테크M 이슈] 잘 나가던 애플 '맥북', 갑자기 안팔리는 이유는?]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=109045</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=109045</guid>
+            <pubDate>Thu, 13 Apr 2023 06:30:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202304/109045_133166_4120_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[e스포츠人] 제자와 대결에서 승리한 문호준 "내 실력, 아직은 중간"]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=109044</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 12 Apr 2023 11:14:00 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202304/109019_133107_629_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지그재그 '직진배송' 도입한 중소형 쇼핑몰, 거래액 4배로 뛰었다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=109023</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=109023</guid>
-            <pubDate>Wed, 12 Apr 2023 11:14:00 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202304/109023_133112_1140_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
