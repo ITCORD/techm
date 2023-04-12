@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Apr 2023 14:24:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Apr 2023 15:22:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 슈퍼랩스, 라스코 AI 오픈 'AI 이미지 만들자']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=109038</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=109038</guid>
+            <pubDate>Wed, 12 Apr 2023 15:22:41 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202304/109038_133147_2341_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 플라스크, AI 이미지 생성기술 '플라스크 제네러티브 AI' 출시]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=108999</link>
@@ -110,14 +118,6 @@
             <pubDate>Wed, 29 Mar 2023 23:21:28 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202303/108513_132208_515_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 넷마블 마브렉스, NFT 스테이킹 서비스 오픈]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=108507</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=108507</guid>
-            <pubDate>Wed, 29 Mar 2023 07:26:12 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202303/108507_132177_569_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
