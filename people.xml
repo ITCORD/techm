@@ -4,9 +4,17 @@
         <title>테크M ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Apr 2023 08:28:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Apr 2023 09:22:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[커피한잔] "경기 수보다 재밌는 경기가 중요...배그 리그는 지금 진화 중"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=109034</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=109034</guid>
+            <pubDate>Wed, 12 Apr 2023 09:19:44 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202304/109034_133138_2026_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[재무적 성장 꾀한 컴투스...CEO 이주환 "올해 적극적 주주 환원 약속"]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=109029</link>
@@ -29,7 +37,7 @@
             <guid>https://www.techm.kr/news/articleView.html?idxno=108973</guid>
             <pubDate>Tue, 11 Apr 2023 10:39:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202304/108973_133087_5541_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202304/108973_133031_309_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[e스포츠人] 욕심 많다는 박현수 샌드박스, KDL 팀전도 개인전도 다가졌다]]></title>
@@ -67,7 +75,7 @@
             <title><![CDATA[[인사] 한국후지쯔]]></title>
             <link>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN5&amp;view_type=sm</link>
             <guid>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN5&amp;view_type=sm</guid>
-            <pubDate>Wed, 12 Apr 2023 06:25:02 GMT</pubDate>
+            <pubDate>Wed, 12 Apr 2023 09:19:44 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
         </item>
         <item>
@@ -109,14 +117,6 @@
             <pubDate>Thu, 30 Mar 2023 08:24:55 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202303/108478_132257_3111_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[법무법인 세움, 부장판사 출신 남현 변호사 영입…"송무 라인업 강화"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=108524</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=108524</guid>
-            <pubDate>Thu, 30 Mar 2023 10:16:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202303/108524_132219_165_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
