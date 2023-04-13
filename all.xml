@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Apr 2023 21:20:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Apr 2023 22:19:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -699,7 +699,7 @@
             <title><![CDATA[[인사] 한국후지쯔 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Thu, 13 Apr 2023 20:20:52 GMT</pubDate>
+            <pubDate>Thu, 13 Apr 2023 22:18:39 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
         </item>
         <item>
@@ -951,6 +951,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202304/108744_132631_5811_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[카드뉴스] 숙명여대 메타버스 캠퍼스에서 '빽다방'가고 진짜 커피 먹자 (테크M ─ 보는 뉴스)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=109075</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=109075</guid>
+            <pubDate>Thu, 13 Apr 2023 07:15:05 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202304/109075_133202_2228_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[카드뉴스] 슈퍼랩스, 라스코 AI 오픈 'AI 이미지 만들자' (테크M ─ 보는 뉴스)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=109038</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=109038</guid>
@@ -1053,14 +1061,6 @@
             <pubDate>Thu, 30 Mar 2023 06:21:43 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202303/108557_132260_448_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[게임코인TV] 2023 GDC 취재 뒷이야기...송재준 컴투스그룹 사장 만난 사연은? (테크M ─ 보는 뉴스)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=108513</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=108513</guid>
-            <pubDate>Wed, 29 Mar 2023 23:17:06 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202303/108513_132208_515_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
