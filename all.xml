@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Apr 2023 15:24:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Apr 2023 16:27:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -280,12 +280,36 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202304/109030_133120_557_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[유튜브, 안전한 플랫폼 위해 나서..."작년 4분기 566만개 영상 삭제" (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=109085</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=109085</guid>
+            <pubDate>Thu, 13 Apr 2023 16:22:29 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202304/109085_133232_1314_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[1조 클럽 가입한 메가존클라우드…"올해 흑자전환 무난히 달성" (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=109090</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=109090</guid>
+            <pubDate>Thu, 13 Apr 2023 16:22:29 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202304/109090_133238_4623_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[네이버핸즈·엔비전스, '장애인고용촉진대회' 표창 수상 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=109086</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=109086</guid>
+            <pubDate>Thu, 13 Apr 2023 16:22:29 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202304/109086_133233_2057_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[카카오엔터프라이즈, '클라우드' 교통정리…1조 몸값 증명할까 (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=109081</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=109081</guid>
             <pubDate>Thu, 13 Apr 2023 07:15:05 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202304/109081_133221_5710_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202304/109081_133241_2149_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[LG CNS, DX 기술력 앞세워 B2C 사업 키운다 (테크M ─ 인프라)]]></title>
@@ -301,7 +325,7 @@
             <guid>https://www.techm.kr/news/articleView.html?idxno=109071</guid>
             <pubDate>Thu, 13 Apr 2023 07:15:05 GMT</pubDate>
             <content:encoded><![CDATA[김가은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202304/109071_133212_4941_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202304/109071_133242_2214_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[SK㈜ C&C, 산업 현장 '안전·보건·환경' 특화 진단 솔루션 제공 (테크M ─ 인프라)]]></title>
@@ -317,7 +341,7 @@
             <guid>https://www.techm.kr/news/articleView.html?idxno=109069</guid>
             <pubDate>Thu, 13 Apr 2023 07:15:05 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202304/109069_133196_4858_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202304/109069_133246_2419_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[KT 지배구조TF, 7개 기관서 9명 추천…정상 체제 전환 '박차' (테크M ─ 인프라)]]></title>
@@ -365,31 +389,7 @@
             <guid>https://www.techm.kr/news/articleView.html?idxno=109050</guid>
             <pubDate>Thu, 13 Apr 2023 10:20:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202304/109050_133175_2010_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[KT, 광양시에 'ITS·교통복지센터' 구축…"지능형 체계로 불편 해소" (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=109047</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=109047</guid>
-            <pubDate>Thu, 13 Apr 2023 09:53:00 GMT</pubDate>
-            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202304/109047_133172_4959_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LG유플러스 "반려견 플랫폼 '포동'에서 쉽게 반려견 전문가 훈련 받으세요" (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=109046</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=109046</guid>
-            <pubDate>Thu, 13 Apr 2023 09:51:00 GMT</pubDate>
-            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202304/109046_133171_4241_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[테크M 이슈] 잘 나가던 애플 '맥북', 갑자기 안팔리는 이유는? (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=109045</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=109045</guid>
-            <pubDate>Thu, 13 Apr 2023 06:30:00 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202304/109045_133166_4120_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202304/109050_133248_2534_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[닥터나우, 3월 비대면 진료 23% 늘어…"환절기 감기 유행 영향" (테크M ─ 이노베이션)]]></title>
