@@ -4,9 +4,17 @@
         <title>테크M ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Apr 2023 22:19:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Apr 2023 23:20:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[템터뷰] "550만 골퍼 위한 1등 플랫폼"...카카오골프예약의 질주]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=108790</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=108790</guid>
+            <pubDate>Fri, 14 Apr 2023 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202304/108790_132722_5825_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[삼성, 산불 피해 복구에 30억원 지원…8개 계열사 참여]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=109091</link>
@@ -91,7 +99,7 @@
             <title><![CDATA[[인사] 한국후지쯔]]></title>
             <link>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN5&amp;view_type=sm</link>
             <guid>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN5&amp;view_type=sm</guid>
-            <pubDate>Thu, 13 Apr 2023 22:18:39 GMT</pubDate>
+            <pubDate>Thu, 13 Apr 2023 23:18:16 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
         </item>
         <item>
@@ -109,14 +117,6 @@
             <pubDate>Sun, 02 Apr 2023 18:20:48 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202304/108638_132443_1422_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[e스포츠人] '로키'가 '히카리'를 '픽'했었다? 우승놓고 정면승부 펼칠 두선수]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=108585</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=108585</guid>
-            <pubDate>Fri, 31 Mar 2023 10:59:00 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202303/108585_132335_4759_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

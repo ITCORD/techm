@@ -4,9 +4,17 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Apr 2023 22:19:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Apr 2023 23:20:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[테크M 이슈] MS-구글 전쟁에 아마존 참전…생성형 AI '빅테크 삼국지' 개막]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=109098</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=109098</guid>
+            <pubDate>Fri, 14 Apr 2023 06:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202304/109098_133259_3445_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[유튜브, 안전한 플랫폼 위해 나서..."작년 4분기 566만개 영상 삭제"]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=109085</link>
@@ -110,14 +118,6 @@
             <pubDate>Thu, 13 Apr 2023 10:25:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202304/109051_133176_2545_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[테크M 이슈] 2년만에 매출 2배 UP...'패션 최강' 무신사의 투자는 계속된다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=109050</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=109050</guid>
-            <pubDate>Thu, 13 Apr 2023 10:20:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202304/109050_133248_2534_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
