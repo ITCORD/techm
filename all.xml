@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Apr 2023 13:22:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Apr 2023 14:18:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[게임코인TV] 새로운 게임코인을 소개합니다...퍼플레이 NFT에 주목 (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=109136</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=109136</guid>
+            <pubDate>Fri, 14 Apr 2023 14:14:41 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202304/109136_133322_530_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[함양군 토지관리 부실로 사업 3년 지연...결국 쿠팡물류센터 설립 중단 (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=109135</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 14 Apr 2023 11:22:00 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202304/109107_133312_340_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[호요버스 '붕괴3rd' 오프라인 팝업스토어 열었다 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=109112</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=109112</guid>
-            <pubDate>Fri, 14 Apr 2023 11:08:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202304/109112_133277_832_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[게임앤언 플랫폼 퍼플레이, 제네시스 세일 앞두고 한정판 NFT 공개 (테크M ─ 콘텐츠)]]></title>
@@ -715,7 +715,7 @@
             <title><![CDATA[[인사] 한국후지쯔 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Fri, 14 Apr 2023 13:21:25 GMT</pubDate>
+            <pubDate>Fri, 14 Apr 2023 14:16:52 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
         </item>
         <item>
@@ -951,6 +951,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202304/108744_132631_5811_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[게임코인TV] 새로운 게임코인을 소개합니다...퍼플레이 NFT에 주목 (테크M ─ 보는 뉴스)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=109136</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=109136</guid>
+            <pubDate>Fri, 14 Apr 2023 14:18:40 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202304/109136_133322_530_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[카드뉴스] 이미지 생성 AI를 스마트폰에서도 만난다 (테크M ─ 보는 뉴스)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=109123</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=109123</guid>
@@ -1053,14 +1061,6 @@
             <pubDate>Fri, 31 Mar 2023 08:26:31 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202303/108608_132369_616_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[게임코인TV] 넥슨이 만들면 다르다? 메이플코인 및 강대현 부사장 인터뷰 뒷이야기 (테크M ─ 보는 뉴스)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=108563</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=108563</guid>
-            <pubDate>Thu, 30 Mar 2023 12:37:48 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202303/108563_132312_579_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
