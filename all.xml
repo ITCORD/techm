@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Apr 2023 10:23:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Apr 2023 11:21:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -727,6 +727,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202304/108659_132469_518_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['라방' 후 월매출 16배 증가...소상공인 상생 파트너 거듭난 티몬 (테크M ─ 라이프)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=109125</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=109125</guid>
+            <pubDate>Fri, 14 Apr 2023 11:19:16 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202304/109125_133299_4816_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[요기요 익스프레스, 전국 라이더 건강검진 비용 무상 지원 (테크M ─ 라이프)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=109060</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=109060</guid>
@@ -829,14 +837,6 @@
             <pubDate>Tue, 11 Apr 2023 10:17:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202304/108972_133029_1738_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쿠팡, 블랙 생필품 위크 열었다...16일까지 최대 50% 할인 (테크M ─ 라이프)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=108957</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=108957</guid>
-            <pubDate>Mon, 10 Apr 2023 08:23:24 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202304/108957_133009_5447_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[글로벌] "트위터 법인 사라졌다"...머스크, 슈퍼 앱 'X' 개발할까 (테크M ─ 리포트)]]></title>
