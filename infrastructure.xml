@@ -4,9 +4,17 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 16 Apr 2023 19:19:55 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Apr 2023 20:22:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[LG전자 스마트TV에서 LG유플러스 'FAST 채널' 본다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=109134</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=109134</guid>
+            <pubDate>Sun, 16 Apr 2023 09:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202304/109134_133320_4015_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[함양군 토지관리 부실로 사업 3년 지연...결국 쿠팡물류센터 설립 중단]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=109135</link>
@@ -110,14 +118,6 @@
             <pubDate>Fri, 14 Apr 2023 06:00:00 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202304/109098_133316_3536_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유튜브, 안전한 플랫폼 위해 나서..."작년 4분기 566만개 영상 삭제"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=109085</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=109085</guid>
-            <pubDate>Thu, 13 Apr 2023 16:22:29 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202304/109085_133232_1314_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
