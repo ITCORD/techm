@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Apr 2023 12:39:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Apr 2023 13:26:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -280,12 +280,20 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202304/109099_133313_3427_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[네이버, 아폴로·그룹앤 CIC 합친다...김승언 대표 북미·일본 사업 지휘 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=109182</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=109182</guid>
+            <pubDate>Mon, 17 Apr 2023 13:22:19 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202304/109182_133412_2553_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[빗장 열린 '금융 알뜰폰'...전문가들 "단순 재판매 넘어 차별적 경쟁력 키울 고민해야" (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=109175</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=109175</guid>
             <pubDate>Mon, 17 Apr 2023 08:22:53 GMT</pubDate>
             <content:encoded><![CDATA[김가은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202304/109175_133389_3038_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202304/109175_133406_2956_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[FreeView] '생성형 AI'로 구글의 심장을 찌른 마소, 네이버는 막을 수 있을까 (테크M ─ 인프라)]]></title>
@@ -293,7 +301,7 @@
             <guid>https://www.techm.kr/news/articleView.html?idxno=109176</guid>
             <pubDate>Mon, 17 Apr 2023 08:22:53 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202304/109176_133391_360_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202304/109176_133408_3032_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[카카오엔터프라이즈, 제주 스타트업에 클라우드·AI 지원한다 (테크M ─ 인프라)]]></title>
@@ -382,14 +390,6 @@
             <pubDate>Sun, 16 Apr 2023 09:00:00 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202304/109134_133320_4015_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[함양군 토지관리 부실로 사업 3년 지연...결국 쿠팡물류센터 설립 중단 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=109135</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=109135</guid>
-            <pubDate>Fri, 14 Apr 2023 12:30:37 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202304/109135_133321_4622_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[블록체인 기술기업 코인플러그, 스마트금융 기업 유비벨록스와 협력 (테크M ─ 이노베이션)]]></title>
@@ -952,6 +952,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202304/108836_132797_245_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[카드뉴스] 위메이드, '스니커즈(SNKRZ)' 한정판 NFT 출시 (테크M ─ 보는 뉴스)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=109180</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=109180</guid>
+            <pubDate>Mon, 17 Apr 2023 13:26:07 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202304/109180_133398_1449_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[게임코인TV] 새로운 게임코인을 소개합니다...퍼플레이 NFT에 주목 (테크M ─ 보는 뉴스)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=109136</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=109136</guid>
@@ -1054,14 +1062,6 @@
             <pubDate>Sun, 02 Apr 2023 18:17:58 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202304/108640_132445_3622_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 라인, 블록체인 대중화 추진 '아바타 메타버스, 게임, 팬덤에 집중' (테크M ─ 보는 뉴스)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=108608</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=108608</guid>
-            <pubDate>Fri, 31 Mar 2023 08:26:31 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202303/108608_132369_616_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
