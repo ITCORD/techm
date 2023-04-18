@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Apr 2023 07:22:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Apr 2023 08:24:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -280,6 +280,22 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202304/109159_133361_1111_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA["초거대 AI 핵심은 강화학습" KT클라우드, B2B 시장 공략할 무기 벼려낸다 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=109229</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=109229</guid>
+            <pubDate>Tue, 18 Apr 2023 08:22:58 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202304/109229_133480_5917_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['엔비디아·퀄컴' 꺾은 리벨리온…"반도체에 SW 더해 글로벌 경쟁력 확보" (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=109226</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=109226</guid>
+            <pubDate>Tue, 18 Apr 2023 08:22:58 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202304/109226_133473_2717_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[카카오VX, '세라지오 GC' 이벤트..."자녀와 골프치고 떡볶이 먹고" (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=109219</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=109219</guid>
@@ -376,20 +392,20 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202304/109191_133422_549_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[윤동식 KT클라우드 대표 "5월말~6월초 리벨리온 NPU 적용" (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=109185</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=109185</guid>
-            <pubDate>Tue, 18 Apr 2023 10:40:00 GMT</pubDate>
-            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202304/109185_133416_3552_v150.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA['필터샤워기 1위' 퓨어썸, 출시 6주년 캠페인...최대 41% 할인 (테크M ─ 이노베이션)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=109223</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=109223</guid>
+            <pubDate>Tue, 18 Apr 2023 08:23:15 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202304/109223_133455_357_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[삼성전자, 20230 HIMSS 전시회에서 '삼성 헬스 스택' 공개 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=109186</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=109186</guid>
-            <pubDate>Tue, 18 Apr 2023 10:36:00 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202304/109186_133415_3537_v150.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA["놀 카드로 놀자, 계산적으로"...야놀자, 현대카드와 PLCC 출시 (테크M ─ 이노베이션)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=109222</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=109222</guid>
+            <pubDate>Tue, 18 Apr 2023 08:23:15 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202304/109222_133454_2631_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[블록체인 기술기업 코인플러그, 스마트금융 기업 유비벨록스와 협력 (테크M ─ 이노베이션)]]></title>
@@ -486,22 +502,6 @@
             <pubDate>Fri, 14 Apr 2023 07:55:00 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202304/109093_133252_624_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스퀴즈비츠 "이미지 생성 AI...스마트폰에서 경험해보세요" (테크M ─ 이노베이션)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=109089</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=109089</guid>
-            <pubDate>Thu, 13 Apr 2023 18:21:19 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202304/109089_133237_3510_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성전자 'C랩 아웃사이드 경북' 출범…소부장 스타트업 '유니콘'으로 키운다 (테크M ─ 이노베이션)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=109083</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=109083</guid>
-            <pubDate>Thu, 13 Apr 2023 07:15:05 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202304/109083_133227_417_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["히트2 대만 갑니다" 亞 꽉 잡은 넥슨게임즈...석달새 주가 2배 'UP' (테크M ─ 인베스트먼트)]]></title>
@@ -728,6 +728,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202304/108973_133031_309_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[가정의 달 기획전 준비한 쿠팡...최대 50% 할인 판매 (테크M ─ 라이프)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=109228</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=109228</guid>
+            <pubDate>Tue, 18 Apr 2023 08:23:55 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202304/109228_133479_5442_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[무신사 어스, 지구의 날 맞아 '올버즈' 팝업 열었다 (테크M ─ 라이프)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=109224</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=109224</guid>
@@ -830,14 +838,6 @@
             <pubDate>Thu, 13 Apr 2023 10:41:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202304/109059_133184_4150_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[테크M 트렌드] '라면 제왕' 농심, 비빔면 최강자 자리 노린다 (테크M ─ 라이프)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=109057</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=109057</guid>
-            <pubDate>Thu, 13 Apr 2023 10:38:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202304/109057_133182_3816_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[글로벌] 美 상원의원 "소니의 MS-블리자드 M&A 반대는 반경쟁적 행위" (테크M ─ 리포트)]]></title>
@@ -952,6 +952,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202304/108881_132876_4341_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[카드뉴스] '배그'의 크래프톤과 '제페토'의 네이버제트, 메타버스 '미글루' 위한 합작법인 세웠다 (테크M ─ 보는 뉴스)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=109225</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=109225</guid>
+            <pubDate>Tue, 18 Apr 2023 08:24:34 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202304/109225_133461_2156_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[카드뉴스] 위메이드, '스니커즈(SNKRZ)' 한정판 NFT 출시 (테크M ─ 보는 뉴스)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=109180</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=109180</guid>
@@ -1054,14 +1062,6 @@
             <pubDate>Mon, 03 Apr 2023 05:15:02 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202304/108668_132486_1041_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[게임코인TV] GDC에서 만난 사람들...장현국 위메이드 대표 기자회견 뒷이야기 (테크M ─ 보는 뉴스)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=108640</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=108640</guid>
-            <pubDate>Sun, 02 Apr 2023 18:17:58 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202304/108640_132445_3622_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

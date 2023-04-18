@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Apr 2023 07:22:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Apr 2023 08:24:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] '배그'의 크래프톤과 '제페토'의 네이버제트, 메타버스 '미글루' 위한 합작법인 세웠다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=109225</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=109225</guid>
+            <pubDate>Tue, 18 Apr 2023 08:24:34 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202304/109225_133461_2156_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 위메이드, '스니커즈(SNKRZ)' 한정판 NFT 출시]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=109180</link>
@@ -110,14 +118,6 @@
             <pubDate>Mon, 03 Apr 2023 05:18:56 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202304/108668_132486_1041_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[게임코인TV] GDC에서 만난 사람들...장현국 위메이드 대표 기자회견 뒷이야기]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=108640</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=108640</guid>
-            <pubDate>Sun, 02 Apr 2023 21:16:13 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202304/108640_132445_3622_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

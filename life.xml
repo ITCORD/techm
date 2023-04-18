@@ -4,9 +4,17 @@
         <title>테크M ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Apr 2023 07:22:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Apr 2023 08:24:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가정의 달 기획전 준비한 쿠팡...최대 50% 할인 판매]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=109228</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=109228</guid>
+            <pubDate>Tue, 18 Apr 2023 08:23:55 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202304/109228_133479_5442_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[무신사 어스, 지구의 날 맞아 '올버즈' 팝업 열었다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=109224</link>
@@ -110,14 +118,6 @@
             <pubDate>Thu, 13 Apr 2023 10:41:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202304/109059_133184_4150_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[테크M 트렌드] '라면 제왕' 농심, 비빔면 최강자 자리 노린다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=109057</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=109057</guid>
-            <pubDate>Thu, 13 Apr 2023 10:38:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202304/109057_133182_3816_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
