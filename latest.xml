@@ -4,9 +4,25 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Apr 2023 14:17:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Apr 2023 15:21:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한국 대표 젠지-T1 출격...확 달라진 MSI 2023]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=109273</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=109273</guid>
+            <pubDate>Wed, 19 Apr 2023 15:18:39 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202304/109273_133571_3631_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[e스포츠人] 32세 프로게이머 이은택, 그가 전하는 드리프트 아이템전 이야기]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=109272</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=109272</guid>
+            <pubDate>Wed, 19 Apr 2023 15:18:39 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202304/109272_133570_514_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[KDL 통신] 노준현의 놀라운 성장...미리보는 결승전 승자는 광동 프릭스]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=109271</link>
@@ -150,22 +166,6 @@
             <pubDate>Wed, 19 Apr 2023 08:35:10 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202304/109251_133522_1736_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김희애·문소리 '퀸메이커', 넷플릭스 비영어권 주간 차트 1위]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=109250</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=109250</guid>
-            <pubDate>Wed, 19 Apr 2023 08:35:10 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202304/109250_133521_946_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[카카오뱅크, 사이버공격 방어훈련 '락드쉴즈' 참여...보안 강화]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=109254</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=109254</guid>
-            <pubDate>Wed, 19 Apr 2023 08:35:10 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202304/109254_133525_328_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>테크M ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Apr 2023 14:17:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Apr 2023 15:21:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[e스포츠人] 32세 프로게이머 이은택, 그가 전하는 드리프트 아이템전 이야기]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=109272</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=109272</guid>
+            <pubDate>Wed, 19 Apr 2023 15:20:06 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202304/109272_133570_514_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[구글 클라우드, 강형준 신임 코리아 사장 선임]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=109216</link>
@@ -110,14 +118,6 @@
             <pubDate>Wed, 12 Apr 2023 10:51:00 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202304/109008_133095_443_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[테크M 피플] '미다스의 손' 오딘 김재영, 글로벌 서브컬쳐-슈팅 대작 '도전장']]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=108973</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=108973</guid>
-            <pubDate>Tue, 11 Apr 2023 10:39:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202304/108973_133031_309_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
