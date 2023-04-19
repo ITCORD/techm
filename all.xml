@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Apr 2023 09:23:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Apr 2023 10:23:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -280,6 +280,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202304/109200_133431_3132_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[업비트, 마스크네트워크 프로젝트-투자자 소통 행사 진행 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=109270</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=109270</guid>
+            <pubDate>Wed, 19 Apr 2023 10:20:26 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202304/109270_133566_2355_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[SDX재단, '리월드포럼'에서 새로운 탄소감축 평가지표 제시한다 (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=109268</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=109268</guid>
@@ -382,14 +390,6 @@
             <pubDate>Wed, 19 Apr 2023 10:53:00 GMT</pubDate>
             <content:encoded><![CDATA[김가은 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202304/109242_133563_3527_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[파수, 한국항공대학교와 소프트웨어 인재양성 '맞손' (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=109240</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=109240</guid>
-            <pubDate>Wed, 19 Apr 2023 10:30:00 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202304/109240_133509_2911_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아산나눔재단, '기업가정신 레츠고' 프로그램 띄운다 (테크M ─ 이노베이션)]]></title>
@@ -749,7 +749,7 @@
             <guid>https://www.techm.kr/news/articleView.html?idxno=109236</guid>
             <pubDate>Wed, 19 Apr 2023 11:00:00 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202304/109236_133503_428_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202304/109236_133565_381_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[가정의 달 기획전 준비한 쿠팡...최대 50% 할인 판매 (테크M ─ 라이프)]]></title>
