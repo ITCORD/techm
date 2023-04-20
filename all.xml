@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Apr 2023 21:16:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Apr 2023 22:17:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -280,6 +280,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202304/109231_133556_319_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[글래스돔, 독일 하노버 산업박람회서 탄소배출 관리 LCA 솔루션 공개 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=109316</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=109316</guid>
+            <pubDate>Fri, 21 Apr 2023 07:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202304/109316_133647_2340_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['월 소득만 700만원' 퀵플렉서 개선요구에 뿔난 쿠팡..."허위 주장 중단하라" (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=109317</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=109317</guid>
@@ -382,14 +390,6 @@
             <pubDate>Thu, 20 Apr 2023 10:35:00 GMT</pubDate>
             <content:encoded><![CDATA[김가은 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202304/109279_133578_598_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[카카오페이, 강원도 산불피해지역에 '평화의 숲' 만든다…산림 복원 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=109286</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=109286</guid>
-            <pubDate>Thu, 20 Apr 2023 10:35:00 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202304/109286_133585_3133_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[가봤다] 스파크랩 투자기업 10곳 스포트라이트...美·日 등 글로벌 '관심' (테크M ─ 이노베이션)]]></title>
