@@ -4,9 +4,17 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Apr 2023 07:18:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Apr 2023 08:23:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[테크M 이슈] AI 개발 속도 늦추고, 법적 규제부터 만들자는 이유]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=109314</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=109314</guid>
+            <pubDate>Thu, 20 Apr 2023 08:21:00 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202304/109314_133627_1126_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[FreeView] 구글의 폴더블폰 시장 진출…삼성에겐 호재일까, 악재일까]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=109306</link>
@@ -110,14 +118,6 @@
             <pubDate>Thu, 20 Apr 2023 10:29:00 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202304/109284_133583_2751_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[라온화이트햇 'USIM 간편인증' 누적 이용 1억건 돌파]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=109283</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=109283</guid>
-            <pubDate>Thu, 20 Apr 2023 10:21:00 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202304/109283_133582_2055_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
