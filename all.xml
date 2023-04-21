@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Apr 2023 10:21:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Apr 2023 11:16:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,6 +168,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202304/109329_133660_1933_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[20주년 맞은 메이플스토리, 온-오프라인 연계 이벤트 개최 (테크M ─ 콘텐츠)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=109350</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=109350</guid>
+            <pubDate>Fri, 21 Apr 2023 09:15:41 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202304/109350_133688_1517_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[같이봐영] 성인물·패밀리·아워게임...예능·드라마·다큐, 풍성한 신작 쏟아진다 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=109344</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=109344</guid>
@@ -270,14 +278,6 @@
             <pubDate>Thu, 20 Apr 2023 10:38:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202304/109288_133587_382_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국 대표 젠지-T1 출격...확 달라진 MSI 2023 (테크M ─ 콘텐츠)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=109273</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=109273</guid>
-            <pubDate>Wed, 19 Apr 2023 15:18:39 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202304/109273_133571_3631_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[KT 중간요금제 출시 차주로 가닥...저가 구간 포함 여부에 '관심' (테크M ─ 인프라)]]></title>
