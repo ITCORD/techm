@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Apr 2023 07:20:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Apr 2023 08:23:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 블록체인 입은 '모두의마블2: 메타월드' 나왔다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=109355</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=109355</guid>
+            <pubDate>Fri, 21 Apr 2023 08:23:43 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202304/109355_133693_5447_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 원유니버스, 인천 교육청 메타버스 플랫폼 고도화]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=109307</link>
@@ -110,14 +118,6 @@
             <pubDate>Thu, 06 Apr 2023 07:52:00 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202304/108791_132732_4949_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 눈 달린 챗GPT '아숙업(AskUp)'에 손 더해졌다..."내 프사 더 젊게 만들어준다"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=108779</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=108779</guid>
-            <pubDate>Wed, 05 Apr 2023 08:27:22 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202304/108779_132692_4837_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
