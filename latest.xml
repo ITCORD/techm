@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 22 Apr 2023 14:16:16 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Apr 2023 15:19:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[e스포츠人] 더블제트 '연몬' 이민규 "뒷심 강한 DK 가장 경계된다"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=109368</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=109368</guid>
+            <pubDate>Sat, 22 Apr 2023 15:15:27 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202304/109368_133735_2952_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[PMPS 통신] 웬만해선 더블제트 공격을 막을 수 없다...2일차에서도 선두 유지]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=109367</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 21 Apr 2023 06:20:31 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202304/109347_133710_3930_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LG전자 '오픈소스 SW 보안 인증' 따냈다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=109346</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=109346</guid>
-            <pubDate>Fri, 21 Apr 2023 06:20:31 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202304/109346_133681_2739_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
