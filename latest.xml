@@ -4,9 +4,25 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Apr 2023 06:25:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Apr 2023 07:18:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[빅테크 'AI전쟁' 다음 격전지는 '반도체']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=109417</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=109417</guid>
+            <pubDate>Mon, 24 Apr 2023 07:15:43 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202304/109417_133819_2220_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['6G 시대' 준비하는 LG유플러스, 반사-흡수-투과...전파 통제력 높이는 RIS 기술 고도화]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=109408</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=109408</guid>
+            <pubDate>Mon, 24 Apr 2023 07:15:43 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202304/109408_133797_1213_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] KT, 지니버스에서 '보라! 데보라' 즐기자]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=109416</link>
@@ -150,22 +166,6 @@
             <pubDate>Mon, 24 Apr 2023 10:48:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202304/109389_133776_4851_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코인원, 티오리와 함께 모의해킹 훈련...보안 강화 '속도']]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=109388</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=109388</guid>
-            <pubDate>Mon, 24 Apr 2023 10:46:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202304/109388_133775_4654_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[상생 키우는 카카오메이커스, '제가버치' 농축수산물 누적 거래액 200억 돌파]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=109387</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=109387</guid>
-            <pubDate>Mon, 24 Apr 2023 10:44:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202304/109387_133774_4454_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
