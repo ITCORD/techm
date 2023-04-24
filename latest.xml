@@ -4,9 +4,25 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Apr 2023 05:20:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Apr 2023 06:25:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] KT, 지니버스에서 '보라! 데보라' 즐기자]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=109416</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=109416</guid>
+            <pubDate>Mon, 24 Apr 2023 06:21:05 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202304/109416_133802_554_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[배달의민족 '알뜰배달' 출격...소비자·공급자 '락인효과' 노린다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=109407</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=109407</guid>
+            <pubDate>Mon, 24 Apr 2023 06:21:05 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202304/109407_133796_1034_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[하이브 '위버스'에 프라이빗 채팅 도입된다...점점 존재감 옅어지는 SM엔터 '버블']]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=109405</link>
@@ -150,22 +166,6 @@
             <pubDate>Mon, 24 Apr 2023 10:44:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202304/109387_133774_4454_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[배민 키운 알토스벤처스...블록체인 게임사 '곰블'에 투자]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=109386</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=109386</guid>
-            <pubDate>Mon, 24 Apr 2023 10:43:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202304/109386_133773_4331_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[카카오, 신규기능 설명 담은 '카톡설명서' 내놨다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=109385</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=109385</guid>
-            <pubDate>Mon, 24 Apr 2023 10:41:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202304/109385_133772_4144_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

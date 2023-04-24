@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Apr 2023 05:20:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Apr 2023 06:25:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] KT, 지니버스에서 '보라! 데보라' 즐기자 (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=109416</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=109416</guid>
+            <pubDate>Mon, 24 Apr 2023 06:21:05 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202304/109416_133802_554_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[배달의민족 '알뜰배달' 출격...소비자·공급자 '락인효과' 노린다 (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=109407</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=109407</guid>
+            <pubDate>Mon, 24 Apr 2023 06:21:05 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202304/109407_133796_1034_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[하이브 '위버스'에 프라이빗 채팅 도입된다...점점 존재감 옅어지는 SM엔터 '버블' (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=109405</link>
@@ -152,22 +168,6 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202304/109387_133774_4454_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[배민 키운 알토스벤처스...블록체인 게임사 '곰블'에 투자 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=109386</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=109386</guid>
-            <pubDate>Mon, 24 Apr 2023 10:43:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202304/109386_133773_4331_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[카카오, 신규기능 설명 담은 '카톡설명서' 내놨다 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=109385</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=109385</guid>
-            <pubDate>Mon, 24 Apr 2023 10:41:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202304/109385_133772_4144_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[그라운드X, 대웅제약-동아닷컴 손잡고 '러너' 위한 NFT 선보인다 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=109397</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=109397</guid>
@@ -280,6 +280,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202304/109322_133653_279_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[하이브 '위버스'에 프라이빗 채팅 도입된다...점점 존재감 옅어지는 SM엔터 '버블' (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=109405</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=109405</guid>
+            <pubDate>Mon, 24 Apr 2023 05:15:44 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202304/109405_133793_5720_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['브로캐리 2.0' 띄운 KT…"AI로 디지털 물류 새 지평 연다" (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=109401</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=109401</guid>
@@ -384,18 +392,10 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202304/109372_133740_1441_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[제주신화월드, 리조트에 KT AI 실내 배송 로봇 도입 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=109371</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=109371</guid>
-            <pubDate>Sun, 23 Apr 2023 11:48:00 GMT</pubDate>
-            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202304/109371_133739_729_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[업스테이지, 국제대회 휩쓸며 'OCR' 기술력 입증 (테크M ─ 이노베이션)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=109406</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=109406</guid>
-            <pubDate>Mon, 24 Apr 2023 05:18:03 GMT</pubDate>
+            <pubDate>Mon, 24 Apr 2023 05:15:44 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202304/109406_133794_5729_v150.jpg" length="0" type="image/jpg"/>
         </item>
@@ -403,7 +403,7 @@
             <title><![CDATA[주정차 단속 알림앱 '휘슬', 경기도 시흥시로 서비스 확장 (테크M ─ 이노베이션)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=109404</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=109404</guid>
-            <pubDate>Mon, 24 Apr 2023 05:18:03 GMT</pubDate>
+            <pubDate>Mon, 24 Apr 2023 05:15:44 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202304/109404_133792_5139_v150.jpg" length="0" type="image/jpg"/>
         </item>
@@ -616,6 +616,22 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202304/109160_133363_2747_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[김성동 SK쉴더스 Top-CERT 담당, 국무총리 표창 수상 (테크M ─ 피플)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=109403</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=109403</guid>
+            <pubDate>Mon, 24 Apr 2023 05:15:44 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202304/109403_133791_490_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한국레노버, 신규식 신임 대표 선임 (테크M ─ 피플)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=109402</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=109402</guid>
+            <pubDate>Mon, 24 Apr 2023 05:15:44 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202304/109402_133790_4558_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[e스포츠人] 뒷심 부족? DS가 일주일만에 단점 극복하고 우승 차지한 사연 (테크M ─ 피플)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=109377</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=109377</guid>
@@ -710,22 +726,6 @@
             <pubDate>Fri, 14 Apr 2023 08:00:00 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202304/108790_132720_5640_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성, 산불 피해 복구에 30억원 지원…8개 계열사 참여 (테크M ─ 피플)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=109091</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=109091</guid>
-            <pubDate>Thu, 13 Apr 2023 11:17:28 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202304/109091_133239_245_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[고개 숙인 차명훈 코인원 대표 "임직원 구속, 무거운 책임감 느낀다" (테크M ─ 피플)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=109065</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=109065</guid>
-            <pubDate>Thu, 13 Apr 2023 11:25:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202304/109065_133193_2517_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[ESG 키우는 삼성전자, 얼루어 그린 캠페인 참가 (테크M ─ 라이프)]]></title>
@@ -952,6 +952,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202304/109073_133200_540_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[카드뉴스] KT, 지니버스에서 '보라! 데보라' 즐기자 (테크M ─ 보는 뉴스)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=109416</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=109416</guid>
+            <pubDate>Mon, 24 Apr 2023 06:25:21 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202304/109416_133802_554_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[카드뉴스] 블록체인 입은 '모두의마블2: 메타월드' 나왔다 (테크M ─ 보는 뉴스)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=109355</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=109355</guid>
@@ -1054,14 +1062,6 @@
             <pubDate>Fri, 07 Apr 2023 08:09:00 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202304/108810_132753_3027_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[게임코인TV] NFT는 증권일까? 블록체인은 게임의 미래다?...구독자 2000명 기념 'AMA'(1편) (테크M ─ 보는 뉴스)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=108791</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=108791</guid>
-            <pubDate>Thu, 06 Apr 2023 07:52:00 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202304/108791_132732_4949_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
