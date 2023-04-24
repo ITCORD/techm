@@ -4,9 +4,25 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Apr 2023 08:23:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Apr 2023 09:22:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오늘의집, 가정의 달 '기프트 숍' 기획전..."최대 80% 할인"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=109423</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=109423</guid>
+            <pubDate>Mon, 24 Apr 2023 09:18:09 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202304/109423_133832_214_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["민노총 주장, 알고보니 가짜뉴스?" 택배노조가 쿠팡에 들이친 이유는]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=109424</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=109424</guid>
+            <pubDate>Mon, 24 Apr 2023 09:18:09 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202304/109424_133833_2132_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[빅테크 'AI전쟁' 다음 격전지는 '반도체']]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=109417</link>
@@ -102,22 +118,6 @@
             <pubDate>Mon, 24 Apr 2023 10:35:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202304/109382_133770_3456_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[판 키우는 토스증권, 미국 주식 거래 종목 6000여개 추가]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=109379</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=109379</guid>
-            <pubDate>Mon, 24 Apr 2023 10:31:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202304/109379_133768_3042_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["사람보다 더 사람같은 AI 만든다" SKT, 스캐터랩과 전략적 파트너십 체결]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=109378</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=109378</guid>
-            <pubDate>Mon, 24 Apr 2023 10:24:00 GMT</pubDate>
-            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202304/109378_133767_5944_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
