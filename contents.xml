@@ -4,9 +4,17 @@
         <title>테크M ─ 콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Apr 2023 10:20:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Apr 2023 11:17:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['스타워즈 데이' 즐겨볼까...디즈니, 전주국제영화제와 이벤트]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=109519</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=109519</guid>
+            <pubDate>Wed, 26 Apr 2023 11:14:34 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202304/109519_134005_323_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["어린이날, 광화문 광장 오세요"...KT '키즈랜드' 캐릭터 총출동]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=109516</link>
@@ -110,14 +118,6 @@
             <pubDate>Tue, 25 Apr 2023 11:31:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202304/109447_133857_3140_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[위메이드플레이, AI가 그린 게임 캐릭터 선보인다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=109444</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=109444</guid>
-            <pubDate>Tue, 25 Apr 2023 11:08:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202304/109444_133852_810_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Apr 2023 10:20:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Apr 2023 11:17:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,6 +168,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202304/109480_133935_5930_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['스타워즈 데이' 즐겨볼까...디즈니, 전주국제영화제와 이벤트 (테크M ─ 콘텐츠)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=109519</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=109519</guid>
+            <pubDate>Wed, 26 Apr 2023 11:14:34 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202304/109519_134005_323_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA["어린이날, 광화문 광장 오세요"...KT '키즈랜드' 캐릭터 총출동 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=109516</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=109516</guid>
@@ -270,14 +278,6 @@
             <pubDate>Tue, 25 Apr 2023 11:31:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202304/109447_133857_3140_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[위메이드플레이, AI가 그린 게임 캐릭터 선보인다 (테크M ─ 콘텐츠)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=109444</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=109444</guid>
-            <pubDate>Tue, 25 Apr 2023 11:08:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202304/109444_133852_810_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[KT-에픽게임즈, 'K-디지털트윈 워킹그룹' 출범…"기술 발전 모색" (테크M ─ 인프라)]]></title>
@@ -392,6 +392,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202304/109473_133925_4615_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[카카오벤처스가 '의료 AI' 주목한 이유..."현장에서 혁신 일어나" (테크M ─ 이노베이션)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=109520</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=109520</guid>
+            <pubDate>Wed, 26 Apr 2023 11:15:11 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202304/109520_134006_2727_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[리월드포럼] SDX재단, 중소기업 탄소감축 인증...자발적 탄소감축 참여 길 연다 (테크M ─ 이노베이션)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=109502</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=109502</guid>
@@ -494,14 +502,6 @@
             <pubDate>Mon, 24 Apr 2023 08:20:59 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202304/109419_133821_3134_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[배달의민족 '알뜰배달' 출격...소비자·공급자 '락인효과' 노린다 (테크M ─ 이노베이션)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=109407</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=109407</guid>
-            <pubDate>Mon, 24 Apr 2023 06:21:05 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202304/109407_133796_1034_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[테크M 이슈] '1조 적자' LG디스플레이, 1Q 매출도 32% 급감(상보) (테크M ─ 인베스트먼트)]]></title>
@@ -651,7 +651,7 @@
             <title><![CDATA[[부고] 신정호(CJ올리브네트웍스 최고기술책임자)씨 부친상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Wed, 26 Apr 2023 10:19:09 GMT</pubDate>
+            <pubDate>Wed, 26 Apr 2023 11:15:39 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
         </item>
         <item>
