@@ -4,7 +4,7 @@
         <title>테크M ─ 인베스트먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Apr 2023 15:25:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Apr 2023 16:23:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,12 +48,36 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202304/109365_133762_5555_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA["규제 곧 풀려요" 1Q 부진한 이마트, 증권가는 매수 추천...배경은]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=109342</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=109342</guid>
+            <pubDate>Wed, 26 Apr 2023 16:22:25 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202304/109342_133673_1243_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[크립토 브리핑] '겹악재'에 흔들리는 시장…비트코인, 3700만원 아래로]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=109323</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=109323</guid>
             <pubDate>Fri, 21 Apr 2023 10:30:00 GMT</pubDate>
             <content:encoded><![CDATA[김가은 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202304/109323_133654_2823_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[해외서 통한 넷마블 모두의마블2...MBX 해외 거래량 'UP']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=109293</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=109293</guid>
+            <pubDate>Thu, 20 Apr 2023 00:31:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202304/109293_133645_2638_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[크립토 브리핑] 4000만원 '재돌파' 앞둔 비트코인…관건은 5월 FOMC]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=109248</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=109248</guid>
+            <pubDate>Wed, 19 Apr 2023 00:32:00 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202304/109248_133519_2319_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[코인원, 내부 소통 강화 위한 '스피커스' 구성...대표 직원 5인 투표로 선출]]></title>
@@ -94,30 +118,6 @@
             <pubDate>Tue, 18 Apr 2023 11:21:00 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202304/109195_133427_1250_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[크립토 브리핑] 美 연준, 추가 금리 인상 가능성 시사...비트코인 3800만원대로 '뒷걸음질']]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=109192</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=109192</guid>
-            <pubDate>Tue, 18 Apr 2023 11:02:00 GMT</pubDate>
-            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202304/109192_133423_012_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국내 거래소서 사라진 페이코인, 비블록 이어 후오비글로벌에도 상장]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=109171</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=109171</guid>
-            <pubDate>Mon, 17 Apr 2023 11:39:00 GMT</pubDate>
-            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202304/109171_133383_3943_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[크립토 브리핑] 美 실적 발표 앞두고 숨고르는 비트코인...3900만원대서 횡보]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=109160</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=109160</guid>
-            <pubDate>Mon, 17 Apr 2023 10:39:00 GMT</pubDate>
-            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202304/109160_133363_2747_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
