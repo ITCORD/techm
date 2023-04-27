@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Apr 2023 08:25:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Apr 2023 09:19:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 카카오벤처스, '의료 AI' 혁신에 투자하다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=109574</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=109574</guid>
+            <pubDate>Thu, 27 Apr 2023 09:19:40 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202304/109574_134136_011_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 웅진씽크빅, 메타버스에서 직업 체험할 어린이 모여라]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=109512</link>
@@ -110,14 +118,6 @@
             <pubDate>Tue, 11 Apr 2023 12:35:21 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202304/108999_133066_3536_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 에픽게임즈, 메타버스 생태계 조성 'UEFN과 크리에이터 이코노미2.0으로']]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=108954</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=108954</guid>
-            <pubDate>Mon, 10 Apr 2023 07:20:41 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202304/108954_132993_3647_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
