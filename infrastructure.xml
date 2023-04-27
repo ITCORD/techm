@@ -4,9 +4,17 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Apr 2023 22:20:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Apr 2023 23:21:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['로봇 대전' 펼치는 통신3사…"서빙은 기본, 순찰·방역까지"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=109573</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=109573</guid>
+            <pubDate>Fri, 28 Apr 2023 07:50:00 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202304/109573_134127_5721_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[롯데정보통신, 1분기 영업익 118억원…전년 동기 대비 134%↑]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=109581</link>
@@ -110,14 +118,6 @@
             <pubDate>Thu, 27 Apr 2023 11:27:00 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202304/109542_134051_108_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[컨콜] 삼성전자 "3나노 모바일·HPC 고객 중심…테스트칩 제작 중"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=109546</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=109546</guid>
-            <pubDate>Thu, 27 Apr 2023 11:17:00 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202304/109546_134054_1722_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
