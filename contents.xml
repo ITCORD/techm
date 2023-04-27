@@ -4,9 +4,25 @@
         <title>테크M ─ 콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Apr 2023 04:22:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Apr 2023 05:20:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[PGS가 온다] 2023년 첫 글로벌 대회 열린다...한국팀 4팀 출전]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=109555</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=109555</guid>
+            <pubDate>Thu, 27 Apr 2023 05:15:51 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202304/109555_134065_425_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[엔씨소프트 멀티플랫폼 야심작 TL, 5월에 베일 벗는다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=109558</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=109558</guid>
+            <pubDate>Thu, 27 Apr 2023 05:15:51 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202304/109558_134073_2024_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[공항서도 '에센셜' 흐른다...NHN벅스·한국공항공사 '맞손']]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=109548</link>
@@ -102,22 +118,6 @@
             <pubDate>Wed, 26 Apr 2023 05:15:26 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202304/109489_134003_477_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서구권에서 통한 컴투스 '서머너즈 워'...투어 현지 관심 'UP']]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=109483</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=109483</guid>
-            <pubDate>Wed, 26 Apr 2023 04:19:37 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202304/109483_133941_116_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[넥슨, GPS 기반 모바일 RPG 게임 '빌딩앤파이터' 퍼블리싱 계약 체결]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=109482</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=109482</guid>
-            <pubDate>Wed, 26 Apr 2023 04:19:37 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202304/109482_133937_852_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
