@@ -4,14 +4,22 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Apr 2023 15:19:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Apr 2023 16:25:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[PGS 통신] 한국팀 자존심 살린 다나와...2연속 치킨으로 상위권 진입 노린다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=109623</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=109623</guid>
+            <pubDate>Fri, 28 Apr 2023 16:19:46 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202304/109623_134226_2357_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[부고] 김민규(신세계그룹 커뮤니케이션본부장)씨 부친상]]></title>
             <link>https://www.techm.kr/news/articleList.html</link>
             <guid>https://www.techm.kr/news/articleList.html</guid>
-            <pubDate>Fri, 28 Apr 2023 15:16:04 GMT</pubDate>
+            <pubDate>Fri, 28 Apr 2023 16:19:46 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
         </item>
         <item>
@@ -157,14 +165,6 @@
             <pubDate>Fri, 28 Apr 2023 00:19:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202304/109599_134219_456_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[카카오 자회사 '디케이테크인', 전사원 응급 상황 대응 교육]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=109595</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=109595</guid>
-            <pubDate>Fri, 28 Apr 2023 00:05:00 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202304/109595_134172_3534_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
