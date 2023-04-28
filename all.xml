@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Apr 2023 03:19:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Apr 2023 04:25:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,6 +168,22 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202304/109577_134153_2616_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[테크M 이슈] 日 정복 나선 카카오게임즈 '오딘'...韓 MMO 새역사 쓴다 (테크M ─ 콘텐츠)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=109603</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=109603</guid>
+            <pubDate>Fri, 28 Apr 2023 00:41:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202304/109603_134184_4058_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[블록체인 굴기 이뤄낸 위메이드...위믹스 게임 100개 '확보' (테크M ─ 콘텐츠)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=109601</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=109601</guid>
+            <pubDate>Fri, 28 Apr 2023 00:29:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202304/109601_134182_2934_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[리디, 웹소설 '상수리나무 아래' 전자책 나왔다 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=109594</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=109594</guid>
@@ -262,22 +278,6 @@
             <pubDate>Thu, 27 Apr 2023 11:27:00 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202304/109548_134056_2347_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[네이버웹툰 '웹툰위드'로 작가 돕는다..."해외 매출 88%, 가능" (테크M ─ 콘텐츠)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=109547</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=109547</guid>
-            <pubDate>Thu, 27 Apr 2023 11:27:00 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202304/109547_134055_2018_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[4K로 즐기는 나이트크로우] 보석 찾는 위메이드의 혜안...이번에도 빛날까 (테크M ─ 콘텐츠)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=109501</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=109501</guid>
-            <pubDate>Thu, 27 Apr 2023 06:32:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202304/109501_134116_5254_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[카카오 자회사 '디케이테크인', 전사원 응급 상황 대응 교육 (테크M ─ 인프라)]]></title>
