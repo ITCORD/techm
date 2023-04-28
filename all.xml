@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Apr 2023 05:21:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Apr 2023 06:27:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -280,6 +280,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202304/109548_134056_2347_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[아프리카TV 1Q 영업익 184억원...올해 플랫폼 고도화 '총력' (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=109608</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=109608</guid>
+            <pubDate>Fri, 28 Apr 2023 06:22:32 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202304/109608_134205_175_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA["CEO까지 日로 총출동" 무르익는 카카오게임즈의 '비욘드코리아' (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=109604</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=109604</guid>
@@ -382,14 +390,6 @@
             <pubDate>Thu, 27 Apr 2023 10:19:15 GMT</pubDate>
             <content:encoded><![CDATA[김가은 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202304/109581_134156_3650_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[KT, '마이AI보이스'로 가수 심규선 에세이 오디오북 제작 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=109575</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=109575</guid>
-            <pubDate>Thu, 27 Apr 2023 07:15:24 GMT</pubDate>
-            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202304/109575_134150_351_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[업스테이지, 삼성생명에 'OCR 팩' 공급…보험청구서류 자동화 지원 (테크M ─ 이노베이션)]]></title>
