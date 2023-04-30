@@ -4,9 +4,17 @@
         <title>테크M ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 30 Apr 2023 21:17:08 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Apr 2023 22:17:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[써봤다] '아이팟'으로 뉴진스 듣는 주말]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=109641</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=109641</guid>
+            <pubDate>Mon, 01 May 2023 07:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202304/109641_134265_2232_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[큐텐, '2023 동행축제' 동참… 국내 소상공인 해외 수출 지원]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=109637</link>
@@ -110,14 +118,6 @@
             <pubDate>Tue, 25 Apr 2023 10:51:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202304/109436_133844_5152_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국브랜드패션협회, 창립회원사 100개 돌파..."가품근절"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=109425</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=109425</guid>
-            <pubDate>Mon, 24 Apr 2023 11:15:56 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202304/109425_133834_2822_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
