@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 30 Apr 2023 10:21:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Apr 2023 11:16:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[큐텐, '2023 동행축제' 동참… 국내 소상공인 해외 수출 지원]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=109637</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=109637</guid>
+            <pubDate>Sun, 30 Apr 2023 11:12:23 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202304/109637_134258_3058_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['15년의 기다림' 정영재...동족전 최강 박성균 꺾고 ASL 우승]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=109636</link>
@@ -131,7 +139,7 @@
             <title><![CDATA[[부고] 김민규(신세계그룹 커뮤니케이션본부장)씨 부친상]]></title>
             <link>https://www.techm.kr/news/articleList.html</link>
             <guid>https://www.techm.kr/news/articleList.html</guid>
-            <pubDate>Sun, 30 Apr 2023 10:15:32 GMT</pubDate>
+            <pubDate>Sun, 30 Apr 2023 11:12:23 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
         </item>
         <item>
@@ -157,14 +165,6 @@
             <pubDate>Fri, 28 Apr 2023 08:20:18 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202304/109615_134216_430_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 지니뮤직 주스, AI 편곡 기술 개발 '음악 콘텐츠 재창작 시장 열다']]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=109605</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=109605</guid>
-            <pubDate>Fri, 28 Apr 2023 08:20:18 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202304/109605_134186_3542_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
