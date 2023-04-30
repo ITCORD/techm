@@ -4,9 +4,17 @@
         <title>테크M ─ 콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 30 Apr 2023 14:17:05 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Apr 2023 15:17:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[PGS 통신] 부진한 다나와, 9위로 1일차 마무리...GF 직행에 '빨간불']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=109639</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=109639</guid>
+            <pubDate>Sun, 30 Apr 2023 15:15:01 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202304/109639_134260_5422_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[KDL 통신] '닐' 리우창헝, 패자조 1위...락스, 샌드박스 제압 '파란']]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=109638</link>
@@ -110,14 +118,6 @@
             <pubDate>Fri, 28 Apr 2023 00:41:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202304/109603_134218_4438_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[블록체인 굴기 이뤄낸 위메이드...위믹스 게임 100개 '확보']]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=109601</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=109601</guid>
-            <pubDate>Fri, 28 Apr 2023 00:29:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202304/109601_134182_2934_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
