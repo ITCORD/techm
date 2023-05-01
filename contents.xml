@@ -4,16 +4,24 @@
         <title>테크M ─ 콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 May 2023 12:32:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 May 2023 13:21:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[누적 매출 벌써 200억? 잘 나가는 나이트크로우...서버 33개로 '확충']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=109659</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=109659</guid>
+            <pubDate>Mon, 01 May 2023 13:18:35 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202305/109659_134311_94_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[리니지M 정조준한 위메이드 '나이트크로우'...1위 자리 꿰찰까]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=109657</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=109657</guid>
             <pubDate>Mon, 01 May 2023 11:39:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202305/109657_134296_3940_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202305/109657_134305_523_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[KB리브모바일, KB스타클럽 패밀리 3개월 무료 이벤트]]></title>
@@ -110,14 +118,6 @@
             <pubDate>Fri, 28 Apr 2023 08:20:34 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202304/109611_134208_2410_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[네오위즈, 글로벌 기대작 'P의 거짓' 신규 OST 선봬]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=109610</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=109610</guid>
-            <pubDate>Fri, 28 Apr 2023 08:20:34 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202304/109610_134207_200_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
