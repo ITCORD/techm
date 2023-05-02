@@ -4,9 +4,17 @@
         <title>테크M ─ 콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 May 2023 06:26:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 May 2023 07:20:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[엔픽셀 '그랑사가', 신규 캐릭터 미코로로 출시]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=109693</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=109693</guid>
+            <pubDate>Tue, 02 May 2023 07:16:15 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202305/109693_134353_1630_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[펄어비스, 검은사막 굿즈 공모전 수상작 발표]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=109688</link>
@@ -110,14 +118,6 @@
             <pubDate>Sun, 30 Apr 2023 15:15:01 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202304/109639_134260_5422_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[KDL 통신] '닐' 리우창헝, 패자조 1위...락스, 샌드박스 제압 '파란']]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=109638</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=109638</guid>
-            <pubDate>Sun, 30 Apr 2023 13:17:41 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202304/109638_134259_527_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
