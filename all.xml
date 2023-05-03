@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 May 2023 04:22:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 May 2023 05:21:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -280,6 +280,22 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202305/109671_134323_239_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[AWS 서밋] 글로벌 위기 돌파할 무기는?…AWS가 내놓은 답은 '데이터' (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=109749</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=109749</guid>
+            <pubDate>Wed, 03 May 2023 05:16:11 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202305/109749_134454_1644_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[AWS 서밋] 함기호 AWS코리아 대표 "디지털 혁신 성공은 인재·편의성에 달려있다" (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=109745</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=109745</guid>
+            <pubDate>Wed, 03 May 2023 05:16:11 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202305/109745_134447_68_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[대만 '에이서' 한국 PC 시장 공략 나섰다…"외산 브랜드 톱3 목표" (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=109746</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=109746</guid>
@@ -374,22 +390,6 @@
             <pubDate>Tue, 02 May 2023 00:05:00 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202305/109690_134345_450_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SK쉴더스, 'AWS 서밋 서울'서 클라우드 보안 전략 제시한다 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=109680</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=109680</guid>
-            <pubDate>Tue, 02 May 2023 10:58:00 GMT</pubDate>
-            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202305/109680_134332_5656_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이스트소프트, 'MS 비전 얼라이언스' 합류…"AI 휴먼 글로벌 확장" (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=109679</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=109679</guid>
-            <pubDate>Tue, 02 May 2023 10:54:00 GMT</pubDate>
-            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202305/109679_134331_5036_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[블록체인 사업 시동 거는 카카오게임즈 보라, 보라배틀 3분기 내 정식 출시 (테크M ─ 이노베이션)]]></title>
@@ -504,6 +504,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202304/109520_134006_2727_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[크립토 브리핑] FOMC 앞두고 하락했던 비트코인·이더리움 소폭 반등 (테크M ─ 인베스트먼트)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=109747</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=109747</guid>
+            <pubDate>Wed, 03 May 2023 05:17:23 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202305/109747_134449_02_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[1분기 숨 고른 카카오게임즈, 2분기는 다르다...IP별 전략으로 '비욘드 코리아'(종합) (테크M ─ 인베스트먼트)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=109740</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=109740</guid>
@@ -606,14 +614,6 @@
             <pubDate>Wed, 03 May 2023 08:30:00 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202305/109718_134412_1158_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[또 위메이드 손 들어준 싱가포르 ICC 중재 법원, 액토즈 취소소송 기각 (테크M ─ 인베스트먼트)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=109717</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=109717</guid>
-            <pubDate>Tue, 02 May 2023 14:19:02 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202305/109717_134411_464_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[삼성전자, 5월은 '나눔의 달'…'나눔키오스크'로 임직원 온기 모은다 (테크M ─ 피플)]]></title>
