@@ -4,9 +4,25 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 May 2023 08:26:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 May 2023 09:18:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[카카오, 포털 '다음' CIC 분리…황유지 부문장 대표 내정]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=109829</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=109829</guid>
+            <pubDate>Thu, 04 May 2023 09:16:14 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202305/109829_134585_2932_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한미 사이버 안보 동맹 핵심으로 떠오른 KISA…"백악관이 직접 지목"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=109818</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=109818</guid>
+            <pubDate>Thu, 04 May 2023 09:16:14 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202305/109818_134590_452_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[KT, 스트리밍하우스 워케이션 공간에 업무용 통신 환경 구축]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=109792</link>
@@ -102,22 +118,6 @@
             <pubDate>Wed, 03 May 2023 11:14:45 GMT</pubDate>
             <content:encoded><![CDATA[김가은 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202305/109755_134460_2825_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[넷플릭스 "여성 주연 시리즈 57%...변화 위한 책임 다할 것"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=109751</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=109751</guid>
-            <pubDate>Wed, 03 May 2023 06:21:46 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202305/109751_134456_4911_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[AWS 서밋] 글로벌 위기 돌파할 무기는?…AWS가 내놓은 답은 '데이터']]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=109749</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=109749</guid>
-            <pubDate>Wed, 03 May 2023 05:16:11 GMT</pubDate>
-            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202305/109749_134454_1644_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
