@@ -4,9 +4,17 @@
         <title>테크M ─ 콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 May 2023 06:25:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 May 2023 07:20:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[넥슨 대규모 PvP 게임 '워헤이븐'...6월 '스팀 넥스트 페스트' 참가]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=109814</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=109814</guid>
+            <pubDate>Thu, 04 May 2023 07:16:55 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202305/109814_134557_2617_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[갤럭시아메타버스, 실물자산 기반 렌딩 프로토콜 공동 개발]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=109803</link>
@@ -110,14 +118,6 @@
             <pubDate>Wed, 03 May 2023 11:45:00 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202305/109741_134501_496_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[테크M 이슈] 새판짜기 나선 컴투스 제노니아...MMORPG 시장 판도 흔들까]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=109742</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=109742</guid>
-            <pubDate>Wed, 03 May 2023 11:44:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202305/109742_134444_4441_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
