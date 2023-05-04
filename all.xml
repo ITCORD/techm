@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 May 2023 02:34:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 May 2023 03:20:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[엔씨소프트 도구리, 코엑스에 '막내사원 오리엔테이션' 팝업스토어 오픈 (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=109796</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=109796</guid>
+            <pubDate>Thu, 04 May 2023 11:58:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202305/109796_134538_722_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[쏘카, 심야 쏘카존 편도 요금 '반값' 할인 (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=109798</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=109798</guid>
+            <pubDate>Thu, 04 May 2023 11:46:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202305/109798_134540_4456_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['라인'에도 눈 달린 챗GPT '아숙업' 뜬다 (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=109797</link>
@@ -150,22 +166,6 @@
             <pubDate>Thu, 04 May 2023 09:45:00 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202305/109779_134520_4314_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[KT, 경기도장애인재활협회와 IT 우수 인재 발굴 나섰다 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=109778</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=109778</guid>
-            <pubDate>Thu, 04 May 2023 09:45:00 GMT</pubDate>
-            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202305/109778_134519_4023_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[컨콜] 카카오톡에 모바일 명품관 '럭스탭' 선보인다 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=109777</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=109777</guid>
-            <pubDate>Thu, 04 May 2023 09:45:00 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202305/109777_134518_391_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[컴투스홀딩스 엑스플라, FTX 사태 관련 개인 홀더 보상 지원 나섰다 (테크M ─ 콘텐츠)]]></title>
@@ -392,6 +392,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202305/109749_134454_1644_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[쏘카, 심야 쏘카존 편도 요금 '반값' 할인 (테크M ─ 이노베이션)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=109798</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=109798</guid>
+            <pubDate>Thu, 04 May 2023 11:46:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202305/109798_134540_4456_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['라인'에도 눈 달린 챗GPT '아숙업' 뜬다 (테크M ─ 이노베이션)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=109797</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=109797</guid>
@@ -494,14 +502,6 @@
             <pubDate>Thu, 27 Apr 2023 06:24:26 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202304/109563_134080_3753_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[네이버·CJ ENM 점찍은 포자랩스 "AI 작곡, 5분 만에 한곡 뚝딱" (테크M ─ 이노베이션)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=109562</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=109562</guid>
-            <pubDate>Thu, 27 Apr 2023 06:24:26 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202304/109562_134078_1532_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['성장엔진' 갈아끼는 카카오 "카톡 개편하고 AI 집중 투자"(종합) (테크M ─ 인베스트먼트)]]></title>
@@ -651,14 +651,14 @@
             <title><![CDATA[[부고] 김민규(신세계그룹 커뮤니케이션본부장)씨 부친상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Thu, 04 May 2023 02:33:30 GMT</pubDate>
+            <pubDate>Thu, 04 May 2023 03:19:49 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[부고] 권영식 넷마블 대표 빙부상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Thu, 04 May 2023 02:33:30 GMT</pubDate>
+            <pubDate>Thu, 04 May 2023 03:19:49 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
         </item>
         <item>
@@ -721,7 +721,7 @@
             <title><![CDATA[[부고] 신정호(CJ올리브네트웍스 최고기술책임자)씨 부친상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Thu, 04 May 2023 02:33:30 GMT</pubDate>
+            <pubDate>Thu, 04 May 2023 03:19:49 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
         </item>
         <item>
