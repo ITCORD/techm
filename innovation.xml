@@ -4,9 +4,17 @@
         <title>테크M ─ 이노베이션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 May 2023 09:18:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 May 2023 10:21:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[파라메타, 블록체인 기술로 '배터리 잔존 수명 인증 서비스' 구축한다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=109832</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=109832</guid>
+            <pubDate>Thu, 04 May 2023 10:17:55 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202305/109832_134597_1139_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[채널톡, 정보 보안 기능 강화한다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=109822</link>
@@ -110,14 +118,6 @@
             <pubDate>Fri, 28 Apr 2023 08:21:52 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202304/109615_134212_369_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[업스테이지, 삼성생명에 'OCR 팩' 공급…보험청구서류 자동화 지원]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=109585</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=109585</guid>
-            <pubDate>Fri, 28 Apr 2023 10:15:00 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202304/109585_134161_1355_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
