@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 May 2023 04:22:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 May 2023 05:18:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,6 +168,30 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202305/109779_134520_4314_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[액션스퀘어, 네이버웹툰과 '일렉시드' IP 기반 모바일 게임 만든다 (테크M ─ 콘텐츠)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=109801</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=109801</guid>
+            <pubDate>Thu, 04 May 2023 05:16:23 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202305/109801_134543_2652_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[엔픽셀, MMORPG '크로노 오디세이' 게임 플레이 영상 공개 (테크M ─ 콘텐츠)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=109799</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=109799</guid>
+            <pubDate>Thu, 04 May 2023 05:16:23 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202305/109799_134541_1158_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[테크M 리포트] 게임한류 대표로 올라선 넥슨게임즈...수출 라인업 '확장' (테크M ─ 콘텐츠)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=109800</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=109800</guid>
+            <pubDate>Thu, 04 May 2023 05:16:23 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202305/109800_134542_1644_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[엔씨소프트 도구리, 코엑스에 '막내사원 오리엔테이션' 팝업스토어 오픈 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=109796</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=109796</guid>
@@ -254,30 +278,6 @@
             <pubDate>Wed, 03 May 2023 10:57:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202305/109734_134430_5655_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[카카오게임즈 야심작 '아레스'와 '가디스 오더'...각각 3분기·4분기 출시 (테크M ─ 콘텐츠)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=109725</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=109725</guid>
-            <pubDate>Wed, 03 May 2023 10:16:00 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202305/109725_134420_1355_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[카카오게임즈 "아키에이지 워, 매출 상위권 유지...장기 흥행 기대" (테크M ─ 콘텐츠)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=109724</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=109724</guid>
-            <pubDate>Wed, 03 May 2023 09:58:00 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202305/109724_134418_5746_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[엔픽셀 '그랑사가', 신규 캐릭터 미코로로 출시 (테크M ─ 콘텐츠)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=109693</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=109693</guid>
-            <pubDate>Tue, 02 May 2023 07:16:15 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202305/109693_134353_1630_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[KT, 스트리밍하우스 워케이션 공간에 업무용 통신 환경 구축 (테크M ─ 인프라)]]></title>
@@ -651,14 +651,14 @@
             <title><![CDATA[[부고] 김민규(신세계그룹 커뮤니케이션본부장)씨 부친상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Thu, 04 May 2023 04:20:37 GMT</pubDate>
+            <pubDate>Thu, 04 May 2023 05:17:30 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[부고] 권영식 넷마블 대표 빙부상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Thu, 04 May 2023 04:20:37 GMT</pubDate>
+            <pubDate>Thu, 04 May 2023 05:17:30 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
         </item>
         <item>
@@ -721,7 +721,7 @@
             <title><![CDATA[[부고] 신정호(CJ올리브네트웍스 최고기술책임자)씨 부친상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Thu, 04 May 2023 04:20:37 GMT</pubDate>
+            <pubDate>Thu, 04 May 2023 05:17:31 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
         </item>
         <item>
