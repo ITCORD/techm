@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 May 2023 07:21:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 May 2023 08:25:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -725,6 +725,14 @@
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[소라픽]어린이날 연휴에 뭐하지?...쿠팡-티몬 기획전 뜯어보기 (테크M ─ 라이프)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=109836</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=109836</guid>
+            <pubDate>Fri, 05 May 2023 00:36:00 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202305/109836_134606_54_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[ADT캡스 경제적으로 이용하세요…'SK쉴더스 하나카드' 출시 (테크M ─ 라이프)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=109790</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=109790</guid>
@@ -827,14 +835,6 @@
             <pubDate>Mon, 01 May 2023 11:30:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202305/109653_134292_3029_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[티몬, 5월 한달간 물가 안정 프로젝트...'몬스터메가세일' 연다 (테크M ─ 라이프)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=109651</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=109651</guid>
-            <pubDate>Mon, 01 May 2023 11:28:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202305/109651_134291_2826_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[글로벌] '에어태그 악용' 앓던 애플, 구글과 무단 위치 추적 막는다 (테크M ─ 리포트)]]></title>
