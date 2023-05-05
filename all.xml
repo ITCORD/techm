@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 May 2023 11:21:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 May 2023 12:34:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -280,6 +280,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202305/109765_134505_1148_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[믿을 건 역시 아이폰·갤럭시…어려울 때 빛난 '프리미엄폰'의 가치 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=109840</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=109840</guid>
+            <pubDate>Fri, 05 May 2023 12:30:58 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202305/109840_134613_1924_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[카카오, 포털 '다음' CIC 분리…황유지 부문장 대표 내정 (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=109829</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=109829</guid>
@@ -382,14 +390,6 @@
             <pubDate>Wed, 03 May 2023 07:16:04 GMT</pubDate>
             <content:encoded><![CDATA[김가은 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202305/109756_134461_3257_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LG U+, 강릉 산불 피해 청소년에게 3000만원 상당 노트북 전달 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=109755</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=109755</guid>
-            <pubDate>Wed, 03 May 2023 07:16:04 GMT</pubDate>
-            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202305/109755_134460_2825_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[파라메타, 블록체인 기술로 '배터리 잔존 수명 인증 서비스' 구축한다 (테크M ─ 이노베이션)]]></title>
@@ -651,14 +651,14 @@
             <title><![CDATA[[부고] 김민규(신세계그룹 커뮤니케이션본부장)씨 부친상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Fri, 05 May 2023 10:18:27 GMT</pubDate>
+            <pubDate>Fri, 05 May 2023 12:31:44 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[부고] 권영식 넷마블 대표 빙부상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Fri, 05 May 2023 10:18:27 GMT</pubDate>
+            <pubDate>Fri, 05 May 2023 12:31:44 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
         </item>
         <item>
@@ -721,7 +721,7 @@
             <title><![CDATA[[부고] 신정호(CJ올리브네트웍스 최고기술책임자)씨 부친상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Fri, 05 May 2023 10:18:27 GMT</pubDate>
+            <pubDate>Fri, 05 May 2023 12:31:44 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
         </item>
         <item>
