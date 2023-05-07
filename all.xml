@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 07 May 2023 14:21:09 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 May 2023 15:17:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,6 +168,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202305/109840_134613_1924_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[KDL 통신] 박현수 맹활약한 샌드박스, 아우라 꺾고 결승행...광동과 리벤지 매치 (테크M ─ 콘텐츠)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=109860</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=109860</guid>
+            <pubDate>Sun, 07 May 2023 14:13:40 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202305/109860_134694_4343_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['김남국'도 샀다...가상자산 '위믹스' 발자취 총정리 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=109849</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=109849</guid>
@@ -270,14 +278,6 @@
             <pubDate>Thu, 04 May 2023 05:16:23 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202305/109801_134543_2652_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[엔픽셀, MMORPG '크로노 오디세이' 게임 플레이 영상 공개 (테크M ─ 콘텐츠)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=109799</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=109799</guid>
-            <pubDate>Thu, 04 May 2023 05:16:23 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202305/109799_134541_1158_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[韓日 '셔틀외교' 본격화…尹 "반도체·AI 등 첨단 과학기술 R&D 협력 추진" (테크M ─ 인프라)]]></title>
@@ -651,14 +651,14 @@
             <title><![CDATA[[부고] 김민규(신세계그룹 커뮤니케이션본부장)씨 부친상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Sun, 07 May 2023 13:18:14 GMT</pubDate>
+            <pubDate>Sun, 07 May 2023 15:16:35 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[부고] 권영식 넷마블 대표 빙부상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Sun, 07 May 2023 13:18:14 GMT</pubDate>
+            <pubDate>Sun, 07 May 2023 15:16:35 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
         </item>
         <item>
@@ -721,7 +721,7 @@
             <title><![CDATA[[부고] 신정호(CJ올리브네트웍스 최고기술책임자)씨 부친상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Sun, 07 May 2023 13:18:14 GMT</pubDate>
+            <pubDate>Sun, 07 May 2023 15:16:35 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
         </item>
         <item>
