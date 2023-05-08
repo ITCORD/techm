@@ -4,9 +4,17 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 May 2023 03:19:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 May 2023 04:22:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[신한은행, 사회초년생 소액대출 '신한 페이코' 출시]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=109898</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=109898</guid>
+            <pubDate>Mon, 08 May 2023 04:20:22 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202305/109898_134756_1945_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[컴투스, 게임기획 및 게임아트 분야 포커스 경력 채용]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=109895</link>
@@ -110,14 +118,6 @@
             <pubDate>Sun, 07 May 2023 10:16:27 GMT</pubDate>
             <content:encoded><![CDATA[김가은 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202305/109859_134693_5121_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[템터뷰] "바람 읽어 전력 생산량 예측"...GS '친환경 에너지 시대' 연다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=109858</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=109858</guid>
-            <pubDate>Sun, 07 May 2023 06:19:51 GMT</pubDate>
-            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202305/109858_134684_1934_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

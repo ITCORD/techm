@@ -4,9 +4,17 @@
         <title>테크M ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 May 2023 03:19:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 May 2023 04:22:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[발란, 이커머스 업계 첫 '책임 보상제' 실시]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=109896</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=109896</guid>
+            <pubDate>Mon, 08 May 2023 04:22:10 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202305/109896_134754_02_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[진짜 효도하기 위한 '효도폰'을 찾아서]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=109847</link>
@@ -110,14 +118,6 @@
             <pubDate>Tue, 02 May 2023 11:26:00 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202305/109682_134334_2456_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[현대시티아울렛 동대문점, '동대문 슈퍼 패스' 진행]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=109655</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=109655</guid>
-            <pubDate>Mon, 01 May 2023 11:33:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202305/109655_134294_3327_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

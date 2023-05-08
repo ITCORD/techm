@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 May 2023 03:19:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 May 2023 04:22:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[발란, 이커머스 업계 첫 '책임 보상제' 실시 (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=109896</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=109896</guid>
+            <pubDate>Mon, 08 May 2023 04:19:44 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202305/109896_134754_02_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[社告] '테크M 콘퍼런스' 오는 10일 개최...'빅 블러 시대, 업의 본질이 바뀐다' (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=109892</link>
@@ -160,14 +168,6 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202305/109879_134718_1127_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[컨콜] 네이버 "자체 광고 상품, 국내 최대 C2C 당근마켓 적용" (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=109876</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=109876</guid>
-            <pubDate>Mon, 08 May 2023 10:02:00 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202305/109876_134715_135_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[트래블룰 합작법인 코드, 블랙리스트 월렛 주소 탐지 시스템 출시 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=109891</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=109891</guid>
@@ -280,6 +280,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202305/109814_134557_2617_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[신한은행, 사회초년생 소액대출 '신한 페이코' 출시 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=109898</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=109898</guid>
+            <pubDate>Mon, 08 May 2023 04:20:22 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202305/109898_134756_1945_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[컴투스, 게임기획 및 게임아트 분야 포커스 경력 채용 (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=109895</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=109895</guid>
@@ -382,14 +390,6 @@
             <pubDate>Sun, 07 May 2023 10:15:54 GMT</pubDate>
             <content:encoded><![CDATA[김가은 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202305/109859_134693_5121_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[템터뷰] "바람 읽어 전력 생산량 예측"...GS '친환경 에너지 시대' 연다 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=109858</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=109858</guid>
-            <pubDate>Sun, 07 May 2023 06:19:15 GMT</pubDate>
-            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202305/109858_134684_1934_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["결국은 B2B" 등판 앞둔 '네이버 하이퍼클로바X'...기업 AI 대중화 연다 (테크M ─ 이노베이션)]]></title>
@@ -726,6 +726,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202304/109457_133904_2826_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[발란, 이커머스 업계 첫 '책임 보상제' 실시 (테크M ─ 라이프)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=109896</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=109896</guid>
+            <pubDate>Mon, 08 May 2023 04:22:10 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202305/109896_134754_02_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[진짜 효도하기 위한 '효도폰'을 찾아서 (테크M ─ 라이프)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=109847</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=109847</guid>
@@ -828,14 +836,6 @@
             <pubDate>Tue, 02 May 2023 11:26:00 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202305/109682_134334_2456_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[현대시티아울렛 동대문점, '동대문 슈퍼 패스' 진행 (테크M ─ 라이프)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=109655</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=109655</guid>
-            <pubDate>Mon, 01 May 2023 11:33:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202305/109655_134294_3327_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[글로벌] '에어태그 악용' 앓던 애플, 구글과 무단 위치 추적 막는다 (테크M ─ 리포트)]]></title>
