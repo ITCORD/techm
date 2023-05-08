@@ -4,9 +4,17 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 May 2023 04:22:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 May 2023 05:18:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[카카오톡 또 다시 장애...메시지 수·발신 오류(1보)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=109899</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=109899</guid>
+            <pubDate>Mon, 08 May 2023 05:16:20 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202305/109899_134757_5044_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[신한은행, 사회초년생 소액대출 '신한 페이코' 출시]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=109898</link>
@@ -110,14 +118,6 @@
             <pubDate>Mon, 08 May 2023 10:00:00 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202305/109866_134705_154_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[韓日 '셔틀외교' 본격화…尹 "반도체·AI 등 첨단 과학기술 R&D 협력 추진"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=109859</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=109859</guid>
-            <pubDate>Sun, 07 May 2023 10:16:27 GMT</pubDate>
-            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202305/109859_134693_5121_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
