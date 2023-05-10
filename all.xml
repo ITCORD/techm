@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 May 2023 08:23:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 May 2023 09:25:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -504,6 +504,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202305/109802_134544_4158_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[YG PLUS, 1분기 매출액 555억…역대 최대 (테크M ─ 인베스트먼트)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=109983</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=109983</guid>
+            <pubDate>Wed, 10 May 2023 09:23:06 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202305/109983_134914_5649_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['MMO 최강자' 위메이드, 매드엔진으로 게임사 멀티플 '쑥' (테크M ─ 인베스트먼트)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=109964</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=109964</guid>
@@ -606,14 +614,6 @@
             <pubDate>Mon, 08 May 2023 10:21:00 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202305/109882_134721_1939_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[컨콜] "네이버웹툰 연말 흑자전환 시 내년 상장 가능" (테크M ─ 인베스트먼트)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=109881</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=109881</guid>
-            <pubDate>Mon, 08 May 2023 10:17:00 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202305/109881_134720_1635_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이마트 '구글 TV' OS 탑재 PL 스마트TV 내놨다 (테크M ─ 피플)]]></title>
@@ -950,6 +950,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202304/109620_134223_2026_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[테크M 포토] 박서현 아나운서, 테크M 재창간 3주년 기념 행사 사회 맡아 진행 (테크M ─ 보는 뉴스)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=109973</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=109973</guid>
+            <pubDate>Wed, 10 May 2023 09:25:57 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202305/109973_134885_735_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[카드뉴스] 이프랜드서 '할리우드'간다...메타버스 속 '버추얼투어' (테크M ─ 보는 뉴스)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=109935</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=109935</guid>
@@ -1052,14 +1060,6 @@
             <pubDate>Fri, 21 Apr 2023 08:23:43 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202304/109355_133693_5447_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 원유니버스, 인천 교육청 메타버스 플랫폼 고도화 (테크M ─ 보는 뉴스)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=109307</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=109307</guid>
-            <pubDate>Thu, 20 Apr 2023 06:21:26 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202304/109307_133607_3047_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
