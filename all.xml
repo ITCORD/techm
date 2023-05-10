@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 May 2023 05:20:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 May 2023 06:28:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -280,10 +280,18 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202305/109897_134755_1624_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[테크M CON] 장두성 KT 상무 "초거대 AI 핵심은 융합·창조, 기술 경쟁 패러다임 바뀐다" (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=109966</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=109966</guid>
+            <pubDate>Wed, 10 May 2023 06:25:13 GMT</pubDate>
+            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202305/109966_134878_4611_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['8년만에 등판' MMO 최강자 엔씨소프트...지스타에 TL 이어 아이온2 띄울까 (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=109957</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=109957</guid>
-            <pubDate>Wed, 10 May 2023 05:15:45 GMT</pubDate>
+            <pubDate>Wed, 10 May 2023 05:14:24 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202305/109957_134868_2739_v150.jpg" length="0" type="image/jpg"/>
         </item>
@@ -382,14 +390,6 @@
             <pubDate>Tue, 09 May 2023 11:25:00 GMT</pubDate>
             <content:encoded><![CDATA[김가은 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202305/109915_134795_4643_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LG유플러스-숭실대학교, 사이버 보안 분야 전문인재 양성 '맞손' (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=109911</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=109911</guid>
-            <pubDate>Tue, 09 May 2023 10:25:00 GMT</pubDate>
-            <content:encoded><![CDATA[김가은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202305/109911_134787_1912_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['韓 스타트업 동반자' 자처한 구글…"테크멘토와 성장지원" (테크M ─ 이노베이션)]]></title>
@@ -504,10 +504,18 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202305/109798_134540_4456_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['MMO 최강자' 위메이드, 매드엔진으로 게임사 멀티플 '쑥' (테크M ─ 인베스트먼트)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=109964</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=109964</guid>
+            <pubDate>Wed, 10 May 2023 06:26:38 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202305/109964_134876_1455_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA["일 매출 20억 UP" 韓 MMO 제왕 위메이드, 1Q 적자에도 웃는 이유는 (테크M ─ 인베스트먼트)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=109963</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=109963</guid>
-            <pubDate>Wed, 10 May 2023 05:17:09 GMT</pubDate>
+            <pubDate>Wed, 10 May 2023 05:14:24 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202305/109963_134874_945_v150.jpg" length="0" type="image/jpg"/>
         </item>
@@ -515,7 +523,7 @@
             <title><![CDATA[[테크M 리포트] 1Q 역대급 실적 거둔 쿠팡...명실상부 韓 이커머스 최강자 '우뚝' (테크M ─ 인베스트먼트)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=109959</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=109959</guid>
-            <pubDate>Wed, 10 May 2023 05:17:09 GMT</pubDate>
+            <pubDate>Wed, 10 May 2023 05:14:24 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202305/109959_134870_5648_v150.jpg" length="0" type="image/jpg"/>
         </item>
@@ -608,18 +616,10 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202305/109881_134720_1635_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[컨콜] 카카오 이어 네이버도..."5월 대환대출 서비스 출시" (테크M ─ 인베스트먼트)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=109878</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=109878</guid>
-            <pubDate>Mon, 08 May 2023 10:16:00 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202305/109878_134717_744_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[이마트 '구글 TV' OS 탑재 PL 스마트TV 내놨다 (테크M ─ 피플)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=109962</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=109962</guid>
-            <pubDate>Wed, 10 May 2023 05:17:34 GMT</pubDate>
+            <pubDate>Wed, 10 May 2023 05:14:24 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202305/109962_134872_252_v150.jpg" length="0" type="image/jpg"/>
         </item>
@@ -726,6 +726,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202304/109475_133927_5211_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[쿠팡, 3분기 연속 호실적...창업주 김범석 "와우 멤버십, 지구 최고로 키울 것" (테크M ─ 라이프)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=109960</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=109960</guid>
+            <pubDate>Wed, 10 May 2023 05:14:24 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202305/109960_134871_032_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[위믹스 포인트] 김민별, 위믹스 포인트 1위 행진...KLPGA 신인상 강력후보 (테크M ─ 라이프)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=109941</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=109941</guid>
@@ -828,14 +836,6 @@
             <pubDate>Tue, 02 May 2023 00:01:00 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202305/109689_134343_04_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[컬리, 온라인 소통 커뮤니티 '컬리로그' 열었다 (테크M ─ 라이프)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=109686</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=109686</guid>
-            <pubDate>Tue, 02 May 2023 11:52:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202305/109686_134340_5215_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[글로벌] 美 제재에도 튼실한 中 화웨이..."보조금·R&D 덕분" (테크M ─ 리포트)]]></title>
