@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 May 2023 07:18:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 May 2023 08:25:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 원유니버스, '챔피언스 아레나' NFT 출시]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=110077</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=110077</guid>
+            <pubDate>Fri, 12 May 2023 08:25:41 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202305/110077_135070_339_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] SKT-에쓰푸드, AI 푸드테크 개발 추진]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=110026</link>
@@ -110,14 +118,6 @@
             <pubDate>Tue, 25 Apr 2023 06:24:17 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202304/109454_133873_5051_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] KT, 지니버스에서 '보라! 데보라' 즐기자]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=109416</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=109416</guid>
-            <pubDate>Mon, 24 Apr 2023 06:25:21 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202304/109416_133802_554_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
