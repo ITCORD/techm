@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 14 May 2023 12:35:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 May 2023 13:19:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,6 +168,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202305/110081_135086_4025_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[KDL 통신] 노준현 맹활약한 광동 프릭스, 창단 후 첫 우승 (테크M ─ 콘텐츠)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=110100</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=110100</guid>
+            <pubDate>Sun, 14 May 2023 12:28:02 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202305/110100_135134_07_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[KDL 결승 예고] 창단 첫 우승 노리는 광동 vs. 최강 자리 지키려는 샌드박스 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=110071</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=110071</guid>
@@ -270,14 +278,6 @@
             <pubDate>Thu, 11 May 2023 09:16:34 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202305/110041_135003_1256_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[해긴 '플레이투게더' 카이아 패션위크 개최...온라인서 패션 대결 연다 (테크M ─ 콘텐츠)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=110037</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=110037</guid>
-            <pubDate>Thu, 11 May 2023 09:16:34 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202305/110037_134999_3132_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["이른 더위, 무풍에어컨 준비하세요"...삼성전자, 국내 에어컨 시장 점유율 48% 넘었다 (테크M ─ 인프라)]]></title>
