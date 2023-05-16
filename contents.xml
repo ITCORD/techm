@@ -4,9 +4,33 @@
         <title>테크M ─ 콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 May 2023 01:19:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 May 2023 02:37:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["AI 적용을 쉽게"...업스테이지, '다큐먼트 AI 팩'-'아숙업 Seargest' 공개]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=110180</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=110180</guid>
+            <pubDate>Tue, 16 May 2023 10:55:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202305/110180_135269_3959_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[공중파 3사 라디오 음악프로, 지니뮤직으로 듣는다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=110178</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=110178</guid>
+            <pubDate>Tue, 16 May 2023 10:30:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202305/110178_135266_3033_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[컴투스 IP가 뜬다...'미니게임천국'-'낚시의 신: 크루' 글로벌 기대감 고조]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=110173</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=110173</guid>
+            <pubDate>Tue, 16 May 2023 10:19:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202305/110173_135260_1920_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[해외선 블록체인 게임에 돈 몰리는데...김남국 사태에 멍드는 韓 블록체인 게임 시장]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=110152</link>
@@ -94,30 +118,6 @@
             <pubDate>Mon, 15 May 2023 11:23:00 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202305/110127_135176_2214_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[조이시티, 퍼펙트스톰필름과 영화 시리나오 '컨트롤Z' 웹툰화 한다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=110125</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=110125</guid>
-            <pubDate>Mon, 15 May 2023 11:21:00 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202305/110125_135174_1026_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["진정한 웹3.0 유니버스 구현"...페이스월렛, 넥슨과 '메이플스토리 N' 협업]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=110112</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=110112</guid>
-            <pubDate>Mon, 15 May 2023 10:52:00 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202305/110112_135163_449_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[돌풍의 韓 '블루아카이브' 中 예약자 200만 육박...붕괴:스타레일 넘어선다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=110111</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=110111</guid>
-            <pubDate>Mon, 15 May 2023 10:02:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202305/110111_135245_5656_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
