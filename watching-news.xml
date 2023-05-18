@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 May 2023 06:23:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 May 2023 07:22:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 메타버스 제프월드, 프리 시리즈 A2 투자 유치]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=110310</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=110310</guid>
+            <pubDate>Thu, 18 May 2023 07:22:18 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202305/110310_135485_4734_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 튜닙, 생성형 AI 사업 고도화 '전문연구요원 병역지정업체로 선정']]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=110250</link>
@@ -110,14 +118,6 @@
             <pubDate>Tue, 02 May 2023 07:20:29 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202305/109701_134362_2052_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 지니뮤직 주스, AI 편곡 기술 개발 '음악 콘텐츠 재창작 시장 열다']]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=109605</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=109605</guid>
-            <pubDate>Fri, 28 Apr 2023 08:24:50 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202304/109605_134186_3542_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
