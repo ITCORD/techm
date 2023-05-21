@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 21 May 2023 09:21:55 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 May 2023 10:21:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[가봤다] "모든 곳에 화웨이"...폰부터 홈까지 '플래그십 스토어'를 가다 (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=110386</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=110386</guid>
+            <pubDate>Sun, 21 May 2023 09:14:04 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202305/110386_135644_240_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[가봤다] 화웨이 '기술 혁신' 전초기지 '둥관 캠퍼스'...평화로운 풍경에 숨겨진 '혁신 본능' (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=110384</link>
@@ -62,14 +70,6 @@
             <pubDate>Sun, 21 May 2023 07:00:00 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202305/110354_135570_5339_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[가봤다] "모든 곳에 화웨이"...폰부터 홈까지 '플래그십 스토어'를 가다 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=110386</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=110386</guid>
-            <pubDate>Sun, 21 May 2023 09:14:04 GMT</pubDate>
-            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202305/110386_135644_240_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[크립토 주간 브리핑] '힌먼 연설' 공개 임박에 급등한 리플...비트코인·이더리움은 여전히 횡보 (테크M ─ 전체기사)]]></title>
