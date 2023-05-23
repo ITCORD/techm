@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 May 2023 07:24:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 May 2023 08:27:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -280,6 +280,22 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202305/110427_135718_585_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[카카오, 사우디 관광 활성화 협력..."K콘텐츠에 결제-모빌리티" (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=110461</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=110461</guid>
+            <pubDate>Tue, 23 May 2023 08:23:15 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202305/110461_135759_2418_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[삼성헬스와 함께 '꿀잠'을 자보자 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=110460</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=110460</guid>
+            <pubDate>Tue, 23 May 2023 08:23:15 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202305/110460_135754_925_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[LG유플러스, 정보보호자문위 발족...위원장에 이기주 전 방통위 상임위원 (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=110439</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=110439</guid>
@@ -374,22 +390,6 @@
             <pubDate>Mon, 22 May 2023 07:17:49 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202305/110417_135696_2150_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[위메이드, 위믹스3.0 생태계 투명성 강화...'이더스캔'과 파트너십 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=110415</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=110415</guid>
-            <pubDate>Mon, 22 May 2023 06:21:12 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202305/110415_135693_348_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NHN링크, 이화여대 삼성홀 운영한다..."다채로운 공연 선보일 것" (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=110412</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=110412</guid>
-            <pubDate>Mon, 22 May 2023 06:21:12 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202305/110412_135688_4630_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[스마트 방역 세이클, 캐시노트플러스 멤버십 고객에 방역 서비스 제공 (테크M ─ 이노베이션)]]></title>
