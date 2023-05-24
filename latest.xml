@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 May 2023 03:21:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 May 2023 04:23:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["AI 시대 폭증하는 데이터, 우리에게 맡겨라" 한국IBM, 스토리지 사업 '승승장구']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=110500</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=110500</guid>
+            <pubDate>Wed, 24 May 2023 04:18:51 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202305/110500_135820_143_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['광안리 10만의 기적' 스타크래프트 역사 한눈...e스포츠 명예의 전당 특별전 개최]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=110499</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 23 May 2023 11:13:24 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202305/110476_135782_4333_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[배달 앱 '3사3색' 이용자 쟁탈전...알뜰배달-배달료구독-멤버십 할인]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=110474</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=110474</guid>
-            <pubDate>Tue, 23 May 2023 11:13:24 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202305/110474_135787_230_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
