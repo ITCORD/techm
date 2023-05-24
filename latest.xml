@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 May 2023 15:25:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 May 2023 16:27:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[MSI 우승컵 中에 내준 韓...아시안게임서 '카나비'-'룰러' 앞세워 금메달 '정조준']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=110526</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=110526</guid>
+            <pubDate>Wed, 24 May 2023 16:21:01 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202305/110526_135873_1356_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[게임코인TV] 김남국 논란 2탄...성과없이 끝난 코인 진상 조사단의 위메이드 방문]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=110524</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 24 May 2023 05:14:51 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202305/110503_135859_4256_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[메타, 음성-텍스트 변환 AI 모델 공개…1107개 언어 제공]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=110498</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=110498</guid>
-            <pubDate>Wed, 24 May 2023 05:14:51 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202305/110498_135818_5253_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
