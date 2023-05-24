@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 May 2023 07:18:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 May 2023 08:26:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,10 +168,18 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202305/110491_135812_445_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['원신'과 만나니 가맹점 매출 250% 증가...피자 판매량도 좌지우지한 게임 IP의 힘 (테크M ─ 콘텐츠)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=110513</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=110513</guid>
+            <pubDate>Wed, 24 May 2023 08:21:16 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202305/110513_135851_2840_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[산업 만신창이 후에야 가상자산 법안에 관심 가지는 국회...가이드라인은 여전히 부재 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=110509</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=110509</guid>
-            <pubDate>Wed, 24 May 2023 07:15:03 GMT</pubDate>
+            <pubDate>Wed, 24 May 2023 07:14:39 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202305/110509_135836_123_v150.jpg" length="0" type="image/jpg"/>
         </item>
@@ -179,7 +187,7 @@
             <title><![CDATA['LoL' 세계관을 다양한 장르 게임으로 만난다...파쿠르 스타일 '시간/교차' 출격 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=110510</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=110510</guid>
-            <pubDate>Wed, 24 May 2023 07:15:03 GMT</pubDate>
+            <pubDate>Wed, 24 May 2023 07:14:39 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202305/110510_135837_1524_v150.jpg" length="0" type="image/jpg"/>
         </item>
@@ -270,14 +278,6 @@
             <pubDate>Tue, 23 May 2023 05:15:25 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202305/110452_135745_3346_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[네이버웹툰, 지상최대공모전 시작…독자 평가도 심사에 포함 (테크M ─ 콘텐츠)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=110457</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=110457</guid>
-            <pubDate>Tue, 23 May 2023 05:15:25 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202305/110457_135751_5541_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[공정위, 통신3사에 5G 과장광고 이유로 과징금 336억원 부과 (테크M ─ 인프라)]]></title>
@@ -651,7 +651,7 @@
             <title><![CDATA[[부고] 김성록(코웨이 경영관리실장)씨 부친상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Wed, 24 May 2023 07:16:55 GMT</pubDate>
+            <pubDate>Wed, 24 May 2023 08:24:03 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
         </item>
         <item>
