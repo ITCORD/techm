@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 May 2023 06:25:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 May 2023 07:22:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,6 +168,22 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202305/110523_135868_2225_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[PMPS가 온다] 아마추어팀 눈에 띈 시즌1...시즌2에는 프로팀 반격 시작? (테크M ─ 콘텐츠)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=110550</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=110550</guid>
+            <pubDate>Thu, 25 May 2023 07:17:34 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202305/110550_135902_324_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[PMPS가 온다] 펍지 모바일 월드 인비테이셔널 정조준...결승전 대전에서 개최 (테크M ─ 콘텐츠)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=110548</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=110548</guid>
+            <pubDate>Thu, 25 May 2023 07:17:34 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202305/110548_135899_538_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[이나영 '박하경 여행기', 웨이브에 떴다...이용권 33% 할인까지 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=110552</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=110552</guid>
@@ -262,22 +278,6 @@
             <pubDate>Wed, 24 May 2023 07:14:39 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202305/110509_135856_4148_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['LoL' 세계관을 다양한 장르 게임으로 만난다...파쿠르 스타일 '시간/교차' 출격 (테크M ─ 콘텐츠)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=110510</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=110510</guid>
-            <pubDate>Wed, 24 May 2023 07:14:39 GMT</pubDate>
-            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202305/110510_135837_1524_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[프로포즈] 프리시즌 끝낸 카트라이더 드리프트, 프로게이머 피드백에 "응답하라, 넥슨" (테크M ─ 콘텐츠)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=110494</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=110494</guid>
-            <pubDate>Wed, 24 May 2023 06:19:43 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202305/110494_135857_4210_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[카카오뱅크, 개인사업자 보증서대출 출시..."100% 비대면" (테크M ─ 인프라)]]></title>
@@ -392,6 +392,22 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202305/110502_135824_2049_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['버츄얼 프렌드' 만드는 크래프톤 "AI로 새로운 재미·제작 혁신 가능" (테크M ─ 이노베이션)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=110564</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=110564</guid>
+            <pubDate>Thu, 25 May 2023 07:18:56 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202305/110564_135923_2312_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[비대면진료 가산수가 30% 인상?...원산협 "플랫폼 몫 아니다" (테크M ─ 이노베이션)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=110563</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=110563</guid>
+            <pubDate>Thu, 25 May 2023 07:18:56 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202305/110563_135922_5847_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[세컨신드롬, '다락' 앱 새단장...검색·예약·방문·결제 한번에 (테크M ─ 이노베이션)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=110559</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=110559</guid>
@@ -486,22 +502,6 @@
             <pubDate>Wed, 24 May 2023 06:19:43 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202305/110506_135830_387_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[배달의민족, 식약처와 여름철 식당 위생관리 나선다 (테크M ─ 이노베이션)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=110497</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=110497</guid>
-            <pubDate>Wed, 24 May 2023 05:14:51 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202305/110497_135817_4518_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[웅진씽크빅 'AR피디아' 글로벌 진출 신호탄...폭스콘 계열사와 중화권 수출 계약 (테크M ─ 이노베이션)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=110485</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=110485</guid>
-            <pubDate>Wed, 24 May 2023 09:23:00 GMT</pubDate>
-            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202305/110485_135805_1850_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['라인프렌즈' IPX, 글로벌사모펀드 BRV서 1200억 투자 받았다 (테크M ─ 인베스트먼트)]]></title>
@@ -683,7 +683,7 @@
             <title><![CDATA[[부고] 김성록(코웨이 경영관리실장)씨 부친상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Thu, 25 May 2023 06:22:51 GMT</pubDate>
+            <pubDate>Thu, 25 May 2023 07:19:26 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
         </item>
         <item>
