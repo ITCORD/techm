@@ -4,9 +4,17 @@
         <title>테크M ─ 콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 May 2023 11:16:40 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 May 2023 12:31:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[PMPS 통신] 공격력 폭발한 더블제트, 프로팀 추격 뿌리치고 1주차 1위]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=110634</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=110634</guid>
+            <pubDate>Sun, 28 May 2023 12:27:37 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202305/110634_136084_1740_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["함께 기부하니 더 뜻깊어요"...펄어비스와 '검은사막' 모험가 함께한 따뜻한 행보]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=110621</link>
@@ -110,14 +118,6 @@
             <pubDate>Fri, 26 May 2023 10:51:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202305/110589_135982_5149_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NHN페이코, 사업자 대출비교 서비스 출시...B2B 금융사업 본격화]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=110582</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=110582</guid>
-            <pubDate>Fri, 26 May 2023 10:30:00 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202305/110582_135974_1459_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

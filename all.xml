@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 May 2023 11:16:40 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 May 2023 12:31:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[e스포츠人] 더블제트의 1위 비결은 만족하지 않는 선수들? (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=110635</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=110635</guid>
+            <pubDate>Sun, 28 May 2023 12:27:18 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202305/110635_136088_126_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[PMPS 통신] 공격력 폭발한 더블제트, 프로팀 추격 뿌리치고 1주차 1위 (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=110634</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=110634</guid>
+            <pubDate>Sun, 28 May 2023 12:27:18 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202305/110634_136084_1740_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["함께 기부하니 더 뜻깊어요"...펄어비스와 '검은사막' 모험가 함께한 따뜻한 행보 (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=110621</link>
@@ -152,20 +168,12 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202305/110614_136033_4725_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[같이사소] 강력한 무더위 예보된 여름, 이커머스에서 시원하게 대비하자 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=110599</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=110599</guid>
-            <pubDate>Fri, 26 May 2023 08:19:16 GMT</pubDate>
+            <title><![CDATA[[PMPS 통신] 공격력 폭발한 더블제트, 프로팀 추격 뿌리치고 1주차 1위 (테크M ─ 콘텐츠)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=110634</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=110634</guid>
+            <pubDate>Sun, 28 May 2023 12:27:37 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202305/110599_135994_4834_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LoL 챔피언스 코리아의 여름 이야기가 시작된다...6월 7일 개막 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=110615</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=110615</guid>
-            <pubDate>Fri, 26 May 2023 08:19:16 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202305/110615_136022_3534_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202305/110634_136084_1740_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["함께 기부하니 더 뜻깊어요"...펄어비스와 '검은사막' 모험가 함께한 따뜻한 행보 (테크M ─ 콘텐츠)]]></title>
@@ -270,14 +278,6 @@
             <pubDate>Fri, 26 May 2023 10:51:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202305/110589_135982_5149_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NHN페이코, 사업자 대출비교 서비스 출시...B2B 금융사업 본격화 (테크M ─ 콘텐츠)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=110582</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=110582</guid>
-            <pubDate>Fri, 26 May 2023 10:30:00 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202305/110582_135974_1459_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[KT, '제로칼로리 캠퍼스' '잼테크' 등 Z세대 크렌드 키워드로 마케팅 나선다 (테크M ─ 인프라)]]></title>
@@ -616,6 +616,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202305/110393_135659_5434_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[e스포츠人] 더블제트의 1위 비결은 만족하지 않는 선수들? (테크M ─ 피플)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=110635</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=110635</guid>
+            <pubDate>Sun, 28 May 2023 12:28:43 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202305/110635_136088_126_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[IPO 앞둔 시프트업, 게임 AI 강화...챗GPT 개발자 '영입' (테크M ─ 피플)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=110594</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=110594</guid>
@@ -691,7 +699,7 @@
             <title><![CDATA[[부고] 김성록(코웨이 경영관리실장)씨 부친상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Sun, 28 May 2023 11:14:56 GMT</pubDate>
+            <pubDate>Sun, 28 May 2023 12:28:43 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
         </item>
         <item>
@@ -717,14 +725,6 @@
             <pubDate>Tue, 16 May 2023 05:16:43 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202305/110190_135285_330_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[e스포츠人] 노력은 배신하지 않다는 것을 증명한, '에결 천재' 노준현 (테크M ─ 피플)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=110104</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=110104</guid>
-            <pubDate>Sun, 14 May 2023 15:16:44 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202305/110104_135145_1255_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[지역 상생 프로젝트에 '라방' 적극 활용하는 티몬...독도 이어 포항에도 상륙 (테크M ─ 라이프)]]></title>
