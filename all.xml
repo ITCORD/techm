@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Jun 2023 07:20:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Jun 2023 08:25:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -280,12 +280,20 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202305/110702_136199_335_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[법률·심리상담도 AI가 '척척'...정부 '생성 AI' 일상화 앞장 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=110775</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=110775</guid>
+            <pubDate>Thu, 01 Jun 2023 07:15:20 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202306/110775_136351_411_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA["우리는 데이터의 '질'이 다르다"…생성 AI 시대 워크데이의 '자신감' (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=110759</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=110759</guid>
             <pubDate>Thu, 01 Jun 2023 00:20:00 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202306/110759_136313_2815_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202306/110759_136353_458_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['코인 거래소 연합체' 닥사, 내부통제기준·윤리행동강령 마련 (테크M ─ 인프라)]]></title>
@@ -382,14 +390,6 @@
             <pubDate>Thu, 01 Jun 2023 10:57:00 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202306/110743_136278_5659_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NHN클라우드 'NHN노티피케이션' 신규 상품 3종 출시 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=110742</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=110742</guid>
-            <pubDate>Thu, 01 Jun 2023 10:52:00 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202306/110742_136277_5121_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[영양제 구독 '핏타민', 대규모 업데이트...현대百 팝업도 연다 (테크M ─ 이노베이션)]]></title>
@@ -507,7 +507,7 @@
             <title><![CDATA[[크립토 월간 브리핑] 봄 지나도 이어지는 '크립토윈터'...'비트코인' 빠지고 '리플' 홀로 올랐다 (테크M ─ 인베스트먼트)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=110776</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=110776</guid>
-            <pubDate>Thu, 01 Jun 2023 07:17:54 GMT</pubDate>
+            <pubDate>Thu, 01 Jun 2023 07:15:20 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202306/110776_136333_395_v150.jpg" length="0" type="image/jpg"/>
         </item>
@@ -730,7 +730,7 @@
             <title><![CDATA[[가봤다] 패션 좀 아는 여자들, 성수로 모인다...女心 저격한 29CM (테크M ─ 라이프)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=110777</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=110777</guid>
-            <pubDate>Thu, 01 Jun 2023 07:19:14 GMT</pubDate>
+            <pubDate>Thu, 01 Jun 2023 07:15:20 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202306/110777_136339_5519_v150.jpg" length="0" type="image/jpg"/>
         </item>
@@ -844,7 +844,7 @@
             <guid>https://www.techm.kr/news/articleView.html?idxno=110737</guid>
             <pubDate>Thu, 01 Jun 2023 08:30:00 GMT</pubDate>
             <content:encoded><![CDATA[김현기 대표]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202305/110737_136273_392_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202306/110737_136358_641_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[글로벌] 인텔, AI 연산 특화 코어 프로세서 공개..."클라우드 없이 AI 작업 소화" (테크M ─ 리포트)]]></title>
@@ -852,7 +852,7 @@
             <guid>https://www.techm.kr/news/articleView.html?idxno=110738</guid>
             <pubDate>Thu, 01 Jun 2023 08:30:00 GMT</pubDate>
             <content:encoded><![CDATA[김현기 대표]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202305/110738_136274_4038_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202306/110738_136359_75_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[글로벌] 미중 패권 경쟁 속 중국 방문한 일론 머스크 "디커플링에 반대" (테크M ─ 리포트)]]></title>
@@ -860,7 +860,7 @@
             <guid>https://www.techm.kr/news/articleView.html?idxno=110739</guid>
             <pubDate>Thu, 01 Jun 2023 08:30:00 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202305/110739_136275_4244_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202306/110739_136357_621_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[글로벌] 구글, 美 소노스와 특허 소송서 패소…배상금 430억원 줘야 (테크M ─ 리포트)]]></title>
@@ -954,7 +954,7 @@
             <title><![CDATA[[카드뉴스] 네오위즈 인텔라X, 퍼시픽 메타와 맞손 '일본 웹3.0 시장 공략' (테크M ─ 보는 뉴스)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=110771</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=110771</guid>
-            <pubDate>Thu, 01 Jun 2023 07:20:53 GMT</pubDate>
+            <pubDate>Thu, 01 Jun 2023 07:15:20 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202306/110771_136317_1615_v150.jpg" length="0" type="image/jpg"/>
         </item>
