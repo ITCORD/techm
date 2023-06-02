@@ -4,9 +4,25 @@
         <title>테크M ─ 콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Jun 2023 01:44:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Jun 2023 02:52:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[넷마블, '신의 탑: 새로운 세계' 브랜드 사이트 오픈]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=110806</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=110806</guid>
+            <pubDate>Fri, 02 Jun 2023 11:13:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202306/110806_136402_811_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[로드컴플릿 레전드 오브 슬라임, 출시 10개월만에 매출 1000억 달성]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=110801</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=110801</guid>
+            <pubDate>Fri, 02 Jun 2023 10:47:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202306/110801_136397_4757_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[돌풍의 넥슨게임즈 '블루아카이브' 中 예약자 300만 향한다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=110791</link>
@@ -102,22 +118,6 @@
             <pubDate>Thu, 01 Jun 2023 11:32:00 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202306/110754_136290_2932_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[네오위즈 '방구석 인디 게임쇼' 개최…상금 1억원]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=110756</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=110756</guid>
-            <pubDate>Thu, 01 Jun 2023 11:32:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202306/110756_136292_3232_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[테크M 이슈] 차세대 MMO 꿈꾸는 카카오게임즈 아레스...차별 포인트 짚어보니]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=110753</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=110753</guid>
-            <pubDate>Thu, 01 Jun 2023 11:27:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202306/110753_136288_2631_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
