@@ -4,9 +4,25 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Jun 2023 08:24:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Jun 2023 09:21:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[안랩, 비대면 서비스 바우처 지원사업 공급기업 선정]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=110830</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=110830</guid>
+            <pubDate>Fri, 02 Jun 2023 09:16:25 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202306/110830_136450_459_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[테크M 이슈] 쿡 vs. 저커버그, 원수는 MR 다리에서 만난다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=110829</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=110829</guid>
+            <pubDate>Fri, 02 Jun 2023 09:16:25 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202306/110829_136452_2524_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[네이버 임직원, 지역 소상공인 만났다...온라인 매장 경험담 공유]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=110820</link>
@@ -102,22 +118,6 @@
             <pubDate>Fri, 02 Jun 2023 10:28:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202306/110794_136390_2841_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[법률·심리상담도 AI가 '척척'...정부 '생성 AI' 일상화 앞장]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=110775</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=110775</guid>
-            <pubDate>Thu, 01 Jun 2023 08:21:21 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202306/110775_136351_411_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["우리는 데이터의 '질'이 다르다"…생성 AI 시대 워크데이의 '자신감']]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=110759</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=110759</guid>
-            <pubDate>Thu, 01 Jun 2023 00:20:00 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202306/110759_136353_458_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
