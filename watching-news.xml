@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Jun 2023 12:36:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Jun 2023 13:29:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[게임코인TV] 개인정보 제공에 신중했을 뿐인데...무조건 공격하고 본다?]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=110832</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=110832</guid>
+            <pubDate>Fri, 02 Jun 2023 13:29:32 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202306/110832_136459_4520_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 네이버, AI 큐시트 헬퍼 오픈 'AI 대중화 꿈꾸다']]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=110811</link>
@@ -110,14 +118,6 @@
             <pubDate>Fri, 19 May 2023 10:19:48 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202305/110362_135577_5932_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 메타버스 제프월드, 프리 시리즈 A2 투자 유치]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=110310</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=110310</guid>
-            <pubDate>Thu, 18 May 2023 07:22:18 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202305/110310_135485_4734_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
