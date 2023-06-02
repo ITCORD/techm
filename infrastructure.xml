@@ -4,9 +4,17 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Jun 2023 05:18:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Jun 2023 06:25:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[라인 'AI 셀카' 서비스 출시...다양한 스타일로 사진 바꿔준다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=110817</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=110817</guid>
+            <pubDate>Fri, 02 Jun 2023 06:21:10 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202306/110817_136426_19_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[람다256, 유럽 자산 토큰 플랫폼 VNX와 맞손… 토큰증권 시장 키운다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=110805</link>
@@ -110,14 +118,6 @@
             <pubDate>Thu, 01 Jun 2023 11:35:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202306/110760_136294_3510_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[토스뱅크, 완전 비대면 비과세종합저축 통했다…3개월 간 1만명 몰려]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=110755</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=110755</guid>
-            <pubDate>Thu, 01 Jun 2023 11:30:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202306/110755_136291_3045_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
