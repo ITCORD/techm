@@ -4,9 +4,17 @@
         <title>테크M ─ 콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 04 Jun 2023 16:22:50 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Jun 2023 17:16:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[KDL 통신] 센세이션-아우라 본선 합류...쇼타임-포텐셜-세라픽, 새얼굴들 '눈에 띄네']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=110849</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=110849</guid>
+            <pubDate>Sun, 04 Jun 2023 17:13:32 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202306/110849_136495_4726_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[PMPS 통신] 역전에 재역전! 더블제트, DK와 치열한 접전 끝에 페이즈1 우승]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=110846</link>
@@ -110,14 +118,6 @@
             <pubDate>Fri, 02 Jun 2023 10:16:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202306/110791_136456_2727_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NHN페이코, 캠퍼스 모바일 승차권 누적 100만건 돌파]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=110784</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=110784</guid>
-            <pubDate>Thu, 01 Jun 2023 10:20:45 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202306/110784_136372_5747_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
