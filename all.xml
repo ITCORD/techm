@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 04 Jun 2023 04:21:53 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Jun 2023 05:21:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -167,10 +167,18 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202306/110826_136439_2453_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA["게임에 진심인 '키덜트'를 잡아라"...넥슨은 '키덜트'에 진심이다 (테크M ─ 콘텐츠)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=110845</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=110845</guid>
+            <pubDate>Sun, 04 Jun 2023 05:16:02 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202306/110845_136486_1858_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[LG유플러스, LCK 스프링 우승한 e스포츠 명문 '젠지'와 스폰서십 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=110843</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=110843</guid>
-            <pubDate>Sun, 04 Jun 2023 04:18:11 GMT</pubDate>
+            <pubDate>Sun, 04 Jun 2023 04:17:52 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202306/110843_136483_449_v150.jpg" length="0" type="image/jpg"/>
         </item>
@@ -269,14 +277,6 @@
             <pubDate>Thu, 01 Jun 2023 09:16:14 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202306/110781_136362_5836_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이재웅 쏘카 전 대표, 대법서 무죄..."혁신은 죄가 없다" (테크M ─ 콘텐츠)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=110779</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=110779</guid>
-            <pubDate>Thu, 01 Jun 2023 09:16:14 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202306/110779_136361_4454_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[안랩, 비대면 서비스 바우처 지원사업 공급기업 선정 (테크M ─ 인프라)]]></title>
