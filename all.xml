@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 04 Jun 2023 14:18:04 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Jun 2023 15:18:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -167,6 +167,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202306/110828_136441_3048_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[PMPS 통신] 역전에 재역전! 더블제트, DK와 치열한 접전 끝에 페이즈1 우승 (테크M ─ 콘텐츠)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=110846</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=110846</guid>
+            <pubDate>Sun, 04 Jun 2023 15:15:54 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202306/110846_136490_137_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA["게임에 진심인 '키덜트'를 잡아라"...넥슨은 '키덜트'에 진심이다 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=110845</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=110845</guid>
@@ -269,14 +277,6 @@
             <pubDate>Thu, 01 Jun 2023 09:16:14 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202306/110784_136372_5747_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[LCK 미디어데이] "MSI 통해 교훈 얻었다"...T1과 젠지의 다부진 각오 (테크M ─ 콘텐츠)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=110781</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=110781</guid>
-            <pubDate>Thu, 01 Jun 2023 09:16:14 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202306/110781_136362_5836_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[SK텔레콤, 호국보훈의달 맞아 국군 장병 통신생활 챙긴다...'밀리패스'와 제휴 (테크M ─ 인프라)]]></title>
@@ -615,6 +615,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202305/110692_136175_150_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[e스포츠人] 더블제트 '케이' 이슬우 "변수에 잘 대처하는 팀 만들겠다" (테크M ─ 피플)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=110848</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=110848</guid>
+            <pubDate>Sun, 04 Jun 2023 15:16:51 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202306/110848_136494_2150_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[커피한잔] 카러플에서 드리프트로 무대 옮긴 한종문의 박수 받을 도전 (테크M ─ 피플)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=110813</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=110813</guid>
@@ -714,16 +722,8 @@
             <title><![CDATA[[부고] 김성록(코웨이 경영관리실장)씨 부친상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Sun, 04 Jun 2023 14:17:17 GMT</pubDate>
+            <pubDate>Sun, 04 Jun 2023 15:16:51 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[같이사소] 때이른 무더위 준비할 기획전 쏟아진다...쿠팡-티몬-무신사에 주목 (테크M ─ 피플)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=110299</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=110299</guid>
-            <pubDate>Thu, 18 May 2023 05:15:37 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202305/110299_135470_5125_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[무신사, 롯데월드와 '플레이 아웃사이드'…100% 당첨 선물 증정 (테크M ─ 라이프)]]></title>
@@ -953,7 +953,7 @@
             <title><![CDATA[[게임코인TV] 김남국 논란 3탄...거래소가 무슨 죄? 근거 없는 의혹 제기 (테크M ─ 보는 뉴스)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Sun, 04 Jun 2023 14:18:03 GMT</pubDate>
+            <pubDate>Sun, 04 Jun 2023 15:18:32 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
         </item>
         <item>
