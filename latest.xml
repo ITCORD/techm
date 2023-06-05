@@ -4,9 +4,25 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Jun 2023 17:20:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Jun 2023 18:25:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[WWDC23] 성능 끝판왕 'M2 울트라' 등장…신형 맥 스튜디오·프로 탑재]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=110883</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=110883</guid>
+            <pubDate>Tue, 06 Jun 2023 02:54:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202306/110883_136567_531_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[WWDC23] 애플, 15인치 '맥북에어' 공개…"세계에서 가장 얇다"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=110882</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=110882</guid>
+            <pubDate>Tue, 06 Jun 2023 02:24:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202306/110882_136566_2350_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[KBS 수신료, 전기요금과 분리되나...대통령실 "TV수신료 분리징수 법령 개정 권고"]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=110880</link>
@@ -150,22 +166,6 @@
             <pubDate>Mon, 05 Jun 2023 11:51:00 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202306/110860_136516_503_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[토큰증권에 진심인 미래에셋 "글로벌 확장 고려...블록체인 특성 활용"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=110858</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=110858</guid>
-            <pubDate>Mon, 05 Jun 2023 11:36:00 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202306/110858_136515_3119_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미드낫 '댄스 챌린지' 후끈…'인더섬' 제이홉 캐릭터 참여]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=110857</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=110857</guid>
-            <pubDate>Mon, 05 Jun 2023 11:33:00 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202306/110857_136514_2754_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
