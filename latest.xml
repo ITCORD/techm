@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Jun 2023 19:19:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Jun 2023 20:20:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[WWDC23] 애플, MR 헤드셋 '비전 프로' 무엇이 달랐나…혁신에 놀라고 가격에 한 번 더 놀라다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=110885</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=110885</guid>
+            <pubDate>Tue, 06 Jun 2023 04:57:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202306/110885_136572_5233_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[WWDC23] 팀 쿡의 '원 모어 씽'은 MR 헤드셋 '비전 프로'..."공간 컴퓨팅 시대 연다"]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=110884</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 05 Jun 2023 06:20:45 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202306/110862_136528_1254_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김종승 SK텔레콤 웹3.0 팀장 "토큰증권 통해 일상 체감형 금융상품 등장할 것"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=110861</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=110861</guid>
-            <pubDate>Mon, 05 Jun 2023 04:18:28 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202306/110861_136517_1038_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
