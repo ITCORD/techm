@@ -4,9 +4,25 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Jun 2023 01:42:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Jun 2023 02:56:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[카카오페이 "카드발급 가능여부·한도 사전에 확인"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=110853</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=110853</guid>
+            <pubDate>Mon, 05 Jun 2023 10:36:00 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202306/110853_136501_2440_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[네이버, 중소 업체 돕는 '상생라이브' 강화]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=110852</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=110852</guid>
+            <pubDate>Mon, 05 Jun 2023 10:36:00 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202306/110852_136499_1347_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[LG전자 'RE100' 가입…2050년 사용전력 재생에너지로 100% 전환]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=110855</link>
@@ -45,7 +61,7 @@
             <guid>https://www.techm.kr/news/articleView.html?idxno=110829</guid>
             <pubDate>Fri, 02 Jun 2023 09:16:25 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202306/110829_136452_2524_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202306/110829_136446_422_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[네이버 임직원, 지역 소상공인 만났다...온라인 매장 경험담 공유]]></title>
@@ -102,22 +118,6 @@
             <pubDate>Fri, 02 Jun 2023 10:39:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202306/110799_136395_3947_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[KT, 청년에게 데이터 2배 제공하는 'Y덤' 내놨다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=110798</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=110798</guid>
-            <pubDate>Fri, 02 Jun 2023 10:37:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202306/110798_136394_3722_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["지역축제 여기서 관리해요" KT '문화 축제 빅데이터 서비스' 출시]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=110797</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=110797</guid>
-            <pubDate>Fri, 02 Jun 2023 10:35:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202306/110797_136393_3516_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
