@@ -4,14 +4,22 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Jun 2023 05:20:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Jun 2023 06:24:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 라인, AI 셀카 서비스 출시 '새로운 나를 만나다']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=110863</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=110863</guid>
+            <pubDate>Mon, 05 Jun 2023 06:24:45 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202306/110863_136518_727_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[게임코인TV] 김남국 논란 3탄...거래소가 무슨 죄? 근거 없는 의혹 제기]]></title>
             <link>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN10&amp;view_type=sm</link>
             <guid>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN10&amp;view_type=sm</guid>
-            <pubDate>Mon, 05 Jun 2023 03:22:13 GMT</pubDate>
+            <pubDate>Mon, 05 Jun 2023 06:24:45 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
         </item>
         <item>
@@ -109,14 +117,6 @@
             <pubDate>Tue, 23 May 2023 07:24:55 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202305/110467_135765_358_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 현대백화점면세점, NFT 팝업스토어 오픈 '디지털 커머스 확대 나선다']]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=110422</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=110422</guid>
-            <pubDate>Mon, 22 May 2023 10:20:38 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202305/110422_135700_5853_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
