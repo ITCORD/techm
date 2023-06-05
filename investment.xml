@@ -4,16 +4,32 @@
         <title>테크M ─ 인베스트먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 04 Jun 2023 23:23:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Jun 2023 01:42:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[테크M 리포트] 디지털 전환 바람에 신사업 날개…IT서비스 업종 '주목']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=110854</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=110854</guid>
+            <pubDate>Mon, 05 Jun 2023 10:26:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202306/110854_136500_2426_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[크립토 브리핑] 3500만원대에 달라 붙은 비트코인...리플은 700원 돌파]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=110850</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=110850</guid>
+            <pubDate>Mon, 05 Jun 2023 10:09:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202306/110850_136497_343_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[크립토 주간 브리핑] 미 디폴트 우려 해소에도 비트코인 횡보...리플은 10% 'UP']]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=110837</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=110837</guid>
             <pubDate>Sat, 03 Jun 2023 07:17:08 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202306/110837_136467_2930_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202306/110837_136509_3837_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['절치부심' 밀리의서재, IPO 재도전...코스닥 상장예비심사 신청]]></title>
@@ -102,22 +118,6 @@
             <pubDate>Wed, 31 May 2023 09:57:00 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202305/110696_136192_2321_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['공격적 M&A' 야놀자, 1Q 매출 56% 증가..."글로벌 여가테크로"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=110691</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=110691</guid>
-            <pubDate>Tue, 30 May 2023 09:18:40 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202305/110691_136174_737_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[크립토윈터 지나온 두나무, 1분기 매출 3048억원... 전년비 28% 감소]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=110692</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=110692</guid>
-            <pubDate>Tue, 30 May 2023 09:18:40 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202305/110692_136175_150_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
