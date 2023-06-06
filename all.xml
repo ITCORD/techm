@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Jun 2023 09:20:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Jun 2023 10:20:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -280,6 +280,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202306/110838_136471_5956_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[FreeView] 460만원 '비전 프로' 대체 누가 사냐고?…애플팬이 바라본 성공 시나리오 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=110898</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=110898</guid>
+            <pubDate>Tue, 06 Jun 2023 09:15:45 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202306/110898_136592_4628_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[LG유플러스, 애드테크 기업 '디지털캠프' 손잡고 광고 콘텐츠 역량 강화 (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=110893</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=110893</guid>
@@ -382,14 +390,6 @@
             <pubDate>Mon, 05 Jun 2023 11:51:00 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202306/110860_136516_503_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[카카오페이 "카드발급 가능여부·한도 사전에 확인" (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=110853</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=110853</guid>
-            <pubDate>Mon, 05 Jun 2023 10:36:00 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202306/110853_136501_2440_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[글로벌 금융 연결할 토큰증권, 소비-투자 패턴 바꾼다...국민의힘 STO 토론회(종합) (테크M ─ 이노베이션)]]></title>
@@ -619,7 +619,7 @@
             <title><![CDATA[[템터뷰] "시간과 노력엔 가치가 있다"...링게임즈가 팬덤형게임에 블록체인 접목하는 이유 (테크M ─ 피플)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=110888</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=110888</guid>
-            <pubDate>Tue, 06 Jun 2023 09:18:31 GMT</pubDate>
+            <pubDate>Tue, 06 Jun 2023 09:15:45 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202306/110888_136578_5951_v150.jpg" length="0" type="image/jpg"/>
         </item>
