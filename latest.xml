@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Jun 2023 16:24:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Jun 2023 17:17:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["가전이 일상을 바꾼다"…삼성이 꿈꾸는 '비스포크 라이프' 들여다보니]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=110967</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=110967</guid>
+            <pubDate>Thu, 08 Jun 2023 01:49:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202306/110967_136699_418_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[올림플래닛, 임직원 참여 '플로깅 캠페인' 진행]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=110961</link>
@@ -59,7 +67,7 @@
             <title><![CDATA[[부고] 서장원(코웨이 대표이사)씨 부친상]]></title>
             <link>https://www.techm.kr/news/articleList.html</link>
             <guid>https://www.techm.kr/news/articleList.html</guid>
-            <pubDate>Wed, 07 Jun 2023 16:20:44 GMT</pubDate>
+            <pubDate>Wed, 07 Jun 2023 17:14:32 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
         </item>
         <item>
@@ -157,14 +165,6 @@
             <pubDate>Wed, 07 Jun 2023 06:20:19 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202306/110936_136689_265_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[K-게임 IP 빛났다...배틀그라운드 모바일, 누적 매출 '13조' 육박]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=110939</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=110939</guid>
-            <pubDate>Wed, 07 Jun 2023 06:20:19 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202306/110939_136653_337_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
