@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Jun 2023 06:23:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Jun 2023 07:22:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['타다 악몽'에도 '규제 장벽' 여전..."닥터나우·로톡도 죽일건가"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=110954</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=110954</guid>
+            <pubDate>Wed, 07 Jun 2023 07:20:28 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202306/110954_136675_271_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[넷마블 자회사 엠엔비, '쿵야 레스토랑즈' 카톡 이모티콘 2탄 출시]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=110951</link>
@@ -19,7 +27,7 @@
             <title><![CDATA[[부고] 서장원(코웨이 대표이사)씨 부친상]]></title>
             <link>https://www.techm.kr/news/articleList.html</link>
             <guid>https://www.techm.kr/news/articleList.html</guid>
-            <pubDate>Wed, 07 Jun 2023 06:20:19 GMT</pubDate>
+            <pubDate>Wed, 07 Jun 2023 07:20:28 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
         </item>
         <item>
@@ -157,14 +165,6 @@
             <pubDate>Wed, 07 Jun 2023 11:58:00 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202306/110932_136643_5747_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[파수, 가트너 시큐리티 서밋 참가…AI 시대 보안 전략 제시]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=110931</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=110931</guid>
-            <pubDate>Wed, 07 Jun 2023 11:45:00 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202306/110931_136642_445_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
