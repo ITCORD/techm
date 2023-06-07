@@ -4,9 +4,25 @@
         <title>테크M ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Jun 2023 01:43:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Jun 2023 02:56:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[농심, 대학생 서포터즈 '펀스터즈' 모집]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=110918</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=110918</guid>
+            <pubDate>Wed, 07 Jun 2023 10:44:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202306/110918_136629_4411_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뷰티컬리, 김나영 노필터 TV와 콜라보 이벤트]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=110917</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=110917</guid>
+            <pubDate>Wed, 07 Jun 2023 10:43:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202306/110917_136628_432_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[SK스토아, 지코가 기획한 논알콜맥주 '비트주세영' 모바일 라방으로 판다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=110910</link>
@@ -102,22 +118,6 @@
             <pubDate>Wed, 31 May 2023 06:25:08 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202305/110723_136225_2422_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[소라픽] 대한민국 숙박대전 시작...휴가내고 갈만한 숙소를 찾아라]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=110707</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=110707</guid>
-            <pubDate>Wed, 31 May 2023 05:26:15 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202305/110707_136204_477_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["한달 배송율 0%에도 노선 유지?" 택배노조-진보당 주장에 쿠팡은 "법적 대응"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=110688</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=110688</guid>
-            <pubDate>Tue, 30 May 2023 08:23:24 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202305/110688_136171_5445_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
