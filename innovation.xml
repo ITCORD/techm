@@ -4,9 +4,17 @@
         <title>테크M ─ 이노베이션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Jun 2023 09:20:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Jun 2023 10:22:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[올림플래닛, 임직원 참여 '플로깅 캠페인' 진행]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=110961</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=110961</guid>
+            <pubDate>Wed, 07 Jun 2023 10:20:55 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202306/110961_136683_425_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['타다 악몽'에도 '규제 장벽' 여전..."닥터나우·로톡도 죽일건가"]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=110954</link>
@@ -110,14 +118,6 @@
             <pubDate>Fri, 02 Jun 2023 08:22:03 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202306/110814_136420_504_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["카톡으로 공공 프로그램 예약"...디케이테크인 '스마트민원행정' 선봬]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=110815</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=110815</guid>
-            <pubDate>Fri, 02 Jun 2023 08:22:03 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202306/110815_136422_5722_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
