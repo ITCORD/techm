@@ -4,9 +4,17 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Jun 2023 23:18:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Jun 2023 01:30:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[네이버·카카오 때려잡은 '빈자리'...'공정' 아닌 '구글·MS'만 남는다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=110959</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=110959</guid>
+            <pubDate>Thu, 08 Jun 2023 08:30:00 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202306/110959_136681_2722_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[비즈니스캔버스 신제품 '리캐치'...MS·중기부 마중 프로그램 선정]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=110944</link>
@@ -110,14 +118,6 @@
             <pubDate>Wed, 07 Jun 2023 10:10:00 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202306/110908_136619_950_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SK텔레콤, 국제해양방위산업전 2023 참가...스마트 무선 네트워크 전시]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=110906</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=110906</guid>
-            <pubDate>Wed, 07 Jun 2023 09:56:00 GMT</pubDate>
-            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202306/110906_136617_560_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
