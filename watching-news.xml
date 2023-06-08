@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Jun 2023 06:25:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Jun 2023 07:18:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] NHN에듀, 유니티와 파트너십 체결 '교육 메타버스 키운다']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=110992</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=110992</guid>
+            <pubDate>Thu, 08 Jun 2023 07:18:00 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202306/110992_136738_89_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 미래 신사업 뛰어드는 IT서비스 기업...'디지털 전환'으로 신기술 사업 강화]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=110948</link>
@@ -35,7 +43,7 @@
             <title><![CDATA[[게임코인TV] 김남국 논란 3탄...거래소가 무슨 죄? 근거 없는 의혹 제기]]></title>
             <link>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN10&amp;view_type=sm</link>
             <guid>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN10&amp;view_type=sm</guid>
-            <pubDate>Thu, 08 Jun 2023 06:25:23 GMT</pubDate>
+            <pubDate>Thu, 08 Jun 2023 07:18:00 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
         </item>
         <item>
@@ -109,14 +117,6 @@
             <pubDate>Thu, 25 May 2023 11:18:36 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202305/110572_135931_3332_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[게임코인TV] 김남국 논란 2탄...성과없이 끝난 코인 진상 조사단의 위메이드 방문]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=110524</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=110524</guid>
-            <pubDate>Wed, 24 May 2023 17:20:01 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202305/110524_135872_5253_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
