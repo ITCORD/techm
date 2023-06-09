@@ -4,16 +4,24 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Jun 2023 09:21:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Jun 2023 10:19:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[메타버스 게임 플랫폼 캐리버스, 앰배서더로 배우 이도현 발탁]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=111052</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=111052</guid>
+            <pubDate>Fri, 09 Jun 2023 10:17:15 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202306/111052_136838_918_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[Q&A] "韓 투자 규모? 일자리 손실?"...'챗GPT 아버지'의 답변은]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=111051</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=111051</guid>
             <pubDate>Fri, 09 Jun 2023 08:19:39 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202306/111051_136833_5951_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202306/111051_136839_1417_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[밀크파트너스, SK플래닛 ‘업튼’과 맞손..."블록체인 사업 공동 추진"]]></title>
@@ -37,7 +45,7 @@
             <guid>https://www.techm.kr/news/articleView.html?idxno=111047</guid>
             <pubDate>Fri, 09 Jun 2023 08:19:39 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202306/111047_136825_937_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202306/111047_136840_1448_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[스마일게이트 '블루프로토콜' 연내 정식 서비스]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 09 Jun 2023 05:15:05 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202306/111032_136801_353_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["규제 고민 많아" 韓 스타트업 토로...'챗GPT 아버지' 조언은?]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=111031</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=111031</guid>
-            <pubDate>Fri, 09 Jun 2023 05:15:05 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202306/111031_136799_3316_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
