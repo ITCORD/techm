@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Jun 2023 01:45:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Jun 2023 03:03:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -727,6 +727,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202305/110486_135807_03_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[코웨이 블루휠스 휠체어농구단, 신인선수 모집 (테크M ─ 라이프)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=111025</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=111025</guid>
+            <pubDate>Fri, 09 Jun 2023 11:15:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202306/111025_136788_1542_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[같이사소] 쿠팡-티몬-11번가가 야심차게 준비한 '서머 기획전' (테크M ─ 라이프)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=110968</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=110968</guid>
@@ -829,14 +837,6 @@
             <pubDate>Fri, 02 Jun 2023 07:14:26 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202306/110828_136441_3048_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지그재그 더현대서울 팝업 '대박'...일주일만에 2만명 찾았다 (테크M ─ 라이프)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=110826</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=110826</guid>
-            <pubDate>Fri, 02 Jun 2023 07:14:26 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202306/110826_136439_2453_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[글로벌] 폭스바겐, 中 전기차 배터리 의존도 낮춘다...인도네시아 검토 (테크M ─ 리포트)]]></title>
