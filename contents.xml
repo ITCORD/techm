@@ -4,9 +4,17 @@
         <title>테크M ─ 콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 10 Jun 2023 07:17:13 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Jun 2023 08:20:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[콘서트 즐기고 업데이트 소식 듣는다...넥슨 메이플스토리 2023 여름 쇼케이스 개최]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=111063</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=111063</guid>
+            <pubDate>Sat, 10 Jun 2023 08:18:14 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202306/111063_136863_2325_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[넥슨 민트로켓, '데이브 더 다이버' 오는 28일 정식 출시]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=111062</link>
@@ -110,14 +118,6 @@
             <pubDate>Fri, 09 Jun 2023 07:15:44 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202306/111040_136818_231_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[석달새 사라진 韓 MMO 수요?...카카오게임즈 아레스, 차별화 전략 '눈길']]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=111038</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=111038</guid>
-            <pubDate>Fri, 09 Jun 2023 06:21:37 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202306/111038_136841_1540_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
