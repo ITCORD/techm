@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 11 Jun 2023 03:07:37 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Jun 2023 04:23:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -725,6 +725,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202305/110519_135864_5947_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA["CJ제일제당의 패배?" 쿠팡서 '햇반' 사라지자 중소기업 즉석밥 100배 팔렸다 (테크M ─ 라이프)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=111074</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=111074</guid>
+            <pubDate>Sun, 11 Jun 2023 00:24:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202306/111074_136909_2410_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[소라픽] 이커머스에서 끝내는 주말 나들이 계획...'라떼워킹맘'의 강력 추천 아이템 (테크M ─ 라이프)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=111030</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=111030</guid>
@@ -827,14 +835,6 @@
             <pubDate>Mon, 05 Jun 2023 09:19:59 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202306/110875_136551_3150_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[가봤다] K-패션 플랫폼, '힙의 성지' 성수동을 점령하다 (테크M ─ 라이프)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=110864</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=110864</guid>
-            <pubDate>Mon, 05 Jun 2023 08:19:55 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202306/110864_136536_4746_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[글로벌] 저커버그 "애플 비전 프로 비싸고 혁신 없다, 혼자 노는 것" (테크M ─ 리포트)]]></title>
@@ -1000,7 +1000,7 @@
             <title><![CDATA[[게임코인TV] 김남국 논란 3탄...거래소가 무슨 죄? 근거 없는 의혹 제기 (테크M ─ 보는 뉴스)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Sun, 11 Jun 2023 01:50:17 GMT</pubDate>
+            <pubDate>Sun, 11 Jun 2023 04:23:27 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
         </item>
         <item>
