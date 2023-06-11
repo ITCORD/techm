@@ -4,9 +4,17 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 11 Jun 2023 05:20:36 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Jun 2023 06:21:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[LG전자 '교통안전 솔루션' 고도화…실증사업 완료]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=111075</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=111075</guid>
+            <pubDate>Sun, 11 Jun 2023 00:30:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202306/111075_136912_305_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[KT, 팬직-모비드림과 산업용 대형 스마트 실링팬 만든다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=111057</link>
@@ -110,14 +118,6 @@
             <pubDate>Fri, 09 Jun 2023 10:09:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202306/111017_136781_859_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LGU+ "임직원 가족 초청 안전 가족 캠프 진행"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=111015</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=111015</guid>
-            <pubDate>Fri, 09 Jun 2023 10:06:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202306/111015_136779_612_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
