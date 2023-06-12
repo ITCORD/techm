@@ -4,9 +4,16 @@
         <title>테크M ─ 콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Jun 2023 09:21:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Jun 2023 10:20:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[DRX-서울대학교, e스포츠 인재 양성 위해 '맞손']]></title>
+            <link>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN1&amp;view_type=sm</link>
+            <guid>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN1&amp;view_type=sm</guid>
+            <pubDate>Mon, 12 Jun 2023 10:17:59 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA["이현+엄정화, AI로 목소리 합체"…위버스콘, 하이브의 미래 담았다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=111128</link>
@@ -110,14 +117,6 @@
             <pubDate>Sat, 10 Jun 2023 10:15:59 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202306/111069_136953_1623_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['국카스텐'-'비비지'가 부르는 메이플스토리...콘서트 열기 '후끈']]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=111067</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=111067</guid>
-            <pubDate>Sat, 10 Jun 2023 10:15:59 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202306/111067_136868_566_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
