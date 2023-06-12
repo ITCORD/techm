@@ -4,9 +4,25 @@
         <title>테크M ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 11 Jun 2023 23:19:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Jun 2023 01:40:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[LG전자 '휘센' 에어컨의 새 이미지는 '내심. 바람']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=111104</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=111104</guid>
+            <pubDate>Mon, 12 Jun 2023 10:35:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202306/111104_136945_3419_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[티몬, CJ푸드마켓 팝업 오픈…"온·오프 쇼핑 연계"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=111088</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=111088</guid>
+            <pubDate>Mon, 12 Jun 2023 09:34:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202306/111088_136927_3435_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["CJ제일제당의 패배?" 쿠팡서 '햇반' 사라지자 중소기업 즉석밥 100배 팔렸다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=111074</link>
@@ -102,22 +118,6 @@
             <pubDate>Wed, 07 Jun 2023 10:15:00 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202306/110910_136621_1444_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한컴그룹, 청리움 어린이 사생대회 성료]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=110879</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=110879</guid>
-            <pubDate>Mon, 05 Jun 2023 09:19:59 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202306/110879_136555_4543_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코웨이, 수원에 최대 규모 체험매장 열었다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=110875</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=110875</guid>
-            <pubDate>Mon, 05 Jun 2023 09:19:59 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202306/110875_136551_3150_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
