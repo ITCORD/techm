@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Jun 2023 06:25:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Jun 2023 07:20:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -185,7 +185,7 @@
             <title><![CDATA[DRX-서울대학교, e스포츠 인재 양성 위해 '맞손' (테크M ─ 콘텐츠)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Tue, 13 Jun 2023 05:15:48 GMT</pubDate>
+            <pubDate>Tue, 13 Jun 2023 07:16:15 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
         </item>
         <item>
@@ -834,6 +834,30 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202306/110918_136629_4411_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[글로벌] 계정 공유 금지한 넷플릭스, 美서 신규 가입자 급증 (테크M ─ 리포트)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=111155</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=111155</guid>
+            <pubDate>Tue, 13 Jun 2023 07:19:27 GMT</pubDate>
+            <content:encoded><![CDATA[김현기 대표]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202306/111155_137061_261_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[글로벌] 구글, 출근율 인사 고과에 반영...직원들 "다양한 삶 무시" 반발 (테크M ─ 리포트)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=111154</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=111154</guid>
+            <pubDate>Tue, 13 Jun 2023 07:19:27 GMT</pubDate>
+            <content:encoded><![CDATA[김현기 대표]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202306/111154_137060_2456_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[글로벌] 일본, 앱스토어 독점 규제안 마련..."경쟁 충분치 않아" (테크M ─ 리포트)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=111153</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=111153</guid>
+            <pubDate>Tue, 13 Jun 2023 07:19:27 GMT</pubDate>
+            <content:encoded><![CDATA[김현기 대표]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202306/111153_137059_2350_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[글로벌] 저커버그 "애플 비전 프로 비싸고 혁신 없다, 혼자 노는 것" (테크M ─ 리포트)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=111054</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=111054</guid>
@@ -920,30 +944,6 @@
             <pubDate>Sat, 03 Jun 2023 00:16:00 GMT</pubDate>
             <content:encoded><![CDATA[김현기 대표]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202306/110835_136465_1419_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[글로벌] 아마존, 400억원대 과징금…"어린이 정보 불법 수집해" (테크M ─ 리포트)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=110834</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=110834</guid>
-            <pubDate>Sat, 03 Jun 2023 00:12:00 GMT</pubDate>
-            <content:encoded><![CDATA[김현기 대표]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202306/110834_136464_1121_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[글로벌] GPU 90% 장악한 엔비디아, AI 슈퍼컴퓨터 플랫폼 발표 (테크M ─ 리포트)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=110737</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=110737</guid>
-            <pubDate>Thu, 01 Jun 2023 08:30:00 GMT</pubDate>
-            <content:encoded><![CDATA[김현기 대표]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202306/110737_136358_641_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[글로벌] 인텔, AI 연산 특화 코어 프로세서 공개..."클라우드 없이 AI 작업 소화" (테크M ─ 리포트)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=110738</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=110738</guid>
-            <pubDate>Thu, 01 Jun 2023 08:30:00 GMT</pubDate>
-            <content:encoded><![CDATA[김현기 대표]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202306/110738_136359_75_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[카드뉴스] 스마일게이트, 메타휴먼 키운다 '한유아 신간 수다집 공개' (테크M ─ 보는 뉴스)]]></title>
