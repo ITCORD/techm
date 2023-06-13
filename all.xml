@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Jun 2023 02:45:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Jun 2023 03:21:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -501,6 +501,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202306/110954_136675_271_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[갑작스레 출금 중단한 가상자산 운용사 하루인베스트, SNS도 지웠다 (테크M ─ 인베스트먼트)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=111149</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=111149</guid>
+            <pubDate>Tue, 13 Jun 2023 00:10:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202306/111149_137047_01_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[테크M 리포트] 증권가 잇따른 러브콜...네오위즈 P의 거짓 기대감 'UP' (테크M ─ 인베스트먼트)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=111147</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=111147</guid>
@@ -603,14 +611,6 @@
             <pubDate>Tue, 06 Jun 2023 14:16:04 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202306/110901_136612_2314_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[크립토 브리핑] 美 SEC, 바이낸스 창펑 자오 기소...비트코인 3400만원대로 급락 (테크M ─ 인베스트먼트)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=110891</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=110891</guid>
-            <pubDate>Tue, 06 Jun 2023 11:38:00 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202306/110891_136584_2343_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[LG유플러스, 최고정보호책임자로 보안전문가 홍관희 전무 영입 (테크M ─ 피플)]]></title>
@@ -722,6 +722,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202305/110594_135987_102_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[위메프, 110개 브랜드와 '뷰티헬스위크'…뷰티로드샵 1+1 개최 (테크M ─ 라이프)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=111144</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=111144</guid>
+            <pubDate>Tue, 13 Jun 2023 10:32:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202306/111144_137043_3250_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[역대급 장마 예고된 올여름...11번가, 장마용품 200여개 총출동 (테크M ─ 라이프)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=111113</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=111113</guid>
@@ -824,14 +832,6 @@
             <pubDate>Wed, 07 Jun 2023 10:44:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202306/110918_136629_4411_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뷰티컬리, 김나영 노필터 TV와 콜라보 이벤트 (테크M ─ 라이프)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=110917</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=110917</guid>
-            <pubDate>Wed, 07 Jun 2023 10:43:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202306/110917_136628_432_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[글로벌] 저커버그 "애플 비전 프로 비싸고 혁신 없다, 혼자 노는 것" (테크M ─ 리포트)]]></title>
@@ -1013,7 +1013,7 @@
             <title><![CDATA[[게임코인TV] 김남국 논란 3탄...거래소가 무슨 죄? 근거 없는 의혹 제기 (테크M ─ 보는 뉴스)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Tue, 13 Jun 2023 02:45:30 GMT</pubDate>
+            <pubDate>Tue, 13 Jun 2023 03:21:15 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
         </item>
         <item>
