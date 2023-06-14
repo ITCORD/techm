@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Jun 2023 05:19:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Jun 2023 06:25:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -279,6 +279,14 @@
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[KT, 의료교육 플랫폼 '메디플릭스' 운영사와 베트남에 K-의료 지식 전파 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=111207</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=111207</guid>
+            <pubDate>Wed, 14 Jun 2023 06:22:23 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202306/111207_137142_09_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[위메이드 "불법로비 주장, 객관적 증거 제로...게임학회 법적대응 불가피" (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=111198</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=111198</guid>
@@ -381,14 +389,6 @@
             <pubDate>Wed, 14 Jun 2023 10:04:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202306/111173_137102_49_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[잘 나가는 쏘카, 월이용자 규모 100만 '육박'...대당 매출액도 '껑충' (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=111157</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=111157</guid>
-            <pubDate>Tue, 13 Jun 2023 06:22:06 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202306/111157_137083_1013_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아산나눔재단, 팝업스토어 '마루콜렉트' 오픈..."예상치 못한 맛" (테크M ─ 이노베이션)]]></title>
@@ -1023,7 +1023,7 @@
             <title><![CDATA[[게임코인TV] 김남국 논란 3탄...거래소가 무슨 죄? 근거 없는 의혹 제기 (테크M ─ 보는 뉴스)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Wed, 14 Jun 2023 05:19:07 GMT</pubDate>
+            <pubDate>Wed, 14 Jun 2023 06:25:46 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
         </item>
         <item>
