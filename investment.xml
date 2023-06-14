@@ -4,9 +4,17 @@
         <title>테크M ─ 인베스트먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Jun 2023 04:21:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Jun 2023 05:19:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[에이블리 "3개월 연속 흑자 행진…회원 수 1100만명 효과"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=111205</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=111205</guid>
+            <pubDate>Wed, 14 Jun 2023 05:17:05 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202306/111205_137139_5119_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[크립토 브리핑] 먹구름 낀 가상자산 시장...美 FOMC에 쏠린 눈]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=111194</link>
@@ -110,14 +118,6 @@
             <pubDate>Wed, 07 Jun 2023 10:49:00 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202306/110912_136623_3455_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[크립토 브리핑] 美 SEC 기소에 롤러코스터 탄 비트코인...하락분 회복하고 반등 성공]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=110905</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=110905</guid>
-            <pubDate>Wed, 07 Jun 2023 09:48:00 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202306/110905_136616_473_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
