@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Jun 2023 07:18:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Jun 2023 08:22:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] IBM, 왓슨X로 국내 시장 공략 '기업용 AI는 신뢰가 핵심']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=111212</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=111212</guid>
+            <pubDate>Wed, 14 Jun 2023 08:22:33 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202306/111212_137148_1951_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 스마일게이트, 메타휴먼 키운다 '한유아 신간 수다집 공개']]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=111150</link>
@@ -83,7 +91,7 @@
             <title><![CDATA[[게임코인TV] 김남국 논란 3탄...거래소가 무슨 죄? 근거 없는 의혹 제기]]></title>
             <link>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN10&amp;view_type=sm</link>
             <guid>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN10&amp;view_type=sm</guid>
-            <pubDate>Wed, 14 Jun 2023 07:18:22 GMT</pubDate>
+            <pubDate>Wed, 14 Jun 2023 08:22:33 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
         </item>
         <item>
@@ -109,14 +117,6 @@
             <pubDate>Thu, 01 Jun 2023 07:20:53 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202306/110771_136317_1615_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] KT, '생성형 AI'와 '디지털 트윈'을 접목해 메타버스 2.0 시대 연다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=110734</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=110734</guid>
-            <pubDate>Wed, 31 May 2023 14:20:31 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202305/110734_136250_2427_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
