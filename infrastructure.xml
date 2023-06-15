@@ -4,9 +4,17 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Jun 2023 01:27:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Jun 2023 02:42:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["LG유플러스 통신요금, 카카오페이로 납부·조회하세요"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=111222</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=111222</guid>
+            <pubDate>Thu, 15 Jun 2023 10:59:00 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202306/111222_137173_5041_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[원스토어, 'ISMS-P' 인증 획득..."안전한 앱마켓 환경 구축"]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=111216</link>
@@ -14,6 +22,14 @@
             <pubDate>Thu, 15 Jun 2023 09:52:00 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202306/111216_137169_378_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[日 라인·야후재팬 '군살빼기' 돌입…오피스 통폐합 나선다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=111168</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=111168</guid>
+            <pubDate>Thu, 15 Jun 2023 02:40:54 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202306/111168_137094_4622_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["우리가 AI 기술 선도자" 구글 클라우드, 생성형 AI로 기업 시장 공략]]></title>
@@ -102,22 +118,6 @@
             <pubDate>Wed, 14 Jun 2023 10:11:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202306/111177_137106_1151_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SK C&C 'ESG 종합 지식 포털' 열었다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=111176</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=111176</guid>
-            <pubDate>Wed, 14 Jun 2023 10:10:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202306/111176_137105_956_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[KT AI 푸드 태그, 품질테스트 인증 획득...디지털 헬스케어 '강화']]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=111175</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=111175</guid>
-            <pubDate>Wed, 14 Jun 2023 10:08:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202306/111175_137104_842_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
