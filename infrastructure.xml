@@ -4,9 +4,17 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Jun 2023 23:21:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Jun 2023 01:27:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[원스토어, 'ISMS-P' 인증 획득..."안전한 앱마켓 환경 구축"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=111216</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=111216</guid>
+            <pubDate>Thu, 15 Jun 2023 09:52:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202306/111216_137169_378_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["우리가 AI 기술 선도자" 구글 클라우드, 생성형 AI로 기업 시장 공략]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=111214</link>
@@ -110,14 +118,6 @@
             <pubDate>Wed, 14 Jun 2023 10:08:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202306/111175_137104_842_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NHN페이코, 해외 여행객 맞춤 혜택 '트래블팩' 출시]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=111174</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=111174</guid>
-            <pubDate>Wed, 14 Jun 2023 10:07:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202306/111174_137103_658_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
