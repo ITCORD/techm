@@ -4,9 +4,17 @@
         <title>테크M ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Jun 2023 02:42:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Jun 2023 03:20:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[웨버샌드윅, 디지털 커뮤니케이션 부문 총괄 김승호 부사장 승진 발령]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=111226</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=111226</guid>
+            <pubDate>Thu, 15 Jun 2023 11:50:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202306/111226_137178_502_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[LG유플러스, 최고정보호책임자로 보안전문가 홍관희 전무 영입]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=111133</link>
@@ -19,7 +27,7 @@
             <title><![CDATA[[부고] 채수웅(디지털데일리 편집국장)씨 조모상]]></title>
             <link>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN5&amp;view_type=sm</link>
             <guid>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN5&amp;view_type=sm</guid>
-            <pubDate>Thu, 15 Jun 2023 02:41:39 GMT</pubDate>
+            <pubDate>Thu, 15 Jun 2023 03:18:30 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
         </item>
         <item>
@@ -57,7 +65,7 @@
             <title><![CDATA[[부고] 서장원(코웨이 대표이사)씨 부친상]]></title>
             <link>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN5&amp;view_type=sm</link>
             <guid>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN5&amp;view_type=sm</guid>
-            <pubDate>Thu, 15 Jun 2023 02:41:39 GMT</pubDate>
+            <pubDate>Thu, 15 Jun 2023 03:18:30 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
         </item>
         <item>
@@ -107,14 +115,6 @@
             <pubDate>Sun, 28 May 2023 12:28:43 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202305/110635_136088_126_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[IPO 앞둔 시프트업, 게임 AI 강화...챗GPT 개발자 '영입']]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=110594</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=110594</guid>
-            <pubDate>Fri, 26 May 2023 11:10:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202305/110594_135987_102_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
