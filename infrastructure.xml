@@ -4,9 +4,17 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Jun 2023 05:18:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Jun 2023 06:23:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[카카오모빌리티, 택시 기사 자녀에 코딩 교육 지원한다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=111234</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=111234</guid>
+            <pubDate>Thu, 15 Jun 2023 06:21:40 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202306/111234_137187_494_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[삼성 갤럭시워치 '불규칙 심장 리듬 알림' 식약처 허가 취득]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=111231</link>
@@ -110,14 +118,6 @@
             <pubDate>Wed, 14 Jun 2023 11:36:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202306/111190_137125_364_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[네이버 웨일, 몽골 IT 콘퍼런스 빛냈다…구글·AWS 어깨 나란히]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=111188</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=111188</guid>
-            <pubDate>Wed, 14 Jun 2023 11:10:00 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202306/111188_137122_3940_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
