@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Jun 2023 05:17:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Jun 2023 06:22:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 베링랩, 법률 AI 번역 서비스 '베링 AI 플러스' 정식 출시]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=111268</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=111268</guid>
+            <pubDate>Fri, 16 Jun 2023 06:22:26 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202306/111268_137261_5436_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] KT, ESG 콘셉트 'KT민클x라온' NFT 2차 발행]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=111246</link>
@@ -99,7 +107,7 @@
             <title><![CDATA[[게임코인TV] 김남국 논란 3탄...거래소가 무슨 죄? 근거 없는 의혹 제기]]></title>
             <link>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN10&amp;view_type=sm</link>
             <guid>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN10&amp;view_type=sm</guid>
-            <pubDate>Fri, 16 Jun 2023 05:17:10 GMT</pubDate>
+            <pubDate>Fri, 16 Jun 2023 06:22:26 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
         </item>
         <item>
@@ -109,14 +117,6 @@
             <pubDate>Fri, 02 Jun 2023 13:29:32 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202306/110832_136459_4520_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 네이버, AI 큐시트 헬퍼 오픈 'AI 대중화 꿈꾸다']]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=110811</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=110811</guid>
-            <pubDate>Fri, 02 Jun 2023 06:25:58 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202306/110811_136408_148_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
