@@ -4,9 +4,23 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 18 Jun 2023 08:22:08 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Jun 2023 09:17:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[부고] 윤종영(국민대학교 교수)씨 부친상]]></title>
+            <link>https://www.techm.kr/news/articleList.html</link>
+            <guid>https://www.techm.kr/news/articleList.html</guid>
+            <pubDate>Sun, 18 Jun 2023 09:14:46 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[부고] 김지현(뉴스1 금융증권부 기자)씨 조부상]]></title>
+            <link>https://www.techm.kr/news/articleList.html</link>
+            <guid>https://www.techm.kr/news/articleList.html</guid>
+            <pubDate>Sun, 18 Jun 2023 09:14:46 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[디즈니 픽사 신작 '엘리멘탈' 더 선명하게 보는 법...삼성 '시네마 LED 스크린' 오닉스]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=111292</link>
@@ -150,22 +164,6 @@
             <pubDate>Fri, 16 Jun 2023 09:16:14 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202306/111276_137283_1745_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[무너지는 씨파이] 고이율 보장으로 투자자 모은 '씨파이'…"지속가능성 낮다"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=111274</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=111274</guid>
-            <pubDate>Fri, 16 Jun 2023 09:16:14 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202306/111274_137284_1826_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[무너지는 씨파이] 하루·델리오 출금 중단에 투자자들 고소 나서...깜깜이 운영이 문제]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=111273</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=111273</guid>
-            <pubDate>Fri, 16 Jun 2023 09:16:14 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202306/111273_137285_199_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
