@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 17 Jun 2023 23:17:50 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Jun 2023 01:47:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,6 +168,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202306/111261_137287_2020_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[LG유플러스, 모바일 포털 'U+페이지' 콘텐츠 늘리고 UI/UX도 개편 (테크M ─ 콘텐츠)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=111281</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=111281</guid>
+            <pubDate>Sun, 18 Jun 2023 09:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202306/111281_137296_5344_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[KDL 통신] 팀전 구도 바뀔 조짐 보인 개막전...이재혁, 죽음의 조에서 1위 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=111287</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=111287</guid>
@@ -272,12 +280,28 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202306/111260_137242_3323_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[출금 정지한 델리오, 오는 17일 사태 해결 위한 '투자자 보고 회의' 연다 (테크M ─ 콘텐츠)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=111259</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=111259</guid>
-            <pubDate>Fri, 16 Jun 2023 10:27:00 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202306/111259_137241_2217_v150.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[디즈니 픽사 신작 '엘리멘탈' 더 선명하게 보는 법...삼성 '시네마 LED 스크린' 오닉스 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=111292</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=111292</guid>
+            <pubDate>Sun, 18 Jun 2023 10:01:00 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202306/111292_137318_058_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[KT, 삼성서울병원과 'K-의료' 글로벌 확산 위해 힘 모은다 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=111290</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=111290</guid>
+            <pubDate>Sun, 18 Jun 2023 09:50:00 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202306/111290_137316_5012_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['AI 동맹' 확대하는 SK텔레콤, 美 실리콘밸리서 동맹 기업들과 사업협력 모색 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=111289</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=111289</guid>
+            <pubDate>Sun, 18 Jun 2023 09:45:00 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202306/111289_137314_4336_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[AI 세계대전 국가대표로 나선 네이버·카카오...전문가들 "규제 대신 지원 해야할 때" (테크M ─ 인프라)]]></title>
@@ -366,30 +390,6 @@
             <pubDate>Thu, 15 Jun 2023 06:21:03 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202306/111234_137187_494_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성 갤럭시워치 '불규칙 심장 리듬 알림' 식약처 허가 취득 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=111231</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=111231</guid>
-            <pubDate>Thu, 15 Jun 2023 00:09:00 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202306/111231_137183_846_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[화웨이, 세계자연보전연맹과 디지털 기술 통한 자연보호 비전 제시 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=111230</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=111230</guid>
-            <pubDate>Thu, 15 Jun 2023 00:06:00 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202306/111230_137182_559_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[엠로, 맞춤형 데이터 분석 SW '스마트 대시보드' 출시 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=111228</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=111228</guid>
-            <pubDate>Thu, 15 Jun 2023 11:57:00 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202306/111228_137180_5659_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[도로교통공단도 반한 NHN 두레이...기업시장 강자로 '우뚝' (테크M ─ 이노베이션)]]></title>
@@ -651,7 +651,7 @@
             <title><![CDATA[[부고] 채수웅(디지털데일리 편집국장)씨 조모상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Sat, 17 Jun 2023 23:17:00 GMT</pubDate>
+            <pubDate>Sun, 18 Jun 2023 01:46:48 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
         </item>
         <item>
@@ -689,7 +689,7 @@
             <title><![CDATA[[부고] 서장원(코웨이 대표이사)씨 부친상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Sat, 17 Jun 2023 23:17:00 GMT</pubDate>
+            <pubDate>Sun, 18 Jun 2023 01:46:48 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
         </item>
         <item>
@@ -1048,7 +1048,7 @@
             <title><![CDATA[[게임코인TV] 김남국 논란 3탄...거래소가 무슨 죄? 근거 없는 의혹 제기 (테크M ─ 보는 뉴스)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Sat, 17 Jun 2023 23:17:49 GMT</pubDate>
+            <pubDate>Sun, 18 Jun 2023 01:47:54 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
         </item>
         <item>
