@@ -4,9 +4,17 @@
         <title>테크M ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Jun 2023 03:21:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Jun 2023 04:24:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가전, 예술작품이 되다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=111319</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=111319</guid>
+            <pubDate>Mon, 19 Jun 2023 00:56:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202306/111319_137363_5448_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[반려인 사로잡은 쿠팡...로켓펫닥터, 론칭 한달만에 이용자 3배 증]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=111300</link>
@@ -110,14 +118,6 @@
             <pubDate>Mon, 12 Jun 2023 09:34:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202306/111088_136927_3435_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["CJ제일제당의 패배?" 쿠팡서 '햇반' 사라지자 중소기업 즉석밥 100배 팔렸다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=111074</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=111074</guid>
-            <pubDate>Sun, 11 Jun 2023 00:24:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202306/111074_136909_2410_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
