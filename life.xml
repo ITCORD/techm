@@ -4,9 +4,17 @@
         <title>테크M ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Jun 2023 05:19:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Jun 2023 06:24:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이마트, 7~10세 대상 '놀이터 그림 공모전' 열었다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=111327</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=111327</guid>
+            <pubDate>Mon, 19 Jun 2023 06:23:58 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202306/111327_137380_4738_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[가전, 예술작품이 되다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=111319</link>
@@ -110,14 +118,6 @@
             <pubDate>Mon, 12 Jun 2023 10:35:00 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202306/111104_136945_3419_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[티몬, CJ푸드마켓 팝업 오픈…"온·오프 쇼핑 연계"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=111088</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=111088</guid>
-            <pubDate>Mon, 12 Jun 2023 09:34:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202306/111088_136927_3435_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
