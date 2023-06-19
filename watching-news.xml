@@ -4,9 +4,25 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Jun 2023 09:22:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Jun 2023 10:20:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[채용공고] '혁신가들의 놀이터' 테크M 로켓에 자리 있어요..."수습 경력기자 모십니다"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=111337</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=111337</guid>
+            <pubDate>Mon, 19 Jun 2023 10:20:48 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202306/111337_137400_5839_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[카드뉴스] SK텔레콤, 글로벌 성장을 위한 'AI 동맹' 확대]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=111322</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=111322</guid>
+            <pubDate>Mon, 19 Jun 2023 10:20:48 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202306/111322_137369_3959_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 베링랩, 법률 AI 번역 서비스 '베링 AI 플러스' 정식 출시]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=111268</link>
@@ -102,21 +118,6 @@
             <pubDate>Mon, 05 Jun 2023 06:24:45 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202306/110863_136518_727_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[게임코인TV] 김남국 논란 3탄...거래소가 무슨 죄? 근거 없는 의혹 제기]]></title>
-            <link>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN10&amp;view_type=sm</link>
-            <guid>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN10&amp;view_type=sm</guid>
-            <pubDate>Mon, 19 Jun 2023 08:26:48 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[게임코인TV] 개인정보 제공에 신중했을 뿐인데...무조건 공격하고 본다?]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=110832</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=110832</guid>
-            <pubDate>Fri, 02 Jun 2023 13:29:32 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202306/110832_136459_4520_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
