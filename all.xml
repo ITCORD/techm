@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Jun 2023 02:41:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Jun 2023 03:21:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -280,6 +280,22 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202306/111305_137344_382_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['초기 침투 브로커' 활개…랜섬웨어 조직 국내 제조업 노린다 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=111359</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=111359</guid>
+            <pubDate>Tue, 20 Jun 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202306/111359_137437_122_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[생성형 AI, 사이버 보안에 '독'일까 '약'일까 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=111362</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=111362</guid>
+            <pubDate>Tue, 20 Jun 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202306/111362_137436_1058_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[카카오, 카톡 쇼핑하기 상반기 결산 프로모션 개최 (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=111354</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=111354</guid>
@@ -374,22 +390,6 @@
             <pubDate>Mon, 19 Jun 2023 10:41:00 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202306/111306_137345_4035_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[디즈니 픽사 신작 '엘리멘탈' 더 선명하게 보는 법...삼성 '시네마 LED 스크린' 오닉스 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=111292</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=111292</guid>
-            <pubDate>Sun, 18 Jun 2023 10:01:00 GMT</pubDate>
-            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202306/111292_137318_058_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[KT, 삼성서울병원과 'K-의료' 글로벌 확산 위해 힘 모은다 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=111290</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=111290</guid>
-            <pubDate>Sun, 18 Jun 2023 09:50:00 GMT</pubDate>
-            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202306/111290_137316_5012_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[야놀자와 새출발 '인터파크트리플', 5000만 여행객 맞는다 (테크M ─ 이노베이션)]]></title>
@@ -635,7 +635,7 @@
             <title><![CDATA[[부고] 양경진(디지털데일리 대표)씨 장모상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Tue, 20 Jun 2023 02:39:13 GMT</pubDate>
+            <pubDate>Tue, 20 Jun 2023 03:19:46 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
         </item>
         <item>
@@ -658,14 +658,14 @@
             <title><![CDATA[[부고] 윤종영(국민대학교 교수)씨 부친상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Tue, 20 Jun 2023 02:39:13 GMT</pubDate>
+            <pubDate>Tue, 20 Jun 2023 03:19:46 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[부고] 김지현(뉴스1 금융증권부 기자)씨 조부상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Tue, 20 Jun 2023 02:39:13 GMT</pubDate>
+            <pubDate>Tue, 20 Jun 2023 03:19:46 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
         </item>
         <item>
@@ -704,7 +704,7 @@
             <title><![CDATA[[부고] 채수웅(디지털데일리 편집국장)씨 조모상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Tue, 20 Jun 2023 02:39:13 GMT</pubDate>
+            <pubDate>Tue, 20 Jun 2023 03:19:46 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
         </item>
         <item>
@@ -722,6 +722,14 @@
             <pubDate>Sun, 11 Jun 2023 15:14:48 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202306/111078_136917_4627_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[요기요, 던킨과 맛있는 만남...도넛 세트 '얌얌박스' 출시 (테크M ─ 라이프)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=111345</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=111345</guid>
+            <pubDate>Tue, 20 Jun 2023 09:57:00 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202306/111345_137415_5151_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이마트, 7~10세 대상 '놀이터 그림 공모전' 열었다 (테크M ─ 라이프)]]></title>
@@ -826,14 +834,6 @@
             <pubDate>Mon, 12 Jun 2023 05:15:21 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202306/111113_136970_103_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LG전자 '휘센' 에어컨의 새 이미지는 '내심. 바람' (테크M ─ 라이프)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=111104</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=111104</guid>
-            <pubDate>Mon, 12 Jun 2023 10:35:00 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202306/111104_136945_3419_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[글로벌] IBM 양자 컴퓨터, 슈퍼 컴퓨터 넘는 성능 보였다 (테크M ─ 리포트)]]></title>

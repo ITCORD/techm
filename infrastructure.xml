@@ -4,9 +4,25 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Jun 2023 02:41:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Jun 2023 03:21:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['초기 침투 브로커' 활개…랜섬웨어 조직 국내 제조업 노린다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=111359</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=111359</guid>
+            <pubDate>Tue, 20 Jun 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202306/111359_137437_122_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[생성형 AI, 사이버 보안에 '독'일까 '약'일까]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=111362</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=111362</guid>
+            <pubDate>Tue, 20 Jun 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202306/111362_137436_1058_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[카카오, 카톡 쇼핑하기 상반기 결산 프로모션 개최]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=111354</link>
@@ -102,22 +118,6 @@
             <pubDate>Mon, 19 Jun 2023 10:41:00 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202306/111306_137345_4035_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[디즈니 픽사 신작 '엘리멘탈' 더 선명하게 보는 법...삼성 '시네마 LED 스크린' 오닉스]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=111292</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=111292</guid>
-            <pubDate>Sun, 18 Jun 2023 10:01:00 GMT</pubDate>
-            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202306/111292_137318_058_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[KT, 삼성서울병원과 'K-의료' 글로벌 확산 위해 힘 모은다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=111290</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=111290</guid>
-            <pubDate>Sun, 18 Jun 2023 09:50:00 GMT</pubDate>
-            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202306/111290_137316_5012_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
