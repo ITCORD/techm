@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Jun 2023 13:23:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Jun 2023 14:18:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,6 +168,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202306/111360_137430_263_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[中 에픽세븐 다음은 넷마블 A3:스틸얼라이브...8월 대륙 출격 (테크M ─ 콘텐츠)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=111384</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=111384</guid>
+            <pubDate>Tue, 20 Jun 2023 14:15:27 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202306/111384_137489_1825_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[레벨스 모먼티카, 팬덤 경험 확장 위해 온오프라인 연계 강화한다 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=111383</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=111383</guid>
@@ -270,14 +278,6 @@
             <pubDate>Mon, 19 Jun 2023 06:21:15 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202306/111328_137381_5250_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[LCK 브리핑] 순위 재정비 완료? 젠지-T1 나란히 1,2위 등극 (테크M ─ 콘텐츠)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=111308</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=111308</guid>
-            <pubDate>Mon, 19 Jun 2023 06:21:15 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202306/111308_137352_24_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['6G' 힘주는 LG전자, '넥스트 G 얼라이언스' 의장사 연임 (테크M ─ 인프라)]]></title>
@@ -643,7 +643,7 @@
             <title><![CDATA[[부고] 양경진(디지털데일리 대표)씨 장모상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Tue, 20 Jun 2023 13:20:29 GMT</pubDate>
+            <pubDate>Tue, 20 Jun 2023 14:17:24 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
         </item>
         <item>
@@ -666,14 +666,14 @@
             <title><![CDATA[[부고] 윤종영(국민대학교 교수)씨 부친상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Tue, 20 Jun 2023 13:20:29 GMT</pubDate>
+            <pubDate>Tue, 20 Jun 2023 14:17:24 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[부고] 김지현(뉴스1 금융증권부 기자)씨 조부상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Tue, 20 Jun 2023 13:20:29 GMT</pubDate>
+            <pubDate>Tue, 20 Jun 2023 14:17:24 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
         </item>
         <item>
@@ -712,7 +712,7 @@
             <title><![CDATA[[부고] 채수웅(디지털데일리 편집국장)씨 조모상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Tue, 20 Jun 2023 13:20:29 GMT</pubDate>
+            <pubDate>Tue, 20 Jun 2023 14:17:24 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
         </item>
         <item>
@@ -841,7 +841,7 @@
             <guid>https://www.techm.kr/news/articleView.html?idxno=111374</guid>
             <pubDate>Tue, 20 Jun 2023 05:15:44 GMT</pubDate>
             <content:encoded><![CDATA[김현기 대표]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202306/111374_137462_106_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202306/111374_137481_535_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[글로벌] 아마존, 2024년 말 위성 인터넷 서비스 선보인다 (테크M ─ 리포트)]]></title>
@@ -849,7 +849,7 @@
             <guid>https://www.techm.kr/news/articleView.html?idxno=111373</guid>
             <pubDate>Tue, 20 Jun 2023 05:15:44 GMT</pubDate>
             <content:encoded><![CDATA[김현기 대표]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202306/111373_137453_845_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202306/111373_137482_5341_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[글로벌] 폴란드 이어 이스라엘까지...인텔, 반도체 생산기지 구축 '속도전' (테크M ─ 리포트)]]></title>
@@ -857,7 +857,7 @@
             <guid>https://www.techm.kr/news/articleView.html?idxno=111371</guid>
             <pubDate>Tue, 20 Jun 2023 05:15:44 GMT</pubDate>
             <content:encoded><![CDATA[김현기 대표]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202306/111371_137450_724_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202306/111371_137483_5412_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[글로벌] IBM 양자 컴퓨터, 슈퍼 컴퓨터 넘는 성능 보였다 (테크M ─ 리포트)]]></title>
