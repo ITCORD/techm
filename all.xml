@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Jun 2023 10:22:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Jun 2023 11:20:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -181,7 +181,7 @@
             <guid>https://www.techm.kr/news/articleView.html?idxno=111366</guid>
             <pubDate>Tue, 20 Jun 2023 06:23:09 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202306/111366_137447_5715_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202306/111366_137480_5156_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['메타버스'로 대동단결...넥슨 메이플스토리 월드에 삼성전자 매장 연다 (테크M ─ 콘텐츠)]]></title>
@@ -197,7 +197,7 @@
             <guid>https://www.techm.kr/news/articleView.html?idxno=111367</guid>
             <pubDate>Tue, 20 Jun 2023 05:15:44 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202306/111367_137443_4128_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202306/111367_137485_5516_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[카카오게임즈, '에버소울' 오프라인 감사제 'Forever, 포-에버소울!' 연다 (테크M ─ 콘텐츠)]]></title>
@@ -261,7 +261,7 @@
             <guid>https://www.techm.kr/news/articleView.html?idxno=111329</guid>
             <pubDate>Mon, 19 Jun 2023 07:17:18 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202306/111329_137391_504_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202306/111329_137383_2840_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[컴투스, VR 게임 '다크스워드' 中 피코 유료 게임 1위 '재탈환' (테크M ─ 콘텐츠)]]></title>
@@ -948,6 +948,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202306/111055_136847_3135_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[카드뉴스] KT, 'AI 튜터'와 함께 대화하며 코딩 배운다 (테크M ─ 보는 뉴스)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=111370</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=111370</guid>
+            <pubDate>Tue, 20 Jun 2023 08:20:05 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202306/111370_137451_830_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[채용공고] '혁신가들의 놀이터' 테크M 로켓에 자리 있어요..."수습 경력기자 모십니다" (테크M ─ 보는 뉴스)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=111337</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=111337</guid>
@@ -1050,14 +1058,6 @@
             <pubDate>Tue, 06 Jun 2023 10:32:00 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202306/110890_136585_3233_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 라인, AI 셀카 서비스 출시 '새로운 나를 만나다' (테크M ─ 보는 뉴스)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=110863</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=110863</guid>
-            <pubDate>Mon, 05 Jun 2023 06:20:45 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202306/110863_136518_727_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

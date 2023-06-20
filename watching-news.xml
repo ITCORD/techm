@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Jun 2023 10:22:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Jun 2023 11:20:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] KT, 'AI 튜터'와 함께 대화하며 코딩 배운다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=111370</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=111370</guid>
+            <pubDate>Tue, 20 Jun 2023 11:20:25 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202306/111370_137451_830_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[채용공고] '혁신가들의 놀이터' 테크M 로켓에 자리 있어요..."수습 경력기자 모십니다"]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=111337</link>
@@ -110,14 +118,6 @@
             <pubDate>Tue, 06 Jun 2023 10:32:00 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202306/110890_136585_3233_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 라인, AI 셀카 서비스 출시 '새로운 나를 만나다']]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=110863</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=110863</guid>
-            <pubDate>Mon, 05 Jun 2023 06:24:45 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202306/110863_136518_727_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
