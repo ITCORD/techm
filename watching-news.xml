@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 21 Jun 2023 07:18:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Jun 2023 08:23:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 넥슨 메타버스에 삼성전자 매장 연다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=111430</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=111430</guid>
+            <pubDate>Wed, 21 Jun 2023 08:23:41 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202306/111430_137545_1518_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] KT, 'AI 튜터'와 함께 대화하며 코딩 배운다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=111370</link>
@@ -110,14 +118,6 @@
             <pubDate>Wed, 07 Jun 2023 06:23:19 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202306/110948_136664_3345_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[게임코인TV] 애플 MR 헤드셋 '비전 프로', 메타버스 아이폰일까? 옴니아일까?]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=110890</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=110890</guid>
-            <pubDate>Tue, 06 Jun 2023 10:32:00 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202306/110890_136585_3233_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
