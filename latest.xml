@@ -4,9 +4,33 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 21 Jun 2023 23:22:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Jun 2023 01:28:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[크립토 브리핑] '불장' 기대감 솔솔?...비트코인 두달만에 3만달러 회복]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=111442</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=111442</guid>
+            <pubDate>Thu, 22 Jun 2023 10:21:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202306/111442_137583_1322_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SK텔레콤, '로밍 요금' 부담 덜어준다...1명만 가입해도 온 가족 로밍 해결]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=111440</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=111440</guid>
+            <pubDate>Thu, 22 Jun 2023 09:19:00 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202306/111440_137580_1858_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[파리에서 선보인 2030년의 부산 하늘...SK텔레콤, UAM 전시로 부산세계박람회 유치 지원]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=111438</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=111438</guid>
+            <pubDate>Thu, 22 Jun 2023 09:09:00 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202306/111438_137574_830_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[게임코인TV] 장현국 대표와의 AMA 어떻게 보셨나요?...위믹스의 미래(상)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=111437</link>
@@ -142,30 +166,6 @@
             <pubDate>Wed, 21 Jun 2023 07:14:44 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202306/111417_137532_167_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[위시컴퍼니, '요가의 날' 맞아 고객 요가 클래스 개최…'마음을 차지해']]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=111416</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=111416</guid>
-            <pubDate>Wed, 21 Jun 2023 00:51:00 GMT</pubDate>
-            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202306/111416_137530_5120_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["KT는 AI에 진심"...2년내 AI 매출 1조 하겠다는 KT 전략 핵심은 '서비스']]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=111414</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=111414</guid>
-            <pubDate>Wed, 21 Jun 2023 00:42:00 GMT</pubDate>
-            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202306/111414_137566_2829_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["먼지제거와 걸레질을 한번에"...다이슨, 물청소 가능한 V12 서브마린청소기 국내 출시]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=111410</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=111410</guid>
-            <pubDate>Wed, 21 Jun 2023 00:20:00 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202306/111410_137524_262_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
