@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Jun 2023 02:47:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Jun 2023 03:20:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,6 +168,22 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202306/111433_137562_612_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[레벨스 합류한 넷마블 '메이브'...버추얼 아이돌은 포토카드도 NFT로 (테크M ─ 콘텐츠)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=111450</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=111450</guid>
+            <pubDate>Thu, 22 Jun 2023 11:10:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202306/111450_137591_730_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뉴진스·르세라핌 이을 차세대 걸그룹?...웨이브서 응원하자 (테크M ─ 콘텐츠)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=111444</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=111444</guid>
+            <pubDate>Thu, 22 Jun 2023 10:27:00 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202306/111444_137585_2424_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA["개발 자산 보전돼야" vs. "스스로 사장시켰다"...넥슨-아이언메이스, '다크앤다커' 두고 법정서 '공방' (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=111433</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=111433</guid>
@@ -262,22 +278,6 @@
             <pubDate>Wed, 21 Jun 2023 10:16:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202306/111398_137506_1631_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[음원 콘텐츠 키우는 아프리카TV, 서경대와 맞손...콘텐츠 '협업' (테크M ─ 콘텐츠)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=111396</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=111396</guid>
-            <pubDate>Wed, 21 Jun 2023 10:12:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202306/111396_137503_1222_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[넷플릭스 CEO 방한 화두는?...'콘텐츠 투자·제작환경 선진화·망사용료' (테크M ─ 콘텐츠)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=111387</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=111387</guid>
-            <pubDate>Wed, 21 Jun 2023 09:30:00 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202306/111387_137569_2945_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[애플 '비전프로' 앱 개발 본격 가동…XR 생태계 장악 성공할까 (테크M ─ 인프라)]]></title>
@@ -616,6 +616,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202306/111270_137269_211_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[韓 B2B 시장 꽉 잡은 NHN클라우드...CEO 김동훈 "글로벌 톱티어로 올라설 것" (테크M ─ 피플)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=111456</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=111456</guid>
+            <pubDate>Thu, 22 Jun 2023 11:44:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202306/111456_137603_4013_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[샌드박스네트워크, 이필성·최문우 공동 대표 체제 전환 (테크M ─ 피플)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=111403</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=111403</guid>
@@ -651,7 +659,7 @@
             <title><![CDATA[[부고] 양경진(디지털데일리 대표)씨 장모상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Thu, 22 Jun 2023 01:26:52 GMT</pubDate>
+            <pubDate>Thu, 22 Jun 2023 03:18:46 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
         </item>
         <item>
@@ -674,14 +682,14 @@
             <title><![CDATA[[부고] 윤종영(국민대학교 교수)씨 부친상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Thu, 22 Jun 2023 01:26:52 GMT</pubDate>
+            <pubDate>Thu, 22 Jun 2023 03:18:46 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[부고] 김지현(뉴스1 금융증권부 기자)씨 조부상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Thu, 22 Jun 2023 01:26:52 GMT</pubDate>
+            <pubDate>Thu, 22 Jun 2023 03:18:47 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
         </item>
         <item>
@@ -715,13 +723,6 @@
             <pubDate>Tue, 13 Jun 2023 10:10:00 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202306/111133_137033_953_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[부고] 채수웅(디지털데일리 편집국장)씨 조모상 (테크M ─ 피플)]]></title>
-            <link>https://ITCORD.github.io/techm/all.xml</link>
-            <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Thu, 22 Jun 2023 01:26:52 GMT</pubDate>
-            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[써봤다] 다이슨의 신제품 무선 물청소기, 단점 모두 묻어버리는 '혁신'적인 제품 (테크M ─ 라이프)]]></title>
@@ -836,6 +837,30 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202306/111300_137337_2053_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[글로벌] 네팔 연구진 "히말라야 빙하, 2100년 80% 소멸될 수 있어" (테크M ─ 리포트)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=111434</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=111434</guid>
+            <pubDate>Thu, 22 Jun 2023 10:30:00 GMT</pubDate>
+            <content:encoded><![CDATA[김현기 대표]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202306/111434_137570_5445_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[글로벌] 美 최대 커뮤니티 레딧, API 유료화 정책으로 '홍역' (테크M ─ 리포트)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=111435</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=111435</guid>
+            <pubDate>Thu, 22 Jun 2023 10:30:00 GMT</pubDate>
+            <content:encoded><![CDATA[김현기 대표]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202306/111435_137571_568_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[글로벌] '사과 로고 사랑' 애플, 111년 스위스 과일연합에 소송 (테크M ─ 리포트)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=111436</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=111436</guid>
+            <pubDate>Thu, 22 Jun 2023 10:30:00 GMT</pubDate>
+            <content:encoded><![CDATA[김현기 대표]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202306/111436_137572_581_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[글로벌] EU, 회원국에 '中 화웨이·ZTE 장비 사용 금지' 촉구 (테크M ─ 리포트)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=111374</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=111374</guid>
@@ -922,30 +947,6 @@
             <pubDate>Tue, 13 Jun 2023 07:19:27 GMT</pubDate>
             <content:encoded><![CDATA[김현기 대표]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202306/111154_137060_2456_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[글로벌] 일본, 앱스토어 독점 규제안 마련..."경쟁 충분치 않아" (테크M ─ 리포트)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=111153</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=111153</guid>
-            <pubDate>Tue, 13 Jun 2023 07:19:27 GMT</pubDate>
-            <content:encoded><![CDATA[김현기 대표]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202306/111153_137059_2350_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[글로벌] 저커버그 "애플 비전 프로 비싸고 혁신 없다, 혼자 노는 것" (테크M ─ 리포트)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=111054</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=111054</guid>
-            <pubDate>Sat, 10 Jun 2023 10:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[김현기 대표]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202306/111054_136846_2953_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[글로벌] '테슬라 대항마' 루시드, 중국 시장 진출 "현지 생산도 검토" (테크M ─ 리포트)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=111055</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=111055</guid>
-            <pubDate>Sat, 10 Jun 2023 10:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[김현기 대표]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202306/111055_136847_3135_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[게임코인TV] 장현국 대표와의 AMA 어떻게 보셨나요?...위믹스의 미래(상) (테크M ─ 보는 뉴스)]]></title>
