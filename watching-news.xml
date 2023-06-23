@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 Jun 2023 09:23:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Jun 2023 10:23:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 모먼티카에 넷마블 메이브(MAVE:) 합류 'NFT 선보인다']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=111491</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=111491</guid>
+            <pubDate>Fri, 23 Jun 2023 10:23:47 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202306/111491_137663_1320_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] LG유플러스, 자사 웹앱에 ‘챗GPT’ 도입 확대]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=111467</link>
@@ -110,14 +118,6 @@
             <pubDate>Sun, 11 Jun 2023 10:00:00 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202306/111072_136908_5843_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 두나무 증권플러스, AI 투자챗 '우디' 사전신청 이벤트에 참여하세요]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=111032</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=111032</guid>
-            <pubDate>Fri, 09 Jun 2023 05:19:33 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202306/111032_136801_353_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
