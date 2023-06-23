@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 Jun 2023 07:22:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Jun 2023 08:28:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -392,6 +392,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202306/111462_137611_446_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[이스트소프트, 자체 제작 AI휴먼 '이규리' 공개...유튜브 채널 MC로 나섰다 (테크M ─ 이노베이션)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=111503</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=111503</guid>
+            <pubDate>Fri, 23 Jun 2023 07:16:57 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202306/111503_137690_2733_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[업스테이지, 머신러닝 국제 학회에 논문 7편 발표 (테크M ─ 이노베이션)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=111475</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=111475</guid>
@@ -494,14 +502,6 @@
             <pubDate>Tue, 20 Jun 2023 09:51:00 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202306/111344_137414_510_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[위믹스 포인트] '2주 연속 톱10' 홍정민, 위믹스 포인트 1위 등극 (테크M ─ 이노베이션)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=111332</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=111332</guid>
-            <pubDate>Mon, 19 Jun 2023 10:17:53 GMT</pubDate>
-            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202306/111332_137390_4736_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[장현국 위메이드 대표, 월급으로 17번째 위믹스 매수...총 73만개 (테크M ─ 인베스트먼트)]]></title>
@@ -667,7 +667,7 @@
             <title><![CDATA[[부고] 양경진(디지털데일리 대표)씨 장모상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Fri, 23 Jun 2023 07:20:29 GMT</pubDate>
+            <pubDate>Fri, 23 Jun 2023 08:25:46 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
         </item>
         <item>
@@ -690,14 +690,14 @@
             <title><![CDATA[[부고] 윤종영(국민대학교 교수)씨 부친상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Fri, 23 Jun 2023 07:20:29 GMT</pubDate>
+            <pubDate>Fri, 23 Jun 2023 08:25:46 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[부고] 김지현(뉴스1 금융증권부 기자)씨 조부상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Fri, 23 Jun 2023 07:20:29 GMT</pubDate>
+            <pubDate>Fri, 23 Jun 2023 08:25:46 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
         </item>
         <item>
