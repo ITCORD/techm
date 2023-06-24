@@ -4,9 +4,17 @@
         <title>테크M ─ 콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 24 Jun 2023 12:36:12 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Jun 2023 13:25:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[KDL 통신] 락스-센세이션, 나란히 1승...배성빈, 조1위로 16강]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=111518</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=111518</guid>
+            <pubDate>Sat, 24 Jun 2023 13:22:28 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202306/111518_137741_5516_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[가봤다] 즐길거리 풍성했던 '서머너즈 워' 쇼케이스..."오래오래 운영했으면"]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=111516</link>
@@ -110,14 +118,6 @@
             <pubDate>Fri, 23 Jun 2023 00:40:00 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202306/111485_137652_1856_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[플레이위드, 신작 '로한 2' 개발자 인터뷰 최초 공개]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=111484</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=111484</guid>
-            <pubDate>Fri, 23 Jun 2023 00:40:00 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202306/111484_137651_1356_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

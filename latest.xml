@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 24 Jun 2023 12:36:12 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Jun 2023 13:25:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[KDL 통신] 락스-센세이션, 나란히 1승...배성빈, 조1위로 16강]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=111518</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=111518</guid>
+            <pubDate>Sat, 24 Jun 2023 13:22:07 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202306/111518_137741_5516_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[가봤다] 즐길거리 풍성했던 '서머너즈 워' 쇼케이스..."오래오래 운영했으면"]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=111516</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 23 Jun 2023 06:24:03 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202306/111497_137682_4212_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[尹 경제사절단 동행 카카오모빌리티, 베트남 스타트업에 기술 조언]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=111494</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=111494</guid>
-            <pubDate>Fri, 23 Jun 2023 06:24:03 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202306/111494_137679_2232_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
