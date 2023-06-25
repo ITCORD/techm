@@ -4,9 +4,17 @@
         <title>테크M ─ 콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 25 Jun 2023 11:23:11 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Jun 2023 12:37:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['1박 2일 매치' 최종 승자는 GNL...배틀그라운드 스매쉬컵 우승]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=111519</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=111519</guid>
+            <pubDate>Sun, 25 Jun 2023 12:34:03 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202306/111519_137758_52_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[KDL 통신] 락스-센세이션, 나란히 1승...배성빈, 조1위로 16강]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=111518</link>
@@ -110,14 +118,6 @@
             <pubDate>Fri, 23 Jun 2023 00:40:00 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202306/111486_137653_2648_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[엔씨소프트, 지식 공유 컨퍼런스 'NCDP 2023' 개최]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=111485</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=111485</guid>
-            <pubDate>Fri, 23 Jun 2023 00:40:00 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202306/111485_137652_1856_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
