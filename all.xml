@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Jun 2023 11:19:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Jun 2023 12:39:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -395,7 +395,7 @@
             <title><![CDATA[넷마블 마브렉스, MBX 토큰 6억7000만개 소각한다...사실상 '제로 리저브' 선언 (테크M ─ 이노베이션)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=111573</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=111573</guid>
-            <pubDate>Mon, 26 Jun 2023 11:17:08 GMT</pubDate>
+            <pubDate>Mon, 26 Jun 2023 11:15:21 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202306/111573_137844_552_v150.jpg" length="0" type="image/jpg"/>
         </item>
@@ -675,7 +675,7 @@
             <title><![CDATA[[부고] 양경진(디지털데일리 대표)씨 장모상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Mon, 26 Jun 2023 11:17:50 GMT</pubDate>
+            <pubDate>Mon, 26 Jun 2023 12:36:43 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
         </item>
         <item>
@@ -698,14 +698,14 @@
             <title><![CDATA[[부고] 윤종영(국민대학교 교수)씨 부친상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Mon, 26 Jun 2023 11:17:50 GMT</pubDate>
+            <pubDate>Mon, 26 Jun 2023 12:36:43 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[부고] 김지현(뉴스1 금융증권부 기자)씨 조부상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Mon, 26 Jun 2023 11:17:50 GMT</pubDate>
+            <pubDate>Mon, 26 Jun 2023 12:36:43 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
         </item>
         <item>
@@ -949,6 +949,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202306/111243_137206_3759_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[카드뉴스] 이스트소프트, AI 휴먼 '이규리' 공개 (테크M ─ 보는 뉴스)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=111570</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=111570</guid>
+            <pubDate>Mon, 26 Jun 2023 11:15:21 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202306/111570_137824_4010_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[카드뉴스] 모먼티카에 넷마블 메이브(MAVE:) 합류 'NFT 선보인다' (테크M ─ 보는 뉴스)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=111491</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=111491</guid>
@@ -1051,14 +1059,6 @@
             <pubDate>Sun, 11 Jun 2023 15:14:48 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202306/111077_136916_1825_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[게임코인TV] 한국 게임사에 러브콜 보내는 니어프로토콜 (테크M ─ 보는 뉴스)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=111072</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=111072</guid>
-            <pubDate>Sun, 11 Jun 2023 10:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202306/111072_136908_5843_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
