@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Jun 2023 19:18:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Jun 2023 20:27:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,6 +168,30 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202306/111553_137797_2518_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[제노니아가 온다] ③'1000억 클럽' 노리는 '제노니아'...캐시카우 될까 (테크M ─ 콘텐츠)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=111577</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=111577</guid>
+            <pubDate>Tue, 27 Jun 2023 05:10:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202306/111577_137851_1655_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[제노니아가 온다] ②다채로운 클래스·차별화된 침공전에 '시선 집중' (테크M ─ 콘텐츠)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=111576</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=111576</guid>
+            <pubDate>Tue, 27 Jun 2023 05:05:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202306/111576_137850_5110_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[제노니아가 온다] ①캐주얼-스포츠 강자 컴투스, 이제 MMO 대전 뛰어든다 (테크M ─ 콘텐츠)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=111575</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=111575</guid>
+            <pubDate>Tue, 27 Jun 2023 05:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202306/111575_137846_4724_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[스포츠 중계 힘쓰는 아프리카TV...스코어보드 방송 기능 고도화한다 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=111571</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=111571</guid>
@@ -254,30 +278,6 @@
             <pubDate>Mon, 26 Jun 2023 10:27:00 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202306/111541_137776_75_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[네이버웹툰 '마루는 강쥐·냐한남자', 코엑스에 뜬다…260종 굿즈 선봬 (테크M ─ 콘텐츠)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=111539</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=111539</guid>
-            <pubDate>Mon, 26 Jun 2023 10:27:00 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202306/111539_137774_059_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스마일게이트 희망스튜디오, 청년 멘토 호프 크리에이터 4기 모집 (테크M ─ 콘텐츠)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=111538</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=111538</guid>
-            <pubDate>Mon, 26 Jun 2023 10:27:00 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202306/111538_137773_585_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[KDL 통신] 아이템전 감잡은 샌드박스, 시즌 3승째...홍성민-한종문, 16강 합류 (테크M ─ 콘텐츠)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=111530</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=111530</guid>
-            <pubDate>Sun, 25 Jun 2023 15:17:05 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202306/111530_137782_3933_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이재용 회장이 키우는 삼성청년SW아카데미...미래 IT 인재 '쑥' (테크M ─ 인프라)]]></title>
@@ -675,7 +675,7 @@
             <title><![CDATA[[부고] 양경진(디지털데일리 대표)씨 장모상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Mon, 26 Jun 2023 19:17:12 GMT</pubDate>
+            <pubDate>Mon, 26 Jun 2023 20:24:22 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
         </item>
         <item>
@@ -698,14 +698,14 @@
             <title><![CDATA[[부고] 윤종영(국민대학교 교수)씨 부친상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Mon, 26 Jun 2023 19:17:12 GMT</pubDate>
+            <pubDate>Mon, 26 Jun 2023 20:24:22 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[부고] 김지현(뉴스1 금융증권부 기자)씨 조부상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Mon, 26 Jun 2023 19:17:12 GMT</pubDate>
+            <pubDate>Mon, 26 Jun 2023 20:24:22 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
         </item>
         <item>
