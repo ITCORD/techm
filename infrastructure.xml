@@ -4,9 +4,17 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Jun 2023 08:34:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Jun 2023 09:22:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이재용 회장이 키우는 삼성청년SW아카데미...미래 IT 인재 '쑥']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=111572</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=111572</guid>
+            <pubDate>Mon, 26 Jun 2023 09:19:04 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202306/111572_137832_011_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[KB국민은행, 글로벌 개인정보보호 인증 획득]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=111560</link>
@@ -110,14 +118,6 @@
             <pubDate>Sun, 25 Jun 2023 09:47:00 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202306/111517_137787_4051_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[KT, '퀀텀 코리아 2023'에 전시부스 꾸린다...양자암호기술 경쟁력 소개]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=111511</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=111511</guid>
-            <pubDate>Sun, 25 Jun 2023 09:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202306/111511_137712_1930_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
