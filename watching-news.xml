@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Jun 2023 08:28:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Jun 2023 09:21:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] LG유플러스, AI 탑재한 '키즈토피아'에 '메타슬랩' 출시 준비까지]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=111625</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=111625</guid>
+            <pubDate>Tue, 27 Jun 2023 09:21:21 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202306/111625_137906_286_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 이스트소프트, AI 휴먼 '이규리' 공개]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=111570</link>
@@ -110,14 +118,6 @@
             <pubDate>Mon, 12 Jun 2023 08:23:01 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202306/111124_136997_3956_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[게임코인TV] 기재부가 넥슨 2대 주주 등극?...이보다 더 깔끔할 수 없는 상속세 납부]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=111077</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=111077</guid>
-            <pubDate>Sun, 11 Jun 2023 17:15:21 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202306/111077_136916_1825_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
