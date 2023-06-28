@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Jun 2023 09:24:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Jun 2023 10:21:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 업비트, 이더리움 기반 NFT 거래지원 시작 '빗썸, 코빗도 이용자 유치에 집중']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=111663</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=111663</guid>
+            <pubDate>Wed, 28 Jun 2023 10:21:39 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202306/111663_137982_1934_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] LG유플러스, AI 탑재한 '키즈토피아'에 '메타슬랩' 출시 준비까지]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=111625</link>
@@ -110,14 +118,6 @@
             <pubDate>Tue, 13 Jun 2023 06:25:19 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202306/111150_137049_4710_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 밀크파트너스 X SK플래닛, 웹 3.0과 블록체인 위해 맞손]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=111124</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=111124</guid>
-            <pubDate>Mon, 12 Jun 2023 08:23:01 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202306/111124_136997_3956_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
