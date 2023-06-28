@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Jun 2023 14:20:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Jun 2023 15:22:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -280,6 +280,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202306/111637_137944_1618_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[사브리나 멍 화웨이 부회장, MWC 상하이 개막식서 "5G 다음 단계로 도약" 강조 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=111672</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=111672</guid>
+            <pubDate>Wed, 28 Jun 2023 14:16:18 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202306/111672_138009_3327_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA["AI 세계 4강 노리는데"...속도·규제완화 '전력투구'가 살길 (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=111671</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=111671</guid>
@@ -333,7 +341,7 @@
             <guid>https://www.techm.kr/news/articleView.html?idxno=111647</guid>
             <pubDate>Wed, 28 Jun 2023 11:26:00 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202306/111647_137952_2043_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202306/111647_138006_2329_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[카카오헬스케어, 개인 건강관리 메타버스 플랫폼 구축한다 (테크M ─ 인프라)]]></title>
@@ -382,14 +390,6 @@
             <pubDate>Tue, 27 Jun 2023 08:22:28 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202306/111607_137894_3738_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국레노버 워크스테이션 신제품 발표회장에 슈퍼카 '애스턴마틴'이 등장한 이유는? (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=111615</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=111615</guid>
-            <pubDate>Tue, 27 Jun 2023 06:23:17 GMT</pubDate>
-            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202306/111615_137920_515_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[테크M 피플] '로봇 대중화' 이끄는 황성재의 엑스와이지, 코스닥 입성 '채비' (테크M ─ 이노베이션)]]></title>
@@ -675,7 +675,7 @@
             <title><![CDATA[[부고] 양경진(디지털데일리 대표)씨 장모상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Wed, 28 Jun 2023 14:19:00 GMT</pubDate>
+            <pubDate>Wed, 28 Jun 2023 15:21:42 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
         </item>
         <item>
@@ -698,14 +698,14 @@
             <title><![CDATA[[부고] 윤종영(국민대학교 교수)씨 부친상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Wed, 28 Jun 2023 14:19:00 GMT</pubDate>
+            <pubDate>Wed, 28 Jun 2023 15:21:42 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[부고] 김지현(뉴스1 금융증권부 기자)씨 조부상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Wed, 28 Jun 2023 14:19:00 GMT</pubDate>
+            <pubDate>Wed, 28 Jun 2023 15:21:42 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
         </item>
         <item>
