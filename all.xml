@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 30 Jun 2023 04:25:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Jun 2023 05:21:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -280,6 +280,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202306/111688_138032_4646_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[테크M 이슈] MMO 판도 변화 이끌 카카오게임즈 아레스...관전포인트는 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=111738</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=111738</guid>
+            <pubDate>Fri, 30 Jun 2023 05:18:47 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202306/111738_138107_3531_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[신세계 유니버스 클럽, 금융으로 확장...토스와 '멤버십 제휴' 맞손 (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=111734</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=111734</guid>
@@ -382,14 +390,6 @@
             <pubDate>Thu, 29 Jun 2023 09:18:06 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202306/111699_138045_3151_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[세계 모니터 선두주자 델, 프리미엄 업무용·게이밍 신제품 3종 출시 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=111696</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=111696</guid>
-            <pubDate>Thu, 29 Jun 2023 05:21:27 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202306/111696_138040_471_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[카카오 야나두, AI '콘텐츠+커머스' 플랫폼 진화...내년 IPO 시동 (테크M ─ 이노베이션)]]></title>
@@ -616,6 +616,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202306/111513_137789_4127_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['오딘 김재영' 다음은 누구? 카카오게임즈, 스타개발자 '반승철' 카드 띄웠다 (테크M ─ 피플)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=111739</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=111739</guid>
+            <pubDate>Fri, 30 Jun 2023 05:20:14 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202306/111739_138109_4037_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[티빙 대표에 최주희 전 트렌비 CBO…"디즈니+ 韓 론칭 이끈 전략가" (테크M ─ 피플)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=111701</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=111701</guid>
@@ -683,7 +691,7 @@
             <title><![CDATA[[부고] 양경진(디지털데일리 대표)씨 장모상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Fri, 30 Jun 2023 04:24:01 GMT</pubDate>
+            <pubDate>Fri, 30 Jun 2023 05:20:14 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
         </item>
         <item>
@@ -706,23 +714,15 @@
             <title><![CDATA[[부고] 윤종영(국민대학교 교수)씨 부친상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Fri, 30 Jun 2023 04:24:01 GMT</pubDate>
+            <pubDate>Fri, 30 Jun 2023 05:20:14 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[부고] 김지현(뉴스1 금융증권부 기자)씨 조부상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Fri, 30 Jun 2023 04:24:01 GMT</pubDate>
+            <pubDate>Fri, 30 Jun 2023 05:20:14 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[e스포츠人] 포지션 변경한 '쫑' 한종문 '지금도 충분히 괜찮아' (테크M ─ 피플)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=111288</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=111288</guid>
-            <pubDate>Sat, 17 Jun 2023 16:21:20 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202306/111288_137313_2637_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[직구 쇼핑액 123% 증가...티몬, 큐텐과 협력 효과 '톡톡' (테크M ─ 라이프)]]></title>
