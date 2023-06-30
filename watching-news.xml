@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 30 Jun 2023 03:28:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Jun 2023 04:25:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[게임코인TV] 위메이드-네오위즈-컴투스...블록체인 게임이 일본에 가려는 이유는?(상)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=111728</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=111728</guid>
+            <pubDate>Fri, 30 Jun 2023 11:05:00 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202306/111728_138092_3816_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 카카오헬스케어, 개인 건강관리 '메타버스 플랫폼' 구축]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=111700</link>
@@ -110,14 +118,6 @@
             <pubDate>Thu, 15 Jun 2023 09:17:54 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202306/111246_137209_1039_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] IBM, 왓슨X로 국내 시장 공략 '기업용 AI는 신뢰가 핵심']]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=111212</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=111212</guid>
-            <pubDate>Wed, 14 Jun 2023 08:22:33 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202306/111212_137148_1951_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
