@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 30 Jun 2023 15:22:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Jun 2023 16:28:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -616,6 +616,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202306/111534_137769_4510_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[e스포츠人] 국가대표이자 농심 에이스 '티지' "방심하지 않고 선두 지키겠다" (테크M ─ 피플)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=111762</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=111762</guid>
+            <pubDate>Fri, 30 Jun 2023 15:17:34 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202306/111762_138162_4923_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[IBM, 이은주 한국IBM 신임 사장 임명 (테크M ─ 피플)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=111754</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=111754</guid>
@@ -699,7 +707,7 @@
             <title><![CDATA[[부고] 양경진(디지털데일리 대표)씨 장모상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Fri, 30 Jun 2023 12:37:32 GMT</pubDate>
+            <pubDate>Fri, 30 Jun 2023 16:25:49 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
         </item>
         <item>
@@ -717,13 +725,6 @@
             <pubDate>Sun, 18 Jun 2023 14:13:32 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202306/111298_137332_3418_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[부고] 윤종영(국민대학교 교수)씨 부친상 (테크M ─ 피플)]]></title>
-            <link>https://ITCORD.github.io/techm/all.xml</link>
-            <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Fri, 30 Jun 2023 12:37:32 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[직구 쇼핑액 123% 증가...티몬, 큐텐과 협력 효과 '톡톡' (테크M ─ 라이프)]]></title>
