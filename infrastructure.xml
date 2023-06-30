@@ -4,9 +4,17 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 30 Jun 2023 10:22:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Jun 2023 11:17:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[지니언스 '지니언 NAC' 해킹 의심 정황 발견…"관계 당국과 조사 중"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=111755</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=111755</guid>
+            <pubDate>Fri, 30 Jun 2023 11:15:53 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202306/111755_138151_2635_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[토스, 'APEC CBPR' 인증 취득...개인정보보호 역량 증명]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=111748</link>
@@ -110,14 +118,6 @@
             <pubDate>Thu, 29 Jun 2023 09:18:47 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202306/111707_138061_1443_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[단돈 5000원에 만드는 화보집...라인 'AI 사진관' 선봬]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=111704</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=111704</guid>
-            <pubDate>Thu, 29 Jun 2023 09:18:47 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202306/111704_138058_26_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

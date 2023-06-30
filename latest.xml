@@ -4,16 +4,24 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 30 Jun 2023 10:22:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Jun 2023 11:17:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[지니언스 '지니언 NAC' 해킹 의심 정황 발견…"관계 당국과 조사 중"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=111755</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=111755</guid>
+            <pubDate>Fri, 30 Jun 2023 11:14:31 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202306/111755_138151_2635_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[IBM, 이은주 한국IBM 신임 사장 임명]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=111754</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=111754</guid>
             <pubDate>Fri, 30 Jun 2023 10:18:35 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202306/111754_138150_919_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202306/111754_138152_2956_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[위믹스, 유령 노드 운영한 적 없다..."투명하게 관리 중"]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 30 Jun 2023 11:32:00 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202306/111733_138100_2913_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[신세계 유니버스 클럽, 금융으로 확장...토스와 '멤버십 제휴' 맞손]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=111734</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=111734</guid>
-            <pubDate>Fri, 30 Jun 2023 11:31:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202306/111734_138101_3144_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
