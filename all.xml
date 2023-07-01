@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 01 Jul 2023 05:23:12 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Jul 2023 06:26:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,6 +168,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202306/111730_138145_4831_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[위메이드 '나이트 크로우', 스트리머 후원 시스템 'SSS펀드' 시즌2 시작 (테크M ─ 콘텐츠)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=111767</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=111767</guid>
+            <pubDate>Sat, 01 Jul 2023 00:55:00 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202307/111767_138184_5437_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[PMPS 통신] 농심-DK 진검 승부 시작됐다...1일차는 농심 판정승 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=111759</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=111759</guid>
@@ -270,14 +278,6 @@
             <pubDate>Fri, 30 Jun 2023 10:19:00 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202306/111726_138090_1729_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[4년만에 돌아온 블리자 '블리즈컨 2023'...내달부터 티켓 판매 (테크M ─ 콘텐츠)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=111721</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=111721</guid>
-            <pubDate>Fri, 30 Jun 2023 10:03:00 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202306/111721_138085_5816_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[지니언스 '지니언 NAC' 해킹 의심 정황 발견…"관계 당국과 조사 중" (테크M ─ 인프라)]]></title>
@@ -707,7 +707,7 @@
             <title><![CDATA[[부고] 양경진(디지털데일리 대표)씨 장모상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Sat, 01 Jul 2023 04:24:18 GMT</pubDate>
+            <pubDate>Sat, 01 Jul 2023 06:24:29 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
         </item>
         <item>
