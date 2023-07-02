@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 02 Jul 2023 01:55:18 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Jul 2023 03:09:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -280,6 +280,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202306/111727_138091_2517_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[LG유플러스, 20대 청년 위한 '유쓰 청년 요금제' 출시...데이터 제공량 늘렸다 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=111760</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=111760</guid>
+            <pubDate>Sun, 02 Jul 2023 09:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202306/111760_138156_4928_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[지니언스 '지니언 NAC' 해킹 의심 정황 발견…"관계 당국과 조사 중" (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=111755</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=111755</guid>
@@ -382,14 +390,6 @@
             <pubDate>Thu, 29 Jun 2023 11:15:35 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202306/111714_138076_2535_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[네이버가 점찍은 물류 플랫폼 '아르고', 누적 주문 처리 1억건↑ (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=111707</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=111707</guid>
-            <pubDate>Thu, 29 Jun 2023 09:18:06 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202306/111707_138061_1443_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[스타트업 썰전] ㉚정명훈 여기어때 대표가 사내 '바리스타'로 변신한 사연은? (테크M ─ 이노베이션)]]></title>
@@ -715,7 +715,7 @@
             <title><![CDATA[[부고] 양경진(디지털데일리 대표)씨 장모상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Sun, 02 Jul 2023 01:52:11 GMT</pubDate>
+            <pubDate>Sun, 02 Jul 2023 03:06:37 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
         </item>
         <item>

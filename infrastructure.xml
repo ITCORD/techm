@@ -4,9 +4,17 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 02 Jul 2023 01:55:18 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Jul 2023 03:09:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[LG유플러스, 20대 청년 위한 '유쓰 청년 요금제' 출시...데이터 제공량 늘렸다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=111760</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=111760</guid>
+            <pubDate>Sun, 02 Jul 2023 09:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202306/111760_138156_4928_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[지니언스 '지니언 NAC' 해킹 의심 정황 발견…"관계 당국과 조사 중"]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=111755</link>
@@ -110,14 +118,6 @@
             <pubDate>Thu, 29 Jun 2023 11:16:08 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202306/111714_138076_2535_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[네이버가 점찍은 물류 플랫폼 '아르고', 누적 주문 처리 1억건↑]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=111707</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=111707</guid>
-            <pubDate>Thu, 29 Jun 2023 09:18:47 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202306/111707_138061_1443_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
