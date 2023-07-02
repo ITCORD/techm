@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 02 Jul 2023 12:35:54 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Jul 2023 13:25:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,10 +168,18 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202306/111761_138158_1831_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[PMPS 통신] 실력도 좋았고 운도 따랐다...농심, DK 추격 뿌리치고 우승! (테크M ─ 콘텐츠)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=111778</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=111778</guid>
+            <pubDate>Sun, 02 Jul 2023 13:21:45 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202307/111778_138230_3342_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[KDL 통신] 아이템전 약점 극복한 락스의 무한 질주 '눈에 띄네' (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=111779</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=111779</guid>
-            <pubDate>Sun, 02 Jul 2023 12:32:08 GMT</pubDate>
+            <pubDate>Sun, 02 Jul 2023 12:31:50 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202307/111779_138224_419_v150.jpg" length="0" type="image/jpg"/>
         </item>
@@ -270,14 +278,6 @@
             <pubDate>Fri, 30 Jun 2023 06:23:35 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202306/111730_138145_4831_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['미래 세계관'에 '슈트체인지'까지...전에 없던 MMO '아레스'..."게임체인저 될 것" (테크M ─ 콘텐츠)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=111736</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=111736</guid>
-            <pubDate>Fri, 30 Jun 2023 00:57:00 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202306/111736_138146_492_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[LG유플러스, 20대 청년 위한 '유쓰 청년 요금제' 출시...데이터 제공량 늘렸다 (테크M ─ 인프라)]]></title>
@@ -715,7 +715,7 @@
             <title><![CDATA[[부고] 양경진(디지털데일리 대표)씨 장모상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Sun, 02 Jul 2023 09:18:52 GMT</pubDate>
+            <pubDate>Sun, 02 Jul 2023 13:24:16 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
         </item>
         <item>
