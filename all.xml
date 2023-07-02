@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 02 Jul 2023 10:23:40 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Jul 2023 11:18:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,6 +168,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202306/111755_138151_2635_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[현장습격] 다시 찾은 대전, 농심-DK-투제트 중 PMPS 우승팀은 누구? (테크M ─ 콘텐츠)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=111777</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=111777</guid>
+            <pubDate>Sun, 02 Jul 2023 10:17:01 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202307/111777_138207_5351_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[PMPS 통신] '엔딩요정' 농심, DK 추격 따돌리고 2일차 선두 유지 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=111769</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=111769</guid>
@@ -270,14 +278,6 @@
             <pubDate>Fri, 30 Jun 2023 11:04:00 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202306/111729_138093_405_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[역주행하는 하이브IM '인더섬 with BTS'...양대 앱 마켓 인기 1위 달성 (테크M ─ 콘텐츠)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=111727</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=111727</guid>
-            <pubDate>Fri, 30 Jun 2023 11:01:00 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202306/111727_138091_2517_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[LG유플러스, 20대 청년 위한 '유쓰 청년 요금제' 출시...데이터 제공량 늘렸다 (테크M ─ 인프라)]]></title>
