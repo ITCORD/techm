@@ -4,9 +4,17 @@
         <title>테크M ─ 이노베이션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Jul 2023 22:22:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Jul 2023 23:24:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[테크M 이슈] "티켓도 이젠 안전한 개인간거래로"…신뢰 마케팅 띄운 '솔드아웃']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=111834</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=111834</guid>
+            <pubDate>Tue, 04 Jul 2023 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202307/111834_138320_434_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[주정차 앱 '휘슬', 충북 최초로 충주시에서 서비스 시작]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=111821</link>
@@ -110,14 +118,6 @@
             <pubDate>Wed, 28 Jun 2023 08:25:56 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202306/111662_137980_950_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['I Believe'를 30초만에 모짜르트 스타일로 편곡한 AI '지니리라'...원곡자 김형석도 '깜짝']]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=111654</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=111654</guid>
-            <pubDate>Wed, 28 Jun 2023 05:19:01 GMT</pubDate>
-            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202306/111654_137969_5250_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
