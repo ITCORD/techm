@@ -4,9 +4,17 @@
         <title>테크M ─ 콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Jul 2023 03:31:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Jul 2023 04:23:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[에이스프로젝트 '나인업 프로야구' 대규모 업데이트]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=111815</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=111815</guid>
+            <pubDate>Mon, 03 Jul 2023 00:35:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202307/111815_138286_3548_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[LCK 브리핑] 3강3중 구도 완성? 순위 윤곽 드러난 4주차]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=111813</link>
@@ -110,14 +118,6 @@
             <pubDate>Sat, 01 Jul 2023 00:55:00 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202307/111767_138184_5437_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[PMPS 통신] 농심-DK 진검 승부 시작됐다...1일차는 농심 판정승]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=111759</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=111759</guid>
-            <pubDate>Fri, 30 Jun 2023 15:18:13 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202306/111759_138159_3534_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
