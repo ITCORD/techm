@@ -4,9 +4,17 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Jul 2023 03:04:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Jul 2023 03:31:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[테크M 이슈] '시총 3조 달러' 애플의 힘은 어디서 나오는가]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=111807</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=111807</guid>
+            <pubDate>Mon, 03 Jul 2023 10:55:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202307/111807_138272_4541_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[KT, 결합 할인 더한 '5G 다이렉트' 요금제 5종 출시]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=111803</link>
@@ -110,14 +118,6 @@
             <pubDate>Fri, 30 Jun 2023 07:16:12 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202306/111745_138135_2617_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[테크M 이슈] MMO 판도 변화 이끌 카카오게임즈 아레스...관전포인트는]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=111738</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=111738</guid>
-            <pubDate>Fri, 30 Jun 2023 05:18:47 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202306/111738_138107_3531_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
