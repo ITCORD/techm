@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Jul 2023 06:30:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Jul 2023 07:19:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 캐리버스, 첫 NFT '제네시스 박스' 민팅 완판]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=111830</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=111830</guid>
+            <pubDate>Mon, 03 Jul 2023 07:19:35 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202307/111830_138303_556_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 라인, AI 사진관 공개 '5000원으로 화보집 만든다']]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=111743</link>
@@ -110,14 +118,6 @@
             <pubDate>Mon, 19 Jun 2023 10:20:48 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202306/111322_137369_3959_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 베링랩, 법률 AI 번역 서비스 '베링 AI 플러스' 정식 출시]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=111268</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=111268</guid>
-            <pubDate>Fri, 16 Jun 2023 06:22:26 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202306/111268_137261_5436_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
