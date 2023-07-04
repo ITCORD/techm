@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Jul 2023 11:20:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Jul 2023 12:41:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,6 +168,22 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202307/111858_138343_2642_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['크로니클' '나이트 크로우'부터 '메이플스토리N' 까지...하반기 블록체인 게임 쏟아진다 (테크M ─ 콘텐츠)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=111875</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=111875</guid>
+            <pubDate>Tue, 04 Jul 2023 07:17:03 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202307/111875_138387_044_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['재벌집' '차정숙' 제작사 SLL "하반기 15편 이상 공개...美·日 등 글로벌 확장할 것" (테크M ─ 콘텐츠)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=111876</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=111876</guid>
+            <pubDate>Tue, 04 Jul 2023 07:17:03 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202307/111876_138388_110_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA["상생 게임사로 우뚝" 카카오게임즈, 첫 ESG 보고서 띄웠다 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=111863</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=111863</guid>
@@ -197,7 +213,7 @@
             <guid>https://www.techm.kr/news/articleView.html?idxno=111832</guid>
             <pubDate>Tue, 04 Jul 2023 09:56:00 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202307/111832_138313_941_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202307/111832_138395_429_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[e스포츠人] 드리프트 리그 '특급 신예' 탄생? 이변의 주인공 락스 이명재 (테크M ─ 콘텐츠)]]></title>
@@ -262,22 +278,6 @@
             <pubDate>Mon, 03 Jul 2023 10:44:00 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202307/111806_138269_4038_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[칠리즈, 日 '웹X 2023' 참가...알렉산드레 CEO 연사로 나선다 (테크M ─ 콘텐츠)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=111801</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=111801</guid>
-            <pubDate>Mon, 03 Jul 2023 10:36:00 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202307/111801_138267_3310_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[두나무 람다256, 나이스피앤아이와 토큰증권 업무협약 (테크M ─ 콘텐츠)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=111799</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=111799</guid>
-            <pubDate>Mon, 03 Jul 2023 10:30:00 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202307/111799_138262_2325_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[PC방 간편결제도 카카오페이...500원 즉시 할인 (테크M ─ 인프라)]]></title>
@@ -845,7 +845,7 @@
             <guid>https://www.techm.kr/news/articleView.html?idxno=111872</guid>
             <pubDate>Tue, 04 Jul 2023 06:29:06 GMT</pubDate>
             <content:encoded><![CDATA[김현기 대표]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202307/111872_138357_2426_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202307/111872_138390_158_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[글로벌] 인도서 8000억원 몰수된 샤오미, 현지 직원 대량 해고 (테크M ─ 리포트)]]></title>
@@ -853,7 +853,7 @@
             <guid>https://www.techm.kr/news/articleView.html?idxno=111871</guid>
             <pubDate>Tue, 04 Jul 2023 06:29:06 GMT</pubDate>
             <content:encoded><![CDATA[김현기 대표]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202307/111871_138356_2335_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202307/111871_138391_222_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[글로벌] 머스크 "트위터 읽기 분량 제한"...미인증 계정 하루 600개 (테크M ─ 리포트)]]></title>
@@ -861,7 +861,7 @@
             <guid>https://www.techm.kr/news/articleView.html?idxno=111870</guid>
             <pubDate>Tue, 04 Jul 2023 06:29:06 GMT</pubDate>
             <content:encoded><![CDATA[김현기 대표]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202307/111870_138355_2244_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202307/111870_138392_247_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[글로벌] 이용자 이탈 막는 트위치, '파트너 플러스' 선보인다 (테크M ─ 리포트)]]></title>
@@ -893,7 +893,7 @@
             <guid>https://www.techm.kr/news/articleView.html?idxno=111673</guid>
             <pubDate>Thu, 29 Jun 2023 11:00:00 GMT</pubDate>
             <content:encoded><![CDATA[김현기 대표]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202306/111673_138072_4827_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202306/111673_138010_4150_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[글로벌] 애플, 특허 침해 소송 패소했다...배상금 수천억원 전망 (테크M ─ 리포트)]]></title>
@@ -901,7 +901,7 @@
             <guid>https://www.techm.kr/news/articleView.html?idxno=111674</guid>
             <pubDate>Thu, 29 Jun 2023 11:00:00 GMT</pubDate>
             <content:encoded><![CDATA[김현기 대표]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202306/111674_138071_485_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202306/111674_138011_4315_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[글로벌] 메타, VR 게임 구독 서비스 출시...'퀘스트' 반등할까? (테크M ─ 리포트)]]></title>
@@ -909,7 +909,7 @@
             <guid>https://www.techm.kr/news/articleView.html?idxno=111675</guid>
             <pubDate>Thu, 29 Jun 2023 11:00:00 GMT</pubDate>
             <content:encoded><![CDATA[김현기 대표]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202306/111675_138070_4741_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202306/111675_138012_4440_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[글로벌] 매출 성장세 둔화된 유튜브, 온라인 게임 서비스 '만지작' (테크M ─ 리포트)]]></title>
