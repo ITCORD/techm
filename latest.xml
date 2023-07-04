@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Jul 2023 04:24:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Jul 2023 05:22:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[AWS, 국내 중소기업 클라우드 전환 부담 던다…신규 지원 프로그램 '리프트' 출시]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=111866</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=111866</guid>
+            <pubDate>Tue, 04 Jul 2023 05:17:28 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202307/111866_138350_3128_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["상생 게임사로 우뚝" 카카오게임즈, 첫 ESG 보고서 띄웠다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=111863</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 04 Jul 2023 08:52:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202307/111841_138329_529_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[배민스토어에 애플 공식파트너 '프리스비' 입점]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=111840</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=111840</guid>
-            <pubDate>Tue, 04 Jul 2023 08:51:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202307/111840_138328_517_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
