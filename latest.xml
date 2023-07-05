@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Jul 2023 13:35:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jul 2023 14:21:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[KDL 통신] 락스, 한종문 활약으로 5전 전승...단독 1위 등극]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=111936</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=111936</guid>
+            <pubDate>Wed, 05 Jul 2023 14:17:41 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202307/111936_138463_3653_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[카카오엔터, 美 애니메 엑스포서 '나혼렙' 애니메이션 공개]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=111931</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 05 Jul 2023 08:23:46 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202307/111897_138455_1034_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국신용데이터, 소상공인 전문 은행 세운다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=111895</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=111895</guid>
-            <pubDate>Wed, 05 Jul 2023 08:23:46 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202307/111895_138416_1314_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
