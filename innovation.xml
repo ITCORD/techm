@@ -4,17 +4,9 @@
         <title>테크M ─ 이노베이션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Jul 2023 06:29:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jul 2023 07:26:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[한국신용데이터, 소상공인 전문 은행 세운다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=111895</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=111895</guid>
-            <pubDate>Wed, 05 Jul 2023 06:26:51 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202307/111895_138416_1314_v150.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[헥토이노베이션, 청년들에게 '데이터 활용 노하우' 전수한다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=111892</link>
@@ -118,6 +110,14 @@
             <pubDate>Fri, 30 Jun 2023 09:19:36 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202306/111750_138137_528_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[카카오 야나두, AI '콘텐츠+커머스' 플랫폼 진화...내년 IPO 시동]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=111737</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=111737</guid>
+            <pubDate>Fri, 30 Jun 2023 00:57:00 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202306/111737_138106_522_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
