@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Jul 2023 01:47:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jul 2023 03:05:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -392,6 +392,22 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202307/111859_138344_295_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[헥토이노베이션, 청년들에게 '데이터 활용 노하우' 전수한다 (테크M ─ 이노베이션)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=111892</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=111892</guid>
+            <pubDate>Wed, 05 Jul 2023 10:27:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202307/111892_138410_2656_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[LIG넥스원, 우주분야 전문인력 양성 나선다...산학인턴십 실시 (테크M ─ 이노베이션)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=111885</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=111885</guid>
+            <pubDate>Wed, 05 Jul 2023 09:58:00 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202307/111885_138403_5835_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA["AI 셰프가 만든 짜파구리"…비욘드허니컴, 70억 투자 유치 (테크M ─ 이노베이션)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=111879</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=111879</guid>
@@ -486,22 +502,6 @@
             <pubDate>Fri, 30 Jun 2023 00:57:00 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202306/111737_138106_522_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['배민' 우아한형제들, '규범준수경영시스템' 인증 받았다 (테크M ─ 이노베이션)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=111708</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=111708</guid>
-            <pubDate>Thu, 29 Jun 2023 09:18:06 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202306/111708_138062_1722_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이마트24도 반한 자율주행트럭 '마스오토', 미국 간다...고속도로 테스트 나선다 (테크M ─ 이노베이션)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=111703</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=111703</guid>
-            <pubDate>Thu, 29 Jun 2023 09:18:06 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202306/111703_138056_5540_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[크립토 브리핑] 4000만원에 달라 붙은 비트코인...강세장 초입 들어섰나 (테크M ─ 인베스트먼트)]]></title>
@@ -728,6 +728,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202306/111368_137445_4631_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[SK스토아, 美 네바다 주립대 교수진 '미디어 투어' 진행 (테크M ─ 라이프)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=111886</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=111886</guid>
+            <pubDate>Wed, 05 Jul 2023 10:04:00 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202307/111886_138404_425_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['백기투항' 농심, 라면값 내리고도 영업익 고작 3% 감소?...비결은 (테크M ─ 라이프)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=111842</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=111842</guid>
@@ -830,14 +838,6 @@
             <pubDate>Mon, 03 Jul 2023 09:49:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202307/111789_138252_4933_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[온라인 강좌·리퍼 가구까지…현대홈쇼핑, 상품 확장 총력전 (테크M ─ 라이프)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=111787</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=111787</guid>
-            <pubDate>Mon, 03 Jul 2023 09:47:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202307/111787_138250_4721_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[글로벌] TSMC "협력사, 랜섬웨어 공격 당했다...900억원 요구" (테크M ─ 리포트)]]></title>

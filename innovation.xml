@@ -4,9 +4,25 @@
         <title>테크M ─ 이노베이션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Jul 2023 01:47:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jul 2023 03:05:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[헥토이노베이션, 청년들에게 '데이터 활용 노하우' 전수한다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=111892</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=111892</guid>
+            <pubDate>Wed, 05 Jul 2023 10:27:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202307/111892_138410_2656_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[LIG넥스원, 우주분야 전문인력 양성 나선다...산학인턴십 실시]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=111885</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=111885</guid>
+            <pubDate>Wed, 05 Jul 2023 09:58:00 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202307/111885_138403_5835_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["AI 셰프가 만든 짜파구리"…비욘드허니컴, 70억 투자 유치]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=111879</link>
@@ -102,22 +118,6 @@
             <pubDate>Fri, 30 Jun 2023 00:57:00 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202306/111737_138106_522_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['배민' 우아한형제들, '규범준수경영시스템' 인증 받았다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=111708</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=111708</guid>
-            <pubDate>Thu, 29 Jun 2023 09:19:05 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202306/111708_138062_1722_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이마트24도 반한 자율주행트럭 '마스오토', 미국 간다...고속도로 테스트 나선다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=111703</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=111703</guid>
-            <pubDate>Thu, 29 Jun 2023 09:19:06 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202306/111703_138056_5540_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
