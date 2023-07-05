@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Jul 2023 09:24:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jul 2023 10:24:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 11번가, 프로모션 디자인에 AI 활용 '이커머스 업계도 AI에 빠지다']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=111917</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=111917</guid>
+            <pubDate>Wed, 05 Jul 2023 10:24:55 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202307/111917_138427_4430_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 엔씨소프트, '차량용 AI 뉴스 솔루션' 개발]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=111874</link>
@@ -110,14 +118,6 @@
             <pubDate>Tue, 20 Jun 2023 11:20:25 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202306/111370_137451_830_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[채용공고] '혁신가들의 놀이터' 테크M 로켓에 자리 있어요..."수습 경력기자 모십니다"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=111337</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=111337</guid>
-            <pubDate>Mon, 19 Jun 2023 10:20:48 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202306/111337_137400_5839_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
