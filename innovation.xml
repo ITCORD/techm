@@ -4,16 +4,32 @@
         <title>테크M ─ 이노베이션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Jul 2023 08:29:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Jul 2023 09:24:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['공지'에서 '라이브'로...달라진 게임업계 소통, 디렉터가 직접 나선다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=111987</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=111987</guid>
+            <pubDate>Thu, 06 Jul 2023 09:21:33 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202307/111987_138548_4741_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[쏘카, 한국전자금융과 카셰어링 활성화 전방위 협업]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=111989</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=111989</guid>
+            <pubDate>Thu, 06 Jul 2023 09:21:33 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202307/111989_138526_1836_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['취미' 앱에서 시작...잘 먹고 잘 노는 나들이족 잡는다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=111983</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=111983</guid>
             <pubDate>Thu, 06 Jul 2023 07:19:08 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202307/111983_138522_833_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202307/111983_138550_4859_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['반값 항공권' 띄운 여기어때...야놀자, 新 항공 서비스로 맞불]]></title>
@@ -102,22 +118,6 @@
             <pubDate>Tue, 04 Jul 2023 06:27:04 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202307/111869_138354_3423_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쏘카, 임직원 전용 상품 '쏘카비즈니스 복지형' 예약건수 2배로 증가]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=111848</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=111848</guid>
-            <pubDate>Tue, 04 Jul 2023 10:09:00 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202307/111848_138335_88_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[테크M 이슈] "티켓도 이젠 안전한 개인간거래로"…신뢰 마케팅 띄운 '솔드아웃']]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=111834</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=111834</guid>
-            <pubDate>Tue, 04 Jul 2023 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202307/111834_138320_434_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,25 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Jul 2023 08:29:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Jul 2023 09:24:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[게임코인TV] 하반기 블록체인 게임 핫이슈...컴투스의 크로니클(상)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=111982</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=111982</guid>
+            <pubDate>Thu, 06 Jul 2023 09:24:29 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202307/111982_138524_1426_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[카드뉴스] AI가 K팝 산업에 녹아들다 ' 아티스트 제작, 작곡, 연주, 노래까지']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=111990</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=111990</guid>
+            <pubDate>Thu, 06 Jul 2023 09:24:29 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202307/111990_138529_2012_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 11번가, 프로모션 디자인에 AI 활용 '이커머스 업계도 AI에 빠지다']]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=111917</link>
@@ -102,22 +118,6 @@
             <pubDate>Wed, 21 Jun 2023 16:24:56 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202306/111437_137573_1417_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 넥슨 메타버스에 삼성전자 매장 연다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=111430</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=111430</guid>
-            <pubDate>Wed, 21 Jun 2023 08:23:41 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202306/111430_137545_1518_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] KT, 'AI 튜터'와 함께 대화하며 코딩 배운다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=111370</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=111370</guid>
-            <pubDate>Tue, 20 Jun 2023 11:20:25 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202306/111370_137451_830_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
