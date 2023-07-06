@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Jul 2023 05:22:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Jul 2023 06:30:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[집안 가전 공간별로 한 눈에…삼성전자 '맵 뷰' 기반 홈 IoT 솔루션 공개]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=111964</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=111964</guid>
+            <pubDate>Thu, 06 Jul 2023 06:24:49 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202307/111964_138500_1936_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[SK쉴더스, AI CCTV 탑재한 '자율주행 순찰로봇' 실증 나선다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=111963</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 06 Jul 2023 10:41:00 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202307/111943_138472_365_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[크립토 브리핑] 4000만원대 횡보하는 비트코인...기관 투자자 관심 '여전']]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=111942</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=111942</guid>
-            <pubDate>Thu, 06 Jul 2023 10:29:00 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202307/111942_138471_232_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
