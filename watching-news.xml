@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Jul 2023 07:20:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jul 2023 08:27:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 컴투버스, 하나은행·솜씨당과 손잡고 '메타버스 클래스' 추진]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=112017</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=112017</guid>
+            <pubDate>Fri, 07 Jul 2023 08:27:29 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202307/112017_138586_2822_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[게임코인TV] 하반기 블록체인 게임 핫이슈...컴투스의 크로니클(상)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=111982</link>
@@ -110,14 +118,6 @@
             <pubDate>Thu, 06 Jul 2023 19:20:44 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202306/111467_137618_4231_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[게임코인TV] 장현국 대표와의 AMA 어떻게 보셨나요?...위믹스의 미래(상)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=111437</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=111437</guid>
-            <pubDate>Thu, 06 Jul 2023 19:20:44 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202306/111437_137573_1417_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
