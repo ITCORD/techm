@@ -4,9 +4,17 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Jul 2023 05:22:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jul 2023 06:27:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[저커버그 '스레드' 출격에…역대 '트위터 킬러' 재조명]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=112012</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=112012</guid>
+            <pubDate>Fri, 07 Jul 2023 06:25:31 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202307/112012_138582_1045_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['갤럭시 Z' 시리즈가 펼치는 새로운 세상…삼성전자, 글로벌 캠페인 영상 공개]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=112009</link>
@@ -110,14 +118,6 @@
             <pubDate>Thu, 06 Jul 2023 19:15:36 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202307/111981_138552_4929_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["카카오페이로 해외여행 올-패스"...여행 준비·도착 한번에]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=111974</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=111974</guid>
-            <pubDate>Thu, 06 Jul 2023 19:15:36 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202307/111974_138508_4322_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
