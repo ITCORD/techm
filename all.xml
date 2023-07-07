@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Jul 2023 12:41:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jul 2023 13:27:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -952,6 +952,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202306/111600_137887_455_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[게임코인TV] 하반기 블록체인 게임 핫이슈...메이플스토리와 나이트크로우(중) (테크M ─ 보는 뉴스)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=112031</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=112031</guid>
+            <pubDate>Fri, 07 Jul 2023 12:36:24 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202307/112031_138621_3153_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[카드뉴스] 컴투버스, 하나은행·솜씨당과 손잡고 '메타버스 클래스' 추진 (테크M ─ 보는 뉴스)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=112017</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=112017</guid>
@@ -1054,14 +1062,6 @@
             <pubDate>Fri, 23 Jun 2023 07:16:57 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202306/111491_137663_1320_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] LG유플러스, 자사 웹앱에 ‘챗GPT’ 도입 확대 (테크M ─ 보는 뉴스)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=111467</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=111467</guid>
-            <pubDate>Thu, 22 Jun 2023 08:18:55 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202306/111467_137618_4231_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
