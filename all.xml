@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 08 Jul 2023 04:28:18 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Jul 2023 05:21:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -392,6 +392,22 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202307/111984_138520_324_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[日 도쿄서 열리는 웹3 콘퍼런스 '웹X'....기시다 총리 키노트에 유가랩스도 온다 (테크M ─ 이노베이션)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=112034</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=112034</guid>
+            <pubDate>Sat, 08 Jul 2023 05:18:12 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202307/112034_138628_721_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[써봤다] '스레드', 익숙한 맛에 또 찾지만...'해시태그' 감질맛이 부족해 (테크M ─ 이노베이션)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=112032</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=112032</guid>
+            <pubDate>Sat, 08 Jul 2023 00:44:00 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202307/112032_138623_741_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[AI에 푹 빠진 게임사...게임 개발과 관리는 기본, 차량용 AI 솔루션에도 적용한다 (테크M ─ 이노베이션)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=112022</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=112022</guid>
@@ -486,22 +502,6 @@
             <pubDate>Thu, 06 Jul 2023 20:26:39 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202307/111921_138440_851_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[디지털 시대 준비하는 한국은행...CBDC 연구 '총력전' (테크M ─ 이노베이션)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=111920</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=111920</guid>
-            <pubDate>Thu, 06 Jul 2023 20:26:39 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202307/111920_138439_4020_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국신용데이터, 소상공인 전문 은행 세운다 (테크M ─ 이노베이션)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=111895</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=111895</guid>
-            <pubDate>Thu, 06 Jul 2023 20:26:39 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202307/111895_138416_1314_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[크립토 주간 브리핑] ETF 승인 거절에도 3만달러 지킨 비트코인...알트코인은 '뚝' (테크M ─ 인베스트먼트)]]></title>
