@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 08 Jul 2023 01:44:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Jul 2023 03:05:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -392,6 +392,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202307/111984_138520_324_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[AI에 푹 빠진 게임사...게임 개발과 관리는 기본, 차량용 AI 솔루션에도 적용한다 (테크M ─ 이노베이션)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=112022</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=112022</guid>
+            <pubDate>Sat, 08 Jul 2023 11:10:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202307/112022_138608_250_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[7월7일 도로의 날, 쏘카 '7700원'에 탄다 (테크M ─ 이노베이션)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=112008</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=112008</guid>
@@ -494,14 +502,6 @@
             <pubDate>Thu, 06 Jul 2023 20:26:39 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202307/111895_138416_1314_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[헥토이노베이션, 청년들에게 '데이터 활용 노하우' 전수한다 (테크M ─ 이노베이션)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=111892</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=111892</guid>
-            <pubDate>Wed, 05 Jul 2023 10:27:00 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202307/111892_138410_2656_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[크립토 브리핑] 조금씩 하락하는 비트코인...투자심리는 연일 '위축' (테크M ─ 인베스트먼트)]]></title>
