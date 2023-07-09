@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 09 Jul 2023 12:35:02 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Jul 2023 13:25:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[게임코인TV] 하반기 블록체인 게임 핫이슈...KBW-지스타 등 다양한 블록체인 콘퍼런스(하)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=112046</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=112046</guid>
+            <pubDate>Sun, 09 Jul 2023 13:25:08 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202307/112046_138672_1344_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[게임코인TV] 하반기 블록체인 게임 핫이슈...메이플스토리와 나이트크로우(중)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=112031</link>
@@ -110,14 +118,6 @@
             <pubDate>Thu, 06 Jul 2023 19:20:44 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202306/111570_137824_4010_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 모먼티카에 넷마블 메이브(MAVE:) 합류 'NFT 선보인다']]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=111491</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=111491</guid>
-            <pubDate>Thu, 06 Jul 2023 19:20:44 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202306/111491_137663_1320_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
