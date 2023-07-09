@@ -4,9 +4,17 @@
         <title>테크M ─ 콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 09 Jul 2023 13:25:08 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Jul 2023 14:19:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방송과 이커머스의 색다른 만남...11번가, 편스토랑 우승 상품 판매한다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=112048</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=112048</guid>
+            <pubDate>Sun, 09 Jul 2023 14:15:59 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202307/112048_138674_820_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[KDL 통신] '황제의 귀환' 문호준, 광동 제압하며 포스트시즌 진출 확정]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=112044</link>
@@ -110,14 +118,6 @@
             <pubDate>Thu, 06 Jul 2023 07:18:28 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202307/111979_138517_1439_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[PC방 점유율 최고 기록 경신한 발로란트...꾸준한 업데이트로 상승세 이어간다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=111973</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=111973</guid>
-            <pubDate>Thu, 06 Jul 2023 07:18:28 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202307/111973_138510_5011_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
