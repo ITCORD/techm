@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jul 2023 22:19:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jul 2023 23:21:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -280,6 +280,22 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202307/112048_138674_820_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['스레드' 둘러싼 저커버그 vs 머스크 한판 승부...2라운드는 '광고' (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=112096</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=112096</guid>
+            <pubDate>Tue, 11 Jul 2023 08:11:00 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202307/112096_138748_5147_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[온플법은 '킬러규제', 유럽식 일괄적용 안된다..."자국 플랫폼 규제하는 아이러니" (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=112095</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=112095</guid>
+            <pubDate>Tue, 11 Jul 2023 08:10:00 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202307/112095_138746_358_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[과기정통부의 제4이통 '7전8기'...'재무건전성' 해결해줄 '믿는 구석' 대기업은 있을까 (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=112087</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=112087</guid>
@@ -374,22 +390,6 @@
             <pubDate>Mon, 10 Jul 2023 09:48:00 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202307/112050_138676_4618_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[KT-리벨리온, 콤파스 대상 기업 선정...AI 반도체 개발 '속도' (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=112028</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=112028</guid>
-            <pubDate>Sun, 09 Jul 2023 09:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202307/112028_138618_1953_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[KT, 초중학생 AI 활용 역량 평가 시험 '에이스 퓨처' 선보였다 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=112029</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=112029</guid>
-            <pubDate>Sun, 09 Jul 2023 09:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202307/112029_138619_256_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[위믹스 포인트] 데뷔 첫 승 신고한 황유민, 위믹스 포인트 16위 '껑충' (테크M ─ 이노베이션)]]></title>
