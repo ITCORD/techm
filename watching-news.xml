@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jul 2023 05:20:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jul 2023 06:27:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 웅진씽크빅, 'AI 수학프로그램' 공개]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=112084</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=112084</guid>
+            <pubDate>Mon, 10 Jul 2023 06:27:42 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202307/112084_138718_4653_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[게임코인TV] 하반기 블록체인 게임 핫이슈...KBW-지스타 등 다양한 블록체인 콘퍼런스(하)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=112046</link>
@@ -110,14 +118,6 @@
             <pubDate>Thu, 06 Jul 2023 19:20:44 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202306/111625_137906_286_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 이스트소프트, AI 휴먼 '이규리' 공개]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=111570</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=111570</guid>
-            <pubDate>Thu, 06 Jul 2023 19:20:44 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202306/111570_137824_4010_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
