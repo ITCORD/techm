@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jul 2023 01:47:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jul 2023 03:06:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -279,6 +279,22 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202307/111979_138517_1439_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[스레드, 벌써 가입자 1억명 육박…트위터 이용자 절반 따라잡았다 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=112059</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=112059</guid>
+            <pubDate>Mon, 10 Jul 2023 11:03:00 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202307/112059_138686_5753_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[토스페이 오프라인 결제 시작...CU 1만7000개 지점서 쓴다 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=112060</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=112060</guid>
+            <pubDate>Mon, 10 Jul 2023 11:01:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202307/112060_138685_5425_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[CCTV로 포착한 '웃프고 감동적인 순간'...KT, 기가아이즈 영상 공모전 성료 (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=112056</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=112056</guid>
@@ -373,22 +389,6 @@
             <pubDate>Fri, 07 Jul 2023 11:50:00 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202307/112006_138572_5036_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["특정 매체 띄우냐" 정치권 공세에…네이버, 뉴스 추천 원리 공개 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=112003</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=112003</guid>
-            <pubDate>Fri, 07 Jul 2023 11:47:00 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202307/112003_138569_4214_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성전자, 2분기 실적 '바닥' 찍고 하반기 회복 기대(종합) (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=112004</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=112004</guid>
-            <pubDate>Fri, 07 Jul 2023 11:44:00 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202307/112004_138570_4318_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[日 도쿄서 열리는 웹3 콘퍼런스 '웹X'....기시다 총리 키노트에 유가랩스도 온다 (테크M ─ 이노베이션)]]></title>
@@ -503,6 +503,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202307/111921_138440_851_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[테크M 리포트] "미소녀 출격 준비 끝" 증권가 '넥슨게임즈' 매수 외치다, 왜? (테크M ─ 인베스트먼트)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=112058</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=112058</guid>
+            <pubDate>Mon, 10 Jul 2023 10:50:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202307/112058_138684_5035_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[크립토 브리핑] 3만달러 매달린 비트코인...투자심리는 여전히 '탐욕' (테크M ─ 인베스트먼트)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=112054</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=112054</guid>
@@ -605,14 +613,6 @@
             <pubDate>Mon, 03 Jul 2023 10:22:00 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202307/111791_138254_5947_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[비트코인 현물 ETF 신청 일단 거부한 美 SEC..."현물 거래소명 표기 원해" (테크M ─ 인베스트먼트)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=111768</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=111768</guid>
-            <pubDate>Sat, 01 Jul 2023 04:23:56 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202307/111768_138185_545_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[e스포츠人] 0.004초 명승부 만든 문호준의 자신감 "목표 우승으로 수정" (테크M ─ 피플)]]></title>
