@@ -4,9 +4,25 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Jul 2023 02:55:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Jul 2023 03:24:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스타트업 온다, 대만 간다…호스피탈리티 솔루션 출시]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=112118</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=112118</guid>
+            <pubDate>Tue, 11 Jul 2023 11:52:00 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202307/112118_138773_4828_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[쟁글 어돕션] 토큰 발행 검토하는 하이브 자회사 "엔터테인먼트 팬들에 더 좋은 경험 제공 확신"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=112117</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=112117</guid>
+            <pubDate>Tue, 11 Jul 2023 11:52:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202307/112117_138772_4457_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[카카오 김범수의 브라이언임팩트, 공모 프로젝트에 1200만원씩 지원]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=112116</link>
@@ -150,22 +166,6 @@
             <pubDate>Tue, 11 Jul 2023 09:20:00 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202307/112098_138752_2011_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['스레드' 둘러싼 저커버그 vs 머스크 한판 승부...2라운드는 '광고']]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=112096</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=112096</guid>
-            <pubDate>Tue, 11 Jul 2023 08:11:00 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202307/112096_138748_5147_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[온플법은 '킬러규제', 유럽식 일괄적용 안된다..."자국 플랫폼 규제하는 아이러니"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=112095</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=112095</guid>
-            <pubDate>Tue, 11 Jul 2023 08:10:00 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202307/112095_138746_358_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
