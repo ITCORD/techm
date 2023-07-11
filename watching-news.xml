@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Jul 2023 07:20:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Jul 2023 08:25:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 카카오브레인, 3초만에 이미지 생성하는 AI 화가 '칼로 2.0' 공개]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=112125</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=112125</guid>
+            <pubDate>Tue, 11 Jul 2023 08:25:35 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202307/112125_138779_5659_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 웅진씽크빅, 'AI 수학프로그램' 공개]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=112084</link>
@@ -110,14 +118,6 @@
             <pubDate>Thu, 06 Jul 2023 19:20:44 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202306/111663_137982_1934_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] LG유플러스, AI 탑재한 '키즈토피아'에 '메타슬랩' 출시 준비까지]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=111625</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=111625</guid>
-            <pubDate>Thu, 06 Jul 2023 19:20:44 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202306/111625_137906_286_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
