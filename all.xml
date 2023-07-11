@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jul 2023 23:21:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Jul 2023 01:33:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,6 +168,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202307/112070_138701_5030_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[템터뷰] 중세 판타지 탈피한 '아레스'..."친숙함과 차별화 동시에 잡는다" (테크M ─ 콘텐츠)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=112097</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=112097</guid>
+            <pubDate>Tue, 11 Jul 2023 09:31:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202307/112097_138749_5134_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[e스포츠, 항저우 이어 2026년 아시안게임 정식 종목으로 채택 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=112093</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=112093</guid>
@@ -272,12 +280,36 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202307/112055_138681_2719_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[방송과 이커머스의 색다른 만남...11번가, 편스토랑 우승 상품 판매한다 (테크M ─ 콘텐츠)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=112048</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=112048</guid>
-            <pubDate>Sun, 09 Jul 2023 14:15:59 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202307/112048_138674_820_v150.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[소프트캠프 웹격리 솔루션으로 주목...하나손해보험 디지털 '혁신' (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=112104</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=112104</guid>
+            <pubDate>Tue, 11 Jul 2023 10:23:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202307/112104_138758_2330_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[지니언스, 광주광역시 EDR 구축 사업 수주 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=112101</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=112101</guid>
+            <pubDate>Tue, 11 Jul 2023 09:58:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202307/112101_138756_581_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["LG유플러스 매장 방문하고 아프리카 아이들에게 깨끗한 물을 전해주세요" (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=112099</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=112099</guid>
+            <pubDate>Tue, 11 Jul 2023 09:40:00 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202307/112099_138753_3917_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SK텔레콤, '이동통신 모세혈관' 프론트홀 기술 진화 선도...광통신망 품질 개선 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=112098</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=112098</guid>
+            <pubDate>Tue, 11 Jul 2023 09:20:00 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202307/112098_138752_2011_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['스레드' 둘러싼 저커버그 vs 머스크 한판 승부...2라운드는 '광고' (테크M ─ 인프라)]]></title>
@@ -358,38 +390,6 @@
             <pubDate>Mon, 10 Jul 2023 10:16:00 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202307/112053_138679_1032_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LG전자, 미국에서도 'LG 씽큐' 통한 에너지 절감 서비스 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=112049</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=112049</guid>
-            <pubDate>Mon, 10 Jul 2023 10:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202307/112049_138675_3911_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[파수, 보안 기능 강화한 문서 플랫폼 '랩소디 5.8' 출시 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=112052</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=112052</guid>
-            <pubDate>Mon, 10 Jul 2023 09:59:00 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202307/112052_138678_595_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[네이버클라우드, AI 양재 허브와 스타트업 경쟁력 강화 '맞손' (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=112051</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=112051</guid>
-            <pubDate>Mon, 10 Jul 2023 09:55:00 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202307/112051_138677_5432_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SK㈜ C&C, 컨설팅 자회사 '애커튼 파트너스' 출범..."디지털 코치 역할 강화" (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=112050</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=112050</guid>
-            <pubDate>Mon, 10 Jul 2023 09:48:00 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202307/112050_138676_4618_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[위믹스 포인트] 데뷔 첫 승 신고한 황유민, 위믹스 포인트 16위 '껑충' (테크M ─ 이노베이션)]]></title>
@@ -504,6 +504,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202307/111980_138518_3544_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[크립토 브리핑] 박스권에 갇힌 비트코인...3주째 4000만원 등락 (테크M ─ 인베스트먼트)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=112100</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=112100</guid>
+            <pubDate>Tue, 11 Jul 2023 10:15:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202307/112100_138754_5148_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA["차세대 디지털뱅크" 업비트, 일거래액 2조 회복 신호탄...금융권 경쟁 본격화 (테크M ─ 인베스트먼트)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=112089</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=112089</guid>
@@ -608,12 +616,12 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202307/111843_138331_4851_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['에이티넘 테크데이' 성료..."신규펀드 결성해 딥테크 지원" (테크M ─ 인베스트먼트)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=111805</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=111805</guid>
-            <pubDate>Mon, 03 Jul 2023 10:44:00 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202307/111805_138270_4136_v150.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[쏘카, '포켓몬빵' 열풍 이끈 브랜딩 전문가 조준형 CMO 영입 (테크M ─ 피플)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=112102</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=112102</guid>
+            <pubDate>Tue, 11 Jul 2023 10:04:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202307/112102_138757_323_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[안정은 11번가 사장 "오픈마켓 사업 손익분기점 달성...2025년 흑자 전환" (테크M ─ 피플)]]></title>
@@ -717,14 +725,6 @@
             <pubDate>Thu, 06 Jul 2023 20:27:12 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202306/111762_138162_4923_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[IBM, 이은주 한국IBM 신임 사장 임명 (테크M ─ 피플)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=111754</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=111754</guid>
-            <pubDate>Thu, 06 Jul 2023 20:27:12 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202306/111754_138152_2956_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[현대백화점, 국내 첫 디즈니 스토어 매장 열었다 (테크M ─ 라이프)]]></title>
