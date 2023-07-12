@@ -4,9 +4,25 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Jul 2023 03:03:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jul 2023 03:31:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[해시드, 실전 블록체인 프로젝트 '프로토콜 캠프' 5기 모집]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=112153</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=112153</guid>
+            <pubDate>Wed, 12 Jul 2023 11:05:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202307/112153_138841_530_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[토스, 제2회 '토스 버그 바운티 챌린지' 열었다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=112149</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=112149</guid>
+            <pubDate>Wed, 12 Jul 2023 10:59:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202307/112149_138837_5933_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[야놀자클라우드, 동유럽 간다...尹 폴란드 경제사절단 동행]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=112145</link>
@@ -102,22 +118,6 @@
             <pubDate>Tue, 11 Jul 2023 09:40:00 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202307/112099_138753_3917_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SK텔레콤, '이동통신 모세혈관' 프론트홀 기술 진화 선도...광통신망 품질 개선]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=112098</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=112098</guid>
-            <pubDate>Tue, 11 Jul 2023 09:20:00 GMT</pubDate>
-            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202307/112098_138752_2011_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['스레드' 둘러싼 저커버그 vs 머스크 한판 승부...2라운드는 '광고']]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=112096</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=112096</guid>
-            <pubDate>Tue, 11 Jul 2023 08:11:00 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202307/112096_138819_1959_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
