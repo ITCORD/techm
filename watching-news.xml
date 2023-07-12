@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Jul 2023 08:30:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jul 2023 09:22:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 그라운드X, NFT 에어드롭 이벤트 실시 '롯데월드X박기웅 협업']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=112172</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=112172</guid>
+            <pubDate>Wed, 12 Jul 2023 09:22:26 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202307/112172_138860_3627_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 카카오브레인, 3초만에 이미지 생성하는 AI 화가 '칼로 2.0' 공개]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=112125</link>
@@ -110,14 +118,6 @@
             <pubDate>Thu, 06 Jul 2023 19:20:44 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202306/111700_138046_3945_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 업비트, 이더리움 기반 NFT 거래지원 시작 '빗썸, 코빗도 이용자 유치에 집중']]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=111663</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=111663</guid>
-            <pubDate>Thu, 06 Jul 2023 19:20:44 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202306/111663_137982_1934_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
