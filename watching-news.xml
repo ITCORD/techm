@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Jul 2023 07:19:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Jul 2023 08:28:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] LG전자, 3대 신성장동력에 적극 투자 '스마트 라이프 솔루션 기업 '도약']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=112222</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=112222</guid>
+            <pubDate>Thu, 13 Jul 2023 08:28:40 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202307/112222_138955_543_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 그라운드X, NFT 에어드롭 이벤트 실시 '롯데월드X박기웅 협업']]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=112172</link>
@@ -110,14 +118,6 @@
             <pubDate>Fri, 30 Jun 2023 11:05:00 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202306/111728_138092_3816_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 카카오헬스케어, 개인 건강관리 '메타버스 플랫폼' 구축]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=111700</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=111700</guid>
-            <pubDate>Thu, 06 Jul 2023 19:20:44 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202306/111700_138046_3945_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
