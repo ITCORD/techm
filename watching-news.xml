@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Jul 2023 05:21:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jul 2023 06:26:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 네이버웹툰, AI기술 툰레이더 '불법유통 늦춘다']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=112243</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=112243</guid>
+            <pubDate>Fri, 14 Jul 2023 06:26:08 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202307/112243_138998_4516_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] LG전자, 3대 신성장동력에 적극 투자 '스마트 라이프 솔루션 기업 '도약']]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=112222</link>
@@ -110,14 +118,6 @@
             <pubDate>Thu, 06 Jul 2023 19:20:44 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202306/111743_138115_4425_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[게임코인TV] 위메이드-네오위즈-컴투스...블록체인 게임이 일본에 가려는 이유는?(상)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=111728</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=111728</guid>
-            <pubDate>Fri, 30 Jun 2023 11:05:00 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202306/111728_138092_3816_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
