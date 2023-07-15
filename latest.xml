@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 15 Jul 2023 11:18:56 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Jul 2023 12:37:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[KDL 통신] 샌드박스, 가장 먼저 결승 진출...락스-광동, PO에서 맞대결]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=112257</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=112257</guid>
+            <pubDate>Sat, 15 Jul 2023 12:31:41 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202307/112257_139045_2636_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[게임 속 선율] ⑨발소리와 총소리를 한땀한땀...글로벌 게임사 크래프톤, 사운드 디테일을 고민하다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=112256</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 14 Jul 2023 00:14:00 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202307/112236_138990_5753_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['배민' 우아한형제들 "사장님, 지역 대표 맛집 만들어드려요"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=112235</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=112235</guid>
-            <pubDate>Fri, 14 Jul 2023 00:14:00 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202307/112235_138989_5319_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
