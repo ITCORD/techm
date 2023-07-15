@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 15 Jul 2023 17:20:02 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Jul 2023 18:24:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,6 +168,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202307/112238_138992_2143_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[달라진 e스포츠 위상, 롤드컵 개최 위해 한국관광공사 전면에 나선다 (테크M ─ 콘텐츠)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=112260</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=112260</guid>
+            <pubDate>Sun, 16 Jul 2023 01:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202307/112260_139049_5931_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[KDL 통신] 샌드박스, 가장 먼저 결승 진출...락스-광동, PO에서 맞대결 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=112257</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=112257</guid>
@@ -270,14 +278,6 @@
             <pubDate>Thu, 13 Jul 2023 10:08:00 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202307/112189_138897_5754_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['설민석의 세계사 대모험' 시즌2는 키즈 전용 OTT '아이들나라'에서만 본다 (테크M ─ 콘텐츠)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=112182</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=112182</guid>
-            <pubDate>Wed, 12 Jul 2023 09:17:59 GMT</pubDate>
-            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202307/112182_138882_2413_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[LG유플러스 20대 전용브랜드 '유쓰', 한국 소비자대상-국가서비스대상 2관왕 (테크M ─ 인프라)]]></title>
@@ -643,7 +643,7 @@
             <title><![CDATA[[부고] 홍정란(현대백화점 전무)씨 본인상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Sat, 15 Jul 2023 17:17:39 GMT</pubDate>
+            <pubDate>Sat, 15 Jul 2023 18:22:27 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
         </item>
         <item>
