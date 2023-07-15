@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 15 Jul 2023 03:08:15 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Jul 2023 04:26:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[크립토 주간 브리핑] 약식판결에 리플 50% '껑충'…비트코인은 3만달러 '위태']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=112251</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=112251</guid>
+            <pubDate>Sat, 15 Jul 2023 04:19:58 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202307/112251_139026_858_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[폴리곤, 새로운 토큰 '폴(POL)' 공개...'매틱(MATIC)' 대체한다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=112249</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 14 Jul 2023 10:00:00 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202307/112228_139019_1021_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[리플, 사실상 승리...위믹스 등 토종코인도 증권성 이슈 벗나]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=112230</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=112230</guid>
-            <pubDate>Fri, 14 Jul 2023 07:17:00 GMT</pubDate>
-            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202307/112230_138981_1659_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
