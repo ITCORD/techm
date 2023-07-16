@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 16 Jul 2023 12:39:13 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Jul 2023 13:26:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,6 +168,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202307/112075_139016_97_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[KDL 통신] 광동, 락스에 복수하며 결승 진출...이재혁-'닐', 개인전 결승 합류 (테크M ─ 콘텐츠)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=112266</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=112266</guid>
+            <pubDate>Sun, 16 Jul 2023 12:31:58 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202307/112266_139070_593_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[같이한겜] 미래로 간 MMORPG '아레스'...화려한 그래픽과 전투, '슈트 액션' 할만하네 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=112264</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=112264</guid>
@@ -270,14 +278,6 @@
             <pubDate>Thu, 13 Jul 2023 10:51:00 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202307/112191_138904_3113_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[리디, '옷소매' 제작사와 '만 개의 등을 너에게 바친다' 드라마화 (테크M ─ 콘텐츠)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=112190</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=112190</guid>
-            <pubDate>Thu, 13 Jul 2023 10:08:00 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202307/112190_138898_245_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[삼성전기, 자율주행 전기차용 파워인덕터 양산…'제2의 MLCC'로 키운다 (테크M ─ 인프라)]]></title>
@@ -643,7 +643,7 @@
             <title><![CDATA[[부고] 홍정란(현대백화점 전무)씨 본인상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Sun, 16 Jul 2023 09:18:58 GMT</pubDate>
+            <pubDate>Sun, 16 Jul 2023 13:23:50 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
         </item>
         <item>
