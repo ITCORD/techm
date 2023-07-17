@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Jul 2023 01:50:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Jul 2023 03:08:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,6 +168,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202307/112262_139054_445_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[LCK 브리핑] 연승 이어간 젠지-KT...2주째 결장한 '페이커, T1 위기는 진행형 (테크M ─ 콘텐츠)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=112283</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=112283</guid>
+            <pubDate>Mon, 17 Jul 2023 11:19:00 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202307/112283_139092_1623_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[유니티, 10월 'APAC 인더스트리 서밋 2023' 개최 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=112281</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=112281</guid>
@@ -270,14 +278,6 @@
             <pubDate>Thu, 13 Jul 2023 07:16:07 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202307/112219_138953_5815_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[파라메타, 블록체인 기술로 경북형 마이데이터 플랫폼 고도화한다 (테크M ─ 콘텐츠)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=112217</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=112217</guid>
-            <pubDate>Thu, 13 Jul 2023 07:16:07 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202307/112217_138952_5656_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2Q 패션앱 이용자 대거 감소…무신사만 두자릿수 이상 나홀로 성장 (테크M ─ 인프라)]]></title>
@@ -392,6 +392,30 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202307/112241_138996_5337_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[테크M 리포트] "우린 렌터카와 달라"…'모빌리티 플랫폼' 쏘카, 하반기 외형 성장-이익 개선 기대 (테크M ─ 이노베이션)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=112286</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=112286</guid>
+            <pubDate>Mon, 17 Jul 2023 00:02:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202307/112286_139102_5733_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[쏘카, 편도 서비스 고도화…운행 중에도 반납 장소 바꿀 수 있다 (테크M ─ 이노베이션)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=112285</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=112285</guid>
+            <pubDate>Mon, 17 Jul 2023 11:26:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202307/112285_139095_2543_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['배민' 우아한청년들, 매달 15일 '안전의 날' 지정…사고예방 안내 (테크M ─ 이노베이션)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=112282</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=112282</guid>
+            <pubDate>Mon, 17 Jul 2023 11:05:00 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202307/112282_139090_5013_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[오늘의집, '진단 서비스' 띄웠다…안전한 인테리어 계약 지원 (테크M ─ 이노베이션)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=112280</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=112280</guid>
@@ -478,30 +502,6 @@
             <pubDate>Thu, 13 Jul 2023 10:20:00 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202307/112193_138901_1922_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['콴다' 매스프레소, 구글·과기정통부 'AI 축제' 무대 오른다 (테크M ─ 이노베이션)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=112170</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=112170</guid>
-            <pubDate>Wed, 12 Jul 2023 06:22:30 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202307/112170_138859_207_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[네오핀, 이더리움 유동성 스테이킹 상품 내놨다 (테크M ─ 이노베이션)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=112147</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=112147</guid>
-            <pubDate>Wed, 12 Jul 2023 10:57:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202307/112147_138835_5719_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['배민라이더스쿨', 이륜차 배달업계 안전 우수 사례 선정됐다 (테크M ─ 이노베이션)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=112144</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=112144</guid>
-            <pubDate>Wed, 12 Jul 2023 10:32:00 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202307/112144_138832_2932_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[크립토 브리핑] 엇갈리는 해석 속 요동치는 리플...비트코인은 3만달러 붕괴 위협 (테크M ─ 인베스트먼트)]]></title>
@@ -643,7 +643,7 @@
             <title><![CDATA[[부고] 홍정란(현대백화점 전무)씨 본인상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Sun, 16 Jul 2023 23:17:42 GMT</pubDate>
+            <pubDate>Mon, 17 Jul 2023 03:07:39 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
         </item>
         <item>
