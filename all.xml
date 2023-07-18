@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Jul 2023 11:18:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jul 2023 12:36:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -280,6 +280,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202307/112288_139100_4120_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[네이버, 집중호우 피해복구 성금 5억 기부...기술로 재난 예방 앞장 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=112347</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=112347</guid>
+            <pubDate>Tue, 18 Jul 2023 10:17:52 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202307/112347_139217_254_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[구글코리아, AI 앱생태계 위해 머리 맞댔다..."책임감 있는 혁신 필요" (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=112342</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=112342</guid>
@@ -309,7 +317,7 @@
             <guid>https://www.techm.kr/news/articleView.html?idxno=112326</guid>
             <pubDate>Tue, 18 Jul 2023 00:06:00 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202307/112326_139172_36_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202307/112326_139223_2858_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[교육 현장엔 웨일…네이버클라우드, 대교-엔에스데블과 맞손 (테크M ─ 인프라)]]></title>
@@ -333,7 +341,7 @@
             <guid>https://www.techm.kr/news/articleView.html?idxno=112317</guid>
             <pubDate>Tue, 18 Jul 2023 10:19:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202307/112317_139163_191_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202307/112317_139224_2941_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["폴더블 혁신, 직접 체험하라"…삼성전자 '갤럭시 익스피리언스 스페이스' 글로벌 오픈 (테크M ─ 인프라)]]></title>
@@ -382,14 +390,6 @@
             <pubDate>Mon, 17 Jul 2023 08:23:04 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202307/112304_139130_2614_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[엘리펙스 '메타버스 반려동물 장례식장' 제휴 상품 출시 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=112302</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=112302</guid>
-            <pubDate>Mon, 17 Jul 2023 08:23:04 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202307/112302_139129_181_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[공유창고 '다락', 인테리어 시장 도전...세컨스페이스 띄웠다 (테크M ─ 이노베이션)]]></title>
@@ -507,7 +507,7 @@
             <title><![CDATA[비덴트 "강종현씨 265억원 배임 혐의"...감사 거절로 상장폐지 사유 발생 (테크M ─ 인베스트먼트)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=112350</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=112350</guid>
-            <pubDate>Tue, 18 Jul 2023 11:16:37 GMT</pubDate>
+            <pubDate>Tue, 18 Jul 2023 11:14:08 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202307/112350_139230_1932_v150.jpg" length="0" type="image/jpg"/>
         </item>
@@ -675,7 +675,7 @@
             <title><![CDATA[[부고] 홍정란(현대백화점 전무)씨 본인상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Tue, 18 Jul 2023 10:21:00 GMT</pubDate>
+            <pubDate>Tue, 18 Jul 2023 12:34:32 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
         </item>
         <item>
