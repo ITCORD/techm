@@ -4,9 +4,17 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Jul 2023 01:58:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jul 2023 03:04:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[교육 현장엔 웨일…네이버클라우드, 대교-엔에스데블과 맞손]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=112322</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=112322</guid>
+            <pubDate>Tue, 18 Jul 2023 11:41:00 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202307/112322_139168_3825_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[시중은행도, 인뱅도 외면한 중저신용...카카오뱅크 CSS 고도화로 나홀로 '상생']]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=112319</link>
@@ -110,14 +118,6 @@
             <pubDate>Mon, 17 Jul 2023 05:19:08 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202307/112293_139145_2847_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[해킹 시작은 '주문·배송' 피싱 메일…추가 공격 위한 악성코드 '기승']]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=112291</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=112291</guid>
-            <pubDate>Mon, 17 Jul 2023 00:24:00 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202307/112291_139104_2237_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
