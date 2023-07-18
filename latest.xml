@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Jul 2023 22:18:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jul 2023 23:22:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[AI 조수 달린 '마이크로소프트 365' 월 30달러…MS 주가 사상 최고치 경신]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=112351</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=112351</guid>
+            <pubDate>Wed, 19 Jul 2023 08:02:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202307/112351_139231_590_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[비덴트 "강종현씨 265억원 배임 혐의"...감사 거절로 상장폐지 사유 발생]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=112350</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 18 Jul 2023 07:16:23 GMT</pubDate>
             <content:encoded><![CDATA[김현기 대표]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202307/112331_139226_3152_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[글로벌] 일론 머스크 "트위터 광고 수입 50% 급감...현금 흐름도 마이너스"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=112330</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=112330</guid>
-            <pubDate>Tue, 18 Jul 2023 07:16:23 GMT</pubDate>
-            <content:encoded><![CDATA[김현기 대표]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202307/112330_139227_3223_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

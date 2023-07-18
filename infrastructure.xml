@@ -4,9 +4,17 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Jul 2023 22:18:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jul 2023 23:22:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[AI 조수 달린 '마이크로소프트 365' 월 30달러…MS 주가 사상 최고치 경신]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=112351</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=112351</guid>
+            <pubDate>Wed, 19 Jul 2023 08:02:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202307/112351_139231_590_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[네이버, 집중호우 피해복구 성금 5억 기부...기술로 재난 예방 앞장]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=112347</link>
@@ -110,14 +118,6 @@
             <pubDate>Mon, 17 Jul 2023 08:24:39 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202307/112305_139131_2659_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[카카오뱅크, 개발자 위한 KWDC2023에 플래티넘 후원사 참여]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=112304</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=112304</guid>
-            <pubDate>Mon, 17 Jul 2023 08:24:39 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202307/112304_139130_2614_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
