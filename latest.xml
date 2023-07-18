@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Jul 2023 03:04:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jul 2023 03:31:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[IBM 란도리 "사이버 보안, 공격자 관점에서 바라보고 선제 대응하라"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=112326</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=112326</guid>
+            <pubDate>Tue, 18 Jul 2023 00:06:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202307/112326_139172_36_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[네이버, 서울대병원에 300억원 기부…디지털 바이오 인재 양성]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=112325</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 17 Jul 2023 08:23:04 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202307/112306_139140_3735_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[카카오뱅크, 집중호우 피해 복구 1억 기부]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=112305</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=112305</guid>
-            <pubDate>Mon, 17 Jul 2023 08:23:04 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202307/112305_139131_2659_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
