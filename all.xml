@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Jul 2023 22:21:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jul 2023 23:21:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -392,6 +392,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202307/112363_139246_3121_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[K-스타트업의 '반란'...업스테이지, 페이스북 '라마2' 누르고 LLM 성능 평가 1위 석권 (테크M ─ 이노베이션)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=112402</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=112402</guid>
+            <pubDate>Thu, 20 Jul 2023 08:02:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202307/112402_139317_16_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[넷마블 마브렉스, MBX 6.7억개 소각하면 가격 오를까?...예전 '제로 리저브' 가격 변화 어땠나 (테크M ─ 이노베이션)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=112383</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=112383</guid>
@@ -494,14 +502,6 @@
             <pubDate>Mon, 17 Jul 2023 00:29:00 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202307/112287_139096_3034_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[테크M 리포트] "우린 렌터카와 달라"…'모빌리티 플랫폼' 쏘카, 하반기 외형 성장-이익 개선 기대 (테크M ─ 이노베이션)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=112286</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=112286</guid>
-            <pubDate>Mon, 17 Jul 2023 00:02:00 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202307/112286_139102_5733_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[인도 법정화폐 '루피'로 가상자산 위믹스 거래한다...'코인DCX' 상장 (테크M ─ 인베스트먼트)]]></title>
@@ -675,7 +675,7 @@
             <title><![CDATA[[부고] 홍정란(현대백화점 전무)씨 본인상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Wed, 19 Jul 2023 18:22:58 GMT</pubDate>
+            <pubDate>Wed, 19 Jul 2023 23:18:33 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
         </item>
         <item>
