@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Jul 2023 08:24:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jul 2023 09:22:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 라온시큐어, '옴니원 NFT 마켓플레이스'에 개인간 거래 서비스 도입]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=112386</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=112386</guid>
+            <pubDate>Wed, 19 Jul 2023 09:22:06 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202307/112386_139279_438_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 수퍼톤X라이브톤, AI 음향 기술위해 협업 'K-콘텐츠 키운다']]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=112339</link>
@@ -110,14 +118,6 @@
             <pubDate>Thu, 06 Jul 2023 19:20:44 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202307/111990_138529_2012_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 11번가, 프로모션 디자인에 AI 활용 '이커머스 업계도 AI에 빠지다']]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=111917</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=111917</guid>
-            <pubDate>Thu, 06 Jul 2023 19:20:44 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202307/111917_138427_4430_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
