@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jul 2023 07:19:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jul 2023 08:25:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -392,6 +392,22 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202307/112372_139257_163_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[NIGT '그리너스 리그 2030' 출범…글로벌 그린 유니콘 키운다 (테크M ─ 이노베이션)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=112435</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=112435</guid>
+            <pubDate>Thu, 20 Jul 2023 08:22:49 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202307/112435_139365_4420_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[KB국민은행, 8월말까지 'KB와 함께하는 쿨한 썸머 이벤트' 진행 (테크M ─ 이노베이션)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=112431</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=112431</guid>
+            <pubDate>Thu, 20 Jul 2023 06:21:20 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202307/112431_139354_4927_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[아임웹, '고객 행동 관리' 베타 출시…데이터 마케팅 지원 (테크M ─ 이노베이션)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=112420</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=112420</guid>
@@ -486,22 +502,6 @@
             <pubDate>Tue, 18 Jul 2023 11:51:00 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202307/112325_139171_490_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국 대표 블록체인 콘퍼런스 'KBW 2023'에 써클 창업자 '제레미 알레어' 온다 (테크M ─ 이노베이션)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=112324</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=112324</guid>
-            <pubDate>Tue, 18 Jul 2023 11:46:00 GMT</pubDate>
-            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202307/112324_139170_4643_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[주정차 단속 알림앱 '휘슬' 속초시 서비스 시작..."휴가철 필수 앱" (테크M ─ 이노베이션)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=112315</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=112315</guid>
-            <pubDate>Tue, 18 Jul 2023 10:15:00 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202307/112315_139161_151_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[크립토 브리핑] 우상향 그래프 그리는 리플...3일 연속 상승 (테크M ─ 인베스트먼트)]]></title>
@@ -616,6 +616,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202307/112231_138984_1016_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[LG, 전국재해구호협회에 수해 복구 성금 20억원 기탁 (테크M ─ 피플)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=112437</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=112437</guid>
+            <pubDate>Thu, 20 Jul 2023 08:23:20 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202307/112437_139374_5230_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[삼성, 집중호우 피해 극복에 30억원 지원 (테크M ─ 피플)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=112422</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=112422</guid>
@@ -683,7 +691,7 @@
             <title><![CDATA[[부고] 홍정란(현대백화점 전무)씨 본인상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Thu, 20 Jul 2023 05:18:14 GMT</pubDate>
+            <pubDate>Thu, 20 Jul 2023 08:23:20 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
         </item>
         <item>
@@ -717,13 +725,6 @@
             <pubDate>Sun, 09 Jul 2023 14:17:49 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202307/112047_138673_4546_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[부고] 차인혁(CJ올리브네트웍스 대표이사) 부친상 (테크M ─ 피플)]]></title>
-            <link>https://ITCORD.github.io/techm/all.xml</link>
-            <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Sun, 09 Jul 2023 08:26:00 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[이마트 킨텍스점, 리뉴얼 마무리...'더 타운몰 킨텍스점'으로 재단장 (테크M ─ 라이프)]]></title>
