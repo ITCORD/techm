@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jul 2023 04:23:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jul 2023 05:19:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,6 +168,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202307/112407_139321_5851_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[테크M 이슈] 제2의 배그-크파 꿈꾸는 로스트아크...中 공략 나섰다 (테크M ─ 콘텐츠)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=112428</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=112428</guid>
+            <pubDate>Thu, 20 Jul 2023 05:16:10 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202307/112428_139351_2441_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[삼성전자, 워너브라더스 손잡고 8K 콘텐츠 확산 나선다 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=112424</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=112424</guid>
@@ -270,14 +278,6 @@
             <pubDate>Wed, 19 Jul 2023 08:19:37 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202307/112389_139302_250_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["AR 넘어 수면 시장까지" 포켓몬, 포켓몬슬립 출시 내놨다 (테크M ─ 콘텐츠)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=112379</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=112379</guid>
-            <pubDate>Wed, 19 Jul 2023 05:15:19 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202307/112379_139267_1420_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[과기정통부, 28㎓ 대역 주파수 할당 공고...최저경쟁가격 742억원 (테크M ─ 인프라)]]></title>
@@ -683,7 +683,7 @@
             <title><![CDATA[[부고] 홍정란(현대백화점 전무)씨 본인상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Thu, 20 Jul 2023 03:18:12 GMT</pubDate>
+            <pubDate>Thu, 20 Jul 2023 05:18:14 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
         </item>
         <item>

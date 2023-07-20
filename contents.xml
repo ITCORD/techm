@@ -4,9 +4,17 @@
         <title>테크M ─ 콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jul 2023 04:23:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jul 2023 05:19:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[테크M 이슈] 제2의 배그-크파 꿈꾸는 로스트아크...中 공략 나섰다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=112428</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=112428</guid>
+            <pubDate>Thu, 20 Jul 2023 05:16:10 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202307/112428_139351_2441_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[삼성전자, 워너브라더스 손잡고 8K 콘텐츠 확산 나선다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=112424</link>
@@ -110,14 +118,6 @@
             <pubDate>Wed, 19 Jul 2023 09:16:52 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202307/112389_139302_250_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["AR 넘어 수면 시장까지" 포켓몬, 포켓몬슬립 출시 내놨다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=112379</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=112379</guid>
-            <pubDate>Wed, 19 Jul 2023 07:15:26 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202307/112379_139267_1420_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
