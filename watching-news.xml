@@ -4,9 +4,25 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jul 2023 06:26:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jul 2023 07:19:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 컴투버스, 스페이스(SPAXE) 런칭 '자유로운 메타 커뮤니티 공간 나온다']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=112433</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=112433</guid>
+            <pubDate>Thu, 20 Jul 2023 07:19:16 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202307/112433_139356_91_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[게임코인TV] 미국 법원 덕분에 1000원 찍은 리플..."리플은 증권인거야, 아닌거야?"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=112401</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=112401</guid>
+            <pubDate>Thu, 20 Jul 2023 07:19:16 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202307/112401_139316_4644_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 라온시큐어, '옴니원 NFT 마켓플레이스'에 개인간 거래 서비스 도입]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=112386</link>
@@ -102,22 +118,6 @@
             <pubDate>Fri, 07 Jul 2023 08:27:29 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202307/112017_138586_2822_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[게임코인TV] 하반기 블록체인 게임 핫이슈...컴투스의 크로니클(상)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=111982</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=111982</guid>
-            <pubDate>Thu, 06 Jul 2023 19:20:44 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202307/111982_138524_1426_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] AI가 K팝 산업에 녹아들다 ' 아티스트 제작, 작곡, 연주, 노래까지']]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=111990</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=111990</guid>
-            <pubDate>Thu, 06 Jul 2023 19:20:44 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202307/111990_138529_2012_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
