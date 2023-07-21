@@ -4,9 +4,25 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Jul 2023 05:18:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Jul 2023 06:25:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이탈리아 밀라노 두오모서도 카카오페이 쓴다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=112463</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=112463</guid>
+            <pubDate>Fri, 21 Jul 2023 06:22:07 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202307/112463_139417_112_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[FreeView] MZ세대는 왜 '갤럭시'를 외면하나]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=112462</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=112462</guid>
+            <pubDate>Fri, 21 Jul 2023 06:22:07 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202307/112462_139412_741_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[네이버표 '초거대 AI' 8월 본격 출격…생태계-B2B 전략이 포인트]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=112458</link>
@@ -102,22 +118,6 @@
             <pubDate>Thu, 20 Jul 2023 09:32:00 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202307/112404_139319_3151_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ESG경영 선도하는 SK텔레콤, 준법경영 국제표준 'ISO 37301' 인증 획득]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=112403</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=112403</guid>
-            <pubDate>Thu, 20 Jul 2023 09:27:00 GMT</pubDate>
-            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202307/112403_139318_2730_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성SDS '데이터전문기관' 선정…"금융·비금융 가명정보 결합해 서비스 창출"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=112390</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=112390</guid>
-            <pubDate>Wed, 19 Jul 2023 08:20:59 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202307/112390_139296_2656_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
