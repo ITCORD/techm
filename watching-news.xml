@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Jul 2023 06:25:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Jul 2023 07:20:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] LG유플러스, 연세대 전용 메타버스 '버추얼 캠퍼스' 9월 오픈]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=112471</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=112471</guid>
+            <pubDate>Fri, 21 Jul 2023 07:20:01 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202307/112471_139438_226_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[게임코인TV] '리플'의 미국 법원 판단이 미치는 영향 완벽 분석...아직 끝난게 아니다?]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=112444</link>
@@ -110,14 +118,6 @@
             <pubDate>Sun, 09 Jul 2023 13:25:08 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202307/112046_138672_1344_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[게임코인TV] 하반기 블록체인 게임 핫이슈...메이플스토리와 나이트크로우(중)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=112031</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=112031</guid>
-            <pubDate>Fri, 07 Jul 2023 13:27:25 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202307/112031_138621_3153_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
