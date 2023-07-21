@@ -4,9 +4,17 @@
         <title>테크M ─ 콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Jul 2023 04:25:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Jul 2023 05:18:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뉴진스 'ETA' 뮤직비디오, 애플 '아이폰 14 프로' 스마트폰으로 찍었다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=112459</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=112459</guid>
+            <pubDate>Fri, 21 Jul 2023 05:15:10 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202307/112459_139409_1637_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[디아블로4, 첫번째 시즌 '악의 종자 시즌' 시작]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=112457</link>
@@ -110,14 +118,6 @@
             <pubDate>Thu, 20 Jul 2023 05:16:10 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202307/112428_139381_597_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성전자, 워너브라더스 손잡고 8K 콘텐츠 확산 나선다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=112424</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=112424</guid>
-            <pubDate>Thu, 20 Jul 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202307/112424_139345_5840_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
