@@ -4,9 +4,25 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Jul 2023 07:20:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Jul 2023 08:23:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성전자, '갤럭시 언팩' 서울광장 야외행사 취소]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=112477</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=112477</guid>
+            <pubDate>Fri, 21 Jul 2023 08:21:18 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202307/112477_139458_1959_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[세계 스마트폰 판매량 8분기 연속 감소…'프리미엄'만 유일하게 성장]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=112476</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=112476</guid>
+            <pubDate>Fri, 21 Jul 2023 08:21:18 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202307/112476_139455_925_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이탈리아 밀라노 두오모서도 카카오페이 쓴다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=112463</link>
@@ -102,22 +118,6 @@
             <pubDate>Thu, 20 Jul 2023 10:37:00 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202307/112413_139330_318_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[빅테크 '거대 언어 모델' 전쟁 속…韓 기업들 "기술력으로 차별화"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=112412</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=112412</guid>
-            <pubDate>Thu, 20 Jul 2023 10:33:00 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202307/112412_139383_5942_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전기차 충전 인프라 확산 나선 LG유플러스, 포커스미디어코리아와 '맞손']]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=112404</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=112404</guid>
-            <pubDate>Thu, 20 Jul 2023 09:32:00 GMT</pubDate>
-            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202307/112404_139319_3151_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
