@@ -4,9 +4,17 @@
         <title>테크M ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 22 Jul 2023 23:17:48 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Jul 2023 01:28:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성전자, 89형 마이크로 LED 국내 출시…출고가 1억3000만원]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=112489</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=112489</guid>
+            <pubDate>Sun, 23 Jul 2023 08:48:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202307/112489_139496_4724_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[블랭크 영차컴퍼니, 롯데월드 IP 편집샵 '부스럭' 열었다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=112472</link>
@@ -110,14 +118,6 @@
             <pubDate>Mon, 17 Jul 2023 00:30:00 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202307/112284_139097_360_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[토스뱅크, 첫 대규모 공개 채용 실시...모집 분야 총 10개 직군]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=112279</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=112279</guid>
-            <pubDate>Mon, 17 Jul 2023 10:36:00 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202307/112279_139087_2118_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
