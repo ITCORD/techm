@@ -4,9 +4,17 @@
         <title>테크M ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Jul 2023 03:20:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Jul 2023 04:23:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[책] CEO가 되고 싶은 당신을 위한 필독서...카카오 남궁훈의 'CEO라는 직업']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=112519</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=112519</guid>
+            <pubDate>Mon, 24 Jul 2023 04:21:53 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202307/112519_139550_049_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['커머스 전문가' 문제연-서희선 영입한 두나무...실물자산에 블록체인 더한다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=112505</link>
@@ -110,14 +118,6 @@
             <pubDate>Fri, 14 Jul 2023 08:24:44 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202307/112075_139016_97_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[프라시아전기 이어 민트로켓까지...힘 받는 넥슨 김대훤, 차세대 리더로 눈도장]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=112215</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=112215</guid>
-            <pubDate>Thu, 13 Jul 2023 07:17:36 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202307/112215_138946_2233_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
