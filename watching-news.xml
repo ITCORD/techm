@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jul 2023 07:20:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jul 2023 08:23:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 디오비스튜디오, 버추얼 휴먼에 투자 '베트남, 인도 손잡고 글로벌 노린다']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=112612</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=112612</guid>
+            <pubDate>Wed, 26 Jul 2023 08:23:09 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202307/112612_139725_203_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 네이버, 초대규모 AI 생태계 확장 'B2B 시장 공략']]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=112530</link>
@@ -110,14 +118,6 @@
             <pubDate>Tue, 11 Jul 2023 08:25:35 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202307/112125_138779_5659_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 웅진씽크빅, 'AI 수학프로그램' 공개]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=112084</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=112084</guid>
-            <pubDate>Mon, 10 Jul 2023 06:27:42 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202307/112084_138718_4653_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
