@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jul 2023 11:16:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jul 2023 12:34:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[게임코인TV] 웹X 2023 부스 엿보기...앱토스부터 아스타까지(하) (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=112667</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=112667</guid>
+            <pubDate>Thu, 27 Jul 2023 12:31:01 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202307/112667_139830_4725_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[KT CEO 후보, 최종 3인 압축...김영섭-박윤영-차상균 (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=112666</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=112666</guid>
+            <pubDate>Thu, 27 Jul 2023 12:31:01 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202307/112666_139829_182_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[디오비스튜디오 버추얼 휴먼 '아일라', 제주드림 홍보대사 됐다 (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=112665</link>
@@ -152,22 +168,6 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202307/112647_139783_2640_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['찾아보는 광고'...MZ 열광 '커머셜 콘텐츠' 매력은? (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=112640</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=112640</guid>
-            <pubDate>Thu, 27 Jul 2023 11:11:00 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202307/112640_139822_2716_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[크립토 브리핑] 美 금리 0.25%p 인상...비트코인은 3700만원대 횡보 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=112645</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=112645</guid>
-            <pubDate>Thu, 27 Jul 2023 11:10:00 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202307/112645_139779_4939_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[디오비스튜디오 버추얼 휴먼 '아일라', 제주드림 홍보대사 됐다 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=112665</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=112665</guid>
@@ -280,6 +280,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202307/112592_139676_5152_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[KT CEO 후보, 최종 3인 압축...김영섭-박윤영-차상균 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=112666</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=112666</guid>
+            <pubDate>Thu, 27 Jul 2023 12:32:20 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202307/112666_139829_182_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[SK텔레콤 '글로벌 텔코 AI 얼라이언스' 띄웠다...도이치텔레콤-e&-싱텔과 힘 모은다 (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=112664</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=112664</guid>
@@ -382,14 +390,6 @@
             <pubDate>Thu, 27 Jul 2023 09:28:00 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202307/112630_139762_2620_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[카카오페이, '병원비 청구' 서비스 확대…5700개 병원서 이용 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=112628</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=112628</guid>
-            <pubDate>Thu, 27 Jul 2023 09:27:00 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202307/112628_139761_2043_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[AI 기업 '옴니어스', 이베이재팬에 초개인화 커머스 솔루션 공급 (테크M ─ 이노베이션)]]></title>
