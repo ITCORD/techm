@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jul 2023 07:20:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jul 2023 08:23:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 네이버, AI 상품 추천 서비스 강화 '맞춤형 블록과 추천형 블록 도입']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=112659</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=112659</guid>
+            <pubDate>Thu, 27 Jul 2023 08:23:43 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202307/112659_139799_459_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[게임코인TV] 웹X 2023 부스 엿보기...위믹스부터 트론까지(상)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=112619</link>
@@ -110,14 +118,6 @@
             <pubDate>Thu, 13 Jul 2023 08:28:40 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202307/112222_138955_543_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 그라운드X, NFT 에어드롭 이벤트 실시 '롯데월드X박기웅 협업']]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=112172</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=112172</guid>
-            <pubDate>Wed, 12 Jul 2023 09:22:26 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202307/112172_138860_3627_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
