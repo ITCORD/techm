@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Jul 2023 01:15:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jul 2023 02:35:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -280,6 +280,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202307/112592_139676_5152_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[카카오메이커스, 코레일 서울본부와 철도관광 활성화 나선다 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=112683</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=112683</guid>
+            <pubDate>Fri, 28 Jul 2023 11:22:00 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202307/112683_139841_2056_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[대리기사 전용 체크카드 나왔다...티맵모빌리티-KB국민카드 '맞손' (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=112673</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=112673</guid>
@@ -382,14 +390,6 @@
             <pubDate>Thu, 27 Jul 2023 10:29:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202307/112639_139772_2936_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성SDS, 2Q 영업익 2064억...1년새 23.6% 감소(1보) (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=112638</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=112638</guid>
-            <pubDate>Thu, 27 Jul 2023 10:27:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202307/112638_139771_279_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[블록체인 클라우드 기업 커먼컴퓨터, 80억원 추가 투자 유치...AI 생태계 확장 나선다 (테크M ─ 이노베이션)]]></title>
