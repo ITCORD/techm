@@ -4,9 +4,25 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Jul 2023 03:19:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jul 2023 04:23:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[토스뱅크, 체크카드 누적 발급좌수 500만좌 돌파]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=112693</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=112693</guid>
+            <pubDate>Fri, 28 Jul 2023 00:53:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202307/112693_139850_5319_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한정판 거래 문화 키우는 무신사...슈프라이즈와 맞손]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=112691</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=112691</guid>
+            <pubDate>Fri, 28 Jul 2023 00:50:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202307/112691_139848_507_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[네이버서 날씨도 맞춤형으로 본다…재난 제보톡 강화]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=112687</link>
@@ -102,22 +118,6 @@
             <pubDate>Thu, 27 Jul 2023 11:26:00 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202307/112647_139783_2640_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['보릿고개' 상반기 넘은 삼성전자...이제 올라갈 일만 남았다(종합)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=112644</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=112644</guid>
-            <pubDate>Thu, 27 Jul 2023 10:55:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202307/112644_139823_2741_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[컨콜] 삼성전자 "D램과 낸드플래시 재고, 5월 피크아웃...안정화 단계"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=112642</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=112642</guid>
-            <pubDate>Thu, 27 Jul 2023 10:38:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202307/112642_139777_3821_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
