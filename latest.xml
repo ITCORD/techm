@@ -4,9 +4,25 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 31 Jul 2023 11:17:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Jul 2023 12:37:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[카카오페이, 손보 자회사에 1000억 더한다…"운영 자금"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=112758</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=112758</guid>
+            <pubDate>Mon, 31 Jul 2023 12:32:32 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202307/112758_139978_2946_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[카드뉴스] 캐리버스 로드맵 공개 '아시아 1 서버 정식 출시']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=112752</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=112752</guid>
+            <pubDate>Mon, 31 Jul 2023 12:32:32 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202307/112752_139953_3921_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['원조 게임한류' 컴투스 서머너즈 워...글로벌 2억 다운로드-3조 매출 진기록]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=112757</link>
@@ -150,22 +166,6 @@
             <pubDate>Mon, 31 Jul 2023 10:31:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202307/112736_139935_3126_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LG전자, ESG 활동 '글로벌장애청소년IT챌린지' 개최]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=112733</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=112733</guid>
-            <pubDate>Mon, 31 Jul 2023 10:22:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202307/112733_139933_2141_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["배민에서 Z플립5 사자" 배민스토어, 폴더블 신제품 사전판매 1일 출격]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=112732</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=112732</guid>
-            <pubDate>Mon, 31 Jul 2023 10:17:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202307/112732_139932_1734_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
