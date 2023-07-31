@@ -4,9 +4,17 @@
         <title>테크M ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 31 Jul 2023 03:22:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Jul 2023 04:21:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[춘식이 보러 가자…카카오프렌즈-환기미술관 특별전]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=112747</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=112747</guid>
+            <pubDate>Mon, 31 Jul 2023 11:35:00 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202307/112747_139947_340_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["배민에서 Z플립5 사자" 배민스토어, 폴더블 신제품 사전판매 1일 출격]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=112732</link>
@@ -110,14 +118,6 @@
             <pubDate>Fri, 21 Jul 2023 07:19:18 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202307/112472_139448_511_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인터파크트리플, 델타항공과 지속가능 항공연료 투자 나선다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=112470</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=112470</guid>
-            <pubDate>Fri, 21 Jul 2023 07:19:18 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202307/112470_139436_5837_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
