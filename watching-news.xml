@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 31 Jul 2023 09:20:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Jul 2023 10:23:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 캐리버스 로드맵 공개 '아시아 1 서버 정식 출시']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=112752</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=112752</guid>
+            <pubDate>Mon, 31 Jul 2023 10:23:21 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202307/112752_139953_3921_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] AI 기업 '옴니어스', 이베이재팬에 커머스 솔루션 공급]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=112703</link>
@@ -110,14 +118,6 @@
             <pubDate>Mon, 17 Jul 2023 07:20:07 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202307/112298_139117_2230_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[게임코인TV] 초기 투자만 420억...블록체인 게임 업계가 '이스크라'를 주목할 수밖에 없는 이유]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=112265</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=112265</guid>
-            <pubDate>Sun, 16 Jul 2023 12:39:12 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202307/112265_139069_4648_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
