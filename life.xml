@@ -4,9 +4,25 @@
         <title>테크M ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Aug 2023 02:46:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Aug 2023 03:21:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[카카오페이, '오래오래 함께 가게' 연다...70개 브랜드 입점]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=112780</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=112780</guid>
+            <pubDate>Tue, 01 Aug 2023 11:08:00 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202308/112780_140011_5223_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['거거익선' 삼성전자 국내 판매 TV 3대 중 1대는 '초대형']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=112775</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=112775</guid>
+            <pubDate>Tue, 01 Aug 2023 10:35:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202308/112775_140003_3426_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[춘식이 보러 가자…카카오프렌즈-환기미술관 특별전]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=112747</link>
@@ -102,22 +118,6 @@
             <pubDate>Mon, 24 Jul 2023 11:17:00 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202307/112514_139534_5926_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성전자, 89형 마이크로 LED 국내 출시…출고가 1억3000만원]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=112489</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=112489</guid>
-            <pubDate>Sun, 23 Jul 2023 08:48:00 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202307/112489_139496_4724_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[블랭크 영차컴퍼니, 롯데월드 IP 편집샵 '부스럭' 열었다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=112472</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=112472</guid>
-            <pubDate>Fri, 21 Jul 2023 07:19:18 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202307/112472_139448_511_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
