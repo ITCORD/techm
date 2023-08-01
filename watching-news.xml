@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Aug 2023 07:20:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Aug 2023 08:24:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 네이버 제페토, 생성AI로 누구나 손쉽게 아이템 제작한다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=112789</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=112789</guid>
+            <pubDate>Tue, 01 Aug 2023 08:24:04 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202308/112789_140028_418_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 캐리버스 로드맵 공개 '아시아 1 서버 정식 출시']]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=112752</link>
@@ -110,14 +118,6 @@
             <pubDate>Tue, 18 Jul 2023 09:22:02 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202307/112339_139187_327_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 네이버클라우드, 스타트업 성장을 위한 'AI RUSH 2023' 개최]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=112298</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=112298</guid>
-            <pubDate>Mon, 17 Jul 2023 07:20:07 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202307/112298_139117_2230_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
