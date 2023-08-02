@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Aug 2023 10:24:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Aug 2023 11:15:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 캐리버스, 가상자산 'CVTX' 고팍스에 상장 (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=112864</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=112864</guid>
+            <pubDate>Wed, 02 Aug 2023 09:19:30 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202308/112864_140137_510_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[카카오 그라운드엑스, 1인치 네트워크와 전략적 파트너십 (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=112861</link>
@@ -37,7 +45,7 @@
             <guid>https://www.techm.kr/news/articleView.html?idxno=112858</guid>
             <pubDate>Wed, 02 Aug 2023 00:59:00 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202308/112858_140130_513_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202308/112858_140150_2628_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[네오위즈 '인텔라 X', 체인링크 랩스와 맞손...보안성·투명성 강화 (테크M ─ 전체기사)]]></title>
@@ -69,7 +77,7 @@
             <guid>https://www.techm.kr/news/articleView.html?idxno=112848</guid>
             <pubDate>Wed, 02 Aug 2023 11:20:00 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202308/112848_140117_5844_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202308/112848_140151_2646_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['생활금융플랫폼' 카카오뱅크, 반기 최고 실적...대출 확 키운다(종합) (테크M ─ 전체기사)]]></title>
@@ -77,7 +85,7 @@
             <guid>https://www.techm.kr/news/articleView.html?idxno=112850</guid>
             <pubDate>Wed, 02 Aug 2023 11:12:00 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202308/112850_140122_225_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202308/112850_140152_273_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[스마일게이트, 취약계층 아동 위한 창작 멘토링 아이디어톤 진행 (테크M ─ 전체기사)]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 02 Aug 2023 10:40:00 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202308/112842_140111_3918_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[AI 아티스트 '레픽 아나돌', 코리아블록체인위크(KBW) 2023 연사로 참여 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=112843</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=112843</guid>
-            <pubDate>Wed, 02 Aug 2023 10:40:00 GMT</pubDate>
-            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202308/112843_140112_4019_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['1일 1밀리 하세요'...밀리의서재, 독서 습관 챌린지 띄웠다 (테크M ─ 콘텐츠)]]></title>
@@ -293,7 +293,7 @@
             <guid>https://www.techm.kr/news/articleView.html?idxno=112858</guid>
             <pubDate>Wed, 02 Aug 2023 00:59:00 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202308/112858_140130_513_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202308/112858_140150_2628_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[네오위즈 '인텔라 X', 체인링크 랩스와 맞손...보안성·투명성 강화 (테크M ─ 인프라)]]></title>
@@ -773,7 +773,7 @@
             <guid>https://www.techm.kr/news/articleView.html?idxno=112763</guid>
             <pubDate>Tue, 01 Aug 2023 05:22:13 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202308/112763_140085_4916_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202308/112763_139984_529_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[카카오페이, '오래오래 함께 가게' 연다...70개 브랜드 입점 (테크M ─ 라이프)]]></title>
