@@ -4,9 +4,17 @@
         <title>테크M ─ 콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Aug 2023 04:21:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Aug 2023 05:16:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['1일 1밀리 하세요'...밀리의서재, 독서 습관 챌린지 띄웠다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=112860</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=112860</guid>
+            <pubDate>Wed, 02 Aug 2023 05:14:43 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202308/112860_140135_2544_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[스마일게이트, 취약계층 아동 위한 창작 멘토링 아이디어톤 진행]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=112854</link>
@@ -110,14 +118,6 @@
             <pubDate>Tue, 01 Aug 2023 05:19:22 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202308/112784_140017_4345_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[웹3.0 플랫폼 캐리버스 가상자산 'CVTX', 고팍스에 상장된다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=112782</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=112782</guid>
-            <pubDate>Tue, 01 Aug 2023 05:19:22 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202308/112782_140015_192_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
