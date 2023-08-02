@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Aug 2023 08:20:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Aug 2023 09:19:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -400,7 +400,7 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202308/112859_140134_1933_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[AI 아티스트 '레픽 아나돌', 코리아블록체인위크(KBW) 2023 연사로 참여 (테크M ─ 이노베이션)]]></title>
+            <title><![CDATA[AI 아티스트 '레픽 아나돌', 코리아블록체인위크(KBW) 2023 참여 (테크M ─ 이노베이션)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=112843</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=112843</guid>
             <pubDate>Wed, 02 Aug 2023 10:40:00 GMT</pubDate>
@@ -952,6 +952,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202307/112481_139477_5350_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[카드뉴스] 캐리버스, 가상자산 'CVTX' 고팍스에 상장 (테크M ─ 보는 뉴스)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=112864</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=112864</guid>
+            <pubDate>Wed, 02 Aug 2023 09:19:30 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202308/112864_140137_510_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[카드뉴스] 네이버 제페토, 생성AI로 누구나 손쉽게 아이템 제작한다 (테크M ─ 보는 뉴스)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=112789</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=112789</guid>
@@ -1054,14 +1062,6 @@
             <pubDate>Wed, 19 Jul 2023 07:15:10 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202307/112386_139279_438_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 수퍼톤X라이브톤, AI 음향 기술위해 협업 'K-콘텐츠 키운다' (테크M ─ 보는 뉴스)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=112339</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=112339</guid>
-            <pubDate>Tue, 18 Jul 2023 07:16:23 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202307/112339_139187_327_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
