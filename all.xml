@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Aug 2023 22:18:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Aug 2023 23:17:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[네이버, 2분기 영업익 3727억…전년비 11%↑(1보) (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=112937</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=112937</guid>
+            <pubDate>Fri, 04 Aug 2023 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202308/112937_140248_5417_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[IT진맥] 각성한 KT 이사회, 끝까지 '정답' 찾아야 CEO 잔혹사 끝낸다 (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=112936</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=112936</guid>
+            <pubDate>Fri, 04 Aug 2023 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202308/112936_140247_839_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김영섭-박윤영-차상균...KT 차기 CEO는 누구? 최종 1인 오늘 나온다 (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=112935</link>
@@ -152,22 +168,6 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202308/112916_140208_5233_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[넥슨게임즈, '블루 아카이브' 中 정식 출시...새 PV도 공개 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=112913</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=112913</guid>
-            <pubDate>Thu, 03 Aug 2023 04:19:10 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202308/112913_140199_531_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[토스랩, 노랑푸드에 협업툴 '잔디' 공급 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=112914</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=112914</guid>
-            <pubDate>Thu, 03 Aug 2023 04:19:28 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202308/112914_140200_549_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[中 공략 나선 블루 아카이브...'애플 앱스토어·탭탭·빌리빌리' 인기순위 1위 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=112933</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=112933</guid>
@@ -280,6 +280,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202308/112854_140126_120_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[IT진맥] 각성한 KT 이사회, 끝까지 '정답' 찾아야 CEO 잔혹사 끝낸다 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=112936</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=112936</guid>
+            <pubDate>Fri, 04 Aug 2023 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202308/112936_140247_839_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[김영섭-박윤영-차상균...KT 차기 CEO는 누구? 최종 1인 오늘 나온다 (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=112935</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=112935</guid>
@@ -382,14 +390,6 @@
             <pubDate>Thu, 03 Aug 2023 10:05:00 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202308/112890_140176_421_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[컨콜] 카카오 초거대 AI, 예약·상담 등 '카톡 비즈니스' 접목 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=112887</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=112887</guid>
-            <pubDate>Thu, 03 Aug 2023 10:02:00 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202308/112887_140174_05_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[코스포, 2023 컴업 팀매칭 완료…'피칭 레이스' 돌입 (테크M ─ 이노베이션)]]></title>
@@ -504,6 +504,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202307/112716_139901_453_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[네이버, 2분기 영업익 3727억…전년비 11%↑(1보) (테크M ─ 인베스트먼트)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=112937</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=112937</guid>
+            <pubDate>Fri, 04 Aug 2023 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202308/112937_140248_5417_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[네이버파이낸셜, 공인중개사 11만3000여명과 상생...협약 체결 (테크M ─ 인베스트먼트)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=112927</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=112927</guid>
@@ -606,14 +614,6 @@
             <pubDate>Thu, 03 Aug 2023 08:35:00 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202308/112867_140154_510_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[크립토 브리핑] 주요 가상자산 일제히 반등...비트코인 3만달러 일시 회복 (테크M ─ 인베스트먼트)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=112855</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=112855</guid>
-            <pubDate>Wed, 02 Aug 2023 11:28:00 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202308/112855_140127_2640_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[LG전자 북미이노베이션센터, 1억 달러 이상 글로벌 스타트업 투자 펀드 조성 (테크M ─ 피플)]]></title>
