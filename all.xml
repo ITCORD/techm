@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Aug 2023 20:19:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Aug 2023 21:15:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -280,6 +280,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202308/112854_140126_120_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[김영섭-박윤영-차상균...KT 차기 CEO는 누구? 최종 1인 오늘 나온다 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=112935</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=112935</guid>
+            <pubDate>Fri, 04 Aug 2023 06:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202308/112935_140245_337_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[SK텔레콤, 대한체육회 공식 후원...아시안게임 응원 열기 끌어올린다 (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=112934</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=112934</guid>
@@ -382,14 +390,6 @@
             <pubDate>Thu, 03 Aug 2023 10:02:00 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202308/112887_140174_05_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[컨콜] 카카오 "전국 100개 전통시장 디지털 전환 지원 목표" (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=112886</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=112886</guid>
-            <pubDate>Thu, 03 Aug 2023 09:58:00 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202308/112886_140173_5559_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[코스포, 2023 컴업 팀매칭 완료…'피칭 레이스' 돌입 (테크M ─ 이노베이션)]]></title>
