@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Aug 2023 06:23:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Aug 2023 07:18:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,6 +168,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202308/112953_140264_5535_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[中 매출 20위 블루 아카이브 흥행 청신호...넥슨게임즈 주가는 14% '뚝' (테크M ─ 콘텐츠)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=112974</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=112974</guid>
+            <pubDate>Fri, 04 Aug 2023 07:15:14 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202308/112974_140298_310_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[컴투스홀딩스 엑스플라, 오아시스와 웹3.0 해커톤 연다 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=112966</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=112966</guid>
@@ -270,14 +278,6 @@
             <pubDate>Thu, 03 Aug 2023 11:59:00 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202308/112905_140191_3559_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[웹젠, 수집형RPG '라그나돌' 베타 테스트 진행 (테크M ─ 콘텐츠)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=112892</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=112892</guid>
-            <pubDate>Thu, 03 Aug 2023 10:09:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202308/112892_140179_943_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[잘 나가는 NHN 클라우드, 신한투자증권 '서비스형 데스크톱' 구축 (테크M ─ 인프라)]]></title>
