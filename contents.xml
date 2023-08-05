@@ -4,9 +4,25 @@
         <title>테크M ─ 콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 05 Aug 2023 01:17:27 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Aug 2023 02:30:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[템터뷰] 이용자와 함께 만드는 웹3.0 게임...디랩스가 '럼블 레이싱 스타'를 개발한 이유]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=112865</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=112865</guid>
+            <pubDate>Sat, 05 Aug 2023 10:30:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202308/112865_140146_2053_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[넥슨표 루트슈터 '퍼스트 디센던트', 내달 19일 크로스플레이 시범 서비스 나선다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=112985</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=112985</guid>
+            <pubDate>Sat, 05 Aug 2023 10:27:00 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202308/112985_140314_2649_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[블록체인 게임 '픽셀배틀' 개발사 픽셀플레이, 웹3.0 e스포츠 플랫폼 세븐라인랩스와 협력]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=112975</link>
@@ -102,22 +118,6 @@
             <pubDate>Thu, 03 Aug 2023 08:19:56 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202308/112924_140224_40_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[넥슨게임즈, '블루 아카이브' 中 정식 출시...새 PV도 공개]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=112913</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=112913</guid>
-            <pubDate>Thu, 03 Aug 2023 04:19:10 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202308/112913_140199_531_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['베팅 로얄' 재미에 빠져 볼까...크래프톤 '디펜스 더비' 글로벌 론칭]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=112912</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=112912</guid>
-            <pubDate>Thu, 03 Aug 2023 04:19:10 GMT</pubDate>
-            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202308/112912_140198_444_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
