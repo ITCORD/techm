@@ -4,9 +4,17 @@
         <title>테크M ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 05 Aug 2023 23:17:28 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Aug 2023 01:13:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한강페스티벌에 등장한 'LG 스타일러 슈케어·슈케이스']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=112988</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=112988</guid>
+            <pubDate>Sun, 06 Aug 2023 10:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202308/112988_140317_3024_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[넥슨네트웍스, 2023년 하반기 채용 연계형 인턴 공개 모집]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=112916</link>
@@ -110,14 +118,6 @@
             <pubDate>Tue, 01 Aug 2023 05:22:13 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202308/112763_139984_529_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[카카오페이, '오래오래 함께 가게' 연다...70개 브랜드 입점]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=112780</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=112780</guid>
-            <pubDate>Tue, 01 Aug 2023 11:08:00 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202308/112780_140011_5223_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
