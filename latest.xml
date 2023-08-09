@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Aug 2023 22:16:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Aug 2023 23:18:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[펄어비스, 2분기 매출 784억원...영업이익은 적자전환]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=113150</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=113150</guid>
+            <pubDate>Thu, 10 Aug 2023 07:44:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202308/113150_140595_4135_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[LCK 브리핑] '페이커' 돌아온 T1은 달랐다...한화생명도 PO 2R 진출]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=113149</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 09 Aug 2023 06:20:02 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202308/113128_140529_1439_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뤼튼·업스테이지 등 AI 스타트업 6곳 뭉쳤다...내달 협회 출범]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=113127</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=113127</guid>
-            <pubDate>Wed, 09 Aug 2023 06:20:02 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202308/113127_140528_334_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
