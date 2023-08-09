@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Aug 2023 12:35:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Aug 2023 13:26:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,10 +168,18 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202308/113126_140527_5518_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[LCK 브리핑] '페이커' 돌아온 T1은 달랐다...한화생명도 PO 2R 진출 (테크M ─ 콘텐츠)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=113149</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=113149</guid>
+            <pubDate>Wed, 09 Aug 2023 13:21:21 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202308/113149_140592_4046_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[위메이드-액토즈 '미르' IP 분쟁 끝...5000억원 규모 IP 라이선스 계약 체결 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=113148</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=113148</guid>
-            <pubDate>Wed, 09 Aug 2023 12:32:09 GMT</pubDate>
+            <pubDate>Wed, 09 Aug 2023 12:31:51 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202308/113148_140591_1341_v150.jpg" length="0" type="image/jpg"/>
         </item>
@@ -270,14 +278,6 @@
             <pubDate>Wed, 09 Aug 2023 09:55:00 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202308/113101_140500_5037_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[하반기 中 출격 '7대죄' '제2의 나라'...넷마블 "사전등록 500만명 어렵지 않을 것" (테크M ─ 콘텐츠)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=113084</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=113084</guid>
-            <pubDate>Tue, 08 Aug 2023 08:19:35 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202308/113084_140468_5248_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[FreeView] '1mm' 차이에서 엿본 폴더블폰의 미래 (테크M ─ 인프라)]]></title>
