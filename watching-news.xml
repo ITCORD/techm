@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Aug 2023 08:23:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Aug 2023 09:20:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 업스테이지, '생성형 AI가 바꾸는 금융·보험의 미래' 온라인 토크 개최]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=113141</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=113141</guid>
+            <pubDate>Wed, 09 Aug 2023 09:20:23 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202308/113141_140556_5414_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 카카오브레인, '코GPT'와 '칼로' 스타트업과 공유한다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=113070</link>
@@ -110,14 +118,6 @@
             <pubDate>Mon, 24 Jul 2023 10:21:41 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202307/112530_139570_5221_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] LG유플러스, 연세대 전용 메타버스 '버추얼 캠퍼스' 9월 오픈]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=112471</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=112471</guid>
-            <pubDate>Fri, 21 Jul 2023 07:20:01 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202307/112471_139438_226_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
