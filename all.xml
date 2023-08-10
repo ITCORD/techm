@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Aug 2023 19:18:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Aug 2023 20:18:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,6 +168,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202308/113192_140643_1444_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[PGS 통신] 세계 벽은 높았다...DK-게임피티 동반 부진 (테크M ─ 콘텐츠)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=113214</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=113214</guid>
+            <pubDate>Fri, 11 Aug 2023 03:37:00 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202308/113214_140694_3327_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[LCK 브리핑] '페이커'는 무슨 마법을 쓴 걸까...T1, 16연승 KT 제압하고 승자전행 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=113212</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=113212</guid>
@@ -270,14 +278,6 @@
             <pubDate>Wed, 09 Aug 2023 08:20:27 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202308/113146_140570_2826_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2Q 글로벌 시장 가능성 확인한 넥슨...블루아카이브-히트2 해외 매출 견인 (테크M ─ 콘텐츠)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=113138</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=113138</guid>
-            <pubDate>Wed, 09 Aug 2023 08:20:27 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202308/113138_140567_5813_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[유니티 '유니티 개발자 밋업 코리아' 개최한다 (테크M ─ 인프라)]]></title>
