@@ -4,9 +4,25 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Aug 2023 09:22:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Aug 2023 10:21:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[유니티 '유니티 개발자 밋업 코리아' 개최한다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=113208</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=113208</guid>
+            <pubDate>Thu, 10 Aug 2023 10:18:26 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202308/113208_140675_1059_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[FreeView] 아이폰과 뉴진스, 그리고 대한민국 삼성전자]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=113202</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=113202</guid>
+            <pubDate>Thu, 10 Aug 2023 10:18:26 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202308/113202_140679_5312_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[KT, 전국 2000여개 군부대 초고속 회선으로 연결한다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=113175</link>
@@ -102,22 +118,6 @@
             <pubDate>Wed, 09 Aug 2023 10:52:00 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202308/113109_140509_5046_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SK㈜ C&C, 'BaaS' 플랫폼 사업 확장…DNA모터스 이륜차에 교환형 배터리팩 공급]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=113107</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=113107</guid>
-            <pubDate>Wed, 09 Aug 2023 10:48:00 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202308/113107_140506_4643_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LG전자, 서강대에 TV 소프트웨어 강의 신설…우수 인재 확보 나서]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=113105</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=113105</guid>
-            <pubDate>Wed, 09 Aug 2023 10:35:00 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202308/113105_140504_3013_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
