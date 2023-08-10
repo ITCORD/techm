@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Aug 2023 13:25:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Aug 2023 14:18:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[게임코인TV] 카카오게임즈의 새로운 MMORPG 아레스 전격 분석 (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=113213</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=113213</guid>
+            <pubDate>Thu, 10 Aug 2023 14:15:46 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202308/113213_140692_2547_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[LCK 브리핑] '페이커'는 무슨 마법을 쓴 걸까...T1, 16연승 KT 제압하고 승자전행 (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=113212</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=113212</guid>
+            <pubDate>Thu, 10 Aug 2023 14:15:46 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202308/113212_140689_1019_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[상장 투명성 높이는 업비트, 거래지원 정책 개정...구체적이고 명확하게 (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=113205</link>
@@ -152,20 +168,12 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202308/113190_140642_107_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[하이브, '엔하이픈' 빌리프랩 완전자회사 편입...1500억 출자 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=113189</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=113189</guid>
-            <pubDate>Thu, 10 Aug 2023 05:17:20 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202308/113189_140641_520_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["성수기 고객 불안 해결"...야놀자, 중복 예약 취소 막는다 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=113188</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=113188</guid>
-            <pubDate>Thu, 10 Aug 2023 05:14:50 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202308/113188_140640_4530_v150.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[LCK 브리핑] '페이커'는 무슨 마법을 쓴 걸까...T1, 16연승 KT 제압하고 승자전행 (테크M ─ 콘텐츠)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=113212</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=113212</guid>
+            <pubDate>Thu, 10 Aug 2023 14:16:05 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202308/113212_140689_1019_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[넥슨 '피파 온라인4·피파모바일', 내달 'FC 온라인· FC 모바일'로 리브랜딩 (테크M ─ 콘텐츠)]]></title>
@@ -270,14 +278,6 @@
             <pubDate>Wed, 09 Aug 2023 08:20:27 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202308/113138_140567_5813_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[넥슨, 스테디셀러-신작 '쌍끌이'...2Q도 상승세 이어갔다(상보) (테크M ─ 콘텐츠)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=113134</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=113134</guid>
-            <pubDate>Wed, 09 Aug 2023 07:14:53 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202308/113134_140551_3332_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[유니티 '유니티 개발자 밋업 코리아' 개최한다 (테크M ─ 인프라)]]></title>
@@ -952,6 +952,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202308/112808_140066_3958_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[게임코인TV] 카카오게임즈의 새로운 MMORPG 아레스 전격 분석 (테크M ─ 보는 뉴스)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=113213</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=113213</guid>
+            <pubDate>Thu, 10 Aug 2023 14:18:04 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202308/113213_140692_2547_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[카드뉴스] 업스테이지, '생성형 AI가 바꾸는 금융·보험의 미래' 온라인 토크 개최 (테크M ─ 보는 뉴스)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=113141</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=113141</guid>
@@ -1054,14 +1062,6 @@
             <pubDate>Wed, 26 Jul 2023 07:14:49 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202307/112612_139725_203_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 네이버, 초대규모 AI 생태계 확장 'B2B 시장 공략' (테크M ─ 보는 뉴스)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=112530</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=112530</guid>
-            <pubDate>Mon, 24 Jul 2023 09:16:37 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202307/112530_139570_5221_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
