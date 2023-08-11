@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Aug 2023 09:16:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Aug 2023 10:21:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -280,6 +280,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202308/113199_140649_4235_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[화웨이, 상반기 매출 57조원…전년비 3.1% 증가 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=113251</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=113251</guid>
+            <pubDate>Fri, 11 Aug 2023 10:17:13 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202308/113251_140759_552_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[효성인포메이션시스템, '2023 KCS'에서 HPC 전략 소개 (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=113247</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=113247</guid>
@@ -382,14 +390,6 @@
             <pubDate>Thu, 10 Aug 2023 11:40:00 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202308/113173_140620_3957_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[카카오페이, 소상공인 풍수해보험 무료 신청 받는다 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=113162</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=113162</guid>
-            <pubDate>Thu, 10 Aug 2023 11:13:00 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202308/113162_140608_305_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[잃어버린 30년과 하락하는 콘텐츠 점유율...日이 웹3.0를 선택한 이유 (테크M ─ 이노베이션)]]></title>
