@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 13 Aug 2023 22:16:41 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Aug 2023 23:18:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[양준철의 스타트업 경영편지] 사업은 결국 사람이다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=113250</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=113250</guid>
+            <pubDate>Mon, 14 Aug 2023 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[김현기 대표]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202308/113250_140758_4134_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[PGS 통신] 젠지, 1위와 4점차 "선두가 보인다"...다나와-DK는 '부진']]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=113274</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 12 Aug 2023 10:25:00 GMT</pubDate>
             <content:encoded><![CDATA[김현기 대표]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202308/113256_140833_1411_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이브이알스튜디오, 디지털 휴먼 프로젝트 '에덴' 티저 영상 첫 공개]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=113252</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=113252</guid>
-            <pubDate>Sat, 12 Aug 2023 08:30:00 GMT</pubDate>
-            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202308/113252_140761_1418_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
