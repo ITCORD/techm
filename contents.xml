@@ -4,9 +4,17 @@
         <title>테크M ─ 콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Aug 2023 05:16:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Aug 2023 06:21:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[카카오엔터 '좀비버스', 넷플릭스 글로벌 36개국 휩쓸었다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=113308</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=113308</guid>
+            <pubDate>Mon, 14 Aug 2023 06:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202308/113308_140868_931_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['역주행의 달인' 호요버스, '붕괴: 스타레일' 매출 2위로 '껑충']]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=113297</link>
@@ -110,14 +118,6 @@
             <pubDate>Fri, 11 Aug 2023 09:14:33 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202308/113249_140751_4053_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[게임코인TV] 수집형 RPG는 넷마블이 최고? '신의탑'을 알아보자]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=113241</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=113241</guid>
-            <pubDate>Fri, 11 Aug 2023 08:18:34 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202308/113241_140735_4031_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
