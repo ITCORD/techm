@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Aug 2023 03:18:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Aug 2023 04:20:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["가전, 누구나 차별없이 손쉽게"…LG전자 '유니버설 업 키트' 공개 (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=113354</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=113354</guid>
+            <pubDate>Tue, 15 Aug 2023 00:41:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202308/113354_140936_415_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[크립토 브리핑] 광복절에도 횡보하는 비트코인...ETF 승인은 연기 (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=113352</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=113352</guid>
+            <pubDate>Tue, 15 Aug 2023 00:27:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202308/113352_140933_526_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[안랩 "메타-애플 등 유력 기업 사칭하는 악성 메일 주의보" (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=113351</link>
@@ -150,22 +166,6 @@
             <pubDate>Mon, 14 Aug 2023 08:19:11 GMT</pubDate>
             <content:encoded><![CDATA[조성준 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202308/113330_140895_3758_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쟁글, 엑스플라-오아시스 주최 해커톤 핵심 파트너사로 참여 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=113328</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=113328</guid>
-            <pubDate>Mon, 14 Aug 2023 08:19:11 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202308/113328_140894_3442_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 오늘의집 X 삼성전자, 나만의 제품을 만드는 '비스포크 홈메타' 오픈 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=113322</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=113322</guid>
-            <pubDate>Mon, 14 Aug 2023 08:19:11 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202308/113322_140881_3120_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[크래프톤 "노브랜드 버거에서 '디펜스 더비팩' 드세요" (테크M ─ 콘텐츠)]]></title>
@@ -504,6 +504,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202308/113233_140721_2050_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[크립토 브리핑] 광복절에도 횡보하는 비트코인...ETF 승인은 연기 (테크M ─ 인베스트먼트)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=113352</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=113352</guid>
+            <pubDate>Tue, 15 Aug 2023 00:27:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202308/113352_140933_526_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[2분기 적자봤나...빗썸 상반기 영업이익 127억원, 전년比 90% '급락' (테크M ─ 인베스트먼트)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=113340</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=113340</guid>
@@ -606,14 +614,6 @@
             <pubDate>Thu, 10 Aug 2023 06:21:13 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202308/113195_140645_4058_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[컨콜] "2분기 티빙 영업손실 479억원, 피프스시즌은 326억원" (테크M ─ 인베스트먼트)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=113193</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=113193</guid>
-            <pubDate>Thu, 10 Aug 2023 06:21:13 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202308/113193_140644_2435_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[남궁훈 카카오 前 대표, 상반기 보수 97억...홍은택 대표는 6억 (테크M ─ 피플)]]></title>
@@ -728,6 +728,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202308/112761_139993_2659_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA["가전, 누구나 차별없이 손쉽게"…LG전자 '유니버설 업 키트' 공개 (테크M ─ 라이프)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=113354</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=113354</guid>
+            <pubDate>Tue, 15 Aug 2023 00:41:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202308/113354_140936_415_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[전통시장 활성화 돕는 쿠팡이츠, 경기 동두천시 소상공인연합회와 '맞손' (테크M ─ 라이프)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=113350</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=113350</guid>
@@ -830,14 +838,6 @@
             <pubDate>Fri, 11 Aug 2023 11:39:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202308/113239_140726_3924_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['라면한류' 잘 나가는 농심...2Q 영업익 200% '껑충' (테크M ─ 라이프)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=113237</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=113237</guid>
-            <pubDate>Fri, 11 Aug 2023 11:33:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202308/113237_140724_3340_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[글로벌] 아마존, 자체 브랜드 수십개 폐기..."반독점 소송 의식한 것" (테크M ─ 리포트)]]></title>
