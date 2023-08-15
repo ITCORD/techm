@@ -4,9 +4,17 @@
         <title>테크M ─ 콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Aug 2023 01:05:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Aug 2023 02:23:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[크래프톤 "노브랜드 버거에서 '디펜스 더비팩' 드세요"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=113349</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=113349</guid>
+            <pubDate>Tue, 15 Aug 2023 10:30:00 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202308/113349_140929_2719_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[PGS 통신] 초반 부진은 전략?...다나와, 뒷심 발휘하며 5위로 GF 진출]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=113345</link>
@@ -110,14 +118,6 @@
             <pubDate>Sun, 13 Aug 2023 12:25:23 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202308/113271_140823_1450_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[PGS 통신] 무서운 뒷심의 다나와, 극적 승부 연출하며 승자조행...젠지-DK도 합류]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=113265</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=113265</guid>
-            <pubDate>Sun, 13 Aug 2023 05:01:00 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202308/113265_140815_034_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

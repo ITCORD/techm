@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Aug 2023 01:05:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Aug 2023 02:23:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,6 +168,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202308/113309_140869_2421_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[크래프톤 "노브랜드 버거에서 '디펜스 더비팩' 드세요" (테크M ─ 콘텐츠)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=113349</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=113349</guid>
+            <pubDate>Tue, 15 Aug 2023 10:30:00 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202308/113349_140929_2719_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[PGS 통신] 초반 부진은 전략?...다나와, 뒷심 발휘하며 5위로 GF 진출 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=113345</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=113345</guid>
@@ -270,14 +278,6 @@
             <pubDate>Sun, 13 Aug 2023 12:25:07 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202308/113271_140823_1450_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[PGS 통신] 무서운 뒷심의 다나와, 극적 승부 연출하며 승자조행...젠지-DK도 합류 (테크M ─ 콘텐츠)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=113265</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=113265</guid>
-            <pubDate>Sun, 13 Aug 2023 05:01:00 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202308/113265_140815_034_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[KISA, 中 현지 찾는다...韓 기업 정보보호세미나 릴레이 개최 (테크M ─ 인프라)]]></title>
@@ -728,6 +728,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202308/112761_139993_2659_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[전통시장 활성화 돕는 쿠팡이츠, 경기 동두천시 소상공인연합회와 '맞손' (테크M ─ 라이프)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=113350</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=113350</guid>
+            <pubDate>Tue, 15 Aug 2023 10:31:00 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202308/113350_140930_312_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[써봤다] 헤드파이 입문자의 선택, 소니 오픈형 레퍼런스 헤드폰 'MDR-MV1' (테크M ─ 라이프)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=113344</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=113344</guid>
@@ -832,12 +840,28 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202308/113237_140724_3340_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[현대백화점, 한국관광공사와 맞손...K-컬처 릴레이 팝업 띄운다 (테크M ─ 라이프)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=113209</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=113209</guid>
-            <pubDate>Thu, 10 Aug 2023 08:19:46 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202308/113209_140676_1259_v150.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[글로벌] 아마존, 자체 브랜드 수십개 폐기..."반독점 소송 의식한 것" (테크M ─ 리포트)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=113348</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=113348</guid>
+            <pubDate>Tue, 15 Aug 2023 10:23:00 GMT</pubDate>
+            <content:encoded><![CDATA[김현기 대표]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202308/113348_140928_2313_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[글로벌] 美 샌프란시스코, 무인 택시 전면 개방...24시간 유료 운행 (테크M ─ 리포트)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=113347</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=113347</guid>
+            <pubDate>Tue, 15 Aug 2023 10:22:00 GMT</pubDate>
+            <content:encoded><![CDATA[김현기 대표]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202308/113347_140926_2011_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[글로벌] 美 에너지부, '이산화탄소 청소기'에 12억달러 투입한다 (테크M ─ 리포트)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=113346</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=113346</guid>
+            <pubDate>Tue, 15 Aug 2023 10:19:00 GMT</pubDate>
+            <content:encoded><![CDATA[김현기 대표]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202308/113346_140925_1844_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[글로벌] "화성, 따뜻하고 습했다"...진흙서 생명체 증거 발견했다 (테크M ─ 리포트)]]></title>
@@ -926,30 +950,6 @@
             <pubDate>Sat, 05 Aug 2023 10:16:00 GMT</pubDate>
             <content:encoded><![CDATA[김현기 대표]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202308/112984_140313_1536_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[글로벌] 페이스북-인스타그램, 캐나다서 '뉴스' 서비스 중단 (테크M ─ 리포트)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=112983</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=112983</guid>
-            <pubDate>Sat, 05 Aug 2023 10:14:00 GMT</pubDate>
-            <content:encoded><![CDATA[김현기 대표]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202308/112983_140312_1340_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[글로벌] '차랑 공유' 우버, 14년만에 첫 흑자...그런데 주가는 5% 하락 (테크M ─ 리포트)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=112982</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=112982</guid>
-            <pubDate>Sat, 05 Aug 2023 10:12:00 GMT</pubDate>
-            <content:encoded><![CDATA[김현기 대표]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202308/112982_140311_1217_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[글로벌] 러시아, '초통령 게임' 마인크래프트로 우크라이나 전쟁 미화? (테크M ─ 리포트)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=112932</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=112932</guid>
-            <pubDate>Thu, 03 Aug 2023 09:14:52 GMT</pubDate>
-            <content:encoded><![CDATA[김현기 대표]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202308/112932_140232_3611_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[카드뉴스] 오늘의집 X 삼성전자, 나만의 제품을 만드는 '비스포크 홈메타' 오픈 (테크M ─ 보는 뉴스)]]></title>
