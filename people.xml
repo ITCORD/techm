@@ -4,9 +4,16 @@
         <title>테크M ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Aug 2023 23:16:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Aug 2023 01:04:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[부고] 김숙희씨(SK쉴더스 커뮤니케이션그룹장) 본인상]]></title>
+            <link>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN5&amp;view_type=sm</link>
+            <guid>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN5&amp;view_type=sm</guid>
+            <pubDate>Wed, 16 Aug 2023 09:32:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[남궁훈 카카오 前 대표, 상반기 보수 97억...홍은택 대표는 6억]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=113343</link>
@@ -110,14 +117,6 @@
             <pubDate>Tue, 01 Aug 2023 11:08:00 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202308/112778_140009_4719_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SK쉴더스, 신임 대표에 홍원표 전 삼성SDS 사장 선임]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=112761</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=112761</guid>
-            <pubDate>Tue, 01 Aug 2023 09:22:00 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202308/112761_139993_2659_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Aug 2023 23:16:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Aug 2023 01:04:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[부고] 김숙희씨(SK쉴더스 커뮤니케이션그룹장) 본인상 (테크M ─ 전체기사)]]></title>
+            <link>https://ITCORD.github.io/techm/all.xml</link>
+            <guid>https://ITCORD.github.io/techm/all.xml</guid>
+            <pubDate>Wed, 16 Aug 2023 09:32:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA["가전, 누구나 차별없이 손쉽게"…LG전자 '유니버설 업 키트' 공개 (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=113354</link>
@@ -158,14 +165,6 @@
             <pubDate>Mon, 14 Aug 2023 08:19:11 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202308/113331_140896_53_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SK스퀘어, 2분기 영업손실 7345억원..."하이닉스 요인 영향" (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=113330</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=113330</guid>
-            <pubDate>Mon, 14 Aug 2023 08:19:11 GMT</pubDate>
-            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202308/113330_140895_3758_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[크래프톤 "노브랜드 버거에서 '디펜스 더비팩' 드세요" (테크M ─ 콘텐츠)]]></title>
@@ -616,6 +615,13 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202308/113195_140645_4058_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[부고] 김숙희씨(SK쉴더스 커뮤니케이션그룹장) 본인상 (테크M ─ 피플)]]></title>
+            <link>https://ITCORD.github.io/techm/all.xml</link>
+            <guid>https://ITCORD.github.io/techm/all.xml</guid>
+            <pubDate>Wed, 16 Aug 2023 09:32:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[남궁훈 카카오 前 대표, 상반기 보수 97억...홍은택 대표는 6억 (테크M ─ 피플)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=113343</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=113343</guid>
@@ -718,14 +724,6 @@
             <pubDate>Tue, 01 Aug 2023 11:08:00 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202308/112778_140009_4719_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SK쉴더스, 신임 대표에 홍원표 전 삼성SDS 사장 선임 (테크M ─ 피플)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=112761</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=112761</guid>
-            <pubDate>Tue, 01 Aug 2023 09:22:00 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202308/112761_139993_2659_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["가전, 누구나 차별없이 손쉽게"…LG전자 '유니버설 업 키트' 공개 (테크M ─ 라이프)]]></title>
