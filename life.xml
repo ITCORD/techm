@@ -4,9 +4,17 @@
         <title>테크M ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Aug 2023 02:22:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Aug 2023 03:17:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성전자 '비스포크 큐커' 출시 2년 만에 누적 판매 20만대 돌파]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=113383</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=113383</guid>
+            <pubDate>Wed, 16 Aug 2023 11:52:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202308/113383_140965_5122_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[SM 신인 보이그룹 '라이즈', 무신사 얼굴됐다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=113372</link>
@@ -110,14 +118,6 @@
             <pubDate>Mon, 14 Aug 2023 10:07:00 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202308/113284_140846_637_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LG전자 '올레드 에보' 유럽에서 '최고의 TV' 찬사]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=113268</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=113268</guid>
-            <pubDate>Sun, 13 Aug 2023 10:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202308/113268_140818_3521_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
