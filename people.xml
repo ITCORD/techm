@@ -4,9 +4,17 @@
         <title>테크M ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Aug 2023 06:22:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Aug 2023 07:16:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[최수연 네이버 대표 "AI 솔루션으로 중소상공인 성장 돕겠다"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=113449</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=113449</guid>
+            <pubDate>Thu, 17 Aug 2023 07:15:14 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202308/113449_141074_3153_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[석창규 웹케시그룹 회장, 마약 근절 캠페인 'NO EXIT' 동참]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=113364</link>
@@ -109,14 +117,6 @@
             <pubDate>Wed, 02 Aug 2023 10:27:00 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202308/112835_140103_2633_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국마이크로소프트, 조원우 신임 대표이사 선임]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=112803</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=112803</guid>
-            <pubDate>Tue, 01 Aug 2023 08:23:09 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202308/112803_140061_3411_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
