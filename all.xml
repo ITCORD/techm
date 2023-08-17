@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Aug 2023 02:22:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Aug 2023 03:17:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[LG전자, 'IFA 2023'에서 빌트인 주방가전 신규 라인업 선보인다 (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=113431</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=113431</guid>
+            <pubDate>Thu, 17 Aug 2023 11:22:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202308/113431_141048_2155_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SK㈜ C&C, NH농협 디지털금융 플랫폼 전환 구축 사업 착수 (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=113430</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=113430</guid>
+            <pubDate>Thu, 17 Aug 2023 11:18:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202308/113430_141047_177_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[감각적인 스타일에 친환경 가치까지 담았다…삼성전자 '에코 프렌즈' 액세서리 출시 (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=113429</link>
@@ -152,22 +168,6 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202308/113410_141013_326_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[컴투스 야구 게임 3종 '야구의 날' 맞아 이벤트 진행 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=113411</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=113411</guid>
-            <pubDate>Wed, 16 Aug 2023 08:18:28 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202308/113411_141014_3646_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NFT 플랫폼 모먼티카, 걸그룹 '에이디야' 상품 내놨다 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=113409</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=113409</guid>
-            <pubDate>Wed, 16 Aug 2023 08:18:28 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202308/113409_141012_2538_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[웹3.0 메타버스 '캐리버스' 정식 출시...게임·교육 한번에 즐긴다 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=113420</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=113420</guid>
@@ -280,6 +280,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202308/113369_140950_533_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[SK㈜ C&C, NH농협 디지털금융 플랫폼 전환 구축 사업 착수 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=113430</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=113430</guid>
+            <pubDate>Thu, 17 Aug 2023 11:18:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202308/113430_141047_177_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[이글루코퍼레이션, 도로교통 사이버위협 탐지 기술 개발 나선다 (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=113428</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=113428</guid>
@@ -382,14 +390,6 @@
             <pubDate>Wed, 16 Aug 2023 07:15:17 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202308/113406_141008_4750_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[과기정통부·이통사, 글로벌 통신기술 핵심 '오픈랜' 활성화 나선다 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=113403</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=113403</guid>
-            <pubDate>Wed, 16 Aug 2023 06:19:24 GMT</pubDate>
-            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202308/113403_141018_047_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2년 연속 지스타 메인스폰서 나서는 위메이드...블록체인 게임 시연대 꾸릴까 (테크M ─ 이노베이션)]]></title>
@@ -727,6 +727,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202308/112803_140061_3411_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[LG전자, 'IFA 2023'에서 빌트인 주방가전 신규 라인업 선보인다 (테크M ─ 라이프)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=113431</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=113431</guid>
+            <pubDate>Thu, 17 Aug 2023 11:22:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202308/113431_141048_2155_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[감각적인 스타일에 친환경 가치까지 담았다…삼성전자 '에코 프렌즈' 액세서리 출시 (테크M ─ 라이프)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=113429</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=113429</guid>
@@ -829,14 +837,6 @@
             <pubDate>Mon, 14 Aug 2023 06:19:17 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202308/113309_140869_2421_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[잘 나가는 농심, 여의도 증권가 잇딴 러브콜...라면 한류 빛난다 (테크M ─ 라이프)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=113312</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=113312</guid>
-            <pubDate>Mon, 14 Aug 2023 06:19:17 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202308/113312_140872_4954_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[현대백화점, 추석 선물세트 예약 판매 돌입...260여종 최대 30% 할인 (테크M ─ 리포트)]]></title>
