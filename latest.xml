@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Aug 2023 08:20:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Aug 2023 09:18:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 엔씨소프트, 게임사 최초로 AI 언어모델 '바르코' 공개]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=113460</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=113460</guid>
+            <pubDate>Thu, 17 Aug 2023 09:14:48 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202308/113460_141087_1114_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방송·미디어 업계 "음저협 공정위 제재 환영...지속 개선 촉구"]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=113459</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 17 Aug 2023 06:19:13 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202308/113438_141063_1848_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[글로벌] '24시간 운행' 美 무인 택시...러브호텔·위생 우려 커져]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=113437</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=113437</guid>
-            <pubDate>Thu, 17 Aug 2023 05:14:19 GMT</pubDate>
-            <content:encoded><![CDATA[김현기 대표]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202308/113437_141061_4125_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
