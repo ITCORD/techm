@@ -4,9 +4,25 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Aug 2023 07:16:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Aug 2023 08:20:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[카카오, 개보위-KISA와 중소사업자 개인정보 교육 연다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=113457</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=113457</guid>
+            <pubDate>Thu, 17 Aug 2023 08:19:15 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202308/113457_141083_1920_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['택배 없는 날' 무용론 솔솔...고객 뿐 아니라 택배기사도 원치 않았다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=113458</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=113458</guid>
+            <pubDate>Thu, 17 Aug 2023 08:19:15 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202308/113458_141086_3151_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[카카오페이증권 "주식판매금 미리 받으세요"]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=113448</link>
@@ -102,22 +118,6 @@
             <pubDate>Thu, 17 Aug 2023 10:14:00 GMT</pubDate>
             <content:encoded><![CDATA[조성준 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202308/113423_141039_322_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SK텔레콤, 폴리곤랩스 손잡고 웹3.0 생태계 글로벌로 넓힌다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=113421</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=113421</guid>
-            <pubDate>Thu, 17 Aug 2023 09:55:00 GMT</pubDate>
-            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202308/113421_141050_2324_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["물량폭탄 결국 불가피" 택배 없는 날에 눈물 짓는 택배기사...왜?]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=113416</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=113416</guid>
-            <pubDate>Wed, 16 Aug 2023 09:15:33 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202308/113416_141026_4317_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
