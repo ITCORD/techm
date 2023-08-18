@@ -4,9 +4,17 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Aug 2023 05:16:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Aug 2023 06:23:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[야놀자에프앤비솔루션, 매장 방문 데이터 기반 광고 띄운다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=113484</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=113484</guid>
+            <pubDate>Fri, 18 Aug 2023 06:20:12 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202308/113484_141136_2054_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[카카오모빌리티, 테크 컨퍼런스 개최...차세대 모빌리티 기술 선봬]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=113478</link>
@@ -110,14 +118,6 @@
             <pubDate>Thu, 17 Aug 2023 00:55:00 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202308/113433_141110_5238_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SK㈜ C&C, NH농협 디지털금융 플랫폼 전환 구축 사업 착수]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=113430</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=113430</guid>
-            <pubDate>Thu, 17 Aug 2023 11:18:00 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202308/113430_141047_177_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

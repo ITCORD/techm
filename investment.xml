@@ -4,9 +4,17 @@
         <title>테크M ─ 인베스트먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Aug 2023 05:16:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Aug 2023 06:23:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["美 주식, 카카오페이증권서 시작하고 10만원 혜택받자"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=113489</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=113489</guid>
+            <pubDate>Fri, 18 Aug 2023 06:20:42 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202308/113489_141154_3436_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[크립토 브리핑] 비트코인 6% 급락...주요 가상자산 가격 일제히 '뚝']]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=113466</link>
@@ -110,14 +118,6 @@
             <pubDate>Mon, 14 Aug 2023 09:57:00 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202308/113281_140845_4836_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[크립토 주간 브리핑] 변동성 낮아진 가상자산 시장...횡보하는 비트코인·이더리움]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=113261</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=113261</guid>
-            <pubDate>Sat, 12 Aug 2023 00:07:00 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202308/113261_140792_1857_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
