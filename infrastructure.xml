@@ -4,9 +4,17 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Aug 2023 03:17:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Aug 2023 04:20:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[카카오모빌리티, 테크 컨퍼런스 개최...차세대 모빌리티 기술 선봬]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=113478</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=113478</guid>
+            <pubDate>Fri, 18 Aug 2023 04:18:36 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202308/113478_141129_1117_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[구글 클라우드, LG전자 AI 품질 검사 플랫폼 구축 지원]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=113474</link>
@@ -110,14 +118,6 @@
             <pubDate>Thu, 17 Aug 2023 11:18:00 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202308/113430_141047_177_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이글루코퍼레이션, 도로교통 사이버위협 탐지 기술 개발 나선다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=113428</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=113428</guid>
-            <pubDate>Thu, 17 Aug 2023 11:07:00 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202308/113428_141044_632_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
