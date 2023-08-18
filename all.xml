@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Aug 2023 23:16:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Aug 2023 01:04:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이통3사, V컬러링 차트 신설 기념 이벤트 진행 (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=113464</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=113464</guid>
+            <pubDate>Fri, 18 Aug 2023 09:55:00 GMT</pubDate>
+            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202308/113464_141111_2641_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['골프존 아버지' 김영찬 회장, 세종대 명예 경영학박사 학위 영예 (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=113465</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=113465</guid>
+            <pubDate>Fri, 18 Aug 2023 09:55:00 GMT</pubDate>
+            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202308/113465_141113_5441_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[中 공략 나선 메이플스토리M, 흥행 '청신호'...매출순위 7위 직행 (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=113463</link>
@@ -152,22 +168,6 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202308/113445_141070_949_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA["불통·탐욕·일방적 경영진"...뿔난 카카오 노조, 판교 거리 행진 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=113444</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=113444</guid>
-            <pubDate>Thu, 17 Aug 2023 06:19:13 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202308/113444_141068_5620_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[5호선 모니터링 시스템, LG유플러스가 '스마트'하게 바꾼다 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=113442</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=113442</guid>
-            <pubDate>Thu, 17 Aug 2023 06:19:13 GMT</pubDate>
-            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202308/113442_141065_3829_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[中 공략 나선 메이플스토리M, 흥행 '청신호'...매출순위 7위 직행 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=113463</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=113463</guid>
@@ -280,6 +280,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202308/113412_141015_5229_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[이통3사, V컬러링 차트 신설 기념 이벤트 진행 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=113464</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=113464</guid>
+            <pubDate>Fri, 18 Aug 2023 09:55:00 GMT</pubDate>
+            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202308/113464_141111_2641_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[카카오, 개보위-KISA와 중소사업자 개인정보 교육 연다 (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=113457</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=113457</guid>
@@ -382,14 +390,6 @@
             <pubDate>Thu, 17 Aug 2023 10:42:00 GMT</pubDate>
             <content:encoded><![CDATA[조성준 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202308/113424_141040_2312_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SK텔레콤, '레드캡' 기술 검증 완료…5G IoT 생태계 이끈다 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=113423</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=113423</guid>
-            <pubDate>Thu, 17 Aug 2023 10:14:00 GMT</pubDate>
-            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202308/113423_141039_322_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["사진 등록하면 어릴적 모습이"...라인 'AI 베이비' 띄웠다 (테크M ─ 이노베이션)]]></title>
@@ -616,6 +616,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202308/113245_140733_1138_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['골프존 아버지' 김영찬 회장, 세종대 명예 경영학박사 학위 영예 (테크M ─ 피플)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=113465</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=113465</guid>
+            <pubDate>Fri, 18 Aug 2023 09:55:00 GMT</pubDate>
+            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202308/113465_141113_5441_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[최수연 네이버 대표 "AI 솔루션으로 중소상공인 성장 돕겠다" (테크M ─ 피플)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=113449</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=113449</guid>
@@ -717,14 +725,6 @@
             <pubDate>Wed, 02 Aug 2023 10:34:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202308/112839_140107_3352_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[신은영 SAP코리아 대표 '쿨코리아 챌린지' 참여 (테크M ─ 피플)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=112835</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=112835</guid>
-            <pubDate>Wed, 02 Aug 2023 10:27:00 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202308/112835_140103_2633_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[포용금융에 힘 싣는 토스뱅크, '햇살론뱅크' 출시 (테크M ─ 라이프)]]></title>

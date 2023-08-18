@@ -4,9 +4,17 @@
         <title>테크M ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Aug 2023 23:16:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Aug 2023 01:04:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['골프존 아버지' 김영찬 회장, 세종대 명예 경영학박사 학위 영예]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=113465</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=113465</guid>
+            <pubDate>Fri, 18 Aug 2023 09:55:00 GMT</pubDate>
+            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202308/113465_141113_5441_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[최수연 네이버 대표 "AI 솔루션으로 중소상공인 성장 돕겠다"]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=113449</link>
@@ -109,14 +117,6 @@
             <pubDate>Wed, 02 Aug 2023 10:34:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202308/112839_140107_3352_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[신은영 SAP코리아 대표 '쿨코리아 챌린지' 참여]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=112835</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=112835</guid>
-            <pubDate>Wed, 02 Aug 2023 10:27:00 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202308/112835_140103_2633_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
