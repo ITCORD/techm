@@ -4,9 +4,25 @@
         <title>테크M ─ 콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Aug 2023 04:24:40 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Aug 2023 05:18:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[카카오게임즈 "신작게임 '아레스', 갤럭시 스마트폰에서 고성능 플레이 즐겨요"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=113526</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=113526</guid>
+            <pubDate>Sun, 20 Aug 2023 05:14:49 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202308/113526_141225_4819_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[LCK 결승] LCK 최강팀은 어디? 젠지-T1, 4연속 결승 맞대결]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=113524</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=113524</guid>
+            <pubDate>Sun, 20 Aug 2023 11:22:00 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202308/113524_141221_195_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[PGS 통신] 한국팀 자존심 살린 다나와...첫 치킨으로 3위 도약]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=113523</link>
@@ -102,22 +118,6 @@
             <pubDate>Fri, 18 Aug 2023 06:19:54 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202308/113488_141151_3018_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[R2M 서비스 금지한 법원...엔씨소프트, 웹젠에 승소]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=113485</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=113485</guid>
-            <pubDate>Fri, 18 Aug 2023 06:19:54 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202308/113485_141139_2432_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[네이버, 모바일 뉴스판에서 생생한 지역뉴스 전한다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=113481</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=113481</guid>
-            <pubDate>Fri, 18 Aug 2023 06:19:54 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202308/113481_141134_626_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
