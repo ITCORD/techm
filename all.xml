@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Aug 2023 16:19:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Aug 2023 17:15:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,6 +168,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202308/113506_141199_2822_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[PGS 통신] 2치킨으로 분전한 다나와, 아쉬운 4위...소닉스, 운영의 묘 살리며 우승 (테크M ─ 콘텐츠)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=113534</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=113534</guid>
+            <pubDate>Mon, 21 Aug 2023 01:40:00 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202308/113534_141247_3540_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[PMPS 통신] 무서운 공격력 선보인 베가...2치킨으로 1일차 선두 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=113533</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=113533</guid>
@@ -270,14 +278,6 @@
             <pubDate>Sat, 19 Aug 2023 06:17:46 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202308/113518_141208_949_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[PGS 통신] 다나와 6위로 1일차 마무리...1위 소닉스와는 12점 차이 (테크M ─ 콘텐츠)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=113516</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=113516</guid>
-            <pubDate>Sat, 19 Aug 2023 02:29:00 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202308/113516_141202_2734_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[AI로 강아지 복부질환도 찾아낸다...SK텔레콤, '엑스칼리버' 진단 범위 넓히고 요금제 다양화 (테크M ─ 인프라)]]></title>
