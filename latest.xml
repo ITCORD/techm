@@ -4,9 +4,25 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Aug 2023 02:21:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Aug 2023 03:17:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[넷플릭스 '마스크걸', 글로벌 5위 등극…원작자도 호평]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=113550</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=113550</guid>
+            <pubDate>Mon, 21 Aug 2023 11:30:00 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202308/113550_141266_1816_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[KISA, 사이버보안·AI 챌린지 개최…3개월간 대장정 돌입]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=113551</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=113551</guid>
+            <pubDate>Mon, 21 Aug 2023 11:29:00 GMT</pubDate>
+            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202308/113551_141267_2049_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[기업 보안IT 담당자 2명 중 1명 "앞으로 생성형AI 기술 적극 활용"]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=113549</link>
@@ -150,22 +166,6 @@
             <pubDate>Sun, 20 Aug 2023 13:15:25 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202308/113533_141245_5945_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[e스포츠人] 3연속 LCK 우승한 젠지 "T1 패턴 공략 쉬웠다...이젠 롤드컵 바라본다"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=113531</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=113531</guid>
-            <pubDate>Sun, 20 Aug 2023 11:11:27 GMT</pubDate>
-            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202308/113531_141240_491_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[LCK 결승] 압도적 경기력 젠지, T1 셧아웃...LCK 3회 연속 우승 달성]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=113530</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=113530</guid>
-            <pubDate>Sun, 20 Aug 2023 10:14:01 GMT</pubDate>
-            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202308/113530_141239_1426_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

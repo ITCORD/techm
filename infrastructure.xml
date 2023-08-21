@@ -4,9 +4,17 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Aug 2023 02:21:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Aug 2023 03:17:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[KISA, 사이버보안·AI 챌린지 개최…3개월간 대장정 돌입]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=113551</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=113551</guid>
+            <pubDate>Mon, 21 Aug 2023 11:29:00 GMT</pubDate>
+            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202308/113551_141267_2049_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[기업 보안IT 담당자 2명 중 1명 "앞으로 생성형AI 기술 적극 활용"]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=113549</link>
@@ -110,14 +118,6 @@
             <pubDate>Sun, 20 Aug 2023 09:00:00 GMT</pubDate>
             <content:encoded><![CDATA[조성준 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202308/113510_141174_3713_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[VOD·OTT 장벽 허문다...LG유플러스, 'U+tv next' 출시]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=113512</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=113512</guid>
-            <pubDate>Sun, 20 Aug 2023 09:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202308/113512_141175_5545_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
