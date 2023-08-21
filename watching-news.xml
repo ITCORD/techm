@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Aug 2023 06:21:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Aug 2023 07:18:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] SK텔레콤, AI 해커톤 개최 "생성형 AI에 관심있는 개발자 누구나 참여하세요"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=113553</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=113553</guid>
+            <pubDate>Mon, 21 Aug 2023 07:18:19 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202308/113553_141269_419_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 게임부터 교육까지 모두 즐기는 웹3.0 '캐리버스' 정식 출시]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=113486</link>
@@ -110,14 +118,6 @@
             <pubDate>Wed, 02 Aug 2023 09:19:30 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202308/112864_140137_510_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 네이버 제페토, 생성AI로 누구나 손쉽게 아이템 제작한다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=112789</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=112789</guid>
-            <pubDate>Tue, 01 Aug 2023 08:24:04 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202308/112789_140028_418_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
