@@ -4,9 +4,17 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Aug 2023 21:14:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Aug 2023 22:15:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[테크M 리포트] 엔비디아를 바라보는 두 가지 시선]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=113631</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=113631</guid>
+            <pubDate>Wed, 23 Aug 2023 07:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202308/113631_141439_4955_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[펄스나인, 트레져랩스-채널A와 맞손...버추얼 휴먼 프로젝트 띄웠다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=113625</link>
@@ -110,14 +118,6 @@
             <pubDate>Mon, 21 Aug 2023 08:21:21 GMT</pubDate>
             <content:encoded><![CDATA[조성준 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202308/113556_141277_3353_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성전자, '프리미엄·초대형' 앞세워 상반기 글로벌 TV 시장 1위 수성…"18년 연속 1위 눈앞"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=113568</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=113568</guid>
-            <pubDate>Mon, 21 Aug 2023 08:21:21 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202308/113568_141298_174_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
