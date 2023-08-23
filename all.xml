@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Aug 2023 03:19:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Aug 2023 04:23:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,6 +168,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202308/113626_141435_1455_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[콘솔 키우는 넥슨...루트슈터의 정수 '퍼스트 디센던트' 살펴보니 (테크M ─ 콘텐츠)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=113651</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=113651</guid>
+            <pubDate>Wed, 23 Aug 2023 00:56:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202308/113651_141477_5530_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[테크M 리포트] "이제 펄어비스 목표가 9만원" 붉은사막에 들뜬 여의도 증권가, 시장 기대치 'UP' (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=113649</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=113649</guid>
@@ -272,12 +280,12 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202308/113621_141418_5345_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[펄어비스의 콜라보는 어디까지…검은사막 최적화 PC '컴은사막' 출시 (테크M ─ 콘텐츠)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=113618</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=113618</guid>
-            <pubDate>Tue, 22 Aug 2023 07:13:45 GMT</pubDate>
+            <title><![CDATA["모든 골프기록, 골프존 앨범으로 확인하세요" (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=113647</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=113647</guid>
+            <pubDate>Wed, 23 Aug 2023 11:34:00 GMT</pubDate>
             <content:encoded><![CDATA[조성준 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202308/113618_141410_3248_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202308/113647_141470_3126_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["AI 통해 전시회 고객 관심사 분석"…LG유플러스, '컬쳐플러스' 출시 (테크M ─ 인프라)]]></title>
@@ -382,14 +390,6 @@
             <pubDate>Tue, 22 Aug 2023 10:09:00 GMT</pubDate>
             <content:encoded><![CDATA[조성준 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202308/113581_141352_5121_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이동관 방통위원장 청문보고서 채택 불발됐지만...대통령 임명 강행할 듯 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=113574</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=113574</guid>
-            <pubDate>Mon, 21 Aug 2023 10:16:15 GMT</pubDate>
-            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202308/113574_141306_2254_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[게임스컴 2023] 게임 축제도 AI로 후끈..."GPT AI 활용, 개발자 능동적 역할 필수" (테크M ─ 이노베이션)]]></title>

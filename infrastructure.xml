@@ -4,9 +4,17 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Aug 2023 03:19:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Aug 2023 04:23:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["모든 골프기록, 골프존 앨범으로 확인하세요"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=113647</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=113647</guid>
+            <pubDate>Wed, 23 Aug 2023 11:34:00 GMT</pubDate>
+            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202308/113647_141470_3126_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["AI 통해 전시회 고객 관심사 분석"…LG유플러스, '컬쳐플러스' 출시]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=113639</link>
@@ -110,14 +118,6 @@
             <pubDate>Tue, 22 Aug 2023 10:09:00 GMT</pubDate>
             <content:encoded><![CDATA[조성준 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202308/113581_141352_5121_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이동관 방통위원장 청문보고서 채택 불발됐지만...대통령 임명 강행할 듯]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=113574</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=113574</guid>
-            <pubDate>Mon, 21 Aug 2023 11:14:17 GMT</pubDate>
-            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202308/113574_141306_2254_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
