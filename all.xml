@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Aug 2023 11:14:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Aug 2023 12:30:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[게임코인TV] 웹젠과 엔씨소송의 의미...리니지 라이크 인정 범위는 어디까지? (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=113677</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=113677</guid>
+            <pubDate>Wed, 23 Aug 2023 12:28:32 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202308/113677_141522_430_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[게임스컴 2023] 역대급 규모로 꾸려진 '엑스박스' 부스...'스타필드'에 쏠린 눈 (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=113679</link>
@@ -160,18 +168,10 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202308/113648_141473_5225_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[차세대 유니콘 '엑스와이지' 로봇 일상화 만들 인재 뽑는다...대규모 채용 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=113659</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=113659</guid>
-            <pubDate>Wed, 23 Aug 2023 06:20:59 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202308/113659_141486_1526_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[게임스컴 2023] 역대급 규모로 꾸려진 '엑스박스' 부스...'스타필드'에 쏠린 눈 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=113679</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=113679</guid>
-            <pubDate>Wed, 23 Aug 2023 11:12:59 GMT</pubDate>
+            <pubDate>Wed, 23 Aug 2023 11:12:43 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202308/113679_141519_3152_v150.jpg" length="0" type="image/jpg"/>
         </item>
@@ -951,6 +951,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202308/113254_140763_4036_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[게임코인TV] 웹젠과 엔씨소송의 의미...리니지 라이크 인정 범위는 어디까지? (테크M ─ 보는 뉴스)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=113677</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=113677</guid>
+            <pubDate>Wed, 23 Aug 2023 12:30:40 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202308/113677_141522_430_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[카드뉴스] SK텔레콤, '엑스칼리버' 업그레이드... 진단범위 넓히고 최적화 요금제 도입까지 (테크M ─ 보는 뉴스)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=113667</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=113667</guid>
@@ -1053,14 +1061,6 @@
             <pubDate>Mon, 07 Aug 2023 09:16:12 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202308/113022_140369_3743_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 두나무, 청소년 디지털 금융 교육 '두니버스' 진행 (테크M ─ 보는 뉴스)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=112973</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=112973</guid>
-            <pubDate>Fri, 04 Aug 2023 08:18:42 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202308/112973_140289_813_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
