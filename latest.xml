@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Aug 2023 23:16:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Aug 2023 01:05:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[게임스컴 2023] 개막식 달군 펄어비스 '붉은사막'...신규 영상 공개에 관람객들 '환호성']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=113632</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=113632</guid>
+            <pubDate>Wed, 23 Aug 2023 09:23:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202308/113632_141441_1029_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[테크M 리포트] 엔비디아를 바라보는 두 가지 시선]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=113631</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 22 Aug 2023 06:19:05 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202308/113611_141391_3440_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[글로벌] 47년 만에 달 탐사 나선 러시아, 달 남극 착륙 '실패']]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=113610</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=113610</guid>
-            <pubDate>Tue, 22 Aug 2023 06:19:05 GMT</pubDate>
-            <content:encoded><![CDATA[김현기 대표]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202308/113610_141427_1022_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
