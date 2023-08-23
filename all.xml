@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Aug 2023 04:23:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Aug 2023 05:18:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -280,6 +280,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202308/113621_141418_5345_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[삼성전자 게이밍 모니터, '게임스컴 2023' 출격 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=113656</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=113656</guid>
+            <pubDate>Wed, 23 Aug 2023 05:15:58 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202308/113656_141481_1055_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA["모든 골프기록, 골프존 앨범으로 확인하세요" (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=113647</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=113647</guid>
@@ -382,14 +390,6 @@
             <pubDate>Tue, 22 Aug 2023 10:10:00 GMT</pubDate>
             <content:encoded><![CDATA[조성준 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202308/113582_141353_712_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LG유플러스, U+tv 플랫폼 '과기정통부 장관상' 수상 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=113581</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=113581</guid>
-            <pubDate>Tue, 22 Aug 2023 10:09:00 GMT</pubDate>
-            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202308/113581_141352_5121_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[게임스컴 2023] 게임 축제도 AI로 후끈..."GPT AI 활용, 개발자 능동적 역할 필수" (테크M ─ 이노베이션)]]></title>
