@@ -4,9 +4,17 @@
         <title>테크M ─ 콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Aug 2023 01:07:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Aug 2023 02:24:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[네이버 오픈톡, 영화·OTT·공연·아티스트로 확대한다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=113745</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=113745</guid>
+            <pubDate>Fri, 25 Aug 2023 10:48:00 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202308/113745_141675_4435_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[LCK 브리핑] 5년만에 롤드컵 진출한 KT...서머 결승 진출 실패 한 풀었다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=113737</link>
@@ -110,14 +118,6 @@
             <pubDate>Thu, 24 Aug 2023 10:23:00 GMT</pubDate>
             <content:encoded><![CDATA[조성준 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202308/113691_141544_103_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[게임스컴 2023] 게임에 힘 싣는 삼성전자..."기술력으로 게이밍 경험 극대화"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=113680</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=113680</guid>
-            <pubDate>Thu, 24 Aug 2023 09:21:00 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202308/113680_141524_240_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
