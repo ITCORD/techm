@@ -4,9 +4,17 @@
         <title>테크M ─ 콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Aug 2023 04:20:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Aug 2023 05:17:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[IT진맥] 크래프톤과 다크앤다커, 테라...그리고 '상도의']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=113761</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=113761</guid>
+            <pubDate>Fri, 25 Aug 2023 05:14:16 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202308/113761_141701_199_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["한번 죽으면 끝"...블리자드, 월드오브워크래프트(WoW) 하드코어 서버 열었다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=113753</link>
@@ -110,14 +118,6 @@
             <pubDate>Thu, 24 Aug 2023 06:19:40 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202308/113715_141574_2050_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[적자 허덕이는 데브시스터즈, 신작 '브릭시티' 출격...실적 반등 가능할까]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=113696</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=113696</guid>
-            <pubDate>Thu, 24 Aug 2023 06:19:40 GMT</pubDate>
-            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202308/113696_141632_5537_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

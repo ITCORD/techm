@@ -4,9 +4,25 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Aug 2023 04:20:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Aug 2023 05:17:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[가봤다] "해킹이 이렇게 어려울 줄이야"…'코드게이트 2023'에 인파 북적]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=113764</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=113764</guid>
+            <pubDate>Fri, 25 Aug 2023 05:13:48 GMT</pubDate>
+            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202308/113764_141703_5022_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[IT진맥] 크래프톤과 다크앤다커, 테라...그리고 '상도의']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=113761</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=113761</guid>
+            <pubDate>Fri, 25 Aug 2023 05:13:48 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202308/113761_141701_199_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[더존비즈온, WEHAGO T 사용자 교육 성황..."세무회계 비즈니스 혁신 가속"]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=113760</link>
@@ -150,22 +166,6 @@
             <pubDate>Fri, 25 Aug 2023 09:55:00 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202308/113734_141646_5328_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[LCK 브리핑] 5년만에 롤드컵 진출한 KT...서머 결승 진출 실패 한 풀었다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=113737</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=113737</guid>
-            <pubDate>Fri, 25 Aug 2023 09:16:00 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202308/113737_141662_4116_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[게임스컴 2023] 게임스컴 곳곳에서 빛난 K게임...韓 게임사 총출동]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=113739</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=113739</guid>
-            <pubDate>Fri, 25 Aug 2023 09:11:00 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202308/113739_141666_5234_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
