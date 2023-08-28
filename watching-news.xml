@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Aug 2023 06:23:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Aug 2023 07:17:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 빗썸메타, 현실 속 옷장이 가상세계로...'3D 쇼룸' 공개]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=113835</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=113835</guid>
+            <pubDate>Mon, 28 Aug 2023 07:17:23 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202308/113835_141831_4844_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 삼성전자, AI가 나만의 영양사로... '삼성 푸드' 공개]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=113766</link>
@@ -110,14 +118,6 @@
             <pubDate>Fri, 11 Aug 2023 09:16:39 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202308/113204_140663_2049_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[게임코인TV] 카카오게임즈의 새로운 MMORPG 아레스 전격 분석]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=113213</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=113213</guid>
-            <pubDate>Thu, 10 Aug 2023 14:18:04 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202308/113213_140692_2547_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
