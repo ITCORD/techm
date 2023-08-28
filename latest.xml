@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Aug 2023 21:19:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Aug 2023 22:17:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성 '엑시노스' 부활? 내년 '갤럭시 S24' 탑재설 솔솔]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=113852</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=113852</guid>
+            <pubDate>Tue, 29 Aug 2023 06:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202308/113852_141867_3230_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[e스포츠 국가대표 출정식] "최고 그 이상의 투지 보여준다"...아시안게임 출격 준비 '완료'(종합)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=113851</link>
@@ -107,7 +115,7 @@
             <title><![CDATA[[부고] 백상수(아이오트러스트 대표)씨 부친상]]></title>
             <link>https://www.techm.kr/news/articleList.html</link>
             <guid>https://www.techm.kr/news/articleList.html</guid>
-            <pubDate>Mon, 28 Aug 2023 20:16:35 GMT</pubDate>
+            <pubDate>Mon, 28 Aug 2023 22:14:20 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
         </item>
         <item>
@@ -157,14 +165,6 @@
             <pubDate>Mon, 28 Aug 2023 00:04:00 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202308/113823_141816_241_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[같이사소] 쿠팡 '패션위크'-티몬 '농심과 팝업스토어'-위메프 '라이브커머스']]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=113822</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=113822</guid>
-            <pubDate>Mon, 28 Aug 2023 00:01:00 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202308/113822_141859_5044_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
