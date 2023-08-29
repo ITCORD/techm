@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Aug 2023 07:16:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Aug 2023 08:22:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 네이버, 한국 특화 생성형 AI '클로바X' 공개]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=113885</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=113885</guid>
+            <pubDate>Tue, 29 Aug 2023 08:22:39 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202308/113885_141905_3216_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 빗썸메타, 현실 속 옷장이 가상세계로...'3D 쇼룸' 공개]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=113835</link>
@@ -110,14 +118,6 @@
             <pubDate>Fri, 11 Aug 2023 09:16:39 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202308/113248_140737_650_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 네이버, 새로운 앱 공개 '이용자 맞춤 서비스 강화한다']]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=113204</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=113204</guid>
-            <pubDate>Fri, 11 Aug 2023 09:16:39 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202308/113204_140663_2049_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
