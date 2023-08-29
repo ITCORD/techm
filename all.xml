@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Aug 2023 21:15:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Aug 2023 22:19:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[9월 12일 '아이폰 15' 베일 벗는다…애플, '스페셜 이벤트' 초대장 발송 (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=113897</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=113897</guid>
+            <pubDate>Wed, 30 Aug 2023 07:10:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202308/113897_141942_935_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[닻 올리는 KT 김영섭호...9개월 경영공백 종지부·발빠른 정상화 관건 (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=113890</link>
@@ -160,14 +168,6 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202308/113874_141895_5642_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[양자보안통신 선도하는 SK텔레콤…국제 표준 개발 추진한다 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=113829</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=113829</guid>
-            <pubDate>Tue, 29 Aug 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202308/113829_141932_618_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[게임스컴서 눈도장 찍은 '퍼스트 디센던트'...내달 글로벌 게이머 만난다 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=113891</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=113891</guid>
@@ -280,6 +280,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202308/113796_141783_1339_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[9월 12일 '아이폰 15' 베일 벗는다…애플, '스페셜 이벤트' 초대장 발송 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=113897</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=113897</guid>
+            <pubDate>Wed, 30 Aug 2023 07:10:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202308/113897_141942_935_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[닻 올리는 KT 김영섭호...9개월 경영공백 종지부·발빠른 정상화 관건 (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=113890</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=113890</guid>
@@ -382,14 +390,6 @@
             <pubDate>Tue, 29 Aug 2023 11:18:00 GMT</pubDate>
             <content:encoded><![CDATA[조성준 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202308/113869_141888_217_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['걸스 BTS' 베일 벗었다...하이브, '더 데뷔' 연습생 20명 최초 공개 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=113857</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=113857</guid>
-            <pubDate>Tue, 29 Aug 2023 11:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202308/113857_141875_217_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[홈페이지 개편한 넥슨,브랜드 커뮤니케이션 채널 '넥슨태그' 출범 (테크M ─ 이노베이션)]]></title>
@@ -619,7 +619,7 @@
             <title><![CDATA[[부고] 백상수(아이오트러스트 대표)씨 부친상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Tue, 29 Aug 2023 21:14:35 GMT</pubDate>
+            <pubDate>Tue, 29 Aug 2023 22:18:06 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
         </item>
         <item>
