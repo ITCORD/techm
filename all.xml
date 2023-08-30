@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Aug 2023 14:18:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Aug 2023 15:20:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[게임코인TV] 세계 최대 게임쇼 2023 게임스컴에서 만난 韓 게임 이야기(상) (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=113951</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=113951</guid>
+            <pubDate>Wed, 30 Aug 2023 15:16:19 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202308/113951_142016_3615_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[LoL 아시안게임 국가대표 경기력은?...베트남-대만과 평가전 치른다 (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=113950</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 30 Aug 2023 10:51:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202308/113929_142011_1442_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[응급상황 대응 솔루션 '위코멧', 2023 국제소방안전박람회 참가 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=113928</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=113928</guid>
-            <pubDate>Wed, 30 Aug 2023 10:46:00 GMT</pubDate>
-            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202308/113928_141974_4625_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[LoL 아시안게임 국가대표 경기력은?...베트남-대만과 평가전 치른다 (테크M ─ 콘텐츠)]]></title>
@@ -627,7 +627,7 @@
             <title><![CDATA[[부고] 백상수(아이오트러스트 대표)씨 부친상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Wed, 30 Aug 2023 13:20:16 GMT</pubDate>
+            <pubDate>Wed, 30 Aug 2023 15:18:31 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
         </item>
         <item>
@@ -951,6 +951,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202308/113515_141186_1138_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[게임코인TV] 세계 최대 게임쇼 2023 게임스컴에서 만난 韓 게임 이야기(상) (테크M ─ 보는 뉴스)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=113951</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=113951</guid>
+            <pubDate>Wed, 30 Aug 2023 15:20:10 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202308/113951_142016_3615_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[카드뉴스] CJ ONE, 풍성한 혜택을 쏟아내는 '프리즘 원 멤버십' NFT 발행 (테크M ─ 보는 뉴스)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=113947</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=113947</guid>
@@ -1053,14 +1061,6 @@
             <pubDate>Wed, 16 Aug 2023 06:19:24 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202308/113402_140994_5022_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 오늘의집 X 삼성전자, 나만의 제품을 만드는 '비스포크 홈메타' 오픈 (테크M ─ 보는 뉴스)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=113322</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=113322</guid>
-            <pubDate>Mon, 14 Aug 2023 08:19:11 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202308/113322_140881_3120_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

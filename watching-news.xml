@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Aug 2023 14:18:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Aug 2023 15:20:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[게임코인TV] 세계 최대 게임쇼 2023 게임스컴에서 만난 韓 게임 이야기(상)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=113951</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=113951</guid>
+            <pubDate>Wed, 30 Aug 2023 15:20:10 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202308/113951_142016_3615_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] CJ ONE, 풍성한 혜택을 쏟아내는 '프리즘 원 멤버십' NFT 발행]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=113947</link>
@@ -110,14 +118,6 @@
             <pubDate>Wed, 16 Aug 2023 07:17:48 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202308/113402_140994_5022_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 오늘의집 X 삼성전자, 나만의 제품을 만드는 '비스포크 홈메타' 오픈]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=113322</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=113322</guid>
-            <pubDate>Mon, 14 Aug 2023 08:21:38 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202308/113322_140881_3120_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
