@@ -4,14 +4,22 @@
         <title>테크M ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Aug 2023 01:06:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Aug 2023 02:24:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이글루코퍼레이션, 고용노동부 '노사문화 우수기업' 인증 획득]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=113911</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=113911</guid>
+            <pubDate>Wed, 30 Aug 2023 10:05:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202308/113911_141956_56_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[부고] 백상수(아이오트러스트 대표)씨 부친상]]></title>
             <link>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN5&amp;view_type=sm</link>
             <guid>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN5&amp;view_type=sm</guid>
-            <pubDate>Wed, 30 Aug 2023 01:05:58 GMT</pubDate>
+            <pubDate>Wed, 30 Aug 2023 02:21:37 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
         </item>
         <item>
@@ -109,14 +117,6 @@
             <pubDate>Fri, 18 Aug 2023 09:55:00 GMT</pubDate>
             <content:encoded><![CDATA[조성준 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202308/113465_141113_5441_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[최수연 네이버 대표 "AI 솔루션으로 중소상공인 성장 돕겠다"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=113449</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=113449</guid>
-            <pubDate>Thu, 17 Aug 2023 07:15:14 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202308/113449_141074_3153_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
