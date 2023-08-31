@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 31 Aug 2023 09:17:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Aug 2023 10:20:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[글로벌 기대작 '스타필드', 삼성 TV에서 콘솔·PC 없이 즐긴다 (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=114003</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=114003</guid>
+            <pubDate>Thu, 31 Aug 2023 10:16:50 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202308/114003_142087_589_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[삼성전자, 스마트싱스로 '의미 있는 연결' 확대…가전 업계 판도 바꾼다 (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=114002</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=114002</guid>
+            <pubDate>Thu, 31 Aug 2023 10:16:50 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202308/114002_142085_3644_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[레시피 앱 우리의식탁, 라이브 커머스 채널로 진화...판매액·MAU '껑충' (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=114001</link>
@@ -152,22 +168,6 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202308/113985_142054_4622_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[위메이드 '위믹스', 美 가상자산 거래소 '탭비트' 상장 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=113984</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=113984</guid>
-            <pubDate>Thu, 31 Aug 2023 06:19:32 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202308/113984_142053_2215_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LoL 신규 챔피언 '브라이어' 공개...새 매커니즘 '광분' 적용 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=113983</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=113983</guid>
-            <pubDate>Thu, 31 Aug 2023 06:19:32 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202308/113983_142051_134_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[템터뷰] 韓 엑스플라와 日 오아시스...게임부터 해커톤까지 함께하는 이유는? (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=113997</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=113997</guid>
@@ -280,6 +280,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202308/113956_142019_1452_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[글로벌 기대작 '스타필드', 삼성 TV에서 콘솔·PC 없이 즐긴다 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=114003</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=114003</guid>
+            <pubDate>Thu, 31 Aug 2023 10:18:09 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202308/114003_142087_589_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[주차·대리운전 최대 50% 할인 되는 '티맵카드' 나왔다 (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=113996</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=113996</guid>
@@ -382,14 +390,6 @@
             <pubDate>Thu, 31 Aug 2023 10:02:00 GMT</pubDate>
             <content:encoded><![CDATA[조성준 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202308/113953_142017_959_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우아한청년들, 경찰청-서울시와 맞손...이륜차 사고 예방 나섰다 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=113963</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=113963</guid>
-            <pubDate>Thu, 31 Aug 2023 09:36:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202308/113963_142026_3647_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[카카오내비, 더 똑똑하고 안전해졌다 (테크M ─ 이노베이션)]]></title>
@@ -643,7 +643,7 @@
             <title><![CDATA[[부고] 백상수(아이오트러스트 대표)씨 부친상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Thu, 31 Aug 2023 09:16:36 GMT</pubDate>
+            <pubDate>Thu, 31 Aug 2023 10:18:51 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
         </item>
         <item>
@@ -727,10 +727,18 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202308/113522_141217_414_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[삼성전자, 스마트싱스로 '의미 있는 연결' 확대…가전 업계 판도 바꾼다 (테크M ─ 라이프)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=114002</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=114002</guid>
+            <pubDate>Thu, 31 Aug 2023 10:19:08 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202308/114002_142085_3644_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[레시피 앱 우리의식탁, 라이브 커머스 채널로 진화...판매액·MAU '껑충' (테크M ─ 라이프)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=114001</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=114001</guid>
-            <pubDate>Thu, 31 Aug 2023 09:16:53 GMT</pubDate>
+            <pubDate>Thu, 31 Aug 2023 09:15:17 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202308/114001_142084_3017_v150.jpg" length="0" type="image/jpg"/>
         </item>
@@ -831,18 +839,10 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202308/113795_141780_2724_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[초대형에 무선까지...LG전자 '올레드 TV' 글로벌 무대 누빈다 (테크M ─ 라이프)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=113794</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=113794</guid>
-            <pubDate>Sun, 27 Aug 2023 11:25:00 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202308/113794_141779_2456_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[글로벌] 인스타그램 제친 中 틱톡..."2년 뒤 美 최대 SNS 될 것" (테크M ─ 리포트)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=114000</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=114000</guid>
-            <pubDate>Thu, 31 Aug 2023 09:17:12 GMT</pubDate>
+            <pubDate>Thu, 31 Aug 2023 09:15:17 GMT</pubDate>
             <content:encoded><![CDATA[김현기 대표]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202308/114000_142083_2418_v150.jpg" length="0" type="image/jpg"/>
         </item>
@@ -850,7 +850,7 @@
             <title><![CDATA[[글로벌] 아마존 CEO "주 3일 사무실 출근 싫으면 퇴사하라" (테크M ─ 리포트)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=113999</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=113999</guid>
-            <pubDate>Thu, 31 Aug 2023 09:17:12 GMT</pubDate>
+            <pubDate>Thu, 31 Aug 2023 09:15:17 GMT</pubDate>
             <content:encoded><![CDATA[김현기 대표]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202308/113999_142082_2312_v150.jpg" length="0" type="image/jpg"/>
         </item>
@@ -858,7 +858,7 @@
             <title><![CDATA[[글로벌] "AI 공짜 학습 막자"...NYT·아마존 등 챗GPT 차단 사이트 늘었다 (테크M ─ 리포트)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=113998</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=113998</guid>
-            <pubDate>Thu, 31 Aug 2023 09:17:12 GMT</pubDate>
+            <pubDate>Thu, 31 Aug 2023 09:15:17 GMT</pubDate>
             <content:encoded><![CDATA[김현기 대표]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202308/113998_142081_2143_v150.jpg" length="0" type="image/jpg"/>
         </item>

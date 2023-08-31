@@ -4,9 +4,25 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 31 Aug 2023 09:17:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Aug 2023 10:20:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[글로벌 기대작 '스타필드', 삼성 TV에서 콘솔·PC 없이 즐긴다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=114003</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=114003</guid>
+            <pubDate>Thu, 31 Aug 2023 10:16:50 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202308/114003_142087_589_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[삼성전자, 스마트싱스로 '의미 있는 연결' 확대…가전 업계 판도 바꾼다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=114002</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=114002</guid>
+            <pubDate>Thu, 31 Aug 2023 10:16:50 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202308/114002_142085_3644_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[레시피 앱 우리의식탁, 라이브 커머스 채널로 진화...판매액·MAU '껑충']]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=114001</link>
@@ -150,22 +166,6 @@
             <pubDate>Thu, 31 Aug 2023 06:19:32 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202308/113985_142054_4622_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[위메이드 '위믹스', 美 가상자산 거래소 '탭비트' 상장]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=113984</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=113984</guid>
-            <pubDate>Thu, 31 Aug 2023 06:19:32 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202308/113984_142053_2215_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LoL 신규 챔피언 '브라이어' 공개...새 매커니즘 '광분' 적용]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=113983</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=113983</guid>
-            <pubDate>Thu, 31 Aug 2023 06:19:32 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202308/113983_142051_134_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
