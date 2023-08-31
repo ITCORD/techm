@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 31 Aug 2023 07:16:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Aug 2023 08:21:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[게임코인TV] 붉은사막, 상상속의 게임 아니었다?...게임스컴 취재후기(하)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=113992</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=113992</guid>
+            <pubDate>Thu, 31 Aug 2023 08:21:29 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202308/113992_142072_448_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 네이버페이, 얼굴인식 결제서비스 '클로바 페이스사인' 공개]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=113987</link>
@@ -110,14 +118,6 @@
             <pubDate>Fri, 18 Aug 2023 07:17:13 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202308/113486_141141_2633_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 엔씨소프트, 게임사 최초로 AI 언어모델 '바르코' 공개]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=113460</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=113460</guid>
-            <pubDate>Thu, 17 Aug 2023 09:18:22 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202308/113460_141087_1114_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
