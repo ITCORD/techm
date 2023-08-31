@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 31 Aug 2023 06:22:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Aug 2023 07:16:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 네이버페이, 얼굴인식 결제서비스 '클로바 페이스사인' 공개]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=113987</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=113987</guid>
+            <pubDate>Thu, 31 Aug 2023 07:16:31 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202308/113987_142056_3012_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[게임코인TV] 모 게임사 대표도 줄 서서 체험한 게임이 있다?...게임스컴 취재 후기 1편]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=113951</link>
@@ -110,14 +118,6 @@
             <pubDate>Thu, 17 Aug 2023 09:18:22 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202308/113460_141087_1114_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 아이클레이브, AI 디자인 출시 ‘디자인 자동 제작 서비스 나온다‘]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=113402</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=113402</guid>
-            <pubDate>Wed, 16 Aug 2023 07:17:48 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202308/113402_140994_5022_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
