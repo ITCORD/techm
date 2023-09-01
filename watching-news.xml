@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Sep 2023 06:23:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Sep 2023 07:16:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 버추얼 아이돌 '메이브, 애드아시아 홍보대사로 발탁]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=114039</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=114039</guid>
+            <pubDate>Fri, 01 Sep 2023 07:16:48 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202309/114039_142141_1331_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[게임코인TV] 붉은사막, 상상속의 게임 아니었다?...게임스컴 취재후기(하)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=113992</link>
@@ -110,14 +118,6 @@
             <pubDate>Mon, 21 Aug 2023 07:18:19 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202308/113553_141269_419_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 게임부터 교육까지 모두 즐기는 웹3.0 '캐리버스' 정식 출시]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=113486</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=113486</guid>
-            <pubDate>Fri, 18 Aug 2023 07:17:13 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202308/113486_141141_2633_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
