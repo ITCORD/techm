@@ -4,9 +4,17 @@
         <title>테크M ─ 콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 31 Aug 2023 23:17:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Sep 2023 01:11:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[템터뷰] "세븐나이츠 키우기, 타깃은 원작 팬 3040...편하게 오래 즐길 수 있다"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=113988</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=113988</guid>
+            <pubDate>Fri, 01 Sep 2023 10:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202308/113988_142063_339_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[템터뷰] 韓 엑스플라와 日 오아시스...게임부터 해커톤까지 함께하는 이유는?]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=113997</link>
@@ -110,14 +118,6 @@
             <pubDate>Thu, 31 Aug 2023 10:22:00 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202308/113967_142033_521_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스마일게이트, 사회공헌 프로그램 'CSR 멤버십' 5기 참가자 모집]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=113956</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=113956</guid>
-            <pubDate>Thu, 31 Aug 2023 09:15:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202308/113956_142019_1452_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

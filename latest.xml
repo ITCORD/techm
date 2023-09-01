@@ -4,9 +4,25 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 31 Aug 2023 23:17:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Sep 2023 01:11:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[템터뷰] "세븐나이츠 키우기, 타깃은 원작 팬 3040...편하게 오래 즐길 수 있다"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=113988</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=113988</guid>
+            <pubDate>Fri, 01 Sep 2023 10:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202308/113988_142063_339_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[와디즈파트너스가 선정한 스타트업, 중기부 '민간투자 연계 매칭융자 사업' 선정]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=114005</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=114005</guid>
+            <pubDate>Fri, 01 Sep 2023 09:32:00 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202309/114005_142099_3215_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[애플 '아이폰 15 울트라' 등장하나…가장 값비싼 모델에 쏠린 눈]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=114004</link>
@@ -150,22 +166,6 @@
             <pubDate>Thu, 31 Aug 2023 07:14:17 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202308/113987_142056_3012_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[카카오, 소상공인에 5년간 300억원 지원…디지털 전환 팔 걷었다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=113989</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=113989</guid>
-            <pubDate>Thu, 31 Aug 2023 07:14:17 GMT</pubDate>
-            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202308/113989_142066_4431_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한·유럽 통신사업자들 "빅테크 망 무임승차 방지 정책마련 절실"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=113986</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=113986</guid>
-            <pubDate>Thu, 31 Aug 2023 06:19:32 GMT</pubDate>
-            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202308/113986_142055_4957_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
