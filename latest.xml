@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Sep 2023 03:17:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Sep 2023 04:22:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[테크M 리포트] 붉은사막 출시 앞둔 펄어비스...도깨비도 등판 임박]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=114025</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=114025</guid>
+            <pubDate>Fri, 01 Sep 2023 00:15:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202309/114025_142122_1242_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[엑스큐게임즈, 모바일 블록체인 게임 '인피니티 사가X' 7일 오픈베타]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=114024</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 01 Sep 2023 09:32:00 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202309/114005_142099_3215_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[애플 '아이폰 15 울트라' 등장하나…가장 값비싼 모델에 쏠린 눈]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=114004</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=114004</guid>
-            <pubDate>Fri, 01 Sep 2023 06:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202308/114004_142098_5843_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
