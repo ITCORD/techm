@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Sep 2023 11:14:34 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Sep 2023 12:28:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[PMPS 통신] "웬만해선 덕산을 막을 수 없다"...압도적 점수로 2일차도 선두 등극]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=114056</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=114056</guid>
+            <pubDate>Sat, 02 Sep 2023 12:25:42 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202309/114056_142186_3918_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[글로벌] "반도체 특허 공유하자"...中 9개사, 'RISC-V' 동맹 결성]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=114055</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 01 Sep 2023 07:14:27 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202309/114033_142135_3520_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[신입 공채 나선 엔씨소프트...8개 부문 채용 스타트]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=114037</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=114037</guid>
-            <pubDate>Fri, 01 Sep 2023 07:14:27 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202309/114037_142138_4756_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
