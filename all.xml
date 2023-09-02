@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Sep 2023 02:21:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Sep 2023 03:17:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,6 +168,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202309/114028_142125_2658_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[같이봐영] 무빙-국민사형투표-마스크걸…글로벌 OTT 휩쓴 K웹툰 (테크M ─ 콘텐츠)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=114050</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=114050</guid>
+            <pubDate>Sat, 02 Sep 2023 11:19:00 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202309/114050_142175_473_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[PMPS 통신] 1일차부터 확고한 선두 등극?...덕산, 2위와 34점 차이로 압도적 1위 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=114052</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=114052</guid>
@@ -270,14 +278,6 @@
             <pubDate>Thu, 31 Aug 2023 08:19:23 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202308/113990_142067_500_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[PMPS 파이널 예고] 굳건한 4강 체제, 마지막 여정의 주인공은? (테크M ─ 콘텐츠)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=113982</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=113982</guid>
-            <pubDate>Thu, 31 Aug 2023 08:19:23 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202308/113982_142048_468_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[7만원선 안착한 삼성전자, 하루새 6% 껑충...SK하이닉스 안방 'HBM3'까지 품을까 (테크M ─ 인프라)]]></title>
@@ -643,7 +643,7 @@
             <title><![CDATA[[부고] 백상수(아이오트러스트 대표)씨 부친상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Sat, 02 Sep 2023 01:03:40 GMT</pubDate>
+            <pubDate>Sat, 02 Sep 2023 03:16:49 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
         </item>
         <item>
@@ -839,6 +839,30 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202308/113902_141945_3958_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[글로벌] "반도체 특허 공유하자"...中 9개사, 'RISC-V' 동맹 결성 (테크M ─ 리포트)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=114055</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=114055</guid>
+            <pubDate>Sat, 02 Sep 2023 11:28:00 GMT</pubDate>
+            <content:encoded><![CDATA[김현기 대표]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202309/114055_142184_2759_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[글로벌] 중국 이어 중동도...美, 엔비디아 수출 제한 확대한다 (테크M ─ 리포트)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=114054</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=114054</guid>
+            <pubDate>Sat, 02 Sep 2023 11:27:00 GMT</pubDate>
+            <content:encoded><![CDATA[김현기 대표]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202309/114054_142183_2649_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[글로벌] 일론 머스크, 집 짓는데 회삿돈 썼나...美 검찰·금융당국이 조사한다 (테크M ─ 리포트)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=114053</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=114053</guid>
+            <pubDate>Sat, 02 Sep 2023 11:26:00 GMT</pubDate>
+            <content:encoded><![CDATA[김현기 대표]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202309/114053_142182_2526_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[글로벌] 인스타그램 제친 中 틱톡..."2년 뒤 美 최대 SNS 될 것" (테크M ─ 리포트)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=114000</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=114000</guid>
@@ -925,30 +949,6 @@
             <pubDate>Thu, 24 Aug 2023 06:19:23 GMT</pubDate>
             <content:encoded><![CDATA[김현기 대표]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202308/113716_141575_5832_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[글로벌] '메시 효과' 본 애플..."스포츠 채널 ESPN 인수할 듯" (테크M ─ 리포트)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=113613</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=113613</guid>
-            <pubDate>Tue, 22 Aug 2023 06:19:05 GMT</pubDate>
-            <content:encoded><![CDATA[김현기 대표]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202308/113613_141393_3642_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[글로벌] 머스크의 스페이스X, 2년 만에 적자 탈출 성공 (테크M ─ 리포트)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=113612</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=113612</guid>
-            <pubDate>Tue, 22 Aug 2023 06:19:05 GMT</pubDate>
-            <content:encoded><![CDATA[김현기 대표]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202308/113612_141392_3533_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[글로벌] 47년 만에 달 탐사 나선 러시아, 달 남극 착륙 '실패' (테크M ─ 리포트)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=113610</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=113610</guid>
-            <pubDate>Tue, 22 Aug 2023 06:19:05 GMT</pubDate>
-            <content:encoded><![CDATA[김현기 대표]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202308/113610_141390_349_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[게임코인TV] "아무리 급해도 IP분쟁중인 다크앤다커를"...크래프톤은 '상도의'도 내팽겨쳤다 (테크M ─ 보는 뉴스)]]></title>
