@@ -4,9 +4,17 @@
         <title>테크M ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Sep 2023 23:18:11 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Sep 2023 01:09:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성전자, 'IFA 2023' 현장에서 부산엑스포 유치 홍보]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=114062</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=114062</guid>
+            <pubDate>Sun, 03 Sep 2023 09:20:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202309/114062_142198_1859_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[e스포츠人] 농심 '스포르타' 김성현 "우승 가능성 1%라도 포기하지 않겠다"]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=114057</link>
@@ -43,7 +51,7 @@
             <title><![CDATA[[부고] 백상수(아이오트러스트 대표)씨 부친상]]></title>
             <link>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN5&amp;view_type=sm</link>
             <guid>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN5&amp;view_type=sm</guid>
-            <pubDate>Sat, 02 Sep 2023 23:15:51 GMT</pubDate>
+            <pubDate>Sun, 03 Sep 2023 01:08:17 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
         </item>
         <item>
@@ -109,14 +117,6 @@
             <pubDate>Mon, 21 Aug 2023 05:16:04 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202308/113552_141268_5925_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[e스포츠人] 팀워크 더 돈독해진 다나와 "다음 대회가 기다려진다"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=113535</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=113535</guid>
-            <pubDate>Mon, 21 Aug 2023 03:12:00 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202308/113535_141250_1118_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
