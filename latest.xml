@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Sep 2023 03:17:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Sep 2023 04:20:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[기고] 중고폰 개인정보 유출 막아야]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=114088</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=114088</guid>
+            <pubDate>Mon, 04 Sep 2023 00:51:00 GMT</pubDate>
+            <content:encoded><![CDATA[김현기 대표]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202309/114088_142227_4949_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아시안게임 LoL 국가대표팀, 평가전 앞서 오프라인 팬미팅 진행]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=114086</link>
@@ -158,14 +166,6 @@
             <pubDate>Sun, 03 Sep 2023 04:17:19 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202309/114064_142201_528_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LG유플러스, 백종원 레시피로 만든 '만두' 파는 식당 운영...통신/DX 기술 더했다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=114063</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=114063</guid>
-            <pubDate>Sun, 03 Sep 2023 04:17:19 GMT</pubDate>
-            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202309/114063_142200_5940_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
