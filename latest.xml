@@ -4,9 +4,25 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Sep 2023 05:18:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Sep 2023 06:22:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이름 빼고 모두 바뀐 '티맵'…모빌리티 혁신 나선다(종합)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=114093</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=114093</guid>
+            <pubDate>Mon, 04 Sep 2023 06:20:08 GMT</pubDate>
+            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202309/114093_142234_1711_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["라이언이 한강에서 책을?"...서울 곳곳서 카카오프렌즈 만난다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=114094</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=114094</guid>
+            <pubDate>Mon, 04 Sep 2023 06:20:08 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202309/114094_142233_1637_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["새로운 음악 감상" 카카오 멜론, 자동 선곡·채팅 선보인다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=114090</link>
@@ -150,22 +166,6 @@
             <pubDate>Mon, 04 Sep 2023 09:35:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202309/114073_142212_3513_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성SDS, 레드햇·IBM과 맞손…클라우드 사업 강화]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=114072</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=114072</guid>
-            <pubDate>Mon, 04 Sep 2023 09:33:00 GMT</pubDate>
-            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202309/114072_142210_3137_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["창작자가 서비스 알려요"…LG유플러스, '와이낫 부스터스' 성료]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=114070</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=114070</guid>
-            <pubDate>Mon, 04 Sep 2023 09:33:00 GMT</pubDate>
-            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202309/114070_142209_2129_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
