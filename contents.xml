@@ -4,16 +4,32 @@
         <title>테크M ─ 콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Sep 2023 07:17:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Sep 2023 08:23:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[韓 기업 빨아들이는 블랙홀 '폴리곤'...통신·게임·보안 다모였다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=114102</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=114102</guid>
+            <pubDate>Mon, 04 Sep 2023 08:20:57 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202309/114102_142260_1813_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[넷마블, 대학생 서포터즈 '마블챌린저' 20기 발대식]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=114103</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=114103</guid>
+            <pubDate>Mon, 04 Sep 2023 08:20:57 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202309/114103_142266_2048_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[결정적e장면] '비니' 권순빈의 성장...배그 모바일 국가대표에게 기대가 커지는 이유]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=114097</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=114097</guid>
             <pubDate>Mon, 04 Sep 2023 07:14:54 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202309/114097_142247_2558_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202309/114097_142270_5256_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[글로벌 블록체인 프로젝트, 韓 모인다...KBW 2023 7일간 여정 시작]]></title>
@@ -21,7 +37,7 @@
             <guid>https://www.techm.kr/news/articleView.html?idxno=114096</guid>
             <pubDate>Mon, 04 Sep 2023 07:14:54 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202309/114096_142241_1212_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202309/114096_142272_5338_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["라이언이 한강에서 책을?"...서울 곳곳서 카카오프렌즈 만난다]]></title>
@@ -102,22 +118,6 @@
             <pubDate>Mon, 04 Sep 2023 09:54:00 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202309/114079_142217_4752_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[엔씨소프트 '퍼즈업 아미토이' 9월 26일 글로벌 출시]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=114074</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=114074</guid>
-            <pubDate>Mon, 04 Sep 2023 09:36:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202309/114074_142213_3615_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[PMPS 통신] 공격력 '폭발'한 덕산...2위와 86점 차이로 압도적 우승]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=114066</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=114066</guid>
-            <pubDate>Sun, 03 Sep 2023 12:26:35 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202309/114066_142205_5247_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
