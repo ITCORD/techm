@@ -4,9 +4,17 @@
         <title>테크M ─ 콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Sep 2023 06:21:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Sep 2023 07:16:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[넷마블의 방치형 RPG ‘세븐나이츠 키우기’ D-1…핵심 재미요소는?]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=114134</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=114134</guid>
+            <pubDate>Tue, 05 Sep 2023 07:14:35 GMT</pubDate>
+            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202309/114134_142327_2752_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[KBW 23] 김우석 라인 넥스트 "웹3.0, 성공하려면 앱을 위한 블록체인 돼야 한다"]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=114140</link>
@@ -16,7 +24,7 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202309/114140_142336_4117_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[KBW 23] "메이플스토리 유니버스에서는 아이템 드롭확률도 커뮤니티가 정한다"]]></title>
+            <title><![CDATA[[KBW 23] "메이플스토리 유니버스에서는 아이템 발행 여부도 커뮤니티가 정한다"]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=114137</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=114137</guid>
             <pubDate>Tue, 05 Sep 2023 06:19:59 GMT</pubDate>
@@ -110,14 +118,6 @@
             <pubDate>Mon, 04 Sep 2023 06:20:27 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202309/114094_142233_1637_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["새로운 음악 감상" 카카오 멜론, 자동 선곡·채팅 선보인다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=114090</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=114090</guid>
-            <pubDate>Mon, 04 Sep 2023 05:15:37 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202309/114090_142229_5541_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
