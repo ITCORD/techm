@@ -4,9 +4,25 @@
         <title>테크M ─ 인베스트먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Sep 2023 01:06:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Sep 2023 02:22:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[카카오페이증권 "9월, 美 주식 매매수수료 무료"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=114112</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=114112</guid>
+            <pubDate>Tue, 05 Sep 2023 10:17:00 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202309/114112_142286_1437_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[크립토 브리핑]  비트코인 검색량·거래량 감소...'KBW'가 호재될까]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=114106</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=114106</guid>
+            <pubDate>Tue, 05 Sep 2023 10:08:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202309/114106_142280_5334_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[테크M 리포트] "아시안게임 임박" 잘 나가는 아프리카TV...하반기 광고매출 청신호]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=114092</link>
@@ -102,22 +118,6 @@
             <pubDate>Tue, 29 Aug 2023 10:15:00 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202308/113858_141876_1229_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[업비트 운영사 두나무, 500억원 규모 자사주 매입]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=113838</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=113838</guid>
-            <pubDate>Mon, 28 Aug 2023 07:15:19 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202308/113838_141840_945_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[업비트 외엔 모두 적자...가상자산 거래소, 이젠 '생존' 걱정해야]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=113827</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=113827</guid>
-            <pubDate>Mon, 28 Aug 2023 06:22:00 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202308/113827_141822_2456_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
