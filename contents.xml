@@ -4,9 +4,17 @@
         <title>테크M ─ 콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Sep 2023 02:23:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Sep 2023 03:17:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[넷이즈게임즈 '도쿄게임쇼2023' 참가...미공개 신작 공개 예고]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=114173</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=114173</guid>
+            <pubDate>Wed, 06 Sep 2023 11:54:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202309/114173_142387_4517_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["사이버불링 잠시만요!"...유튜브, 글로벌 캠페인 한국 첫선]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=114163</link>
@@ -110,14 +118,6 @@
             <pubDate>Tue, 05 Sep 2023 00:03:00 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202309/114125_142357_2249_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[라이온하트 스튜디오, '2023년 대한민국 일자리 으뜸기업' 선정]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=114123</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=114123</guid>
-            <pubDate>Tue, 05 Sep 2023 11:29:00 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202309/114123_142298_2025_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
