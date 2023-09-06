@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Sep 2023 11:15:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Sep 2023 12:32:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,6 +168,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202309/114184_142399_2625_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[넷마블 '세븐나이츠 키우기' 출시 첫날 앱스토어 매출 1위 등극 (테크M ─ 콘텐츠)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=114203</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=114203</guid>
+            <pubDate>Wed, 06 Sep 2023 12:30:45 GMT</pubDate>
+            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202309/114203_142456_16_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[넥슨컴퓨터박물관, 폐관한 제로하나컴퓨터박물관 전시품 4573점 기증 받았다 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=114202</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=114202</guid>
@@ -270,14 +278,6 @@
             <pubDate>Tue, 05 Sep 2023 07:14:18 GMT</pubDate>
             <content:encoded><![CDATA[조성준 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202309/114134_142327_2752_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[KBW 23] 김우석 라인 넥스트 "웹3.0, 성공하려면 앱을 위한 블록체인 돼야 한다" (테크M ─ 콘텐츠)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=114140</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=114140</guid>
-            <pubDate>Tue, 05 Sep 2023 06:19:43 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202309/114140_142336_4117_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[LIG넥스원, 2023경상북도 항공방위물류 박람회 참가...레이다-드론 등 전시 (테크M ─ 인프라)]]></title>
@@ -683,7 +683,7 @@
             <title><![CDATA[[부고] 백상수(아이오트러스트 대표)씨 부친상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Wed, 06 Sep 2023 10:18:58 GMT</pubDate>
+            <pubDate>Wed, 06 Sep 2023 12:31:50 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
         </item>
         <item>
