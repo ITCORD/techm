@@ -4,9 +4,17 @@
         <title>테크M ─ 콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Sep 2023 01:07:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Sep 2023 02:22:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[웹젠, 모바일 수집형RPG '라그나돌' 정식 서비스]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=114215</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=114215</guid>
+            <pubDate>Thu, 07 Sep 2023 11:04:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202309/114215_142469_424_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["초보 투자자도 부담없게"...코인원, 간편거래 서비스 론칭]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=114206</link>
@@ -110,14 +118,6 @@
             <pubDate>Tue, 05 Sep 2023 09:15:14 GMT</pubDate>
             <content:encoded><![CDATA[이영아 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202309/114147_142349_5458_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[KBW 23] 이규창 컴투스 USA "재밌는 게임이 웹3.0라면 블록체인 배울 것"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=114145</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=114145</guid>
-            <pubDate>Tue, 05 Sep 2023 09:15:14 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202309/114145_142341_2627_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
