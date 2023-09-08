@@ -4,9 +4,25 @@
         <title>테크M ─ 콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Sep 2023 01:08:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Sep 2023 02:24:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[넷마블 신작 '세븐나이츠 키우기', 양대마켓 인기 1위 달성]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=114231</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=114231</guid>
+            <pubDate>Fri, 08 Sep 2023 11:12:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202309/114231_142483_031_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[원스토어, '지스타 2023'서 스마일게이트와 인디게임 지원 나선다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=114229</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=114229</guid>
+            <pubDate>Fri, 08 Sep 2023 10:48:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202309/114229_142482_3910_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[웹젠, 모바일 수집형RPG '라그나돌' 정식 서비스]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=114215</link>
@@ -102,22 +118,6 @@
             <pubDate>Wed, 06 Sep 2023 06:00:00 GMT</pubDate>
             <content:encoded><![CDATA[조성준 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202309/114139_142332_3759_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[세나키 출시] 글로벌 트렌드도 방치형 RPG…"수익성 문제 없을 것"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=114141</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=114141</guid>
-            <pubDate>Wed, 06 Sep 2023 06:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202309/114141_142337_4232_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["스밍 인증하고, 떼창까지"…토종 음원 플랫폼, 돌파구는 '팬덤']]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=114147</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=114147</guid>
-            <pubDate>Tue, 05 Sep 2023 09:15:14 GMT</pubDate>
-            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202309/114147_142349_5458_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
