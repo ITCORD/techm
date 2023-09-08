@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Sep 2023 03:17:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Sep 2023 04:20:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[NEMO 23] 카카오모빌리티, 지상은 물론 하늘길까지 연결하는 'AI 모빌리티 플랫폼' 선보인다 (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=114235</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=114235</guid>
+            <pubDate>Fri, 08 Sep 2023 00:30:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202309/114235_142490_244_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이브이시스, '푸른 하늘의 날' 대통령 표창 (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=114234</link>
@@ -160,14 +168,6 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202309/114215_142469_424_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[테크M 이슈] 다시 뛰는 넷마블...韓-中 양쪽에서 매출 쌍끌이 'UP' (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=114214</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=114214</guid>
-            <pubDate>Thu, 07 Sep 2023 10:58:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202309/114214_142468_5755_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[위메이드, 670억원 액토즈 채권가압류 신청 취하 및 집행해제 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=114232</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=114232</guid>
@@ -280,6 +280,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202309/114136_142329_3415_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[NEMO 23] 카카오모빌리티, 지상은 물론 하늘길까지 연결하는 'AI 모빌리티 플랫폼' 선보인다 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=114235</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=114235</guid>
+            <pubDate>Fri, 08 Sep 2023 00:30:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202309/114235_142490_244_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[이브이시스, '푸른 하늘의 날' 대통령 표창 (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=114234</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=114234</guid>
@@ -382,14 +390,6 @@
             <pubDate>Thu, 07 Sep 2023 06:00:00 GMT</pubDate>
             <content:encoded><![CDATA[조성준 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202309/114190_142462_4917_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[김영섭의 KT의 과제는] 이사회 안정화…외풍 논란 재발방지 주력해야 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=114195</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=114195</guid>
-            <pubDate>Thu, 07 Sep 2023 06:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202309/114195_142425_5832_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[法, 스마트스코어 가처분 기각…카카오VX, 기술침해 오명 벗었다 (테크M ─ 이노베이션)]]></title>
@@ -683,7 +683,7 @@
             <title><![CDATA[[부고] 백상수(아이오트러스트 대표)씨 부친상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Fri, 08 Sep 2023 03:16:36 GMT</pubDate>
+            <pubDate>Fri, 08 Sep 2023 04:19:45 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
         </item>
         <item>
