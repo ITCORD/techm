@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Sep 2023 04:20:08 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Sep 2023 05:16:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성, 2023년 하반기 신입사원 공채 실시]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=114280</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=114280</guid>
+            <pubDate>Sun, 10 Sep 2023 05:13:33 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202309/114280_142578_2834_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["AI가 의사 대체할 수 있다"…루닛 AI 연구논문 '란셋 디지털 헬스' 게재]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=114284</link>
@@ -156,14 +164,6 @@
             <pubDate>Sat, 09 Sep 2023 10:44:00 GMT</pubDate>
             <content:encoded><![CDATA[김현기 대표]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202309/114270_142551_4327_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[NEMO 23] 카카오모빌리티가 만드는 생성형 AI는 '챗GPT'와 뭐가 다를까]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=114262</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=114262</guid>
-            <pubDate>Fri, 08 Sep 2023 10:15:56 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202309/114262_142540_2317_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Sep 2023 04:20:08 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Sep 2023 05:16:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성, 2023년 하반기 신입사원 공채 실시 (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=114280</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=114280</guid>
+            <pubDate>Sun, 10 Sep 2023 05:13:33 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202309/114280_142578_2834_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["AI가 의사 대체할 수 있다"…루닛 AI 연구논문 '란셋 디지털 헬스' 게재 (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=114284</link>
@@ -158,14 +166,6 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202309/114270_142551_4327_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[NEMO 23] 카카오모빌리티가 만드는 생성형 AI는 '챗GPT'와 뭐가 다를까 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=114262</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=114262</guid>
-            <pubDate>Fri, 08 Sep 2023 09:16:57 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202309/114262_142540_2317_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[가봤다] "아침 7시 오픈런"...웹예능 '전과자' 개강총회 열렸다 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=114273</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=114273</guid>
@@ -278,6 +278,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202309/114193_142422_5351_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[삼성, 2023년 하반기 신입사원 공채 실시 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=114280</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=114280</guid>
+            <pubDate>Sun, 10 Sep 2023 05:14:09 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202309/114280_142578_2834_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[에버랜드 '블러드시티'에서 만나는 삼성 '갤럭시 Z 플립5·폴드5' (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=114283</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=114283</guid>
@@ -380,14 +388,6 @@
             <pubDate>Fri, 08 Sep 2023 09:43:00 GMT</pubDate>
             <content:encoded><![CDATA[조성준 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202309/114223_142476_3953_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[AI 새판 짜는 카카오모빌리티...모빌리티 AI 시대 연다 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=114221</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=114221</guid>
-            <pubDate>Fri, 08 Sep 2023 09:24:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202309/114221_142475_2436_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["AI가 의사 대체할 수 있다"…루닛 AI 연구논문 '란셋 디지털 헬스' 게재 (테크M ─ 이노베이션)]]></title>
@@ -703,7 +703,7 @@
             <title><![CDATA[[부고] 백상수(아이오트러스트 대표)씨 부친상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Sun, 10 Sep 2023 04:19:13 GMT</pubDate>
+            <pubDate>Sun, 10 Sep 2023 05:15:40 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
         </item>
         <item>
