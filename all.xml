@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Sep 2023 15:16:08 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Sep 2023 16:20:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[e스포츠人] '호준' 문호준 "세상에서 개인전 예선이 제일 어려워요" (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=114288</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=114288</guid>
+            <pubDate>Sun, 10 Sep 2023 16:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202309/114288_142596_1156_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[KDL 통신] 예선 통해 아마추어 네팀 선발...프로팀 4팀과 경쟁한다 (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=114287</link>
@@ -158,18 +166,10 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202309/114255_142515_4137_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[크립토 주간 브리핑] 'KBW 빔'은 없었다...비트코인도 토종코인도 횡보 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=114269</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=114269</guid>
-            <pubDate>Sat, 09 Sep 2023 10:50:00 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202309/114269_142550_4157_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[KDL 통신] 예선 통해 아마추어 네팀 선발...프로팀 4팀과 경쟁한다 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=114287</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=114287</guid>
-            <pubDate>Sun, 10 Sep 2023 15:14:04 GMT</pubDate>
+            <pubDate>Sun, 10 Sep 2023 15:13:45 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202309/114287_142594_5842_v150.jpg" length="0" type="image/jpg"/>
         </item>
@@ -177,7 +177,7 @@
             <title><![CDATA[[KDL 통신] 첫 정규시즌 개인전 본선 진출자는?...문호준-이재혁 등 '레전드' 총집합 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=114286</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=114286</guid>
-            <pubDate>Sun, 10 Sep 2023 15:14:04 GMT</pubDate>
+            <pubDate>Sun, 10 Sep 2023 15:13:45 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202309/114286_142591_4655_v150.jpg" length="0" type="image/jpg"/>
         </item>
@@ -614,6 +614,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202309/114082_142220_828_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[e스포츠人] '호준' 문호준 "세상에서 개인전 예선이 제일 어려워요" (테크M ─ 피플)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=114288</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=114288</guid>
+            <pubDate>Sun, 10 Sep 2023 16:20:07 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202309/114288_142596_1156_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[부고] 박성호(한국인터넷기업협회장)씨 장모상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
@@ -703,7 +711,7 @@
             <title><![CDATA[[부고] 백상수(아이오트러스트 대표)씨 부친상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Sun, 10 Sep 2023 15:15:12 GMT</pubDate>
+            <pubDate>Sun, 10 Sep 2023 16:20:07 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
         </item>
         <item>
@@ -713,14 +721,6 @@
             <pubDate>Sun, 27 Aug 2023 15:13:53 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202308/113797_141785_954_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[e스포츠人] 5년 연속 롤드컵 진출 대기록 세운 '캐니언' 김건부-'쇼메이커' 허수 (테크M ─ 피플)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=113789</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=113789</guid>
-            <pubDate>Sun, 27 Aug 2023 01:27:00 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202308/113789_141771_2535_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[소라픽] 미리 준비하는 추석, '효도템' 추천...눈마사지기-한우-안마의자 (테크M ─ 라이프)]]></title>
