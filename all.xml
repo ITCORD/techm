@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Sep 2023 09:20:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Sep 2023 10:19:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,6 +168,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202309/114319_142640_2446_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[그라비티, 라그나로크X 업데이트 사전예약 페이지 오픈 (테크M ─ 콘텐츠)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=114342</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=114342</guid>
+            <pubDate>Mon, 11 Sep 2023 09:16:19 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202309/114342_142670_5142_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[넥슨 메이플스토리 팝업스토어, 주말 방문 사전예약 1분만 매진 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=114341</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=114341</guid>
@@ -270,14 +278,6 @@
             <pubDate>Sun, 10 Sep 2023 15:13:45 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202309/114286_142591_4655_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[넷마블 저력, '방치형'에서도 통했다...'세븐나이츠 키우기' 애플-구글 매출 1~2위 꿰찼다 (테크M ─ 콘텐츠)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=114285</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=114285</guid>
-            <pubDate>Sun, 10 Sep 2023 08:17:50 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202309/114285_142619_3345_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[KB국민은행, 대학생 캠퍼스 대항전 이벤트 열었다 (테크M ─ 인프라)]]></title>
@@ -713,7 +713,7 @@
             <title><![CDATA[[부고] 백상수(아이오트러스트 대표)씨 부친상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Mon, 11 Sep 2023 09:19:53 GMT</pubDate>
+            <pubDate>Mon, 11 Sep 2023 10:18:28 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
         </item>
         <item>
