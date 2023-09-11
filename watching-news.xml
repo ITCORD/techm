@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Sep 2023 06:23:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Sep 2023 07:17:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 카카오모빌리티, AI 모빌리티 시대를 향해 '기술과 플랫폼의 결합']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=114328</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=114328</guid>
+            <pubDate>Mon, 11 Sep 2023 07:17:42 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202309/114328_142648_1553_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 야나두, 'S3 스핀바이크' 로 집에서도 즐겁게 라이딩 한다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=114255</link>
@@ -110,14 +118,6 @@
             <pubDate>Mon, 28 Aug 2023 07:17:23 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202308/113835_141831_4844_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 삼성전자, AI가 나만의 영양사로... '삼성 푸드' 공개]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=113766</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=113766</guid>
-            <pubDate>Fri, 25 Aug 2023 07:17:57 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202308/113766_141714_046_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

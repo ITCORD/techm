@@ -4,9 +4,17 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Sep 2023 06:23:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Sep 2023 07:17:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[카카오뱅크, 인도네시아 자카르타에서 임직원 해외 봉사]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=114332</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=114332</guid>
+            <pubDate>Mon, 11 Sep 2023 07:15:15 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202309/114332_142658_856_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한문일 무신사 대표 "임직원들과 소통 강화...위탁보육 즉시 시행]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=114323</link>
@@ -110,14 +118,6 @@
             <pubDate>Mon, 11 Sep 2023 09:58:00 GMT</pubDate>
             <content:encoded><![CDATA[조성준 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202309/114292_142599_3143_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SKT, 중기·스타트업에 AWS 클라우드 비용 40% 절감 솔루션 적용한다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=114291</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=114291</guid>
-            <pubDate>Mon, 11 Sep 2023 09:58:00 GMT</pubDate>
-            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202309/114291_142598_164_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
