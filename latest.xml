@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Sep 2023 21:16:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Sep 2023 22:17:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['제로 트러스트' 기대감 상승… 보안업계는 웃고 있다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=114343</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=114343</guid>
+            <pubDate>Tue, 12 Sep 2023 07:05:00 GMT</pubDate>
+            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202309/114343_142671_13_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[아이폰15 미리보기] ③애플 vs. 삼성, 플래그십 스마트폰 시장 '불꽃 경쟁']]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=114348</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 11 Sep 2023 05:15:02 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202309/114323_142644_4222_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2023 롤드컵 예열 시작...플레이-인 스테이지 조편성 완료]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=114321</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=114321</guid>
-            <pubDate>Mon, 11 Sep 2023 05:15:02 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202309/114321_142642_3528_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
