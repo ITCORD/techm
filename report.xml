@@ -4,9 +4,17 @@
         <title>테크M ─ 리포트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Sep 2023 03:20:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Sep 2023 04:20:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[테크M 리포트] "KT 실적 꾸준히 개선 중…배당정책 성향 변경 가능성 낮아"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=114353</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=114353</guid>
+            <pubDate>Tue, 12 Sep 2023 10:39:00 GMT</pubDate>
+            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202309/114353_142688_3513_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[글로벌] "AI 가짜뉴스 우려"...구글, 정치 광고에 AI 사용 표시 의무화]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=114272</link>
@@ -110,14 +118,6 @@
             <pubDate>Thu, 31 Aug 2023 09:17:12 GMT</pubDate>
             <content:encoded><![CDATA[김현기 대표]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202308/114000_142083_2418_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[글로벌] 아마존 CEO "주 3일 사무실 출근 싫으면 퇴사하라"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=113999</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=113999</guid>
-            <pubDate>Thu, 31 Aug 2023 09:17:12 GMT</pubDate>
-            <content:encoded><![CDATA[김현기 대표]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202308/113999_142082_2312_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
