@@ -4,9 +4,25 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Sep 2023 01:08:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Sep 2023 02:24:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[과기정통부, 장애인·고령자 대상 '국민행복 IT 경진대회' 열었다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=114401</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=114401</guid>
+            <pubDate>Wed, 13 Sep 2023 10:30:00 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202309/114401_142748_1535_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[크립토 브리핑] 박스권에 갇힌 비트코인...하루만에 3500만원 회복]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=114417</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=114417</guid>
+            <pubDate>Wed, 13 Sep 2023 10:27:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202309/114417_142777_2445_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[과기정통부 "공공기관 대상 사이버 공격 심화…전략적 대응 할 것"]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=114395</link>
@@ -150,22 +166,6 @@
             <pubDate>Tue, 12 Sep 2023 07:14:48 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202309/114393_142737_569_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[글로벌] 우버, 단기 아르바이트 서비스 개발 착수...운전-배달 넘어 사업 확장]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=114397</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=114397</guid>
-            <pubDate>Tue, 12 Sep 2023 07:14:48 GMT</pubDate>
-            <content:encoded><![CDATA[김현기 대표]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202309/114397_142752_1117_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[글로벌] 마이크로소프트(MS)와 페이지, AI 활용한 암 진단 프로그램 구축]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=114396</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=114396</guid>
-            <pubDate>Tue, 12 Sep 2023 07:14:48 GMT</pubDate>
-            <content:encoded><![CDATA[김현기 대표]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202309/114396_142753_1133_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
