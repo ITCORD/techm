@@ -4,9 +4,17 @@
         <title>테크M ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Sep 2023 10:18:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Sep 2023 11:15:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[문체부 장관에 유인촌 내정...게임 정책 방향은?]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=114469</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=114469</guid>
+            <pubDate>Wed, 13 Sep 2023 11:14:18 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202309/114469_142852_2819_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['토종 AI 스타' 김연수 한컴 대표, 청와대 '초거대 AI 회의' 참석]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=114456</link>
@@ -108,14 +116,6 @@
             <pubDate>Thu, 31 Aug 2023 09:29:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202308/113960_142023_2922_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이글루코퍼레이션, 고용노동부 '노사문화 우수기업' 인증 획득]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=113911</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=113911</guid>
-            <pubDate>Wed, 30 Aug 2023 10:05:00 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202308/113911_141956_56_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
