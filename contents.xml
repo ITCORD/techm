@@ -4,9 +4,17 @@
         <title>테크M ─ 콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Sep 2023 13:18:53 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Sep 2023 14:15:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[PNC 통신] "우승이 보인다"...대한민국, 1위로 2일차 마무리]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=114593</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=114593</guid>
+            <pubDate>Sat, 16 Sep 2023 14:12:43 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202309/114593_143038_952_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[배틀그라운드 국가대항전에 쏠린 관심...상암 1500석 모두 매진]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=114592</link>
@@ -110,14 +118,6 @@
             <pubDate>Fri, 15 Sep 2023 10:22:00 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202309/114548_142953_1455_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NHN페이코·신한은행, 한화 이글스파크에서 결제하면 선물 쏜다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=114546</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=114546</guid>
-            <pubDate>Fri, 15 Sep 2023 10:16:00 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202309/114546_142951_1048_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

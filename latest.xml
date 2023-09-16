@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Sep 2023 13:18:53 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Sep 2023 14:15:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[e스포츠人] '로키'-'이노닉스'가 PNC에서 꼭 우승해야 하는 이유]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=114594</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=114594</guid>
+            <pubDate>Sat, 16 Sep 2023 14:12:28 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202309/114594_143040_018_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[PNC 통신] "우승이 보인다"...대한민국, 1위로 2일차 마무리]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=114593</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 15 Sep 2023 08:19:23 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202309/114570_142978_428_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[PNC 미리보기] 배틀그라운드 최강국 가린다...3일간의 대장정 시작]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=114533</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=114533</guid>
-            <pubDate>Fri, 15 Sep 2023 08:19:23 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202309/114533_142992_717_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
