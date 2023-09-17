@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Sep 2023 13:19:20 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Sep 2023 14:15:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,6 +168,22 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202309/114589_143030_1943_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[현장습격] 우승은 '이노닉스'도 웃게 한다...감격의 PNC 제패 현장 (테크M ─ 콘텐츠)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=114606</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=114606</guid>
+            <pubDate>Sun, 17 Sep 2023 14:13:34 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202309/114606_143075_2013_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[PNC 통신] 4년만에 국제대회 우승...한국대표팀, 배틀그라운드 세계 최강 '우뚝' (테크M ─ 콘텐츠)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=114607</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=114607</guid>
+            <pubDate>Sun, 17 Sep 2023 14:13:34 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202309/114607_143072_1433_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[PNC 통신] "우승이 보인다"...대한민국, 1위로 2일차 마무리 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=114593</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=114593</guid>
@@ -262,22 +278,6 @@
             <pubDate>Fri, 15 Sep 2023 07:14:10 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202309/114567_142971_1811_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[라인게임즈, 신작 '퀀텀 나이츠' 스팀 넥스트 페스트 참가 (테크M ─ 콘텐츠)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=114553</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=114553</guid>
-            <pubDate>Fri, 15 Sep 2023 11:04:00 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202309/114553_142958_479_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이제는 라면이다...펄어비스, 팔도와 '왕뚜껑은사막' 출시 (테크M ─ 콘텐츠)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=114548</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=114548</guid>
-            <pubDate>Fri, 15 Sep 2023 10:22:00 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202309/114548_142953_1455_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["새로운 보안위협의 등장…'제로트러스트' 구축 서둘러야" (테크M ─ 인프라)]]></title>
