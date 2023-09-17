@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Sep 2023 02:24:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Sep 2023 03:17:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["새로운 보안위협의 등장…'제로트러스트' 구축 서둘러야" (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=114584</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=114584</guid>
+            <pubDate>Sun, 17 Sep 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202309/114584_143023_837_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[과기정통부, '실리콘밸리'에 민관 합동 디지털 수출 개척단 파견 (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=114603</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=114603</guid>
+            <pubDate>Sun, 17 Sep 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202309/114603_143049_3317_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[삼성 '더 프레임'에 메트로폴리탄 미술관이 들어왔다 (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=114604</link>
@@ -152,22 +168,6 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202309/114587_143028_1819_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[가봤다] '핫'한 그곳, 성수동에 뜬 배틀그라운드...PNC 즐기는 색다른 방법 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=114575</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=114575</guid>
-            <pubDate>Sat, 16 Sep 2023 04:17:14 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202309/114575_143006_1959_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오픈 베타 테스트 앞둔 넥슨 '퍼스트 디센던트'...한국어 더빙 눈길 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=114581</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=114581</guid>
-            <pubDate>Sat, 16 Sep 2023 04:17:14 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202309/114581_143016_1419_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[PNC 통신] "우승이 보인다"...대한민국, 1위로 2일차 마무리 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=114593</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=114593</guid>
@@ -280,6 +280,22 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202309/114548_142953_1455_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA["새로운 보안위협의 등장…'제로트러스트' 구축 서둘러야" (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=114584</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=114584</guid>
+            <pubDate>Sun, 17 Sep 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202309/114584_143023_837_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[과기정통부, '실리콘밸리'에 민관 합동 디지털 수출 개척단 파견 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=114603</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=114603</guid>
+            <pubDate>Sun, 17 Sep 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202309/114603_143049_3317_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[가을캠핑 'LG 스탠바이미 고'와 함께 더 즐겁게 (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=114602</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=114602</guid>
@@ -374,22 +390,6 @@
             <pubDate>Fri, 15 Sep 2023 07:14:10 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202309/114569_142993_744_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이동관 방통위원장, 통신3사 대표 만나 "통신요금 인하 모색해달라" (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=114565</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=114565</guid>
-            <pubDate>Fri, 15 Sep 2023 07:14:10 GMT</pubDate>
-            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202309/114565_142969_1534_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[반려동물 의료복지 수준 높여요…SKT·수의사회 AI 반려동물 헬스케어 '맞손' (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=114559</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=114559</guid>
-            <pubDate>Fri, 15 Sep 2023 06:22:09 GMT</pubDate>
-            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202309/114559_142965_3821_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[年 200건 쏟아지는 플랫폼 규제..."규제입증책임제 반드시 필요" (테크M ─ 이노베이션)]]></title>

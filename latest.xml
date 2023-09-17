@@ -4,9 +4,25 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Sep 2023 02:24:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Sep 2023 03:17:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["새로운 보안위협의 등장…'제로트러스트' 구축 서둘러야"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=114584</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=114584</guid>
+            <pubDate>Sun, 17 Sep 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202309/114584_143023_837_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[과기정통부, '실리콘밸리'에 민관 합동 디지털 수출 개척단 파견]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=114603</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=114603</guid>
+            <pubDate>Sun, 17 Sep 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202309/114603_143049_3317_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[삼성 '더 프레임'에 메트로폴리탄 미술관이 들어왔다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=114604</link>
@@ -150,22 +166,6 @@
             <pubDate>Sat, 16 Sep 2023 05:13:58 GMT</pubDate>
             <content:encoded><![CDATA[김현기 대표]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202309/114587_143028_1819_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[가봤다] '핫'한 그곳, 성수동에 뜬 배틀그라운드...PNC 즐기는 색다른 방법]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=114575</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=114575</guid>
-            <pubDate>Sat, 16 Sep 2023 04:17:14 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202309/114575_143006_1959_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오픈 베타 테스트 앞둔 넥슨 '퍼스트 디센던트'...한국어 더빙 눈길]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=114581</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=114581</guid>
-            <pubDate>Sat, 16 Sep 2023 04:17:14 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202309/114581_143016_1419_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
