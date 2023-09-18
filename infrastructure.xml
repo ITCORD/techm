@@ -4,9 +4,25 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Sep 2023 02:24:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Sep 2023 03:18:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아이폰 너무 비싸다? 그럼 'FE'를 주목하라]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=114624</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=114624</guid>
+            <pubDate>Mon, 18 Sep 2023 00:02:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202309/114624_143100_142_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[전기차 급속 충전 '워터', 대구 최도심에 새 충전소 열었다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=114623</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=114623</guid>
+            <pubDate>Mon, 18 Sep 2023 11:26:00 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202309/114623_143099_264_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["적에서 동지로"…SKB·넷플릭스, 소송 접고 이익 위해 손잡았다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=114616</link>
@@ -102,22 +118,6 @@
             <pubDate>Sun, 17 Sep 2023 09:00:00 GMT</pubDate>
             <content:encoded><![CDATA[조성준 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202309/114583_143020_3443_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[애플 '아이폰 15 프로 맥스', 美서 지금 주문해도 11월에 받는다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=114588</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=114588</guid>
-            <pubDate>Sat, 16 Sep 2023 05:14:34 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202309/114588_143029_1935_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["통신비 부담 낮추겠다"…'한 뜻' 모은 통신3사·방통위]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=114571</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=114571</guid>
-            <pubDate>Fri, 15 Sep 2023 08:20:00 GMT</pubDate>
-            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202309/114571_142989_555_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
