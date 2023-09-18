@@ -4,9 +4,25 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Sep 2023 03:18:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Sep 2023 04:24:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[네이버, 7년 연속 동반성장지수 평가 '최우수']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=114626</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=114626</guid>
+            <pubDate>Mon, 18 Sep 2023 00:36:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202309/114626_143102_3616_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NHN커머스, 中 '신쉔'과 손잡았다..."현지 라방 매출 5400억 목표"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=114625</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=114625</guid>
+            <pubDate>Mon, 18 Sep 2023 00:29:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202309/114625_143101_2858_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아이폰 너무 비싸다? 그럼 'FE'를 주목하라]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=114624</link>
@@ -150,22 +166,6 @@
             <pubDate>Sun, 17 Sep 2023 15:14:04 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202309/114607_143072_1433_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[흔들리는 '씨파이(CeFi)' 시장...유동성 스테이킹에 '눈길']]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=114605</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=114605</guid>
-            <pubDate>Sun, 17 Sep 2023 05:14:39 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202309/114605_143052_4713_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["새로운 보안위협의 등장…'제로트러스트' 구축 서둘러야"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=114584</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=114584</guid>
-            <pubDate>Sun, 17 Sep 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202309/114584_143023_837_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
