@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Sep 2023 06:25:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Sep 2023 07:17:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 위버스 매거진, 수퍼톤 TTS 기술 적용 '귀로 듣는 콘텐츠 공개']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=114642</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=114642</guid>
+            <pubDate>Mon, 18 Sep 2023 07:17:21 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202309/114642_143118_2718_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[게임코인TV] 나이트크로우 블록체인 버전, 위믹스-크로마로 동시 출격...12월에 나온다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=114577</link>
@@ -110,14 +118,6 @@
             <pubDate>Mon, 04 Sep 2023 07:17:27 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202309/114100_142251_5659_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[게임코인TV] "아무리 급해도 IP분쟁중인 다크앤다커를"...크래프톤은 '상도의'도 내팽겨쳤다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=114046</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=114046</guid>
-            <pubDate>Fri, 01 Sep 2023 08:21:20 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202309/114046_142163_1012_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
