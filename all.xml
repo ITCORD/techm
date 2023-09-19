@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Sep 2023 10:19:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Sep 2023 11:15:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -507,7 +507,7 @@
             <title><![CDATA[박관호 의장, 알파자산운용에 150억원 규모 위메이드 구주 매도...매각 대금 위믹스에 쓴다 (테크M ─ 인베스트먼트)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=114715</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=114715</guid>
-            <pubDate>Tue, 19 Sep 2023 10:18:31 GMT</pubDate>
+            <pubDate>Tue, 19 Sep 2023 10:16:41 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202309/114715_143226_649_v150.jpg" length="0" type="image/jpg"/>
         </item>
@@ -951,6 +951,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202309/114272_142558_470_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[게임코인TV] 개발자와 이용자 경계가 없는 세상을 꿈꾼다...메이플스토리 월드 이야기 (테크M ─ 보는 뉴스)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=114716</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=114716</guid>
+            <pubDate>Tue, 19 Sep 2023 11:15:08 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202309/114716_143227_1238_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[카드뉴스] 펄스나인, 버추얼 그룹 ‘이터니티’ 첫 콘서트 개최 (테크M ─ 보는 뉴스)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=114696</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=114696</guid>
@@ -1053,14 +1061,6 @@
             <pubDate>Wed, 06 Sep 2023 07:14:23 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202309/114185_142403_3156_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 티맵모빌리티, 개인 맞춤형 플랫폼 ‘올 뉴 티맵’ 공개 (테크M ─ 보는 뉴스)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=114146</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=114146</guid>
-            <pubDate>Tue, 05 Sep 2023 07:16:26 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202309/114146_142342_305_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
