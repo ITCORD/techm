@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Sep 2023 23:16:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Sep 2023 01:08:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[템터뷰] '넥슨의 간판 개발자' 이은석의 새로운 도전 '워헤이븐'..."장르도 BM도 새롭다"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=114713</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=114713</guid>
+            <pubDate>Wed, 20 Sep 2023 08:30:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202309/114713_143221_434_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[게임코인TV] 넥슨의 블록체인 게임 '메이플스토리'의 아이템 '다이내믹 밸런싱'은 무엇?]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=114716</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 19 Sep 2023 06:20:19 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202309/114691_143231_4232_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스마일게이트 스토브인디 '러브 딜리버리2' 펀딩 사전 알림 개시]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=114697</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=114697</guid>
-            <pubDate>Tue, 19 Sep 2023 06:20:19 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202309/114697_143199_1031_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
