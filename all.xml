@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Sep 2023 13:25:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Sep 2023 14:18:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[게임코인TV] K게임의 새로운 역사를 만든다...네오위즈 'P의 거짓' (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=114770</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=114770</guid>
+            <pubDate>Wed, 20 Sep 2023 14:15:50 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202309/114770_143324_5351_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[위메이드, 액토즈로부터 계약금 1000억원 수령...갈등 봉합하고 中 간다 (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=114769</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 20 Sep 2023 05:14:03 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202309/114747_143267_5015_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[강희석 체제의 종말...반등 필요한 이마트, 재무통 새 CEO 앉혔다(종합) (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=114746</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=114746</guid>
-            <pubDate>Wed, 20 Sep 2023 00:12:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202309/114746_143315_2522_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아시안게임 D-3 'FC 온라인' 韓 국가대표팀, e스포츠 첫 금메달 사냥 나선다 (테크M ─ 콘텐츠)]]></title>
@@ -951,6 +951,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202309/114272_142558_470_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[게임코인TV] K게임의 새로운 역사를 만든다...네오위즈 'P의 거짓' (테크M ─ 보는 뉴스)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=114770</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=114770</guid>
+            <pubDate>Wed, 20 Sep 2023 14:18:07 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202309/114770_143324_5351_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[카드뉴스] 누비랩 '냠냠키즈', AI가 식습관부터 영양관리까지 책임진다 (테크M ─ 보는 뉴스)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=114759</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=114759</guid>
@@ -1053,14 +1061,6 @@
             <pubDate>Sat, 09 Sep 2023 10:50:00 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202309/114255_142515_4137_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[게임코인TV] 노보그라츠·닉자보·비탈릭·장현국·창펑자오...6회 맞은 KBW의 역사 총정리 (테크M ─ 보는 뉴스)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=114197</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=114197</guid>
-            <pubDate>Wed, 06 Sep 2023 09:15:25 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202309/114197_142455_3634_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
