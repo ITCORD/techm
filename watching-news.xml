@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Sep 2023 06:22:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Sep 2023 07:17:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 누비랩 '냠냠키즈', AI가 식습관부터 영양관리까지 책임진다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=114759</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=114759</guid>
+            <pubDate>Wed, 20 Sep 2023 07:17:08 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202309/114759_143292_586_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[게임코인TV] 넥슨의 블록체인 게임 '메이플스토리'의 아이템 '다이내믹 밸런싱'은 무엇?]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=114716</link>
@@ -110,14 +118,6 @@
             <pubDate>Wed, 06 Sep 2023 09:18:22 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202309/114197_142455_3634_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] SK텔레콤, 콘텐츠까지 더한 가상자산 지갑 'T월렛' 공개]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=114185</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=114185</guid>
-            <pubDate>Wed, 06 Sep 2023 07:16:17 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202309/114185_142403_3156_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
