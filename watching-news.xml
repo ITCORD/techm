@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Sep 2023 07:16:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Sep 2023 08:21:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 나만의 요리를 손쉽게 뚝딱?! 우리의식탁 'AI 셰프'를 이용해보자]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=114863</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=114863</guid>
+            <pubDate>Fri, 22 Sep 2023 08:21:45 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202309/114863_143467_4058_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 네이버 AI 검색 '큐' 복잡한 질문도 척척, 추가 탐색 기능까지 더하다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=114814</link>
@@ -110,14 +118,6 @@
             <pubDate>Tue, 12 Sep 2023 07:16:47 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202309/114387_142722_2852_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 카카오모빌리티, AI 모빌리티 시대를 향해 '기술과 플랫폼의 결합']]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=114328</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=114328</guid>
-            <pubDate>Mon, 11 Sep 2023 07:17:42 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202309/114328_142648_1553_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
