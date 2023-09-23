@@ -4,9 +4,17 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Sep 2023 22:15:52 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Sep 2023 23:16:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[해봤다] "맥북도 게임 됩니다"…따끈따끈한 신작 'P의 거짓' 해보니]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=114881</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=114881</guid>
+            <pubDate>Sun, 24 Sep 2023 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202309/114881_143500_4739_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["디지털 기술로 미래 선도한다"…과기정통부, 'ICT 챌린지 2023' 성료]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=114873</link>
@@ -110,14 +118,6 @@
             <pubDate>Fri, 22 Sep 2023 10:31:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202309/114841_143494_1957_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[웹젠, 하반기 신입사원 공개 채용]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=114840</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=114840</guid>
-            <pubDate>Fri, 22 Sep 2023 10:28:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202309/114840_143426_2852_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
