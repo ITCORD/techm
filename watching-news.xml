@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Sep 2023 06:23:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Sep 2023 07:16:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 네이버 '하이퍼클로바X'가 교육서비스와 만난다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=114947</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=114947</guid>
+            <pubDate>Mon, 25 Sep 2023 07:16:26 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202309/114947_143632_397_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 나만의 요리를 손쉽게 뚝딱?! 우리의식탁 'AI 셰프'를 이용해보자]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=114863</link>
@@ -110,14 +118,6 @@
             <pubDate>Wed, 13 Sep 2023 07:18:09 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202309/114464_142832_5037_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 빗썸 '부리또 월렛' X 더 샌드박스, 블록체인 생태계를 위한 MOU 체결]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=114387</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=114387</guid>
-            <pubDate>Tue, 12 Sep 2023 07:16:47 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202309/114387_142722_2852_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
