@@ -4,9 +4,17 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Sep 2023 23:16:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Sep 2023 01:08:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[LG전자, 노트북 접었다…'LG 그램 폴드' 출시]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=114906</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=114906</guid>
+            <pubDate>Mon, 25 Sep 2023 10:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202309/114906_143575_483_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Z세대여, LG전자의 도전정신을 보라]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=114896</link>
@@ -110,14 +118,6 @@
             <pubDate>Fri, 22 Sep 2023 08:20:04 GMT</pubDate>
             <content:encoded><![CDATA[조성준 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202309/114869_143478_4636_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[KT, 비아이매트릭스와 자연어 분석 AI 데이터 분석 기술 개발 협력]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=114865</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=114865</guid>
-            <pubDate>Fri, 22 Sep 2023 08:20:04 GMT</pubDate>
-            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202309/114865_143476_1814_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
