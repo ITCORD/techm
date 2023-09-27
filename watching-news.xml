@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Sep 2023 07:18:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Sep 2023 08:22:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 퍼플레이에서 게임하고 토큰 받자 '사전예약 진행중']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=115022</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=115022</guid>
+            <pubDate>Wed, 27 Sep 2023 08:22:18 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202309/115022_143755_4545_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[게임코인TV] 군면제 간절한 배그 모바일과 군필자 포진한 스트리트파이터5...아시안게임 e스포츠 관전포인트]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=114992</link>
@@ -110,14 +118,6 @@
             <pubDate>Fri, 15 Sep 2023 16:25:36 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202309/114577_143010_5747_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 더 샌드박스, 인천상륙작전 메타버스와 한정판 NFT 공개]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=114570</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=114570</guid>
-            <pubDate>Fri, 15 Sep 2023 07:16:34 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202309/114570_142978_428_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
