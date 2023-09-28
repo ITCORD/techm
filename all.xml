@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Sep 2023 10:18:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Sep 2023 11:16:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -280,6 +280,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202309/114951_143656_3548_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[SK텔레콤, 최신 MR 기기 '메타퀘스트3' 국내 도입…"세계에서 가장 먼저 만난다" (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=115034</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=115034</guid>
+            <pubDate>Thu, 28 Sep 2023 11:15:15 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202309/115034_143805_1346_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[MR과 AI, 그리고 스마트 글래스…'비전프로'와 다른 저커버그의 '큰 그림' (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=115032</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=115032</guid>
@@ -382,14 +390,6 @@
             <pubDate>Wed, 27 Sep 2023 04:18:11 GMT</pubDate>
             <content:encoded><![CDATA[조성준 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202309/115009_143774_160_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성전자서비스, 10월 2일 임시 공휴일 서비스센터 32곳 운영 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=115007</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=115007</guid>
-            <pubDate>Wed, 27 Sep 2023 00:48:00 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202309/115007_143737_4710_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["삼성전자 4Q 메모리 반도체, 수급 개선-가격 상승 쌍끌이" (테크M ─ 이노베이션)]]></title>
