@@ -4,9 +4,17 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Sep 2023 23:16:10 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Oct 2023 01:15:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[애플 '아이폰 15 프로' 과열 시인..."iOS 업데이트로 해결할 것"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=115049</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=115049</guid>
+            <pubDate>Sun, 01 Oct 2023 08:39:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202310/115049_143842_5553_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[글로벌] 요가하는 테슬라 로봇…머스크 '옵티머스' 영상 공개]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=115036</link>
@@ -53,7 +61,7 @@
             <guid>https://www.techm.kr/news/articleView.html?idxno=115023</guid>
             <pubDate>Wed, 27 Sep 2023 07:15:16 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202309/115023_143776_1710_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202309/115023_143763_13_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['민트톡'으로 유튜버 '덱스'와 한달간 무료로 채팅한다]]></title>
@@ -110,14 +118,6 @@
             <pubDate>Wed, 27 Sep 2023 05:14:53 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202309/115014_143747_5134_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[테크M 이슈] 지니뮤직은 '유튜브 천하' 속에서 어떻게 살아남았나]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=115010</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=115010</guid>
-            <pubDate>Wed, 27 Sep 2023 05:14:53 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202309/115010_143773_1532_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
