@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 Oct 2023 22:19:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Oct 2023 23:18:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -280,6 +280,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202309/115012_143742_4035_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[발열 논란 '아이폰 15' 살까 말까…고민된다면 대안은? (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=115051</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=115051</guid>
+            <pubDate>Tue, 03 Oct 2023 07:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202310/115051_143850_373_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[이재용 회장 "중동은 기회로 가득 찬 보고"…추석 명절 글로벌 현장 경영으로 '금맥' 캔다 (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=115055</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=115055</guid>
@@ -382,14 +390,6 @@
             <pubDate>Wed, 27 Sep 2023 07:14:42 GMT</pubDate>
             <content:encoded><![CDATA[조성준 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202309/115018_143751_1344_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[골프존 GDR아카데미, 성남판교에 500평 규모 직영 2호점 오픈 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=115016</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=115016</guid>
-            <pubDate>Wed, 27 Sep 2023 07:14:42 GMT</pubDate>
-            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202309/115016_143749_259_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[코로나19 백신 개발에 기여한 의과학자 카리코·와이스먼, 노벨생리의학상 수상 영예 (테크M ─ 이노베이션)]]></title>
@@ -839,6 +839,30 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202309/114855_143441_1441_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[글로벌] 애플, 새 中 리스크 직면…앱스토어서 페북·엑스 퇴출? (테크M ─ 리포트)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=115065</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=115065</guid>
+            <pubDate>Tue, 03 Oct 2023 07:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[김현기 대표]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202310/115065_143882_1611_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[글로벌] 中 반도체 기업 칭화유니 전 회장…"국가에 2500억 손실 입혀" (테크M ─ 리포트)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=115066</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=115066</guid>
+            <pubDate>Tue, 03 Oct 2023 07:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[김현기 대표]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202310/115066_143883_1759_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[글로벌] 메타 '매일 벌금 1억원'…노르웨이 "EU 전역 확대해야" (테크M ─ 리포트)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=115067</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=115067</guid>
+            <pubDate>Tue, 03 Oct 2023 07:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[김현기 대표]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202310/115067_143884_1856_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[글로벌] 화웨이, 태블릿에도 7나노 칩 사용…제조공정은 비공개 (테크M ─ 리포트)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=115046</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=115046</guid>
@@ -925,30 +949,6 @@
             <pubDate>Sat, 23 Sep 2023 09:35:00 GMT</pubDate>
             <content:encoded><![CDATA[김현기 대표]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202309/114878_143560_924_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[테크M 리포트] 배당정책 변경 가능성 낮다...성장준비 마치고 다시 뛰는 KT (테크M ─ 리포트)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=114864</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=114864</guid>
-            <pubDate>Fri, 22 Sep 2023 06:20:29 GMT</pubDate>
-            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202309/114864_143475_452_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[글로벌] 독일 "화웨이 등 중국산 5G 장비 단계적 퇴출" (테크M ─ 리포트)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=114809</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=114809</guid>
-            <pubDate>Thu, 21 Sep 2023 00:10:00 GMT</pubDate>
-            <content:encoded><![CDATA[김현기 대표]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202309/114809_143362_1028_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[글로벌] 옛 트위터 'X', 전면 유료화되나...머스크 "월 사용료 부과" (테크M ─ 리포트)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=114808</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=114808</guid>
-            <pubDate>Thu, 21 Sep 2023 00:09:00 GMT</pubDate>
-            <content:encoded><![CDATA[김현기 대표]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202309/114808_143361_94_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[카드뉴스] 퍼플레이에서 게임하고 토큰 받자 '사전예약 진행중' (테크M ─ 보는 뉴스)]]></title>
