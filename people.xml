@@ -1,8 +1,122 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN5&amp;view_type=sm</id>
-    <title>테크M ─ 피플</title>
-    <updated>2023-10-04T18:23:44.928Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.techm.kr/news/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>테크M ─ 피플</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 04 Oct 2023 19:14:44 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['게임고등학교 설립' 꿈에 한 걸음 다가가는 남궁훈, 게임인재단 이어 장학재단도 만든다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=115083</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=115083</guid>
+            <pubDate>Wed, 04 Oct 2023 10:47:00 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202310/115083_143905_432_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[카카오 떠나는 남궁훈..."서강대 교수로 새 출발, AI 엔터테인먼트 콘텐츠 사업 기회 볼 것"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=115078</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=115078</guid>
+            <pubDate>Wed, 04 Oct 2023 10:17:00 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202310/115078_143953_544_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김연수 한컴 대표, 마약 근절 캠페인 참여]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=114962</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=114962</guid>
+            <pubDate>Tue, 26 Sep 2023 09:28:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202309/114962_143669_2759_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[카카오 구원투수로 네이버 공동창업자 등판...김정호 베어베터 대표, 카카오 반등 이끈다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=114908</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=114908</guid>
+            <pubDate>Mon, 25 Sep 2023 10:21:00 GMT</pubDate>
+            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202309/114908_143580_1316_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[아시안게임 e스포츠] 메달 소식 전한 FC온라인 신보석 감독 "끝날 때까지 끝난 것 아냐"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=114902</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=114902</guid>
+            <pubDate>Wed, 04 Oct 2023 19:13:58 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202309/114902_143571_4849_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['코딩농활' 간 LG CNS 신입사원, 부여 초등학생 코딩 강사로 활약]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=114812</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=114812</guid>
+            <pubDate>Thu, 21 Sep 2023 00:28:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202309/114812_143368_2556_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[하이브, 방탄소년단과 두 번째 재계약..."2025년 이후도 함께"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=114767</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=114767</guid>
+            <pubDate>Wed, 04 Oct 2023 19:13:58 GMT</pubDate>
+            <content:encoded><![CDATA[이영아 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202309/114767_143319_3236_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[강희석 체제의 종말...반등 필요한 이마트, 재무통 새 CEO 앉혔다(종합)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=114746</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=114746</guid>
+            <pubDate>Wed, 20 Sep 2023 00:12:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202309/114746_143266_128_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[신세계그룹, 이마트·백화점 CEO 전격 교체..."대표이사 40% 물갈이"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=114745</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=114745</guid>
+            <pubDate>Wed, 20 Sep 2023 11:51:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202309/114745_143265_517_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[부고] 장지호(원격의료산업협의회 회장·닥터나우 이사)씨 부친상]]></title>
+            <link>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN5&amp;view_type=sm</link>
+            <guid>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN5&amp;view_type=sm</guid>
+            <pubDate>Wed, 20 Sep 2023 10:09:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[이건희-이재용 대를 이은 '동행'…안내견과 함께 한 30년, 또 걸어갈 30년]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=114712</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=114712</guid>
+            <pubDate>Wed, 04 Oct 2023 19:13:58 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202309/114712_143217_5457_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[삼성전자, 12년 연속 '동반성장 최우수 기업' 선정…이재용 회장 '동행' 비전 빛났다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=114633</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=114633</guid>
+            <pubDate>Wed, 04 Oct 2023 19:13:58 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202309/114633_143110_566_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[e스포츠人] 우승 일궈낸 PNC 한국대표팀 "자신감 회복, 한국 최강 증명해 기뻐"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=114608</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=114608</guid>
+            <pubDate>Wed, 04 Oct 2023 19:13:58 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202309/114608_143078_4444_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[e스포츠人] '로키'-'이노닉스'가 PNC에서 꼭 우승해야 하는 이유]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=114594</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=114594</guid>
+            <pubDate>Wed, 04 Oct 2023 19:13:58 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202309/114594_143040_018_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
