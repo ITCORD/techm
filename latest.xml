@@ -1,8 +1,171 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.techm.kr/news/articleList.html</id>
-    <title>테크M ─ 전체기사</title>
-    <updated>2023-10-04T17:17:28.608Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.techm.kr/news/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>테크M ─ 전체기사</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 04 Oct 2023 18:23:45 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[노벨화학상 '양자점' 개발한 바웬디·브루스·에키모프 3인 공동 수상]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=115113</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=115113</guid>
+            <pubDate>Wed, 04 Oct 2023 18:20:44 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202310/115113_143954_122_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[가봤다] 엄청난 환호성과 쏟아지는 박수갈채…'걸스BTS' 한국 상륙 대성공]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=115112</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=115112</guid>
+            <pubDate>Wed, 04 Oct 2023 18:20:44 GMT</pubDate>
+            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202310/115112_143946_465_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[크리스마스, 와디즈에서 미리 준비하자...'미리 크리스마스' 기획전]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=115111</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=115111</guid>
+            <pubDate>Wed, 04 Oct 2023 18:20:44 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202310/115111_143945_3227_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['명절 스트레스 쇼핑으로 푸세요"...SK스토아, 10월 한달 간 '쇼핑의 기적' 행사 개최]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=115110</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=115110</guid>
+            <pubDate>Wed, 04 Oct 2023 18:20:44 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202310/115110_143944_2954_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[올해 국정감사서 가상자산 논의는 뒷전...관련 증인 '0명']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=115109</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=115109</guid>
+            <pubDate>Wed, 04 Oct 2023 18:20:44 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202310/115109_143943_1653_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[카드뉴스] 가장 먼저 만나는 '메타퀘스트3'... 국내 첫 출시 임박!]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=115108</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=115108</guid>
+            <pubDate>Wed, 04 Oct 2023 18:20:44 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202310/115108_143934_2751_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[다시 돌아온 국정감사의 계절...게임 이슈는 올해도 찬밥?]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=115107</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=115107</guid>
+            <pubDate>Wed, 04 Oct 2023 18:20:44 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202310/115107_143948_5234_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SKT, '저전력·고효율' 클라우드 인프라 사업 나선다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=115106</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=115106</guid>
+            <pubDate>Wed, 04 Oct 2023 18:20:44 GMT</pubDate>
+            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202310/115106_143932_4539_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[KT 'AI 보이스', 곰믹스 영상 편집 프로그램에 결합한다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=115105</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=115105</guid>
+            <pubDate>Wed, 04 Oct 2023 18:20:44 GMT</pubDate>
+            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202310/115105_143931_3833_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[LG유플러스, '6G 백서' 발간…"차세대 네트워크 생태계 이끌 것"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=115104</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=115104</guid>
+            <pubDate>Wed, 04 Oct 2023 18:20:44 GMT</pubDate>
+            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202310/115104_143930_3023_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[과기정통부, LG전자·세종텔레콤·ETRI에 이음5G 주파수 할당]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=115103</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=115103</guid>
+            <pubDate>Wed, 04 Oct 2023 18:20:44 GMT</pubDate>
+            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202310/115103_143929_2427_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[위믹스 포인트] '신인왕 후보' 김민별, 위믹스 포인트 1위 탈환...마다솜 톱10 진입]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=115102</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=115102</guid>
+            <pubDate>Wed, 04 Oct 2023 18:20:44 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202310/115102_143928_100_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[변협과 분쟁 끝낸 로앤컴퍼니..."규제 엮여있는 스타트업에 희망됐으면"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=115099</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=115099</guid>
+            <pubDate>Wed, 04 Oct 2023 18:20:44 GMT</pubDate>
+            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202310/115099_143949_5248_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[LG유플러스 '교통 돌발상황검지기' ITS 정부 평가서 '최상급' 획득]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=115101</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=115101</guid>
+            <pubDate>Wed, 04 Oct 2023 18:20:44 GMT</pubDate>
+            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202310/115101_143927_518_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[테크M 이슈] 가짜뉴스 이어 '다음 中 응원논란' 도마위...포털 옥죄기 비화될까]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=115100</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=115100</guid>
+            <pubDate>Wed, 04 Oct 2023 18:20:44 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202310/115100_143950_532_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[대세로 올라선 넷마블 '세븐나이츠 키우기'...하루 10만명의 20대가 즐긴다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=115098</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=115098</guid>
+            <pubDate>Wed, 04 Oct 2023 00:46:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202310/115098_143951_5320_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한샘리빙에 쏠리는 눈...신제품 50여종 한샘몰서 풀었다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=115097</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=115097</guid>
+            <pubDate>Wed, 04 Oct 2023 00:35:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202310/115097_143921_3521_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[10주년 맞은 이마트 피코크...연도별 '대박 상품' 할인 행사 열었다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=115096</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=115096</guid>
+            <pubDate>Wed, 04 Oct 2023 00:34:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202310/115096_143920_3359_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[현대백화점 판교점, 15일까지 '블루 아카이브' 팝업스토어 열었다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=115095</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=115095</guid>
+            <pubDate>Wed, 04 Oct 2023 00:31:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202310/115095_143919_3140_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[카카오뱅크, 15일 전산 정기점검 돌입...금융거래 일시 중단]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=115094</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=115094</guid>
+            <pubDate>Wed, 04 Oct 2023 00:28:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202310/115094_143918_2820_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
