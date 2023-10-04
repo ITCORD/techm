@@ -4,9 +4,25 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 Oct 2023 06:23:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Oct 2023 07:17:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 가장 먼저 만나는 '메타퀘스트3'... 국내 첫 출시 임박!]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=115108</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=115108</guid>
+            <pubDate>Wed, 04 Oct 2023 07:14:28 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202310/115108_143934_2751_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[다시 돌아온 국정감사의 계절...게임 이슈는 올해도 찬밥?]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=115107</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=115107</guid>
+            <pubDate>Wed, 04 Oct 2023 07:14:28 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202310/115107_143933_5945_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[SKT, '저전력·고효율' 클라우드 인프라 사업 나선다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=115106</link>
@@ -150,22 +166,6 @@
             <pubDate>Wed, 04 Oct 2023 11:12:00 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202310/115088_143911_99_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성SDS, 레드닷 최고 디자인상 수상…"고객경험 디자인 역량 인정"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=115089</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=115089</guid>
-            <pubDate>Wed, 04 Oct 2023 11:10:00 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202310/115089_143912_956_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[라인게임즈가 꽁꽁 숨겨놨던 미공개 신작은 '창세기전'이다...모바일로 연내 출시]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=115087</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=115087</guid>
-            <pubDate>Wed, 04 Oct 2023 11:08:00 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202310/115087_143910_032_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
