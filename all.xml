@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 Oct 2023 10:21:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Oct 2023 11:15:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[노벨화학상 '양자점' 개발한 바웬디·브루스·에키모프 3인 공동 수상 (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=115113</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=115113</guid>
+            <pubDate>Wed, 04 Oct 2023 11:13:20 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202310/115113_143954_122_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[가봤다] 엄청난 환호성과 쏟아지는 박수갈채…'걸스BTS' 한국 상륙 대성공 (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=115112</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 04 Oct 2023 00:28:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202310/115094_143918_2820_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[금융혁신 꾀하는 카카오뱅크 '26주적금 with 제주항공 롯데면세점' 내놨다 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=115093</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=115093</guid>
-            <pubDate>Wed, 04 Oct 2023 00:26:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202310/115093_143917_2651_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[가봤다] 엄청난 환호성과 쏟아지는 박수갈채…'걸스BTS' 한국 상륙 대성공 (테크M ─ 콘텐츠)]]></title>
@@ -392,6 +392,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202310/115070_143887_126_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[노벨화학상 '양자점' 개발한 바웬디·브루스·에키모프 3인 공동 수상 (테크M ─ 이노베이션)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=115113</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=115113</guid>
+            <pubDate>Wed, 04 Oct 2023 11:14:07 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202310/115113_143954_122_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[변협과 분쟁 끝낸 로앤컴퍼니..."규제 엮여있는 스타트업에 희망됐으면" (테크M ─ 이노베이션)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=115099</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=115099</guid>
@@ -494,14 +502,6 @@
             <pubDate>Thu, 21 Sep 2023 09:15:44 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202309/114828_143414_1321_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LG전자, 빌트인 '시그니처 키친 스위트' 행사 열었다...발베니 위스키와 쿠킹쇼 (테크M ─ 이노베이션)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=114801</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=114801</guid>
-            <pubDate>Thu, 21 Sep 2023 11:11:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202309/114801_143354_1151_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[10주년 앞둔 빗썸, 거래지원 가상자산 265종 수수료 '전면 무료화' (테크M ─ 인베스트먼트)]]></title>
