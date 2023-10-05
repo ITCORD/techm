@@ -4,9 +4,17 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 Oct 2023 23:17:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Oct 2023 01:08:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['아이폰15' 온다…통신3사, 가입자 유치 소매 걷었다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=115114</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=115114</guid>
+            <pubDate>Thu, 05 Oct 2023 09:52:00 GMT</pubDate>
+            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202310/115114_143955_266_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[SKT, '저전력·고효율' 클라우드 인프라 사업 나선다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=115106</link>
@@ -110,14 +118,6 @@
             <pubDate>Tue, 03 Oct 2023 12:30:49 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202310/115075_143893_4359_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LG유플러스, 양자내성암호 전용회선 라인업 1G·10G·100G 구축]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=115070</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=115070</guid>
-            <pubDate>Tue, 03 Oct 2023 10:12:00 GMT</pubDate>
-            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202310/115070_143887_126_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
