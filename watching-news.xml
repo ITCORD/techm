@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 Oct 2023 07:17:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Oct 2023 08:23:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] LG유플 U+콕에 AI 더했다 '정확도 개선부터 합리적 가격제안까지']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=115201</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=115201</guid>
+            <pubDate>Fri, 06 Oct 2023 08:23:34 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202310/115201_144089_1133_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[게임코인TV] '페이커'-'쵸비' 병역 혜택 받는다...메달 싹쓸이한 아시안게임 e스포츠]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=115170</link>
@@ -110,14 +118,6 @@
             <pubDate>Wed, 04 Oct 2023 18:23:44 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202309/114759_143292_586_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[게임코인TV] 넥슨의 블록체인 게임 '메이플스토리'의 아이템 '다이내믹 밸런싱'은 무엇?]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=114716</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=114716</guid>
-            <pubDate>Tue, 19 Sep 2023 11:15:08 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202309/114716_143227_1238_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
