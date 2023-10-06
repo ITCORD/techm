@@ -4,9 +4,17 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 Oct 2023 23:18:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Oct 2023 01:07:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성전자, 차세대 모바일 AP '엑시노스 2400' 공개...역대급 게임 성능 선보인다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=115176</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=115176</guid>
+            <pubDate>Fri, 06 Oct 2023 08:31:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202310/115176_144046_2838_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[SDC2023] 수면부터 음식 섭취까지…가족 건강 책임지는 '커넥티드 헬스케어' 구현]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=115175</link>
@@ -110,14 +118,6 @@
             <pubDate>Thu, 05 Oct 2023 05:15:42 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202310/115131_143979_2547_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LG전자 임직원 봉사단, 몽골서 교육환경 개선 나섰다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=115127</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=115127</guid>
-            <pubDate>Thu, 05 Oct 2023 05:15:42 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202310/115127_143975_2016_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
