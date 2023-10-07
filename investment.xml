@@ -4,9 +4,17 @@
         <title>테크M ─ 인베스트먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 07 Oct 2023 05:16:35 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Oct 2023 06:21:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[크립토 주간 브리핑] 3700만원 돌파한 비트코인...3만달러 갈 수 있을까]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=115215</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=115215</guid>
+            <pubDate>Sat, 07 Oct 2023 06:20:08 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202310/115215_144129_4627_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[크립토 브리핑] 주요 가상자산 1%대 하락...비트코인은 여전히 3700만원대]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=115180</link>
@@ -110,14 +118,6 @@
             <pubDate>Sun, 24 Sep 2023 09:19:00 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202309/114887_143535_1723_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[크립토 브리핑] '매파' FOMC 소화 중인 코인시장...비트코인 소폭 하락]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=114845</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=114845</guid>
-            <pubDate>Fri, 22 Sep 2023 10:52:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202309/114845_143431_5214_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

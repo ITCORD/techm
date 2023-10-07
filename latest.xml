@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 07 Oct 2023 05:16:35 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Oct 2023 06:21:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[크립토 주간 브리핑] 3700만원 돌파한 비트코인...3만달러 갈 수 있을까]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=115215</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=115215</guid>
+            <pubDate>Sat, 07 Oct 2023 06:19:09 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202310/115215_144129_4627_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[빗썸, 수수료 0% 승부수 통했나...거래량 50% 늘었다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=115214</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 06 Oct 2023 04:18:56 GMT</pubDate>
             <content:encoded><![CDATA[조성준 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202310/115193_144066_3322_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[네오위즈 'P의 거짓', '골든 조이스틱 어워드 2023' 최고의 비주얼 디자인 후보 선정]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=115191</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=115191</guid>
-            <pubDate>Fri, 06 Oct 2023 04:18:56 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202310/115191_144064_2335_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
