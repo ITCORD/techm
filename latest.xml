@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 07 Oct 2023 04:20:16 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Oct 2023 05:16:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[빗썸, 수수료 0% 승부수 통했나...거래량 50% 늘었다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=115214</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=115214</guid>
+            <pubDate>Sat, 07 Oct 2023 05:13:30 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202310/115214_144125_3847_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[글로벌] 일론 머스크, 잇단 소송...美 SEC "인수조사 소환 응하라"]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=115210</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 06 Oct 2023 04:18:56 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202310/115191_144064_2335_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[컴투스, 신임 IR실장에 애널리스트 출신 김동희 상무 영입]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=115190</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=115190</guid>
-            <pubDate>Fri, 06 Oct 2023 04:18:56 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202310/115190_144063_1745_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
