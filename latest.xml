@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 Oct 2023 05:16:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Oct 2023 06:24:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[실리콘밸리의 한국인] "스타트업 불경기지만…곧 따뜻한 봄 올 것"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=115360</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=115360</guid>
+            <pubDate>Wed, 11 Oct 2023 06:21:57 GMT</pubDate>
+            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202310/115360_144329_835_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[테크M 리포트] 캐주얼로 잘 나가는 넷마블, 신작 모멘텀 쏟아낸다...흑자 속도 'UP']]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=115359</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 11 Oct 2023 09:25:00 GMT</pubDate>
             <content:encoded><![CDATA[조성준 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202310/115334_144301_2153_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[토스뱅크, 아이돌 함께 키우는 '같이 덕질하기 서비스' 내놨다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=115338</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=115338</guid>
-            <pubDate>Wed, 11 Oct 2023 09:25:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202310/115338_144304_2513_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

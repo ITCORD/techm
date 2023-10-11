@@ -4,9 +4,17 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 Oct 2023 05:16:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Oct 2023 06:24:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[실리콘밸리의 한국인] "스타트업 불경기지만…곧 따뜻한 봄 올 것"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=115360</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=115360</guid>
+            <pubDate>Wed, 11 Oct 2023 06:22:31 GMT</pubDate>
+            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202310/115360_144329_835_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[LG전자, 'LG 울트라기어 게이밍모니터 LoL 에디션' 출시]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=115350</link>
@@ -110,14 +118,6 @@
             <pubDate>Wed, 11 Oct 2023 09:17:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202310/115332_144298_178_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인테리어 사업도 디지털 전환…KT, 현대리바트와 맞손]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=115325</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=115325</guid>
-            <pubDate>Wed, 11 Oct 2023 09:13:00 GMT</pubDate>
-            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202310/115325_144290_826_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
