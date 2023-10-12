@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 Oct 2023 03:19:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Oct 2023 04:23:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -280,6 +280,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202310/115368_144346_4443_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[쿠팡 트래블, 골드박스 특가 판매…가을 나들이 여행상품 최대 46% 할인 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=115415</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=115415</guid>
+            <pubDate>Thu, 12 Oct 2023 04:20:48 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202310/115415_144399_1557_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[2주년 맞은 토스뱅크...800만 고객 더불어 상생 금융으로 '우뚝' (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=115412</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=115412</guid>
@@ -382,14 +390,6 @@
             <pubDate>Thu, 12 Oct 2023 09:34:00 GMT</pubDate>
             <content:encoded><![CDATA[조성준 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202310/115387_144376_80_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SKT, 은행연합회 손잡고 금융사기 예방 나선다 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=115388</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=115388</guid>
-            <pubDate>Thu, 12 Oct 2023 09:34:00 GMT</pubDate>
-            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202310/115388_144377_1220_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[KB국민은행, 리브 Next '하트 서비스' 개편 기념 이벤트 진행 (테크M ─ 이노베이션)]]></title>
