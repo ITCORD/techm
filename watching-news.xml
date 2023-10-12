@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 Oct 2023 06:23:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Oct 2023 07:17:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] '신한둥이' 풍성한 혜택담은 멤버십 NFT 출시]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=115421</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=115421</guid>
+            <pubDate>Thu, 12 Oct 2023 07:17:17 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202310/115421_144410_028_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] LG유플러스, 메타버스에서 '한국외대 직무박람회' 개최]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=115364</link>
@@ -110,14 +118,6 @@
             <pubDate>Mon, 25 Sep 2023 07:16:26 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202309/114947_143632_397_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 나만의 요리를 손쉽게 뚝딱?! 우리의식탁 'AI 셰프'를 이용해보자]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=114863</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=114863</guid>
-            <pubDate>Fri, 22 Sep 2023 08:21:45 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202309/114863_143467_4058_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
