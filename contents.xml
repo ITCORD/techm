@@ -4,9 +4,17 @@
         <title>테크M ─ 콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 Oct 2023 07:17:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Oct 2023 08:22:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[귀로 즐기는 넥슨 게임…'블루아카이브'까지 4번째 오케스트라 공연]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=115427</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=115427</guid>
+            <pubDate>Thu, 12 Oct 2023 08:20:33 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202310/115427_144430_4140_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[피리부는 강아지, 한국어질리티연합과 맞손...반려문화사업 확장]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=115410</link>
@@ -110,14 +118,6 @@
             <pubDate>Wed, 11 Oct 2023 07:14:55 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202310/115369_144347_4550_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[카카오게임즈 '아키에이지 워' 월드 서버 이전 스타트]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=115368</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=115368</guid>
-            <pubDate>Wed, 11 Oct 2023 07:14:55 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202310/115368_144346_4443_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
