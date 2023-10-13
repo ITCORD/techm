@@ -4,9 +4,17 @@
         <title>테크M ─ 콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 13 Oct 2023 07:16:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Oct 2023 08:22:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 우영우 아바타 컬렉션 출시 '메타버스에서 만난다']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=115471</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=115471</guid>
+            <pubDate>Fri, 13 Oct 2023 08:20:35 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202310/115471_144492_290_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['지스타 2023 게임 코스프레 어워즈' 참가자 모집 시작]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=115463</link>
@@ -110,14 +118,6 @@
             <pubDate>Thu, 12 Oct 2023 10:12:00 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202310/115394_144382_519_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[KDL 통신] 문호준 이끄는 세종, 아마추어팀에 덜미...샌드박스는 첫 승 신고]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=115385</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=115385</guid>
-            <pubDate>Wed, 11 Oct 2023 16:20:29 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202310/115385_144374_1535_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
