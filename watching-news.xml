@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 16 Oct 2023 07:18:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Oct 2023 08:23:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 창작자들의 글쓰기 도구로 활용되는 네이버 ‘클로바 포 라이팅‘]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=115536</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=115536</guid>
+            <pubDate>Mon, 16 Oct 2023 08:23:05 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202310/115536_144612_721_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] '신한둥이' 풍성한 혜택담은 멤버십 NFT 출시]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=115421</link>
@@ -110,14 +118,6 @@
             <pubDate>Wed, 04 Oct 2023 18:23:44 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202309/114983_143690_405_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 네이버 '하이퍼클로바X'가 교육서비스와 만난다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=114947</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=114947</guid>
-            <pubDate>Mon, 25 Sep 2023 07:16:26 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202309/114947_143632_397_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
