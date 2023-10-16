@@ -4,9 +4,17 @@
         <title>테크M ─ 콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 16 Oct 2023 05:17:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Oct 2023 06:26:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["코인 빨래방보다 모바일 세탁 서비스…수거·배달이 가장 큰 장점"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=115531</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=115531</guid>
+            <pubDate>Mon, 16 Oct 2023 06:22:13 GMT</pubDate>
+            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202310/115531_144608_1830_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[쟁글, 인터체인 플랫폼 '하바' 밸리데이터 합류]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=115527</link>
@@ -110,14 +118,6 @@
             <pubDate>Fri, 13 Oct 2023 09:54:00 GMT</pubDate>
             <content:encoded><![CDATA[조성준 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202310/115453_144468_4750_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[넥슨, 신작 모바일 액션 RPG '빌딩앤파이터' 크리에이터즈 사전 모집]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=115452</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=115452</guid>
-            <pubDate>Fri, 13 Oct 2023 09:42:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202310/115452_144467_4235_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
