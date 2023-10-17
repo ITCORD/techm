@@ -4,9 +4,17 @@
         <title>테크M ─ 콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 16 Oct 2023 23:17:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Oct 2023 01:08:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[네오위즈 'P의 거짓', 글로벌 누적 판매량 100만장 돌파]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=115553</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=115553</guid>
+            <pubDate>Tue, 17 Oct 2023 09:25:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202310/115553_144651_2337_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[PWS 통신] "1위 못하면 섭섭하지"...우승후보 다나와, 4주차 1위로 출발]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=115550</link>
@@ -110,14 +118,6 @@
             <pubDate>Sun, 15 Oct 2023 13:16:58 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202310/115494_144564_732_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[KDL 통신] 배성빈의 날, 에결도 이기고 개인전도 1위...광동 선두 수성]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=115492</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=115492</guid>
-            <pubDate>Sun, 15 Oct 2023 13:16:58 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202310/115492_144559_1936_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
