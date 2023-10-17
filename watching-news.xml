@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 17 Oct 2023 05:17:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Oct 2023 06:24:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] SK텔레콤 이프랜드 업데이트 된다 ‘유료재화부터 NFT까지 도입’]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=115586</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=115586</guid>
+            <pubDate>Tue, 17 Oct 2023 06:24:08 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202310/115586_144695_90_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 창작자들의 글쓰기 도구로 활용되는 네이버 ‘클로바 포 라이팅‘]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=115536</link>
@@ -110,14 +118,6 @@
             <pubDate>Tue, 26 Sep 2023 14:17:19 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202309/114988_143710_1410_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 네이버 제페토에서 만나는 구찌…패션쇼부터 신상 아이템까지]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=114983</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=114983</guid>
-            <pubDate>Wed, 04 Oct 2023 18:23:44 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202309/114983_143690_405_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
