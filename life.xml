@@ -4,7 +4,7 @@
         <title>테크M ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 18 Oct 2023 08:23:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Oct 2023 09:18:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,14 +30,6 @@
             <pubDate>Wed, 18 Oct 2023 06:22:58 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202310/115631_144772_4627_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[킴스오아시스에 쏠리는 눈...식품 이머커스 '온오프라인' 시너지 UP]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=115630</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=115630</guid>
-            <pubDate>Wed, 18 Oct 2023 06:22:58 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202310/115630_144771_4431_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[무신사, 여성 인기 브랜드 신상품 쏜다...'우먼 윈터' 기획전 오픈]]></title>
@@ -118,6 +110,14 @@
             <pubDate>Mon, 16 Oct 2023 10:00:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202310/115505_144575_3254_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤직카우, ISO27701 인증 추가 획득...글로벌 정보보호 역량 입증]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=115506</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=115506</guid>
+            <pubDate>Mon, 16 Oct 2023 09:34:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202310/115506_144576_3440_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
