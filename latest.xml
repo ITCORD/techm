@@ -4,9 +4,25 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 18 Oct 2023 12:36:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Oct 2023 13:22:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[KDL 통신] 문호준, 팀 살렸다...미래앤세종, 락스 꺾고 첫 승 신고]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=115647</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=115647</guid>
+            <pubDate>Wed, 18 Oct 2023 13:19:58 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202310/115647_144807_822_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["올해 맥북 출하량 30% 감소" 위기감 커지는 애플]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=115648</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=115648</guid>
+            <pubDate>Wed, 18 Oct 2023 13:19:58 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202310/115648_144806_5746_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[더존비즈온-한국가스기술공사, 공공분야 국산 ERP 확산 '맞손']]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=115646</link>
@@ -150,22 +166,6 @@
             <pubDate>Wed, 18 Oct 2023 06:21:10 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202310/115626_144768_3615_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[경기침체도 무색...잘 나가는 아프리카TV, 별풍선으로 빅테크 '도약']]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=115625</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=115625</guid>
-            <pubDate>Wed, 18 Oct 2023 06:21:10 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202310/115625_144803_441_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[테크M 이슈] 스타트업 기술탈취 논란...네이버가 억울한 이유]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=115624</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=115624</guid>
-            <pubDate>Wed, 18 Oct 2023 06:21:10 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202310/115624_144804_4416_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
