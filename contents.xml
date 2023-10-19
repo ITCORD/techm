@@ -4,9 +4,17 @@
         <title>테크M ─ 콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 19 Oct 2023 06:23:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Oct 2023 07:16:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[책] 우주쓰레기가 뭐지?...현수와 떠나는 우주 여행 '우주쓰레기가 우리집에 떨어졌다']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=115703</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=115703</guid>
+            <pubDate>Thu, 19 Oct 2023 07:14:45 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202310/115703_144880_2013_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[파라메타, 비트블루와 맞손 IP·콘텐츠 토큰증권 플랫폼 구축]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=115699</link>
@@ -110,14 +118,6 @@
             <pubDate>Thu, 19 Oct 2023 09:53:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202310/115663_144826_539_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[넥슨, 청소년 대상 '알기 쉬운 개인정보처리' 안내 페이지 오픈]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=115661</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=115661</guid>
-            <pubDate>Thu, 19 Oct 2023 09:52:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202310/115661_144825_5158_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
