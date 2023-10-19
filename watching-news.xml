@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 19 Oct 2023 07:16:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Oct 2023 08:23:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] LG유플러스-롯데홈쇼핑, 인천시 'NFT를 위해 뭉쳤다']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=115698</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=115698</guid>
+            <pubDate>Thu, 19 Oct 2023 08:23:53 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202310/115698_144865_5728_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 교육시장까지 공략하는 엔씨소프트 'AI 맞춤형 학습 서비스 개발']]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=115639</link>
@@ -110,14 +118,6 @@
             <pubDate>Tue, 26 Sep 2023 16:24:04 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202309/114992_143715_2818_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[게임코인TV] "e스포츠 최초의 메달 획득" FC온라인 편...아시안게임 e스포츠 관전 포인트]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=114990</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=114990</guid>
-            <pubDate>Tue, 26 Sep 2023 14:17:19 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202309/114990_143711_572_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
