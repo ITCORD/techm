@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 19 Oct 2023 23:17:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Oct 2023 01:08:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가상자산 거래소 코빗, '거래 수수료 전면 무료' 이벤트 실시 (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=115713</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=115713</guid>
+            <pubDate>Fri, 20 Oct 2023 09:38:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202310/115713_144900_3331_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[테크M 트렌드] 자산유동화 속도 내는 유통가, 계열사·부동산 매각···"선제적 투자-기민한 대응" (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=115682</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 19 Oct 2023 06:21:08 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202310/115695_144861_3240_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스마일게이트RPG, '로스트아크 모바일' 티저 페이지 오픈 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=115691</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=115691</guid>
-            <pubDate>Thu, 19 Oct 2023 06:21:08 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202310/115691_144858_2440_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[책] 우주쓰레기가 뭐지?...현수와 떠나는 우주 여행 '우주쓰레기가 우리집에 떨어졌다' (테크M ─ 콘텐츠)]]></title>
@@ -504,6 +504,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202310/115113_143954_122_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[가상자산 거래소 코빗, '거래 수수료 전면 무료' 이벤트 실시 (테크M ─ 인베스트먼트)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=115713</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=115713</guid>
+            <pubDate>Fri, 20 Oct 2023 09:38:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202310/115713_144900_3331_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[크립토 브리핑] 커지는 비트코인 상승 기대감...테슬라도 안 팔았다? (테크M ─ 인베스트먼트)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=115657</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=115657</guid>
@@ -608,14 +616,6 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202310/115507_144577_4721_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[크립토 주간 브리핑] 비트코인만 간신히 버텼다…주요 가상자산 일제 하락 (테크M ─ 인베스트먼트)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=115476</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=115476</guid>
-            <pubDate>Sat, 14 Oct 2023 11:53:00 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202310/115476_144521_225_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[테크M 리포트] "김유진 전략 통했다" 체질개선 성공한 한샘...컨센서스 상회 '눈길' (테크M ─ 피플)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=115697</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=115697</guid>
@@ -627,7 +627,7 @@
             <title><![CDATA[[인사] 블록체인밸리 미디어 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Thu, 19 Oct 2023 23:16:43 GMT</pubDate>
+            <pubDate>Fri, 20 Oct 2023 01:07:28 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
         </item>
         <item>
