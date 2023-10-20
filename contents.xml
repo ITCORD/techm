@@ -4,9 +4,17 @@
         <title>테크M ─ 콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 20 Oct 2023 03:18:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Oct 2023 04:20:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[컴투스 '낚시의 신' 낚시 정보 공유 앱 '어신'과 콜라보 이벤트]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=115735</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=115735</guid>
+            <pubDate>Fri, 20 Oct 2023 00:16:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202310/115735_144932_1622_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['착한기업' 카카오게임즈 '찾아가는 프렌즈게임 랜드' 진행]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=115733</link>
@@ -110,14 +118,6 @@
             <pubDate>Thu, 19 Oct 2023 06:21:27 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202310/115688_144856_2048_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[하반기 반등 나선 웹젠, 신작 MMORPG '뮤 모나크' 출격]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=115684</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=115684</guid>
-            <pubDate>Thu, 19 Oct 2023 05:15:16 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202310/115684_144853_215_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
