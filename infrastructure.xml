@@ -4,9 +4,17 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 21 Oct 2023 03:17:23 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Oct 2023 04:20:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성전자, 초거대 AI 시대 주도할 HBM3E D램 '샤인볼트' 공개]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=115751</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=115751</guid>
+            <pubDate>Sat, 21 Oct 2023 00:45:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202310/115751_144965_445_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2년 연속 국감 불려 간 LG CNS, 차세대 사회보장정보시스템 오류 사태에 "책임 통감"]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=115749</link>
@@ -110,14 +118,6 @@
             <pubDate>Fri, 20 Oct 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202310/115726_144919_00_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[네이버클라우드, 롯데카드 '클라우드 기반 컨택센터' 구축 완료]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=115723</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=115723</guid>
-            <pubDate>Fri, 20 Oct 2023 11:48:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202310/115723_144916_484_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
