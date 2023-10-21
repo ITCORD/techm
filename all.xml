@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 21 Oct 2023 07:16:25 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Oct 2023 08:21:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[크립토 주간 브리핑] 비트코인 일주일새 8% '껑충'...상승세 이어갈까 (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=115756</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=115756</guid>
+            <pubDate>Sat, 21 Oct 2023 08:17:53 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202310/115756_144989_5824_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[글로벌] 유료화 시동거는 소셜미디어...머스크의 엑스 "1년 사용료 1달러 내야" (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=115754</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 20 Oct 2023 00:19:00 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202310/115732_144956_167_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[컴투스 '낚시의 신' 낚시 정보 공유 앱 '어신'과 콜라보 이벤트 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=115735</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=115735</guid>
-            <pubDate>Fri, 20 Oct 2023 00:16:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202310/115735_144932_1622_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[롤드컵 브리핑] 2승 젠지 '순항', T1-KT는 1승1패...2패 DK는 '난항' (테크M ─ 콘텐츠)]]></title>
@@ -504,6 +504,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202310/115113_143954_122_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[크립토 주간 브리핑] 비트코인 일주일새 8% '껑충'...상승세 이어갈까 (테크M ─ 인베스트먼트)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=115756</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=115756</guid>
+            <pubDate>Sat, 21 Oct 2023 08:19:42 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202310/115756_144989_5824_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[하드웨어 월렛 '라이더', 120만달러 규모 투자 유치 (테크M ─ 인베스트먼트)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=115746</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=115746</guid>
@@ -608,14 +616,6 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202310/115526_144603_4253_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[네이버제트 '제페토X' 코인 'ZTX' 빗썸·코인원 상장 (테크M ─ 인베스트먼트)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=115522</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=115522</guid>
-            <pubDate>Mon, 16 Oct 2023 11:45:00 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202310/115522_144637_412_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[테크M 리포트] "김유진 전략 통했다" 체질개선 성공한 한샘...컨센서스 상회 '눈길' (테크M ─ 피플)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=115697</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=115697</guid>
@@ -627,7 +627,7 @@
             <title><![CDATA[[인사] 블록체인밸리 미디어 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Sat, 21 Oct 2023 07:15:04 GMT</pubDate>
+            <pubDate>Sat, 21 Oct 2023 08:20:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
         </item>
         <item>
