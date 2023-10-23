@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 23 Oct 2023 07:16:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Oct 2023 08:23:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 네이버 'FOR YOU'가 맞춤형 여행상품 추천해준다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=115810</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=115810</guid>
+            <pubDate>Mon, 23 Oct 2023 08:23:30 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202310/115810_145061_5756_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[게임코인TV] SK 이프랜드도 코인 발행?...네이버제트코인 'ZTX' 이야기 2편]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=115773</link>
@@ -110,14 +118,6 @@
             <pubDate>Thu, 05 Oct 2023 13:21:54 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202310/115170_144040_5817_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] '곰믹스' 영상 편집 기술에 KT 'AI 보이스'를 더하다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=115158</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=115158</guid>
-            <pubDate>Thu, 05 Oct 2023 08:24:28 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202310/115158_144003_217_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
