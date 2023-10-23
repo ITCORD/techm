@@ -4,9 +4,17 @@
         <title>테크M ─ 콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 23 Oct 2023 09:18:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Oct 2023 10:19:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["한일전은 꼭 이긴다"...배그 모바일, 일본팀 제치고 한국 대표 DK 우승]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=115822</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=115822</guid>
+            <pubDate>Mon, 23 Oct 2023 10:17:35 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202310/115822_145088_196_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[웹젠 '뮤 모나크' 구글 플레이 인기 1위로 우뚝]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=115819</link>
@@ -110,14 +118,6 @@
             <pubDate>Mon, 23 Oct 2023 11:28:00 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202310/115781_145022_618_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[신작 쏟아내는 웹젠 '어둠의 실력자가 되고 싶어서!' 26일 출격]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=115782</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=115782</guid>
-            <pubDate>Mon, 23 Oct 2023 11:14:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202310/115782_145025_1426_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
