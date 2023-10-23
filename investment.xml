@@ -4,9 +4,17 @@
         <title>테크M ─ 인베스트먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 23 Oct 2023 01:09:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Oct 2023 02:26:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[크립토 브리핑] 우상향 그래프 그리는 비트코인, 3만달러 돌파]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=115780</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=115780</guid>
+            <pubDate>Mon, 23 Oct 2023 10:40:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202310/115780_145020_3757_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[크립토 주간 브리핑] 비트코인 일주일새 8% '껑충'...상승세 이어갈까]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=115756</link>
@@ -110,14 +118,6 @@
             <pubDate>Mon, 16 Oct 2023 14:16:29 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202310/115549_144646_3957_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[테크M 이슈] 3Q 실적으로 엇갈린 네이버-카카오...4Q 반등 모멘텀 짚어보니]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=115526</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=115526</guid>
-            <pubDate>Mon, 16 Oct 2023 05:16:09 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202310/115526_144603_4253_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

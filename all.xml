@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 23 Oct 2023 01:09:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Oct 2023 02:26:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,6 +168,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202310/115751_144965_445_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[신작 쏟아내는 웹젠 '어둠의 실력자가 되고 싶어서!' 26일 출격 (테크M ─ 콘텐츠)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=115782</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=115782</guid>
+            <pubDate>Mon, 23 Oct 2023 11:14:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202310/115782_145025_1426_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[롤드컵 브리핑] 젠지, 3전 전승으로 8강 진출...T1-KT, 2승 대열 합류 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=115772</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=115772</guid>
@@ -272,12 +280,44 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202310/115721_144914_4540_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[한국콘텐츠진흥원, 2023년 게임더하기 우수성과 게임사 선정 (테크M ─ 콘텐츠)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=115720</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=115720</guid>
-            <pubDate>Fri, 20 Oct 2023 11:44:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202310/115720_144913_4415_v150.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[KT, 프랑스 통신 전시회 참가해 차세대 인터넷 신기술 공개한다 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=115779</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=115779</guid>
+            <pubDate>Mon, 23 Oct 2023 10:09:00 GMT</pubDate>
+            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202310/115779_145019_71_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[LG유플러스 '한눈에쇼핑' 개편…이용자 95만 넘었다 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=115777</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=115777</guid>
+            <pubDate>Mon, 23 Oct 2023 10:07:00 GMT</pubDate>
+            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202310/115777_145018_047_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["부산 엑스포 유치 응원해요"…LG유플러스, 부산 곳곳에서 유치 이벤트 진행 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=115776</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=115776</guid>
+            <pubDate>Mon, 23 Oct 2023 10:07:00 GMT</pubDate>
+            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202310/115776_145017_5624_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[에스원, 소상공인 고민 나눈다…안심라이프 올인원 패키지 공개 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=115775</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=115775</guid>
+            <pubDate>Mon, 23 Oct 2023 10:07:00 GMT</pubDate>
+            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202310/115775_145016_480_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['미들마일' 카드 만지작…SKT, AI 대형트럭 자율주행 기술 개발 나선다 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=115774</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=115774</guid>
+            <pubDate>Mon, 23 Oct 2023 10:07:00 GMT</pubDate>
+            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202310/115774_145015_4228_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[SKT, 도이치텔레콤과 맞손…내년 1분기 '특화 LLM' 띄운다 (테크M ─ 인프라)]]></title>
@@ -350,46 +390,6 @@
             <pubDate>Fri, 20 Oct 2023 07:14:08 GMT</pubDate>
             <content:encoded><![CDATA[조성준 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202310/115736_144934_5442_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["AI가 하이라이트 보여줘요"…SKT, 에이닷서 KBL 전 경기 무료 생중계 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=115737</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=115737</guid>
-            <pubDate>Fri, 20 Oct 2023 07:14:08 GMT</pubDate>
-            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202310/115737_144935_041_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가계통신비 절감 본격화되나…방통위, 이통3사와 논의 착수 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=115739</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=115739</guid>
-            <pubDate>Fri, 20 Oct 2023 07:14:08 GMT</pubDate>
-            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202310/115739_144937_244_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['정수기 명가' 코웨이, 구매안심지수 정수기·비데 부문 1위 선정 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=115741</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=115741</guid>
-            <pubDate>Fri, 20 Oct 2023 07:14:08 GMT</pubDate>
-            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202310/115741_144938_2758_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[카카오엔터프라이즈, 디지털 혁신 위해 세일즈포스코리아와 '맞손' (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=115742</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=115742</guid>
-            <pubDate>Fri, 20 Oct 2023 07:14:08 GMT</pubDate>
-            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202310/115742_144939_4515_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[UAM 시대 앞당겨질까…SKT, 특허청과 기술·특허 공유 간담회 개최 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=115743</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=115743</guid>
-            <pubDate>Fri, 20 Oct 2023 07:14:08 GMT</pubDate>
-            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202310/115743_144940_2052_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[위메이드 위믹스, 바이낸스 블록체인 위크 참여...'우나기' 확장 나선다 (테크M ─ 이노베이션)]]></title>
@@ -504,6 +504,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202310/115123_143971_720_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[크립토 브리핑] 우상향 그래프 그리는 비트코인, 3만달러 돌파 (테크M ─ 인베스트먼트)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=115780</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=115780</guid>
+            <pubDate>Mon, 23 Oct 2023 10:40:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202310/115780_145020_3757_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[크립토 주간 브리핑] 비트코인 일주일새 8% '껑충'...상승세 이어갈까 (테크M ─ 인베스트먼트)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=115756</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=115756</guid>
@@ -608,14 +616,6 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202310/115549_144646_3957_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[테크M 이슈] 3Q 실적으로 엇갈린 네이버-카카오...4Q 반등 모멘텀 짚어보니 (테크M ─ 인베스트먼트)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=115526</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=115526</guid>
-            <pubDate>Mon, 16 Oct 2023 05:15:01 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202310/115526_144603_4253_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[e스포츠人] 죽음의 조에서 1위한 '쿨' 이재혁 "개인전서 '루닝' 가장 견재돼" (테크M ─ 피플)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=115762</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=115762</guid>
@@ -635,7 +635,7 @@
             <title><![CDATA[[인사] 블록체인밸리 미디어 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Sun, 22 Oct 2023 23:15:53 GMT</pubDate>
+            <pubDate>Mon, 23 Oct 2023 02:25:14 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
         </item>
         <item>
@@ -727,6 +727,38 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202310/115400_144387_67_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[잘 나가는 뮤직카우 "음악저작권 지수 200선 돌파" (테크M ─ 라이프)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=115786</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=115786</guid>
+            <pubDate>Mon, 23 Oct 2023 11:20:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202310/115786_145029_2022_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[쿠팡, 이랜드 인기 브랜드 할인전…가을·겨울 아이템 최대 60% 할인 (테크M ─ 라이프)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=115785</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=115785</guid>
+            <pubDate>Mon, 23 Oct 2023 11:18:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202310/115785_145028_1814_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[무신사, 떠오르는 여성 패션 브랜드 5개와 오프라인 팝업 '눈길' (테크M ─ 라이프)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=115784</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=115784</guid>
+            <pubDate>Mon, 23 Oct 2023 11:17:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202310/115784_145027_1655_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[컬리 '10월 슈퍼 빅 세일' 개최…상품 2300여개 최대 63% 할인 (테크M ─ 라이프)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=115783</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=115783</guid>
+            <pubDate>Mon, 23 Oct 2023 11:16:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202310/115783_145026_161_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[소라픽] 일주일 앞으로 다가온 핼러윈...쿠팡-티몬-위메프에서 소소하게 즐기자 (테크M ─ 라이프)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=115717</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=115717</guid>
@@ -805,38 +837,6 @@
             <pubDate>Thu, 19 Oct 2023 09:45:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202310/115656_144820_4539_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['착한기업' 카카오게임즈, 배틀그라운드 기부금 장병 심리치료로 전달 (테크M ─ 라이프)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=115637</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=115637</guid>
-            <pubDate>Wed, 18 Oct 2023 06:21:10 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202310/115637_144778_043_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['상생 커머스' 쿠팡, 로켓그로스로 중소상공인 웃었다 (테크M ─ 라이프)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=115634</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=115634</guid>
-            <pubDate>Wed, 18 Oct 2023 06:21:10 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202310/115634_144775_549_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['착한 기업' 이마트, 2년 연속 중소협력사 ESG 역량 강화 지원 (테크M ─ 라이프)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=115631</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=115631</guid>
-            <pubDate>Wed, 18 Oct 2023 06:21:10 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202310/115631_144772_4627_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[무신사, 여성 인기 브랜드 신상품 쏜다...'우먼 윈터' 기획전 오픈 (테크M ─ 라이프)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=115628</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=115628</guid>
-            <pubDate>Wed, 18 Oct 2023 06:21:10 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202310/115628_144770_3918_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[글로벌] 유료화 시동거는 소셜미디어...머스크의 엑스 "1년 사용료 1달러 내야" (테크M ─ 리포트)]]></title>

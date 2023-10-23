@@ -4,9 +4,17 @@
         <title>테크M ─ 콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 23 Oct 2023 01:09:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Oct 2023 02:26:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[신작 쏟아내는 웹젠 '어둠의 실력자가 되고 싶어서!' 26일 출격]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=115782</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=115782</guid>
+            <pubDate>Mon, 23 Oct 2023 11:14:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202310/115782_145025_1426_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[롤드컵 브리핑] 젠지, 3전 전승으로 8강 진출...T1-KT, 2승 대열 합류]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=115772</link>
@@ -110,14 +118,6 @@
             <pubDate>Fri, 20 Oct 2023 11:45:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202310/115721_144914_4540_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국콘텐츠진흥원, 2023년 게임더하기 우수성과 게임사 선정]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=115720</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=115720</guid>
-            <pubDate>Fri, 20 Oct 2023 11:44:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202310/115720_144913_4415_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
