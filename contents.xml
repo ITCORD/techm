@@ -4,9 +4,17 @@
         <title>테크M ─ 콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 23 Oct 2023 23:18:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Oct 2023 01:07:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[LG CNS "생성형 AI로 기업 지식 물어보세요"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=115826</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=115826</guid>
+            <pubDate>Tue, 24 Oct 2023 09:25:00 GMT</pubDate>
+            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202310/115826_145095_232_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[PWS GF 통신] 치킨은 없었지만...2위만 세번 차지한 DK, 1일차 선두]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=115823</link>
@@ -110,14 +118,6 @@
             <pubDate>Mon, 23 Oct 2023 00:02:00 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202310/115795_145045_119_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[베이글코드, 2023 채용연계형 인턴십 공개채용]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=115794</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=115794</guid>
-            <pubDate>Mon, 23 Oct 2023 11:43:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202310/115794_145044_4332_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
