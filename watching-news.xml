@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 Oct 2023 06:23:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Oct 2023 07:17:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 화물차 자율주행 기술 개발하는 SKT '미들마일 시장 진출 노린다']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=115866</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=115866</guid>
+            <pubDate>Tue, 24 Oct 2023 07:17:34 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202310/115866_145129_3727_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 네이버 'FOR YOU'가 맞춤형 여행상품 추천해준다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=115810</link>
@@ -110,14 +118,6 @@
             <pubDate>Fri, 06 Oct 2023 08:23:34 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202310/115201_144089_1133_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[게임코인TV] '페이커'-'쵸비' 병역 혜택 받는다...메달 싹쓸이한 아시안게임 e스포츠]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=115170</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=115170</guid>
-            <pubDate>Thu, 05 Oct 2023 13:21:54 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202310/115170_144040_5817_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
