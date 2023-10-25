@@ -4,9 +4,17 @@
         <title>테크M ─ 이노베이션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 Oct 2023 04:20:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Oct 2023 05:16:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['친환경 기업' 네이버, 수력발전 재생에너지로 1784 사옥 운영]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=115915</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=115915</guid>
+            <pubDate>Wed, 25 Oct 2023 05:15:22 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202310/115915_145208_126_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[블록체인 프롭테크 '아지트', 카앤피플과 협력...주거 기반 세차 서비스 확장]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=115909</link>
@@ -110,14 +118,6 @@
             <pubDate>Mon, 16 Oct 2023 11:14:00 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202310/115520_144591_1313_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[AI 교육 시장 뛰어든 엔씨소프트, 게임 넘어 '교육 전용 LLM' 띄운다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=115503</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=115503</guid>
-            <pubDate>Mon, 16 Oct 2023 09:28:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202310/115503_144573_2847_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
