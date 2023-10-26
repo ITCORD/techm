@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 Oct 2023 05:18:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Oct 2023 06:23:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 중동으로 진출하는 네이버, 디지털트윈과 AI로 새로운 시대를 열다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=115978</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=115978</guid>
+            <pubDate>Thu, 26 Oct 2023 06:23:24 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202310/115978_145331_5438_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[게임코인TV] 업비트 독주, 빗썸-코빗 수수료 무료 이벤트 한다고 잡힐까?(상)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=115933</link>
@@ -110,14 +118,6 @@
             <pubDate>Wed, 11 Oct 2023 07:16:54 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202310/115364_144334_2835_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 외식업계에서 만나는 KT 'AI 로봇']]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=115296</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=115296</guid>
-            <pubDate>Tue, 10 Oct 2023 08:22:28 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202310/115296_144242_5230_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
