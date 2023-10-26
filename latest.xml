@@ -4,9 +4,25 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 Oct 2023 06:23:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Oct 2023 07:20:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성SDS, '클라우드' 사업 안착…다음은 '기업형 생성형 AI'다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=115981</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=115981</guid>
+            <pubDate>Thu, 26 Oct 2023 07:15:02 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202310/115981_145342_5243_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[국감 2023] 최수연 네이버 대표 "원플원 기술 아이디어 도용 정황 없어"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=115980</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=115980</guid>
+            <pubDate>Thu, 26 Oct 2023 07:15:02 GMT</pubDate>
+            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202310/115980_145341_3941_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[국감 2023] 강신철 게임산업협회장 "게임사 분쟁·게임 악마화 적극 대응할 것"]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=115979</link>
@@ -150,22 +166,6 @@
             <pubDate>Thu, 26 Oct 2023 11:47:00 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202310/115962_145315_4659_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SK㈜ C&C, 클라우드 기술로 디지털 시스템 해외 수출길 연다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=115961</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=115961</guid>
-            <pubDate>Thu, 26 Oct 2023 11:43:00 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202310/115961_145314_4310_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["짱구 만나러 가요"…릴레이 팝업스토어 열때마다 인산인해]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=115960</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=115960</guid>
-            <pubDate>Thu, 26 Oct 2023 11:39:00 GMT</pubDate>
-            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202310/115960_145313_3845_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
