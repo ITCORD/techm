@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 Oct 2023 09:17:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Oct 2023 10:20:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -283,7 +283,7 @@
             <title><![CDATA[화웨이, 3분기 누적 매출 84조원…전년비 2.4%↑ (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=116030</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=116030</guid>
-            <pubDate>Fri, 27 Oct 2023 09:15:59 GMT</pubDate>
+            <pubDate>Fri, 27 Oct 2023 09:15:20 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202310/116030_145448_2944_v150.jpg" length="0" type="image/jpg"/>
         </item>
@@ -723,7 +723,7 @@
             <title><![CDATA[[부고] 김순태 코웨이 경영관리본부장(상무) 부친상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Fri, 27 Oct 2023 09:16:52 GMT</pubDate>
+            <pubDate>Fri, 27 Oct 2023 10:18:10 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
         </item>
         <item>
@@ -951,6 +951,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202310/115569_144678_243_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[게임코인TV] 업비트 독주, 빗썸-코빗 수수료 무료 이벤트 한다고 잡힐까?(하) (테크M ─ 보는 뉴스)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=116029</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=116029</guid>
+            <pubDate>Fri, 27 Oct 2023 10:20:32 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202310/116029_145449_2630_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[카드뉴스] 버추얼 휴먼으로 재탄생한 SK나이츠선수들 ‘비장한 표정까지 생생하게‘ (테크M ─ 보는 뉴스)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=116025</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=116025</guid>
@@ -1053,14 +1061,6 @@
             <pubDate>Mon, 16 Oct 2023 07:15:40 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202310/115536_144612_721_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] '신한둥이' 풍성한 혜택담은 멤버십 NFT 출시 (테크M ─ 보는 뉴스)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=115421</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=115421</guid>
-            <pubDate>Thu, 12 Oct 2023 07:14:51 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202310/115421_144410_028_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

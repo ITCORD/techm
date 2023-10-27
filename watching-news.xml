@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 Oct 2023 09:17:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Oct 2023 10:20:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[게임코인TV] 업비트 독주, 빗썸-코빗 수수료 무료 이벤트 한다고 잡힐까?(하)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=116029</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=116029</guid>
+            <pubDate>Fri, 27 Oct 2023 10:20:32 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202310/116029_145449_2630_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 버추얼 휴먼으로 재탄생한 SK나이츠선수들 ‘비장한 표정까지 생생하게‘]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=116025</link>
@@ -110,14 +118,6 @@
             <pubDate>Mon, 16 Oct 2023 08:23:05 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202310/115536_144612_721_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] '신한둥이' 풍성한 혜택담은 멤버십 NFT 출시]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=115421</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=115421</guid>
-            <pubDate>Thu, 12 Oct 2023 07:17:17 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202310/115421_144410_028_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
