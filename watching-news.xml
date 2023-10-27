@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 Oct 2023 07:18:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Oct 2023 08:21:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 버추얼 휴먼으로 재탄생한 SK나이츠선수들 ‘비장한 표정까지 생생하게‘]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=116025</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=116025</guid>
+            <pubDate>Fri, 27 Oct 2023 08:21:47 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202310/116025_145435_2129_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 중동으로 진출하는 네이버, 디지털트윈과 AI로 새로운 시대를 열다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=115978</link>
@@ -110,14 +118,6 @@
             <pubDate>Thu, 12 Oct 2023 07:17:17 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202310/115421_144410_028_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] LG유플러스, 메타버스에서 '한국외대 직무박람회' 개최]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=115364</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=115364</guid>
-            <pubDate>Wed, 11 Oct 2023 07:16:54 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202310/115364_144334_2835_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
