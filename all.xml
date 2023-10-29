@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 29 Oct 2023 13:19:44 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 Oct 2023 14:16:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[게임코인TV] '인디게임 신화' 데이브 더 다이브, 닌텐도 스위치로 출격 (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=116053</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=116053</guid>
+            <pubDate>Sun, 29 Oct 2023 14:12:55 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202310/116053_145499_5324_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[롤드컵 브리핑] T1-KT 나란히 8강 합류...DK, 내전서 패해 롤드컵 여정 마무리 (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=116052</link>
@@ -160,18 +168,10 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202310/115999_145400_5355_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[PWS GF 통신] 어차피 우승은 다나와?...대역전극 쓰며 페이즈2 우승 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=116036</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=116036</guid>
-            <pubDate>Fri, 27 Oct 2023 16:19:30 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202310/116036_145465_1756_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[롤드컵 브리핑] T1-KT 나란히 8강 합류...DK, 내전서 패해 롤드컵 여정 마무리 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=116052</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=116052</guid>
-            <pubDate>Sun, 29 Oct 2023 13:17:18 GMT</pubDate>
+            <pubDate>Sun, 29 Oct 2023 13:17:02 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202310/116052_145496_2854_v150.jpg" length="0" type="image/jpg"/>
         </item>
@@ -952,6 +952,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202310/115679_144845_509_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[게임코인TV] '인디게임 신화' 데이브 더 다이브, 닌텐도 스위치로 출격 (테크M ─ 보는 뉴스)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=116053</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=116053</guid>
+            <pubDate>Sun, 29 Oct 2023 14:16:40 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202310/116053_145499_5324_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[게임코인TV] 업비트 독주, 빗썸-코빗 수수료 무료 이벤트 한다고 잡힐까?(하) (테크M ─ 보는 뉴스)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=116029</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=116029</guid>
@@ -1054,14 +1062,6 @@
             <pubDate>Tue, 17 Oct 2023 06:21:43 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202310/115586_144695_90_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 창작자들의 글쓰기 도구로 활용되는 네이버 ‘클로바 포 라이팅‘ (테크M ─ 보는 뉴스)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=115536</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=115536</guid>
-            <pubDate>Mon, 16 Oct 2023 07:15:40 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202310/115536_144612_721_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
