@@ -4,9 +4,17 @@
         <title>테크M ─ 콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 29 Oct 2023 08:20:41 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 Oct 2023 09:16:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[웹3.0에 관심 보이는 지자체들... 서울·부산·인천 블록체인 행보 살펴보니]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=116043</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=116043</guid>
+            <pubDate>Sun, 29 Oct 2023 09:14:30 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202310/116043_145483_3111_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["똑똑한 차량 관리 하세요"…KT, 상용차 커넥티드카 솔루션에 AI 적용]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=116042</link>
@@ -110,14 +118,6 @@
             <pubDate>Thu, 26 Oct 2023 15:16:07 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202310/115989_145390_5037_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[현장습격] 더 치열해진 PWS 3일차, 누가 1위해도 이상하지 않다!]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=115988</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=115988</guid>
-            <pubDate>Thu, 26 Oct 2023 14:15:13 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202310/115988_145368_3548_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
