@@ -4,9 +4,25 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 29 Oct 2023 01:11:41 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 Oct 2023 02:26:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[프랑스 파리에 초거대 'LG 트롬 워시타워'가 떴다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=116050</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=116050</guid>
+            <pubDate>Sun, 29 Oct 2023 10:23:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202310/116050_145493_229_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[안랩 '개발파 컨퍼런스' 성료…사내 R&D 인력 직무역량 강화]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=116049</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=116049</guid>
+            <pubDate>Sun, 29 Oct 2023 10:18:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202310/116049_145492_1719_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["자막으로 즐기는 영화 축제"…KT, 배리어프리 영화제 열었다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=116047</link>
@@ -150,22 +166,6 @@
             <pubDate>Fri, 27 Oct 2023 11:13:19 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202310/116029_145449_2630_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[화웨이, 3분기 누적 매출 84조원…전년비 2.4%↑]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=116030</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=116030</guid>
-            <pubDate>Fri, 27 Oct 2023 09:15:20 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202310/116030_145448_2944_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NFT 팔땐 적극 홍보하더니...불황에 조용히 사라지는 프로젝트들]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=116027</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=116027</guid>
-            <pubDate>Fri, 27 Oct 2023 08:18:56 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202310/116027_145450_3623_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
