@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 Oct 2023 07:16:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Oct 2023 08:22:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 하이브 수퍼톤이 개발한 게임 맞춤형 'AI 음성기술'에 주목하라]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=116147</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=116147</guid>
+            <pubDate>Tue, 31 Oct 2023 08:22:08 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202310/116147_145629_5339_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] KT-롤랩의 '브로캐리', 우수한 AI 화물중개 플랫폼으로 인정받다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=116086</link>
@@ -110,14 +118,6 @@
             <pubDate>Thu, 19 Oct 2023 08:23:53 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202310/115698_144865_5728_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 교육시장까지 공략하는 엔씨소프트 'AI 맞춤형 학습 서비스 개발']]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=115639</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=115639</guid>
-            <pubDate>Wed, 18 Oct 2023 08:23:50 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202310/115639_144780_637_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
