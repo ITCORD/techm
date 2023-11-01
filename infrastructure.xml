@@ -4,9 +4,17 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Nov 2023 06:23:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Nov 2023 07:20:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[50돌 맞은 삼성전기 "기술로 디지털 미래 주도권 확보"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=116205</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=116205</guid>
+            <pubDate>Wed, 01 Nov 2023 07:16:44 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202311/116205_145716_376_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한샘, 연구소 서울본사 이전...개발 시너지 'UP']]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=116202</link>
@@ -110,14 +118,6 @@
             <pubDate>Wed, 01 Nov 2023 10:26:00 GMT</pubDate>
             <content:encoded><![CDATA[조성준 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202311/116181_145691_2536_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[라인 핀시아 메인넷 2.0 업그레이드 완료...구체적 내용 살펴보니]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=116161</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=116161</guid>
-            <pubDate>Wed, 01 Nov 2023 10:26:00 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202311/116161_145672_1017_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

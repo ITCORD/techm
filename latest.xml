@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Nov 2023 06:23:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Nov 2023 07:20:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[50돌 맞은 삼성전기 "기술로 디지털 미래 주도권 확보"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=116205</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=116205</guid>
+            <pubDate>Wed, 01 Nov 2023 07:15:11 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202311/116205_145716_376_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[잇따르는 여의도 러브콜...콘텐츠 강자 '지니뮤직'에 쏠리는 눈]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=116204</link>
@@ -157,14 +165,6 @@
             <pubDate>Wed, 01 Nov 2023 11:12:00 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202311/116189_145699_1136_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LG전자, 제네시스 GV80 차량에 'webOS' 콘텐츠 플랫폼 탑재]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=116188</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=116188</guid>
-            <pubDate>Wed, 01 Nov 2023 11:07:00 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202311/116188_145697_623_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
