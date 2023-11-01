@@ -4,9 +4,17 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Nov 2023 04:22:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Nov 2023 05:17:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["코웨이 안마의자, 신한은행 지점에서 체험하세요"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=116199</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=116199</guid>
+            <pubDate>Wed, 01 Nov 2023 05:15:59 GMT</pubDate>
+            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202311/116199_145708_921_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한국엡손, 소비전력 절감한 잉크젯 프린터 'L11050' 출시]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=116198</link>
@@ -110,14 +118,6 @@
             <pubDate>Wed, 01 Nov 2023 09:30:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202311/116175_145681_3030_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[KT '강원 동계청소년올림픽' 통신서비스 공식 후원]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=116173</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=116173</guid>
-            <pubDate>Wed, 01 Nov 2023 09:27:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202311/116173_145679_2711_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
