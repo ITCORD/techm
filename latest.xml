@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Nov 2023 13:21:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Nov 2023 14:18:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[e스포츠人] '에결 괴물'이라 불리는 사나이, '월드' 노준현]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=116215</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=116215</guid>
+            <pubDate>Wed, 01 Nov 2023 14:14:37 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202311/116215_145757_121_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[KDL 통신] 새로운 라이벌 구도 형성...광동, 접전 끝에 미래앤세종 제압]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=116214</link>
@@ -157,14 +165,6 @@
             <guid>https://www.techm.kr/news/articleList.html</guid>
             <pubDate>Wed, 01 Nov 2023 11:31:00 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[네이버클라우드, NIA·NIPA 지원사업 참여로 국내  SaaS 생태계 키운다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=116194</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=116194</guid>
-            <pubDate>Wed, 01 Nov 2023 11:28:00 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202311/116194_145703_270_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

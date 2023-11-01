@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Nov 2023 13:21:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Nov 2023 14:18:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[e스포츠人] '에결 괴물'이라 불리는 사나이, '월드' 노준현 (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=116215</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=116215</guid>
+            <pubDate>Wed, 01 Nov 2023 14:14:37 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202311/116215_145757_121_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[KDL 통신] 새로운 라이벌 구도 형성...광동, 접전 끝에 미래앤세종 제압 (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=116214</link>
@@ -159,18 +167,10 @@
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[네이버클라우드, NIA·NIPA 지원사업 참여로 국내  SaaS 생태계 키운다 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=116194</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=116194</guid>
-            <pubDate>Wed, 01 Nov 2023 11:28:00 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202311/116194_145703_270_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[KDL 통신] 새로운 라이벌 구도 형성...광동, 접전 끝에 미래앤세종 제압 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=116214</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=116214</guid>
-            <pubDate>Wed, 01 Nov 2023 13:18:46 GMT</pubDate>
+            <pubDate>Wed, 01 Nov 2023 13:18:23 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202311/116214_145753_4937_v150.jpg" length="0" type="image/jpg"/>
         </item>
@@ -615,6 +615,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202310/116081_145532_641_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[e스포츠人] '에결 괴물'이라 불리는 사나이, '월드' 노준현 (테크M ─ 피플)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=116215</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=116215</guid>
+            <pubDate>Wed, 01 Nov 2023 14:16:56 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202311/116215_145757_121_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[부고] 이정민(티몬 패션사업본부장)씨 부친상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
@@ -716,14 +724,6 @@
             <pubDate>Thu, 26 Oct 2023 11:30:00 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202310/115956_145308_292_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[e스포츠人] 막내에서 주장으로 특급 승진한 박현수의 고충 (테크M ─ 피플)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=115934</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=115934</guid>
-            <pubDate>Wed, 01 Nov 2023 09:17:13 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202310/115934_145251_1826_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[넥슨재단이 100억원 후원한 '서울대학교병원 넥슨어린이통합케어센터' 개원 (테크M ─ 라이프)]]></title>
