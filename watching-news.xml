@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Nov 2023 07:20:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Nov 2023 08:33:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 내가 원하는대로 교환하고 조립하는 'OK캐쉬백 NFT 다이나믹 멤버십']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=116206</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=116206</guid>
+            <pubDate>Wed, 01 Nov 2023 08:33:34 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202311/116206_145717_4747_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[채용공고] 테크M 수습/경력기자 모집]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=116162</link>
@@ -110,14 +118,6 @@
             <pubDate>Sat, 21 Oct 2023 16:21:37 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202310/115764_145000_1549_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 슈퍼콜라 택틱스 CBT "캐리 유니버스에 참여해보세요"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=115745</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=115745</guid>
-            <pubDate>Fri, 20 Oct 2023 08:21:45 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202310/115745_144942_2651_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
