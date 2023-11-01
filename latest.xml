@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Nov 2023 03:19:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Nov 2023 04:22:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[채용공고] 테크M 수습/경력기자 모집]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=116162</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=116162</guid>
+            <pubDate>Wed, 01 Nov 2023 00:46:00 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202310/116162_145651_04_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한국엡손, 소비전력 절감한 잉크젯 프린터 'L11050' 출시]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=116198</link>
@@ -157,14 +165,6 @@
             <pubDate>Wed, 01 Nov 2023 09:49:00 GMT</pubDate>
             <content:encoded><![CDATA[조성준 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202311/116179_145684_4814_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["SW분야 선도 성과 인정"…엠로, 국가생산성대상서 대통령표창 수상]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=116178</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=116178</guid>
-            <pubDate>Wed, 01 Nov 2023 09:43:00 GMT</pubDate>
-            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202311/116178_145683_4317_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

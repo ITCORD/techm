@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Nov 2023 03:19:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Nov 2023 04:22:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[채용공고] 테크M 수습/경력기자 모집]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=116162</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=116162</guid>
+            <pubDate>Wed, 01 Nov 2023 00:46:00 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202310/116162_145651_04_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 하이브 수퍼톤이 개발한 게임 맞춤형 'AI 음성기술'에 주목하라]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=116147</link>
@@ -110,14 +118,6 @@
             <pubDate>Fri, 20 Oct 2023 08:21:45 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202310/115745_144942_2651_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] LG유플러스-롯데홈쇼핑, 인천시 'NFT를 위해 뭉쳤다']]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=115698</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=115698</guid>
-            <pubDate>Thu, 19 Oct 2023 08:23:53 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202310/115698_144865_5728_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
