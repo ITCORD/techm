@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Nov 2023 07:17:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Nov 2023 08:22:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] NHN에듀 '원더버스'의 체험형 학습 콘텐츠를 주목하라]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=116257</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=116257</guid>
+            <pubDate>Thu, 02 Nov 2023 08:19:38 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202311/116257_145806_1415_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["통신 장애 발생시 드론 투입해 복구…재난 로밍·와이파이도 개방"]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=116264</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 02 Nov 2023 10:16:00 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202311/116237_145783_910_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[IP 확장하는 라이엇 게임즈, 싱글 어드벤쳐 게임 '누누의 노래' 출시]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=116241</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=116241</guid>
-            <pubDate>Thu, 02 Nov 2023 10:16:00 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202311/116241_145787_1457_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
