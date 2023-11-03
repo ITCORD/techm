@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Nov 2023 06:22:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Nov 2023 07:16:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -280,6 +280,22 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202311/116214_145753_4937_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[카카오 '감시의 눈' 설립하는 김범수…초대 위원장에 김소영 전 대법관 위촉 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=116301</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=116301</guid>
+            <pubDate>Fri, 03 Nov 2023 07:15:13 GMT</pubDate>
+            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202311/116301_145897_1010_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아시안게임 메달 목에 건 유영상 SKT 대표 "항저우에서 수고하셨습니다" (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=116296</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=116296</guid>
+            <pubDate>Fri, 03 Nov 2023 06:19:43 GMT</pubDate>
+            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202311/116296_145877_3217_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA["소상공인 지원합니다"…상생 플랫폼 거듭나는 네이버·카카오 (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=116294</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=116294</guid>
@@ -374,22 +390,6 @@
             <pubDate>Thu, 02 Nov 2023 07:15:11 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202311/116265_145823_4512_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[웅진씽크빅, 웅진스마트올에 문해력 전문 솔루션 '모두의 문해력' 오픈 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=116261</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=116261</guid>
-            <pubDate>Thu, 02 Nov 2023 06:20:12 GMT</pubDate>
-            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202311/116261_145818_1532_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제4이통 지원 총력전 과기정통부...필수 설비 제공 기간 3년에서 5년으로 늘렸다 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=116258</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=116258</guid>
-            <pubDate>Thu, 02 Nov 2023 06:20:12 GMT</pubDate>
-            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202311/116258_145816_2332_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[유통에 테크를 입히다...쿠팡, 대만 혁신 기술 무장해 대만 시장 '확장' (테크M ─ 이노베이션)]]></title>
@@ -507,7 +507,7 @@
             <title><![CDATA[단기수익보다 '변화'에 거는 기대감...엔씨소프트 체질개선 의지에 주가 반등 (테크M ─ 인베스트먼트)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=116295</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=116295</guid>
-            <pubDate>Fri, 03 Nov 2023 06:21:20 GMT</pubDate>
+            <pubDate>Fri, 03 Nov 2023 06:19:43 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202311/116295_145875_1010_v150.jpg" length="0" type="image/jpg"/>
         </item>
