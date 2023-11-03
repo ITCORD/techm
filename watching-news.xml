@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Nov 2023 08:21:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Nov 2023 09:18:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[게임코인TV] 업비트 D 콘퍼런가 온다...오후 세션, 주목할 강연은?]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=116310</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=116310</guid>
+            <pubDate>Fri, 03 Nov 2023 09:18:01 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202311/116310_145903_749_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 하이퍼클로바를 도입한 쏘카 'AI 카셰어링 추천 서비스' 공개]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=116300</link>
@@ -110,14 +118,6 @@
             <pubDate>Tue, 24 Oct 2023 07:17:34 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202310/115866_145129_3727_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 네이버 'FOR YOU'가 맞춤형 여행상품 추천해준다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=115810</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=115810</guid>
-            <pubDate>Mon, 23 Oct 2023 08:23:30 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202310/115810_145061_5756_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
