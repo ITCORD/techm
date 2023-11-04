@@ -1,8 +1,123 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN3&amp;view_type=sm</id>
-    <title>테크M ─ 이노베이션</title>
-    <updated>2023-11-04T14:15:31.998Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.techm.kr/news/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>테크M ─ 이노베이션</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sat, 04 Nov 2023 15:16:42 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[유통에 테크를 입히다...쿠팡, 대만 혁신 기술 무장해 대만 시장 '확장']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=116281</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=116281</guid>
+            <pubDate>Fri, 03 Nov 2023 10:04:00 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202311/116281_145855_04_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["게 섯거라 챗GPT" 검색 고도화 꾀하는 네이버, AI 검색 '큐' 내년 모바일 적용]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=116283</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=116283</guid>
+            <pubDate>Fri, 03 Nov 2023 09:57:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202311/116283_145854_5740_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ESG 힘주는 브라이트에너지파트너스, 강원 양양서 조류충돌 방지 스티커 부착]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=116268</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=116268</guid>
+            <pubDate>Sat, 04 Nov 2023 15:15:28 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202311/116268_145838_654_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[써봤다] 삼성전자 첫 웨어러블 로봇 '봇핏'...고령 사회 효자 노릇 '톡톡']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=116267</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=116267</guid>
+            <pubDate>Sat, 04 Nov 2023 15:15:28 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202311/116267_145826_2749_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[영국 AI 안전성 정상회의 참석한 이종호 과기정통부 "적절한 AI 신뢰성･안정성 확보해야"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=116260</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=116260</guid>
+            <pubDate>Sat, 04 Nov 2023 15:15:28 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202311/116260_145817_323_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SK텔레콤, 세계 민간사절단에 AI 기술 혁신 선봬]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=116229</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=116229</guid>
+            <pubDate>Thu, 02 Nov 2023 09:53:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202311/116229_145773_5319_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[KT, 스타트업들과 초거대 AI '믿음' 기반 솔루션 내놓는다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=116223</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=116223</guid>
+            <pubDate>Thu, 02 Nov 2023 09:45:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202311/116223_145767_4541_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[웹툰 생태계 보호에 칼 빼든 네이버웹툰, 해외 불법 사이트 150개 활동 멈췄다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=116220</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=116220</guid>
+            <pubDate>Thu, 02 Nov 2023 09:40:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202311/116220_145763_4030_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[카카오모빌리티, 택시 수수료 체계 전면 개편한다…"긴급 간담회 열어 택시 기사 의견 수렴"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=116212</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=116212</guid>
+            <pubDate>Sat, 04 Nov 2023 15:15:28 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202311/116212_145752_1741_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[컴투스 그룹-장애인고용공단, 자회사형 표준사업장 설립 협약]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=116196</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=116196</guid>
+            <pubDate>Wed, 01 Nov 2023 11:42:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202311/116196_145704_3433_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["전세 사기 꼼짝마"...임장에진심인사람들, AI 부동산 분석 시스템 띄운다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=116197</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=116197</guid>
+            <pubDate>Wed, 01 Nov 2023 11:42:00 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202311/116197_145706_4136_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[LG유플러스, AI B2B 시장 총공세...3대 서비스에 역량 '집중']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=116176</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=116176</guid>
+            <pubDate>Wed, 01 Nov 2023 09:33:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202311/116176_145682_3319_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[컨콜] 삼성전자 "HBM 생산 능력, 현재의 2.5배로 늘릴 것...HBM3 판매 비중 확대"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=116133</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=116133</guid>
+            <pubDate>Tue, 31 Oct 2023 11:02:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202310/116133_145611_214_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[패키지 여행도 마이리얼트립에서...육경건 전 하나투어 대표 CIC가 주도]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=116130</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=116130</guid>
+            <pubDate>Tue, 31 Oct 2023 10:45:00 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202310/116130_145608_4453_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
