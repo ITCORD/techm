@@ -4,9 +4,25 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Nov 2023 03:17:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Nov 2023 04:21:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[LG전자, 알래스카에서 히트펌프 연구한다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=116354</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=116354</guid>
+            <pubDate>Mon, 06 Nov 2023 00:25:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202311/116354_145986_2441_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[헥토데이터, 리디아AI 손잡고 AI 활용한 미래 건강 예측 솔루션 도입]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=116353</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=116353</guid>
+            <pubDate>Mon, 06 Nov 2023 00:20:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202311/116353_145985_2016_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[파수, 백업 솔루션 'FC-BR' 출시…"고효율·저비용으로 랜섬웨어 대응"]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=116351</link>
@@ -150,22 +166,6 @@
             <pubDate>Sun, 05 Nov 2023 12:27:00 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202311/116337_145953_4942_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오토바이도 다음날 로켓배송...쿠팡, 오토바이 전문관 론칭]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=116335</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=116335</guid>
-            <pubDate>Sun, 05 Nov 2023 11:11:42 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202311/116335_145951_314_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["출렁이는 파도 위에서 스타벅스 커피 한 잔"…LGD, '더여수돌산DT점'에 투명 OLED 공급]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=116331</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=116331</guid>
-            <pubDate>Sun, 05 Nov 2023 11:39:00 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202311/116331_145945_378_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
