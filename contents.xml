@@ -4,9 +4,25 @@
         <title>테크M ─ 콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Nov 2023 07:15:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Nov 2023 08:23:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[플레이위드, '플레이위드코리아'로 사명 변경]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=116424</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=116424</guid>
+            <pubDate>Tue, 07 Nov 2023 08:19:51 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202311/116424_146090_2636_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[크래프톤이 품은 다크앤다커 모바일, 내년 출격 공식화]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=116427</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=116427</guid>
+            <pubDate>Tue, 07 Nov 2023 08:19:51 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202311/116427_146092_2718_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[컴투스 야구 게임 유저들이 꼽은 한국시리즈 우승팀은 'LG트윈스']]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=116410</link>
@@ -102,22 +118,6 @@
             <pubDate>Mon, 06 Nov 2023 00:05:00 GMT</pubDate>
             <content:encoded><![CDATA[조성준 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202311/116333_146034_445_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['원신', 서울시청년활동지원센터와 함께 '2023 청년도약 공모전' 연다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=116346</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=116346</guid>
-            <pubDate>Mon, 06 Nov 2023 11:25:00 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202311/116346_145971_1348_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NHN, 지스타 2023 BTB관 참가...'게임앤빌·NHN앱가드' 특별 프로모션]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=116345</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=116345</guid>
-            <pubDate>Mon, 06 Nov 2023 11:25:00 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202311/116345_145970_58_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
