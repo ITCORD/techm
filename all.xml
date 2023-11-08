@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Nov 2023 03:17:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Nov 2023 04:23:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한컴, AI 스타트업 '포티투마루'와 협업…한글 문서에 LLM 입힌다 (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=116475</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=116475</guid>
+            <pubDate>Wed, 08 Nov 2023 04:18:31 GMT</pubDate>
+            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202311/116475_146159_851_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[테크M 트렌드] 진격의 쿠팡 '유통 1위' 신세계에 맞불...치열해진 '이마롯쿠' 승부 (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=116473</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=116473</guid>
+            <pubDate>Wed, 08 Nov 2023 04:18:32 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202311/116473_146156_345_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[SKT, 'AI' 성장 방정식 통했다…3분기 영업익 4980억 달성(상보) (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=116470</link>
@@ -150,22 +166,6 @@
             <pubDate>Wed, 08 Nov 2023 09:15:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202311/116452_146124_1549_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[장현국 위메이드 "나이트 크로우, 국내보다 글로벌 성과가 더 클것" (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=116450</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=116450</guid>
-            <pubDate>Wed, 08 Nov 2023 09:10:00 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202311/116450_146122_82_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[잘 나가는 컴투스홀딩스, 3Q 흑자전환 성공...매출도 54% '껑충' (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=116451</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=116451</guid>
-            <pubDate>Wed, 08 Nov 2023 09:10:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202311/116451_146123_930_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[언리얼엔진5 '오딘 IP'가 뜬다...카카오게임즈 프로젝트V 내년 상반기 출격 (테크M ─ 콘텐츠)]]></title>
@@ -504,6 +504,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202311/116229_145773_5319_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[고팍스, 위믹스 전격 상장...닥사 소속 거래소 행보 '눈길' (테크M ─ 인베스트먼트)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=116476</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=116476</guid>
+            <pubDate>Wed, 08 Nov 2023 04:21:05 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202311/116476_146161_1339_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[위메이드-크래프톤-컴투스홀딩스...'어닝 서프라이즈'에...게임주 일제히 상승 (테크M ─ 인베스트먼트)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=116466</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=116466</guid>
@@ -606,14 +614,6 @@
             <pubDate>Wed, 08 Nov 2023 08:25:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202311/116438_146111_2520_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['상생 은행' 카카오뱅크 3Q 순이익 954억원…"포용금융 지속" (테크M ─ 인베스트먼트)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=116437</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=116437</guid>
-            <pubDate>Wed, 08 Nov 2023 08:18:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202311/116437_146110_1810_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[LG, 프랑스 파리에 '부산엑스포 버스' 2030대 운영 (테크M ─ 피플)]]></title>

@@ -4,9 +4,25 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Nov 2023 03:17:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Nov 2023 04:23:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한컴, AI 스타트업 '포티투마루'와 협업…한글 문서에 LLM 입힌다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=116475</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=116475</guid>
+            <pubDate>Wed, 08 Nov 2023 04:18:31 GMT</pubDate>
+            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202311/116475_146159_851_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[테크M 트렌드] 진격의 쿠팡 '유통 1위' 신세계에 맞불...치열해진 '이마롯쿠' 승부]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=116473</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=116473</guid>
+            <pubDate>Wed, 08 Nov 2023 04:18:32 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202311/116473_146156_345_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[SKT, 'AI' 성장 방정식 통했다…3분기 영업익 4980억 달성(상보)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=116470</link>
@@ -150,22 +166,6 @@
             <pubDate>Wed, 08 Nov 2023 09:15:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202311/116452_146124_1549_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[장현국 위메이드 "나이트 크로우, 국내보다 글로벌 성과가 더 클것"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=116450</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=116450</guid>
-            <pubDate>Wed, 08 Nov 2023 09:10:00 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202311/116450_146122_82_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[잘 나가는 컴투스홀딩스, 3Q 흑자전환 성공...매출도 54% '껑충']]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=116451</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=116451</guid>
-            <pubDate>Wed, 08 Nov 2023 09:10:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202311/116451_146123_930_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
