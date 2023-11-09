@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Nov 2023 07:17:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Nov 2023 08:23:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 생성형AI 삼성가우스 '언어, 코드, 이미지 모델' 공개]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=116587</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=116587</guid>
+            <pubDate>Thu, 09 Nov 2023 08:23:11 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202311/116587_146305_3415_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 고객편의성 UP! SK브로드밴드 B월드 공개 '챗비에게 물어보세요']]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=116504</link>
@@ -110,14 +118,6 @@
             <pubDate>Sat, 04 Nov 2023 15:16:41 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202310/116025_145435_2129_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 중동으로 진출하는 네이버, 디지털트윈과 AI로 새로운 시대를 열다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=115978</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=115978</guid>
-            <pubDate>Sat, 04 Nov 2023 15:16:41 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202310/115978_145331_5438_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
