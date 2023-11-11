@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Nov 2023 22:15:32 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Nov 2023 23:17:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -279,10 +279,18 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202311/116553_146261_154_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[써봤다] 출장이 많은 회사원에게 추천합니다…'비즈니스용 서피스 고4' (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=116634</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=116634</guid>
+            <pubDate>Sun, 12 Nov 2023 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202311/116634_146409_2618_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[네이버클라우드, '지스타 2023' 참가해 '하이퍼클로바X' 알린다 (테크M ─ 인프라)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Sat, 11 Nov 2023 22:14:05 GMT</pubDate>
+            <pubDate>Sat, 11 Nov 2023 23:15:47 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
         </item>
         <item>
@@ -380,14 +388,6 @@
             <pubDate>Fri, 10 Nov 2023 10:34:00 GMT</pubDate>
             <content:encoded><![CDATA[조성준 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202311/116601_146348_3335_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LG CNS, 3분기 누적 매출 전년比 15.5% ↑…거침없는 성장으로 연매출 5조원 달성 '눈앞' (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=116596</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=116596</guid>
-            <pubDate>Thu, 09 Nov 2023 10:16:04 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202311/116596_146333_635_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[AI가 바꿀 CX 시장을 조망한다...채널톡, 내달 6일 'Next CX 세미나' 연다 (테크M ─ 이노베이션)]]></title>
