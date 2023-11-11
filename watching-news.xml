@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Nov 2023 03:19:25 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Nov 2023 04:19:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 위캔버스에 채팅 솔루션 더했다 '소통과 교감으로 몰입도 높은 교육 환경 조성']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=116612</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=116612</guid>
+            <pubDate>Sat, 11 Nov 2023 04:19:51 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202311/116612_146362_5012_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[게임코인TV] '더 리니지' 아닙니다...엔씨소프트가 띄운 승부수 'TL'의 모든 것(상)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=116632</link>
@@ -110,14 +118,6 @@
             <pubDate>Sat, 04 Nov 2023 15:16:41 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202310/116053_145499_5324_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[게임코인TV] 업비트 독주, 빗썸-코빗 수수료 무료 이벤트 한다고 잡힐까?(하)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=116029</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=116029</guid>
-            <pubDate>Sat, 04 Nov 2023 15:16:41 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202310/116029_145579_456_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
