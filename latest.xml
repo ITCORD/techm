@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Nov 2023 07:17:19 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Nov 2023 08:20:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[해봤다] 스마트폰에 들어간 '다크앤다커'....모바일로 더 쉽게 즐기는 던전 서바이벌]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=116637</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=116637</guid>
+            <pubDate>Sun, 12 Nov 2023 08:18:36 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202311/116637_146417_137_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["보이스피싱 전화 차단해 범죄 막았다"…SKT, 대통령상 수상]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=116636</link>
@@ -83,7 +91,7 @@
             <title><![CDATA[네이버클라우드, '지스타 2023' 참가해 '하이퍼클로바X' 알린다]]></title>
             <link>https://www.techm.kr/news/articleList.html</link>
             <guid>https://www.techm.kr/news/articleList.html</guid>
-            <pubDate>Sun, 12 Nov 2023 06:19:19 GMT</pubDate>
+            <pubDate>Sun, 12 Nov 2023 08:18:36 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
         </item>
         <item>
@@ -157,14 +165,6 @@
             <pubDate>Fri, 10 Nov 2023 07:13:54 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202311/116618_146382_3651_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성전자, 스웨덴 브로비홀름 스마트시티에 '넷 제로 홈' 솔루션 공급]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=116617</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=116617</guid>
-            <pubDate>Fri, 10 Nov 2023 07:13:54 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202311/116617_146380_309_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
