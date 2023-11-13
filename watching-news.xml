@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Nov 2023 06:22:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Nov 2023 07:17:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] AI 미디어 관리자 'KT 어드밴스드 닥터지니' 본격 적용 시작]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=116682</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=116682</guid>
+            <pubDate>Mon, 13 Nov 2023 07:17:15 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202311/116682_146487_228_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[게임코인TV] 엔씨는 왜 'TL'로 승부수를 띄웠나...'초과금' 4050 대신 '시간을 쓰는' 1020을 겨냥하다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=116643</link>
@@ -110,14 +118,6 @@
             <pubDate>Sat, 04 Nov 2023 15:16:41 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202310/116147_145629_5339_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] KT-롤랩의 '브로캐리', 우수한 AI 화물중개 플랫폼으로 인정받다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=116086</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=116086</guid>
-            <pubDate>Tue, 31 Oct 2023 00:03:00 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202310/116086_145537_3511_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
