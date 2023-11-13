@@ -4,9 +4,16 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Nov 2023 07:17:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Nov 2023 08:23:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[게임코인TV] 위메이드의 '위믹스'는 왜 계속 오를까...불장 시작? 실적 개선?]]></title>
+            <link>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN10&amp;view_type=sm</link>
+            <guid>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN10&amp;view_type=sm</guid>
+            <pubDate>Mon, 13 Nov 2023 08:23:31 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] AI 미디어 관리자 'KT 어드밴스드 닥터지니' 본격 적용 시작]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=116682</link>
@@ -110,14 +117,6 @@
             <pubDate>Wed, 01 Nov 2023 00:46:00 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202310/116162_145651_04_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 하이브 수퍼톤이 개발한 게임 맞춤형 'AI 음성기술'에 주목하라]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=116147</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=116147</guid>
-            <pubDate>Sat, 04 Nov 2023 15:16:41 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202310/116147_145629_5339_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
