@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Nov 2023 13:21:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Nov 2023 14:18:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[테크M 이슈] 경영 전면 나선 카카오 김범수의 첫 스텝은?…저렴한 수수료의 가맹택시 (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=116717</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=116717</guid>
+            <pubDate>Mon, 13 Nov 2023 14:15:44 GMT</pubDate>
+            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202311/116717_146541_3835_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[UDC 23] 가상자산을 통한 '선한 영향력'…기부문화 활성화 위한 과제는? (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=116716</link>
@@ -160,14 +168,6 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202311/116697_146507_3712_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[파격적인 수수료 개편 나올까…카카오모빌리티, 택시업계와 협의체 만든다 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=116696</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=116696</guid>
-            <pubDate>Mon, 13 Nov 2023 09:16:47 GMT</pubDate>
-            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202311/116696_146508_3759_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[UDC 23] 제프리 저린 스카이마비스 공동설립자 "웹3.0이 세상을 변화시키려면 게임부터 시작해야" (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=116713</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=116713</guid>
@@ -280,6 +280,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202311/116625_146391_3427_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[테크M 이슈] 경영 전면 나선 카카오 김범수의 첫 스텝은?…저렴한 수수료의 가맹택시 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=116717</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=116717</guid>
+            <pubDate>Mon, 13 Nov 2023 14:16:19 GMT</pubDate>
+            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202311/116717_146541_3835_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[UDC 23] 가상자산을 통한 '선한 영향력'…기부문화 활성화 위한 과제는? (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=116716</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=116716</guid>
@@ -382,14 +390,6 @@
             <pubDate>Mon, 13 Nov 2023 09:16:47 GMT</pubDate>
             <content:encoded><![CDATA[조성준 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202311/116696_146508_3759_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[UDC 23] 글로벌 코인 전문가 한목소리로 "주요 국가, 규제 명확성 필요해" (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=116694</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=116694</guid>
-            <pubDate>Mon, 13 Nov 2023 09:16:47 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202311/116694_146510_528_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[UDC 23] 비트코인 반감기 기대하는 스택스 "비트코인 레이어2가 필요해" (테크M ─ 이노베이션)]]></title>
@@ -955,7 +955,7 @@
             <title><![CDATA[[게임코인TV] 위메이드의 '위믹스'는 왜 계속 오를까...불장 시작? 실적 개선? (테크M ─ 보는 뉴스)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Mon, 13 Nov 2023 13:21:31 GMT</pubDate>
+            <pubDate>Mon, 13 Nov 2023 14:18:40 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
         </item>
         <item>
