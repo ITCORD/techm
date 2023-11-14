@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Nov 2023 03:18:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Nov 2023 04:19:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["한국 기업 생성형 AI 데이터 한국에 저장"…구글 클라우드의 승부수 (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=116739</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=116739</guid>
+            <pubDate>Tue, 14 Nov 2023 00:44:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202311/116739_146564_4337_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[글로벌] '게이트키퍼' 지정된 애플..."EU에 소송 제기할듯" (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=116738</link>
@@ -160,14 +168,6 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202311/116718_146542_3114_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[테크M 이슈] 경영 전면 나선 카카오 김범수의 첫 스텝은?…저렴한 수수료의 가맹택시 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=116717</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=116717</guid>
-            <pubDate>Mon, 13 Nov 2023 14:15:44 GMT</pubDate>
-            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202311/116717_146541_3835_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[위메이드, '나이트 크로우' 글로벌 사이트 오픈...1월 11일 사전등록 시작 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=116729</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=116729</guid>
@@ -280,6 +280,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202311/116627_146392_3852_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA["한국 기업 생성형 AI 데이터 한국에 저장"…구글 클라우드의 승부수 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=116739</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=116739</guid>
+            <pubDate>Tue, 14 Nov 2023 00:44:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202311/116739_146564_4337_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[삼성전자, 개발자 콘퍼런스 열고 생성형 AI '삼성 가우스' 소개 (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=116736</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=116736</guid>
@@ -382,14 +390,6 @@
             <pubDate>Mon, 13 Nov 2023 12:30:18 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202311/116714_146536_2429_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[UDC 23] 이더리움재단 "계정추상화, 이더리움 대중화 속도 UP" (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=116712</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=116712</guid>
-            <pubDate>Mon, 13 Nov 2023 12:30:18 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202311/116712_146534_161_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[UDC 23] 비트코인 반감기 기대하는 스택스 "비트코인 레이어2가 필요해" (테크M ─ 이노베이션)]]></title>
@@ -955,7 +955,7 @@
             <title><![CDATA[[게임코인TV] 위메이드의 '위믹스'는 왜 계속 오를까...불장 시작? 실적 개선? (테크M ─ 보는 뉴스)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Tue, 14 Nov 2023 03:18:24 GMT</pubDate>
+            <pubDate>Tue, 14 Nov 2023 04:19:55 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
         </item>
         <item>

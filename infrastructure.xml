@@ -4,9 +4,17 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Nov 2023 03:18:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Nov 2023 04:19:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["한국 기업 생성형 AI 데이터 한국에 저장"…구글 클라우드의 승부수]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=116739</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=116739</guid>
+            <pubDate>Tue, 14 Nov 2023 00:44:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202311/116739_146564_4337_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[삼성전자, 개발자 콘퍼런스 열고 생성형 AI '삼성 가우스' 소개]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=116736</link>
@@ -110,14 +118,6 @@
             <pubDate>Mon, 13 Nov 2023 12:31:33 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202311/116714_146536_2429_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[UDC 23] 이더리움재단 "계정추상화, 이더리움 대중화 속도 UP"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=116712</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=116712</guid>
-            <pubDate>Mon, 13 Nov 2023 12:31:33 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202311/116712_146534_161_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

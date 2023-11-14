@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Nov 2023 03:18:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Nov 2023 04:19:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["한국 기업 생성형 AI 데이터 한국에 저장"…구글 클라우드의 승부수]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=116739</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=116739</guid>
+            <pubDate>Tue, 14 Nov 2023 00:44:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202311/116739_146564_4337_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[글로벌] '게이트키퍼' 지정된 애플..."EU에 소송 제기할듯"]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=116738</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 14 Nov 2023 09:32:00 GMT</pubDate>
             <content:encoded><![CDATA[조성준 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202311/116718_146542_3114_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[테크M 이슈] 경영 전면 나선 카카오 김범수의 첫 스텝은?…저렴한 수수료의 가맹택시]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=116717</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=116717</guid>
-            <pubDate>Mon, 13 Nov 2023 14:15:44 GMT</pubDate>
-            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202311/116717_146541_3835_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
