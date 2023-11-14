@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Nov 2023 04:19:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Nov 2023 05:17:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[창립 이후 최대실적 이어가는 밀리의서재…상장·매출상승 겹경사]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=116740</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=116740</guid>
+            <pubDate>Tue, 14 Nov 2023 05:15:22 GMT</pubDate>
+            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202311/116740_146565_010_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["한국 기업 생성형 AI 데이터 한국에 저장"…구글 클라우드의 승부수]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=116739</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 14 Nov 2023 09:39:00 GMT</pubDate>
             <content:encoded><![CDATA[조성준 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202311/116719_146543_3858_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SKT 액침냉각으로 데이센터 전력 37% 절감…생성형AI 시대 한걸음 빨라진다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=116718</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=116718</guid>
-            <pubDate>Tue, 14 Nov 2023 09:32:00 GMT</pubDate>
-            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202311/116718_146542_3114_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
