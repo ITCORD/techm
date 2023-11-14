@@ -4,14 +4,22 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Nov 2023 07:17:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Nov 2023 08:22:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 네이버 AI 회의록 서비스 ‘클로바노트‘ 정식 공개]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=116751</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=116751</guid>
+            <pubDate>Tue, 14 Nov 2023 08:22:06 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202311/116751_146584_4829_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[게임코인TV] 위메이드의 '위믹스'는 왜 계속 오를까...불장 시작? 실적 개선?]]></title>
             <link>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN10&amp;view_type=sm</link>
             <guid>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN10&amp;view_type=sm</guid>
-            <pubDate>Tue, 14 Nov 2023 07:17:12 GMT</pubDate>
+            <pubDate>Tue, 14 Nov 2023 08:22:06 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
         </item>
         <item>
@@ -109,14 +117,6 @@
             <pubDate>Sat, 04 Nov 2023 15:16:41 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202311/116206_145717_4747_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[채용공고] 테크M 수습/경력기자 모집]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=116162</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=116162</guid>
-            <pubDate>Wed, 01 Nov 2023 00:46:00 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202310/116162_145651_04_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
