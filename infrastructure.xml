@@ -4,9 +4,17 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Nov 2023 23:18:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Nov 2023 01:10:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[영업손실만 5600억...SK스퀘어, 3Q도 하이닉스 탓에 울었다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=116769</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=116769</guid>
+            <pubDate>Wed, 15 Nov 2023 10:02:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202311/116769_146630_254_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한컴, 3분기 영업이익 25.6% ↓…AI·클라우드로 매출 구조 다변화]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=116756</link>
@@ -110,14 +118,6 @@
             <pubDate>Tue, 14 Nov 2023 09:39:00 GMT</pubDate>
             <content:encoded><![CDATA[조성준 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202311/116719_146543_3858_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SKT 액침냉각으로 데이센터 전력 37% 절감…생성형AI 시대 한걸음 빨라진다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=116718</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=116718</guid>
-            <pubDate>Tue, 14 Nov 2023 09:32:00 GMT</pubDate>
-            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202311/116718_146542_3114_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
