@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Nov 2023 05:17:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Nov 2023 06:23:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[AI폰 '갤럭시 S24'는 어떤 모습일까]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=116797</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=116797</guid>
+            <pubDate>Wed, 15 Nov 2023 06:20:36 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202311/116797_146666_99_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['준법경영' 닻 올린 카카오...준법신뢰위 1기 명단 확정]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=116796</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 15 Nov 2023 10:35:00 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202311/116778_146638_3324_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LG유플러스, 겨울왕국 재개봉·조용필 콘서트에 우수고객 초청]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=116775</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=116775</guid>
-            <pubDate>Wed, 15 Nov 2023 10:31:00 GMT</pubDate>
-            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202311/116775_146637_2833_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
