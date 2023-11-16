@@ -4,9 +4,17 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Nov 2023 03:18:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Nov 2023 04:21:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SK텔레콤, 경북도 UAM 하늘길 조성 나선다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=116834</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=116834</guid>
+            <pubDate>Thu, 16 Nov 2023 00:24:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202311/116834_146769_242_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[마이크로소프트, 자체 개발한 AI 칩 공개]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=116832</link>
@@ -110,14 +118,6 @@
             <pubDate>Wed, 15 Nov 2023 11:32:00 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202311/116794_146657_3228_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["누구나 가상인간으로 영상 만들어요"…KT, 'AI 휴먼 스튜디오' 출시]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=116788</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=116788</guid>
-            <pubDate>Wed, 15 Nov 2023 11:04:00 GMT</pubDate>
-            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202311/116788_146652_334_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
