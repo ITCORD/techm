@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Nov 2023 02:29:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Nov 2023 03:19:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[지스타 23] 사진으로 보는 지스타...위메이드 부스에 롯데 자이언츠 치어리더가 떴다!]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=116875</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=116875</guid>
+            <pubDate>Fri, 17 Nov 2023 11:57:00 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202311/116875_146884_5320_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[지스타 23] 유저라고 생각하며 개발한 '로스트 소드'…"던전앤드래곤 영감 얻었죠"]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=116874</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 16 Nov 2023 09:15:47 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202311/116854_146822_1837_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국인터넷신문협회 '2023 인터넷신문인의 밤' 개최]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=116853</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=116853</guid>
-            <pubDate>Thu, 16 Nov 2023 08:20:02 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202311/116853_146818_98_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
