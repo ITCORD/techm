@@ -4,9 +4,17 @@
         <title>테크M ─ 콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Nov 2023 10:18:02 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Nov 2023 11:14:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[롤드컵 결승] 우승까지 한걸음 남았다...T1, 2세트도 압도적 승리]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=116932</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=116932</guid>
+            <pubDate>Sun, 19 Nov 2023 11:12:16 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202311/116932_147129_2425_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[내년 롤드컵 결승전은 영국 런던 O2 아레나에서 열린다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=116931</link>
@@ -110,14 +118,6 @@
             <pubDate>Sat, 18 Nov 2023 06:19:25 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202311/116905_147008_912_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[지스타 23] 사진으로 보는 지스타...어둠 그리고 더 어둠, 테마가 있는 부스 크래프톤]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=116904</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=116904</guid>
-            <pubDate>Sat, 18 Nov 2023 06:19:25 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202311/116904_146993_1923_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
