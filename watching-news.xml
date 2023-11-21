@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Nov 2023 06:23:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Nov 2023 07:16:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 창작업무를 돕는 'AI 아비카' 2023 지식대전 수상]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=117000</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=117000</guid>
+            <pubDate>Tue, 21 Nov 2023 07:16:42 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202311/117000_147261_752_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 미래를 위한 새로운 준비, 엔씨의 '프로젝트G'와 '프로젝트M'을 주목하라]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=116968</link>
@@ -110,14 +118,6 @@
             <pubDate>Thu, 09 Nov 2023 08:23:11 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202311/116587_146305_3415_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 고객편의성 UP! SK브로드밴드 B월드 공개 '챗비에게 물어보세요']]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=116504</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=116504</guid>
-            <pubDate>Wed, 08 Nov 2023 08:22:49 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202311/116504_146186_1119_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
