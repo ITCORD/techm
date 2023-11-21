@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Nov 2023 02:32:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Nov 2023 03:19:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[코웨이 "신제품 비렉스 매트리스로 나에게 꼭 맞는 매트리스 선택하자" (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=116990</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=116990</guid>
+            <pubDate>Tue, 21 Nov 2023 11:57:00 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202311/116990_147247_5645_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[SK㈜ C&C 'AI 코딩 서비스' 오픈…"코딩부터 프로젝트 관리까지 한 번에" (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=116989</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 21 Nov 2023 01:31:00 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202311/116974_147223_2634_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[지스타 後] '변화' 보여준 지스타 2023...K게임은 달라지고 강해진다 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=116970</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=116970</guid>
-            <pubDate>Mon, 20 Nov 2023 08:21:04 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202311/116970_147212_1918_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[하이브 위버스, 프로미스나인 '위버스 DM' 오픈 (테크M ─ 콘텐츠)]]></title>
@@ -728,6 +728,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202311/116591_146317_1658_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[코웨이 "신제품 비렉스 매트리스로 나에게 꼭 맞는 매트리스 선택하자" (테크M ─ 라이프)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=116990</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=116990</guid>
+            <pubDate>Tue, 21 Nov 2023 11:57:00 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202311/116990_147247_5645_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA["다양한 혜택에 3040 반했다" CJ ONE 프리즘 신한카드, 한 달 만에 1만장 돌파 (테크M ─ 라이프)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=116979</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=116979</guid>
@@ -830,14 +838,6 @@
             <pubDate>Wed, 15 Nov 2023 09:41:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202311/116765_146626_4132_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[테크M 리포트] 다시 뛰는 한샘, 바닥 찍고 '흑자 경영' 굳힌다 (테크M ─ 라이프)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=116745</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=116745</guid>
-            <pubDate>Tue, 14 Nov 2023 06:20:59 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202311/116745_146578_757_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[글로벌] 샘 알트만 오픈AI CEO 해임...다음 행선지는 MS? (테크M ─ 리포트)]]></title>
