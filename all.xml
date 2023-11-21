@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Nov 2023 03:19:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Nov 2023 04:21:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[흑자경영 초읽기...LG디스플레이, 차량용 OLED로 웃는다 (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=116992</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=116992</guid>
+            <pubDate>Tue, 21 Nov 2023 00:25:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202311/116992_147249_2548_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연이은 국가전산망 마비에 "대기업 참여 제한 풀자" 목소리 커진다 (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=116991</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=116991</guid>
+            <pubDate>Tue, 21 Nov 2023 00:20:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202311/116991_147248_1910_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[코웨이 "신제품 비렉스 매트리스로 나에게 꼭 맞는 매트리스 선택하자" (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=116990</link>
@@ -152,22 +168,6 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202311/116973_147221_4545_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[테크M 이슈] 마이크로소프트의 '올트먼 일병 구하기'…AI 업계 지각변동 일으킬까 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=116975</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=116975</guid>
-            <pubDate>Tue, 21 Nov 2023 03:45:00 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202311/116975_147225_1731_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[PGC 통신] 페이즈, 1점차로 티안 따돌리고 1위...다나와, 韓 유일 승자전 진출 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=116974</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=116974</guid>
-            <pubDate>Tue, 21 Nov 2023 01:31:00 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202311/116974_147223_2634_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[하이브 위버스, 프로미스나인 '위버스 DM' 오픈 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=116987</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=116987</guid>
@@ -280,6 +280,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202311/116955_147172_4537_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[연이은 국가전산망 마비에 "대기업 참여 제한 풀자" 목소리 커진다 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=116991</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=116991</guid>
+            <pubDate>Tue, 21 Nov 2023 00:20:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202311/116991_147248_1910_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[SK㈜ C&C 'AI 코딩 서비스' 오픈…"코딩부터 프로젝트 관리까지 한 번에" (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=116989</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=116989</guid>
@@ -384,12 +392,12 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202311/116952_147169_3141_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA["AI엔진에 감성을 담았다"…아스타, 국제발명전시회 금·은·동상 수상 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=116950</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=116950</guid>
-            <pubDate>Mon, 20 Nov 2023 10:27:00 GMT</pubDate>
-            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202311/116950_147167_2621_v150.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[흑자경영 초읽기...LG디스플레이, 차량용 OLED로 웃는다 (테크M ─ 이노베이션)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=116992</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=116992</guid>
+            <pubDate>Tue, 21 Nov 2023 00:25:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202311/116992_147249_2548_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[해봤다] 내 목소리가 순식간에 여자 목소리로...수퍼톤 음성 AI로 게임 NPC 목소리 '뚝딱' (테크M ─ 이노베이션)]]></title>
@@ -494,14 +502,6 @@
             <pubDate>Wed, 15 Nov 2023 09:54:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202311/116767_146628_5443_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["배달도 기술이다" 우아한형제들 테크 콘퍼런스 '우아콘' 오늘 개막 (테크M ─ 이노베이션)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=116764</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=116764</guid>
-            <pubDate>Wed, 15 Nov 2023 09:38:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202311/116764_146625_3845_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[크립토 브리핑] 비트코인 5000만원 돌파했지만...'김치 프리미엄' 4% (테크M ─ 인베스트먼트)]]></title>
