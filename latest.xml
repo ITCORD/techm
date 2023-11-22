@@ -4,9 +4,25 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Nov 2023 06:23:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Nov 2023 07:16:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["샘 알트만, CEO로 돌아와줘" 오픈AI 이사회 '백기']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=117033</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=117033</guid>
+            <pubDate>Wed, 22 Nov 2023 07:14:42 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202311/117033_147344_4019_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["학생 개발자 키우자"…카카오, 테크 캠퍼스 1기 수료식 성료]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=117031</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=117031</guid>
+            <pubDate>Wed, 22 Nov 2023 07:14:42 GMT</pubDate>
+            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202311/117031_147333_2527_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["핵심기술 유출 피해 막는다"…에쓰핀테크놀로지, 씰패스와 총판 계약 체결]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=117030</link>
@@ -150,22 +166,6 @@
             <pubDate>Wed, 22 Nov 2023 10:20:00 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202311/117013_147302_1819_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[조주완 LG전자 사장 "2030 미래비전 향해 협력사 같이 뛰자"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=117012</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=117012</guid>
-            <pubDate>Wed, 22 Nov 2023 10:17:00 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202311/117012_147301_1625_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[광주의 '천사부부' 전권섭·배경옥씨, KT 희망나눔인상 선정]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=117011</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=117011</guid>
-            <pubDate>Wed, 22 Nov 2023 10:11:00 GMT</pubDate>
-            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202311/117011_147300_113_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

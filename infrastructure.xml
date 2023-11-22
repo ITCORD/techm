@@ -4,9 +4,25 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Nov 2023 06:23:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Nov 2023 07:16:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["샘 알트만, CEO로 돌아와줘" 오픈AI 이사회 '백기']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=117033</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=117033</guid>
+            <pubDate>Wed, 22 Nov 2023 07:15:17 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202311/117033_147344_4019_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["학생 개발자 키우자"…카카오, 테크 캠퍼스 1기 수료식 성료]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=117031</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=117031</guid>
+            <pubDate>Wed, 22 Nov 2023 07:15:17 GMT</pubDate>
+            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202311/117031_147333_2527_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["핵심기술 유출 피해 막는다"…에쓰핀테크놀로지, 씰패스와 총판 계약 체결]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=117030</link>
@@ -102,22 +118,6 @@
             <pubDate>Tue, 21 Nov 2023 06:21:28 GMT</pubDate>
             <content:encoded><![CDATA[조성준 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202311/116997_147260_5518_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["니로 운전자라면 안심하고 탈 수 있겠어요"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=116996</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=116996</guid>
-            <pubDate>Tue, 21 Nov 2023 06:21:28 GMT</pubDate>
-            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202311/116996_147259_516_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서비스나우 플랫폼에 생성형AI 도입…"기업 생산성 증가 지원할 것"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=116994</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=116994</guid>
-            <pubDate>Tue, 21 Nov 2023 06:21:28 GMT</pubDate>
-            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202311/116994_147281_4454_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
