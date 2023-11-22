@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Nov 2023 07:16:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Nov 2023 08:21:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] SK C&C 쉽고 빠른 개발자 맞춤형 'AI 코딩 서비스' 개발]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=117032</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=117032</guid>
+            <pubDate>Wed, 22 Nov 2023 08:21:48 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202311/117032_147334_3213_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 창작업무를 돕는 'AI 아비카' 2023 지식대전 수상]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=117000</link>
@@ -110,14 +118,6 @@
             <pubDate>Fri, 10 Nov 2023 17:16:16 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202311/116632_146404_2526_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 생성형AI 삼성가우스 '언어, 코드, 이미지 모델' 공개]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=116587</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=116587</guid>
-            <pubDate>Thu, 09 Nov 2023 08:23:11 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202311/116587_146305_3415_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
