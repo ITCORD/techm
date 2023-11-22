@@ -4,9 +4,17 @@
         <title>테크M ─ 콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Nov 2023 12:32:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Nov 2023 13:22:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[KDL 통신] '샌드박스전 7연승' 광동 프릭스...결승 티켓 획득]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=117038</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=117038</guid>
+            <pubDate>Wed, 22 Nov 2023 13:20:28 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202311/117038_147363_2923_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[테크M 이슈] 1Q부터 쏟아낸다...게임한류 신작 러시 스타트]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=117034</link>
@@ -110,14 +118,6 @@
             <pubDate>Tue, 21 Nov 2023 11:05:00 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202311/116985_147242_4445_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[엔씨소프트 도구리, 막내클럽 '실수 세탁소' 연남동서 만난다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=116984</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=116984</guid>
-            <pubDate>Tue, 21 Nov 2023 11:05:00 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202311/116984_147240_3531_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
