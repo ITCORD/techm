@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Nov 2023 04:20:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Nov 2023 05:17:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[경영 최전선에 선 창업주...카카오, 김범수 등판 한달새 안정 찾았다 (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=117112</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=117112</guid>
+            <pubDate>Fri, 24 Nov 2023 05:15:36 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202311/117112_147482_598_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[LG유플러스, 2024년 임원인사 실시…전병기 AI·데이터그룹장 전무 승진 (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=117110</link>
@@ -21,7 +29,7 @@
             <guid>https://www.techm.kr/news/articleView.html?idxno=117091</guid>
             <pubDate>Fri, 24 Nov 2023 11:34:00 GMT</pubDate>
             <content:encoded><![CDATA[조성준 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202311/117091_147456_411_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202311/117091_147483_428_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[LG전자, 2024년 조직개편·임원인사 실시…'2030 미래비전' 실현에 초점 (테크M ─ 전체기사)]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 23 Nov 2023 16:20:03 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202311/117093_147461_4131_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[PGC 통신] 韓 자존심 지켰다...DK-젠지, 패자브래킷서 나란히 3, 5위 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=117092</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=117092</guid>
-            <pubDate>Thu, 23 Nov 2023 16:20:03 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202311/117092_147457_3823_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[더 샌드박스, 한국콘텐츠진흥원과 K콘텐츠 체험 행사 개최 (테크M ─ 콘텐츠)]]></title>
@@ -616,6 +616,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202311/116730_146552_3642_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[경영 최전선에 선 창업주...카카오, 김범수 등판 한달새 안정 찾았다 (테크M ─ 피플)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=117112</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=117112</guid>
+            <pubDate>Fri, 24 Nov 2023 05:16:56 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202311/117112_147482_598_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[LG유플러스, 2024년 임원인사 실시…전병기 AI·데이터그룹장 전무 승진 (테크M ─ 피플)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=117110</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=117110</guid>
@@ -629,7 +637,7 @@
             <guid>https://www.techm.kr/news/articleView.html?idxno=117091</guid>
             <pubDate>Fri, 24 Nov 2023 11:34:00 GMT</pubDate>
             <content:encoded><![CDATA[조성준 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202311/117091_147456_411_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202311/117091_147483_428_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[테크M 피플] 디지털 자산 혁신가...두나무 이석우의 꿈은 계속된다 (테크M ─ 피플)]]></title>
@@ -667,7 +675,7 @@
             <title><![CDATA[[인사] LG경영개발원·LG스포츠 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Fri, 24 Nov 2023 04:19:55 GMT</pubDate>
+            <pubDate>Fri, 24 Nov 2023 05:16:55 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
         </item>
         <item>
@@ -717,14 +725,6 @@
             <pubDate>Thu, 23 Nov 2023 11:08:00 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202311/117056_147384_4925_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[e스포츠人] 광동 배성빈 "결승은 미래앤세종이 올라왔으면." (테크M ─ 피플)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=117039</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=117039</guid>
-            <pubDate>Wed, 22 Nov 2023 15:16:16 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202311/117039_147364_623_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[티몬, 스피킹맥스 등 인기 어학 수강권 단독 특가 판매 (테크M ─ 라이프)]]></title>
