@@ -4,9 +4,17 @@
         <title>테크M ─ 콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Nov 2023 05:17:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Nov 2023 06:23:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[엔씨 "12월7일, 오후 8시부터 '쓰론 앤 리버티(TL)' 즐기세요"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=117119</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=117119</guid>
+            <pubDate>Fri, 24 Nov 2023 06:20:29 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202311/117119_147491_5631_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[더 샌드박스, 한국콘텐츠진흥원과 K콘텐츠 체험 행사 개최]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=117104</link>
@@ -110,14 +118,6 @@
             <pubDate>Thu, 23 Nov 2023 10:30:00 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202311/117049_147375_2543_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[KDL 통신] '샌드박스전 7연승' 광동 프릭스...결승 티켓 획득]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=117038</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=117038</guid>
-            <pubDate>Wed, 22 Nov 2023 13:20:28 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202311/117038_147454_3956_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
