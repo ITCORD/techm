@@ -4,9 +4,17 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Nov 2023 10:18:18 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Nov 2023 11:14:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[행정전상망 마비 원인은 라우터 불량…"해킹 징후 없다"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=117145</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=117145</guid>
+            <pubDate>Sat, 25 Nov 2023 11:12:39 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202311/117145_147537_1412_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[골프존 사칭하는 피싱 문자 기승…"접속장애 노린 스미싱 주의하세요"]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=117140</link>
@@ -110,14 +118,6 @@
             <pubDate>Thu, 23 Nov 2023 06:21:49 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202311/117079_147416_1559_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NHN두레이, 올인원 협업도구 'Dooray!' 공공기관 100여곳 도입 달성]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=117076</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=117076</guid>
-            <pubDate>Thu, 23 Nov 2023 05:15:53 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202311/117076_147406_256_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

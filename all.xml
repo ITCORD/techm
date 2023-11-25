@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Nov 2023 10:18:18 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Nov 2023 11:14:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[행정전상망 마비 원인은 라우터 불량…"해킹 징후 없다" (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=117145</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=117145</guid>
+            <pubDate>Sat, 25 Nov 2023 11:12:04 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202311/117145_147537_1412_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[크립토 주간 브리핑] 바이낸스 충격 없다...비트코인 올해 최고가 경신 (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=117143</link>
@@ -160,14 +168,6 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202311/117119_147491_5631_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[장현국 위메이드, 22번째 위믹스 매입...총 95만개 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=117116</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=117116</guid>
-            <pubDate>Fri, 24 Nov 2023 06:20:12 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202311/117116_147488_3927_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[e스포츠人] 베로니카7 '규민' 심규민 "교전에 문제 있었다...보완해 GF 꼭 올라갈 것" (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=117142</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=117142</guid>
@@ -280,6 +280,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202311/117057_147385_5835_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[행정전상망 마비 원인은 라우터 불량…"해킹 징후 없다" (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=117145</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=117145</guid>
+            <pubDate>Sat, 25 Nov 2023 11:12:39 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202311/117145_147537_1412_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[골프존 사칭하는 피싱 문자 기승…"접속장애 노린 스미싱 주의하세요" (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=117140</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=117140</guid>
@@ -382,14 +390,6 @@
             <pubDate>Thu, 23 Nov 2023 06:20:31 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202311/117079_147416_1559_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NHN두레이, 올인원 협업도구 'Dooray!' 공공기관 100여곳 도입 달성 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=117076</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=117076</guid>
-            <pubDate>Thu, 23 Nov 2023 05:15:18 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202311/117076_147406_256_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[컬리, 3분기 역대 최대 매출에 적자 35.3% 줄여…수익성 개선 '청신호' (테크M ─ 이노베이션)]]></title>
@@ -683,7 +683,7 @@
             <title><![CDATA[[인사] LG경영개발원·LG스포츠 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Sat, 25 Nov 2023 10:17:28 GMT</pubDate>
+            <pubDate>Sat, 25 Nov 2023 11:13:21 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
         </item>
         <item>
