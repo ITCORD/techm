@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Nov 2023 23:18:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Nov 2023 01:08:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[글로벌] 스마트폰 판매량, 28개월 만에 반등...전년 대비 5% ↑ (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=117135</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=117135</guid>
+            <pubDate>Sat, 25 Nov 2023 08:50:00 GMT</pubDate>
+            <content:encoded><![CDATA[김현기 대표]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202311/117135_147523_4244_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[글로벌] "SNS 중독되게 설계했다"...美 시민들, 빅테크 기업에 소송 (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=117136</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=117136</guid>
+            <pubDate>Sat, 25 Nov 2023 08:50:00 GMT</pubDate>
+            <content:encoded><![CDATA[김현기 대표]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202311/117136_147524_454_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[글로벌] '엎친 데 덮친' 일론 머스크...美의원, SEC에 조사 요청 (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=117137</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=117137</guid>
+            <pubDate>Sat, 25 Nov 2023 08:50:00 GMT</pubDate>
+            <content:encoded><![CDATA[김현기 대표]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202311/117137_147525_4738_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[e스포츠人] 베로니카7 '규민' 심규민 "교전에 문제 있었다...보완해 GF 꼭 올라갈 것" (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=117142</link>
@@ -142,30 +166,6 @@
             <pubDate>Fri, 24 Nov 2023 06:20:12 GMT</pubDate>
             <content:encoded><![CDATA[조성준 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202311/117118_147490_5427_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코웨이 '2023 품질경쟁력 우수기업' 선정 쾌거 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=117117</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=117117</guid>
-            <pubDate>Fri, 24 Nov 2023 06:20:12 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202311/117117_147489_462_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[황현식 2기 키워드는 플랫폼·신사업…'유플러스 3.0' 비전 이어간다 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=117113</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=117113</guid>
-            <pubDate>Fri, 24 Nov 2023 06:20:12 GMT</pubDate>
-            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202311/117113_147519_1153_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LG 구광모, 미래 준비 위한 세대교체 박차…젊은 리더십으로 '1등 LG' 전략 가속 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=117114</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=117114</guid>
-            <pubDate>Fri, 24 Nov 2023 06:20:12 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202311/117114_147520_1211_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[e스포츠人] 베로니카7 '규민' 심규민 "교전에 문제 있었다...보완해 GF 꼭 올라갈 것" (테크M ─ 콘텐츠)]]></title>
@@ -683,7 +683,7 @@
             <title><![CDATA[[인사] LG경영개발원·LG스포츠 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Fri, 24 Nov 2023 23:17:08 GMT</pubDate>
+            <pubDate>Sat, 25 Nov 2023 01:06:44 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
         </item>
         <item>
