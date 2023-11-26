@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Nov 2023 16:20:37 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Nov 2023 17:14:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[쿠팡, 지데빌 PC 단독 런칭…로켓배송으로 빠르게 만난다 (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=117160</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=117160</guid>
+            <pubDate>Mon, 27 Nov 2023 01:18:00 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202311/117160_147570_1653_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[PGC 통신] 최종전에 무려 네팀 올린 韓...중국팀 경계 대상 1호 (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=117159</link>
@@ -160,14 +168,6 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202311/117137_147525_4738_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[e스포츠人] 베로니카7 '규민' 심규민 "교전에 문제 있었다...보완해 GF 꼭 올라갈 것" (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=117142</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=117142</guid>
-            <pubDate>Sat, 25 Nov 2023 01:38:00 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202311/117142_147530_1541_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[PGC 통신] 최종전에 무려 네팀 올린 韓...중국팀 경계 대상 1호 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=117159</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=117159</guid>
@@ -179,7 +179,7 @@
             <title><![CDATA[[PGC 통신] '韓 최강 입증' 다나와, 2위로 그랜드 파이널 직행...아즈라, 최종전행 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=117158</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=117158</guid>
-            <pubDate>Sun, 26 Nov 2023 16:18:50 GMT</pubDate>
+            <pubDate>Sun, 26 Nov 2023 16:18:33 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202311/117158_147564_5059_v150.jpg" length="0" type="image/jpg"/>
         </item>
@@ -691,7 +691,7 @@
             <title><![CDATA[[인사] LG경영개발원·LG스포츠 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Sun, 26 Nov 2023 16:19:47 GMT</pubDate>
+            <pubDate>Sun, 26 Nov 2023 17:14:09 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
         </item>
         <item>
@@ -725,6 +725,14 @@
             <pubDate>Thu, 23 Nov 2023 06:20:31 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202311/117077_147447_3728_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[쿠팡, 지데빌 PC 단독 런칭…로켓배송으로 빠르게 만난다 (테크M ─ 라이프)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=117160</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=117160</guid>
+            <pubDate>Mon, 27 Nov 2023 01:18:00 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202311/117160_147570_1653_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[같이보소] 오징어 게임의 예능 버전-겨울 예능의 끝판왕...주말에 OTT에서 정주행 GO! (테크M ─ 라이프)]]></title>
@@ -829,14 +837,6 @@
             <pubDate>Tue, 21 Nov 2023 11:57:00 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202311/116990_147247_5645_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["다양한 혜택에 3040 반했다" CJ ONE 프리즘 신한카드, 한 달 만에 1만장 돌파 (테크M ─ 라이프)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=116979</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=116979</guid>
-            <pubDate>Tue, 21 Nov 2023 09:47:00 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202311/116979_147235_4540_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[글로벌] 스마트폰 판매량, 28개월 만에 반등...전년 대비 5% ↑ (테크M ─ 리포트)]]></title>
