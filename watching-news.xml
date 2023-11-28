@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Nov 2023 16:22:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Nov 2023 17:16:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[게임코인TV] 지스타로 예측해본 내년 게임 시장은?...콘솔이 대세 이룰까]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=117230</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=117230</guid>
+            <pubDate>Wed, 29 Nov 2023 01:22:00 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202311/117230_147704_2144_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] KLPGA 팬 커뮤니티 '버디스쿼드' 정식 서비스 전환]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=117217</link>
@@ -110,14 +118,6 @@
             <pubDate>Tue, 14 Nov 2023 08:22:06 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202311/116751_146584_4829_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[게임코인TV] 위메이드의 '위믹스'는 왜 계속 오를까...불장 시작? 실적 개선?]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=116691</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=116691</guid>
-            <pubDate>Wed, 15 Nov 2023 04:22:11 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202311/116691_146664_3433_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
