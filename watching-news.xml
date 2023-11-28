@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Nov 2023 06:22:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Nov 2023 07:16:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] KLPGA 팬 커뮤니티 '버디스쿼드' 정식 서비스 전환]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=117217</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=117217</guid>
+            <pubDate>Tue, 28 Nov 2023 07:16:57 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202311/117217_147661_4226_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 더 샌드박스, 우영우 팝업스토어 오픈 ‘메타버스 체험 콘텐츠 선보인다‘]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=117184</link>
@@ -110,14 +118,6 @@
             <pubDate>Wed, 15 Nov 2023 04:22:11 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202311/116691_146664_3433_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] AI 미디어 관리자 'KT 어드밴스드 닥터지니' 본격 적용 시작]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=116682</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=116682</guid>
-            <pubDate>Mon, 13 Nov 2023 07:17:15 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202311/116682_146487_228_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
