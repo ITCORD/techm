@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Nov 2023 03:19:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Nov 2023 04:21:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[업비트는 韓 독점 사업자? 한국인이 찾는 바이낸스 일거래량...여전히 업비트 '5배' (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=117205</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=117205</guid>
+            <pubDate>Tue, 28 Nov 2023 00:17:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202311/117205_147646_1750_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["미신고 업체 막아라" 업비트, 투자자 보호 조치 '총력' (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=117204</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 27 Nov 2023 07:15:49 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202311/117183_147614_811_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["직급에 연연하지 않는다"...1년 묵은 KT 인사 키워드는 '혁신' (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=117185</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=117185</guid>
-            <pubDate>Mon, 27 Nov 2023 07:15:49 GMT</pubDate>
-            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202311/117185_147615_836_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[김연수 한컴 대표 "한컴의 미래는 '협업'…국가 브랜드로 도약할 것" (테크M ─ 콘텐츠)]]></title>
@@ -504,6 +504,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202311/117023_147319_4653_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[업비트는 韓 독점 사업자? 한국인이 찾는 바이낸스 일거래량...여전히 업비트 '5배' (테크M ─ 인베스트먼트)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=117205</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=117205</guid>
+            <pubDate>Tue, 28 Nov 2023 00:17:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202311/117205_147646_1750_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[크립토 브리핑] 비트코인, 닷새째 5000만원대 횡보...김치 프리미엄 3%대 (테크M ─ 인베스트먼트)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=117194</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=117194</guid>
@@ -608,14 +616,6 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202311/116948_147166_2129_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[지스타 23] 조용한 승자 펄어비스...'붉은사막' 비공개 시연에 기대감 'UP' (테크M ─ 인베스트먼트)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=116890</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=116890</guid>
-            <pubDate>Fri, 17 Nov 2023 08:20:40 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202311/116890_146940_1832_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[삼성전자, 한종희·경계현 '투톱 체제' 유지…'미래사업기획단' 신설로 미래 먹거리 찾는다(종합) (테크M ─ 피플)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=117169</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=117169</guid>
@@ -707,7 +707,7 @@
             <title><![CDATA[[인사] LG경영개발원·LG스포츠 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Tue, 28 Nov 2023 03:17:50 GMT</pubDate>
+            <pubDate>Tue, 28 Nov 2023 04:20:33 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
         </item>
         <item>
