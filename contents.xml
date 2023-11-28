@@ -4,9 +4,17 @@
         <title>테크M ─ 콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Nov 2023 05:17:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Nov 2023 06:22:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[짱구가 '애니팡3에 떴다...IP 제휴에 신규·복귀 이용자 '껑충']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=117215</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=117215</guid>
+            <pubDate>Tue, 28 Nov 2023 06:20:54 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202311/117215_147657_3331_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김연수 한컴 대표 "한컴의 미래는 '협업'…국가 브랜드로 도약할 것"]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=117200</link>
@@ -110,14 +118,6 @@
             <pubDate>Sat, 25 Nov 2023 16:18:31 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202311/117148_147546_182_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[KDL 통신] '호준'이 '호준'했다...미래앤세종, PO서 샌드박스와 맞대결]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=117146</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=117146</guid>
-            <pubDate>Sat, 25 Nov 2023 14:13:31 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202311/117146_147542_1648_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
