@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Nov 2023 02:29:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Nov 2023 03:18:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[크리마, 블록체인 활용한 RWA 상품 투자 플랫폼 출시 (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=117243</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=117243</guid>
+            <pubDate>Wed, 29 Nov 2023 11:49:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202311/117243_147721_4856_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[제2의 래디쉬 '아이작노벨' 론칭, 웹소설 다작시대 연다 (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=117242</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=117242</guid>
+            <pubDate>Wed, 29 Nov 2023 11:46:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202311/117242_147720_4647_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[삼성전기, 2024년 정기 임원인사 단행…부사장 2명·상무 6명 승진 (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=117241</link>
@@ -152,22 +168,6 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202311/117223_147689_4933_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[같이사소] 겨울을 즐기는 다양한 소비자들...쿠팡-티몬-위메프로 "모이세요" (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=117221</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=117221</guid>
-            <pubDate>Tue, 28 Nov 2023 08:20:21 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202311/117221_147681_5724_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[메시지 대신 이모티콘...매달 3000만명이 카카오톡 이모티콘 쓴다 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=117222</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=117222</guid>
-            <pubDate>Tue, 28 Nov 2023 08:20:21 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202311/117222_147684_028_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[지하철 28㎓ 와이파이 계속 사용한다…과기정통부, 이통3사 이음5G 허용 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=117239</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=117239</guid>
@@ -280,6 +280,22 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202311/117190_147612_4559_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[크리마, 블록체인 활용한 RWA 상품 투자 플랫폼 출시 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=117243</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=117243</guid>
+            <pubDate>Wed, 29 Nov 2023 11:49:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202311/117243_147721_4856_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[제2의 래디쉬 '아이작노벨' 론칭, 웹소설 다작시대 연다 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=117242</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=117242</guid>
+            <pubDate>Wed, 29 Nov 2023 11:46:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202311/117242_147720_4647_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA["MS·구글 게 섯거라" 생성형 AI 반격 나선 아마존…AI 챗봇 'Q' 공개 (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=117238</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=117238</guid>
@@ -374,22 +390,6 @@
             <pubDate>Tue, 28 Nov 2023 10:47:00 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202311/117197_147634_2915_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[위메이드, UAE 두바이 상공회의소와 맞손...블록체인 게임 생태계 성장 지원 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=117195</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=117195</guid>
-            <pubDate>Tue, 28 Nov 2023 10:47:00 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202311/117195_147632_1717_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성전자 하만, 음악 스트리밍 플랫폼 '룬' 인수…프리미엄 전략 시너지 기대 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=117193</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=117193</guid>
-            <pubDate>Tue, 28 Nov 2023 07:58:00 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202311/117193_147698_5339_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[엔씨소프트 변화의 방향은 '콘솔'...소니 '플레이스테이션'과 시너지 낸다 (테크M ─ 이노베이션)]]></title>
