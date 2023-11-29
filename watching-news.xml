@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Nov 2023 09:18:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Nov 2023 10:18:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 글로벌 도약을 준비하는 '한컴'의 AI 사업 전략과 기술은?]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=117254</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=117254</guid>
+            <pubDate>Wed, 29 Nov 2023 10:18:54 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202311/117254_147769_5957_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[게임코인TV] 지스타로 예측해본 내년 게임 시장은?...콘솔이 대세 이룰까]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=117230</link>
@@ -110,14 +118,6 @@
             <pubDate>Tue, 14 Nov 2023 10:20:05 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202311/116758_146622_4255_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 네이버 AI 회의록 서비스 ‘클로바노트‘ 정식 공개]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=116751</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=116751</guid>
-            <pubDate>Tue, 14 Nov 2023 08:22:06 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202311/116751_146584_4829_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
