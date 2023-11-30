@@ -4,9 +4,17 @@
         <title>테크M ─ 콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Nov 2023 05:17:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Nov 2023 06:22:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[컴투스, 신작 '스타시드 아스니아 트리거' 세계관 영상 최초 공개]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=117295</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=117295</guid>
+            <pubDate>Thu, 30 Nov 2023 06:20:32 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202311/117295_147832_916_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["맥 게이밍 성능 이 정도일 줄은"…'올해의 맥 게임' 수상한 'P의 거짓' 개발자가 밝힌 소감]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=117284</link>
@@ -110,14 +118,6 @@
             <pubDate>Tue, 28 Nov 2023 08:20:39 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202311/117222_147684_028_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['AGF'라 쓰고 '팬덤형 게임 페스티벌'이라 읽는다...애니-게임 문화 공유한다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=117220</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=117220</guid>
-            <pubDate>Tue, 28 Nov 2023 08:20:39 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202311/117220_147676_5648_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
