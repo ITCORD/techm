@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Dec 2023 14:18:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Dec 2023 15:18:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[가봤다] 굿즈 사고, 사진 찍고, 게임 하고, 리그도 보고...태국 현지는 PGC로 '후끈']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=117366</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=117366</guid>
+            <pubDate>Fri, 01 Dec 2023 15:16:08 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202312/117366_147991_4432_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[넥슨 '마비노기' 3년만에 신규 메인스트림...겨울 업데이트 콘텐츠 '풍성']]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=117365</link>
@@ -35,7 +43,7 @@
             <title><![CDATA[[부고] 한유정(엔엑스씨 실장)씨 부친상]]></title>
             <link>https://www.techm.kr/news/articleList.html</link>
             <guid>https://www.techm.kr/news/articleList.html</guid>
-            <pubDate>Fri, 01 Dec 2023 14:16:28 GMT</pubDate>
+            <pubDate>Fri, 01 Dec 2023 15:16:08 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
         </item>
         <item>
@@ -157,14 +165,6 @@
             <pubDate>Fri, 01 Dec 2023 00:38:00 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202312/117336_147915_3717_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SKT·KT, 글로벌 텔레콤 어워드에서 수상…이동통신 기술력 인정]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=117335</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=117335</guid>
-            <pubDate>Fri, 01 Dec 2023 00:37:00 GMT</pubDate>
-            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202312/117335_147913_3520_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
