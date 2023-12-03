@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Dec 2023 14:14:46 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Dec 2023 15:17:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,6 +168,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202312/117358_148129_479_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[이민호 크래프톤 e스포츠 총괄 "2024년 국제 대회 더 많이 볼 수 있을 것" (테크M ─ 콘텐츠)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=117393</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=117393</guid>
+            <pubDate>Sun, 03 Dec 2023 15:15:08 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202312/117393_148132_122_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[PGC 통신] 3일 전석 매진...태국에 불어온 '배그 열풍' (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=117388</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=117388</guid>
@@ -270,14 +278,6 @@
             <pubDate>Fri, 01 Dec 2023 07:14:45 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202312/117357_147967_4428_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['이번엔 MLB, 그리고 김하성'...쿠팡플레이, 서울서 열리는 MLB 개막전 독점 중계 (테크M ─ 콘텐츠)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=117359</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=117359</guid>
-            <pubDate>Fri, 01 Dec 2023 07:14:45 GMT</pubDate>
-            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202312/117359_147966_4153_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[스토킹·학교폭력·노인 실종 예방...지능형 CCTV 고도화해 범죄 막는다 (테크M ─ 인프라)]]></title>
@@ -667,7 +667,7 @@
             <title><![CDATA[[부고] 한유정(엔엑스씨 실장)씨 부친상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Sun, 03 Dec 2023 14:14:05 GMT</pubDate>
+            <pubDate>Sun, 03 Dec 2023 15:16:09 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
         </item>
         <item>
