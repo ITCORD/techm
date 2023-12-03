@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Dec 2023 22:16:06 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Dec 2023 23:18:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[책] 아마존-애플-쿠팡-네이버가 뛰어든 스토리테크 전쟁...IT전문기자 눈으로 분석하다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=117392</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=117392</guid>
+            <pubDate>Mon, 04 Dec 2023 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202312/117392_148131_62_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[e스포츠人] 눈물-덤덤-기쁨-천진난만...PGC 우승을 대하는 다나와 선수들의 소회]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=117398</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 02 Dec 2023 11:12:40 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202312/117378_148126_466_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[크립토 주간 브리핑] 꾸준한 비트코인, 5100만원 돌파...위믹스 1주새 27% 급등]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=117377</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=117377</guid>
-            <pubDate>Sat, 02 Dec 2023 06:19:27 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202312/117377_148128_4651_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
