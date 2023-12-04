@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Dec 2023 06:23:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Dec 2023 07:17:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 선한영향력을 추구하는 롯데정보통신 'NFT 기부 캠페인'에 참여해보세요]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=117430</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=117430</guid>
+            <pubDate>Mon, 04 Dec 2023 07:17:32 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202312/117430_148199_4236_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 컴투스 신작 '스타시드 아스니아 트리거' 국내 출시 임박]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=117355</link>
@@ -110,14 +118,6 @@
             <pubDate>Thu, 16 Nov 2023 08:22:21 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202311/116841_146775_5614_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 롯데정보통신 니울 멤버십 NFT 공개 '업사이클링 활동을 알린다']]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=116802</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=116802</guid>
-            <pubDate>Wed, 15 Nov 2023 09:18:29 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202311/116802_146672_3826_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
