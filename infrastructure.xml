@@ -4,9 +4,17 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Dec 2023 23:18:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Dec 2023 01:11:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[트위치, 내년 2월 27일 한국 서비스 종료..."운영 비용 심각한 수준으로 높아"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=117481</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=117481</guid>
+            <pubDate>Wed, 06 Dec 2023 09:46:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202312/117481_148298_3838_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["지속가능성, 사업 성과와 관계있다"…솔루션 투자 늘리는 기업들]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=117477</link>
@@ -110,14 +118,6 @@
             <pubDate>Mon, 04 Dec 2023 11:00:00 GMT</pubDate>
             <content:encoded><![CDATA[조성준 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202312/117364_147973_447_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mac 시장까지 잡은 '파수'…OS구분없는 데이터보안 구현]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=117409</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=117409</guid>
-            <pubDate>Mon, 04 Dec 2023 10:18:00 GMT</pubDate>
-            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202312/117409_148148_1736_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

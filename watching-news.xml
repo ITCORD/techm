@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Dec 2023 23:18:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Dec 2023 01:11:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 토큰화된 자산 관리 '크리마(CHREMA)' 상품 투자 플랫폼 출시]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=117466</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=117466</guid>
+            <pubDate>Wed, 06 Dec 2023 09:47:00 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202312/117466_148264_505_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 선한영향력을 추구하는 롯데정보통신 'NFT 기부 캠페인'에 참여해보세요]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=117430</link>
@@ -110,14 +118,6 @@
             <pubDate>Fri, 17 Nov 2023 08:22:24 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202311/116887_146915_3637_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 쉽고 간단하게 콘텐츠를 제작하는 KT 'AI 휴먼 스튜디오' 공개]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=116841</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=116841</guid>
-            <pubDate>Thu, 16 Nov 2023 08:22:21 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202311/116841_146775_5614_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
