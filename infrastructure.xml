@@ -4,9 +4,17 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Dec 2023 11:15:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Dec 2023 12:32:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["AI가 어디까지 문제해결 할 수 있을까?"…대답은 "사람이 하는 모든 부분"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=117516</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=117516</guid>
+            <pubDate>Wed, 06 Dec 2023 12:30:51 GMT</pubDate>
+            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202312/117516_148359_358_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[KTis 광고형 미디어 플랫폼 타운보드, 전국 5만대 돌파]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=117500</link>
@@ -110,14 +118,6 @@
             <pubDate>Tue, 05 Dec 2023 08:56:00 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202312/117437_148231_5517_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LG CNS, 충주 지역 중학생 대상 'AI 지니어스' 진행]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=117436</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=117436</guid>
-            <pubDate>Tue, 05 Dec 2023 08:52:00 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202312/117436_148230_5155_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
