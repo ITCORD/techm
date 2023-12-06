@@ -4,9 +4,25 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Dec 2023 02:30:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Dec 2023 03:18:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[윤 대통령, 방통위원장 후보자에 김홍일 권익위원장 지명]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=117489</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=117489</guid>
+            <pubDate>Wed, 06 Dec 2023 00:06:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202312/117489_148313_52_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[나고야 물들인 '세븐틴 더 시티'...하이브 "높아진 IP파워"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=117487</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=117487</guid>
+            <pubDate>Wed, 06 Dec 2023 11:43:00 GMT</pubDate>
+            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202312/117487_148309_3612_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[컴투스로카 VR게임 '다크스워드' 오는 18일 스팀 출시]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=117485</link>
@@ -150,22 +166,6 @@
             <pubDate>Tue, 05 Dec 2023 06:20:56 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202312/117468_148274_556_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[KB스타뱅킹 간편회원 서비스, 혜택과 콘텐츠 확대 개편]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=117467</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=117467</guid>
-            <pubDate>Tue, 05 Dec 2023 06:20:56 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202312/117467_148273_5130_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인디게임 축제 '버닝비버 2023' 성료...사흘간 1만 명 참석]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=117459</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=117459</guid>
-            <pubDate>Tue, 05 Dec 2023 06:20:56 GMT</pubDate>
-            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202312/117459_148256_3212_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
