@@ -4,16 +4,24 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Dec 2023 03:18:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Dec 2023 04:21:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[밀리의 서재, 생성형 AI 활용한 오브제북 4편 공개]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=117488</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=117488</guid>
+            <pubDate>Wed, 06 Dec 2023 04:19:30 GMT</pubDate>
+            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202312/117488_148312_4640_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[윤 대통령, 방통위원장 후보자에 김홍일 권익위원장 지명]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=117489</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=117489</guid>
             <pubDate>Wed, 06 Dec 2023 00:06:00 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202312/117489_148313_52_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202312/117489_148314_1041_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[나고야 물들인 '세븐틴 더 시티'...하이브 "높아진 IP파워"]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 05 Dec 2023 06:20:56 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202312/117463_148292_115_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[카카오뱅크, 개인사업자 전용 서비스 '내 사업장 신용정보' 출시]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=117468</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=117468</guid>
-            <pubDate>Tue, 05 Dec 2023 06:20:56 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202312/117468_148274_556_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

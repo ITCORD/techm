@@ -4,16 +4,24 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Dec 2023 03:18:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Dec 2023 04:21:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[밀리의 서재, 생성형 AI 활용한 오브제북 4편 공개 (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=117488</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=117488</guid>
+            <pubDate>Wed, 06 Dec 2023 04:19:30 GMT</pubDate>
+            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202312/117488_148312_4640_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[윤 대통령, 방통위원장 후보자에 김홍일 권익위원장 지명 (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=117489</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=117489</guid>
             <pubDate>Wed, 06 Dec 2023 00:06:00 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202312/117489_148313_52_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202312/117489_148314_1041_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[나고야 물들인 '세븐틴 더 시티'...하이브 "높아진 IP파워" (테크M ─ 전체기사)]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 05 Dec 2023 06:20:56 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202312/117463_148292_115_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[카카오뱅크, 개인사업자 전용 서비스 '내 사업장 신용정보' 출시 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=117468</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=117468</guid>
-            <pubDate>Tue, 05 Dec 2023 06:20:56 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202312/117468_148274_556_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[나고야 물들인 '세븐틴 더 시티'...하이브 "높아진 IP파워" (테크M ─ 콘텐츠)]]></title>
@@ -392,6 +392,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202312/117364_147973_447_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[밀리의 서재, 생성형 AI 활용한 오브제북 4편 공개 (테크M ─ 이노베이션)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=117488</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=117488</guid>
+            <pubDate>Wed, 06 Dec 2023 04:20:19 GMT</pubDate>
+            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202312/117488_148312_4640_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[위메이드, 두바이국제금융센터에 '위믹스 플레이 센터' 만들고 '공인 코인' 도전한다 (테크M ─ 이노베이션)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=117483</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=117483</guid>
@@ -494,14 +502,6 @@
             <pubDate>Wed, 29 Nov 2023 07:14:47 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202311/117258_147785_2454_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[창업 1번지 와디즈] 중기부 '라이콘' 1등 도우미 와디즈...스몰브랜드 발굴 명가로 자리매김 (테크M ─ 이노베이션)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=117256</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=117256</guid>
-            <pubDate>Wed, 29 Nov 2023 06:20:46 GMT</pubDate>
-            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202311/117256_147782_1515_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[크립토 브리핑] 파죽지세 비트코인, 2년만에 6000만원 재돌파 (테크M ─ 인베스트먼트)]]></title>
@@ -621,7 +621,7 @@
             <guid>https://www.techm.kr/news/articleView.html?idxno=117489</guid>
             <pubDate>Wed, 06 Dec 2023 00:06:00 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202312/117489_148313_52_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202312/117489_148314_1041_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한컴 김상철 회장 아들 구속…김연수 대표 "사법부 결정 겸허하게 받아들일 것" (테크M ─ 피플)]]></title>
@@ -715,7 +715,7 @@
             <title><![CDATA[[부고] 한유정(엔엑스씨 실장)씨 부친상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Wed, 06 Dec 2023 03:17:51 GMT</pubDate>
+            <pubDate>Wed, 06 Dec 2023 04:20:44 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
         </item>
         <item>
