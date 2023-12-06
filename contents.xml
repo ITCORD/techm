@@ -4,9 +4,17 @@
         <title>테크M ─ 콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Dec 2023 06:23:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Dec 2023 07:16:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한국기자협회 "다음, CP사 위주 검색기준 정책 철회해야"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=117503</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=117503</guid>
+            <pubDate>Wed, 06 Dec 2023 07:15:00 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202312/117503_148337_4318_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[테크M 트렌드] 잘 나가는 카카오픽코마, 글로벌서 네이버 라인망가 제쳤다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=117497</link>
@@ -110,14 +118,6 @@
             <pubDate>Tue, 05 Dec 2023 05:15:24 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202312/117455_148249_4459_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[콘솔로 이어지는 '액션 쾌감'...넥슨, TGA서 '던파' IP 기반 콘솔게임 '카잔' 띄운다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=117447</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=117447</guid>
-            <pubDate>Tue, 05 Dec 2023 11:47:00 GMT</pubDate>
-            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202312/117447_148239_4731_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
