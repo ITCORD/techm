@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Dec 2023 16:25:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Dec 2023 17:17:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[게임코인TV] 5500만원 돌파한 비트코인...불장은 시작됐다? (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=117523</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=117523</guid>
+            <pubDate>Thu, 07 Dec 2023 01:18:00 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202312/117523_148366_1656_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["오픈AI, 보고있나?" 구글, 비장의 무기 '제미나이' 공개 (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=117522</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=117522</guid>
+            <pubDate>Thu, 07 Dec 2023 01:18:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202312/117522_148364_1536_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[코빗, 위메이드 '위믹스' 재상장..."상폐 사유 해소" (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=117518</link>
@@ -152,22 +168,6 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202312/117493_148346_476_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[빗썸 10주년] IPO 도전장 던진 빗썸, '투명성' 확보로 제2의 도약 '청사진' (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=117494</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=117494</guid>
-            <pubDate>Wed, 06 Dec 2023 06:20:54 GMT</pubDate>
-            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202312/117494_148345_4635_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[테크M 이슈] 게임 스트리밍 시장 노리는 네이버...트위치 공략 정조준 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=117496</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=117496</guid>
-            <pubDate>Wed, 06 Dec 2023 06:20:54 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202312/117496_148347_4740_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[티빙 오리지널 '몸값', 美 시상식 최우수 외국어 부문 노미네이트 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=117513</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=117513</guid>
@@ -280,6 +280,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202312/117473_148286_5858_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA["오픈AI, 보고있나?" 구글, 비장의 무기 '제미나이' 공개 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=117522</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=117522</guid>
+            <pubDate>Thu, 07 Dec 2023 01:18:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202312/117522_148364_1536_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA["AI가 어디까지 문제해결 할 수 있을까?"…대답은 "사람이 하는 모든 부분" (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=117516</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=117516</guid>
@@ -382,14 +390,6 @@
             <pubDate>Tue, 05 Dec 2023 04:19:12 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202312/117448_148240_582_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[CJ올리브네트웍스, 연합뉴스TV 차세대 뉴스 제작 시스템 구축 사업 수주 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=117437</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=117437</guid>
-            <pubDate>Tue, 05 Dec 2023 08:56:00 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202312/117437_148231_5517_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[네이버페이, 우리은행과 금융혁신 위한 전략적 파트너십 체결 (테크M ─ 이노베이션)]]></title>
@@ -723,7 +723,7 @@
             <title><![CDATA[[부고] 한유정(엔엑스씨 실장)씨 부친상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Wed, 06 Dec 2023 16:24:20 GMT</pubDate>
+            <pubDate>Wed, 06 Dec 2023 17:16:31 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
         </item>
         <item>

@@ -4,9 +4,25 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Dec 2023 16:25:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Dec 2023 17:17:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[게임코인TV] 5500만원 돌파한 비트코인...불장은 시작됐다?]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=117523</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=117523</guid>
+            <pubDate>Thu, 07 Dec 2023 01:18:00 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202312/117523_148366_1656_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["오픈AI, 보고있나?" 구글, 비장의 무기 '제미나이' 공개]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=117522</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=117522</guid>
+            <pubDate>Thu, 07 Dec 2023 01:18:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202312/117522_148364_1536_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[코빗, 위메이드 '위믹스' 재상장..."상폐 사유 해소"]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=117518</link>
@@ -150,22 +166,6 @@
             <pubDate>Wed, 06 Dec 2023 06:20:54 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202312/117493_148346_476_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[빗썸 10주년] IPO 도전장 던진 빗썸, '투명성' 확보로 제2의 도약 '청사진']]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=117494</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=117494</guid>
-            <pubDate>Wed, 06 Dec 2023 06:20:54 GMT</pubDate>
-            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202312/117494_148345_4635_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[테크M 이슈] 게임 스트리밍 시장 노리는 네이버...트위치 공략 정조준]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=117496</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=117496</guid>
-            <pubDate>Wed, 06 Dec 2023 06:20:54 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202312/117496_148347_4740_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
