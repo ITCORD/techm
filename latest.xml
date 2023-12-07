@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Dec 2023 07:16:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Dec 2023 08:22:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[중고나라 안전 결제 '중고나라 페이', 출시 2년 간 거래액 11배 늘었다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=117569</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=117569</guid>
+            <pubDate>Thu, 07 Dec 2023 08:19:46 GMT</pubDate>
+            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202312/117569_148441_5543_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 데이터 플랫폼과 AI를 더한 '미래 건강 예측 솔루션' 공개]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=117568</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 07 Dec 2023 05:15:22 GMT</pubDate>
             <content:encoded><![CDATA[조성준 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202312/117548_148400_3239_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[인디이콘의 경제M] 21세기 대항해 시대 1편]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=117545</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=117545</guid>
-            <pubDate>Thu, 07 Dec 2023 05:15:22 GMT</pubDate>
-            <content:encoded><![CDATA[김현기 대표]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202312/117545_148398_614_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
