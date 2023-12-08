@@ -4,9 +4,17 @@
         <title>테크M ─ 콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Dec 2023 01:12:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Dec 2023 02:31:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[IT진맥] '벌써 일년', '왕의 귀환' 위믹스]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=117574</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=117574</guid>
+            <pubDate>Fri, 08 Dec 2023 10:10:00 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202312/117574_148459_720_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[엔씨소프트 신작 'TL', 돌비 애트모스 OST로 유저 귀 사로잡는다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=117567</link>
@@ -110,14 +118,6 @@
             <pubDate>Thu, 07 Dec 2023 10:41:00 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202312/117537_148385_302_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[게임 커뮤니티까지 삼킨 네이버...스트리밍 '치지직' 출시로 '네이버게임' 확 키운다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=117514</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=117514</guid>
-            <pubDate>Thu, 07 Dec 2023 10:05:00 GMT</pubDate>
-            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202312/117514_148452_104_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
