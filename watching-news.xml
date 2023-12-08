@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Dec 2023 07:16:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Dec 2023 08:22:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 엔씨소프트의 신작, 새로운 MMORPG 'TL' 출시]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=117594</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=117594</guid>
+            <pubDate>Fri, 08 Dec 2023 08:22:17 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202312/117594_148485_2910_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 데이터 플랫폼과 AI를 더한 '미래 건강 예측 솔루션' 공개]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=117568</link>
@@ -110,14 +118,6 @@
             <pubDate>Wed, 22 Nov 2023 08:21:48 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202311/117032_147334_3213_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 창작업무를 돕는 'AI 아비카' 2023 지식대전 수상]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=117000</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=117000</guid>
-            <pubDate>Tue, 21 Nov 2023 07:16:42 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202311/117000_147261_752_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
