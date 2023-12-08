@@ -4,9 +4,25 @@
         <title>테크M ─ 콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Dec 2023 02:31:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Dec 2023 03:19:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['CFS 2023' 4강, '전통의 중국-신흥 강호' 맞붙는다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=117585</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=117585</guid>
+            <pubDate>Fri, 08 Dec 2023 00:01:00 GMT</pubDate>
+            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202312/117585_148477_4045_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2023년 배틀그라운드 모바일 최강팀 가린다...'韓 자존심' 농심 출격]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=117583</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=117583</guid>
+            <pubDate>Fri, 08 Dec 2023 11:25:00 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202312/117583_148473_239_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[IT진맥] '벌써 일년', '왕의 귀환' 위믹스]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=117574</link>
@@ -102,22 +118,6 @@
             <pubDate>Thu, 07 Dec 2023 10:53:00 GMT</pubDate>
             <content:encoded><![CDATA[임경호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202312/117533_148382_1724_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[배틀그라운드 열 번째 신규 맵 '론도' 출시..."역대 최대 사이즈"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=117535</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=117535</guid>
-            <pubDate>Thu, 07 Dec 2023 10:53:00 GMT</pubDate>
-            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202312/117535_148387_471_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[대홍기획, 벨리곰 NFT 웹사이트 '2024 독일 디자인 어워드' 수상]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=117537</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=117537</guid>
-            <pubDate>Thu, 07 Dec 2023 10:41:00 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202312/117537_148385_302_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
