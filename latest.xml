@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Dec 2023 09:16:04 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Dec 2023 10:17:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[KDL 통신] 연습량 느껴지는 팀워크 보여준 샌드박스, 1세트 승리]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=117616</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=117616</guid>
+            <pubDate>Sat, 09 Dec 2023 10:15:27 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202312/117616_148526_544_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[크립토 주간 브리핑] 2년만에 6000만원 돌파한 비트코인, 1년만에 재상장된 위믹스]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=117613</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 08 Dec 2023 00:37:00 GMT</pubDate>
             <content:encoded><![CDATA[조성준 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202312/117588_148510_5127_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['쿠키'들의 대륙 정벌 본격 개시...데브시스터즈 '쿠키런: 킹덤', 오는 28일 중국 출시]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=117579</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=117579</guid>
-            <pubDate>Fri, 08 Dec 2023 00:26:00 GMT</pubDate>
-            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202312/117579_148464_5514_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
