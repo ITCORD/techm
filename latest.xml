@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Dec 2023 03:18:16 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Dec 2023 04:20:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[크립토 주간 브리핑] 2년만에 6000만원 돌파한 비트코인, 1년만에 재상장된 위믹스]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=117613</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=117613</guid>
+            <pubDate>Sat, 09 Dec 2023 00:40:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202312/117613_148518_2647_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[글로벌] AMD, 인스팅트 MI300 시리즈 출시..."AI 반도체 시장 경쟁 가열"]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=117608</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 08 Dec 2023 00:26:00 GMT</pubDate>
             <content:encoded><![CDATA[임경호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202312/117579_148464_5514_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[KDL 통신] '철벽방어' 광동 vs. '복수의 칼날' 샌드박스...정규시즌 초대 우승팀은?]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=117578</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=117578</guid>
-            <pubDate>Fri, 08 Dec 2023 00:25:00 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202312/117578_148511_5144_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
