@@ -4,17 +4,9 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Dec 2023 23:17:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Dec 2023 01:12:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[게임코인TV] 3700원 넘어선 위믹스, 드디어 '불장'의 시작인가]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=117629</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=117629</guid>
-            <pubDate>Sun, 10 Dec 2023 16:20:34 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202312/117629_148572_3614_v150.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[카드뉴스] 엔씨소프트의 신작, 새로운 MMORPG 'TL' 출시]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=117594</link>
@@ -118,6 +110,14 @@
             <pubDate>Thu, 23 Nov 2023 07:16:58 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202311/117084_147428_3533_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[카드뉴스] SK C&C 쉽고 빠른 개발자 맞춤형 'AI 코딩 서비스' 개발]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=117032</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=117032</guid>
+            <pubDate>Mon, 11 Dec 2023 01:12:58 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202311/117032_147334_3213_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
