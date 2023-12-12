@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Dec 2023 06:23:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Dec 2023 07:17:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 롯데정보통신 크리스마스 기념 '위시 NFT 스탬프' 이벤트 진행]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=117712</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=117712</guid>
+            <pubDate>Tue, 12 Dec 2023 07:17:58 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202312/117712_148692_929_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] SKT 원격 천체 관측 서비스 '스타허그' 나온다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=117655</link>
@@ -110,14 +118,6 @@
             <pubDate>Fri, 24 Nov 2023 08:21:37 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202311/117126_147502_1246_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] '편리하고 안전한 대한민국의 일상을 위해' KT 혁신 서비스 공개]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=117084</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=117084</guid>
-            <pubDate>Thu, 23 Nov 2023 07:16:58 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202311/117084_147428_3533_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
