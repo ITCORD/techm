@@ -4,9 +4,25 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Dec 2023 06:22:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Dec 2023 07:17:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 삼성전자의 기대되는 2024년, AI기술로 '초연결시대' 구현한다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=117746</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=117746</guid>
+            <pubDate>Wed, 13 Dec 2023 07:14:30 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202312/117746_148765_2945_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[테크M 이슈] "바이낸스부터 크로마까지" 빗썸 입성한 위믹스...새 모멘텀 한가득]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=117745</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=117745</guid>
+            <pubDate>Wed, 13 Dec 2023 07:14:30 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202312/117745_148764_2437_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[일주일 앞으로 다가온 제4이통사 운명은…28㎓ 주파수 접수 마감 임박]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=117743</link>
@@ -150,22 +166,6 @@
             <pubDate>Wed, 13 Dec 2023 10:16:00 GMT</pubDate>
             <content:encoded><![CDATA[조성준 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202312/117724_148724_160_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[크립토 브리핑] 비트코인 횡보했지만...알트코인은 '껑충']]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=117723</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=117723</guid>
-            <pubDate>Wed, 13 Dec 2023 10:11:00 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202312/117723_148723_828_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[세계 3대 게임쇼 'E3', 28년 여정 끝에 뒤안길로]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=117721</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=117721</guid>
-            <pubDate>Wed, 13 Dec 2023 10:07:00 GMT</pubDate>
-            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202312/117721_148722_552_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
