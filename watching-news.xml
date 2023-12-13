@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Dec 2023 14:18:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Dec 2023 15:19:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[게임코인TV] 가상자산 이용자 보호법 시행령, 이것만 기억하세요!]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=117757</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=117757</guid>
+            <pubDate>Wed, 13 Dec 2023 15:19:19 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202312/117757_148796_023_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 삼성전자의 기대되는 2024년, AI기술로 '초연결시대' 구현한다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=117746</link>
@@ -110,14 +118,6 @@
             <pubDate>Wed, 29 Nov 2023 01:22:00 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202311/117230_147704_2144_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] KLPGA 팬 커뮤니티 '버디스쿼드' 정식 서비스 전환]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=117217</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=117217</guid>
-            <pubDate>Tue, 28 Nov 2023 07:16:57 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202311/117217_147661_4226_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
