@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Dec 2023 06:23:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Dec 2023 07:16:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 라인넥스트, 플랫폼 확장부터 서비스 개발까지 '웹3.0 대중화 본격 추진']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=117811</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=117811</guid>
+            <pubDate>Thu, 14 Dec 2023 07:16:32 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202312/117811_148856_1659_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[게임코인TV] 가상자산 이용자 보호법 시행령, 이것만 기억하세요!]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=117757</link>
@@ -110,14 +118,6 @@
             <pubDate>Wed, 29 Nov 2023 10:18:54 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202311/117254_147769_5957_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[게임코인TV] 지스타로 예측해본 내년 게임 시장은?...콘솔이 대세 이룰까]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=117230</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=117230</guid>
-            <pubDate>Wed, 29 Nov 2023 01:22:00 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202311/117230_147704_2144_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
