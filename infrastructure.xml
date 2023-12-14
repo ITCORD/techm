@@ -4,9 +4,17 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Dec 2023 23:18:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Dec 2023 01:10:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아마존, 한국에 60MW 규모 태양광 발전소 건설]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=117759</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=117759</guid>
+            <pubDate>Thu, 14 Dec 2023 10:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202312/117759_148798_5913_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["직원들 건강이 우선"…LG유플러스, 건강친화기업 인증 획득]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=117751</link>
@@ -110,14 +118,6 @@
             <pubDate>Tue, 12 Dec 2023 11:02:00 GMT</pubDate>
             <content:encoded><![CDATA[조성준 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202312/117684_148658_128_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[5개월간 45만명 이용한 SKT 가족로밍, 정규 상품 전환]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=117681</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=117681</guid>
-            <pubDate>Tue, 12 Dec 2023 10:40:00 GMT</pubDate>
-            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202312/117681_148655_3945_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
