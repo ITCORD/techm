@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Dec 2023 09:18:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Dec 2023 10:20:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['랜선금빵' 작가 대상 영예…올해 '아이디어스'를 빛낸 88명의 작가들 (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=117860</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=117860</guid>
+            <pubDate>Fri, 15 Dec 2023 10:17:15 GMT</pubDate>
+            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202312/117860_148968_5750_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[민트로켓 '데이브 더 다이버', 낚시 어드벤처 '드렛지'와 컬래버 DLC 업데이트 (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=117856</link>
@@ -160,18 +168,10 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202312/117834_148908_540_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[카카오모빌리티, 택시 3단체-14개 가맹점협의회와 개편안 합의 완료 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=117836</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=117836</guid>
-            <pubDate>Fri, 15 Dec 2023 00:30:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202312/117836_148910_3027_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[민트로켓 '데이브 더 다이버', 낚시 어드벤처 '드렛지'와 컬래버 DLC 업데이트 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=117856</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=117856</guid>
-            <pubDate>Fri, 15 Dec 2023 09:16:39 GMT</pubDate>
+            <pubDate>Fri, 15 Dec 2023 09:16:22 GMT</pubDate>
             <content:encoded><![CDATA[임경호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202312/117856_148960_4711_v150.jpg" length="0" type="image/jpg"/>
         </item>
@@ -179,7 +179,7 @@
             <title><![CDATA[위메이드, 게임위너와 수집형 RPG 'IDLE GOG' 온보딩 계약 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=117855</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=117855</guid>
-            <pubDate>Fri, 15 Dec 2023 09:16:39 GMT</pubDate>
+            <pubDate>Fri, 15 Dec 2023 09:16:22 GMT</pubDate>
             <content:encoded><![CDATA[임경호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202312/117855_148959_3152_v150.jpg" length="0" type="image/jpg"/>
         </item>
@@ -278,6 +278,14 @@
             <pubDate>Fri, 15 Dec 2023 11:53:00 GMT</pubDate>
             <content:encoded><![CDATA[임경호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202312/117830_148904_1123_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['랜선금빵' 작가 대상 영예…올해 '아이디어스'를 빛낸 88명의 작가들 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=117860</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=117860</guid>
+            <pubDate>Fri, 15 Dec 2023 10:17:47 GMT</pubDate>
+            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202312/117860_148968_5750_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[가봤다] 생활소품·의류·식품...손으로 만드는 아이디어스에는 경계가 없었다 (테크M ─ 인프라)]]></title>
@@ -382,14 +390,6 @@
             <pubDate>Thu, 14 Dec 2023 06:20:32 GMT</pubDate>
             <content:encoded><![CDATA[임경호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202312/117797_148840_3230_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LG전자, CES 2024에서 차량 사이버보안 관리 솔루션 선보인다 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=117804</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=117804</guid>
-            <pubDate>Thu, 14 Dec 2023 06:20:32 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202312/117804_148848_416_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[헥토파이낸셜, 조각투자 1호 열매컴퍼니에 결제 서비스 제공…'STO 사업 확장 '청신호' (테크M ─ 이노베이션)]]></title>
@@ -619,7 +619,7 @@
             <title><![CDATA["창작의 가치가 더 빛날 수 있도록"…회사보다 작가 앞세운 김동환 대표의 진심 (테크M ─ 피플)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=117854</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=117854</guid>
-            <pubDate>Fri, 15 Dec 2023 09:17:39 GMT</pubDate>
+            <pubDate>Fri, 15 Dec 2023 09:16:22 GMT</pubDate>
             <content:encoded><![CDATA[조성준 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202312/117854_148957_2333_v150.jpg" length="0" type="image/jpg"/>
         </item>
