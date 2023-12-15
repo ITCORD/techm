@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Dec 2023 07:16:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Dec 2023 08:23:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 생성형 AI를 안전하게 활용할 IBM '왓슨x.거버넌스' 공개]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=117847</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=117847</guid>
+            <pubDate>Fri, 15 Dec 2023 08:23:35 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202312/117847_148928_4551_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 라인넥스트, 플랫폼 확장부터 서비스 개발까지 '웹3.0 대중화 본격 추진']]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=117811</link>
@@ -110,14 +118,6 @@
             <pubDate>Thu, 30 Nov 2023 08:22:47 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202311/117309_147863_3553_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 글로벌 도약을 준비하는 '한컴'의 AI 사업 전략과 기술은?]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=117254</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=117254</guid>
-            <pubDate>Wed, 29 Nov 2023 10:18:54 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202311/117254_147769_5957_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
