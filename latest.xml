@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Dec 2023 03:18:09 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Dec 2023 04:21:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[LG전자, PC 연결 없이 OTT 즐기는 스마트 모니터 'LG 마이뷰' 출시]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=117881</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=117881</guid>
+            <pubDate>Sun, 17 Dec 2023 00:55:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202312/117881_149013_542_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[봤다] 스위트홈 시즌2, 스케일은 커졌지만 피로도도 커지고 실망도 컸다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=117878</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 15 Dec 2023 09:16:22 GMT</pubDate>
             <content:encoded><![CDATA[임경호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202312/117855_148959_3152_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["창작의 가치가 더 빛날 수 있도록"…회사보다 작가 앞세운 김동환 대표의 진심]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=117854</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=117854</guid>
-            <pubDate>Fri, 15 Dec 2023 09:16:22 GMT</pubDate>
-            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202312/117854_148957_2333_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
