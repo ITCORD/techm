@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Dec 2023 02:32:52 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Dec 2023 03:18:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,6 +168,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202312/117854_148957_2333_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[봤다] 스위트홈 시즌2, 스케일은 커졌지만 피로도도 커지고 실망도 컸다 (테크M ─ 콘텐츠)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=117878</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=117878</guid>
+            <pubDate>Sun, 17 Dec 2023 11:11:00 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202312/117878_149011_2414_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[사이퍼즈에 78번째 신규 캐릭터 '심판관 니콜라스' 나온다...네오플, 2023 연말정샆' 개최 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=117876</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=117876</guid>
@@ -270,14 +278,6 @@
             <pubDate>Fri, 15 Dec 2023 05:15:28 GMT</pubDate>
             <content:encoded><![CDATA[임경호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202312/117842_148920_267_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스토브인디, 비주얼 노벨 '러브 딜리버리2' 사전 판매 시작 (테크M ─ 콘텐츠)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=117843</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=117843</guid>
-            <pubDate>Fri, 15 Dec 2023 05:15:28 GMT</pubDate>
-            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202312/117843_148922_4415_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[LG유플러스-KG모빌리티, '토레스EVX'에도 인포콘 탑재 (테크M ─ 인프라)]]></title>
