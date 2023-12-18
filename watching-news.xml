@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Dec 2023 07:17:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Dec 2023 08:22:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 안랩 X 코가로보틱스, 자율주행 로봇 시대 '사이버보안' 협력 추진]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=117938</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=117938</guid>
+            <pubDate>Mon, 18 Dec 2023 08:22:18 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202312/117938_149132_1849_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 생성형 AI를 안전하게 활용할 IBM '왓슨x.거버넌스' 공개]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=117847</link>
@@ -110,14 +118,6 @@
             <pubDate>Fri, 01 Dec 2023 06:23:08 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202312/117355_147940_5612_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 네오핀 X 퍼플레이 '글로벌 시장 공략' 위한 파트너십 체결]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=117309</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=117309</guid>
-            <pubDate>Thu, 30 Nov 2023 08:22:47 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202311/117309_147863_3553_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
