@@ -4,9 +4,17 @@
         <title>테크M ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Dec 2023 01:12:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Dec 2023 02:30:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[카카오벤처스, 정신아 이어 김기준 신임 대표 선임]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=117898</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=117898</guid>
+            <pubDate>Mon, 18 Dec 2023 10:12:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202312/117898_149080_1238_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["카카오 쇄신 이끌자"…김범수의 의지 잇는 정신아]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=117888</link>
@@ -110,14 +118,6 @@
             <pubDate>Thu, 07 Dec 2023 05:16:35 GMT</pubDate>
             <content:encoded><![CDATA[조성준 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202312/117548_148400_3239_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[중앙그룹, 콘텐츠 제작사 SLL 신임 대표로 전인천 전 티몬 대표 영입]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=117530</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=117530</guid>
-            <pubDate>Thu, 07 Dec 2023 09:58:00 GMT</pubDate>
-            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202312/117530_148380_5853_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
