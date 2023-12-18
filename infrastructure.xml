@@ -4,9 +4,17 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Dec 2023 04:21:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Dec 2023 05:19:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김소영 카카오 준신위원장 "카카오 위기 원인은 카카오…준법 틀 잡겠다"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=117933</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=117933</guid>
+            <pubDate>Mon, 18 Dec 2023 05:16:56 GMT</pubDate>
+            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202312/117933_149115_3934_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['국민 내비' 카카오내비 '이용자 선호경로' 기능 더했다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=117904</link>
@@ -110,14 +118,6 @@
             <pubDate>Fri, 15 Dec 2023 00:30:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202312/117836_148910_3027_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["연말 파티는 KT와 함께 해요"…12월 '달.달.혜택' 풍성]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=117827</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=117827</guid>
-            <pubDate>Fri, 15 Dec 2023 10:48:00 GMT</pubDate>
-            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202312/117827_148902_489_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
