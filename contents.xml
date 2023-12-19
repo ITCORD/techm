@@ -4,9 +4,17 @@
         <title>테크M ─ 콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Dec 2023 23:17:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Dec 2023 01:10:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[직장인 10명 중 9명 "연차 남았다...연말 여행 계획"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=117959</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=117959</guid>
+            <pubDate>Tue, 19 Dec 2023 09:57:00 GMT</pubDate>
+            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202312/117959_149177_2855_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["나는 SK의 자부심이다"...T1, SK구성원과 롤드컵 우승 파티 즐겼다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=117955</link>
@@ -110,14 +118,6 @@
             <pubDate>Mon, 18 Dec 2023 11:48:00 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202312/117917_149099_2957_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[공부와 웹3.0의 결합...컴투스 그룹 엑스플라, '드림래더스' 파트너십]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=117914</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=117914</guid>
-            <pubDate>Mon, 18 Dec 2023 11:48:00 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202312/117914_149096_1854_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
