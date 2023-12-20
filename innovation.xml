@@ -4,9 +4,17 @@
         <title>테크M ─ 이노베이션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Dec 2023 00:58:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Dec 2023 01:38:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[TV가 나를 알아본다...SK브로드밴드, IPTV AI 서비스 대거 선보여]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=118020</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=118020</guid>
+            <pubDate>Wed, 20 Dec 2023 10:18:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202312/118020_149296_5552_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[휘슬, 자동차 검사 예약 서비스 오픈…車 생애주기 맞춤 서비스 확대]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=118002</link>
@@ -110,14 +118,6 @@
             <pubDate>Thu, 14 Dec 2023 06:22:08 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202312/117812_148865_1814_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[업스테이지, 세계 1위 LLM '솔라'로 글로벌 무대 출사표]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=117798</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=117798</guid>
-            <pubDate>Thu, 14 Dec 2023 06:22:08 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202312/117798_148837_279_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
