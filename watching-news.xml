@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Dec 2023 07:14:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Dec 2023 08:18:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 카카오톡에 AI 기능 적극 도입 '대화 요약부터 말투 바꾸기까지']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=118068</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=118068</guid>
+            <pubDate>Wed, 20 Dec 2023 08:18:18 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202312/118068_149357_4921_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 네이버 초거대 AI '하이퍼클로바X'에 건강보험 빅데이터 더한다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=118005</link>
@@ -110,14 +118,6 @@
             <pubDate>Wed, 06 Dec 2023 09:47:00 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202312/117466_148264_505_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 선한영향력을 추구하는 롯데정보통신 'NFT 기부 캠페인'에 참여해보세요]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=117430</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=117430</guid>
-            <pubDate>Mon, 04 Dec 2023 07:17:32 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202312/117430_148199_4236_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
