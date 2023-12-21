@@ -4,9 +4,25 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Dec 2023 05:18:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Dec 2023 06:22:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[카카오엔터프라이즈, AMD 최신 프로세서 기반 클라우드 컴퓨팅 서비스 출시]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=118114</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=118114</guid>
+            <pubDate>Thu, 21 Dec 2023 06:20:53 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202312/118114_149438_4033_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[네이버, 소상공인 지원용 AI 설루션 개발 기업 찾는다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=118113</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=118113</guid>
+            <pubDate>Thu, 21 Dec 2023 06:20:53 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202312/118113_149434_3735_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이글루코퍼레이션, 플레이북 공유하는 'SOAR 커뮤니티' 오픈]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=118090</link>
@@ -102,22 +118,6 @@
             <pubDate>Wed, 20 Dec 2023 11:47:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202312/118036_149314_479_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SKT, 코레일과 손잡고 광역철도 실시간 혼잡도 제공한다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=118035</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=118035</guid>
-            <pubDate>Wed, 20 Dec 2023 11:44:00 GMT</pubDate>
-            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202312/118035_149313_4412_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LG유플러스 키즈토피아, 글로벌 가입자 20만명 넘었다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=118034</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=118034</guid>
-            <pubDate>Wed, 20 Dec 2023 11:40:00 GMT</pubDate>
-            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202312/118034_149312_4024_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
