@@ -4,7 +4,7 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Dec 2023 13:20:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Dec 2023 14:16:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Thu, 21 Dec 2023 07:16:53 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202312/118118_149443_052_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[게임코인TV] 수수료 무료 승부수 던진 빗썸을 주목하라! 비트코인 상승에 위믹스 재상장까지...점유율 '껑충']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=118075</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=118075</guid>
+            <pubDate>Thu, 21 Dec 2023 14:16:23 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202312/118075_149372_3114_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[카드뉴스] 카카오톡에 AI 기능 적극 도입 '대화 요약부터 말투 바꾸기까지']]></title>
@@ -110,14 +118,6 @@
             <pubDate>Thu, 07 Dec 2023 07:16:57 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202312/117568_148432_2311_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[게임코인TV] 5500만원 돌파한 비트코인...불장은 시작됐다?]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=117523</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=117523</guid>
-            <pubDate>Thu, 07 Dec 2023 01:18:00 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202312/117523_148366_1656_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
