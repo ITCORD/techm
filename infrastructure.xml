@@ -4,9 +4,17 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Dec 2023 01:09:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Dec 2023 02:29:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[라온시큐어, SGI서울보증 '모바일 신분증 검증 시스템' 구축 완료]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=118082</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=118082</guid>
+            <pubDate>Thu, 21 Dec 2023 10:51:00 GMT</pubDate>
+            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202312/118082_149398_5129_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[KT도 5G폰에서 LTE 요금제 쓴다…LG유플러스는 내년 적용]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=118078</link>
@@ -110,14 +118,6 @@
             <pubDate>Tue, 19 Dec 2023 10:17:29 GMT</pubDate>
             <content:encoded><![CDATA[조성준 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202312/118015_149285_3036_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[카카오, 소상공인연합회 선정 '상생 우수기업' 수상]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=118012</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=118012</guid>
-            <pubDate>Tue, 19 Dec 2023 09:16:13 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202312/118012_149276_536_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
