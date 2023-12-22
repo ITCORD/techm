@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Dec 2023 07:16:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Dec 2023 08:21:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] SK쉴더스, 인천시를 위한 자율주행 'AI 순찰로봇' 시범 운행 시작]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=118174</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=118174</guid>
+            <pubDate>Fri, 22 Dec 2023 08:21:11 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202312/118174_149542_110_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] SK브로드밴드, 초개인화된 미디어 서비스 'AI B tv' 공개]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=118118</link>
@@ -110,14 +118,6 @@
             <pubDate>Fri, 08 Dec 2023 08:22:17 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202312/117594_148485_2910_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 데이터 플랫폼과 AI를 더한 '미래 건강 예측 솔루션' 공개]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=117568</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=117568</guid>
-            <pubDate>Thu, 07 Dec 2023 07:16:57 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202312/117568_148432_2311_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
