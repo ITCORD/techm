@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Dec 2023 22:15:49 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Dec 2023 23:17:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[써봤다] 맥북 중의 맥북, 'M3 맥스' 탑재한 '맥북 프로 16']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=118189</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=118189</guid>
+            <pubDate>Sun, 24 Dec 2023 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202312/118189_149585_334_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["체험판보다 나아졌다"...'창세기전2: 회색의 잔영' 기대 이상 호평]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=118187</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 23 Dec 2023 15:15:08 GMT</pubDate>
             <content:encoded><![CDATA[조성준 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202312/118173_149541_570_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[더존비즈온, 청년친화형 기업 ESG 지원사업 노동부 장관상 수상]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=118172</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=118172</guid>
-            <pubDate>Sat, 23 Dec 2023 15:15:08 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202312/118172_149540_273_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

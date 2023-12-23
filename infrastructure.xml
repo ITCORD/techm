@@ -4,9 +4,17 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Dec 2023 22:15:49 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Dec 2023 23:17:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[써봤다] 맥북 중의 맥북, 'M3 맥스' 탑재한 '맥북 프로 16']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=118189</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=118189</guid>
+            <pubDate>Sun, 24 Dec 2023 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202312/118189_149585_334_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[더존비즈온, 청년친화형 기업 ESG 지원사업 노동부 장관상 수상]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=118172</link>
@@ -110,14 +118,6 @@
             <pubDate>Sat, 23 Dec 2023 15:15:43 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202312/118114_149438_4033_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[네이버, 소상공인 지원용 AI 설루션 개발 기업 찾는다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=118113</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=118113</guid>
-            <pubDate>Sat, 23 Dec 2023 15:15:43 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202312/118113_149434_3735_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
