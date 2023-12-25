@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Dec 2023 12:32:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Dec 2023 13:20:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -952,6 +952,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202312/117807_148852_731_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[게임코인TV] 만년 4위 코빗, 코인원 제치고 점유율 3위 등극...위믹스가 쏘아올린 큰(?) 공 (테크M ─ 보는 뉴스)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=118202</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=118202</guid>
+            <pubDate>Mon, 25 Dec 2023 12:30:10 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202312/118202_149622_2049_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[카드뉴스] SK쉴더스, 인천시를 위한 자율주행 'AI 순찰로봇' 시범 운행 시작 (테크M ─ 보는 뉴스)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=118174</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=118174</guid>
@@ -1054,14 +1062,6 @@
             <pubDate>Mon, 11 Dec 2023 07:15:23 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202312/117655_148600_374_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 엔씨소프트의 신작, 새로운 MMORPG 'TL' 출시 (테크M ─ 보는 뉴스)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=117594</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=117594</guid>
-            <pubDate>Fri, 08 Dec 2023 08:20:09 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202312/117594_148485_2910_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
