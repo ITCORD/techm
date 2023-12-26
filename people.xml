@@ -4,9 +4,17 @@
         <title>테크M ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Dec 2023 03:17:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Dec 2023 04:20:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[신도리코, 성동구 지역주민 위해 성금 및 백미 기부]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=118219</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=118219</guid>
+            <pubDate>Tue, 26 Dec 2023 00:15:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202312/118219_149651_1511_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방시혁 의장 포함 하이브 경영진 3인 '美 버라이어티 500'으로 선정]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=118111</link>
@@ -110,14 +118,6 @@
             <pubDate>Sun, 10 Dec 2023 05:16:19 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202312/117627_148570_525_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[e스포츠人] '에결 괴물' 모드로 광동 우승 이끈 맏형 노준현]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=117621</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=117621</guid>
-            <pubDate>Sat, 09 Dec 2023 15:15:42 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202312/117621_148553_125_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
