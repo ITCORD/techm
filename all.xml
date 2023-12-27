@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Dec 2023 06:23:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Dec 2023 07:16:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[테크M 어워드] 테크M 기자들이 뽑은 '올해의 인물' (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=118287</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=118287</guid>
+            <pubDate>Wed, 27 Dec 2023 07:14:14 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202312/118287_149756_3317_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[번개장터, 저소득 주민 복지 증진 캠페인 참여...플리마켓 수익금 등 성금 1000만원 성동구 전달 (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=118279</link>
@@ -160,18 +168,10 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202312/118267_149725_4645_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['트위치'가 남겨 놓은 게임방송 시장...韓 서비스 함께 웃었다 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=118265</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=118265</guid>
-            <pubDate>Wed, 27 Dec 2023 10:44:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202312/118265_149723_4347_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[테크M 이슈] 연말 게임 규제안 꺼내든 中 정부...속내 들여다보니 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=118286</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=118286</guid>
-            <pubDate>Wed, 27 Dec 2023 06:22:02 GMT</pubDate>
+            <pubDate>Wed, 27 Dec 2023 06:21:39 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202312/118286_149747_2821_v150.jpg" length="0" type="image/jpg"/>
         </item>
@@ -179,7 +179,7 @@
             <title><![CDATA[수수료 무료와 이벤트로 무장한 빗썸, 3년만에 업비트 거래량 추월 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=118284</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=118284</guid>
-            <pubDate>Wed, 27 Dec 2023 06:22:02 GMT</pubDate>
+            <pubDate>Wed, 27 Dec 2023 06:21:39 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202312/118284_149745_52_v150.jpg" length="0" type="image/jpg"/>
         </item>
@@ -283,7 +283,7 @@
             <title><![CDATA[삼성전자, 레드햇과 업계 최초 CXL 메모리 동작 검증 (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=118285</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=118285</guid>
-            <pubDate>Wed, 27 Dec 2023 06:22:20 GMT</pubDate>
+            <pubDate>Wed, 27 Dec 2023 06:21:39 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202312/118285_149746_229_v150.jpg" length="0" type="image/jpg"/>
         </item>
@@ -395,7 +395,7 @@
             <title><![CDATA[번개장터, 저소득 주민 복지 증진 캠페인 참여...플리마켓 수익금 등 성금 1000만원 성동구 전달 (테크M ─ 이노베이션)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=118279</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=118279</guid>
-            <pubDate>Wed, 27 Dec 2023 06:22:38 GMT</pubDate>
+            <pubDate>Wed, 27 Dec 2023 06:21:39 GMT</pubDate>
             <content:encoded><![CDATA[임경호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202312/118279_149741_350_v150.jpg" length="0" type="image/jpg"/>
         </item>

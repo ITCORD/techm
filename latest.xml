@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Dec 2023 06:23:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Dec 2023 07:16:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[테크M 어워드] 테크M 기자들이 뽑은 '올해의 인물']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=118287</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=118287</guid>
+            <pubDate>Wed, 27 Dec 2023 07:14:14 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202312/118287_149756_3317_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[번개장터, 저소득 주민 복지 증진 캠페인 참여...플리마켓 수익금 등 성금 1000만원 성동구 전달]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=118279</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 27 Dec 2023 10:46:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202312/118267_149725_4645_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['트위치'가 남겨 놓은 게임방송 시장...韓 서비스 함께 웃었다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=118265</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=118265</guid>
-            <pubDate>Wed, 27 Dec 2023 10:44:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202312/118265_149723_4347_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
