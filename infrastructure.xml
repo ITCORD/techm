@@ -4,9 +4,17 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Dec 2023 05:16:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Dec 2023 06:23:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성전자, 레드햇과 업계 최초 CXL 메모리 동작 검증]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=118285</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=118285</guid>
+            <pubDate>Wed, 27 Dec 2023 06:22:20 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202312/118285_149746_229_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[서울 5G 속도 'SKT-LG유플-KT' 순...과기정통부 통신품질평가]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=118276</link>
@@ -110,14 +118,6 @@
             <pubDate>Wed, 27 Dec 2023 09:54:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202312/118245_149705_5423_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['방송 송출 1주일' 네이버 '치지직' 흥행궤도 올랐나...늘어난 관심에 "최대한 빠른 대응"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=118235</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=118235</guid>
-            <pubDate>Tue, 26 Dec 2023 08:20:08 GMT</pubDate>
-            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202312/118235_149696_3259_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
