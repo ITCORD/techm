@@ -4,9 +4,17 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Dec 2023 06:22:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Dec 2023 07:16:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[테크M 어워드] 테크M이 뽑은 올해의 키워드 'AI']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=118362</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=118362</guid>
+            <pubDate>Fri, 29 Dec 2023 07:15:06 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202312/118362_149887_4952_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[카카오페이 '대출 갈아타기'로 연간 이자 최대 290만원 절감]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=118349</link>
@@ -110,14 +118,6 @@
             <pubDate>Wed, 27 Dec 2023 10:31:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202312/118261_149721_3117_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[더블유게임즈 "올해 주요 키워드는 효율화·신사업·주주환원"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=118258</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=118258</guid>
-            <pubDate>Wed, 27 Dec 2023 10:26:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202312/118258_149718_2643_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
