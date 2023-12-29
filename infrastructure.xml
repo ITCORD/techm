@@ -4,9 +4,25 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Dec 2023 01:00:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Dec 2023 01:49:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[카카오페이 '대출 갈아타기'로 연간 이자 최대 290만원 절감]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=118349</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=118349</guid>
+            <pubDate>Fri, 29 Dec 2023 10:33:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202312/118349_149868_2243_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[교육 혁신 이끄는 네이버 '웨일북'...보급 대수 3배 '껑충']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=118347</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=118347</guid>
+            <pubDate>Fri, 29 Dec 2023 10:31:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202312/118347_149867_1831_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한국화웨이, 국내서 ICT 인재 양성 프로그램 '눈길']]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=118316</link>
@@ -102,22 +118,6 @@
             <pubDate>Wed, 27 Dec 2023 10:26:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202312/118258_149718_2643_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[베스핀글로벌, AWS SaaS 컴피턴시 따냈다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=118257</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=118257</guid>
-            <pubDate>Wed, 27 Dec 2023 10:25:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202312/118257_149717_252_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[글로벌 웹 3.0 선두주자 꿈꾸는 컴투스 플랫폼...게임 NFT로 '방긋']]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=118255</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=118255</guid>
-            <pubDate>Wed, 27 Dec 2023 10:21:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202312/118255_149715_2139_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
