@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Jan 2024 14:17:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Jan 2024 15:18:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -176,14 +176,6 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202401/118384_149940_4053_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[게임코인TV] 2023년 게코TV 연말결산...블록체인 업계 상반기 총정리 (테크M ─ 콘텐츠)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=118381</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=118381</guid>
-            <pubDate>Sun, 31 Dec 2023 09:14:08 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202312/118381_149929_1719_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[정찬용 아프리카TV 대표 "플랫폼 사업 확장...네이밍 '싹' 바꾼다" (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=118379</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=118379</guid>
@@ -278,6 +270,14 @@
             <pubDate>Fri, 29 Dec 2023 10:58:00 GMT</pubDate>
             <content:encoded><![CDATA[조성준 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202312/118353_149876_5831_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[인터파크, 2023 공연·티켓 거래액 1조 원 돌파...'역대 최고치' (테크M ─ 콘텐츠)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=118348</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=118348</guid>
+            <pubDate>Fri, 29 Dec 2023 10:49:00 GMT</pubDate>
+            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202312/118348_149873_3635_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[LGD, 'CES 2024'에서 차세대 차량용 디스플레이 솔루션 대거 공개 (테크M ─ 인프라)]]></title>
@@ -960,6 +960,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202401/118385_149941_221_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[게임코인TV] 2023년 게코TV 연말결산...블록체인 업계 상반기 총정리 (테크M ─ 보는 뉴스)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=118381</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=118381</guid>
+            <pubDate>Sun, 31 Dec 2023 09:14:08 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202312/118381_149929_1719_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[카드뉴스] LG전자, 스마트 라이프를 위한 'AI 에이전트' 첫 공개 (테크M ─ 보는 뉴스)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=118329</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=118329</guid>
@@ -1054,14 +1062,6 @@
             <pubDate>Thu, 14 Dec 2023 07:14:24 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202312/117811_148856_1659_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[게임코인TV] 가상자산 이용자 보호법 시행령, 이것만 기억하세요! (테크M ─ 보는 뉴스)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=117757</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=117757</guid>
-            <pubDate>Wed, 13 Dec 2023 14:16:12 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202312/117757_148796_023_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
