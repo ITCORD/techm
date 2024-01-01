@@ -4,9 +4,17 @@
         <title>테크M ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Jan 2024 01:16:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Jan 2024 02:35:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[신년사] 윤석열 대통령 "2024년 대한민국 재도약의 중대한 전환점"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=118388</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=118388</guid>
+            <pubDate>Mon, 01 Jan 2024 11:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202401/118388_149945_5924_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[신년사] 김홍일 방통위원장 "통신비·OTT 실태 점검…새로운 규범체계 마련"]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=118368</link>
@@ -110,14 +118,6 @@
             <pubDate>Wed, 13 Dec 2023 10:27:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202312/117727_148727_2735_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[카카오, 창사 이래 첫 여성 CEO 체제로...정신아 내정(1보)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=117726</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=117726</guid>
-            <pubDate>Wed, 13 Dec 2023 10:23:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202312/117726_148726_2331_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
