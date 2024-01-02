@@ -4,9 +4,17 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Jan 2024 07:17:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Jan 2024 08:22:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[시큐아이 "2024년 생성형 AI 피싱 공격 증가"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=118471</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=118471</guid>
+            <pubDate>Tue, 02 Jan 2024 08:20:28 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202401/118471_150073_4317_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[신년사] 현신균 LG CNS 대표 "DX 핵심역량 내재화해 글로벌 진출 준비"]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=118467</link>
@@ -21,7 +29,7 @@
             <guid>https://www.techm.kr/news/articleView.html?idxno=118432</guid>
             <pubDate>Tue, 02 Jan 2024 07:15:28 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202401/118432_150017_258_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202401/118432_150077_1556_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[신년사] 조규곤 파수 대표 "2024년 AI 기업으로 거듭나자"]]></title>
@@ -110,14 +118,6 @@
             <pubDate>Mon, 01 Jan 2024 10:30:00 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202401/118387_149944_2941_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[투명 OLED 오디오, 바퀴 달린 집…LG전자의 '도전 DNA'는 계속된다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=118386</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=118386</guid>
-            <pubDate>Mon, 01 Jan 2024 10:26:00 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202401/118386_149942_2547_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Jan 2024 07:17:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Jan 2024 08:22:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] CES 2024의 핵심은 AI '스마트홈을 넘어 모빌리티, 디지털 헬스케어까지']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=118452</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=118452</guid>
+            <pubDate>Tue, 02 Jan 2024 08:22:05 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202401/118452_150048_324_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[게임코인TV] 2023년 게코TV 연말결산...블록체인 업계서 가장 '핫'했던 위믹스]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=118385</link>
@@ -110,14 +118,6 @@
             <pubDate>Fri, 15 Dec 2023 08:23:35 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202312/117847_148928_4551_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 라인넥스트, 플랫폼 확장부터 서비스 개발까지 '웹3.0 대중화 본격 추진']]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=117811</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=117811</guid>
-            <pubDate>Thu, 14 Dec 2023 07:16:32 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202312/117811_148856_1659_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
