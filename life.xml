@@ -4,9 +4,25 @@
         <title>테크M ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Jan 2024 01:08:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Jan 2024 02:30:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[LG전자, '공감하는 AI'가 만든 미래 스마트홈 선보인다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=118423</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=118423</guid>
+            <pubDate>Tue, 02 Jan 2024 11:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202401/118423_149998_273_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[LG전자, 스팀다리미 품은 '올 뉴 스타일러 오브제컬렉션' 출시]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=118420</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=118420</guid>
+            <pubDate>Tue, 02 Jan 2024 10:20:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202401/118420_149994_193_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['소상공인 플랫폼' 쿠팡...20만 자영업자 판로 개척 이끌다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=118414</link>
@@ -102,22 +118,6 @@
             <pubDate>Thu, 28 Dec 2023 11:46:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202312/118320_149806_460_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[농심, 스타필드 안성점에 코코이찌방야 36호점 열었다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=118319</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=118319</guid>
-            <pubDate>Thu, 28 Dec 2023 11:44:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202312/118319_149805_4429_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["한국의 맛으로 웃었다" 맥도날드, Taste of Korea 메뉴 판매량 2000만개 육박]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=118318</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=118318</guid>
-            <pubDate>Thu, 28 Dec 2023 11:42:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202312/118318_149804_4247_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
