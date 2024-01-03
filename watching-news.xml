@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Jan 2024 07:17:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Jan 2024 08:21:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 미리보는 CES 2024 '우리 삶 속에 스며들 AI에 집중하라']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=118505</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=118505</guid>
+            <pubDate>Wed, 03 Jan 2024 08:21:56 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202401/118505_150137_15_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] CES 2024의 핵심은 AI '스마트홈을 넘어 모빌리티, 디지털 헬스케어까지']]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=118452</link>
@@ -110,14 +118,6 @@
             <pubDate>Mon, 18 Dec 2023 08:22:18 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202312/117938_149132_1849_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 생성형 AI를 안전하게 활용할 IBM '왓슨x.거버넌스' 공개]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=117847</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=117847</guid>
-            <pubDate>Fri, 15 Dec 2023 08:23:35 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202312/117847_148928_4551_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
