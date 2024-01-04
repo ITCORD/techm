@@ -4,9 +4,17 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Jan 2024 11:16:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Jan 2024 12:31:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한국인터넷신문협회 "카카오, 정상적 언론 활동 방해" 공정위에 진정서 제출]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=118590</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=118590</guid>
+            <pubDate>Thu, 04 Jan 2024 12:30:34 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202401/118590_150256_4018_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[CES 2024] 'AI 가전' 총출동...'CES 2024' 달구는 혁신제품 하이라이트는?]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=118578</link>
@@ -110,14 +118,6 @@
             <pubDate>Thu, 04 Jan 2024 10:13:00 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202401/118526_150170_1258_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[네이버클라우드, 온라인 신분증 검증서비스에 얼굴인식 추가]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=118498</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=118498</guid>
-            <pubDate>Wed, 03 Jan 2024 06:20:47 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202401/118498_150124_4810_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
