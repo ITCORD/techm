@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Jan 2024 05:17:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Jan 2024 06:22:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 롯데정보통신, 초실감형 메타버스 '칼리버스' 정식 론칭한다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=118573</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=118573</guid>
+            <pubDate>Thu, 04 Jan 2024 06:22:57 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202401/118573_150223_53_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 미리보는 CES 2024 '우리 삶 속에 스며들 AI에 집중하라']]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=118505</link>
@@ -110,14 +118,6 @@
             <pubDate>Tue, 19 Dec 2023 07:16:39 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202312/118005_149232_5232_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 안랩 X 코가로보틱스, 자율주행 로봇 시대 '사이버보안' 협력 추진]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=117938</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=117938</guid>
-            <pubDate>Mon, 18 Dec 2023 08:22:18 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202312/117938_149132_1849_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
