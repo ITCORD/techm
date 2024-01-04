@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Jan 2024 12:31:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Jan 2024 13:20:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[신년특집 게임코인TV] 블록체인 선봉에 나선 게임사 넥슨...그들이 그리는 '유니버스'는?(상)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=118591</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=118591</guid>
+            <pubDate>Thu, 04 Jan 2024 13:20:31 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202401/118591_150257_1746_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 롯데정보통신, 초실감형 메타버스 '칼리버스' 정식 론칭한다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=118573</link>
@@ -110,14 +118,6 @@
             <pubDate>Wed, 20 Dec 2023 08:18:18 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202312/118068_149357_4921_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 네이버 초거대 AI '하이퍼클로바X'에 건강보험 빅데이터 더한다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=118005</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=118005</guid>
-            <pubDate>Tue, 19 Dec 2023 07:16:39 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202312/118005_149232_5232_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
