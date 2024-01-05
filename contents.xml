@@ -4,9 +4,25 @@
         <title>테크M ─ 콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Jan 2024 06:22:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Jan 2024 07:16:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김준우 크로스앵글 "블록체인 산업, 이제는 기술 아닌 서비스가 주도"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=118637</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=118637</guid>
+            <pubDate>Fri, 05 Jan 2024 07:14:59 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202401/118637_150309_1444_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[IT진맥] 게임위 넋 나갔나...다크앤다커 심의가 '이용자 피해' 때문이라니]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=118639</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=118639</guid>
+            <pubDate>Fri, 05 Jan 2024 07:14:59 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202401/118639_150311_2725_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[라온시큐어, '라온 메타데미 2.0 공개'…실습 효율성 높였다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=118636</link>
@@ -32,7 +48,7 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202401/118634_150306_5914_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['다크 앤 다커' 심의 내준 게임위 "이용자 피해 우려...판결 따라 즉시 취소 가능"]]></title>
+            <title><![CDATA['다크앤다커' 심의 내준 게임위 "이용자 피해 우려...판결 따라 즉시 취소 가능"]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=118631</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=118631</guid>
             <pubDate>Fri, 05 Jan 2024 06:20:32 GMT</pubDate>
@@ -102,22 +118,6 @@
             <pubDate>Fri, 05 Jan 2024 11:02:00 GMT</pubDate>
             <content:encoded><![CDATA[임경호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202401/118610_150281_118_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[트리플-당근, 태국·대만 휴양 알바 이벤트...1인당 300만원 경비 지원]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=118599</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=118599</guid>
-            <pubDate>Fri, 05 Jan 2024 10:39:00 GMT</pubDate>
-            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202401/118599_150269_1355_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[당근알바, '제1회 동네 일거리 온라인 박람회' 개최...구인구직 지원·노하우 공유]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=118601</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=118601</guid>
-            <pubDate>Fri, 05 Jan 2024 10:39:00 GMT</pubDate>
-            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202401/118601_150271_2556_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
