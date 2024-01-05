@@ -4,9 +4,17 @@
         <title>테크M ─ 콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Jan 2024 04:20:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Jan 2024 05:17:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[CES 2024] 라스베이거스 빛내는 별…기술 혁신 직접 챙기는 총수들]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=118617</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=118617</guid>
+            <pubDate>Fri, 05 Jan 2024 05:15:51 GMT</pubDate>
+            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202401/118617_150287_2315_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[위메이드, 아랍 개발사 리트미 게임즈와 '리트미' 위믹스 플레이 온보딩 계약]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=118626</link>
@@ -24,7 +32,7 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202401/118622_150295_016_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[NHN벅스, 음악 큐레이션 브랜드 '에센셜' 신설]]></title>
+            <title><![CDATA[벅스에 음악 큐레이션 브랜드 '에센셜' 탭 생겼다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=118621</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=118621</guid>
             <pubDate>Fri, 05 Jan 2024 11:59:00 GMT</pubDate>
@@ -110,14 +118,6 @@
             <pubDate>Thu, 04 Jan 2024 10:17:17 GMT</pubDate>
             <content:encoded><![CDATA[임경호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202401/118586_150243_4335_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['출시 한 달' 쓰론 앤 리버티, 오는 9일 라이브 소통 방송 예고]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=118587</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=118587</guid>
-            <pubDate>Thu, 04 Jan 2024 10:17:17 GMT</pubDate>
-            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202401/118587_150244_5125_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
