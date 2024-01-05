@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Jan 2024 15:18:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Jan 2024 16:20:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[신년특집 게임코인TV] 블록체인 선봉에 나선 게임사 넥슨...그들이 그리는 '유니버스'는?(하)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=118648</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=118648</guid>
+            <pubDate>Sat, 06 Jan 2024 01:17:00 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202401/118648_150350_1723_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] SKT X 네이버 X 아프리카TV,  AI가 '스포츠 하이라이트' 보여준다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=118643</link>
@@ -110,14 +118,6 @@
             <pubDate>Thu, 21 Dec 2023 07:16:53 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202312/118118_149443_052_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[게임코인TV] 수수료 무료 승부수 던진 빗썸을 주목하라! 비트코인 상승에 위믹스 재상장까지...점유율 '껑충']]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=118075</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=118075</guid>
-            <pubDate>Thu, 21 Dec 2023 14:16:23 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202312/118075_149372_3114_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
