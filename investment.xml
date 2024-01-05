@@ -4,9 +4,25 @@
         <title>테크M ─ 인베스트먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Jan 2024 02:30:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Jan 2024 03:18:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[신한은행, 기업 고객용 '뉴 쏠비즈' 출시]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=118625</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=118625</guid>
+            <pubDate>Fri, 05 Jan 2024 00:06:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202401/118625_150297_556_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[테크M 리포트] "봄이 오고 있다" 4Q 훨훨 난 삼성전자...시장 기대치 상회]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=118620</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=118620</guid>
+            <pubDate>Fri, 05 Jan 2024 11:39:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202401/118620_150292_3852_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[크립토 브리핑] ETF 승인 여부 두고 요동치는 가상자산 시장...비트코인 소폭 상승]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=118603</link>
@@ -102,22 +118,6 @@
             <pubDate>Tue, 02 Jan 2024 00:13:00 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202401/118440_150019_4751_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[하이퍼리즘, 日 스테이블코인 발행사 JPYC에 투자]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=118428</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=118428</guid>
-            <pubDate>Tue, 02 Jan 2024 10:50:00 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202401/118428_150003_4445_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[크립토 브리핑] 새해 맞아 반등한 비트코인...다시 5900만원대로]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=118424</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=118424</guid>
-            <pubDate>Tue, 02 Jan 2024 10:33:00 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202401/118424_149999_3146_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
