@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 07 Jan 2024 06:21:45 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Jan 2024 07:16:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[LG디스플레이, 'CES 2024'서 OLED 전략제품 대거 공개 (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=118662</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=118662</guid>
+            <pubDate>Sun, 07 Jan 2024 07:13:48 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202401/118662_150381_2513_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[삼성전자, 13개국서 '갤럭시 언팩 2024' 옥외광고…'AI 폰' 기대감 고조 (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=118661</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=118661</guid>
+            <pubDate>Sun, 07 Jan 2024 06:20:10 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202401/118661_150378_1510_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[삼성전자 세탁기·냉장고·에어컨 '탄소발자국' 인증 획득 (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=118660</link>
@@ -152,22 +168,6 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202401/118636_150308_1014_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[박진효 SK브로드밴드 사장 "일회용품 제로 함께해요" (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=118635</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=118635</guid>
-            <pubDate>Fri, 05 Jan 2024 06:20:15 GMT</pubDate>
-            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202401/118635_150307_41_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['달라진 엔씨' 새해부터 TL-블소2-아이온 클래식 업데이트 계획 발표...이용자 소통 '총력전' (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=118634</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=118634</guid>
-            <pubDate>Fri, 05 Jan 2024 06:20:15 GMT</pubDate>
-            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202401/118634_150344_738_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[변하고, 합하고, 통하고...엔씨 'TL' 출시 한달 사이 이용 시간 3배↑ (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=118656</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=118656</guid>
@@ -280,6 +280,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202401/118626_150298_910_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[LG디스플레이, 'CES 2024'서 OLED 전략제품 대거 공개 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=118662</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=118662</guid>
+            <pubDate>Sun, 07 Jan 2024 07:14:27 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202401/118662_150381_2513_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[삼성전자, 13개국서 '갤럭시 언팩 2024' 옥외광고…'AI 폰' 기대감 고조 (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=118661</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=118661</guid>
@@ -382,14 +390,6 @@
             <pubDate>Thu, 04 Jan 2024 06:20:48 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202401/118571_150222_218_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[토스뱅크, 목돈 굴리기에서 한국투자증권 '해외 채권' 서비스 출시 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=118562</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=118562</guid>
-            <pubDate>Thu, 04 Jan 2024 05:15:54 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202401/118562_150213_5451_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[새해 목표 1순위는 부업...'와디즈 캠퍼스'에서 'N잡' 노하우 찾아볼까 (테크M ─ 이노베이션)]]></title>
@@ -731,7 +731,7 @@
             <title><![CDATA[삼성전자 세탁기·냉장고·에어컨 '탄소발자국' 인증 획득 (테크M ─ 라이프)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=118660</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=118660</guid>
-            <pubDate>Sun, 07 Jan 2024 06:21:12 GMT</pubDate>
+            <pubDate>Sun, 07 Jan 2024 06:19:36 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202401/118660_150377_810_v150.jpg" length="0" type="image/jpg"/>
         </item>
