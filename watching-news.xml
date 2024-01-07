@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 07 Jan 2024 13:19:20 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Jan 2024 14:15:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[신년특집 게임코인TV] 블록체인 선봉에 나선 게임사 크래프톤...오버데어의 모든 것]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=118665</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=118665</guid>
+            <pubDate>Sun, 07 Jan 2024 14:15:21 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202401/118665_150395_4943_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[신년특집 게임코인TV] 블록체인 선봉에 나선 게임사 넥슨...그들이 그리는 '유니버스'는?(하)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=118648</link>
@@ -110,14 +118,6 @@
             <pubDate>Fri, 22 Dec 2023 08:21:11 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202312/118174_149542_110_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] SK브로드밴드, 초개인화된 미디어 서비스 'AI B tv' 공개]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=118118</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=118118</guid>
-            <pubDate>Thu, 21 Dec 2023 07:16:53 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202312/118118_149443_052_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
