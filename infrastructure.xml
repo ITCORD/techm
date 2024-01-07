@@ -4,9 +4,17 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 07 Jan 2024 11:15:45 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Jan 2024 12:29:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[LG유플러스, AI 개발사 포티투마루에 100억 지분투자]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=118664</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=118664</guid>
+            <pubDate>Sun, 07 Jan 2024 12:28:13 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202401/118664_150394_2237_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[LG디스플레이, 'CES 2024'서 OLED 전략제품 대거 공개]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=118662</link>
@@ -37,7 +45,7 @@
             <guid>https://www.techm.kr/news/articleView.html?idxno=118618</guid>
             <pubDate>Fri, 05 Jan 2024 11:28:00 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202401/118618_150349_952_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202401/118618_150289_268_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[LG전자 '클로이' 로봇, 동남아시아 골프장 누빈다]]></title>
@@ -110,14 +118,6 @@
             <pubDate>Thu, 04 Jan 2024 08:19:51 GMT</pubDate>
             <content:encoded><![CDATA[조성준 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202401/118578_150235_4947_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LG CNS, 데이터센터 운영 역량 인정…과기부 표창 수상]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=118571</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=118571</guid>
-            <pubDate>Thu, 04 Jan 2024 06:21:22 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202401/118571_150222_218_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
