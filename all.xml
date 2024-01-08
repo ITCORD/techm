@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Jan 2024 12:33:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Jan 2024 13:21:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -280,6 +280,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202401/118682_150411_355_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[아이폰 중국 판매량 두자릿수 '뚝'…화웨이 복귀에 위기론 심화 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=118725</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=118725</guid>
+            <pubDate>Mon, 08 Jan 2024 13:20:23 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202401/118725_150470_1613_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[카카오 준신위, '준법 시스템'-'신뢰∙상생' 소위원회 신설 (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=118722</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=118722</guid>
@@ -382,14 +390,6 @@
             <pubDate>Mon, 08 Jan 2024 09:14:00 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202401/118671_150401_617_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LG유플러스, AI 개발사 포티투마루에 100억 지분투자 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=118664</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=118664</guid>
-            <pubDate>Sun, 07 Jan 2024 12:27:45 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202401/118664_150394_2237_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[CES 2024] "대세는 투명 스크린" 삼성-LG, CES서 차세대 폼팩터 경쟁 '눈길' (테크M ─ 이노베이션)]]></title>
