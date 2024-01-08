@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Jan 2024 09:19:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Jan 2024 10:19:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,6 +168,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202401/118696_150467_4854_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['조직 쇄신' 엔씨, 이성구·백승욱·최문영 3인 CBO 체제로...가족경영 탈피 움직임도 (테크M ─ 콘텐츠)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=118720</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=118720</guid>
+            <pubDate>Mon, 08 Jan 2024 09:16:54 GMT</pubDate>
+            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202401/118720_150468_5147_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[토종 OTT 티빙, KBO 중계권 우선 협상 대상자 선정 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=118718</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=118718</guid>
@@ -272,18 +280,10 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202401/118682_150411_355_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[트리플, 료칸 전용 카테고리 오픈…인기 숙소 700개 검색·예약 원스톱 (테크M ─ 콘텐츠)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=118681</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=118681</guid>
-            <pubDate>Mon, 08 Jan 2024 10:02:00 GMT</pubDate>
-            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202401/118681_150410_5128_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[카카오 준신위, '준법 시스템'-'신뢰∙상생' 소위원회 신설 (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=118722</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=118722</guid>
-            <pubDate>Mon, 08 Jan 2024 09:18:12 GMT</pubDate>
+            <pubDate>Mon, 08 Jan 2024 09:16:54 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202401/118722_150469_3051_v150.jpg" length="0" type="image/jpg"/>
         </item>
