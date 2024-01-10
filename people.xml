@@ -4,9 +4,16 @@
         <title>테크M ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Jan 2024 02:31:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Jan 2024 03:19:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[부고] 송원영씨(LG유플러스 언론홍보팀 책임) 본인상]]></title>
+            <link>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN5&amp;view_type=sm</link>
+            <guid>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN5&amp;view_type=sm</guid>
+            <pubDate>Wed, 10 Jan 2024 11:33:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[테크M 이슈] 새 리더십 꾸린 택진이형...엔씨소프트가 확 달라진다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=118760</link>
@@ -110,14 +117,6 @@
             <pubDate>Tue, 02 Jan 2024 10:22:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202401/118421_149996_229_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[신년사] 정철동 LG디스플레이 시장 "사업 본질에 집중…턴어라운드 앞당기자"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=118418</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=118418</guid>
-            <pubDate>Tue, 02 Jan 2024 10:14:00 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202401/118418_149992_1327_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
