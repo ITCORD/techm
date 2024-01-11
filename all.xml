@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Jan 2024 09:17:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Jan 2024 10:20:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,10 +168,18 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202401/118866_150728_3610_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[임직원 만난 카카오 정신아...대화주제는 '기업문화' (테크M ─ 콘텐츠)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=118886</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=118886</guid>
+            <pubDate>Thu, 11 Jan 2024 10:18:09 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202401/118886_150770_504_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[사전등록 시작한 '나이트 크로우 글로벌'...게임토큰 담은 NFT도 선보여 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=118885</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=118885</guid>
-            <pubDate>Thu, 11 Jan 2024 09:16:30 GMT</pubDate>
+            <pubDate>Thu, 11 Jan 2024 09:16:15 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202401/118885_150769_4558_v150.jpg" length="0" type="image/jpg"/>
         </item>
@@ -270,14 +278,6 @@
             <pubDate>Thu, 11 Jan 2024 11:53:00 GMT</pubDate>
             <content:encoded><![CDATA[임경호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202401/118856_150694_470_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다방 "지난해 10명 중 4명 원룸 찾아"...신림·수원역 검색 多·12월 매물 조회 활발 (테크M ─ 콘텐츠)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=118849</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=118849</guid>
-            <pubDate>Thu, 11 Jan 2024 11:46:00 GMT</pubDate>
-            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202401/118849_150669_5524_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[삼성전자 AI PC '갤럭시 북4' 시리즈 판매 순항…"전작 대비 판매량 1.5배" (테크M ─ 인프라)]]></title>
