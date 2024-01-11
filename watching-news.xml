@@ -4,9 +4,25 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Jan 2024 07:17:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Jan 2024 08:22:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[신년특집 게임코인TV] 3N 자존심 넷마블의 '마브렉스'...새 수장 맞아 다시 뛸 준비 마쳤다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=118881</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=118881</guid>
+            <pubDate>Thu, 11 Jan 2024 08:22:31 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202401/118881_150753_2027_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[카드뉴스] 니어스랩이 CES서 최초 공개한 자율주행 'AI 드론']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=118879</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=118879</guid>
+            <pubDate>Thu, 11 Jan 2024 08:22:31 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202401/118879_150751_132_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[신년특집 게임코인TV] 블록체인 선봉에 나선 게임사 크래프톤...오버데어의 모든 것]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=118665</link>
@@ -102,22 +118,6 @@
             <pubDate>Tue, 26 Dec 2023 07:16:23 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202312/118227_149658_3034_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[게임코인TV] 만년 4위 코빗, 코인원 제치고 점유율 3위 등극...위믹스가 쏘아올린 큰(?) 공]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=118202</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=118202</guid>
-            <pubDate>Mon, 25 Dec 2023 13:20:10 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202312/118202_149622_2049_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] SK쉴더스, 인천시를 위한 자율주행 'AI 순찰로봇' 시범 운행 시작]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=118174</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=118174</guid>
-            <pubDate>Fri, 22 Dec 2023 08:21:11 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202312/118174_149542_110_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
