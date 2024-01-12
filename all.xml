@@ -4,11 +4,19 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Jan 2024 02:32:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Jan 2024 03:18:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[삼성전자, '팀 삼성 갤럭시' 선수단 공개...전세계 10개국 25명 (테크M ─ 전체기사)]]></title>
+            <title><![CDATA[[FreeView] 애플과 마이크로소프트 '왕좌의 게임'…승리의 열쇠는 결국 'AI' (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=118918</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=118918</guid>
+            <pubDate>Fri, 12 Jan 2024 00:02:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202401/118918_150814_5821_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[삼성전자, 손흥민 신유빈 등 파리올림픽 홍보대사 '팀 삼성 갤럭시' 선수단 공개 (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=118911</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=118911</guid>
             <pubDate>Fri, 12 Jan 2024 11:23:00 GMT</pubDate>
@@ -160,14 +168,6 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202401/118893_150783_1131_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[NHN페이코, 캠퍼스 특화 식권 예약 서비스 도입 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=118896</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=118896</guid>
-            <pubDate>Fri, 12 Jan 2024 10:14:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202401/118896_150786_1448_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA["2024 호주오픈은 티빙에서"...전 경기 독점 생중계 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=118912</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=118912</guid>
@@ -280,6 +280,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202401/118882_150756_4914_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[FreeView] 애플과 마이크로소프트 '왕좌의 게임'…승리의 열쇠는 결국 'AI' (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=118918</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=118918</guid>
+            <pubDate>Fri, 12 Jan 2024 00:02:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202401/118918_150814_5821_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[카카오게임즈 '크루아이템 기부 캠페인' 실시 (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=118907</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=118907</guid>
@@ -382,14 +390,6 @@
             <pubDate>Wed, 10 Jan 2024 07:14:55 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202401/118812_150603_132_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[테크M 리포트] 삼성전자, 반등의 시간 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=118819</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=118819</guid>
-            <pubDate>Wed, 10 Jan 2024 07:14:55 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202401/118819_150613_4143_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[티몬, 육아용품 인기에 특별 기획관 만들고 '알뜰 육아맘' 공략 (테크M ─ 이노베이션)]]></title>
@@ -727,7 +727,7 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202401/118447_150026_244_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[삼성전자, '팀 삼성 갤럭시' 선수단 공개...전세계 10개국 25명 (테크M ─ 라이프)]]></title>
+            <title><![CDATA[삼성전자, 손흥민 신유빈 등 파리올림픽 홍보대사 '팀 삼성 갤럭시' 선수단 공개 (테크M ─ 라이프)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=118911</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=118911</guid>
             <pubDate>Fri, 12 Jan 2024 11:23:00 GMT</pubDate>

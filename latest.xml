@@ -4,11 +4,19 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Jan 2024 02:32:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Jan 2024 03:18:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[삼성전자, '팀 삼성 갤럭시' 선수단 공개...전세계 10개국 25명]]></title>
+            <title><![CDATA[[FreeView] 애플과 마이크로소프트 '왕좌의 게임'…승리의 열쇠는 결국 'AI']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=118918</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=118918</guid>
+            <pubDate>Fri, 12 Jan 2024 00:02:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202401/118918_150814_5821_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[삼성전자, 손흥민 신유빈 등 파리올림픽 홍보대사 '팀 삼성 갤럭시' 선수단 공개]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=118911</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=118911</guid>
             <pubDate>Fri, 12 Jan 2024 11:23:00 GMT</pubDate>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 12 Jan 2024 10:16:00 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202401/118893_150783_1131_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NHN페이코, 캠퍼스 특화 식권 예약 서비스 도입]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=118896</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=118896</guid>
-            <pubDate>Fri, 12 Jan 2024 10:14:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202401/118896_150786_1448_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
