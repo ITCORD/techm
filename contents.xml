@@ -4,9 +4,17 @@
         <title>테크M ─ 콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Jan 2024 03:18:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Jan 2024 04:23:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[그리프라인, 모바일 신작 '명일방주: 엔드필드' 테크니컬 테스트 시작]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=118919</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=118919</guid>
+            <pubDate>Fri, 12 Jan 2024 00:45:00 GMT</pubDate>
+            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202401/118919_150815_2124_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["2024 호주오픈은 티빙에서"...전 경기 독점 생중계]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=118912</link>
@@ -110,14 +118,6 @@
             <pubDate>Thu, 11 Jan 2024 08:21:02 GMT</pubDate>
             <content:encoded><![CDATA[임경호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202401/118883_150757_042_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['전독시' 컬래버 '세븐나이츠 키우기' 2차 업데이트...유중혁·유상아 등장]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=118882</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=118882</guid>
-            <pubDate>Thu, 11 Jan 2024 08:21:02 GMT</pubDate>
-            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202401/118882_150756_4914_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

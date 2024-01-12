@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Jan 2024 03:18:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Jan 2024 04:23:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[안정은 11번가 사장 "연간 흑자 자신...턴어라운드 이끌 것" (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=118920</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=118920</guid>
+            <pubDate>Fri, 12 Jan 2024 04:19:57 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202401/118920_150816_356_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[그리프라인, 모바일 신작 '명일방주: 엔드필드' 테크니컬 테스트 시작 (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=118919</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=118919</guid>
+            <pubDate>Fri, 12 Jan 2024 00:45:00 GMT</pubDate>
+            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202401/118919_150815_2124_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[FreeView] 애플과 마이크로소프트 '왕좌의 게임'…승리의 열쇠는 결국 'AI' (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=118918</link>
@@ -152,20 +168,12 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202401/118899_150789_2252_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[네이버, '2023 프라이버시 백서' 발간...개인정보보호 연구 결과 담았다 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=118897</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=118897</guid>
-            <pubDate>Fri, 12 Jan 2024 10:21:00 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202401/118897_150787_1843_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[크립토 브리핑] 기대감 선반영됐나...비트코인, ETF 승인에도 제자리걸음 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=118893</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=118893</guid>
-            <pubDate>Fri, 12 Jan 2024 10:16:00 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202401/118893_150783_1131_v150.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[그리프라인, 모바일 신작 '명일방주: 엔드필드' 테크니컬 테스트 시작 (테크M ─ 콘텐츠)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=118919</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=118919</guid>
+            <pubDate>Fri, 12 Jan 2024 00:45:00 GMT</pubDate>
+            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202401/118919_150815_2124_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["2024 호주오픈은 티빙에서"...전 경기 독점 생중계 (테크M ─ 콘텐츠)]]></title>
@@ -270,14 +278,6 @@
             <pubDate>Thu, 11 Jan 2024 08:20:48 GMT</pubDate>
             <content:encoded><![CDATA[임경호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202401/118883_150757_042_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['전독시' 컬래버 '세븐나이츠 키우기' 2차 업데이트...유중혁·유상아 등장 (테크M ─ 콘텐츠)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=118882</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=118882</guid>
-            <pubDate>Thu, 11 Jan 2024 08:20:48 GMT</pubDate>
-            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202401/118882_150756_4914_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[FreeView] 애플과 마이크로소프트 '왕좌의 게임'…승리의 열쇠는 결국 'AI' (테크M ─ 인프라)]]></title>
@@ -616,6 +616,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202401/118710_150450_2314_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[안정은 11번가 사장 "연간 흑자 자신...턴어라운드 이끌 것" (테크M ─ 피플)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=118920</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=118920</guid>
+            <pubDate>Fri, 12 Jan 2024 04:21:46 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202401/118920_150816_356_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[CES 2024] 유영상 SKT 대표, CES서 조비 CEO와 UAM 협력 확대 (테크M ─ 피플)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=118863</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=118863</guid>
@@ -717,14 +725,6 @@
             <pubDate>Tue, 02 Jan 2024 06:20:06 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202401/118454_150030_570_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[신년사] 방준혁 넷마블·코웨이 의장 "체질개선으로 본연의 경쟁력 강화해야" (테크M ─ 피플)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=118447</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=118447</guid>
-            <pubDate>Tue, 02 Jan 2024 05:15:11 GMT</pubDate>
-            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202401/118447_150026_244_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[삼성전자, 손흥민 신유빈 등 파리올림픽 홍보대사 '팀 삼성 갤럭시' 선수단 공개 (테크M ─ 라이프)]]></title>
