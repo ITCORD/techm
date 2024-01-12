@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Jan 2024 06:22:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Jan 2024 07:16:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 삼성전자, CES서 더 똑똑해진 AI 로봇 '볼리' 선보였다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=118923</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=118923</guid>
+            <pubDate>Fri, 12 Jan 2024 07:16:54 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202401/118923_150823_1947_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[신년특집 게임코인TV] 3N 자존심 넷마블의 '마브렉스'...새 수장 맞아 다시 뛸 준비 마쳤다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=118881</link>
@@ -110,14 +118,6 @@
             <pubDate>Wed, 27 Dec 2023 08:20:45 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202312/118289_149757_1353_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 대구은행엔 AI은행원 '한아름'이 있다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=118227</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=118227</guid>
-            <pubDate>Tue, 26 Dec 2023 07:16:23 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202312/118227_149658_3034_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>테크M ─ 콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Jan 2024 06:22:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Jan 2024 07:16:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[로드컴플릿, '레전드 오브 슬라임' 글로벌 유통권 확보]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=118925</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=118925</guid>
+            <pubDate>Fri, 12 Jan 2024 07:15:01 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202401/118925_150834_4436_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[그리프라인, 모바일 신작 '명일방주: 엔드필드' 테크니컬 테스트 시작]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=118919</link>
@@ -110,14 +118,6 @@
             <pubDate>Thu, 11 Jan 2024 08:21:02 GMT</pubDate>
             <content:encoded><![CDATA[임경호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202401/118884_150768_130_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["바다 배경 이색 사진 찍자" 위메이드커넥트, 포토이즘 매장에 '어비스리움' 화면 제공]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=118883</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=118883</guid>
-            <pubDate>Thu, 11 Jan 2024 08:21:02 GMT</pubDate>
-            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202401/118883_150757_042_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
