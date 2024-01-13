@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 13 Jan 2024 09:16:38 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Jan 2024 10:17:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[신년특집 게임코인TV] 일본 열도 흔든 라인...그들의 블록체인 프로젝트 '핀시아']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=118945</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=118945</guid>
+            <pubDate>Sat, 13 Jan 2024 10:17:47 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202401/118945_150876_2628_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 삼성전자, CES서 더 똑똑해진 AI 로봇 '볼리' 선보였다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=118923</link>
@@ -110,14 +118,6 @@
             <pubDate>Thu, 28 Dec 2023 07:16:16 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202312/118329_149813_5331_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] SK텔레콤, 'CES 2024'에서 다양한 AI, 친환경 기술 선보인다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=118289</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=118289</guid>
-            <pubDate>Wed, 27 Dec 2023 08:20:45 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202312/118289_149757_1353_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

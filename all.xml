@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 13 Jan 2024 09:16:38 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Jan 2024 10:17:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[신년특집 게임코인TV] 일본 열도 흔든 라인...그들의 블록체인 프로젝트 '핀시아' (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=118945</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=118945</guid>
+            <pubDate>Sat, 13 Jan 2024 10:15:44 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202401/118945_150876_2628_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[CES 2024] AI가 사람들의 삶을 바꾼다…일상 속 혁명 이끈 CES (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=118943</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 12 Jan 2024 04:19:57 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202401/118920_150822_65_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[그리프라인, 모바일 신작 '명일방주: 엔드필드' 테크니컬 테스트 시작 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=118919</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=118919</guid>
-            <pubDate>Fri, 12 Jan 2024 00:45:00 GMT</pubDate>
-            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202401/118919_150815_2124_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[CES 2024] AI가 사람들의 삶을 바꾼다…일상 속 혁명 이끈 CES (테크M ─ 콘텐츠)]]></title>
@@ -951,6 +951,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202401/118575_150233_1441_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[신년특집 게임코인TV] 일본 열도 흔든 라인...그들의 블록체인 프로젝트 '핀시아' (테크M ─ 보는 뉴스)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=118945</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=118945</guid>
+            <pubDate>Sat, 13 Jan 2024 10:17:47 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202401/118945_150876_2628_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[카드뉴스] 삼성전자, CES서 더 똑똑해진 AI 로봇 '볼리' 선보였다 (테크M ─ 보는 뉴스)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=118923</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=118923</guid>
@@ -1053,14 +1061,6 @@
             <pubDate>Thu, 28 Dec 2023 07:14:36 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202312/118329_149813_5331_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] SK텔레콤, 'CES 2024'에서 다양한 AI, 친환경 기술 선보인다 (테크M ─ 보는 뉴스)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=118289</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=118289</guid>
-            <pubDate>Wed, 27 Dec 2023 08:19:00 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202312/118289_149757_1353_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
