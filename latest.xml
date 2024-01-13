@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 13 Jan 2024 05:17:29 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Jan 2024 06:21:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[CES 2024] AI가 사람들의 삶을 바꾼다…일상 속 혁명 이끈 CES]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=118943</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=118943</guid>
+            <pubDate>Sat, 13 Jan 2024 06:19:19 GMT</pubDate>
+            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202401/118943_150870_032_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[글로벌] 美 빅테크 '또' 칼바람 분다...트위치·구글, 구조조정 발표]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=118942</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 12 Jan 2024 00:45:00 GMT</pubDate>
             <content:encoded><![CDATA[임경호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202401/118919_150815_2124_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[FreeView] 애플과 마이크로소프트 '왕좌의 게임'…승리의 열쇠는 결국 'AI']]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=118918</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=118918</guid>
-            <pubDate>Fri, 12 Jan 2024 00:02:00 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202401/118918_150843_551_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
