@@ -4,9 +4,17 @@
         <title>테크M ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Jan 2024 04:22:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Jan 2024 05:18:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[옥타, 이석호 신임 한국법인 대표 선임]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=118985</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=118985</guid>
+            <pubDate>Mon, 15 Jan 2024 05:17:22 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202401/118985_150943_2917_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[부고] 조성훈(유한양행 투자관리팀 팀장)씨 부친상]]></title>
             <link>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN5&amp;view_type=sm</link>
@@ -108,14 +116,6 @@
             <pubDate>Sat, 13 Jan 2024 19:13:41 GMT</pubDate>
             <content:encoded><![CDATA[임경호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202401/118492_150121_323_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[테크M 피플] 방준혁의 복심 김병규, 넷마블 부활의 중책을 맡다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=118484</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=118484</guid>
-            <pubDate>Wed, 03 Jan 2024 10:30:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202401/118484_150102_3429_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
