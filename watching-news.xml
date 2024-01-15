@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Jan 2024 07:18:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Jan 2024 08:23:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] AI 혈당관리 '파스타'와 AI 의료 데이터 분석 '프로젝트 델타'를 소개합니다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=118995</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=118995</guid>
+            <pubDate>Mon, 15 Jan 2024 08:23:53 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202401/118995_150954_947_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[신년특집 게임코인TV] 일본 열도 흔든 라인...그들의 블록체인 프로젝트 '핀시아']]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=118945</link>
@@ -110,14 +118,6 @@
             <pubDate>Mon, 01 Jan 2024 15:18:25 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202312/118381_149929_1719_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] LG전자, 스마트 라이프를 위한 'AI 에이전트' 첫 공개]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=118329</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=118329</guid>
-            <pubDate>Thu, 28 Dec 2023 07:16:16 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202312/118329_149813_5331_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
