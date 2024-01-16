@@ -4,9 +4,25 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Jan 2024 07:17:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Jan 2024 08:22:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[NHN 일본 기술 법인, 일본 AWS와 전략적 협업 계약 체결]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=119054</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=119054</guid>
+            <pubDate>Tue, 16 Jan 2024 08:20:21 GMT</pubDate>
+            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202401/119054_151053_1715_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한전, 기간통신사업자 등록..."이음5G 등으로 민간발전사에 통신 서비스 제공"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=119055</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=119055</guid>
+            <pubDate>Tue, 16 Jan 2024 08:20:21 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202401/119055_151054_1937_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['재정'도 문제 '경쟁'도 문제...제4이통사 둘러싼 우려 '고조']]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=119052</link>
@@ -150,22 +166,6 @@
             <pubDate>Tue, 16 Jan 2024 11:38:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202401/119032_151012_447_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[글로벌] 테슬라, 올해 들어 주가 12% 하락...연이은 악재 '몸살']]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=119031</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=119031</guid>
-            <pubDate>Tue, 16 Jan 2024 11:33:00 GMT</pubDate>
-            <content:encoded><![CDATA[김현기 대표]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202401/119031_151008_3258_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[글로벌] NASA, 초음속 항공기 'X-59' 공개..."여행 방식 바꿀 것"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=119030</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=119030</guid>
-            <pubDate>Tue, 16 Jan 2024 11:32:00 GMT</pubDate>
-            <content:encoded><![CDATA[김현기 대표]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202401/119030_151007_3157_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

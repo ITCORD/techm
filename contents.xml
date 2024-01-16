@@ -4,9 +4,17 @@
         <title>테크M ─ 콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Jan 2024 07:17:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Jan 2024 08:22:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[NHN 일본 기술 법인, 일본 AWS와 전략적 협업 계약 체결]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=119054</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=119054</guid>
+            <pubDate>Tue, 16 Jan 2024 08:20:40 GMT</pubDate>
+            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202401/119054_151053_1715_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["우리는 160명 게임대회 연다"...우왁굳·악어 뺏긴 네이버 '치지직', 판 키우기 돌입]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=119051</link>
@@ -110,14 +118,6 @@
             <pubDate>Mon, 15 Jan 2024 08:21:50 GMT</pubDate>
             <content:encoded><![CDATA[임경호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202401/118996_150964_437_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[실감미디어 국제 컨퍼런스] 바바 아키라 "e스포츠, 치매 예방·IT 교육 등 사회 문제 해결에 효과"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=118986</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=118986</guid>
-            <pubDate>Mon, 15 Jan 2024 07:15:36 GMT</pubDate>
-            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202401/118986_150967_5039_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
