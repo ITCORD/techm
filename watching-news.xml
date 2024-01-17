@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Jan 2024 16:23:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Jan 2024 17:17:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[게임코인TV] 제도권으로 들어온 비트코인...미국서 현물 ETF 승인 완료]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=119115</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=119115</guid>
+            <pubDate>Thu, 18 Jan 2024 01:26:00 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202401/119115_151156_2613_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] NHN에듀, 메타버스 학습 플랫폼 '원더버스' 체험 공간 오픈]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=119097</link>
@@ -110,14 +118,6 @@
             <pubDate>Wed, 03 Jan 2024 08:21:56 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202401/118505_150137_15_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] CES 2024의 핵심은 AI '스마트홈을 넘어 모빌리티, 디지털 헬스케어까지']]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=118452</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=118452</guid>
-            <pubDate>Tue, 02 Jan 2024 08:22:05 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202401/118452_150048_324_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
