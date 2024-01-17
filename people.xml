@@ -4,9 +4,16 @@
         <title>테크M ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Jan 2024 01:13:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Jan 2024 02:32:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[부고] 이재홍(한국게임정책학회 회장)씨 모친상]]></title>
+            <link>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN5&amp;view_type=sm</link>
+            <guid>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN5&amp;view_type=sm</guid>
+            <pubDate>Wed, 17 Jan 2024 09:21:00 GMT</pubDate>
+            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[카카오, 그룹 컨트롤타워 CA협의체 수장에 황태선 선임]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=119032</link>
@@ -108,14 +115,6 @@
             <pubDate>Sat, 13 Jan 2024 19:13:41 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202401/118569_150220_4040_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[테크M 이슈] '전략통' 박병무의 등장...체질개선으로 새해 여는 엔씨소프트]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=118565</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=118565</guid>
-            <pubDate>Sat, 13 Jan 2024 19:13:41 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202401/118565_150216_1541_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
