@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Jan 2024 15:18:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Jan 2024 16:23:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[e스포츠人] 젠지에게 패했지만 T1 김정균 감독이 실망하지 않은 이유는? (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=119112</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=119112</guid>
+            <pubDate>Wed, 17 Jan 2024 16:21:25 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202401/119112_151154_2510_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[LCK 브리핑] 'T1 킬러' 본능 발휘한 젠지, '패승승'으로 개막전 승리 (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=119107</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 17 Jan 2024 11:14:00 GMT</pubDate>
             <content:encoded><![CDATA[조성준 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202401/119080_151091_142_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SKT '엑스칼리버' 미국 진출 시동…AI 글로벌 진출 본격화 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=119079</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=119079</guid>
-            <pubDate>Wed, 17 Jan 2024 11:09:00 GMT</pubDate>
-            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202401/119079_151090_856_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[LCK 브리핑] 'T1 킬러' 본능 발휘한 젠지, '패승승'으로 개막전 승리 (테크M ─ 콘텐츠)]]></title>
@@ -616,6 +616,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202401/118908_150799_5834_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[e스포츠人] 젠지에게 패했지만 T1 김정균 감독이 실망하지 않은 이유는? (테크M ─ 피플)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=119112</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=119112</guid>
+            <pubDate>Wed, 17 Jan 2024 16:22:44 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202401/119112_151154_2510_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[부고] 이재홍(한국게임정책학회 회장)씨 모친상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
@@ -715,14 +723,6 @@
             <pubDate>Fri, 05 Jan 2024 10:56:00 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202401/118612_150280_566_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[네이버 COO에 김범준, 정책/RM 대표에 유봉석...올해 첫 조직 개편 (테크M ─ 피플)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=118569</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=118569</guid>
-            <pubDate>Thu, 04 Jan 2024 06:20:48 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202401/118569_150220_4040_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[LG전자, 국내 최대 22kg 용량 건조기 탑재한 '트롬 워시타워' 출시 (테크M ─ 라이프)]]></title>
