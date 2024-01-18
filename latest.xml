@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Jan 2024 09:18:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Jan 2024 10:19:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[공학한림원, 'NAEK 포럼' 열고 나노 기술 개발 지원 전략 논의키로]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=119187</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=119187</guid>
+            <pubDate>Thu, 18 Jan 2024 10:17:37 GMT</pubDate>
+            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202401/119187_151291_1455_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[SK브로드밴드, 정보보호 관리 체계 강화해 'ISMS-P 인증' 획득]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=119184</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 18 Jan 2024 06:21:09 GMT</pubDate>
             <content:encoded><![CDATA[임경호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202401/119158_151229_295_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[무협 액션 MMORPG '대군주전' 스토브 채널링 론칭]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=119156</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=119156</guid>
-            <pubDate>Thu, 18 Jan 2024 06:21:09 GMT</pubDate>
-            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202401/119156_151226_1730_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
