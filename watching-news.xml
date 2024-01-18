@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Jan 2024 06:23:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Jan 2024 07:17:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 카카오 '클레이튼' X 네이버 라인 '핀시아' 합친다, 신규 메인넷 출시에 관심 집중]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=119161</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=119161</guid>
+            <pubDate>Thu, 18 Jan 2024 07:17:20 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202401/119161_151238_549_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[게임코인TV] 미국서 비트코인 현물 ETF 승인...우리나라는 언제? 다음은 이더리움?]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=119115</link>
@@ -110,14 +118,6 @@
             <pubDate>Thu, 04 Jan 2024 06:22:57 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202401/118573_150223_53_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 미리보는 CES 2024 '우리 삶 속에 스며들 AI에 집중하라']]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=118505</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=118505</guid>
-            <pubDate>Wed, 03 Jan 2024 08:21:56 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202401/118505_150137_15_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
