@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Jan 2024 14:17:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Jan 2024 15:19:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -949,6 +949,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202401/118770_150547_953_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[신년특집 게임코인TV] 예상보다 활발한 활동 중?...네오위즈의 블록체인 프로젝트 인텔라X (테크M ─ 보는 뉴스)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=119188</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=119188</guid>
+            <pubDate>Thu, 18 Jan 2024 15:19:53 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202401/119188_151292_1129_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[카드뉴스] 카카오 '클레이튼' X 네이버 라인 '핀시아' 합친다, 신규 메인넷 출시에 관심 집중 (테크M ─ 보는 뉴스)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=119161</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=119161</guid>
@@ -957,7 +965,7 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202401/119161_151238_549_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[게임코인TV] 미국서 비트코인 현물 ETF 승인...우리나라는 언제? 다음은 이더리움? (테크M ─ 보는 뉴스)]]></title>
+            <title><![CDATA[[신년특집 게임코인TV] 미국서 비트코인 현물 ETF 승인...우리나라는 언제? 다음은 이더리움? (테크M ─ 보는 뉴스)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=119115</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=119115</guid>
             <pubDate>Thu, 18 Jan 2024 01:26:00 GMT</pubDate>
@@ -1051,14 +1059,6 @@
             <pubDate>Thu, 04 Jan 2024 13:20:31 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202401/118591_150257_1746_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 롯데정보통신, 초실감형 메타버스 '칼리버스' 정식 론칭한다 (테크M ─ 보는 뉴스)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=118573</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=118573</guid>
-            <pubDate>Thu, 04 Jan 2024 06:20:48 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202401/118573_150223_53_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
