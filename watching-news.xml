@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Jan 2024 05:17:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Jan 2024 06:23:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 넷마블, 버추얼 아이돌 메이브와 소통할 수 있는 ‘챗 시우’ 나온다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=119237</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=119237</guid>
+            <pubDate>Fri, 19 Jan 2024 06:23:04 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202401/119237_151362_88_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[신년특집 게임코인TV] 예상보다 활발한 활동 중?...네오위즈의 블록체인 프로젝트 인텔라X]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=119188</link>
@@ -110,14 +118,6 @@
             <pubDate>Fri, 05 Jan 2024 08:22:17 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202401/118643_150332_5646_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[신년특집 게임코인TV] 블록체인 선봉에 나선 게임사 넥슨...그들이 그리는 '유니버스'는?(상)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=118591</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=118591</guid>
-            <pubDate>Thu, 04 Jan 2024 13:20:31 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202401/118591_150257_1746_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
