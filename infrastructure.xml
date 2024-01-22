@@ -4,9 +4,17 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Jan 2024 01:14:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Jan 2024 02:35:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[티맥스소프트, AWS와 '오픈프레임 리팩터' 서비스형 소프트웨어 론칭]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=119308</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=119308</guid>
+            <pubDate>Mon, 22 Jan 2024 11:19:00 GMT</pubDate>
+            <content:encoded><![CDATA[김소은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202401/119308_151490_623_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[삼성전자, '2024 AHR 엑스포' 참가…북미 공조시장 공략 강화]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=119286</link>
@@ -110,14 +118,6 @@
             <pubDate>Fri, 19 Jan 2024 09:50:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202401/119199_151304_4959_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[KT-한양대 '비대면 정신겅강 케어 플랫폼 구축' 손잡았다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=119198</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=119198</guid>
-            <pubDate>Fri, 19 Jan 2024 09:47:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202401/119198_151303_4723_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
