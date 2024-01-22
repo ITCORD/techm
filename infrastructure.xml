@@ -4,9 +4,17 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Jan 2024 02:35:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Jan 2024 03:20:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성전자, 강원 동계청소년올림픽 '삼성 갤럭시 올림픽' 체험관 운영]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=119314</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=119314</guid>
+            <pubDate>Mon, 22 Jan 2024 11:36:00 GMT</pubDate>
+            <content:encoded><![CDATA[김소은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202401/119314_151498_2630_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[티맥스소프트, AWS와 '오픈프레임 리팩터' 서비스형 소프트웨어 론칭]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=119308</link>
@@ -110,14 +118,6 @@
             <pubDate>Fri, 19 Jan 2024 11:42:00 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202401/119221_151339_2955_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[티맵 이용자, 지난해 '맛집·로또 판매점' 검색 빈도 높았다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=119199</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=119199</guid>
-            <pubDate>Fri, 19 Jan 2024 09:50:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202401/119199_151304_4959_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
