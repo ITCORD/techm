@@ -4,9 +4,25 @@
         <title>테크M ─ 콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Jan 2024 02:34:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Jan 2024 03:19:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['보행자' 포함되는 자율주행 배달로봇, 전국 보도 달린다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=119350</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=119350</guid>
+            <pubDate>Tue, 23 Jan 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202401/119350_151557_3116_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[가처분 신청·토큰소각·대표 교체...신뢰회복 사활건 '갤럭시아']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=119355</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=119355</guid>
+            <pubDate>Tue, 23 Jan 2024 11:40:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202401/119355_151566_3220_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방통위, 지난해 통신분쟁 1259건 중 89.6% 해결했다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=119351</link>
@@ -102,22 +118,6 @@
             <pubDate>Mon, 22 Jan 2024 06:22:39 GMT</pubDate>
             <content:encoded><![CDATA[장태훈 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202401/119316_151503_2834_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[펍지 글로벌 시리즈 올해 4번 열린다...크래프톤이 국제대회에 힘주는 이유는?]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=119325</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=119325</guid>
-            <pubDate>Mon, 22 Jan 2024 06:22:39 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202401/119325_151535_3740_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['미르' IP 분쟁 일단락...액토즈소프트도 중재판정 취소 소송 취하]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=119319</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=119319</guid>
-            <pubDate>Mon, 22 Jan 2024 05:16:48 GMT</pubDate>
-            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202401/119319_151508_3628_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
