@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Jan 2024 06:25:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Jan 2024 07:17:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] KT, 바쁜 소상공인들의 일손을 도와줄 'AI링고전화' 출시]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=119440</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=119440</guid>
+            <pubDate>Wed, 24 Jan 2024 07:17:38 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202401/119440_151700_2740_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 디지털 교육 전환을 선도할 'AI 디지털교과서' 나온다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=119372</link>
@@ -110,14 +118,6 @@
             <pubDate>Thu, 11 Jan 2024 08:22:31 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202401/118881_150753_2027_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 니어스랩이 CES서 최초 공개한 자율주행 'AI 드론']]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=118879</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=118879</guid>
-            <pubDate>Thu, 11 Jan 2024 08:22:31 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202401/118879_150751_132_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

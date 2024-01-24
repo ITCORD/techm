@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Jan 2024 06:25:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Jan 2024 07:17:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] KT, 바쁜 소상공인들의 일손을 도와줄 'AI링고전화' 출시 (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=119440</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=119440</guid>
+            <pubDate>Wed, 24 Jan 2024 07:15:27 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202401/119440_151700_2740_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[효성인포메이션시스템 "데이터·클라우드·스토리지 시너지로 AI 시장 선도" (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=119434</link>
@@ -160,14 +168,6 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202401/119407_151655_2931_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[스위트스팟, 한남동 자리잡은 더블랙레이블 신사옥에 리테일 솔루션 더한다 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=119416</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=119416</guid>
-            <pubDate>Wed, 24 Jan 2024 10:53:00 GMT</pubDate>
-            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202401/119416_151665_5224_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[카카오게임즈 '아레스 : 라이즈 오브 가디언즈' 신규 업데이트...피니시 스킬 8종 추가 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=119427</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=119427</guid>
@@ -283,7 +283,7 @@
             <title><![CDATA[효성인포메이션시스템 "데이터·클라우드·스토리지 시너지로 AI 시장 선도" (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=119434</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=119434</guid>
-            <pubDate>Wed, 24 Jan 2024 06:22:32 GMT</pubDate>
+            <pubDate>Wed, 24 Jan 2024 06:21:57 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202401/119434_151688_5731_v150.jpg" length="0" type="image/jpg"/>
         </item>
@@ -291,7 +291,7 @@
             <title><![CDATA[[IT진맥] 단통법은 '악법' 아냐...'필요했던 이유' 돌아보고 후속대책 제대로 짜자 (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=119435</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=119435</guid>
-            <pubDate>Wed, 24 Jan 2024 06:22:32 GMT</pubDate>
+            <pubDate>Wed, 24 Jan 2024 06:21:57 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202401/119435_151691_059_v150.jpg" length="0" type="image/jpg"/>
         </item>
@@ -395,7 +395,7 @@
             <title><![CDATA[브라이트에너지파트너스, 1019억원 태양광 발전 자산 프로젝트 파이낸싱 완료 (테크M ─ 이노베이션)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=119433</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=119433</guid>
-            <pubDate>Wed, 24 Jan 2024 06:22:50 GMT</pubDate>
+            <pubDate>Wed, 24 Jan 2024 06:21:57 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202401/119433_151687_1817_v150.jpg" length="0" type="image/jpg"/>
         </item>
@@ -950,6 +950,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202401/118941_150867_2033_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[카드뉴스] KT, 바쁜 소상공인들의 일손을 도와줄 'AI링고전화' 출시 (테크M ─ 보는 뉴스)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=119440</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=119440</guid>
+            <pubDate>Wed, 24 Jan 2024 07:17:38 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202401/119440_151700_2740_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[카드뉴스] 디지털 교육 전환을 선도할 'AI 디지털교과서' 나온다 (테크M ─ 보는 뉴스)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=119372</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=119372</guid>
@@ -1052,14 +1060,6 @@
             <pubDate>Thu, 11 Jan 2024 08:20:48 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202401/118881_150753_2027_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 니어스랩이 CES서 최초 공개한 자율주행 'AI 드론' (테크M ─ 보는 뉴스)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=118879</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=118879</guid>
-            <pubDate>Thu, 11 Jan 2024 08:20:48 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202401/118879_150751_132_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
