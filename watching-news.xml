@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Jan 2024 09:18:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Jan 2024 10:21:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[게임코인TV] 클레이튼-핀시아 합병...홀더들 "구체적인 설득안이 필요해!"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=119453</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=119453</guid>
+            <pubDate>Wed, 24 Jan 2024 10:21:30 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202401/119453_151726_3558_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] KT, 바쁜 소상공인들의 일손을 도와줄 'AI링고전화' 출시]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=119440</link>
@@ -110,14 +118,6 @@
             <pubDate>Fri, 12 Jan 2024 07:16:54 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202401/118923_150823_1947_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[신년특집 게임코인TV] 3N 자존심 넷마블의 '마브렉스'...새 수장 맞아 다시 뛸 준비 마쳤다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=118881</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=118881</guid>
-            <pubDate>Thu, 11 Jan 2024 08:22:31 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202401/118881_150753_2027_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
