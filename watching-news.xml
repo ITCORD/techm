@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Jan 2024 08:24:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Jan 2024 09:18:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[신년 특집 게임코인TV] '보라'는 요즘 뭐해요?..."골프 NFT 등 할 일은 하고 있다"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=119452</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=119452</guid>
+            <pubDate>Thu, 25 Jan 2024 09:18:22 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202401/119452_151803_2016_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 모던라이언, 건강한 리셀 문화를 위한 NFT 마켓플레이스 '콘크릿' 그랜드 오픈]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=119492</link>
@@ -110,14 +118,6 @@
             <pubDate>Mon, 15 Jan 2024 08:23:53 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202401/118995_150954_947_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[신년특집 게임코인TV] 일본 열도 흔든 라인...그들의 블록체인 프로젝트 '핀시아']]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=118945</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=118945</guid>
-            <pubDate>Sat, 13 Jan 2024 10:17:47 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202401/118945_150876_2628_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
