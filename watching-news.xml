@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Jan 2024 06:23:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Jan 2024 07:18:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 모던라이언, 건강한 리셀 문화를 위한 NFT 마켓플레이스 '콘크릿' 그랜드 오픈]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=119492</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=119492</guid>
+            <pubDate>Thu, 25 Jan 2024 07:18:01 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202401/119492_151777_195_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[게임코인TV] 클레이튼-핀시아 합병...홀더들 "구체적인 설득안이 필요해!"]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=119453</link>
@@ -110,14 +118,6 @@
             <pubDate>Sat, 13 Jan 2024 10:17:47 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202401/118945_150876_2628_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 삼성전자, CES서 더 똑똑해진 AI 로봇 '볼리' 선보였다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=118923</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=118923</guid>
-            <pubDate>Fri, 12 Jan 2024 07:16:54 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202401/118923_150823_1947_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

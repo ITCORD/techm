@@ -4,9 +4,25 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Jan 2024 06:23:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Jan 2024 07:18:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성SDS, 클라우드 신바람 '생성형 AI'로 이어간다(종합)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=119495</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=119495</guid>
+            <pubDate>Thu, 25 Jan 2024 07:16:24 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202401/119495_151788_469_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[KT, 아시아 지역 통신사들과 손잡고 해저케이블 건설 나선다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=119487</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=119487</guid>
+            <pubDate>Thu, 25 Jan 2024 07:16:24 GMT</pubDate>
+            <content:encoded><![CDATA[배수현 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202401/119487_151766_2920_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[삼성SDS, 공격적 M&A 나선다…"생성형 AI 역량 확보 필요"]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=119490</link>
@@ -102,22 +118,6 @@
             <pubDate>Wed, 24 Jan 2024 04:20:40 GMT</pubDate>
             <content:encoded><![CDATA[배수현 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202401/119417_151675_2459_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성전자, 성능과 범용성 모두 갖춘 소비자용 SSD '990 EVO' 출시]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=119402</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=119402</guid>
-            <pubDate>Wed, 24 Jan 2024 11:48:00 GMT</pubDate>
-            <content:encoded><![CDATA[김소은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202401/119402_151648_1454_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[롯데정보통신 AI 플랫폼 '아이멤버' 롯데그룹 전 계열사 도입]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=119393</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=119393</guid>
-            <pubDate>Wed, 24 Jan 2024 09:22:00 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202401/119393_151638_2159_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
