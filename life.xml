@@ -4,9 +4,17 @@
         <title>테크M ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Jan 2024 01:15:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Jan 2024 02:34:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["콘텐츠로 고객 잡는다" 지그재그, 스타일링·숏폼 콘텐츠 인기]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=119457</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=119457</guid>
+            <pubDate>Thu, 25 Jan 2024 10:25:00 GMT</pubDate>
+            <content:encoded><![CDATA[김소은 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202401/119457_151731_52_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[SK스토아 "뿌리는 가발 잘 나간다"...1분에 25개씩 팔리는 '비기너스럭 볼륨 탈모 톡톡']]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=119430</link>
@@ -110,14 +118,6 @@
             <pubDate>Fri, 19 Jan 2024 10:35:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202401/119214_151320_357_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[맥도날드, 강릉 최초 DT매장 오픈...친환경-편의성 잡았다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=119212</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=119212</guid>
-            <pubDate>Fri, 19 Jan 2024 10:33:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202401/119212_151318_3259_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
