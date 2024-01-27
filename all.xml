@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 27 Jan 2024 01:07:08 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Jan 2024 02:20:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[크립토 주간 브리핑] 비트코인, 막판 반등으로 5700만원 회복...클레이튼·핀시아 통합은 '안갯속' (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=119557</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=119557</guid>
+            <pubDate>Sat, 27 Jan 2024 11:13:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202401/119557_151929_927_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[가봤다] LG유플러스 '일상비일상의틈'에서 즐기는 세계여행...갤럭시 S24 AI 통역과 함께 (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=119556</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=119556</guid>
+            <pubDate>Sat, 27 Jan 2024 11:12:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202401/119556_151904_2756_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[스테이지엑스·마이모바일 맞붙은 주파수 경매…2일차 최고입찰액 797억원 (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=119555</link>
@@ -150,22 +166,6 @@
             <pubDate>Fri, 26 Jan 2024 11:54:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202401/119534_151861_5421_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[테크M 이슈] 화제의 '팰월드' 개발사 몸값만 수조원 껑충...韓 게임가 시사점은 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=119533</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=119533</guid>
-            <pubDate>Fri, 26 Jan 2024 11:43:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202401/119533_151898_476_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[위메이드, 제1기 위퍼블릭 서포터즈 발대식...DAO 개설 등 4월까지 활동 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=119532</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=119532</guid>
-            <pubDate>Fri, 26 Jan 2024 11:41:00 GMT</pubDate>
-            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202401/119532_151858_2643_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[스테이지엑스·마이모바일 맞붙은 주파수 경매…2일차 최고입찰액 797억원 (테크M ─ 콘텐츠)]]></title>
@@ -504,6 +504,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202401/119359_151567_376_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[크립토 주간 브리핑] 비트코인, 막판 반등으로 5700만원 회복...클레이튼·핀시아 통합은 '안갯속' (테크M ─ 인베스트먼트)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=119557</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=119557</guid>
+            <pubDate>Sat, 27 Jan 2024 11:13:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202401/119557_151929_927_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[크래프톤, 지난해 4Q 영업익 1643억...1년새 30% '껑충' (테크M ─ 인베스트먼트)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=119553</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=119553</guid>
@@ -606,14 +614,6 @@
             <pubDate>Wed, 24 Jan 2024 08:17:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202401/119389_151635_1731_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[4Q 실적 월가 예상치 뛰어넘은 넷플릭스...'프로레슬링'까지 품는다 (테크M ─ 인베스트먼트)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=119388</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=119388</guid>
-            <pubDate>Wed, 24 Jan 2024 08:16:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202401/119388_151634_167_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['타다 살리기' 나선 토스, 운전대도 새 인물에 맡긴다...신임 대표에 강희수 요기요 전 본부장 (테크M ─ 피플)]]></title>
