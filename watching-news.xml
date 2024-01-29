@@ -4,17 +4,9 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Jan 2024 01:07:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Jan 2024 02:22:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[신년특집 게임코인TV] "엑스플라도 할 일은 하고 있다"...2024년은 뜨거운 프로젝트 되길]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=119566</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=119566</guid>
-            <pubDate>Sun, 28 Jan 2024 13:18:51 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202401/119566_151948_5849_v150.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[카드뉴스] LG유플러스, 고객의견을 체계적으로 분석해주는 AI ' VOC LAB' 운영 시작]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=119548</link>
@@ -118,6 +110,14 @@
             <pubDate>Wed, 17 Jan 2024 08:22:11 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202401/119097_151117_494_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[카드뉴스] 포바이포, 초고화질 영상을 구현하는 AI 솔루션 '픽셀'로 CES서 호평]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=119050</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=119050</guid>
+            <pubDate>Mon, 29 Jan 2024 02:22:29 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202401/119050_151035_3837_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
