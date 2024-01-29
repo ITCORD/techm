@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Jan 2024 05:17:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Jan 2024 06:21:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 컴투스, 친숙한 IP를 활용한 글로벌 신작게임 3종 발표]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=119606</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=119606</guid>
+            <pubDate>Mon, 29 Jan 2024 06:21:24 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202401/119606_151992_4424_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[신년특집 게임코인TV] "엑스플라도 할 일은 하고 있다"...2024년은 뜨거운 프로젝트 되길]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=119566</link>
@@ -110,14 +118,6 @@
             <pubDate>Thu, 18 Jan 2024 01:26:00 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202401/119115_151156_2613_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] NHN에듀, 메타버스 학습 플랫폼 '원더버스' 체험 공간 오픈]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=119097</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=119097</guid>
-            <pubDate>Wed, 17 Jan 2024 08:22:11 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202401/119097_151117_494_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

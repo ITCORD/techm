@@ -4,9 +4,17 @@
         <title>테크M ─ 콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Jan 2024 05:17:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Jan 2024 06:21:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[NC문화재단, 미래 세대를 위한 'MIT 과학 프로그램' 진행]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=119604</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=119604</guid>
+            <pubDate>Mon, 29 Jan 2024 06:19:55 GMT</pubDate>
+            <content:encoded><![CDATA[장태훈 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202401/119604_151988_5657_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["우주시대 열자"…과기정통부·NASA, 아르테미스 달 탐사 논의]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=119602</link>
@@ -110,14 +118,6 @@
             <pubDate>Mon, 29 Jan 2024 10:26:00 GMT</pubDate>
             <content:encoded><![CDATA[임경호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202401/119578_151964_2427_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["집에서 영화 보고 알바비 번다"...당근알바, 설 맞이 프로모션]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=119573</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=119573</guid>
-            <pubDate>Mon, 29 Jan 2024 10:18:00 GMT</pubDate>
-            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202401/119573_151959_328_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
