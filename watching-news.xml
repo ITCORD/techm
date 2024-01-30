@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Jan 2024 06:22:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Jan 2024 07:17:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] LG전자 올레드 TV로 만나보는 'AI 아티스트 딘킨스' 신작 3종]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=119667</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=119667</guid>
+            <pubDate>Tue, 30 Jan 2024 07:17:29 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202401/119667_152078_530_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 컴투스, 친숙한 IP를 활용한 글로벌 신작게임 3종 발표]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=119606</link>
@@ -110,14 +118,6 @@
             <pubDate>Thu, 18 Jan 2024 07:17:20 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202401/119161_151238_549_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[신년특집 게임코인TV] 미국서 비트코인 현물 ETF 승인...우리나라는 언제? 다음은 이더리움?]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=119115</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=119115</guid>
-            <pubDate>Thu, 18 Jan 2024 01:26:00 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202401/119115_151156_2613_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
