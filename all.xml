@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 Jan 2024 03:18:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Jan 2024 04:20:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[테크M 이슈] 네이버-카카오 블록체인 합병 투표 연기...이유는 (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=119705</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=119705</guid>
+            <pubDate>Wed, 31 Jan 2024 00:25:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202401/119705_152143_1747_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[현대백화점, 판교점서 NBA 75주년 전시…MJ 운동화도 '눈길' (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=119704</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 31 Jan 2024 08:30:00 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202401/119686_152120_2844_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['AI 붐' 선도한 마이크로소프트, 시장 예상치 상회하는 호실적 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=119685</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=119685</guid>
-            <pubDate>Wed, 31 Jan 2024 07:23:00 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202401/119685_152119_2236_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[MMORPG '롬', 2월 27일 글로벌 서비스 정식 출시...캐릭터명 선점 이벤트 진행 (테크M ─ 콘텐츠)]]></title>
@@ -504,6 +504,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202401/119385_151612_4253_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[테크M 이슈] 네이버-카카오 블록체인 합병 투표 연기...이유는 (테크M ─ 인베스트먼트)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=119705</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=119705</guid>
+            <pubDate>Wed, 31 Jan 2024 00:25:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202401/119705_152143_1747_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[크립토 브리핑] 6000만원 넘보는 비트코인...상승세 이어갈까 (테크M ─ 인베스트먼트)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=119691</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=119691</guid>
@@ -608,14 +616,6 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202401/119509_151832_3854_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[테크M 리포트] 분기 흑자 이뤄낸 LG디스플레이, 증권가 전망은 "상저하고" (테크M ─ 인베스트먼트)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=119494</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=119494</guid>
-            <pubDate>Thu, 25 Jan 2024 07:15:48 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202401/119494_151787_3914_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[LG, 설 앞두고 협력사 납품대금 1조2500억원 조기 지급 (테크M ─ 피플)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=119611</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=119611</guid>
@@ -627,7 +627,7 @@
             <title><![CDATA[[부고] 이도경(더불어민주당 이상헌 의원실 보좌관)씨 부친상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Wed, 31 Jan 2024 03:17:03 GMT</pubDate>
+            <pubDate>Wed, 31 Jan 2024 04:19:10 GMT</pubDate>
             <content:encoded><![CDATA[임경호 기자]]></content:encoded>
         </item>
         <item>
@@ -724,6 +724,14 @@
             <pubDate>Tue, 16 Jan 2024 11:38:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202401/119032_151012_447_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[현대백화점, 판교점서 NBA 75주년 전시…MJ 운동화도 '눈길' (테크M ─ 라이프)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=119704</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=119704</guid>
+            <pubDate>Wed, 31 Jan 2024 11:56:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202401/119704_152142_5636_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[커뮤니티·완벽주의·스핀오프...와디즈가 주목한 올해 6대 펀딩 트렌드는? (테크M ─ 라이프)]]></title>
@@ -828,14 +836,6 @@
             <pubDate>Wed, 24 Jan 2024 10:31:00 GMT</pubDate>
             <content:encoded><![CDATA[임경호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202401/119399_151643_5959_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[농심 신라면, 2년 연속 매출 1조원 넘어섰다 (테크M ─ 라이프)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=119392</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=119392</guid>
-            <pubDate>Wed, 24 Jan 2024 09:06:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202401/119392_151637_642_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[글로벌] 화성 헬기 '인저뉴어티', 3년 만에 임무 종료...날개 파손 때문 (테크M ─ 리포트)]]></title>

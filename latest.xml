@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 Jan 2024 03:18:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Jan 2024 04:20:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[테크M 이슈] 네이버-카카오 블록체인 합병 투표 연기...이유는]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=119705</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=119705</guid>
+            <pubDate>Wed, 31 Jan 2024 00:25:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202401/119705_152143_1747_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[현대백화점, 판교점서 NBA 75주년 전시…MJ 운동화도 '눈길']]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=119704</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 31 Jan 2024 08:30:00 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202401/119686_152120_2844_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['AI 붐' 선도한 마이크로소프트, 시장 예상치 상회하는 호실적]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=119685</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=119685</guid>
-            <pubDate>Wed, 31 Jan 2024 07:23:00 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202401/119685_152119_2236_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
