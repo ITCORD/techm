@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 Jan 2024 09:17:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Jan 2024 10:17:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[신년특집 게임코인TV] 420억 투자 받은 이스크라...게임사도 주목하는 블록체인 프로젝트]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=119739</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=119739</guid>
+            <pubDate>Wed, 31 Jan 2024 10:17:44 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202401/119739_152210_444_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] BPMG, 영화 '소풍' 개봉기념으로 NFT 발행 이벤트 개최]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=119727</link>
@@ -110,14 +118,6 @@
             <pubDate>Fri, 19 Jan 2024 06:23:04 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202401/119237_151362_88_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[신년특집 게임코인TV] 예상보다 활발한 활동 중?...네오위즈의 블록체인 프로젝트 인텔라X]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=119188</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=119188</guid>
-            <pubDate>Thu, 18 Jan 2024 15:19:53 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202401/119188_151292_1129_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
