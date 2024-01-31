@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 Jan 2024 06:21:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Jan 2024 07:16:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] BPMG, 영화 '소풍' 개봉기념으로 NFT 발행 이벤트 개최]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=119727</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=119727</guid>
+            <pubDate>Wed, 31 Jan 2024 07:16:15 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202401/119727_152176_406_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] LG전자 올레드 TV로 만나보는 'AI 아티스트 딘킨스' 신작 3종]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=119667</link>
@@ -110,14 +118,6 @@
             <pubDate>Thu, 18 Jan 2024 15:19:53 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202401/119188_151292_1129_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 카카오 '클레이튼' X 네이버 라인 '핀시아' 합친다, 신규 메인넷 출시에 관심 집중]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=119161</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=119161</guid>
-            <pubDate>Thu, 18 Jan 2024 07:17:20 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202401/119161_151238_549_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

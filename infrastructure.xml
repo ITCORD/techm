@@ -4,9 +4,17 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 Jan 2024 06:21:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Jan 2024 07:16:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성전기, 4분기 영업이익 1104억원…전년比 9% 증가]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=119726</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=119726</guid>
+            <pubDate>Wed, 31 Jan 2024 07:15:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202401/119726_152175_2057_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[갤럭시 S24 공식 출시...공시지원금은 그대로지만 '불법보조금'은 활개]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=119724</link>
@@ -110,14 +118,6 @@
             <pubDate>Wed, 31 Jan 2024 09:48:00 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202401/119689_152123_4549_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성전자, 4분기 D램 흑자전환…메모리 수요 회복 이어진다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=119688</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=119688</guid>
-            <pubDate>Wed, 31 Jan 2024 09:22:00 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202401/119688_152122_2126_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
