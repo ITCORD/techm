@@ -4,9 +4,33 @@
         <title>테크M ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Feb 2024 07:17:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Feb 2024 08:21:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[와디즈, 콘텐츠 전면 배치한 카테고리로 개편...펀딩 참여 영역 확대]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=119792</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=119792</guid>
+            <pubDate>Thu, 01 Feb 2024 08:20:34 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202402/119792_152291_3141_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SK스토아, '디지털 가상 조명 시스템' 자체 개발...운용비용 50% 절감]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=119791</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=119791</guid>
+            <pubDate>Thu, 01 Feb 2024 08:20:34 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202402/119791_152289_2834_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["쿠팡 갑질은 없었다" 쿠팡, 공정위 상대 불공정 소송서 '승소'...시정명령 무효화]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=119788</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=119788</guid>
+            <pubDate>Thu, 01 Feb 2024 08:20:34 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202402/119788_152286_2048_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[삼성스토어 스타필드 하남 모바일, 새단장 마치고 3일 오픈]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=119784</link>
@@ -94,30 +118,6 @@
             <pubDate>Tue, 30 Jan 2024 06:21:45 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202401/119665_152077_3955_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[테크M 트렌드] 쿠팡은 지방, 신세계는 수도권, 롯데는 해외로...'이마롯쿠' 차별화 경쟁]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=119653</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=119653</guid>
-            <pubDate>Tue, 30 Jan 2024 00:19:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202401/119653_152056_1748_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[카카오뱅크, "생성형 AI로 일기 써준다"...'오늘의 mini 일기' 이벤트 진행]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=119636</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=119636</guid>
-            <pubDate>Tue, 30 Jan 2024 10:43:00 GMT</pubDate>
-            <content:encoded><![CDATA[배수현 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202401/119636_152036_2828_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['라방' 내실다지는 이커머스 플랫폼...거품 덜고 '판매'와 '정보전달'에 집중]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=119599</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=119599</guid>
-            <pubDate>Mon, 29 Jan 2024 09:17:42 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202401/119599_151987_5635_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
