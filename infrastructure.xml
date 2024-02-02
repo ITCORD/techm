@@ -4,9 +4,17 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Feb 2024 02:23:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Feb 2024 03:19:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[KISIA, '시큐리티 아카데미' 교육생 모집…"청년 보안 인재 육성"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=119833</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=119833</guid>
+            <pubDate>Fri, 02 Feb 2024 11:43:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202402/119833_152356_4242_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아마존, 연말 특수·비용 절감 효과로 4분기 '어닝 서프라이즈']]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=119811</link>
@@ -110,14 +118,6 @@
             <pubDate>Thu, 01 Feb 2024 11:20:00 GMT</pubDate>
             <content:encoded><![CDATA[조성준 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202402/119758_152315_3752_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[안랩, 총판 및 공인 파트너 대상 '파트너데이 2024' 개최]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=119759</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=119759</guid>
-            <pubDate>Thu, 01 Feb 2024 11:12:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202402/119759_152237_1210_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
