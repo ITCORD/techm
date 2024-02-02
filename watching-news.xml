@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Feb 2024 08:20:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Feb 2024 09:18:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[신년특집 게임코인TV] 블록체인 게임을 한국에서 즐긴다?..."퍼플레이면 가능해요"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=119858</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=119858</guid>
+            <pubDate>Fri, 02 Feb 2024 09:18:19 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202402/119858_152414_112_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[신년특집 게임코인TV] 파트너십 중심으로 운용되는 하바...2024년 행보가 궁금하다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=119807</link>
@@ -110,14 +118,6 @@
             <pubDate>Tue, 23 Jan 2024 07:19:27 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202401/119372_151584_1541_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] NHN클라우드 'AI 얼굴인식 솔루션' 출입인증 수단으로 활용중]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=119331</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=119331</guid>
-            <pubDate>Mon, 22 Jan 2024 08:23:08 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202401/119331_151521_1536_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
