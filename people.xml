@@ -4,9 +4,17 @@
         <title>테크M ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Feb 2024 05:18:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Feb 2024 06:21:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[LG전자, 느린 학습자 위한 '쉬운 글 도서' 세탁기·전자레인지편 발행]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=120072</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=120072</guid>
+            <pubDate>Wed, 07 Feb 2024 06:20:22 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202402/120072_152747_5513_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['착한기업' 농심, 백혈병 소아암 환아 위해 2억 현금·물품 기부]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=119968</link>
@@ -83,7 +91,7 @@
             <title><![CDATA[[부고] 이도경(더불어민주당 이상헌 의원실 보좌관)씨 부친상]]></title>
             <link>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN5&amp;view_type=sm</link>
             <guid>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN5&amp;view_type=sm</guid>
-            <pubDate>Wed, 07 Feb 2024 05:17:22 GMT</pubDate>
+            <pubDate>Wed, 07 Feb 2024 06:20:22 GMT</pubDate>
             <content:encoded><![CDATA[임경호 기자]]></content:encoded>
         </item>
         <item>
@@ -109,14 +117,6 @@
             <pubDate>Fri, 26 Jan 2024 07:14:43 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202401/119527_151872_4148_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[야놀자 '구글' 출신 장정식 최고기술책임자 선임]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=119280</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=119280</guid>
-            <pubDate>Mon, 22 Jan 2024 09:48:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202401/119280_151462_4738_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
