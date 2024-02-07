@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Feb 2024 11:16:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Feb 2024 12:28:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[게임코인TV] 탈중앙화 외친 클레이튼-핀시아...합병 투표 연기는 옳은 선택일까]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=120088</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=120088</guid>
+            <pubDate>Wed, 07 Feb 2024 12:28:40 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202402/120088_152785_4814_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 기업용 생성형AI에 주목하라 '직무 맞춤형 서비스부터 자동화 프로세스까지']]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=120071</link>
@@ -110,14 +118,6 @@
             <pubDate>Fri, 26 Jan 2024 08:20:37 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202401/119548_151877_3141_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[신년 특집 게임코인TV] '보라'는 요즘 뭐해요?..."골프 NFT 등 할 일은 하고 있다"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=119452</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=119452</guid>
-            <pubDate>Thu, 25 Jan 2024 09:18:22 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202401/119452_151803_2016_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
