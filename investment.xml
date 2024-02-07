@@ -4,9 +4,17 @@
         <title>테크M ─ 인베스트먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Feb 2024 01:05:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Feb 2024 02:21:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[카카오뱅크 "올해 여신 전년 대비 20% 내외 성장할 것"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=120031</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=120031</guid>
+            <pubDate>Wed, 07 Feb 2024 10:39:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202402/120031_152683_345_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[업비트 이상거래탐지 시스템, 고객 자산 1200억원 지켰다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=120020</link>
@@ -110,14 +118,6 @@
             <pubDate>Mon, 05 Feb 2024 09:13:00 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202402/119881_152459_1029_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[크립토 주간 브리핑] 상승세 전환한 비트코인, 6000만원 돌파 넘본다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=119870</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=119870</guid>
-            <pubDate>Sat, 03 Feb 2024 11:27:00 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202402/119870_152434_4147_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
