@@ -4,9 +4,33 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Feb 2024 03:20:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Feb 2024 04:20:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[르세라핌, 3집 미니 기념 두 번째 팝업 금호동 오픈...앨범 테마가든·머치 쇼룸 등]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=120042</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=120042</guid>
+            <pubDate>Wed, 07 Feb 2024 04:18:28 GMT</pubDate>
+            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202402/120042_152700_4934_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[제4이통 스테이지엑스, 3년 후 매출 1조원 '흑자' 자신..."통신 혁신 딥테크 기업 발돋움"(종합)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=120045</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=120045</guid>
+            <pubDate>Wed, 07 Feb 2024 04:18:28 GMT</pubDate>
+            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202402/120045_152708_54_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[테크M 리포트] 새 성장엔진 'AI' 장착한 더존비즈온, 올해도 역대 최대 실적 노린다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=120044</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=120044</guid>
+            <pubDate>Wed, 07 Feb 2024 00:44:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202402/120044_152702_392_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[보안 전문기업 소프트캠프 '2024 파트너데이' 개최]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=120043</link>
@@ -142,30 +166,6 @@
             <pubDate>Wed, 07 Feb 2024 10:12:00 GMT</pubDate>
             <content:encoded><![CDATA[임경호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202402/120014_152679_1152_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["의료 분야에도 AI를 일상적으로"…과기정통부, 의료·심리상담 AI 확산 추진]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=120018</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=120018</guid>
-            <pubDate>Wed, 07 Feb 2024 10:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202402/120018_152670_846_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["기술·혁신 기반의 새로운 테크 통신사 될 것"…제4이통 출사표 던진 스테이지엑스]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=120021</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=120021</guid>
-            <pubDate>Wed, 07 Feb 2024 10:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202402/120021_152672_2242_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[카카오 자회사 디케이테크인, 한국그린데이터와 그린 스마트시티 구축 나선다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=120025</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=120025</guid>
-            <pubDate>Wed, 07 Feb 2024 09:42:00 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202402/120025_152675_3838_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
