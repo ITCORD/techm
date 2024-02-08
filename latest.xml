@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Feb 2024 03:18:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Feb 2024 04:21:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[디즈니, 에픽게임즈에 2억달러 투자...'디즈니 유니버스' 확장 예고]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=120122</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=120122</guid>
+            <pubDate>Thu, 08 Feb 2024 00:37:00 GMT</pubDate>
+            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202402/120122_152823_2635_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[지난해 역대 최대 매출 올린 통신3사...영업익 희비 갈렸지만 AI 한 목소리]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=120121</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 07 Feb 2024 11:13:11 GMT</pubDate>
             <content:encoded><![CDATA[임경호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202402/120100_152784_1039_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한샘, 지난해 흑자전환 성공...수익성 개선 본격화]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=120099</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=120099</guid>
-            <pubDate>Wed, 07 Feb 2024 10:16:41 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202402/120099_152783_5752_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
