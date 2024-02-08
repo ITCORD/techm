@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Feb 2024 21:18:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Feb 2024 22:16:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아는 문자도 다시 보자…갈수록 교묘해지는 명절 불청객 '스미싱' (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=120170</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=120170</guid>
+            <pubDate>Fri, 09 Feb 2024 07:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202402/120170_152899_1547_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[구글 AI 챗봇 '바드', '제미나이'로 재탄생...모바일 앱으로 사용성 확대 (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=120172</link>
@@ -160,14 +168,6 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202402/120149_152866_3633_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[초격차 입증한 넥슨, 연매출 4조 시대 눈앞...亞 선두 게임사로 발돋움(상보) (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=120148</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=120148</guid>
-            <pubDate>Thu, 08 Feb 2024 07:15:42 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202402/120148_152888_829_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA['디즈니의 꿈'은 잠시 안녕?...넥슨, AGBO 투자 손실 처리 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=120168</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=120168</guid>
@@ -280,6 +280,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202402/120126_152828_2848_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[아는 문자도 다시 보자…갈수록 교묘해지는 명절 불청객 '스미싱' (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=120170</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=120170</guid>
+            <pubDate>Fri, 09 Feb 2024 07:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202402/120170_152899_1547_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[카카오클라우드, CPU 사용률 순간 확장 가능한 '버스터블' 기능 선보여 (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=120132</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=120132</guid>
@@ -382,14 +390,6 @@
             <pubDate>Wed, 07 Feb 2024 11:53:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202402/120043_152701_5348_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["기술·혁신 기반의 새로운 테크 통신사 될 것"…제4이통 출사표 던진 스테이지엑스 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=120021</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=120021</guid>
-            <pubDate>Wed, 07 Feb 2024 10:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202402/120021_152672_2242_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[구글 AI 챗봇 '바드', '제미나이'로 재탄생...모바일 앱으로 사용성 확대 (테크M ─ 이노베이션)]]></title>
@@ -619,7 +619,7 @@
             <title><![CDATA[[부고] 유인상(CJ올리브네트웍스 대표이사)씨 부친상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Thu, 08 Feb 2024 21:17:03 GMT</pubDate>
+            <pubDate>Thu, 08 Feb 2024 22:15:12 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
         </item>
         <item>
@@ -706,7 +706,7 @@
             <title><![CDATA[[부고] 이도경(더불어민주당 이상헌 의원실 보좌관)씨 부친상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Thu, 08 Feb 2024 21:17:03 GMT</pubDate>
+            <pubDate>Thu, 08 Feb 2024 22:15:12 GMT</pubDate>
             <content:encoded><![CDATA[임경호 기자]]></content:encoded>
         </item>
         <item>
