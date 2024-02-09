@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Feb 2024 21:15:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Feb 2024 22:18:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[새해 새 스마트폰 살 때 알아야 할 것들…새내기를 위한 맞춤형 가이드]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=120179</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=120179</guid>
+            <pubDate>Sat, 10 Feb 2024 07:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202402/120179_152938_1626_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[귀성길부터 킬링타임·세뱃돈까지...설 연휴도 네이버·카카오와 함께]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=120174</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 08 Feb 2024 07:15:42 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202402/120157_152872_594_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[체인저 파트너사 '겜빗', 피스네트워크와 파트너십]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=120153</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=120153</guid>
-            <pubDate>Thu, 08 Feb 2024 07:15:42 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202402/120153_152870_4715_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
