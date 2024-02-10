@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 10 Feb 2024 11:14:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Feb 2024 12:27:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성전자 '갤럭시 워치' 기반 수면 무호흡 기능 美 FDA 승인 획득]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=120190</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=120190</guid>
+            <pubDate>Sat, 10 Feb 2024 12:25:34 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202402/120190_152963_3039_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[통신3사와 함께하는 설 연휴...영상·음악 콘텐츠부터 AI까지 풍성]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=120183</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 08 Feb 2024 15:15:33 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202402/120172_152933_4659_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['디즈니의 꿈'은 잠시 안녕?...넥슨, AGBO 투자 손실 처리]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=120168</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=120168</guid>
-            <pubDate>Thu, 08 Feb 2024 09:15:13 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202402/120168_152884_447_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
