@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 10 Feb 2024 03:18:24 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Feb 2024 04:21:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[통신3사와 함께하는 설 연휴...영상·음악 콘텐츠부터 AI까지 풍성 (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=120183</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=120183</guid>
+            <pubDate>Sat, 10 Feb 2024 00:30:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202402/120183_152950_3246_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[크립토 주간 브리핑] '명절빔'인가...7% 상승한 비트코인, 6300만원 돌파 (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=120187</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=120187</guid>
+            <pubDate>Sat, 10 Feb 2024 00:27:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202402/120187_152955_560_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[골프업계도 풍성한 설 동참..."설날 가족들과 모여 골프 치고 경품 받아가세요" (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=120158</link>
@@ -152,20 +168,12 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202402/120168_152884_447_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[폴리곤 떠난 '메이플스토리 유니버스 "로드맵 이상무, 자체 메인넷은 생각 없다" (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=120161</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=120161</guid>
-            <pubDate>Thu, 08 Feb 2024 09:15:13 GMT</pubDate>
+            <title><![CDATA[통신3사와 함께하는 설 연휴...영상·음악 콘텐츠부터 AI까지 풍성 (테크M ─ 콘텐츠)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=120183</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=120183</guid>
+            <pubDate>Sat, 10 Feb 2024 00:30:00 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202402/120161_152876_2938_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[넥슨, 중국-모바일 부진 속 지난해 4Q 아쉬운 실적...'던파 모바일'이 '만능키' 된다 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=120165</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=120165</guid>
-            <pubDate>Thu, 08 Feb 2024 09:15:13 GMT</pubDate>
-            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202402/120165_152883_135_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202402/120183_152950_3246_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[골프업계도 풍성한 설 동참..."설날 가족들과 모여 골프 치고 경품 받아가세요" (테크M ─ 콘텐츠)]]></title>
@@ -270,14 +278,6 @@
             <pubDate>Thu, 08 Feb 2024 07:15:42 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202402/120151_152869_4425_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[네이버, '2023 네이버 버그바운티 어워드' 시상식...총 보상 1억원 (테크M ─ 콘텐츠)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=120149</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=120149</guid>
-            <pubDate>Thu, 08 Feb 2024 07:15:42 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202402/120149_152866_3633_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[새해 새 스마트폰 살 때 알아야 할 것들…새내기를 위한 맞춤형 가이드 (테크M ─ 인프라)]]></title>
@@ -504,6 +504,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202402/119908_152495_628_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[크립토 주간 브리핑] '명절빔'인가...7% 상승한 비트코인, 6300만원 돌파 (테크M ─ 인베스트먼트)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=120187</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=120187</guid>
+            <pubDate>Sat, 10 Feb 2024 00:27:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202402/120187_152955_560_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[세뱃돈 못 받은 사람 모여라...가상자산 거래소서 설 선물·용돈 받자 (테크M ─ 인베스트먼트)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=120180</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=120180</guid>
@@ -608,18 +616,10 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202402/120133_152835_850_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[지난해 역대 최대 매출 올린 통신3사...영업익 희비 갈렸지만 AI 한 목소리 (테크M ─ 인베스트먼트)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=120121</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=120121</guid>
-            <pubDate>Thu, 08 Feb 2024 11:55:00 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202402/120121_152815_3242_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[부고] 유인상(CJ올리브네트웍스 대표이사)씨 부친상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Sat, 10 Feb 2024 03:17:32 GMT</pubDate>
+            <pubDate>Sat, 10 Feb 2024 04:20:09 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
         </item>
         <item>
@@ -706,7 +706,7 @@
             <title><![CDATA[[부고] 이도경(더불어민주당 이상헌 의원실 보좌관)씨 부친상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Sat, 10 Feb 2024 03:17:32 GMT</pubDate>
+            <pubDate>Sat, 10 Feb 2024 04:20:09 GMT</pubDate>
             <content:encoded><![CDATA[임경호 기자]]></content:encoded>
         </item>
         <item>
