@@ -4,9 +4,25 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Feb 2024 01:07:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Feb 2024 02:23:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[새학기 노트북 사러 가자…AI 노트북 살까, 게이밍 노트북 살까]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=120194</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=120194</guid>
+            <pubDate>Mon, 12 Feb 2024 11:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202402/120194_152977_2237_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[토스플레이스, '비상결제 모드' 도입...결제 안정성 강화]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=120200</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=120200</guid>
+            <pubDate>Mon, 12 Feb 2024 10:52:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202402/120200_152984_493_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['다시 글 읽는 사람들'...'엑스 대항마' 스레드 이용자 수 '껑충']]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=120102</link>
@@ -102,22 +118,6 @@
             <pubDate>Wed, 07 Feb 2024 06:19:47 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202402/120057_152720_1744_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[롯데정보통신, 관람객 호응에 국립부산과학관 자율주행셔틀 체험 특별 연장]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=120053</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=120053</guid>
-            <pubDate>Wed, 07 Feb 2024 06:19:47 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202402/120053_152716_731_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[불법 온라인 도박 정보로 위장한 악성코드…계좌번호·카드번호 털어간다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=120052</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=120052</guid>
-            <pubDate>Wed, 07 Feb 2024 06:19:47 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202402/120052_152715_343_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
