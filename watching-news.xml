@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Feb 2024 07:16:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Feb 2024 08:22:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] LG전자 X 업스테이지가 구현할 '온디바이스 AI'기술에 시선 집중]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=120240</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=120240</guid>
+            <pubDate>Tue, 13 Feb 2024 08:22:30 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202402/120240_153044_446_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] KT 서비스가 말썽이라면...'AI 비대면 자가조치 솔루션' 적극 활용해 보세요]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=120143</link>
@@ -110,14 +118,6 @@
             <pubDate>Mon, 29 Jan 2024 06:21:24 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202401/119606_151992_4424_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[신년특집 게임코인TV] "엑스플라도 할 일은 하고 있다"...2024년은 뜨거운 프로젝트 되길]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=119566</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=119566</guid>
-            <pubDate>Mon, 29 Jan 2024 04:20:06 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202401/119566_151984_534_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
