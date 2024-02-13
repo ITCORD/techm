@@ -4,9 +4,17 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Feb 2024 03:20:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Feb 2024 04:20:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[테크M 리포트] 삼성전자 '온디바이스 AI' 시대 주도…"20억개 기기 연결 통해 AI 생태계 구축"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=120233</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=120233</guid>
+            <pubDate>Tue, 13 Feb 2024 11:44:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202402/120233_153033_4310_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[라온시큐어, 원패스 활용해 DGB대구은행 '개인화된 인증 시스템' 구축]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=120226</link>
@@ -110,14 +118,6 @@
             <pubDate>Fri, 09 Feb 2024 09:49:00 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202402/120177_152912_4052_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아는 문자도 다시 보자…갈수록 교묘해지는 명절 불청객 '스미싱']]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=120170</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=120170</guid>
-            <pubDate>Fri, 09 Feb 2024 07:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202402/120170_152899_1547_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
