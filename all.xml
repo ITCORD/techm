@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Feb 2024 02:22:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Feb 2024 03:20:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[테크M 리포트] 삼성전자 '온디바이스 AI' 시대 주도…"20억개 기기 연결 통해 AI 생태계 구축" (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=120233</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=120233</guid>
+            <pubDate>Tue, 13 Feb 2024 11:44:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202402/120233_153033_4310_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[플레이댑, 동일 해커에 또 당했나...'플라' 15억9000만개 추가 발행 (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=120232</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=120232</guid>
+            <pubDate>Tue, 13 Feb 2024 11:30:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202402/120232_153031_1834_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[라온시큐어, 원패스 활용해 DGB대구은행 '개인화된 인증 시스템' 구축 (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=120226</link>
@@ -150,22 +166,6 @@
             <pubDate>Tue, 13 Feb 2024 10:32:00 GMT</pubDate>
             <content:encoded><![CDATA[임경호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202402/120212_153007_1655_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[플레이댑 "해킹으로 400억원 규모 코인 추가 발행...해커와 협상 중" (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=120211</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=120211</guid>
-            <pubDate>Tue, 13 Feb 2024 10:30:00 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202402/120211_153009_2341_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영화 감상은 역시 'LG 올레드 TV'…영상 전문가들 극찬 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=120214</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=120214</guid>
-            <pubDate>Tue, 13 Feb 2024 10:26:00 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202402/120214_153010_251_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[카카오게임즈 '에버소울', 17일부터 '제3회 일러스타 페스' 참가 (테크M ─ 콘텐츠)]]></title>
@@ -504,6 +504,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202402/119909_152498_1348_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[플레이댑, 동일 해커에 또 당했나...'플라' 15억9000만개 추가 발행 (테크M ─ 인베스트먼트)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=120232</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=120232</guid>
+            <pubDate>Tue, 13 Feb 2024 11:30:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202402/120232_153031_1834_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[플레이댑 "해킹으로 400억원 규모 코인 추가 발행...해커와 협상 중" (테크M ─ 인베스트먼트)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=120211</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=120211</guid>
@@ -608,18 +616,10 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202402/120150_152867_3927_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[호실적 거둔 넥슨게임즈, 지난해 영업익 120억...1년새 133% 껑충 (테크M ─ 인베스트먼트)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=120152</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=120152</guid>
-            <pubDate>Thu, 08 Feb 2024 07:15:42 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202402/120152_152868_4416_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[부고] 유인상(CJ올리브네트웍스 대표이사)씨 부친상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Tue, 13 Feb 2024 02:21:32 GMT</pubDate>
+            <pubDate>Tue, 13 Feb 2024 03:19:13 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
         </item>
         <item>
@@ -706,7 +706,7 @@
             <title><![CDATA[[부고] 이도경(더불어민주당 이상헌 의원실 보좌관)씨 부친상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Tue, 13 Feb 2024 02:21:32 GMT</pubDate>
+            <pubDate>Tue, 13 Feb 2024 03:19:13 GMT</pubDate>
             <content:encoded><![CDATA[임경호 기자]]></content:encoded>
         </item>
         <item>
