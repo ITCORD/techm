@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Feb 2024 04:20:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Feb 2024 05:17:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[FreeView] 작년에 팔린 스마트폰 4대 중 1대는 '아이폰'…애플은 어떻게 한국 시장에 스며들었나 (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=120295</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=120295</guid>
+            <pubDate>Wed, 14 Feb 2024 05:15:06 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202402/120295_153120_3420_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[컴투스 '서머너즈 워' 한일전 열린다...17·18일 국가대표 선발 (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=120293</link>
@@ -160,18 +168,10 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202402/120273_153095_2814_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[체인파트너스, 샘 올트먼의 '월드코인' 홍채 인식 기기 개발한다 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=120267</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=120267</guid>
-            <pubDate>Wed, 14 Feb 2024 10:27:00 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202402/120267_153092_1919_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[컴투스 '서머너즈 워' 한일전 열린다...17·18일 국가대표 선발 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=120293</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=120293</guid>
-            <pubDate>Wed, 14 Feb 2024 04:19:02 GMT</pubDate>
+            <pubDate>Wed, 14 Feb 2024 04:18:46 GMT</pubDate>
             <content:encoded><![CDATA[임경호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202402/120293_153117_4811_v150.jpg" length="0" type="image/jpg"/>
         </item>
@@ -280,6 +280,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202402/120262_153084_359_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[FreeView] 작년에 팔린 스마트폰 4대 중 1대는 '아이폰'…애플은 어떻게 한국 시장에 스며들었나 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=120295</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=120295</guid>
+            <pubDate>Wed, 14 Feb 2024 05:15:40 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202402/120295_153120_3420_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[MS, 올해 AI 트렌드로 '소형언어모델·멀티모달' 주목…"AI가 과학기술 혁신" (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=120284</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=120284</guid>
@@ -382,14 +390,6 @@
             <pubDate>Tue, 13 Feb 2024 11:09:00 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202402/120229_153029_848_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[빗썸, 멀티체인 입출금 지원 도입...수수료 부담 낮추고 처리속도 UP (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=120206</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=120206</guid>
-            <pubDate>Tue, 13 Feb 2024 09:49:00 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202402/120206_153003_480_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[패스트캠퍼스, 모든 강의에 AI 선생님 '캐미' 도입...24시간 1대1 답변 (테크M ─ 이노베이션)]]></title>
@@ -635,7 +635,7 @@
             <title><![CDATA[[부고] 유인상(CJ올리브네트웍스 대표이사)씨 부친상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Wed, 14 Feb 2024 04:20:00 GMT</pubDate>
+            <pubDate>Wed, 14 Feb 2024 05:16:21 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
         </item>
         <item>
@@ -722,7 +722,7 @@
             <title><![CDATA[[부고] 이도경(더불어민주당 이상헌 의원실 보좌관)씨 부친상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Wed, 14 Feb 2024 04:20:00 GMT</pubDate>
+            <pubDate>Wed, 14 Feb 2024 05:16:21 GMT</pubDate>
             <content:encoded><![CDATA[임경호 기자]]></content:encoded>
         </item>
         <item>
