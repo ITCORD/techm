@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Feb 2024 13:18:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Feb 2024 14:16:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[게임코인TV] K블록체인 '해킹'에 무방비...지난해부터 올해까지 무참히 털린 코인들]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=120310</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=120310</guid>
+            <pubDate>Wed, 14 Feb 2024 14:16:42 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202402/120310_153156_5037_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] LG전자 X 업스테이지가 구현할 '온디바이스 AI'기술에 시선 집중]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=120240</link>
@@ -110,14 +118,6 @@
             <pubDate>Tue, 30 Jan 2024 07:17:29 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202401/119667_152078_530_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 컴투스, 친숙한 IP를 활용한 글로벌 신작게임 3종 발표]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=119606</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=119606</guid>
-            <pubDate>Mon, 29 Jan 2024 06:21:24 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202401/119606_151992_4424_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
