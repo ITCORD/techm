@@ -4,9 +4,17 @@
         <title>테크M ─ 콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Feb 2024 08:20:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Feb 2024 09:19:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["OTT 요금도 정부 마음대로?'...유튜브-넷플릭스 대신 토종 OTT만 잡을라]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=120385</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=120385</guid>
+            <pubDate>Thu, 15 Feb 2024 09:18:09 GMT</pubDate>
+            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202402/120385_153278_5728_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[빗썸 부리또 월렛, 디스커버피드와 맞손...블록체인 대중화 위해 힘 모은다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=120387</link>
@@ -53,7 +61,7 @@
             <guid>https://www.techm.kr/news/articleView.html?idxno=120332</guid>
             <pubDate>Thu, 15 Feb 2024 00:08:00 GMT</pubDate>
             <content:encoded><![CDATA[임경호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202402/120332_153199_157_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202402/120332_153285_217_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[KT DS, 감염병 대응 위한 '방역통합정보시스템' 구축]]></title>
@@ -110,14 +118,6 @@
             <pubDate>Thu, 15 Feb 2024 09:54:00 GMT</pubDate>
             <content:encoded><![CDATA[조성준 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202402/120331_153174_5315_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[토스, '버그바운티 챌린지' 상시 운영한다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=120328</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=120328</guid>
-            <pubDate>Thu, 15 Feb 2024 09:53:00 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202402/120328_153172_4326_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
