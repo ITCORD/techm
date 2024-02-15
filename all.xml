@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Feb 2024 13:19:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Feb 2024 14:15:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[게임코인TV] 플레이댑-오지스도 털렸다...해킹에 무방비인 K 블록체인 (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=120393</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=120393</guid>
+            <pubDate>Thu, 15 Feb 2024 14:13:58 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202402/120393_153289_1814_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[가봤다] 2024년 FW 트렌드가 궁금해?...'라떼워킹맘'이 "무신사 가서 미리보고 왔어요" (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=120379</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 15 Feb 2024 07:13:46 GMT</pubDate>
             <content:encoded><![CDATA[조성준 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202402/120371_153234_3648_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국인터넷신문협회, 공정위에 포털 불공정 약관심사 청구 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=120369</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=120369</guid>
-            <pubDate>Thu, 15 Feb 2024 07:13:46 GMT</pubDate>
-            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202402/120369_153233_3050_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[가봤다] 2024년 FW 트렌드가 궁금해?...'라떼워킹맘'이 "무신사 가서 미리보고 왔어요" (테크M ─ 콘텐츠)]]></title>
@@ -643,7 +643,7 @@
             <title><![CDATA[[부고] 유인상(CJ올리브네트웍스 대표이사)씨 부친상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Thu, 15 Feb 2024 13:18:13 GMT</pubDate>
+            <pubDate>Thu, 15 Feb 2024 14:15:01 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
         </item>
         <item>
@@ -951,6 +951,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202402/120002_152636_5629_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[게임코인TV] 플레이댑-오지스도 털렸다...해킹에 무방비인 K 블록체인 (테크M ─ 보는 뉴스)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=120393</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=120393</guid>
+            <pubDate>Thu, 15 Feb 2024 14:15:43 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202402/120393_153289_1814_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[카드뉴스] 새학기 맞이에 한창인 KT, 랑톡에 'AI통화리포트' 서비스 제공한다 (테크M ─ 보는 뉴스)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=120362</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=120362</guid>
@@ -1053,14 +1061,6 @@
             <pubDate>Wed, 31 Jan 2024 10:15:37 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202401/119739_152210_444_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] BPMG, 영화 '소풍' 개봉기념으로 NFT 발행 이벤트 개최 (테크M ─ 보는 뉴스)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=119727</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=119727</guid>
-            <pubDate>Wed, 31 Jan 2024 07:14:32 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202401/119727_152176_406_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
