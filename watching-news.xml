@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Feb 2024 07:15:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Feb 2024 08:20:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 새학기 맞이에 한창인 KT, 랑톡에 'AI통화리포트' 서비스 제공한다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=120362</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=120362</guid>
+            <pubDate>Thu, 15 Feb 2024 08:20:47 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202402/120362_153213_3812_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[게임코인TV] K블록체인 '해킹'에 무방비...지난해부터 올해까지 무참히 털린 코인들]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=120310</link>
@@ -110,14 +118,6 @@
             <pubDate>Wed, 31 Jan 2024 07:16:15 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202401/119727_152176_406_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] LG전자 올레드 TV로 만나보는 'AI 아티스트 딘킨스' 신작 3종]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=119667</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=119667</guid>
-            <pubDate>Tue, 30 Jan 2024 07:17:29 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202401/119667_152078_530_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
