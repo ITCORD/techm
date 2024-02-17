@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 17 Feb 2024 21:15:08 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Feb 2024 22:17:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[토스 IPO의 핵심 키 '토스뱅크'...케이뱅크 넘어 은행판 흔든다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=120426</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=120426</guid>
+            <pubDate>Sun, 18 Feb 2024 06:15:00 GMT</pubDate>
+            <content:encoded><![CDATA[장태훈 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202402/120426_153330_1249_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["우리도 고객이다멍"...통신3사, '펫테크' 앞세워 반려인 잡는다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=120361</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 16 Feb 2024 06:19:37 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202402/120437_153358_5813_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[테크M 이슈] 뛰는 구글에 나는 오픈AI…AI 모델 경쟁 불 붙었다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=120435</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=120435</guid>
-            <pubDate>Fri, 16 Feb 2024 06:19:37 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202402/120435_153388_2928_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

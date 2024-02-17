@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 17 Feb 2024 21:15:08 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Feb 2024 22:17:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[토스 IPO의 핵심 키 '토스뱅크'...케이뱅크 넘어 은행판 흔든다 (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=120426</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=120426</guid>
+            <pubDate>Sun, 18 Feb 2024 06:15:00 GMT</pubDate>
+            <content:encoded><![CDATA[장태훈 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202402/120426_153330_1249_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["우리도 고객이다멍"...통신3사, '펫테크' 앞세워 반려인 잡는다 (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=120361</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 16 Feb 2024 06:19:37 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202402/120437_153358_5813_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[테크M 이슈] 뛰는 구글에 나는 오픈AI…AI 모델 경쟁 불 붙었다 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=120435</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=120435</guid>
-            <pubDate>Fri, 16 Feb 2024 06:19:37 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202402/120435_153388_2928_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[플레이토즈 '팸', 위믹스 NFT 활동 지수 1위 (테크M ─ 콘텐츠)]]></title>
@@ -504,6 +504,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202402/120249_153063_4943_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[토스 IPO의 핵심 키 '토스뱅크'...케이뱅크 넘어 은행판 흔든다 (테크M ─ 인베스트먼트)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=120426</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=120426</guid>
+            <pubDate>Sun, 18 Feb 2024 06:15:00 GMT</pubDate>
+            <content:encoded><![CDATA[장태훈 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202402/120426_153330_1249_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[크립토 주간 브리핑] 기관 자금 유입 다음은 '반감기'...비트코인 1주일새 13%' 껑충' (테크M ─ 인베스트먼트)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=120452</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=120452</guid>
@@ -608,14 +616,6 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202402/120319_153164_5035_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[토스증권, 지난해 순이익 15.3억원…출범 3년새 연간 흑자 달성 (테크M ─ 인베스트먼트)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=120318</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=120318</guid>
-            <pubDate>Thu, 15 Feb 2024 08:46:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202402/120318_153163_4657_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[니콘이미징코리아, 조류촬영 가이드북 판매수익금 기부 (테크M ─ 피플)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=120438</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=120438</guid>
@@ -651,7 +651,7 @@
             <title><![CDATA[[부고] 유인상(CJ올리브네트웍스 대표이사)씨 부친상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Sat, 17 Feb 2024 21:14:17 GMT</pubDate>
+            <pubDate>Sat, 17 Feb 2024 22:16:55 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
         </item>
         <item>
