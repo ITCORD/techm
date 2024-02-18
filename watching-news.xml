@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 18 Feb 2024 05:15:41 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Feb 2024 06:20:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[게임코인TV] K블록체인 업계의 딜레마, 모든 스타트업의 딜레마?...해킹은 왜 반복될까]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=120464</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=120464</guid>
+            <pubDate>Sun, 18 Feb 2024 06:20:42 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202402/120464_153418_1550_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 초대형 MMORPG 온다...넷마블, '아스달 연대기: 세 개의 세력' 오는 4월 출시]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=120436</link>
@@ -110,14 +118,6 @@
             <pubDate>Thu, 01 Feb 2024 15:17:20 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202402/119807_152323_5112_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] LG CNS, AI 코딩에 최적화된 LLM 개발 "개인정보 유출 문제까지 해결했다"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=119774</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=119774</guid>
-            <pubDate>Thu, 01 Feb 2024 08:21:07 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202402/119774_152259_1424_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
