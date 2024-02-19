@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Feb 2024 04:20:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Feb 2024 05:18:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[네이버클라우드, 한수원 특화 생성형 AI 구축 나선다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=120499</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=120499</guid>
+            <pubDate>Mon, 19 Feb 2024 05:14:59 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202402/120499_153473_235_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[지난해 4분기 랜섬웨어 공격 65.4% 늘어…'챗GPT' 악용에 '삼중협박'까지]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=120498</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 19 Feb 2024 10:25:00 GMT</pubDate>
             <content:encoded><![CDATA[김소은 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202402/120475_153444_423_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[안랩, 임직원 자녀 대상 '미래상상 코딩캠프' 성료]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=120474</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=120474</guid>
-            <pubDate>Mon, 19 Feb 2024 10:22:00 GMT</pubDate>
-            <content:encoded><![CDATA[김소은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202402/120474_153442_5637_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
