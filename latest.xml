@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Feb 2024 14:17:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Feb 2024 15:17:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김서준 해시드 대표가 GIST 졸업생에게 건넨 조언..."좋은 우연의 표면적을 넓혀라"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=120522</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=120522</guid>
+            <pubDate>Mon, 19 Feb 2024 15:15:58 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202402/120522_153525_299_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[1주일 앞으로 다가온 MWC 2024...최대 화두는 'AI']]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=120518</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 19 Feb 2024 05:14:59 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202402/120499_153473_235_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지난해 4분기 랜섬웨어 공격 65.4% 늘어…'챗GPT' 악용에 '삼중협박'까지]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=120498</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=120498</guid>
-            <pubDate>Mon, 19 Feb 2024 04:18:13 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202402/120498_153472_47_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

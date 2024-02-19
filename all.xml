@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Feb 2024 14:17:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Feb 2024 15:17:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김서준 해시드 대표가 GIST 졸업생에게 건넨 조언..."좋은 우연의 표면적을 넓혀라" (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=120522</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=120522</guid>
+            <pubDate>Mon, 19 Feb 2024 15:15:58 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202402/120522_153525_299_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[1주일 앞으로 다가온 MWC 2024...최대 화두는 'AI' (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=120518</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 19 Feb 2024 05:14:59 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202402/120499_153473_235_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지난해 4분기 랜섬웨어 공격 65.4% 늘어…'챗GPT' 악용에 '삼중협박'까지 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=120498</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=120498</guid>
-            <pubDate>Mon, 19 Feb 2024 04:18:13 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202402/120498_153472_47_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["누구나 방송 하세요" 네이버, '치지직' 방송 권한 개방...트위치 철수 'D-8' (테크M ─ 콘텐츠)]]></title>
@@ -616,6 +616,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202402/120374_153237_4358_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[김서준 해시드 대표가 GIST 졸업생에게 건넨 조언..."좋은 우연의 표면적을 넓혀라" (테크M ─ 피플)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=120522</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=120522</guid>
+            <pubDate>Mon, 19 Feb 2024 15:16:59 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202402/120522_153525_299_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[e스포츠人] 용의 해, 날아오를 준비 마친 용띠 프로게이머 KT '표식' 홍창현 (테크M ─ 피플)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=120468</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=120468</guid>
@@ -659,7 +667,7 @@
             <title><![CDATA[[부고] 유인상(CJ올리브네트웍스 대표이사)씨 부친상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Mon, 19 Feb 2024 14:17:06 GMT</pubDate>
+            <pubDate>Mon, 19 Feb 2024 15:16:59 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
         </item>
         <item>
@@ -717,14 +725,6 @@
             <pubDate>Fri, 02 Feb 2024 10:16:20 GMT</pubDate>
             <content:encoded><![CDATA[조성준 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202402/119863_152417_337_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[줌인터넷, 김남현 대표 선임...전문성 강화 위해 각자 대표 체제로 전환 (테크M ─ 피플)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=119830</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=119830</guid>
-            <pubDate>Fri, 02 Feb 2024 11:13:00 GMT</pubDate>
-            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202402/119830_152347_1322_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[노조라 블랙리스트? 알고보니 동료 뇌진탕...쿠팡 "직원 보호 안전장치 무력화 시도" (테크M ─ 라이프)]]></title>
