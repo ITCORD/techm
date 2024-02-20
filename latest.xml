@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Feb 2024 22:16:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Feb 2024 23:16:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[기자수첩] MS오피스 공세에 토종 소프트웨어 자존심 지키는 한컴]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=120573</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=120573</guid>
+            <pubDate>Wed, 21 Feb 2024 08:07:00 GMT</pubDate>
+            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202402/120573_153623_2640_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[써봤다] 5가지 모드 '트랜스포머' 변신…에이수스 듀얼스크린 노트북 '젠북 듀오']]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=120563</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 20 Feb 2024 06:22:15 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202402/120553_153560_2042_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["요금 내려라, 지원금 올려라, OTT 결합요금제 내라"...'만만한' 통신사는 웁니다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=120548</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=120548</guid>
-            <pubDate>Tue, 20 Feb 2024 06:22:15 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202402/120548_153612_5059_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
