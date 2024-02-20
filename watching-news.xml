@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Feb 2024 01:05:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Feb 2024 02:21:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] AI에 주목하는 통신3사 'MWC 2024'로 간다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=120512</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=120512</guid>
+            <pubDate>Tue, 20 Feb 2024 10:20:00 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202402/120512_153492_2858_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[게임코인TV] K블록체인 업계의 딜레마, 모든 스타트업의 딜레마?...해킹은 왜 반복될까]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=120464</link>
@@ -110,14 +118,6 @@
             <pubDate>Fri, 02 Feb 2024 09:18:19 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202402/119858_152414_112_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[신년특집 게임코인TV] 파트너십 중심으로 운용되는 하바...2024년 행보가 궁금하다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=119807</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=119807</guid>
-            <pubDate>Thu, 01 Feb 2024 15:17:20 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202402/119807_152323_5112_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
