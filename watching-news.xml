@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Feb 2024 06:24:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Feb 2024 07:16:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 위메이드 '위퍼블릭'으로 투명한 모임과 후원 추진해보자]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=120562</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=120562</guid>
+            <pubDate>Tue, 20 Feb 2024 07:16:51 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202402/120562_153575_3138_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] AI에 주목하는 통신3사 'MWC 2024'로 간다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=120512</link>
@@ -110,14 +118,6 @@
             <pubDate>Mon, 05 Feb 2024 07:17:16 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202402/119921_152521_549_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[신년특집 게임코인TV] 블록체인 게임을 한국에서 즐긴다?..."퍼플레이면 가능해요"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=119858</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=119858</guid>
-            <pubDate>Fri, 02 Feb 2024 09:18:19 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202402/119858_152414_112_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
