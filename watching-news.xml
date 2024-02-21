@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 21 Feb 2024 13:18:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Feb 2024 14:16:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[게임코인TV] 쟁글 블록체인 파운데이션 위크 1편...아발란체]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=120624</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=120624</guid>
+            <pubDate>Wed, 21 Feb 2024 14:16:14 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202402/120624_153712_5955_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] LG전자, 에어컨 실시간 모니터링 솔루션에 'AI 고장예측' 기능 추가했다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=120616</link>
@@ -110,14 +118,6 @@
             <pubDate>Tue, 06 Feb 2024 15:17:11 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202402/120011_152664_1758_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 루닛, '의료 AI와 금융의 융합' U-Bank 컨소시엄 참여한다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=119980</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=119980</guid>
-            <pubDate>Tue, 06 Feb 2024 09:17:42 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202402/119980_152603_444_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
