@@ -4,9 +4,17 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 21 Feb 2024 05:18:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Feb 2024 06:22:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김기태 SK하이닉스 부사장 "올해 HBM '완판'…속도전 승부수"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=120611</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=120611</guid>
+            <pubDate>Wed, 21 Feb 2024 06:20:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202402/120611_153676_2639_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[삼성전자 파운드리, Arm 손잡고 GAA 경쟁력 강화]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=120606</link>
@@ -110,14 +118,6 @@
             <pubDate>Tue, 20 Feb 2024 06:22:42 GMT</pubDate>
             <content:encoded><![CDATA[조성준 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202402/120554_153610_507_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지니언스, 2023년 역대 최대 매출…"올해 글로벌 시장 공략 가속"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=120555</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=120555</guid>
-            <pubDate>Tue, 20 Feb 2024 06:22:42 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202402/120555_153566_4253_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
