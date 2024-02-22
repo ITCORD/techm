@@ -4,9 +4,16 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Feb 2024 03:18:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Feb 2024 04:19:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[게임코인TV] 쟁글 블록체인 파운데이션 위크 2편...위믹스의 투명사회 플랫폼 '위퍼블릭']]></title>
+            <link>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN10&amp;view_type=sm</link>
+            <guid>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN10&amp;view_type=sm</guid>
+            <pubDate>Thu, 22 Feb 2024 00:49:00 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[게임코인TV] 쟁글 블록체인 파운데이션 위크 1편...아발란체]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=120624</link>
@@ -110,14 +117,6 @@
             <pubDate>Wed, 07 Feb 2024 06:21:05 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202402/120071_152736_537_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[게임코인TV] 핀시아 홀더들 뿔났다?...클레이튼-핀시아, 합병 투표 연기]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=120011</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=120011</guid>
-            <pubDate>Tue, 06 Feb 2024 15:17:11 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202402/120011_152664_1758_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
