@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 Feb 2024 02:22:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Feb 2024 03:17:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["챗GPT 이어 영상까지 AI로" 독주하는 오픈AI...韓 ICT 패러다임 전환 속도 (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=120723</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=120723</guid>
+            <pubDate>Fri, 23 Feb 2024 11:40:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202402/120723_153876_3912_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방통위, 트위치에 과징금 4억3500만원...시정명령 및 과태료 1500만 원 부과 (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=120722</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=120722</guid>
+            <pubDate>Fri, 23 Feb 2024 11:38:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202402/120722_153875_3515_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[파인더스에이아이, AI 무인 매장 후결제 특허 등록 (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=120714</link>
@@ -152,22 +168,6 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202402/120693_153842_651_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA["영화 한 편에 10분, 책 한 권에 20분"...'시성비' 요약본 콘텐츠가 뜬다 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=120671</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=120671</guid>
-            <pubDate>Thu, 22 Feb 2024 08:19:30 GMT</pubDate>
-            <content:encoded><![CDATA[배수현 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202402/120671_153844_727_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['류현진 돌아온다'...프로야구 개막 앞두고 야구게임팬심도 '두근두근' (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=120694</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=120694</guid>
-            <pubDate>Thu, 22 Feb 2024 08:19:30 GMT</pubDate>
-            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202402/120694_153853_3132_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[파인더스에이아이, AI 무인 매장 후결제 특허 등록 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=120714</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=120714</guid>
@@ -280,6 +280,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202402/120678_153797_275_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[방통위, 트위치에 과징금 4억3500만원...시정명령 및 과태료 1500만 원 부과 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=120722</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=120722</guid>
+            <pubDate>Fri, 23 Feb 2024 11:38:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202402/120722_153875_3515_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[쿠팡 블랙리스트 의혹에 민주노총-MBC 연일 뭇매...국민노조 "정치적 이용 중단해야" (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=120715</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=120715</guid>
@@ -384,12 +392,12 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202402/120658_153774_2334_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[삼성 추월 노리는 인텔 파운드리, 올 연말 1.8나노 공정 양산…"2027년 1.4나노 도전" (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=120656</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=120656</guid>
-            <pubDate>Thu, 22 Feb 2024 11:30:00 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202402/120656_153776_2812_v150.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA["챗GPT 이어 영상까지 AI로" 독주하는 오픈AI...韓 ICT 패러다임 전환 속도 (테크M ─ 이노베이션)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=120723</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=120723</guid>
+            <pubDate>Fri, 23 Feb 2024 11:40:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202402/120723_153876_3912_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[펄어비스, '검은사막 모바일' 컬래버 음원 수익 '사랑의달팽이'에 기부 (테크M ─ 이노베이션)]]></title>
@@ -494,14 +502,6 @@
             <pubDate>Mon, 19 Feb 2024 11:30:00 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202402/120492_153459_2852_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[공교육 혁신 나서는 클라썸, 교육부 '2024 질문하는 학교' 120개 선도학교 지원 (테크M ─ 이노베이션)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=120457</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=120457</guid>
-            <pubDate>Sat, 17 Feb 2024 11:35:00 GMT</pubDate>
-            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202402/120457_153404_358_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[SK스퀘어, 지난해 영업손실만 2.3조원...순손실도 '1.3조' (테크M ─ 인베스트먼트)]]></title>
@@ -691,7 +691,7 @@
             <title><![CDATA[[부고] 유인상(CJ올리브네트웍스 대표이사)씨 부친상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Fri, 23 Feb 2024 02:22:04 GMT</pubDate>
+            <pubDate>Fri, 23 Feb 2024 03:16:57 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
         </item>
         <item>
