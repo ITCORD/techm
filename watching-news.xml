@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 Feb 2024 07:17:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Feb 2024 08:21:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 삼성전자, 'AI 스크린 시대'를 위한 2024 TV 혁신기술 소개]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=120742</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=120742</guid>
+            <pubDate>Fri, 23 Feb 2024 08:21:28 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202402/120742_153897_3636_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[게임코인TV] 쟁글 블록체인 파운데이션 위크 2편...위믹스의 투명사회 플랫폼 '위퍼블릭']]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=120666</link>
@@ -110,14 +118,6 @@
             <pubDate>Wed, 07 Feb 2024 12:28:40 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202402/120088_152785_4814_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 기업용 생성형AI에 주목하라 '직무 맞춤형 서비스부터 자동화 프로세스까지']]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=120071</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=120071</guid>
-            <pubDate>Wed, 07 Feb 2024 06:21:05 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202402/120071_152736_537_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
