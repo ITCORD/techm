@@ -4,9 +4,17 @@
         <title>테크M ─ 콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 Feb 2024 11:15:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Feb 2024 12:29:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[과기정통부, 차관급 동시 교체…과학기술·R&D·AI·통신 정책 급물살]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=120756</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=120756</guid>
+            <pubDate>Fri, 23 Feb 2024 12:27:32 GMT</pubDate>
+            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202402/120756_153927_2029_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[스마일게이트, 오프라인 TCG '크로스카드: 에픽세븐' 출시]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=120754</link>
@@ -110,14 +118,6 @@
             <pubDate>Fri, 23 Feb 2024 10:32:00 GMT</pubDate>
             <content:encoded><![CDATA[임경호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202402/120705_153859_1520_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[KT "보이스피싱·금융사기 막는 무료 서비스 가입하세요"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=120706</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=120706</guid>
-            <pubDate>Fri, 23 Feb 2024 10:16:00 GMT</pubDate>
-            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202402/120706_153860_1551_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
