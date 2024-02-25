@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 25 Feb 2024 18:22:05 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Feb 2024 19:15:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MWC 24] 바르셀로나의 심장을 '갤럭시 AI'로 수놓은 삼성전자...몰려든 인파로 '인산인해' (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=120770</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=120770</guid>
+            <pubDate>Mon, 26 Feb 2024 03:24:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202402/120770_153987_4017_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[e스포츠人] '데프트'-'비디디'와 통산 100전 치른 '페이커' 이상혁 "나는 축복받은 사람" (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=120769</link>
@@ -141,7 +149,7 @@
             <guid>https://www.techm.kr/news/articleView.html?idxno=120756</guid>
             <pubDate>Fri, 23 Feb 2024 12:27:14 GMT</pubDate>
             <content:encoded><![CDATA[조성준 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202402/120756_153967_853_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202402/120756_153927_2029_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[스마일게이트, 오프라인 TCG '크로스카드: 에픽세븐' 출시 (테크M ─ 전체기사)]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 23 Feb 2024 09:14:59 GMT</pubDate>
             <content:encoded><![CDATA[임경호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202402/120752_153917_400_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[게임코인TV] 쟁글 블록체인 파운데이션 위크 3편...클시아(클레이튼+핀시아) (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=120753</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=120753</guid>
-            <pubDate>Fri, 23 Feb 2024 09:14:59 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202402/120753_153916_346_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[LCK 브리핑] KT에 완승 거둔 T1, 1위 자리 '굳건'...광동-브리온 경기는 '연기' (테크M ─ 콘텐츠)]]></title>
@@ -205,7 +205,7 @@
             <guid>https://www.techm.kr/news/articleView.html?idxno=120756</guid>
             <pubDate>Fri, 23 Feb 2024 12:27:14 GMT</pubDate>
             <content:encoded><![CDATA[조성준 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202402/120756_153967_853_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202402/120756_153927_2029_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[스마일게이트, 오프라인 TCG '크로스카드: 에픽세븐' 출시 (테크M ─ 콘텐츠)]]></title>
@@ -278,6 +278,14 @@
             <pubDate>Fri, 23 Feb 2024 05:15:24 GMT</pubDate>
             <content:encoded><![CDATA[임경호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202402/120727_153879_3222_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[MWC 24] 바르셀로나의 심장을 '갤럭시 AI'로 수놓은 삼성전자...몰려든 인파로 '인산인해' (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=120770</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=120770</guid>
+            <pubDate>Mon, 26 Feb 2024 03:24:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202402/120770_153987_4017_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[LG디스플레이 OLED 패널, 혁신적 화질에 '친환경'을 더하다 (테크M ─ 인프라)]]></title>
@@ -382,14 +390,6 @@
             <pubDate>Fri, 23 Feb 2024 10:46:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202402/120715_153868_4614_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이노그리드, 증권신고서 제출…3월 말 코스닥 상장 도전 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=120702</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=120702</guid>
-            <pubDate>Thu, 22 Feb 2024 10:15:57 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202402/120702_153856_1339_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[MWC 24] '개막 D-1'...통신3사부터 삼성전자·화웨이·에릭슨·구글까지 '통신 잔치' 열린다 (테크M ─ 이노베이션)]]></title>
@@ -699,7 +699,7 @@
             <title><![CDATA[[부고] 유인상(CJ올리브네트웍스 대표이사)씨 부친상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Sun, 25 Feb 2024 18:21:16 GMT</pubDate>
+            <pubDate>Sun, 25 Feb 2024 19:14:34 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
         </item>
         <item>
