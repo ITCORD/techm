@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 25 Feb 2024 22:16:36 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Feb 2024 23:17:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MWC 24] 하늘길 안전은  KT가 책임진다...UAM 운항 안전성 확보 기술 선봬 (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=120771</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=120771</guid>
+            <pubDate>Mon, 26 Feb 2024 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202402/120771_153988_4023_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[MWC 24] 바르셀로나의 심장을 '갤럭시 AI'로 수놓은 삼성전자...몰려든 인파로 '인산인해' (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=120770</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 23 Feb 2024 10:17:07 GMT</pubDate>
             <content:encoded><![CDATA[임경호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202402/120754_153919_73_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['저작권 침해' 논란 휩싸인 '롬', 예정대로 오는 27일 론칭...엔씨 "연구·개발 성과물 도용" (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=120752</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=120752</guid>
-            <pubDate>Fri, 23 Feb 2024 09:14:59 GMT</pubDate>
-            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202402/120752_153917_400_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[LCK 브리핑] KT에 완승 거둔 T1, 1위 자리 '굳건'...광동-브리온 경기는 '연기' (테크M ─ 콘텐츠)]]></title>
@@ -392,6 +392,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202402/120715_153868_4614_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[MWC 24] 하늘길 안전은  KT가 책임진다...UAM 운항 안전성 확보 기술 선봬 (테크M ─ 이노베이션)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=120771</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=120771</guid>
+            <pubDate>Mon, 26 Feb 2024 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202402/120771_153988_4023_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[MWC 24] '개막 D-1'...통신3사부터 삼성전자·화웨이·에릭슨·구글까지 '통신 잔치' 열린다 (테크M ─ 이노베이션)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=120761</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=120761</guid>
@@ -494,14 +502,6 @@
             <pubDate>Tue, 20 Feb 2024 10:01:00 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202402/120531_153537_4659_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[1주일 앞으로 다가온 MWC 2024...최대 화두는 'AI' (테크M ─ 이노베이션)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=120518</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=120518</guid>
-            <pubDate>Mon, 19 Feb 2024 08:20:13 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202402/120518_153513_566_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[크립토 주간 브리핑] 상승세 둔화된 비트코인...이더리움 홀로 5% '껑충' (테크M ─ 인베스트먼트)]]></title>
@@ -699,7 +699,7 @@
             <title><![CDATA[[부고] 유인상(CJ올리브네트웍스 대표이사)씨 부친상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Sun, 25 Feb 2024 22:15:47 GMT</pubDate>
+            <pubDate>Sun, 25 Feb 2024 23:16:34 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
         </item>
         <item>
