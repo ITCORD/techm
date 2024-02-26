@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Feb 2024 10:19:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Feb 2024 11:13:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MWC 24] 노태문 삼성전자 "갤럭시 링, 한번 충전하면 5일 이용 가능"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=120827</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=120827</guid>
+            <pubDate>Mon, 26 Feb 2024 11:11:40 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202402/120827_154072_324_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[MWC 24] 글로벌 통신사들의 축제 'MWC 24' 개막...'미래를 먼저 만나 보자']]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=120826</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 26 Feb 2024 06:20:25 GMT</pubDate>
             <content:encoded><![CDATA[조성준 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202402/120809_154031_1612_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[메가존클라우드, 서울대와 양자컴퓨터 공동연구 '맞손']]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=120804</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=120804</guid>
-            <pubDate>Mon, 26 Feb 2024 04:18:10 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202402/120804_154027_1351_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
