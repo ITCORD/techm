@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Feb 2024 15:18:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Feb 2024 16:21:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MWC 24] '알파고의 아버지' 데미스 하사비스 "5년 후 AI 기기는 모바일 아닐 것"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=120836</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=120836</guid>
+            <pubDate>Mon, 26 Feb 2024 16:19:29 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202402/120836_154092_5654_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[MWC 24] '하늘 길' 여는 KT, UAM 통신망 공개...현장 찾은 김영섭 CEO "파트너와 함께 성장"]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=120832</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 26 Feb 2024 06:20:25 GMT</pubDate>
             <content:encoded><![CDATA[김소은 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202402/120808_154030_5643_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오버데어, USDC 발행사 '서클'과 파트너십 체결]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=120806</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=120806</guid>
-            <pubDate>Mon, 26 Feb 2024 06:20:25 GMT</pubDate>
-            <content:encoded><![CDATA[김소은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202402/120806_154029_4929_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
