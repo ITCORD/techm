@@ -4,9 +4,17 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Feb 2024 05:17:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Feb 2024 06:23:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["뒤처지면 죽는다…그룹 디지털전환 바람에 IT서비스 계열사 실적 '호호']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=120812</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=120812</guid>
+            <pubDate>Mon, 26 Feb 2024 06:20:59 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202402/120812_154034_1219_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[메가존클라우드, 서울대와 양자컴퓨터 공동연구 '맞손']]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=120804</link>
@@ -110,14 +118,6 @@
             <pubDate>Sun, 25 Feb 2024 08:00:00 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202402/120760_153939_039_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[MWC 24] 김영섭 CEO는 GSMA 보드미팅·CTO는 기조연설...KT, MWC서 글로벌 행보 '속도']]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=120763</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=120763</guid>
-            <pubDate>Sun, 25 Feb 2024 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202402/120763_153944_4914_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
