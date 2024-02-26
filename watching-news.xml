@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Feb 2024 07:19:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Feb 2024 08:21:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 삼성전자, MWC2024에서 '갤럭시 AI' 체험공간 오픈]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=120813</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=120813</guid>
+            <pubDate>Mon, 26 Feb 2024 08:21:04 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202402/120813_154035_2223_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[게임코인TV] 쟁글 블록체인 파운데이션 위크 3편...클시아(클레이튼+핀시아)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=120753</link>
@@ -110,14 +118,6 @@
             <pubDate>Tue, 13 Feb 2024 08:22:30 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202402/120240_153044_446_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] KT 서비스가 말썽이라면...'AI 비대면 자가조치 솔루션' 적극 활용해 보세요]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=120143</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=120143</guid>
-            <pubDate>Thu, 08 Feb 2024 07:17:46 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202402/120143_152847_1214_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
