@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Feb 2024 03:18:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Feb 2024 04:20:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성전자, 'KBIS 2024'서 북미 시장 맞춤형 가전 선보여 (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=120866</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=120866</guid>
+            <pubDate>Tue, 27 Feb 2024 00:15:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202402/120866_154136_1431_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['2조 클럽' 하이브, 올해도 기대 만발...증권가 줄줄이 '러브콜' (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=120865</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 27 Feb 2024 09:21:00 GMT</pubDate>
             <content:encoded><![CDATA[조성준 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202402/120845_154109_2039_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[MWC 24] 하늘 택시에 '주파수 거울' RIS 제안한 KT "5G 주파수에서도 품질 2.5배 향상" (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=120841</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=120841</guid>
-            <pubDate>Tue, 27 Feb 2024 08:03:00 GMT</pubDate>
-            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202402/120841_154128_4851_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['2조 클럽' 하이브, 올해도 기대 만발...증권가 줄줄이 '러브콜' (테크M ─ 콘텐츠)]]></title>
@@ -715,7 +715,7 @@
             <title><![CDATA[[부고] 유인상(CJ올리브네트웍스 대표이사)씨 부친상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Tue, 27 Feb 2024 03:18:17 GMT</pubDate>
+            <pubDate>Tue, 27 Feb 2024 04:19:21 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
         </item>
         <item>
@@ -725,6 +725,14 @@
             <pubDate>Wed, 07 Feb 2024 06:19:18 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202402/120072_152747_5513_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[삼성전자, 'KBIS 2024'서 북미 시장 맞춤형 가전 선보여 (테크M ─ 라이프)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=120866</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=120866</guid>
+            <pubDate>Tue, 27 Feb 2024 00:15:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202402/120866_154136_1431_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[농심, 국가무형유산 이수자 지원 나선다...체험형 팝업·굿즈 개발 예정 (테크M ─ 라이프)]]></title>
@@ -829,14 +837,6 @@
             <pubDate>Fri, 23 Feb 2024 05:15:24 GMT</pubDate>
             <content:encoded><![CDATA[김소은 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202402/120732_153886_2322_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[11번가, 지난해 호실적 달성...'영업손실' 크게 줄였다 (테크M ─ 라이프)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=120708</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=120708</guid>
-            <pubDate>Fri, 23 Feb 2024 10:28:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202402/120708_153862_2824_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[글로벌] '오디세우스' 달 착륙 성공했다...민간 탐사선 최초 (테크M ─ 리포트)]]></title>
