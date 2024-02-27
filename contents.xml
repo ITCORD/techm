@@ -4,9 +4,17 @@
         <title>테크M ─ 콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Feb 2024 15:18:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Feb 2024 16:23:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MWC 24] SKT=AI...본 전시관부터 스타트업 전시관까지 AI 삼매경]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=120904</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=120904</guid>
+            <pubDate>Wed, 28 Feb 2024 01:04:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202402/120904_154189_4447_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[그라비티 게임 어라이즈, 3월 '도쿄 인디 게임 서밋 2024' 참가]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=120900</link>
@@ -110,14 +118,6 @@
             <pubDate>Tue, 27 Feb 2024 11:33:00 GMT</pubDate>
             <content:encoded><![CDATA[조성준 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202402/120863_154123_3236_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[네이버, 총선 기간 뉴스페이지에 지역 언론사 기사 제공 강화]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=120860</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=120860</guid>
-            <pubDate>Tue, 27 Feb 2024 10:59:00 GMT</pubDate>
-            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202402/120860_154121_5754_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
