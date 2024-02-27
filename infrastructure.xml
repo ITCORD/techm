@@ -4,9 +4,17 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Feb 2024 01:06:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Feb 2024 02:21:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성전자, 업계 최초 '36GB HBM3E' 개발 성공…고용량 HBM 시장 선점 나선다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=120859</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=120859</guid>
+            <pubDate>Tue, 27 Feb 2024 11:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202402/120859_154119_5159_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["한국에서는 하이퍼클로바X 제격"…오픈AI·구글 생성형 AI 제쳤다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=120846</link>
@@ -110,14 +118,6 @@
             <pubDate>Mon, 26 Feb 2024 10:49:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202402/120793_154010_495_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[CJ제일제당, 햇반 매출 1조 육박...역대 최대치 '기록']]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=120787</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=120787</guid>
-            <pubDate>Mon, 26 Feb 2024 10:24:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202402/120787_154004_2416_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
