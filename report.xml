@@ -4,9 +4,17 @@
         <title>테크M ─ 리포트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Feb 2024 07:18:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Feb 2024 08:21:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[글로벌] 구글 '제미나이' 이미지 기능 중단…유색인종 생성 오류]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=120895</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=120895</guid>
+            <pubDate>Tue, 27 Feb 2024 08:21:04 GMT</pubDate>
+            <content:encoded><![CDATA[김현기 대표]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202402/120895_154173_1742_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[글로벌] '오디세우스' 달 착륙 성공했다...민간 탐사선 최초]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=120749</link>
@@ -110,14 +118,6 @@
             <pubDate>Thu, 15 Feb 2024 08:20:33 GMT</pubDate>
             <content:encoded><![CDATA[김현기 대표]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202402/120389_153253_3450_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[글로벌] MS, AI 열풍 타고 클라우드 부문 성장..."AWS 추격"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=120388</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=120388</guid>
-            <pubDate>Thu, 15 Feb 2024 08:20:33 GMT</pubDate>
-            <content:encoded><![CDATA[김현기 대표]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202402/120388_153252_3355_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
