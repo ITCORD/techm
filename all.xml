@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Feb 2024 11:14:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Feb 2024 12:29:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MWC 24] 아이돌 데뷔부터 일상 생활까지...장애인 돕는 AI (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=120902</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=120902</guid>
+            <pubDate>Tue, 27 Feb 2024 12:27:09 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202402/120902_154183_2842_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[그라비티 게임 어라이즈, 3월 '도쿄 인디 게임 서밋 2024' 참가 (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=120900</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 27 Feb 2024 06:19:02 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202402/120880_154150_651_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[트리플, 빅데이터 기반 여행 서비스 도시 확대 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=120876</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=120876</guid>
-            <pubDate>Tue, 27 Feb 2024 06:19:02 GMT</pubDate>
-            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202402/120876_154143_4853_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[그라비티 게임 어라이즈, 3월 '도쿄 인디 게임 서밋 2024' 참가 (테크M ─ 콘텐츠)]]></title>
@@ -392,6 +392,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202402/120772_154064_348_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[MWC 24] 아이돌 데뷔부터 일상 생활까지...장애인 돕는 AI (테크M ─ 이노베이션)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=120902</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=120902</guid>
+            <pubDate>Tue, 27 Feb 2024 12:27:58 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202402/120902_154183_2842_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[배달앱 불황에도 1위 지킨 '배달의민족' 영업익 상승 '솔솔'...비결은 (테크M ─ 이노베이션)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=120872</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=120872</guid>
@@ -494,14 +502,6 @@
             <pubDate>Mon, 26 Feb 2024 08:00:00 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202402/120771_153988_4023_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[MWC 24] '개막 D-1'...통신3사부터 삼성전자·화웨이·에릭슨·구글까지 '통신 잔치' 열린다 (테크M ─ 이노베이션)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=120761</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=120761</guid>
-            <pubDate>Sun, 25 Feb 2024 08:17:01 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202402/120761_153949_5936_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[업비트·빗썸·코인원, 해킹 당한 노래방코인 '썸씽' 상장폐지 (테크M ─ 인베스트먼트)]]></title>
@@ -723,7 +723,7 @@
             <title><![CDATA[[부고] 유인상(CJ올리브네트웍스 대표이사)씨 부친상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Tue, 27 Feb 2024 11:13:48 GMT</pubDate>
+            <pubDate>Tue, 27 Feb 2024 12:28:23 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
         </item>
         <item>
