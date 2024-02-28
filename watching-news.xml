@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Feb 2024 08:21:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Feb 2024 09:17:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] KT, UAM 항공망 기술 공개 '하늘위에서도 안정적인 통신서비스 제공한다']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=120968</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=120968</guid>
+            <pubDate>Wed, 28 Feb 2024 09:17:22 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202402/120968_154286_1521_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] SK텔레콤의 자랑 '텔코 AI', MWC2024에서 미리 경험해보자]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=120887</link>
@@ -110,14 +118,6 @@
             <pubDate>Thu, 15 Feb 2024 08:20:47 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202402/120362_153213_3812_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[게임코인TV] K블록체인 '해킹'에 무방비...지난해부터 올해까지 무참히 털린 코인들]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=120310</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=120310</guid>
-            <pubDate>Wed, 14 Feb 2024 14:16:42 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202402/120310_153171_404_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
