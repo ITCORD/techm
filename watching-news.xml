@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 29 Feb 2024 07:18:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Feb 2024 08:21:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 스마트홈을 꿈꾸는 LG전자, 'AI 에이전트'가 가사생활 돕는다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=121023</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=121023</guid>
+            <pubDate>Thu, 29 Feb 2024 08:21:06 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202402/121023_154432_391_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] KT, UAM 항공망 기술 공개 '하늘위에서도 안정적인 통신서비스 제공한다']]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=120968</link>
@@ -110,14 +118,6 @@
             <pubDate>Thu, 15 Feb 2024 14:15:43 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202402/120393_153289_1814_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 새학기 맞이에 한창인 KT, 랑톡에 'AI통화리포트' 서비스 제공한다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=120362</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=120362</guid>
-            <pubDate>Thu, 15 Feb 2024 08:20:47 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202402/120362_153213_3812_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
