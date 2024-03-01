@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Mar 2024 08:21:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Mar 2024 09:19:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -280,6 +280,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202402/121033_154452_1832_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[MWC 24] '쿠키리스' 시대 맞춤형 광고...KT·나스미디어가 AI 문맥 맞춤 광고로 책임진다 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=121061</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=121061</guid>
+            <pubDate>Fri, 01 Mar 2024 08:18:38 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202403/121061_154531_4438_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[MWC 24] 4일간의 통신 축제 마무리...AI로 물든 MWC 2024 (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=121057</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=121057</guid>
@@ -382,14 +390,6 @@
             <pubDate>Wed, 28 Feb 2024 15:16:24 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202402/120984_154476_1257_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[MWC 24] 이젠 '글로벌 늑대'...화웨이, 5G 어드밴스드 앞세워 '통신 판' 흔들었다 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=120983</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=120983</guid>
-            <pubDate>Wed, 28 Feb 2024 13:16:19 GMT</pubDate>
-            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202402/120983_154313_4543_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이스트소프트, 김해시 '스마트경로당' 개소..."AI 휴먼으로 건강관리" (테크M ─ 이노베이션)]]></title>
