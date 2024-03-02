@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Mar 2024 02:22:25 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Mar 2024 03:17:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[현실에서 만나는 철이와 미애...팝업스토어로 좋아하는 캐릭터 직접 만난다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=121025</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=121025</guid>
+            <pubDate>Sat, 02 Mar 2024 11:18:00 GMT</pubDate>
+            <content:encoded><![CDATA[배수현 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202402/121025_154444_4836_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[부고] 한상우(카카오게임즈 최고전략책임자, 대표 내정자)씨 모친상]]></title>
             <link>https://www.techm.kr/news/articleList.html</link>
@@ -157,14 +165,6 @@
             <pubDate>Thu, 29 Feb 2024 08:18:14 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202402/121023_154432_391_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[던파 유니버스의 첫걸음 '카잔'…FGT 호평에 유저 기대감도 '쑥쑥']]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=121041</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=121041</guid>
-            <pubDate>Thu, 29 Feb 2024 08:18:14 GMT</pubDate>
-            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202402/121041_154462_2441_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
