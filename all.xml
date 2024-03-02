@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Mar 2024 22:17:59 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Mar 2024 23:17:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -726,6 +726,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202402/120359_153211_1431_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[써봤다] "비싼 값 하네"...LG시그니처 세탁건조기, AI로 가사노동에서 '해방' (테크M ─ 라이프)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=121051</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=121051</guid>
+            <pubDate>Sun, 03 Mar 2024 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202402/121051_154486_530_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA["배송비 무료에 드롭존까지 추가"···이용자 혜택 강화하는 솔드아웃 (테크M ─ 라이프)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=121067</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=121067</guid>
@@ -828,14 +836,6 @@
             <pubDate>Wed, 28 Feb 2024 10:34:00 GMT</pubDate>
             <content:encoded><![CDATA[김소은 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202402/120937_154246_3010_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[밀리의 서재, '분실물이 돌아왔습니다' 종이책 정식 출간 (테크M ─ 라이프)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=120931</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=120931</guid>
-            <pubDate>Wed, 28 Feb 2024 10:31:00 GMT</pubDate>
-            <content:encoded><![CDATA[김소은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202402/120931_154240_2026_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[글로벌] 민간 최초 달 착륙선, 임무 조기 종료...착륙 중 넘어졌다 (테크M ─ 리포트)]]></title>
