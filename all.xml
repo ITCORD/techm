@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Mar 2024 15:16:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Mar 2024 16:20:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -615,6 +615,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202402/120797_154016_1622_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[e스포츠人] 디도스 공격자에 일침 가한 T1 '페이커' 이상혁 (테크M ─ 피플)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=121081</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=121081</guid>
+            <pubDate>Sun, 03 Mar 2024 16:19:52 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202403/121081_154577_4112_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[부고] 한상우(카카오게임즈 최고전략책임자, 대표 내정자)씨 모친상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
@@ -716,14 +724,6 @@
             <pubDate>Fri, 16 Feb 2024 06:19:37 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202402/120438_153360_17_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쿠팡 "악의적 문건 조작·허위사실 유포, 권영국 전 민노총 법률원장 고소" (테크M ─ 피플)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=120359</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=120359</guid>
-            <pubDate>Thu, 15 Feb 2024 04:18:37 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202402/120359_153211_1431_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[더현대 서울서 만나는 이색 공간...쇼핑과 휴식 결합한 '에픽 서울' 오픈 (테크M ─ 라이프)]]></title>
