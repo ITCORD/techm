@@ -4,9 +4,17 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Mar 2024 01:06:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Mar 2024 03:02:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[말레이시아 지하철에 '삼성 갤럭시역' 생겼다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=121110</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=121110</guid>
+            <pubDate>Mon, 04 Mar 2024 11:14:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202403/121110_154606_1310_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[AI 노트북 '갤럭시 북4' 국내 판매 10만대 돌파]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=121075</link>
@@ -110,14 +118,6 @@
             <pubDate>Thu, 29 Feb 2024 02:02:00 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202402/120989_154391_5858_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[MWC 24] 토종 통신장비사 에치에프알, 이음5G로 단독 부스...글로벌 통신시장 '노크']]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=120987</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=120987</guid>
-            <pubDate>Wed, 28 Feb 2024 15:16:24 GMT</pubDate>
-            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202402/120987_154355_5313_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
