@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Mar 2024 16:23:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Mar 2024 17:17:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["해킹인 줄 알았네" 페북·인스타 먹통에 'X'로 몰린 사용자들 (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=121208</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=121208</guid>
+            <pubDate>Wed, 06 Mar 2024 01:39:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202403/121208_154789_3335_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[메타 페북·인스타·스레드 '먹통'...일부 서비스 '중대 장애' 발생 (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=121207</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=121207</guid>
+            <pubDate>Wed, 06 Mar 2024 01:22:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202403/121207_154788_2117_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[페이스북·인스타그램 '먹통'…접속장애로 로그인 불가 (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=121206</link>
@@ -152,22 +168,6 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202403/121189_154746_3054_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[글로벌] 일론 머스크, 오픈AI·올트먼 소송 제기..."비영리 계약 어겼다" (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=121188</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=121188</guid>
-            <pubDate>Tue, 05 Mar 2024 07:13:58 GMT</pubDate>
-            <content:encoded><![CDATA[김현기 대표]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202403/121188_154763_3350_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[글로벌] "구글 AI '제미나이' 오류…CEO 사임 요구로 이어져" (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=121186</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=121186</guid>
-            <pubDate>Tue, 05 Mar 2024 07:13:58 GMT</pubDate>
-            <content:encoded><![CDATA[김현기 대표]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202403/121186_154764_344_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[위메이드, 플레이 월렛 이용자에 프라이빗 키 공개...탈중앙화 논란에 '종지부' (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=121204</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=121204</guid>
@@ -280,6 +280,22 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202403/121171_154767_3452_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA["해킹인 줄 알았네" 페북·인스타 먹통에 'X'로 몰린 사용자들 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=121208</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=121208</guid>
+            <pubDate>Wed, 06 Mar 2024 01:39:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202403/121208_154789_3335_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[메타 페북·인스타·스레드 '먹통'...일부 서비스 '중대 장애' 발생 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=121207</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=121207</guid>
+            <pubDate>Wed, 06 Mar 2024 01:22:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202403/121207_154788_2117_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[페이스북·인스타그램 '먹통'…접속장애로 로그인 불가 (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=121206</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=121206</guid>
@@ -374,22 +390,6 @@
             <pubDate>Tue, 05 Mar 2024 05:16:59 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202403/121170_154717_4937_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[메가존클라우드, '시스코 프리미어 프로바이더' 자격 획득 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=121165</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=121165</guid>
-            <pubDate>Tue, 05 Mar 2024 11:41:00 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202403/121165_154708_4124_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[KISIA, 융합보안 전문인력 양성 나선다 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=121164</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=121164</guid>
-            <pubDate>Tue, 05 Mar 2024 11:38:00 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202403/121164_154707_3746_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[SDX재단, 국내 최초 탄소감축평가 민간자격증 과정 실시 (테크M ─ 이노베이션)]]></title>
