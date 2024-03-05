@@ -4,9 +4,17 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Mar 2024 15:18:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Mar 2024 16:23:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[페이스북·인스타그램 '먹통'…접속장애로 로그인 불가]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=121206</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=121206</guid>
+            <pubDate>Wed, 06 Mar 2024 01:02:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202403/121206_154786_20_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['ICT 강국' 초석 다진 이동통신 40년…"AI 전환으로 새로운 미래 준비해야"(종합)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=121198</link>
@@ -110,14 +118,6 @@
             <pubDate>Tue, 05 Mar 2024 11:38:00 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202403/121164_154707_3746_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[파수, '엔터프라이즈 LLM' 출시…기업용 AI 시장 출사표]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=121161</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=121161</guid>
-            <pubDate>Tue, 05 Mar 2024 11:21:00 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202403/121161_154704_1925_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
