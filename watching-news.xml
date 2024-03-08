@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Mar 2024 06:20:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Mar 2024 07:20:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 네이버, 디지털트윈을 활용한 지능형 교통 시스템 구축 '사우디 교통 인프라 개선한다']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=121374</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=121374</guid>
+            <pubDate>Fri, 08 Mar 2024 07:20:33 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202403/121374_155036_232_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 업스테이지 LLM '솔라', 센드버드 'AI 챗봇'에 적용한다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=121311</link>
@@ -110,14 +118,6 @@
             <pubDate>Wed, 21 Feb 2024 08:22:41 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202402/120616_153683_3521_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 위메이드 '위퍼블릭'으로 투명한 모임과 후원 추진해보자]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=120562</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=120562</guid>
-            <pubDate>Tue, 20 Feb 2024 07:16:51 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202402/120562_153575_3138_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
