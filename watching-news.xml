@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Mar 2024 11:14:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Mar 2024 12:26:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[게임코인TV] '나이트크로우' 출시 앞둔 위믹스, 비트코인과 함께 달린다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=121395</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=121395</guid>
+            <pubDate>Sun, 10 Mar 2024 12:26:39 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202403/121395_155077_1041_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 네이버, 디지털트윈을 활용한 지능형 교통 시스템 구축 '사우디 교통 인프라 개선한다']]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=121374</link>
@@ -22,6 +30,14 @@
             <pubDate>Thu, 07 Mar 2024 08:18:17 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202403/121311_154915_531_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[게임코인TV] '불장의 시작' 전고점 넘은 비트코인..."1억원 가즈아!"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=121275</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=121275</guid>
+            <pubDate>Sun, 10 Mar 2024 12:26:39 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202403/121275_154877_754_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[카드뉴스] 네이버, 로봇 대중화를 이끌 새로운 OS '아크마인드' 공개]]></title>
@@ -102,22 +118,6 @@
             <pubDate>Thu, 22 Feb 2024 00:49:00 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202402/120666_153891_1629_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[게임코인TV] 쟁글 블록체인 파운데이션 위크 1편...아발란체]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=120624</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=120624</guid>
-            <pubDate>Wed, 21 Feb 2024 14:16:14 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202402/120624_153712_5955_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] LG전자, 에어컨 실시간 모니터링 솔루션에 'AI 고장예측' 기능 추가했다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=120616</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=120616</guid>
-            <pubDate>Wed, 21 Feb 2024 08:22:41 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202402/120616_153683_3521_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
