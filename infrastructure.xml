@@ -4,9 +4,25 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Mar 2024 01:10:43 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Mar 2024 02:28:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[IBM "신원 악용에 의한 사이버 공격 전년 대비 71% 급증"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=121393</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=121393</guid>
+            <pubDate>Sun, 10 Mar 2024 10:58:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202403/121393_155074_5739_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[LG전자, 스마트팩토리 사업화 속도 낸다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=121390</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=121390</guid>
+            <pubDate>Sun, 10 Mar 2024 10:29:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202403/121390_155070_2746_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[단통법 폐지 앞둔 '위기의 알뜰폰'..."풀MVNO 투자 없이 정부에만 기대서야"]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=121308</link>
@@ -102,22 +118,6 @@
             <pubDate>Thu, 07 Mar 2024 08:16:26 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202403/121304_154914_123_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스패로우, 디지털서비스 이용지원시스템에 '스패로우 클라우드' 등록…공공 시장 공략 나선다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=121319</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=121319</guid>
-            <pubDate>Thu, 07 Mar 2024 08:16:26 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202403/121319_154941_5010_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[롯데정보통신 자회사 EVSIS, EV 어워즈 2024 '대한민국 올해의 충전사' 선정]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=121318</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=121318</guid>
-            <pubDate>Thu, 07 Mar 2024 08:16:26 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202403/121318_154939_3219_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
