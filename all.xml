@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Mar 2024 14:17:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Mar 2024 15:20:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -951,6 +951,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202402/121036_154456_5824_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[게임코인TV] 블록체인 입힌 나이트크로우 글로벌 버전 출시 D-1 (테크M ─ 보는 뉴스)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=121477</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=121477</guid>
+            <pubDate>Mon, 11 Mar 2024 15:20:01 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202403/121477_155214_2425_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[카드뉴스] 삼성전자 올인원 '비스포크 AI 콤보'로 세탁과 건조를 빠르고 편리하게! (테크M ─ 보는 뉴스)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=121470</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=121470</guid>
@@ -1053,14 +1061,6 @@
             <pubDate>Fri, 23 Feb 2024 09:14:59 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202402/120753_153916_346_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 삼성전자, 'AI 스크린 시대'를 위한 2024 TV 혁신기술 소개 (테크M ─ 보는 뉴스)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=120742</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=120742</guid>
-            <pubDate>Fri, 23 Feb 2024 08:19:18 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202402/120742_153897_3636_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
