@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Mar 2024 07:16:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Mar 2024 08:21:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 삼성전자 올인원 '비스포크 AI 콤보'로 세탁과 건조를 빠르고 편리하게!]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=121470</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=121470</guid>
+            <pubDate>Mon, 11 Mar 2024 08:21:48 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202403/121470_155189_1136_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[게임코인TV] '나이트크로우' 출시 앞둔 위믹스, 비트코인과 함께 달린다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=121395</link>
@@ -110,14 +118,6 @@
             <pubDate>Fri, 23 Feb 2024 08:21:28 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202402/120742_153897_3636_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[게임코인TV] 쟁글 블록체인 파운데이션 위크 2편...위믹스의 투명사회 플랫폼 '위퍼블릭']]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=120666</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=120666</guid>
-            <pubDate>Thu, 22 Feb 2024 00:49:00 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202402/120666_153891_1629_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
