@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Mar 2024 07:17:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Mar 2024 08:21:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 멀티토큰에 옴니체인까지 더한 위메이드 '나이트 크로우' 글로벌 공개]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=121519</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=121519</guid>
+            <pubDate>Tue, 12 Mar 2024 08:21:31 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202403/121519_155258_3255_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[게임코인TV] 블록체인 입힌 '나이트 크로우' 글로벌 출시 'D-1'...출시 후 '위믹스' 가격 향방은?]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=121477</link>
@@ -110,14 +118,6 @@
             <pubDate>Mon, 26 Feb 2024 08:21:04 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202402/120813_154035_2223_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[게임코인TV] 쟁글 블록체인 파운데이션 위크 3편...클시아(클레이튼+핀시아)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=120753</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=120753</guid>
-            <pubDate>Fri, 23 Feb 2024 09:16:45 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202402/120753_153916_346_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
