@@ -4,9 +4,17 @@
         <title>테크M ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Mar 2024 02:24:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Mar 2024 03:19:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[테크M 이슈] 돌아온 브라이언, 2024년 카카오는 이렇게 바뀐다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=121544</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=121544</guid>
+            <pubDate>Wed, 13 Mar 2024 00:03:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202403/121544_155307_5145_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['정신아 시대' 여는 카카오, 이사회 8명으로 확대...균형·관리 '방점']]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=121520</link>
@@ -109,14 +117,6 @@
             <pubDate>Wed, 28 Feb 2024 07:43:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202402/120908_154210_4354_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[MWC 24] '갤럭시 링' 껴 보고 싶다는 황현식 LG유플러스 "온디바이스 AI가 혁명 가져올 것"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=120899</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=120899</guid>
-            <pubDate>Tue, 27 Feb 2024 09:16:50 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202402/120899_154179_5718_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
