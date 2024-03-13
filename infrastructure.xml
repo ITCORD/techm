@@ -4,9 +4,17 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Mar 2024 05:18:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Mar 2024 06:22:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성전기, 'CDP 기후변화 대응' 최고등급 선정]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=121573</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=121573</guid>
+            <pubDate>Wed, 13 Mar 2024 06:20:28 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202403/121573_155344_3531_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[카카오모빌리티, '브랜드 택시 크루데이' 개최…상생 행보 '박차']]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=121552</link>
@@ -110,14 +118,6 @@
             <pubDate>Mon, 11 Mar 2024 07:15:33 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202403/121440_155139_524_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[안랩, 150억 투입해 클라우드메이트 전격 인수…클라우드 역량 키운다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=121465</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=121465</guid>
-            <pubDate>Mon, 11 Mar 2024 06:20:38 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202403/121465_155179_132_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
