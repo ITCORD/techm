@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Mar 2024 08:21:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Mar 2024 09:17:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 삼성전자, '움직임부터 사운드까지' AI 기술로 무장한 TV 신제품 대거 공개]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=121633</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=121633</guid>
+            <pubDate>Thu, 14 Mar 2024 09:17:42 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202403/121633_155443_840_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] LG전자, '스마트팩토리 사업'으로 생산 전 과정에 최적화된 솔루션 제공한다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=121577</link>
@@ -110,14 +118,6 @@
             <pubDate>Mon, 04 Mar 2024 10:11:29 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202403/121130_154653_3140_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 스마트홈을 꿈꾸는 LG전자, 'AI 에이전트'가 가사생활 돕는다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=121023</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=121023</guid>
-            <pubDate>Thu, 29 Feb 2024 08:21:06 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202402/121023_154432_391_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
