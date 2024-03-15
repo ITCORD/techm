@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Mar 2024 08:21:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Mar 2024 09:18:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 넥슨, 신작 액션 RPG '빈딕투스' 프리 알파테스트 진행중]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=121684</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=121684</guid>
+            <pubDate>Fri, 15 Mar 2024 09:18:37 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202403/121684_155522_3937_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 삼성전자, '움직임부터 사운드까지' AI 기술로 무장한 TV 신제품 대거 공개]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=121633</link>
@@ -110,14 +118,6 @@
             <pubDate>Tue, 05 Mar 2024 09:17:12 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202403/121172_154721_16_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 롯데정보통신 '도시의 푸른농장'으로 쉽고 스마트하게 작물을 재배해보자]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=121130</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=121130</guid>
-            <pubDate>Mon, 04 Mar 2024 10:11:29 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202403/121130_154653_3140_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
