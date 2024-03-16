@@ -4,9 +4,17 @@
         <title>테크M ─ 콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Mar 2024 07:18:13 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Mar 2024 08:19:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[IT기자의 캠핑 이야기] (19)코펠도 등급이 있다? 기술력 따져보고 '픽'하세요]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=121690</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=121690</guid>
+            <pubDate>Sat, 16 Mar 2024 08:18:16 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202403/121690_155570_3947_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[나이트 크로우, 미르4 넘었다...동시 접속자 수 25만명 육박]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=121705</link>
@@ -110,14 +118,6 @@
             <pubDate>Fri, 15 Mar 2024 06:20:11 GMT</pubDate>
             <content:encoded><![CDATA[임경호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202403/121682_155519_1832_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[입국부터 훈련 과정 생중계까지...쿠팡플레이, 'MLB 월드투어' 전체 중계 일정 발표]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=121669</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=121669</guid>
-            <pubDate>Fri, 15 Mar 2024 00:16:00 GMT</pubDate>
-            <content:encoded><![CDATA[장태훈 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202403/121669_155501_372_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
