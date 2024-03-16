@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Mar 2024 06:21:10 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Mar 2024 07:18:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,6 +168,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202403/121678_155514_4158_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[나이트 크로우, 미르4 넘었다...동시 접속자 수 25만명 육박 (테크M ─ 콘텐츠)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=121705</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=121705</guid>
+            <pubDate>Sat, 16 Mar 2024 07:14:55 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202403/121705_155569_758_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[엔터 산업 노크하는 게임사 늘어난다...'엔터+게임' 합종연횡 관심 'UP' (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=121687</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=121687</guid>
@@ -270,14 +278,6 @@
             <pubDate>Fri, 15 Mar 2024 00:16:00 GMT</pubDate>
             <content:encoded><![CDATA[장태훈 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202403/121669_155501_372_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['쿠키런: 마녀의 성' 글로벌 출시...쿠키런 시리즈와 '크로스 프로모션' 가동 (테크M ─ 콘텐츠)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=121673</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=121673</guid>
-            <pubDate>Fri, 15 Mar 2024 00:15:00 GMT</pubDate>
-            <content:encoded><![CDATA[장태훈 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202403/121673_155503_4819_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[전환지원금 정책에 통신사 응답했다...KT 최대 13만원 (테크M ─ 인프라)]]></title>
