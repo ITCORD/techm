@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Mar 2024 21:14:38 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Mar 2024 22:17:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[써봤다] 마우스가 종이처럼 펴진다?…외근 필수템 '폴더블 마우스' (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=121702</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=121702</guid>
+            <pubDate>Sun, 17 Mar 2024 07:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202403/121702_155556_137_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[IT기자의 캠핑 이야기] (19)코펠도 등급이 있다? 기술력 따져보고 '픽'하세요 (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=121690</link>
@@ -160,14 +168,6 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202403/121582_155545_1539_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[여성 리더십에 중앙집권화까지...점점 닮아가는 네이버·카카오 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=121685</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=121685</guid>
-            <pubDate>Fri, 15 Mar 2024 07:14:30 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202403/121685_155546_1552_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[IT기자의 캠핑 이야기] (19)코펠도 등급이 있다? 기술력 따져보고 '픽'하세요 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=121690</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=121690</guid>
@@ -280,6 +280,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202403/121682_155519_1832_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[써봤다] 마우스가 종이처럼 펴진다?…외근 필수템 '폴더블 마우스' (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=121702</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=121702</guid>
+            <pubDate>Sun, 17 Mar 2024 07:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202403/121702_155556_137_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[전환지원금 정책에 통신사 응답했다...KT 최대 13만원 (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=121698</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=121698</guid>
@@ -382,14 +390,6 @@
             <pubDate>Fri, 15 Mar 2024 10:20:00 GMT</pubDate>
             <content:encoded><![CDATA[조성준 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202403/121649_155477_1910_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LG유플러스 "'유플러스닷컴'에서 갤럭시 폰 구매하고 배민 쿠폰 받아요" (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=121647</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=121647</guid>
-            <pubDate>Fri, 15 Mar 2024 10:14:00 GMT</pubDate>
-            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202403/121647_155475_1416_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[위메이드 '위퍼블릭', 한동대 총학생회 선거 도입...대리투표 차단 (테크M ─ 이노베이션)]]></title>
