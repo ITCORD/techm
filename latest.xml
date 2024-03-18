@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Mar 2024 17:18:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Mar 2024 18:21:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[GDC 24] 사진으로 보는 개막 풍경...'GDC는 지금']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=121761</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=121761</guid>
+            <pubDate>Tue, 19 Mar 2024 02:31:00 GMT</pubDate>
+            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202403/121761_155690_4710_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[GDC 24] 글로벌 게임 개발자 축제 'GDC' 개막...백신 증명서도 없는 '완전' 정상 개최]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=121760</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 18 Mar 2024 11:49:00 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202403/121739_155621_4813_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[위믹스 포인트] '지금은 예원시대' KLPGA투어 태국 대회 우승한 이예원, 위믹스 포인트 랭킹 '2위']]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=121738</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=121738</guid>
-            <pubDate>Mon, 18 Mar 2024 11:47:00 GMT</pubDate>
-            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202403/121738_155620_4637_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
