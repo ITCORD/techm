@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Mar 2024 14:17:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Mar 2024 15:17:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] KT X 노바테크, 물류로봇 플랫폼 공동 개발한다 (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=121755</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=121755</guid>
+            <pubDate>Mon, 18 Mar 2024 15:15:26 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202403/121755_155650_360_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[LA다저스 코치진도 반한 쇼골프…K-골프 위상 높인다 (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=121759</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 18 Mar 2024 11:33:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202403/121736_155618_3251_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성 사운드바, 10년 연속 글로벌 판매 '1위' (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=121735</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=121735</guid>
-            <pubDate>Mon, 18 Mar 2024 11:04:00 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202403/121735_155617_331_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[유니티 탭조이, 새로운 오퍼월 캠페인 '데일리 리워드' 내놨다 (테크M ─ 콘텐츠)]]></title>
@@ -952,6 +952,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202403/121296_154897_1739_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[카드뉴스] KT X 노바테크, 물류로봇 플랫폼 공동 개발한다 (테크M ─ 보는 뉴스)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=121755</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=121755</guid>
+            <pubDate>Mon, 18 Mar 2024 15:17:38 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202403/121755_155650_360_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[카드뉴스] 넥슨, 신작 액션 RPG '빈딕투스' 프리 알파테스트 진행중 (테크M ─ 보는 뉴스)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=121684</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=121684</guid>
@@ -1054,14 +1062,6 @@
             <pubDate>Wed, 06 Mar 2024 07:14:29 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202403/121270_154855_4629_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] LG유플러스, 우주 체험 교육이 가능한 메타버스 콘텐츠 공개 (테크M ─ 보는 뉴스)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=121172</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=121172</guid>
-            <pubDate>Tue, 05 Mar 2024 09:15:03 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202403/121172_154721_16_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
