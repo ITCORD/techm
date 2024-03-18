@@ -4,9 +4,25 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Mar 2024 15:17:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Mar 2024 16:22:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[GDC 24] 글로벌 게임 개발자 축제 'GDC' 개막...백신 증명서도 없는 '완전' 정상 개최]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=121760</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=121760</guid>
+            <pubDate>Tue, 19 Mar 2024 01:14:00 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202403/121760_155671_91_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[GDC 24] "게임 제작 프로세스 완전히 달라질 것"...로블록스, AI 아바타·텍스처링 기술 발표]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=121749</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=121749</guid>
+            <pubDate>Tue, 19 Mar 2024 01:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202403/121749_155641_1428_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] KT X 노바테크, 물류로봇 플랫폼 공동 개발한다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=121755</link>
@@ -150,22 +166,6 @@
             <pubDate>Mon, 18 Mar 2024 11:47:00 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202403/121738_155620_4637_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[테크M 이슈] 카카오게임즈, 中 게임 열풍 속 존재감 뽐낸다...토종 MMO로 방긋]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=121737</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=121737</guid>
-            <pubDate>Mon, 18 Mar 2024 11:46:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202403/121737_155666_5224_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["게 섯거라 배달의민족" 1000만 이용자 노리는 쿠팡이츠, 무제한 무료배달 '승부수']]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=121736</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=121736</guid>
-            <pubDate>Mon, 18 Mar 2024 11:33:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202403/121736_155618_3251_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

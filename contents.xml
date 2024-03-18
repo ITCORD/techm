@@ -4,9 +4,17 @@
         <title>테크M ─ 콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Mar 2024 15:17:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Mar 2024 16:22:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[GDC 24] 글로벌 게임 개발자 축제 'GDC' 개막...백신 증명서도 없는 '완전' 정상 개최]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=121760</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=121760</guid>
+            <pubDate>Tue, 19 Mar 2024 01:14:00 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202403/121760_155671_91_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[유니티 탭조이, 새로운 오퍼월 캠페인 '데일리 리워드' 내놨다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=121757</link>
@@ -110,14 +118,6 @@
             <pubDate>Sat, 16 Mar 2024 10:00:00 GMT</pubDate>
             <content:encoded><![CDATA[임경호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202403/121687_155537_2828_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["야구팬들이 편집자 키운다"...티빙 KBO 중계 시스템 빠른 개선에 이용자들 '호평']]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=121695</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=121695</guid>
-            <pubDate>Fri, 15 Mar 2024 10:15:48 GMT</pubDate>
-            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202403/121695_155548_627_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
