@@ -4,9 +4,16 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Mar 2024 15:18:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Mar 2024 16:23:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[게임코인TV] GDC 특파원 '고인물'이 전하는 1일차 취재 후기, 그리고 2일차 예고]]></title>
+            <link>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN10&amp;view_type=sm</link>
+            <guid>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN10&amp;view_type=sm</guid>
+            <pubDate>Wed, 20 Mar 2024 01:15:00 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 뜨거운 열기 속 GDC2024 성황리에 개막 '생성형 AI와 블록체인에 주목하라']]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=121814</link>
@@ -110,14 +117,6 @@
             <pubDate>Fri, 08 Mar 2024 07:20:33 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202403/121374_155036_232_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 업스테이지 LLM '솔라', 센드버드 'AI 챗봇'에 적용한다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=121311</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=121311</guid>
-            <pubDate>Thu, 07 Mar 2024 08:18:17 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202403/121311_154915_531_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
