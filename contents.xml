@@ -4,9 +4,33 @@
         <title>테크M ─ 콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Mar 2024 03:18:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Mar 2024 04:22:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[카카오 미니 이모티콘 공개...3종 무료 증정 이벤트]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=121794</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=121794</guid>
+            <pubDate>Tue, 19 Mar 2024 04:19:27 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202403/121794_155743_641_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[테크M 리포트] IPO 준비마친 야놀자, 이제 해외에서 판 키운다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=121790</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=121790</guid>
+            <pubDate>Tue, 19 Mar 2024 00:49:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202403/121790_155738_4830_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['IP 게임 장인' 넷마블, 이번엔 '나혼렙'...충실한 원작 재현으로 겜심 잡는다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=121786</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=121786</guid>
+            <pubDate>Tue, 19 Mar 2024 00:48:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202403/121786_155729_4210_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[GDC 24] 4명으로 시작한 '발더스 게이트3' 애니팀이 시네마틱 2만개 만든 배경은? '팀 빌딩']]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=121788</link>
@@ -94,30 +118,6 @@
             <pubDate>Mon, 18 Mar 2024 11:47:00 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202403/121738_155620_4637_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[테크M 이슈] 카카오게임즈, 中 게임 열풍 속 존재감 뽐낸다...토종 MMO로 방긋]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=121737</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=121737</guid>
-            <pubDate>Mon, 18 Mar 2024 11:46:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202403/121737_155666_5224_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[넥슨, 팀 기반 FPS 게임 더 파이널스 PC방 스페셜 투어 실시]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=121730</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=121730</guid>
-            <pubDate>Mon, 18 Mar 2024 10:56:00 GMT</pubDate>
-            <content:encoded><![CDATA[김소은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202403/121730_155612_496_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[채널톡, 화상 서비스 '미트' 출시…채팅 상담 시 클릭 한번으로 영상 통화 가능]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=121719</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=121719</guid>
-            <pubDate>Mon, 18 Mar 2024 10:35:00 GMT</pubDate>
-            <content:encoded><![CDATA[김소은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202403/121719_155600_186_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
