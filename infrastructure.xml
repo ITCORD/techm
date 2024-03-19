@@ -4,9 +4,25 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Mar 2024 23:17:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Mar 2024 01:08:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[KT, 디바이스 디자인 혁신…글로벌 디자인 어워드 홀렸다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=121767</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=121767</guid>
+            <pubDate>Tue, 19 Mar 2024 09:55:00 GMT</pubDate>
+            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202403/121767_155701_5443_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[KT, 신한은행과 양자 보안망 구축…"수십만건 접속 양자 암호화"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=121766</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=121766</guid>
+            <pubDate>Tue, 19 Mar 2024 09:45:00 GMT</pubDate>
+            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202403/121766_155700_4446_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[엔비디아, 차세대 AI 칩 'B200' 공개…"추론 성능 30배 향상"]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=121764</link>
@@ -102,22 +118,6 @@
             <pubDate>Sun, 17 Mar 2024 10:00:00 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202403/121710_155579_5531_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[KT, 30만원대 스마트폰 '갤럭시 A15 LTE' 출시]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=121708</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=121708</guid>
-            <pubDate>Sun, 17 Mar 2024 09:50:00 GMT</pubDate>
-            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202403/121708_155577_491_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성전자, 30만원대 보급형 스마트폰 '갤럭시 A15 LTE' 국내 출시]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=121707</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=121707</guid>
-            <pubDate>Sun, 17 Mar 2024 09:48:00 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202403/121707_155575_4636_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
