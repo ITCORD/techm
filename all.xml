@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Mar 2024 07:17:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Mar 2024 08:21:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 뜨거운 열기 속 GDC2024 성황리에 개막 '생성형 AI와 블록체인에 주목하라' (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=121814</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=121814</guid>
+            <pubDate>Tue, 19 Mar 2024 08:19:55 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202403/121814_155769_2845_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['판타스틱 베이스볼' 시즌 임박…위메이드 사옥도 야구로 물들다 (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=121816</link>
@@ -160,18 +168,10 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202403/121790_155738_4830_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['IP 게임 장인' 넷마블, 이번엔 '나혼렙'...충실한 원작 재현으로 겜심 잡는다 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=121786</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=121786</guid>
-            <pubDate>Tue, 19 Mar 2024 00:48:00 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202403/121786_155729_4210_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA['판타스틱 베이스볼' 시즌 임박…위메이드 사옥도 야구로 물들다 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=121816</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=121816</guid>
-            <pubDate>Tue, 19 Mar 2024 07:15:48 GMT</pubDate>
+            <pubDate>Tue, 19 Mar 2024 07:15:30 GMT</pubDate>
             <content:encoded><![CDATA[조성준 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202403/121816_155780_4728_v150.jpg" length="0" type="image/jpg"/>
         </item>
@@ -952,6 +952,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202403/121387_155067_5446_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[카드뉴스] 뜨거운 열기 속 GDC2024 성황리에 개막 '생성형 AI와 블록체인에 주목하라' (테크M ─ 보는 뉴스)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=121814</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=121814</guid>
+            <pubDate>Tue, 19 Mar 2024 08:21:42 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202403/121814_155769_2845_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[게임코인TV] 2024 게임 개발자 콘퍼런스(GDC), '게코' 기자들이 전해온 현장 소식 (테크M ─ 보는 뉴스)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=121774</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=121774</guid>
@@ -1054,14 +1062,6 @@
             <pubDate>Thu, 07 Mar 2024 08:15:38 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202403/121311_154915_531_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[게임코인TV] '불장의 시작' 전고점 넘은 비트코인..."1억원 가즈아!" (테크M ─ 보는 뉴스)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=121275</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=121275</guid>
-            <pubDate>Sun, 10 Mar 2024 12:26:39 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202403/121275_154877_754_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
