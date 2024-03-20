@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Mar 2024 09:18:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Mar 2024 10:18:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[택진이형 연봉 반토막났다…엔씨 경영악화에 1년새 42% 감소 (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=121891</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=121891</guid>
+            <pubDate>Wed, 20 Mar 2024 10:15:46 GMT</pubDate>
+            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202403/121891_155926_67_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[삼성-네이버 손잡고 만든 AI칩 '마하1'..."AI 아키텍처 혁신의 시작" (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=121885</link>
@@ -160,14 +168,6 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202403/121869_155880_3848_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[김택진·박병무 '투톱' 체제…글로벌 원팀 도약하는 NEW 엔씨소프트(종합) (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=121867</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=121867</guid>
-            <pubDate>Wed, 20 Mar 2024 06:19:50 GMT</pubDate>
-            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202403/121867_155914_1719_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[쿠팡플레이, 바이에른 뮌헨 초청전 개최...2024년도 축구 콘텐츠에 '힘'준다 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=121874</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=121874</guid>
@@ -283,7 +283,7 @@
             <title><![CDATA[밀리의 서재, 지난해 매출 566억원…역대 최대 실적 '달성' (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=121886</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=121886</guid>
-            <pubDate>Wed, 20 Mar 2024 09:16:55 GMT</pubDate>
+            <pubDate>Wed, 20 Mar 2024 09:16:18 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202403/121886_155919_3945_v150.jpg" length="0" type="image/jpg"/>
         </item>
@@ -395,7 +395,7 @@
             <title><![CDATA[삼성-네이버 손잡고 만든 AI칩 '마하1'..."AI 아키텍처 혁신의 시작" (테크M ─ 이노베이션)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=121885</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=121885</guid>
-            <pubDate>Wed, 20 Mar 2024 09:17:11 GMT</pubDate>
+            <pubDate>Wed, 20 Mar 2024 09:16:18 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202403/121885_155925_582_v150.jpg" length="0" type="image/jpg"/>
         </item>
@@ -504,6 +504,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202403/121780_155721_5256_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[택진이형 연봉 반토막났다…엔씨 경영악화에 1년새 42% 감소 (테크M ─ 인베스트먼트)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=121891</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=121891</guid>
+            <pubDate>Wed, 20 Mar 2024 10:16:44 GMT</pubDate>
+            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202403/121891_155926_67_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[체인저 재단, 발행량 5% 추가 락업...투자자 가치 제고한다 (테크M ─ 인베스트먼트)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=121860</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=121860</guid>
@@ -608,18 +616,10 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202403/121628_155431_4740_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[고객이 원하면 '토스증권'이 만든다...WTS·회사채·파생상품으로 1등 증권사 '도전장' (테크M ─ 인베스트먼트)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=121610</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=121610</guid>
-            <pubDate>Thu, 14 Mar 2024 00:20:00 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202403/121610_155401_5138_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[신동빈 롯데그룹 회장, 지난해 연봉 64억4900만원 (테크M ─ 피플)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=121888</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=121888</guid>
-            <pubDate>Wed, 20 Mar 2024 09:17:36 GMT</pubDate>
+            <pubDate>Wed, 20 Mar 2024 09:16:18 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202403/121888_155922_4820_v150.jpg" length="0" type="image/jpg"/>
         </item>
@@ -731,7 +731,7 @@
             <title><![CDATA[이마트·트레이더스 '한우' 할인 행사...주말 3일간 최대 38% 세일 (테크M ─ 라이프)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=121890</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=121890</guid>
-            <pubDate>Wed, 20 Mar 2024 09:17:52 GMT</pubDate>
+            <pubDate>Wed, 20 Mar 2024 09:16:18 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202403/121890_155924_5419_v150.jpg" length="0" type="image/jpg"/>
         </item>
@@ -739,7 +739,7 @@
             <title><![CDATA[컬리 '물가안정 특가 찬스' 기획전 열었다...최대 50% 할인 (테크M ─ 라이프)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=121889</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=121889</guid>
-            <pubDate>Wed, 20 Mar 2024 09:17:52 GMT</pubDate>
+            <pubDate>Wed, 20 Mar 2024 09:16:18 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202403/121889_155923_5236_v150.jpg" length="0" type="image/jpg"/>
         </item>
@@ -747,7 +747,7 @@
             <title><![CDATA[현대백화점 "달콤한 사과를 저렴하게 맛 보세요" (테크M ─ 라이프)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=121887</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=121887</guid>
-            <pubDate>Wed, 20 Mar 2024 09:17:52 GMT</pubDate>
+            <pubDate>Wed, 20 Mar 2024 09:16:18 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202403/121887_155921_4530_v150.jpg" length="0" type="image/jpg"/>
         </item>
