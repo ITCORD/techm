@@ -4,9 +4,25 @@
         <title>테크M ─ 콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Mar 2024 20:19:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Mar 2024 21:17:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[GDC 24] '한편의 엔터테인먼트 쇼'...에픽, '스테이트 오브 언리얼'서 언리얼 엔진 5.4 공개]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=121898</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=121898</guid>
+            <pubDate>Thu, 21 Mar 2024 05:47:00 GMT</pubDate>
+            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202403/121898_155933_426_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[GDC 24] "지난주 대화 기억하는 NPC란..." 구글이 그리는 게임 AI의 미래]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=121895</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=121895</guid>
+            <pubDate>Thu, 21 Mar 2024 05:44:00 GMT</pubDate>
+            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202403/121895_155930_3549_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[GDC 24] 위메이드 "블록체인 게임에 대한 거부감, 부분유료화 초창기와 닮았다"]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=121897</link>
@@ -102,22 +118,6 @@
             <pubDate>Wed, 20 Mar 2024 10:39:00 GMT</pubDate>
             <content:encoded><![CDATA[조성준 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202403/121839_155839_3855_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[공동대표 체제 전환하는 엔씨소프트…"새로운 게임 개발환경 만들겠다"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=121836</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=121836</guid>
-            <pubDate>Wed, 20 Mar 2024 10:27:00 GMT</pubDate>
-            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202403/121836_155837_2536_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[GDC 24] 이틀째도 '인산인해', 인기 강연은 순식간에 '세션 풀' 입장도 못한다...'GDC는 지금']]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=121824</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=121824</guid>
-            <pubDate>Wed, 20 Mar 2024 09:22:00 GMT</pubDate>
-            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202403/121824_155882_4038_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
