@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Mar 2024 03:19:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Mar 2024 04:21:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -952,6 +952,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202403/121387_155067_5446_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[게임코인TV] GDC에서 날라온 단독기사 '판타스틱 베이스볼' 뒷이야기...2일차 리뷰 및 3일차 예고 (테크M ─ 보는 뉴스)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=121936</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=121936</guid>
+            <pubDate>Thu, 21 Mar 2024 04:21:14 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202403/121936_156011_1815_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[게임코인TV] 반등하는 위메이드-위믹스, 나이트 크로우 글로벌 덕분? (테크M ─ 보는 뉴스)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=121893</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=121893</guid>
@@ -1054,14 +1062,6 @@
             <pubDate>Mon, 11 Mar 2024 15:20:01 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202403/121477_155214_2425_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 삼성전자 올인원 '비스포크 AI 콤보'로 세탁과 건조를 빠르고 편리하게! (테크M ─ 보는 뉴스)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=121470</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=121470</guid>
-            <pubDate>Mon, 11 Mar 2024 08:19:32 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202403/121470_155189_1136_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
