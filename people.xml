@@ -4,9 +4,17 @@
         <title>테크M ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Mar 2024 21:17:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Mar 2024 22:16:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[GDC 24] 마크 위튼 유니티 CPTO "유니티6로 AI-XR 지원 확대...누구나 개발자 시대 가속"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=121968</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=121968</guid>
+            <pubDate>Fri, 22 Mar 2024 07:09:00 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202403/121968_156064_56_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[테크M 이슈] 확 달라진 엔씨소프트...변화의 시작은 택진이형부터]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=121922</link>
@@ -110,14 +118,6 @@
             <pubDate>Wed, 13 Mar 2024 08:19:48 GMT</pubDate>
             <content:encoded><![CDATA[임경호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202403/121535_155301_5045_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[테크M 이슈] 돌아온 브라이언, 2024년 카카오는 이렇게 바뀐다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=121544</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=121544</guid>
-            <pubDate>Wed, 13 Mar 2024 00:03:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202403/121544_155310_332_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
