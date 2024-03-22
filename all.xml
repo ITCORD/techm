@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Mar 2024 21:16:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Mar 2024 22:16:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[GDC 24] "메이플스토리 유니버스 토크노믹스, 토큰 보유자가 아이템 제작 여부 결정" (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=122019</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=122019</guid>
+            <pubDate>Sat, 23 Mar 2024 07:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202403/122019_156141_1410_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[GDC 24] 인디 게임 '원석' 찾는 엑스박스 "발전된 콘텐츠로 최적의 게임 경험 선사할 것" (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=122018</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 22 Mar 2024 04:17:35 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202403/122000_156103_042_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LG디스플레이, 주총에서 정철동 신임 대표이사 선임 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=121999</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=121999</guid>
-            <pubDate>Fri, 22 Mar 2024 00:57:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202403/121999_156102_5710_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[PWS가 온다] 로스터 싹 바뀐 프로팀들...다나와-광동-DK 3파전 예상 (테크M ─ 콘텐츠)]]></title>
@@ -616,6 +616,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202403/121752_155643_2045_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[GDC 24] "메이플스토리 유니버스 토크노믹스, 토큰 보유자가 아이템 제작 여부 결정" (테크M ─ 피플)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=122019</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=122019</guid>
+            <pubDate>Sat, 23 Mar 2024 07:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202403/122019_156141_1410_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[GDC 24] 인디 게임 '원석' 찾는 엑스박스 "발전된 콘텐츠로 최적의 게임 경험 선사할 것" (테크M ─ 피플)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=122018</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=122018</guid>
@@ -718,14 +726,6 @@
             <pubDate>Fri, 22 Mar 2024 04:18:46 GMT</pubDate>
             <content:encoded><![CDATA[임경호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202403/121640_155468_4651_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['박관호의 책임경영'...대표이사 회장으로 위메이드 경영 일선 복귀(상보) (테크M ─ 피플)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=121637</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=121637</guid>
-            <pubDate>Fri, 22 Mar 2024 04:18:46 GMT</pubDate>
-            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202403/121637_155467_2757_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[서장원 코웨이 대표 "글로벌 경쟁력 더욱 키워나갈 것" (테크M ─ 라이프)]]></title>
