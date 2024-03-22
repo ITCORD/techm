@@ -4,9 +4,25 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Mar 2024 06:21:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Mar 2024 07:16:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[게임코인TV] 넥슨과 위메이드, GDC서 블록체인 게임 핵심으로 '경제'를 말하다.]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=122011</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=122011</guid>
+            <pubDate>Fri, 22 Mar 2024 07:16:51 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202403/122011_156126_226_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[카드뉴스] 넥슨, GDC2024에서 '메이플스토리 유니버스' 경제 시스템 공개]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=122009</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=122009</guid>
+            <pubDate>Fri, 22 Mar 2024 07:16:51 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202403/122009_156113_2431_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[게임코인TV] GDC에서 날라온 단독기사 '판타스틱 베이스볼' 뒷이야기...2일차 리뷰 및 3일차 예고]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=121936</link>
@@ -102,22 +118,6 @@
             <pubDate>Tue, 12 Mar 2024 14:16:36 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202403/121523_155285_038_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 멀티토큰에 옴니체인까지 더한 위메이드 '나이트 크로우' 글로벌 공개]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=121519</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=121519</guid>
-            <pubDate>Tue, 12 Mar 2024 08:21:31 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202403/121519_155258_3255_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[게임코인TV] 블록체인 입힌 '나이트 크로우' 글로벌 출시 'D-1'...출시 후 '위믹스' 가격 향방은?]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=121477</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=121477</guid>
-            <pubDate>Mon, 11 Mar 2024 15:20:01 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202403/121477_155214_2425_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
