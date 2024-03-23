@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Mar 2024 08:20:34 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Mar 2024 09:17:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[게임코인TV] GDC에서 게코가 가져온 특급소식...'메이플스토리 유니버스' 토크노믹스]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=122035</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=122035</guid>
+            <pubDate>Sat, 23 Mar 2024 09:17:41 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202403/122035_156212_5443_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] GDC2024에 참여한 위메이드, 게임산업에 새로운 변화를 이끈다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=121955</link>
@@ -110,14 +118,6 @@
             <pubDate>Wed, 13 Mar 2024 08:20:29 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202403/121577_155349_4215_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[게임코인TV] 1주일 앞으로 다가온 GDC...올해도 블록체인 소식 쏟아집니다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=121575</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=121575</guid>
-            <pubDate>Wed, 13 Mar 2024 06:22:01 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202403/121575_155345_530_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
