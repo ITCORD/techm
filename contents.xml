@@ -4,9 +4,17 @@
         <title>테크M ─ 콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Mar 2024 05:18:17 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Mar 2024 06:25:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[GDC 24] 전세계 게임 개발자 축제 'GDC 2024' 성황리 마무리...AI 시대 게임 개발 화두는 '누구나']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=122034</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=122034</guid>
+            <pubDate>Sat, 23 Mar 2024 06:23:05 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202403/122034_156207_2648_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[GDC 24] 수천만 '브롤러'를 만든 저력은 사무실에 있다? 초고층 슈퍼셀 샌프란시스코 오피스를 가봤다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=122024</link>
@@ -110,14 +118,6 @@
             <pubDate>Fri, 22 Mar 2024 04:17:50 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202403/121946_156017_5011_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[크래프톤 배틀그라운드, 누적 계정 1.8억개 돌파...글로벌 게임판 흔들다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=121943</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=121943</guid>
-            <pubDate>Fri, 22 Mar 2024 04:17:50 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202403/121943_156014_4410_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
