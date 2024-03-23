@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Mar 2024 01:05:01 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Mar 2024 02:22:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[템터뷰] 물 들어올 때 노 젓는 네오핀...'허가형 디파이'로 1등 서비스 노린다 (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=122031</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=122031</guid>
+            <pubDate>Sat, 23 Mar 2024 10:21:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202403/122031_156200_634_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[불려갔다 오면 오른다...통신3사, 전환지원금 10만원대서 30만원대로 '상향' (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=122030</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=122030</guid>
+            <pubDate>Sat, 23 Mar 2024 10:10:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202403/122030_156196_5934_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[GDC 24] 언리얼로 영화와 게임 경계 허문다...에픽게임즈 "어떤 방향이든 마음껏 작업" (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=122025</link>
@@ -152,22 +168,6 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202403/122006_156133_424_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[韓 돌아오는 테라-루나 사태 주범 권도형...어떤 법으로 처벌하나 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=122010</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=122010</guid>
-            <pubDate>Fri, 22 Mar 2024 08:21:57 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202403/122010_156134_4229_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[게임코인TV] 넥슨과 위메이드, GDC서 블록체인 게임 핵심으로 '경제'를 말하다. (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=122011</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=122011</guid>
-            <pubDate>Fri, 22 Mar 2024 07:14:46 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202403/122011_156126_226_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[GDC 24] 수천만 '브롤러'를 만든 저력은 사무실에 있다? 초고층 슈퍼셀 샌프란시스코 오피스를 가봤다 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=122024</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=122024</guid>
@@ -280,6 +280,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202403/121943_156014_4410_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[불려갔다 오면 오른다...통신3사, 전환지원금 10만원대서 30만원대로 '상향' (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=122030</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=122030</guid>
+            <pubDate>Sat, 23 Mar 2024 10:10:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202403/122030_156196_5934_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[KT, 전환지원금 최대 33만원 지급...통신3사 중 가장 높다 (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=122029</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=122029</guid>
@@ -384,12 +392,12 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202403/121978_156075_022_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA["시니어 골퍼 모이세요"…나이보다 타수 적으면 '마제스티 드라이버' 펑펑 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=121976</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=121976</guid>
-            <pubDate>Fri, 22 Mar 2024 09:58:00 GMT</pubDate>
-            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202403/121976_156074_583_v150.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[템터뷰] 물 들어올 때 노 젓는 네오핀...'허가형 디파이'로 1등 서비스 노린다 (테크M ─ 이노베이션)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=122031</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=122031</guid>
+            <pubDate>Sat, 23 Mar 2024 10:21:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202403/122031_156200_634_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[확률형 아이템 정보공개 시행, 국내 게임사 '이상무'...해외 게임사와 역차별은 여전히 문제 (테크M ─ 이노베이션)]]></title>
@@ -494,14 +502,6 @@
             <pubDate>Thu, 21 Mar 2024 10:40:00 GMT</pubDate>
             <content:encoded><![CDATA[김소은 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202403/121913_155985_3237_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[네이버·카카오 지난해 평균 급여 줄어든 이유는?…주가 부진에 스톡옵션 차익 급감 (테크M ─ 이노베이션)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=121901</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=121901</guid>
-            <pubDate>Thu, 21 Mar 2024 09:01:00 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202403/121901_155937_194_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[빗썸 인적분할 추진...거래소 IPO-신사업 추진 속도 낸다 (테크M ─ 인베스트먼트)]]></title>
