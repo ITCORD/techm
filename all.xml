@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Mar 2024 02:22:16 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Mar 2024 03:18:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[GDC 24] 4년간 한국서 3배 성장한 로블록스 "누구나 창작하는 시대 위해 투자 지속" (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=122033</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=122033</guid>
+            <pubDate>Sat, 23 Mar 2024 00:13:00 GMT</pubDate>
+            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202403/122033_156206_740_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[크립토 주간 브리핑] 롤러코스터 탄 비트코인, 결국 하락세...1주일새 7% '뚝' (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=122032</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=122032</guid>
+            <pubDate>Sat, 23 Mar 2024 11:46:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202403/122032_156203_856_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[템터뷰] 물 들어올 때 노 젓는 네오핀...'허가형 디파이'로 1등 서비스 노린다 (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=122031</link>
@@ -150,22 +166,6 @@
             <pubDate>Fri, 22 Mar 2024 08:21:15 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202403/122014_156129_3420_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[PWS가 온다] 로스터 싹 바뀐 프로팀들...다나와-광동-DK 3파전 예상 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=122007</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=122007</guid>
-            <pubDate>Fri, 22 Mar 2024 08:20:58 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202403/122007_156122_3427_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[PWS가 온다] 배그 게이머들의 꿈, PGC 여정 시작...4주간의 대장정 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=122006</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=122006</guid>
-            <pubDate>Fri, 22 Mar 2024 08:20:58 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202403/122006_156133_424_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[GDC 24] 수천만 '브롤러'를 만든 저력은 사무실에 있다? 초고층 슈퍼셀 샌프란시스코 오피스를 가봤다 (테크M ─ 콘텐츠)]]></title>
@@ -504,6 +504,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202403/121913_155985_3237_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[크립토 주간 브리핑] 롤러코스터 탄 비트코인, 결국 하락세...1주일새 7% '뚝' (테크M ─ 인베스트먼트)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=122032</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=122032</guid>
+            <pubDate>Sat, 23 Mar 2024 11:46:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202403/122032_156203_856_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[빗썸 인적분할 추진...거래소 IPO-신사업 추진 속도 낸다 (테크M ─ 인베스트먼트)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=122016</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=122016</guid>
@@ -608,12 +616,12 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202403/121765_155699_4411_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA["상한가 초읽기" 새 역사 쓰는 위메이드 나이트크로우, 동접자 30만 '육박' (테크M ─ 인베스트먼트)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=121752</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=121752</guid>
-            <pubDate>Fri, 22 Mar 2024 04:18:31 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202403/121752_155643_2045_v150.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[GDC 24] 4년간 한국서 3배 성장한 로블록스 "누구나 창작하는 시대 위해 투자 지속" (테크M ─ 피플)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=122033</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=122033</guid>
+            <pubDate>Sat, 23 Mar 2024 00:13:00 GMT</pubDate>
+            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202403/122033_156206_740_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[GDC 24] 언리얼로 영화와 게임 경계 허문다...에픽게임즈 "어떤 방향이든 마음껏 작업" (테크M ─ 피플)]]></title>
@@ -718,14 +726,6 @@
             <pubDate>Fri, 15 Mar 2024 10:20:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202403/121648_155478_2037_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[대표 사임한 장현국, 부회장으로 박관호 보좌...위믹스 성공 항해 돕는다 (테크M ─ 피플)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=121641</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=121641</guid>
-            <pubDate>Fri, 22 Mar 2024 04:18:46 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202403/121641_155469_5423_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[서장원 코웨이 대표 "글로벌 경쟁력 더욱 키워나갈 것" (테크M ─ 라이프)]]></title>
