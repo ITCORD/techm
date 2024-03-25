@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Mar 2024 06:27:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Mar 2024 07:17:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 카카오게임즈, 글로벌 콘솔 기대작 '크로노 오디세이' 공개]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=122093</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=122093</guid>
+            <pubDate>Mon, 25 Mar 2024 07:17:52 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202403/122093_156325_4935_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[게임코인TV] 고품질 블록체인 게임 들고 GDC 참여한 아발란체를 주목하라...게코와 함께 둘러보는 GDC 엑스포 현장 2편]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=122048</link>
@@ -110,14 +118,6 @@
             <pubDate>Mon, 18 Mar 2024 15:17:38 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202403/121755_155650_360_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 넥슨, 신작 액션 RPG '빈딕투스' 프리 알파테스트 진행중]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=121684</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=121684</guid>
-            <pubDate>Fri, 15 Mar 2024 09:18:37 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202403/121684_155522_3937_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
