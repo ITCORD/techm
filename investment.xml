@@ -4,9 +4,17 @@
         <title>테크M ─ 인베스트먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Mar 2024 08:23:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Mar 2024 09:17:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김영섭 KT 대표, 자사주 5300주 매입...약 2억원 규모]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=122098</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=122098</guid>
+            <pubDate>Mon, 25 Mar 2024 09:16:27 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202403/122098_156343_3730_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[테크M 리포트] 2024년의 CJ ENM이 기대되는 이유]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=122092</link>
@@ -110,14 +118,6 @@
             <pubDate>Wed, 20 Mar 2024 10:18:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202403/121835_155835_1755_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[크립토 브리핑] 흘러내리는 비트코인, 9300만원대까지 '뚝']]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=121833</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=121833</guid>
-            <pubDate>Wed, 20 Mar 2024 10:15:00 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202403/121833_155834_1056_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
