@@ -4,9 +4,17 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Mar 2024 06:22:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Mar 2024 07:15:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[다날, 인디게임 플랫폼 '펑크랜드'에 결제 서비스 제공]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=122159</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=122159</guid>
+            <pubDate>Tue, 26 Mar 2024 07:14:12 GMT</pubDate>
+            <content:encoded><![CDATA[장태훈 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202403/122159_156423_1641_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[레노버, AMD 손잡고 '씽크스테이션 P8' 출시…AI 워크스테이션 시장 정조준]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=122148</link>
@@ -110,14 +118,6 @@
             <pubDate>Tue, 26 Mar 2024 09:59:00 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202403/122106_156359_5756_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["VM웨어 비켜" 이노그리드, 클라우드 가상화 기능 강화한 '클라우드잇 v6' 출시]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=122104</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=122104</guid>
-            <pubDate>Tue, 26 Mar 2024 09:15:00 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202403/122104_156357_811_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
