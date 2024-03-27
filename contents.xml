@@ -4,9 +4,17 @@
         <title>테크M ─ 콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Mar 2024 05:19:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Mar 2024 06:22:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["이웃과 같이 운동해요"...당근, 동네 운동 모임 가입자 이벤트 진행]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=122222</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=122222</guid>
+            <pubDate>Wed, 27 Mar 2024 06:20:24 GMT</pubDate>
+            <content:encoded><![CDATA[배수현 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202403/122222_156524_640_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[컴투스 신작 '스타시드: 아스니아 트리거' 출격 대기...150만 사전 예약자 기대감 'UP']]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=122219</link>
@@ -110,14 +118,6 @@
             <pubDate>Wed, 27 Mar 2024 09:59:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202403/122180_156466_5849_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[테크M 이슈] 엔씨소프트 확 달라진 'TL'로 글로벌 정복 스타트...탈내수 본격화]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=122177</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=122177</guid>
-            <pubDate>Wed, 27 Mar 2024 09:52:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202403/122177_156463_5213_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
