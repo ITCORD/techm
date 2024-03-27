@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Mar 2024 13:20:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Mar 2024 14:17:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[게임코인TV] 블록체인 게임, 핵심은 결국 경제다...2024 GDC 취재 후기 (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=122260</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=122260</guid>
+            <pubDate>Wed, 27 Mar 2024 14:14:56 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202403/122260_156593_5918_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[넥슨 '던파' PC방 점유율 역주행...신규 전직·레이드 등 추가 상승 주목 (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=122259</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 27 Mar 2024 07:13:58 GMT</pubDate>
             <content:encoded><![CDATA[김소은 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202403/122189_156518_2724_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[무신사, 유통사 진출 '첫발'...롯데몰 수원에 신규 스토어 오픈 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=122232</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=122232</guid>
-            <pubDate>Wed, 27 Mar 2024 06:20:06 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202403/122232_156538_1220_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[넥슨 '던파' PC방 점유율 역주행...신규 전직·레이드 등 추가 상승 주목 (테크M ─ 콘텐츠)]]></title>
@@ -952,6 +952,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202403/121700_155594_214_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[게임코인TV] 블록체인 게임, 핵심은 결국 경제다...2024 GDC 취재 후기 (테크M ─ 보는 뉴스)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=122260</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=122260</guid>
+            <pubDate>Wed, 27 Mar 2024 14:16:59 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202403/122260_156593_5918_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[카드뉴스] NHN클라우드, 'AI 데이터센터'와 '지코어와 협업'으로 AI 인프라 넓힌다 (테크M ─ 보는 뉴스)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=122239</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=122239</guid>
@@ -1054,14 +1062,6 @@
             <pubDate>Fri, 22 Mar 2024 04:19:36 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202403/121814_155769_2845_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[게임코인TV] 2024 게임 개발자 콘퍼런스(GDC), '게코' 기자들이 전해온 현장 소식 (테크M ─ 보는 뉴스)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=121774</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=121774</guid>
-            <pubDate>Tue, 19 Mar 2024 10:37:00 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202403/121774_155714_3639_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
