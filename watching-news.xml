@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Mar 2024 08:20:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Mar 2024 09:18:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 야나두, 유나이티드어소시에이츠와 손잡고 개발하는 'AI 학습 플랫폼'에 주목]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=122333</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=122333</guid>
+            <pubDate>Thu, 28 Mar 2024 09:18:15 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202403/122333_156728_4151_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[게임코인TV] 블록체인 게임, 핵심은 결국 경제다...2024 GDC 취재 후기]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=122260</link>
@@ -110,14 +118,6 @@
             <pubDate>Wed, 20 Mar 2024 01:15:00 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202403/121818_155798_4532_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 뜨거운 열기 속 GDC2024 성황리에 개막 '생성형 AI와 블록체인에 주목하라']]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=121814</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=121814</guid>
-            <pubDate>Tue, 19 Mar 2024 08:21:42 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202403/121814_155769_2845_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
