@@ -4,9 +4,17 @@
         <title>테크M ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Mar 2024 07:16:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Mar 2024 08:20:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[토스뱅크, 이은미 대표 공식 선임]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=122336</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=122336</guid>
+            <pubDate>Thu, 28 Mar 2024 08:19:50 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202403/122336_156746_538_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[테크M 이슈] "믿고 따를 수 있는 언니" 정신아의 카카오는 어떻게 달라질까]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=122310</link>
@@ -110,14 +118,6 @@
             <pubDate>Mon, 25 Mar 2024 04:20:04 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202403/122082_156289_1728_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[GDC 24] 4년간 한국서 3배 성장한 로블록스 "누구나 창작하는 시대 위해 투자 지속"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=122033</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=122033</guid>
-            <pubDate>Sat, 23 Mar 2024 00:13:00 GMT</pubDate>
-            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202403/122033_156206_740_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
