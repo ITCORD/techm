@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Mar 2024 07:23:29 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Mar 2024 08:24:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -176,6 +176,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202403/122404_156850_3735_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[가봤다] 세븐틴 IP, 이 정도라고?...팝업·전시 이어 라운지도 '북적북적' (테크M ─ 콘텐츠)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=122418</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=122418</guid>
+            <pubDate>Sat, 30 Mar 2024 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202403/122418_156888_1325_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['바람의나라'부터 '메이플스토리'까지...'30주년' 넥슨의 주춧돌 게임은? (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=122416</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=122416</guid>
@@ -270,14 +278,6 @@
             <pubDate>Fri, 29 Mar 2024 11:06:00 GMT</pubDate>
             <content:encoded><![CDATA[임경호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202403/122376_156859_4415_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아프리카TV, '주식회사 숲'으로 사명 변경 (테크M ─ 콘텐츠)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=122368</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=122368</guid>
-            <pubDate>Fri, 29 Mar 2024 10:53:00 GMT</pubDate>
-            <content:encoded><![CDATA[김소은 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202403/122368_156803_3438_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[MS-오픈AI, 130조원 투입해 AI 슈퍼컴퓨터·데이터센터 구축 나선다 (테크M ─ 인프라)]]></title>
