@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 31 Mar 2024 03:25:48 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Mar 2024 04:27:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -280,6 +280,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202403/122376_156859_4415_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['사칭 의심문자' 복붙하면 악성여부 판단…KISA, 스미싱 대응 팔 걷었다 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=122402</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=122402</guid>
+            <pubDate>Sun, 31 Mar 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202403/122402_156837_228_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[창사 40주년 맞은 SKT…서울숲 찾아 환경 정화 봉사활동 진행 (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=122432</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=122432</guid>
@@ -382,14 +390,6 @@
             <pubDate>Fri, 29 Mar 2024 10:55:00 GMT</pubDate>
             <content:encoded><![CDATA[김소은 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202403/122377_156808_4910_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LG유플러스, 봄꽃 축제 현장 속 통신 서비스 최적화 작업 완료 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=122371</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=122371</guid>
-            <pubDate>Fri, 29 Mar 2024 10:54:00 GMT</pubDate>
-            <content:encoded><![CDATA[배수현 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202403/122371_156806_4318_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[네이버 스노우-알체라의 합작 NFT 마켓 '팔라스퀘어' 문 닫는다 (테크M ─ 이노베이션)]]></title>
