@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Apr 2024 05:23:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Apr 2024 06:24:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,6 +168,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202403/122418_156888_1325_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[결정적e장면] 하루에만 69점...다나와의 저력이 반가운 이유 (테크M ─ 콘텐츠)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=122477</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=122477</guid>
+            <pubDate>Mon, 01 Apr 2024 06:21:30 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202404/122477_157030_5719_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['금융 콘텐츠' 시그널리포트, 클래스 개국 5개월만에 누적 수강생 1만명 돌파 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=122483</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=122483</guid>
@@ -272,12 +280,20 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202403/122431_156941_3935_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[다시 돌아온 골프 시즌...SKT-네이버-위메이드, ICT 앞세워 골퍼 마음 잡는다 (테크M ─ 콘텐츠)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=122404</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=122404</guid>
-            <pubDate>Sat, 30 Mar 2024 08:30:00 GMT</pubDate>
-            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202403/122404_156850_3735_v150.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[파이오링크, 트리즈네트웍스 SDN 컨트롤러 총판 계약 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=122486</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=122486</guid>
+            <pubDate>Mon, 01 Apr 2024 06:21:48 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202404/122486_157034_2233_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한컴 "AI 사업 본격화, 모든 역량 집중할 것" (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=122479</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=122479</guid>
+            <pubDate>Mon, 01 Apr 2024 06:21:48 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202404/122479_157023_3227_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[전환지원금 시행 이후 통신사→알뜰폰 번호이동 줄었다 (테크M ─ 인프라)]]></title>
@@ -376,20 +392,28 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202403/122432_156940_3758_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[KT, 4월 한달간 매장서 AI 업그레이드 지원 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=122430</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=122430</guid>
-            <pubDate>Sun, 31 Mar 2024 09:25:00 GMT</pubDate>
-            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202403/122430_156939_2421_v150.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[시중은행 압도하는 카카오뱅크 중저신용 포용력...기반에는 '테크'가 있었다 (테크M ─ 이노베이션)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=122487</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=122487</guid>
+            <pubDate>Mon, 01 Apr 2024 06:22:07 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202404/122487_157037_3144_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[MS-오픈AI, 130조원 투입해 AI 슈퍼컴퓨터·데이터센터 구축 나선다 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=122419</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=122419</guid>
-            <pubDate>Sat, 30 Mar 2024 09:30:00 GMT</pubDate>
+            <title><![CDATA[명품 플랫폼 젠테, 지난해 역대 최대 매출 달성…"올해 글로벌 진출 박차" (테크M ─ 이노베이션)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=122481</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=122481</guid>
+            <pubDate>Mon, 01 Apr 2024 06:22:07 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202403/122419_156914_2958_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202404/122481_157025_5037_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[유니티, 유 데이 서울 개최... 최신 핵심 기술-로드맵 '활짝' (테크M ─ 이노베이션)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=122480</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=122480</guid>
+            <pubDate>Mon, 01 Apr 2024 06:22:07 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202404/122480_157024_4555_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[법무법인 디라이트, '법무법인 디엘지'로 새 출발...글로벌 로펌 '도약' (테크M ─ 이노베이션)]]></title>
@@ -478,30 +502,6 @@
             <pubDate>Thu, 28 Mar 2024 08:18:31 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202403/122338_156752_145_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['로봇이 혼자 엘리베이터도 척척'...마로솔, '2024 SFAW'서 증강 로봇 선봬 (테크M ─ 이노베이션)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=122306</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=122306</guid>
-            <pubDate>Thu, 28 Mar 2024 07:14:21 GMT</pubDate>
-            <content:encoded><![CDATA[배수현 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202403/122306_156663_5829_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[KISA, 인천시-인천테크노파크와 ' 맞손...지역 블록체인 기술혁신지원센터 구축한다 (테크M ─ 이노베이션)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=122317</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=122317</guid>
-            <pubDate>Thu, 28 Mar 2024 06:19:57 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202403/122317_156662_5725_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[카카오, 정신아 대표 정식 선임...AI 서비스 발굴에 힘 싣는다 (테크M ─ 이노베이션)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=122308</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=122308</guid>
-            <pubDate>Thu, 28 Mar 2024 06:19:57 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202403/122308_156646_910_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[크립토 월간 브리핑] 역사적 신고점...1억원 돌파한 비트코인, 한달새 17% 껑충 (테크M ─ 인베스트먼트)]]></title>
@@ -637,7 +637,7 @@
             <guid>https://www.techm.kr/news/articleView.html?idxno=122394</guid>
             <pubDate>Fri, 29 Mar 2024 05:15:41 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202403/122394_156856_4318_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202403/122394_156829_650_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[SKT, 도하 세계수영선수권 대회 금메달리스트 황선우에게 포상금 전달 (테크M ─ 피플)]]></title>
@@ -726,6 +726,22 @@
             <pubDate>Wed, 27 Mar 2024 11:37:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202403/122191_156486_4319_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[배달료 안받는 '배달 플랫폼'...퀵커머스 쩐의 전쟁 스타트 (테크M ─ 라이프)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=122485</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=122485</guid>
+            <pubDate>Mon, 01 Apr 2024 06:23:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202404/122485_157032_642_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[테크M 트렌드] 고물가·C커머스 공습까지…난제 산적한 유통업계 '책임경영' 강화 (테크M ─ 라이프)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=122482</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=122482</guid>
+            <pubDate>Mon, 01 Apr 2024 06:23:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202404/122482_157027_550_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["와디즈가 점찍은 '라이콘' 기업을 소개합니다"...와디즈 넥스트브랜드 쇼케이스 개최 (테크M ─ 라이프)]]></title>
@@ -822,22 +838,6 @@
             <pubDate>Fri, 29 Mar 2024 09:15:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202403/122350_156783_1455_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["인구소멸 위기 해법은 쿠팡" 로켓배송 전국 확장에 기대감 드러내는 지방 주민들 (테크M ─ 라이프)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=122312</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=122312</guid>
-            <pubDate>Thu, 28 Mar 2024 06:19:57 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202403/122312_156651_2440_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[티오더, 300억원대 시리즈 B 대규모 투자 '유치' (테크M ─ 라이프)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=122307</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=122307</guid>
-            <pubDate>Thu, 28 Mar 2024 05:17:31 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202403/122307_156644_5339_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[글로벌] 아마존, 데이터센터에 200조원 투자...시장 1등 굳히기 들어가나 (테크M ─ 리포트)]]></title>
