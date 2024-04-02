@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Apr 2024 07:24:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Apr 2024 08:24:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] LG유플러스, 고객 특화 AI 솔루션 '우리가게패키지 AX' 공개]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=122550</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=122550</guid>
+            <pubDate>Tue, 02 Apr 2024 08:24:21 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202404/122550_157130_259_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 위메이드의 초대형 신작, 낯선 세계 속 원정대 이야기 '미르5' 공개]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=122500</link>
@@ -110,14 +118,6 @@
             <pubDate>Sun, 31 Mar 2024 01:16:17 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202403/122009_156113_2431_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[게임코인TV] GDC에서 날라온 단독기사 '판타스틱 베이스볼' 뒷이야기...2일차 리뷰 및 3일차 예고]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=121936</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=121936</guid>
-            <pubDate>Sun, 31 Mar 2024 01:16:17 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202403/121936_156011_1815_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
