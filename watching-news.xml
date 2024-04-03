@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Apr 2024 06:24:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Apr 2024 07:17:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] '별이되어라2' '아스달연대기' '스텔라 블레이드' 까지 다양한 신작 게임 쏟아진다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=122612</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=122612</guid>
+            <pubDate>Wed, 03 Apr 2024 07:17:44 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202404/122612_157234_5455_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] LG유플러스, 고객 특화 AI 솔루션 '우리가게패키지 AX' 공개]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=122550</link>
@@ -110,14 +118,6 @@
             <pubDate>Sun, 31 Mar 2024 01:16:17 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202403/122011_156126_226_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 넥슨, GDC2024에서 '메이플스토리 유니버스' 경제 시스템 공개]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=122009</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=122009</guid>
-            <pubDate>Sun, 31 Mar 2024 01:16:17 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202403/122009_156113_2431_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
