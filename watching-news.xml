@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Apr 2024 22:21:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Apr 2024 23:19:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[게임코인TV] 4월, 홀더들을 설레게 하는 비트코인 반감기가 온다(1편)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=122620</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=122620</guid>
+            <pubDate>Wed, 03 Apr 2024 23:19:06 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202404/122620_157272_455_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] '별이되어라2' '아스달연대기' '스텔라 블레이드' 까지 다양한 신작 게임 쏟아진다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=122612</link>
@@ -110,14 +118,6 @@
             <pubDate>Sun, 31 Mar 2024 01:16:17 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202403/121955_156027_2632_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[게임코인TV] 넥슨과 위메이드, GDC서 블록체인 게임 핵심으로 '경제'를 말하다.]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=122011</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=122011</guid>
-            <pubDate>Sun, 31 Mar 2024 01:16:17 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202403/122011_156126_226_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
