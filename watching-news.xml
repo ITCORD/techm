@@ -4,11 +4,19 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Apr 2024 09:21:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Apr 2024 10:22:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[[게임코인TV] 4월, 홀더들을 설레게 하는 비트코인 반감기가 온다(1편)]]></title>
+            <title><![CDATA[[게임코인TV] 4월, 홀더들을 설레게 하는 비트코인 반감기가 온다...2편]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=122693</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=122693</guid>
+            <pubDate>Thu, 04 Apr 2024 10:22:31 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202404/122693_157379_620_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[게임코인TV] 4월, 홀더들을 설레게 하는 비트코인 반감기가 온다...1편]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=122620</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=122620</guid>
             <pubDate>Wed, 03 Apr 2024 23:19:06 GMT</pubDate>
@@ -110,14 +118,6 @@
             <pubDate>Sun, 31 Mar 2024 01:16:17 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202403/122035_156212_5443_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] GDC2024에 참여한 위메이드, 게임산업에 새로운 변화를 이끈다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=121955</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=121955</guid>
-            <pubDate>Sun, 31 Mar 2024 01:16:17 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202403/121955_156027_2632_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
