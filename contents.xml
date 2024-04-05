@@ -4,9 +4,17 @@
         <title>테크M ─ 콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Apr 2024 03:21:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Apr 2024 04:24:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[쿠팡플레이, 日·中 포뮬러 원 그랑프리 현장 리포팅 중]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=122722</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=122722</guid>
+            <pubDate>Fri, 05 Apr 2024 00:22:00 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202404/122722_157426_218_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[컴투스 신작 '스타시드' PC버전 서비스 시작]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=122714</link>
@@ -110,14 +118,6 @@
             <pubDate>Thu, 04 Apr 2024 11:42:00 GMT</pubDate>
             <content:encoded><![CDATA[장태훈 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202404/122669_157333_3351_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[CJ제일제당, 퀴진케이 영셰프들 참여하는 '마스터 클래스' 오픈]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=122667</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=122667</guid>
-            <pubDate>Thu, 04 Apr 2024 11:22:00 GMT</pubDate>
-            <content:encoded><![CDATA[장태훈 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202404/122667_157331_1618_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
