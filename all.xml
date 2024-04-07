@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 07 Apr 2024 13:25:58 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Apr 2024 14:20:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -391,6 +391,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202404/122699_157461_5520_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[카카오, 카카오브레인 품고 AI 서비스 개발 '박차' (테크M ─ 이노베이션)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=122761</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=122761</guid>
+            <pubDate>Sun, 07 Apr 2024 14:17:07 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202404/122761_157488_4942_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[구입보다 구독, 순위보다 개인 맞춤...밀리의 서재가 말하는 요즘 도서 시장 트렌드 (테크M ─ 이노베이션)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=122695</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=122695</guid>
@@ -493,14 +501,6 @@
             <pubDate>Wed, 03 Apr 2024 08:19:37 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202404/122614_157250_2914_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[시험대 오른 '정신아 리더십'...카카오 새 선장 첫 과제는 '인사 논란' 해소 (테크M ─ 이노베이션)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=122609</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=122609</guid>
-            <pubDate>Wed, 03 Apr 2024 07:14:28 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202404/122609_157232_2931_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[크립토 주간 브리핑] 변동성 키운 비트코인, 9800만원대 회복...알트코인은 '뚝' (테크M ─ 인베스트먼트)]]></title>
@@ -618,7 +618,7 @@
             <title><![CDATA[[부고] 임현규(KT 경영지원부문장,부사장)씨 모친상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Sun, 07 Apr 2024 12:29:46 GMT</pubDate>
+            <pubDate>Sun, 07 Apr 2024 14:17:39 GMT</pubDate>
             <content:encoded><![CDATA[조성준 기자]]></content:encoded>
         </item>
         <item>
