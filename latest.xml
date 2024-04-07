@@ -4,9 +4,33 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 07 Apr 2024 21:17:33 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Apr 2024 22:17:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[테크M 오리지널] 1화. 예쁜 것도 기술이다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=122321</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=122321</guid>
+            <pubDate>Mon, 08 Apr 2024 07:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[배수현 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202403/122321_156678_502_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[테크M 오리지널] 2화. 로봇이 만들어 준 나만의 파운데이션]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=122328</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=122328</guid>
+            <pubDate>Mon, 08 Apr 2024 07:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[배수현 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202403/122328_156692_1619_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[테크M 오리지널] 3화. 뷰티 디바이스로 좁쌀 여드름 무찌르기]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=122334</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=122334</guid>
+            <pubDate>Mon, 08 Apr 2024 07:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[배수현 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202403/122334_156739_4614_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[중소기업에 효자 노릇 톡톡히 한 쿠팡 PB 상품...제조사 550곳 매출 20% 증가]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=122764</link>
@@ -43,7 +67,7 @@
             <title><![CDATA[[부고] 임현규(KT 경영지원부문장,부사장)씨 모친상]]></title>
             <link>https://www.techm.kr/news/articleList.html</link>
             <guid>https://www.techm.kr/news/articleList.html</guid>
-            <pubDate>Sun, 07 Apr 2024 21:14:36 GMT</pubDate>
+            <pubDate>Sun, 07 Apr 2024 22:13:45 GMT</pubDate>
             <content:encoded><![CDATA[조성준 기자]]></content:encoded>
         </item>
         <item>
@@ -141,30 +165,6 @@
             <pubDate>Fri, 05 Apr 2024 09:15:10 GMT</pubDate>
             <content:encoded><![CDATA[임경호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202404/122746_157463_108_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[그라비티, 태국서 2000석 규모 '라그나로크 음악회' 개최]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=122745</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=122745</guid>
-            <pubDate>Fri, 05 Apr 2024 09:15:10 GMT</pubDate>
-            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202404/122745_157458_3854_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[비트코인은 올랐는데...코인원 지난해 영업적자 235억원]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=122744</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=122744</guid>
-            <pubDate>Fri, 05 Apr 2024 09:15:10 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202404/122744_157455_2513_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아론 '충전온다', 카카오모빌리티와 맞손...전기차 충전 편의성 확대한다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=122742</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=122742</guid>
-            <pubDate>Fri, 05 Apr 2024 09:15:10 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202404/122742_157453_619_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
