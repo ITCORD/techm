@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Apr 2024 14:23:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Apr 2024 15:18:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -280,6 +280,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202404/122778_157509_2213_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[메가존클라우드, 지난해 매출 1조4265억…2년 연속 조단위 매출 달성 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=122824</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=122824</guid>
+            <pubDate>Mon, 08 Apr 2024 10:19:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202404/122824_157596_3354_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[KB국민은행, 홍콩 H지수 기초 ELS 손실 고객에 대한 자율조정 절차 돌입 (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=122822</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=122822</guid>
@@ -382,14 +390,6 @@
             <pubDate>Fri, 05 Apr 2024 09:15:10 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202404/122738_157450_4332_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["보이스피싱 근절하자"…과기정통부·금융위·금감원 머리 맞댄다 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=122734</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=122734</guid>
-            <pubDate>Fri, 05 Apr 2024 09:15:10 GMT</pubDate>
-            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202404/122734_157449_2851_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[AI에 진심인 네이버·카카오, 서비스 적용 위한 조직 개편 중...수익화 해답 찾을까 (테크M ─ 이노베이션)]]></title>
@@ -643,7 +643,7 @@
             <title><![CDATA[[부고] 임현규(KT 경영지원부문장,부사장)씨 모친상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Mon, 08 Apr 2024 08:21:43 GMT</pubDate>
+            <pubDate>Mon, 08 Apr 2024 15:16:41 GMT</pubDate>
             <content:encoded><![CDATA[조성준 기자]]></content:encoded>
         </item>
         <item>
