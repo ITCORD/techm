@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Apr 2024 05:20:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Apr 2024 06:24:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 파수, ELLM을 공개하며 '엔터프라이즈 AI 기업'으로 재도약한다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=122816</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=122816</guid>
+            <pubDate>Mon, 08 Apr 2024 06:24:12 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202404/122816_157559_144_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 카카오VX, 생생한 필드 현장감을 구현한 '프렌즈 스크린 퀀텀(Q)' 출시]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=122735</link>
@@ -110,14 +118,6 @@
             <pubDate>Sun, 31 Mar 2024 01:16:17 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202403/122048_156245_3045_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[게임코인TV] GDC 단골 메타-언리얼 그리고 한국 기업 비햅틱스...게코와 함께 둘러보는 GDC 엑스포 현장-1편]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=122047</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=122047</guid>
-            <pubDate>Sun, 31 Mar 2024 01:16:17 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202403/122047_156244_5037_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
