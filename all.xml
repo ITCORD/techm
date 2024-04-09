@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Apr 2024 22:20:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Apr 2024 23:21:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[같이보소] 특별시민-퀸메이커-정직한 후보...선거날에 즐기는 선거영화 (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=122865</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=122865</guid>
+            <pubDate>Wed, 10 Apr 2024 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202404/122865_157643_3920_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[테크M 오리지널] 1화. 2024년은 온디바이스 AI 시대 (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=122825</link>
@@ -160,12 +168,12 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202404/122872_157721_3441_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[유비소프트 한국 지사 문 닫는다…글로벌 구조조정 여파 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=122885</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=122885</guid>
-            <pubDate>Tue, 09 Apr 2024 07:17:13 GMT</pubDate>
-            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202404/122885_157673_4713_v150.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[같이보소] 특별시민-퀸메이커-정직한 후보...선거날에 즐기는 선거영화 (테크M ─ 콘텐츠)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=122865</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=122865</guid>
+            <pubDate>Wed, 10 Apr 2024 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202404/122865_157643_3920_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['애니팡 프렌즈', 제22대 국회의원 선거 유권자 응원 나선다 (테크M ─ 콘텐츠)]]></title>
@@ -270,14 +278,6 @@
             <pubDate>Tue, 09 Apr 2024 10:57:00 GMT</pubDate>
             <content:encoded><![CDATA[임경호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202404/122854_157632_5044_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[굿터치-오버더핸드, 토탈 버튜버 플랫폼 '마스코즈' 글로벌 서비스 '맞손' (테크M ─ 콘텐츠)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=122853</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=122853</guid>
-            <pubDate>Tue, 09 Apr 2024 10:57:00 GMT</pubDate>
-            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202404/122853_157631_4245_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["동네 사장님 고객으로 모십니다" AI 활로 찾는 통신사, 소상공인 공략 열중 (테크M ─ 인프라)]]></title>
@@ -727,6 +727,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202403/122336_156746_538_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA["투표하고 벚꽃 보러 가자"···막바지 꽃구경 핫스팟은 여기로 (테크M ─ 라이프)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=122884</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=122884</guid>
+            <pubDate>Wed, 10 Apr 2024 07:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[배수현 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202404/122884_157674_4823_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[삼성전자, 수원 디지털시티에 '제4어린이집' 개원···1780평 규모 (테크M ─ 라이프)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=122889</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=122889</guid>
@@ -829,14 +837,6 @@
             <pubDate>Mon, 08 Apr 2024 09:00:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202404/122768_157500_026_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[현대백화점 중동점, 20년만에 대대적 리뉴얼...서부권 정복 본격화 (테크M ─ 라이프)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=122765</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=122765</guid>
-            <pubDate>Mon, 08 Apr 2024 08:54:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202404/122765_157497_5434_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[글로벌] 머스크 "내년 안에 인간 능가하는 AI 나올수도" (테크M ─ 리포트)]]></title>
@@ -954,7 +954,7 @@
             <title><![CDATA[[게임코인TV] 4.10 총선, 여야의 가상자산 관련 공약은? (테크M ─ 보는 뉴스)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=122901</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=122901</guid>
-            <pubDate>Tue, 09 Apr 2024 22:20:31 GMT</pubDate>
+            <pubDate>Tue, 09 Apr 2024 22:15:27 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202404/122901_157733_1449_v150.jpg" length="0" type="image/jpg"/>
         </item>
