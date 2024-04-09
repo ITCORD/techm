@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Apr 2024 21:21:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Apr 2024 22:20:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[게임코인TV] 4.10 총선, 여야의 가상자산 관련 공약은?]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=122901</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=122901</guid>
+            <pubDate>Tue, 09 Apr 2024 22:20:31 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202404/122901_157733_1449_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] NHN x 와플랫 x 용인시, 디지털 시니어케어 사업 추진한다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=122893</link>
@@ -110,14 +118,6 @@
             <pubDate>Sun, 31 Mar 2024 01:16:17 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202403/122239_156544_3116_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 카카오게임즈, 글로벌 콘솔 기대작 '크로노 오디세이' 공개]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=122093</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=122093</guid>
-            <pubDate>Sun, 31 Mar 2024 01:16:17 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202403/122093_156325_4935_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
