@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Apr 2024 09:24:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Apr 2024 10:23:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] LG유플러스, 익시(ixi)기반 'AI 에이전트 플랫폼' 공개]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=122966</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=122966</guid>
+            <pubDate>Thu, 11 Apr 2024 10:23:25 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202404/122966_157819_056_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[게임코인TV] 4.10 총선, 여야의 가상자산 관련 공약은?]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=122901</link>
@@ -110,14 +118,6 @@
             <pubDate>Sun, 31 Mar 2024 01:16:17 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202403/122260_156593_5918_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] NHN클라우드, 'AI 데이터센터'와 '지코어와 협업'으로 AI 인프라 넓힌다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=122239</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=122239</guid>
-            <pubDate>Sun, 31 Mar 2024 01:16:17 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202403/122239_156544_3116_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
