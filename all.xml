@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Apr 2024 05:20:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Apr 2024 06:25:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,10 +168,18 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202404/122997_157873_2221_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[하이브IM, '별이되어라2' 매출 6위 껑충...퍼블리셔 데뷔 순항 중 (테크M ─ 콘텐츠)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=123014</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=123014</guid>
+            <pubDate>Fri, 12 Apr 2024 06:21:40 GMT</pubDate>
+            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202404/123014_157895_1425_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[LCK 브리핑] 복수 꿈꾸는 T1 vs. 방심 않겠다는 한화생명 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=123013</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=123013</guid>
-            <pubDate>Fri, 12 Apr 2024 05:18:07 GMT</pubDate>
+            <pubDate>Fri, 12 Apr 2024 05:17:43 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202404/123013_157890_343_v150.jpg" length="0" type="image/jpg"/>
         </item>
@@ -272,18 +280,10 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202404/122972_157833_236_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[그라비티, '라그나로크X' PVP 토너먼트 WOC 시즌4 오픈...14일까지 참가자 모집 (테크M ─ 콘텐츠)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=122974</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=122974</guid>
-            <pubDate>Thu, 11 Apr 2024 11:14:28 GMT</pubDate>
-            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202404/122974_157838_3446_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[과기정통부, AI 클라우드 산업 키운다…4차 클라우드 기본계획 수립 착수 (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=123016</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=123016</guid>
-            <pubDate>Fri, 12 Apr 2024 05:18:30 GMT</pubDate>
+            <pubDate>Fri, 12 Apr 2024 05:17:43 GMT</pubDate>
             <content:encoded><![CDATA[조성준 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202404/123016_157894_96_v150.jpg" length="0" type="image/jpg"/>
         </item>
@@ -727,10 +727,34 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202403/122373_156805_4247_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[코웨이 '비렉스 리클라이닝 안마베드·척추베드' 국내 최초 출시 (테크M ─ 라이프)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=123020</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=123020</guid>
+            <pubDate>Fri, 12 Apr 2024 06:24:44 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202404/123020_157900_147_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['수익성 꼴찌' 쿠팡, 와우 멤버십 변경...韓 이커머스 생태계 수호 '고육지책' (테크M ─ 라이프)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=123019</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=123019</guid>
+            <pubDate>Fri, 12 Apr 2024 06:24:44 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202404/123019_157898_3612_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[쿠팡, 멤버십 요금 변경 이유는...매출 대비 영업이익률 고작 '1.9%' (테크M ─ 라이프)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=123017</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=123017</guid>
+            <pubDate>Fri, 12 Apr 2024 06:24:44 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202404/123017_157897_2735_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA["친환경 활동 이어갈 것"...현대백화점, 참여정원 사업에 1억 후원 (테크M ─ 라이프)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=123015</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=123015</guid>
-            <pubDate>Fri, 12 Apr 2024 05:19:56 GMT</pubDate>
+            <pubDate>Fri, 12 Apr 2024 05:17:43 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202404/123015_157893_619_v150.jpg" length="0" type="image/jpg"/>
         </item>
@@ -813,30 +837,6 @@
             <pubDate>Fri, 12 Apr 2024 09:56:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202404/122986_157863_5634_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[바이탈뷰티, 병의원 전용 건강기능식품 2종 출시 (테크M ─ 라이프)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=122969</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=122969</guid>
-            <pubDate>Thu, 11 Apr 2024 07:15:55 GMT</pubDate>
-            <content:encoded><![CDATA[장태훈 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202404/122969_157832_122_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[배민 배달로봇 딜리, 해외 디자인 어워드 2관왕 달성 (테크M ─ 라이프)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=122943</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=122943</guid>
-            <pubDate>Thu, 11 Apr 2024 00:29:00 GMT</pubDate>
-            <content:encoded><![CDATA[장태훈 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202404/122943_157782_1645_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[농심, 백산수 광고모델로 임시완 발탁...새로운 광고 선보인다 (테크M ─ 라이프)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=122935</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=122935</guid>
-            <pubDate>Thu, 11 Apr 2024 11:31:00 GMT</pubDate>
-            <content:encoded><![CDATA[장태훈 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202404/122935_157775_501_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[글로벌] 오픈AI·메타, 추론과 계획 능력 갖춘 새로운 AI 언어 모델 출시 앞둬 (테크M ─ 리포트)]]></title>
