@@ -4,9 +4,25 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Apr 2024 02:35:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Apr 2024 03:21:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[신한은행, 유튜브 콘텐츠 '쩐썰인' 공개...콘텐츠 역량 'UP']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=123011</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=123011</guid>
+            <pubDate>Fri, 12 Apr 2024 11:35:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202404/123011_157888_3548_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[빗썸, 비트코인 무료 선물 이벤트 열었다...최대 20만원 획득]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=123010</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=123010</guid>
+            <pubDate>Fri, 12 Apr 2024 11:34:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202404/123010_157887_348_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[11번가, 소상공인 상생 '광폭행보'...2000곳 온라인 진출 돕는다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=123009</link>
@@ -150,22 +166,6 @@
             <pubDate>Fri, 12 Apr 2024 10:14:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202404/122992_157869_1422_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[넷이즈게임즈, 신작 '원스 휴먼' 한국 출시 예고]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=122989</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=122989</guid>
-            <pubDate>Fri, 12 Apr 2024 10:13:00 GMT</pubDate>
-            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202404/122989_157866_431_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[네오핀, 오더북 기반 RWA 전용 플랫폼 내놓는다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=122990</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=122990</guid>
-            <pubDate>Fri, 12 Apr 2024 10:12:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202404/122990_157867_1239_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
