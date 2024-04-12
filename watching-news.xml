@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Apr 2024 06:25:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Apr 2024 07:20:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 네이버클라우드 X 인텔, AI칩 생태계 구축 위한 'AI 공동연구센터' 설립한다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=123023</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=123023</guid>
+            <pubDate>Fri, 12 Apr 2024 07:20:48 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202404/123023_157905_5220_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] LG유플러스, 익시(ixi)기반 'AI 에이전트 플랫폼' 공개]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=122966</link>
@@ -110,14 +118,6 @@
             <pubDate>Sun, 31 Mar 2024 01:16:17 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202403/122333_156728_4151_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[게임코인TV] 블록체인 게임, 핵심은 결국 경제다...2024 GDC 취재 후기]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=122260</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=122260</guid>
-            <pubDate>Sun, 31 Mar 2024 01:16:17 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202403/122260_156593_5918_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
