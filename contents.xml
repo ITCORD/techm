@@ -4,9 +4,17 @@
         <title>테크M ─ 콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 13 Apr 2024 17:16:18 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Apr 2024 18:19:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[PWS 통신] 광동 프릭스, 과감한 공격력 앞세워 1위 지켜내]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=123046</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=123046</guid>
+            <pubDate>Sun, 14 Apr 2024 02:16:00 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202404/123046_157960_1425_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[LCK 브리핑] 결정적 순간 복수 성공한 T1...결승전은 5연속 '젠티전']]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=123042</link>
@@ -110,14 +118,6 @@
             <pubDate>Fri, 12 Apr 2024 11:07:00 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202404/123006_157925_4439_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['데이브 더 다이버', BAFTA 게임 어워즈 2024 수상..."국내 게임 최초"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=122996</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=122996</guid>
-            <pubDate>Fri, 12 Apr 2024 11:04:00 GMT</pubDate>
-            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202404/122996_157922_4257_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
