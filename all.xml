@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 13 Apr 2024 21:16:52 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Apr 2024 22:16:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[써봤다] "완판 될 만하네"…삼성 '갤럭시 핏3' 240시간 착용해 보니 (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=123045</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=123045</guid>
+            <pubDate>Sun, 14 Apr 2024 07:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202404/123045_157951_3549_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[PWS 통신] 광동 프릭스, 과감한 공격력 앞세워 1위 지켜내 (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=123046</link>
@@ -27,7 +35,7 @@
             <title><![CDATA[[부고] 김민규씨(신세계그룹 경영전략실 경영지원총괄 부사장) 장인상 (테크M ─ 전체기사)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Sat, 13 Apr 2024 21:13:18 GMT</pubDate>
+            <pubDate>Sat, 13 Apr 2024 22:13:07 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
         </item>
         <item>
@@ -157,14 +165,6 @@
             <pubDate>Fri, 12 Apr 2024 07:17:59 GMT</pubDate>
             <content:encoded><![CDATA[임경호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202404/123022_157904_506_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 네이버클라우드 X 인텔, AI칩 생태계 구축 위한 'AI 공동연구센터' 설립한다 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=123023</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=123023</guid>
-            <pubDate>Fri, 12 Apr 2024 07:17:59 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202404/123023_157905_5220_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[PWS 통신] 광동 프릭스, 과감한 공격력 앞세워 1위 지켜내 (테크M ─ 콘텐츠)]]></title>
@@ -618,7 +618,7 @@
             <title><![CDATA[[부고] 김민규씨(신세계그룹 경영전략실 경영지원총괄 부사장) 장인상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Sat, 13 Apr 2024 21:14:31 GMT</pubDate>
+            <pubDate>Sat, 13 Apr 2024 22:15:07 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
         </item>
         <item>
@@ -657,7 +657,7 @@
             <title><![CDATA[[부고] 임현규(KT 경영지원부문장,부사장)씨 모친상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Sat, 13 Apr 2024 21:14:31 GMT</pubDate>
+            <pubDate>Sat, 13 Apr 2024 22:15:07 GMT</pubDate>
             <content:encoded><![CDATA[조성준 기자]]></content:encoded>
         </item>
         <item>
@@ -723,6 +723,14 @@
             <pubDate>Fri, 29 Mar 2024 10:49:00 GMT</pubDate>
             <content:encoded><![CDATA[배수현 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202403/122365_156799_2947_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[써봤다] "완판 될 만하네"…삼성 '갤럭시 핏3' 240시간 착용해 보니 (테크M ─ 라이프)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=123045</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=123045</guid>
+            <pubDate>Sun, 14 Apr 2024 07:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202404/123045_157951_3549_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["月 7890원에 무료배송·배달·OTT 다 되네" 쿠팡 충성고객 "여전히 싸다" 외치는 이유 (테크M ─ 라이프)]]></title>
@@ -827,14 +835,6 @@
             <pubDate>Fri, 12 Apr 2024 10:14:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202404/122992_157869_1422_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[와디즈 "가장 먼저 만나는 혁신" CES 2024 테크 제품 펀딩 오픈 (테크M ─ 라이프)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=122987</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=122987</guid>
-            <pubDate>Fri, 12 Apr 2024 10:02:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202404/122987_157864_157_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[글로벌] 앤디 재시 아마존 CEO "AWS에 생성형AI 구축...수익 상당 부분 견인할 것" (테크M ─ 리포트)]]></title>

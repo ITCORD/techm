@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 13 Apr 2024 21:16:52 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Apr 2024 22:16:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[써봤다] "완판 될 만하네"…삼성 '갤럭시 핏3' 240시간 착용해 보니]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=123045</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=123045</guid>
+            <pubDate>Sun, 14 Apr 2024 07:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202404/123045_157951_3549_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[PWS 통신] 광동 프릭스, 과감한 공격력 앞세워 1위 지켜내]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=123046</link>
@@ -27,7 +35,7 @@
             <title><![CDATA[[부고] 김민규씨(신세계그룹 경영전략실 경영지원총괄 부사장) 장인상]]></title>
             <link>https://www.techm.kr/news/articleList.html</link>
             <guid>https://www.techm.kr/news/articleList.html</guid>
-            <pubDate>Sat, 13 Apr 2024 21:13:18 GMT</pubDate>
+            <pubDate>Sat, 13 Apr 2024 22:13:07 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
         </item>
         <item>
@@ -157,14 +165,6 @@
             <pubDate>Fri, 12 Apr 2024 07:17:59 GMT</pubDate>
             <content:encoded><![CDATA[임경호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202404/123022_157904_506_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 네이버클라우드 X 인텔, AI칩 생태계 구축 위한 'AI 공동연구센터' 설립한다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=123023</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=123023</guid>
-            <pubDate>Fri, 12 Apr 2024 07:17:59 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202404/123023_157905_5220_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
