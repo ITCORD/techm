@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 13 Apr 2024 00:59:41 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Apr 2024 01:36:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[크립토 주간 브리핑] 1억원 내외 등락하는 비트코인...알트코인은 두자릿수 '뚝' (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=123034</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=123034</guid>
+            <pubDate>Sat, 13 Apr 2024 09:55:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202404/123034_157934_4535_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[PWS GF 통신] 예열 끝낸 광동 프릭스...그랜드 파이널 1일차 중간 선두 (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=123033</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 12 Apr 2024 00:17:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202404/123012_157889_1738_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[신한은행, 유튜브 콘텐츠 '쩐썰인' 공개...콘텐츠 역량 'UP' (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=123011</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=123011</guid>
-            <pubDate>Fri, 12 Apr 2024 11:35:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202404/123011_157888_3548_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[PWS GF 통신] 예열 끝낸 광동 프릭스...그랜드 파이널 1일차 중간 선두 (테크M ─ 콘텐츠)]]></title>
@@ -504,6 +504,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202404/122913_157756_4450_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[크립토 주간 브리핑] 1억원 내외 등락하는 비트코인...알트코인은 두자릿수 '뚝' (테크M ─ 인베스트먼트)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=123034</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=123034</guid>
+            <pubDate>Sat, 13 Apr 2024 09:55:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202404/123034_157934_4535_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[크립토 브리핑] 반감기 앞둔 비트코인, 1억원선 횡보...상승 기대감은 여전 (테크M ─ 인베스트먼트)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=122984</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=122984</guid>
@@ -608,14 +616,6 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202404/122864_157642_3518_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[신한은행, 5억 달러 외화 후순위채권 발행 성공 (테크M ─ 인베스트먼트)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=122860</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=122860</guid>
-            <pubDate>Tue, 09 Apr 2024 11:20:00 GMT</pubDate>
-            <content:encoded><![CDATA[장태훈 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202404/122860_157639_162_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[기술-콘텐츠 측면에서의 e스포츠 가치 역설한 윤태진 디그라 학회장 (테크M ─ 피플)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=122958</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=122958</guid>
@@ -651,7 +651,7 @@
             <title><![CDATA[[부고] 임현규(KT 경영지원부문장,부사장)씨 모친상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Sat, 13 Apr 2024 00:58:32 GMT</pubDate>
+            <pubDate>Sat, 13 Apr 2024 01:35:41 GMT</pubDate>
             <content:encoded><![CDATA[조성준 기자]]></content:encoded>
         </item>
         <item>
