@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 14 Apr 2024 06:03:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Apr 2024 08:04:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -615,10 +615,17 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202404/122864_157642_3518_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[부고] 김영만(한국e스포츠협회 회장)씨 모친상 (테크M ─ 피플)]]></title>
+            <link>https://ITCORD.github.io/techm/all.xml</link>
+            <guid>https://ITCORD.github.io/techm/all.xml</guid>
+            <pubDate>Sun, 14 Apr 2024 08:01:48 GMT</pubDate>
+            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[부고] 김민규씨(신세계그룹 경영전략실 경영지원총괄 부사장) 장인상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Sun, 14 Apr 2024 06:01:15 GMT</pubDate>
+            <pubDate>Sun, 14 Apr 2024 08:01:48 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
         </item>
         <item>
@@ -657,7 +664,7 @@
             <title><![CDATA[[부고] 임현규(KT 경영지원부문장,부사장)씨 모친상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Sun, 14 Apr 2024 06:01:15 GMT</pubDate>
+            <pubDate>Sun, 14 Apr 2024 08:01:48 GMT</pubDate>
             <content:encoded><![CDATA[조성준 기자]]></content:encoded>
         </item>
         <item>
@@ -715,14 +722,6 @@
             <pubDate>Fri, 29 Mar 2024 05:15:41 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202403/122394_156829_650_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SKT, 도하 세계수영선수권 대회 금메달리스트 황선우에게 포상금 전달 (테크M ─ 피플)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=122365</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=122365</guid>
-            <pubDate>Fri, 29 Mar 2024 10:49:00 GMT</pubDate>
-            <content:encoded><![CDATA[배수현 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202403/122365_156799_2947_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[써봤다] "완판 될 만하네"…삼성 '갤럭시 핏3' 240시간 착용해 보니 (테크M ─ 라이프)]]></title>
