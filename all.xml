@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Apr 2024 11:20:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Apr 2024 12:33:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -280,12 +280,28 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202404/123071_158014_420_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[테크M 이슈] 앞서가는 삼성, 쫓아가는 애플…AI 디바이스 생태계 '추격전' (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=123115</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=123115</guid>
+            <pubDate>Mon, 15 Apr 2024 07:12:45 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202404/123115_158097_1730_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[통신 3사 게임 체인저 'AI'...AI 인재도 직접 키운다 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=123107</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=123107</guid>
+            <pubDate>Mon, 15 Apr 2024 07:12:45 GMT</pubDate>
+            <content:encoded><![CDATA[배수현 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202404/123107_158101_1912_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[오프라인 스며드는 카카오페이…'올인원 금융플랫폼' 꿈꾸는 신원근 (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=123106</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=123106</guid>
             <pubDate>Mon, 15 Apr 2024 05:13:45 GMT</pubDate>
             <content:encoded><![CDATA[조성준 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202404/123106_158055_5648_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202404/123106_158098_1759_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["제4이통 스테이지엑스, 재무상태 불확실성 크다"...과거 사례와 비교해보니 (테크M ─ 인프라)]]></title>
@@ -293,7 +309,7 @@
             <guid>https://www.techm.kr/news/articleView.html?idxno=123104</guid>
             <pubDate>Mon, 15 Apr 2024 11:24:00 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202404/123104_158053_142_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202404/123104_158100_1848_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[삼성전자, '밀라노 디자인위크 2024' 참가...AI 탑재한 빌트인 패키지 전시 (테크M ─ 인프라)]]></title>
@@ -376,22 +392,6 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202404/123073_158010_548_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[탤런트뱅크, 직능연과 '채용 솔루션 활성화' 업무협약 체결 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=123070</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=123070</guid>
-            <pubDate>Mon, 15 Apr 2024 09:48:00 GMT</pubDate>
-            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202404/123070_158008_4820_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미국 실리콘밸리 날아간 황현식…AI 석·박사 인재 유치 총력전 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=123067</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=123067</guid>
-            <pubDate>Mon, 15 Apr 2024 09:43:00 GMT</pubDate>
-            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202404/123067_158006_4225_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[코빗서 부활한 페이코인, 업비트-빗썸 재상장 가능성은 (테크M ─ 이노베이션)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=123113</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=123113</guid>
@@ -445,7 +445,7 @@
             <guid>https://www.techm.kr/news/articleView.html?idxno=123055</guid>
             <pubDate>Sun, 14 Apr 2024 11:14:00 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202404/123055_158030_288_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202404/123055_157968_850_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[야놀자 플랫폼, '미리 준비하는 얼리버드 해외여행' 프로모션 진행 (테크M ─ 이노베이션)]]></title>
@@ -770,7 +770,7 @@
             <guid>https://www.techm.kr/news/articleView.html?idxno=123089</guid>
             <pubDate>Mon, 15 Apr 2024 10:29:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202404/123089_158035_2930_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202404/123089_158099_1824_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[CJ제일제당, 눈물의 여왕과 맞손...'곡물의 여왕' 기획전 진행 (테크M ─ 라이프)]]></title>
@@ -786,7 +786,7 @@
             <guid>https://www.techm.kr/news/articleView.html?idxno=123045</guid>
             <pubDate>Sun, 14 Apr 2024 07:00:00 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202404/123045_158032_2837_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202404/123045_157951_3549_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["月 7890원에 무료배송·배달·OTT 다 되네" 쿠팡 충성고객 "여전히 싸다" 외치는 이유 (테크M ─ 라이프)]]></title>
