@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Apr 2024 03:24:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Apr 2024 04:23:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['DB의 아버지' 오라클 앤디 멘델손 "생성형 AI 도입 '융합형 DB'가 이끈다"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=123169</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=123169</guid>
+            <pubDate>Tue, 16 Apr 2024 04:18:57 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202404/123169_158144_458_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[KISA, 블록체인과 디지털화폐 조망하는 컨퍼런스 연다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=123139</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 16 Apr 2024 10:28:00 GMT</pubDate>
             <content:encoded><![CDATA[임경호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202404/123154_158127_2524_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[CJ ENM, 제로베이스원과 소통하는 '챗' 서비스 오픈]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=123150</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=123150</guid>
-            <pubDate>Tue, 16 Apr 2024 10:23:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202404/123150_158125_2327_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
