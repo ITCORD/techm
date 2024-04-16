@@ -4,16 +4,24 @@
         <title>테크M ─ 인베스트먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Apr 2024 07:23:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Apr 2024 08:23:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[AI 진심인 카카오, '코GPT 2.0' 카카오브레인에 360억원 수혈]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=123190</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=123190</guid>
+            <pubDate>Tue, 16 Apr 2024 08:21:40 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202404/123190_158166_2628_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[전쟁 우려에 힘 못쓰는 비트코인, 개당 9400만원선까지 밀려]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=123175</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=123175</guid>
             <pubDate>Tue, 16 Apr 2024 06:23:39 GMT</pubDate>
             <content:encoded><![CDATA[장태훈 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202404/123175_158151_2657_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202404/123175_158174_1758_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[업스테이지, 1000억원 규모 시리즈 B 투자 유치]]></title>
@@ -110,14 +118,6 @@
             <pubDate>Mon, 15 Apr 2024 10:04:00 GMT</pubDate>
             <content:encoded><![CDATA[장태훈 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202404/123068_158007_4743_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[카카오뱅크, '사업자 인증서' 출시...발급수수료 '무료']]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=123075</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=123075</guid>
-            <pubDate>Mon, 15 Apr 2024 10:04:00 GMT</pubDate>
-            <content:encoded><![CDATA[장태훈 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202404/123075_158012_5953_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
