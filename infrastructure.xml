@@ -4,9 +4,25 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Apr 2024 02:31:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Apr 2024 03:21:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성전자, 업계 최고 속도 LPDDR5X 개발 성공…"온디바이스 AI 최적화"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=123227</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=123227</guid>
+            <pubDate>Wed, 17 Apr 2024 11:34:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202404/123227_158215_3243_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[AI 거버넌스 강조한 SKT..."글로벌 AI 컴퍼니 주춧돌"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=123221</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=123221</guid>
+            <pubDate>Wed, 17 Apr 2024 11:27:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202404/123221_158209_1015_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[소프트캠프, 에쓰핀테크놀로지와 생성형 AI 보안 '맞손']]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=123224</link>
@@ -102,22 +118,6 @@
             <pubDate>Wed, 17 Apr 2024 09:29:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202404/123207_158189_2928_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성전자, '고효율 펠티어 냉각 기술' 개발 컨소시엄 발족]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=123200</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=123200</guid>
-            <pubDate>Wed, 17 Apr 2024 09:27:00 GMT</pubDate>
-            <content:encoded><![CDATA[배수현 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202404/123200_158186_2229_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제네시스랩, AI 영상면접 솔루션 뷰인터HR '하드스킬' 평가 韓 최초 선봬]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=123201</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=123201</guid>
-            <pubDate>Wed, 17 Apr 2024 09:20:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202404/123201_158184_204_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
