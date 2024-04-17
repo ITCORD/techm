@@ -4,9 +4,25 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Apr 2024 08:26:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Apr 2024 09:22:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[공정위, 그라비티·위메이드 현장 조사...웹젠은 '아직']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=123261</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=123261</guid>
+            <pubDate>Wed, 17 Apr 2024 09:16:55 GMT</pubDate>
+            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202404/123261_158298_5643_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[캠퍼스 솔루션 공개한 화웨이…국내 산업 디지털 전환 이끈다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=123260</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=123260</guid>
+            <pubDate>Wed, 17 Apr 2024 09:16:55 GMT</pubDate>
+            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202404/123260_158297_1848_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[규제로 산업 옥죄던 문체부, 게임사 대표들 만난다...현장 목소리 담긴 진흥책 나올까]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=123257</link>
@@ -150,22 +166,6 @@
             <pubDate>Wed, 17 Apr 2024 05:15:36 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202404/123233_158224_4124_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[네이버페이, 빌보드와 맞손...핀테크-엔터테인먼트 시너지 낸다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=123234</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=123234</guid>
-            <pubDate>Wed, 17 Apr 2024 05:15:36 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202404/123234_158225_4517_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[블록체인 게임 플랫폼 '플레이댑' 자체 메인넷 출시...네트워크 본격 가동]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=123235</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=123235</guid>
-            <pubDate>Wed, 17 Apr 2024 05:15:36 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202404/123235_158226_4845_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
