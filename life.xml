@@ -4,9 +4,17 @@
         <title>테크M ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Apr 2024 08:26:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Apr 2024 09:21:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[코웨이, '2024 레드닷 디자인 어워드' 18년 연속 수상]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=123328</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=123328</guid>
+            <pubDate>Thu, 18 Apr 2024 09:20:16 GMT</pubDate>
+            <content:encoded><![CDATA[장태훈 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202404/123328_158373_4321_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[코웨이, 한국리서치 정수기 만족도 '1위']]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=123313</link>
@@ -110,14 +118,6 @@
             <pubDate>Tue, 16 Apr 2024 07:21:41 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202404/123186_158164_5010_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['청소광' 브라이언, 7주년 맞은 필터샤워기 '퓨어썸' 알린다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=123178</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=123178</guid>
-            <pubDate>Tue, 16 Apr 2024 07:21:41 GMT</pubDate>
-            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202404/123178_158153_362_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
