@@ -4,9 +4,25 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Apr 2024 06:27:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Apr 2024 10:23:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 테크M 콘퍼런스 'After GDC 2024' 게임업계 전문가 인사이트 공유]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=123394</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=123394</guid>
+            <pubDate>Fri, 19 Apr 2024 10:23:09 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202404/123394_158455_2625_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[게임코인TV] 부활한 페이코인, 재상장 기준은 1년?]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=123336</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=123336</guid>
+            <pubDate>Fri, 19 Apr 2024 10:23:09 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202404/123336_158380_282_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[게임코인TV] 홍콩의 역습, 비트코인-이더리움 현물 ETF 승인]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=123262</link>
@@ -102,22 +118,6 @@
             <pubDate>Tue, 02 Apr 2024 08:24:21 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202404/122550_157130_259_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 위메이드의 초대형 신작, 낯선 세계 속 원정대 이야기 '미르5' 공개]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=122500</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=122500</guid>
-            <pubDate>Mon, 01 Apr 2024 12:37:29 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202404/122500_157058_3817_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[게임코인TV] 위메이드 대표이사로 취임한 박관호...그가 제시한 새로운 토크노믹스]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=122414</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=122414</guid>
-            <pubDate>Sun, 31 Mar 2024 01:16:17 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202403/122414_156877_455_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
