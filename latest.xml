@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 21 Apr 2024 09:23:12 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Apr 2024 10:19:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[봤다] 여고추리반 시즌3가 온다...시즌1, 2 복습하러 티빙으로 GO!]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=123396</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=123396</guid>
+            <pubDate>Sun, 21 Apr 2024 10:15:05 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202404/123396_158518_157_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[음악 창작에 파고 드는 AI...지니뮤직 '지니리라'부터 포자랩스 '라이브'까지]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=123411</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 19 Apr 2024 10:18:14 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202404/123392_158454_1852_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[카카오, 한국관광공사 손잡고 '코리아둘레길' 알린다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=123391</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=123391</guid>
-            <pubDate>Fri, 19 Apr 2024 10:18:14 GMT</pubDate>
-            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202404/123391_158453_581_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
