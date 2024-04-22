@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Apr 2024 05:21:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Apr 2024 06:27:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[테크M 이슈] "작가에게 저작권 100% 주는데"…공정위 불공정약관 지적에 네이버웹툰이 억울한 이유]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=123457</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=123457</guid>
+            <pubDate>Mon, 22 Apr 2024 06:20:48 GMT</pubDate>
+            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202404/123457_158567_5649_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[넷마블 '아스달 연대기' 출시 초읽기...극강의 자유도로 MMO 오픈월드 새판짜기]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=123458</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 22 Apr 2024 10:45:00 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202404/123440_158548_4430_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[CJ올리브네트웍스, '화이트햇 투게더' 시즌3 참가기업 모집]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=123438</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=123438</guid>
-            <pubDate>Mon, 22 Apr 2024 10:40:00 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202404/123438_158546_3924_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
