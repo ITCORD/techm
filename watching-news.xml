@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Apr 2024 08:27:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Apr 2024 09:22:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] KT DS, 생성형 AI '앤트봇'과 '비스트'로 업무 자동화 추진한다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=123541</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=123541</guid>
+            <pubDate>Tue, 23 Apr 2024 09:22:38 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202404/123541_158714_3321_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 하이브 수퍼톤, AI 실시간 음성 변환 서비스 '시프트' 글로벌 오픈베타 시작]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=123463</link>
@@ -110,14 +118,6 @@
             <pubDate>Wed, 03 Apr 2024 23:19:06 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202404/122620_157272_455_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] '별이되어라2' '아스달연대기' '스텔라 블레이드' 까지 다양한 신작 게임 쏟아진다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=122612</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=122612</guid>
-            <pubDate>Wed, 03 Apr 2024 07:17:44 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202404/122612_157234_5455_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
