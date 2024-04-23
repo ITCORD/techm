@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Apr 2024 15:21:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Apr 2024 16:24:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -280,6 +280,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202404/123492_158649_2231_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[애플, 5월 7일 '스페셜 이벤트' 연다…새 아이패드 공개 전망 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=123554</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=123554</guid>
+            <pubDate>Tue, 23 Apr 2024 15:16:05 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202404/123554_158757_428_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['위기가 곧 기회'...통신사, OTT 결합 상품 혜택 확대로 소비자 마음 달랜다 (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=123527</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=123527</guid>
@@ -382,14 +390,6 @@
             <pubDate>Tue, 23 Apr 2024 10:21:00 GMT</pubDate>
             <content:encoded><![CDATA[배수현 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202404/123485_158643_823_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SKT, 소프트뱅크와 손잡고 '사회적 가치' 측정 나선다 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=123489</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=123489</guid>
-            <pubDate>Tue, 23 Apr 2024 10:15:00 GMT</pubDate>
-            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202404/123489_158646_1422_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이스크라, 애니모카 브랜드로부터 투자 유치 (테크M ─ 이노베이션)]]></title>
