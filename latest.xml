@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Apr 2024 13:30:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Apr 2024 14:22:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[해봤다] 김형태가 완성한 기막힌 짬뽕맛, 시프트업 '스텔라 블레이드']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=123620</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=123620</guid>
+            <pubDate>Wed, 24 Apr 2024 14:16:22 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202404/123620_158835_610_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[네오위즈, 모바일 신작 '고양이와 스프: 말랑 타운' 사전 예약 시작]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=123618</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 24 Apr 2024 11:12:00 GMT</pubDate>
             <content:encoded><![CDATA[배수현 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202404/123592_158790_611_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[KT, 국민체육진흥공단 손잡고 스포츠 취약계층 지원 나선다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=123595</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=123595</guid>
-            <pubDate>Wed, 24 Apr 2024 11:10:00 GMT</pubDate>
-            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202404/123595_158791_943_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
