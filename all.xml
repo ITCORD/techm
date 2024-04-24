@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Apr 2024 09:20:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Apr 2024 10:24:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,12 +168,20 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202404/123585_158784_4912_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[네오위즈, 모바일 신작 '고양이와 스프: 말랑 타운' 사전 예약 시작 (테크M ─ 콘텐츠)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=123618</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=123618</guid>
+            <pubDate>Wed, 24 Apr 2024 10:18:55 GMT</pubDate>
+            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202404/123618_158824_1334_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[옥죄는 정부에 허덕이는 게임업계...게임산업 진흥계획, 전향적 지원안 담길까 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=123615</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=123615</guid>
             <pubDate>Wed, 24 Apr 2024 07:14:34 GMT</pubDate>
             <content:encoded><![CDATA[임경호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202404/123615_158819_4955_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202404/123615_158826_2127_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[넥슨, '블루 아카이브 2.5주년 페스티벌' 5월 개최...2차 창작 부스·특별 전시 등 (테크M ─ 콘텐츠)]]></title>
@@ -269,15 +277,7 @@
             <guid>https://www.techm.kr/news/articleView.html?idxno=123552</guid>
             <pubDate>Wed, 24 Apr 2024 07:03:00 GMT</pubDate>
             <content:encoded><![CDATA[임경호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202404/123552_158744_5615_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[아스달 연대기로 모여라②] '극강의 자유도' 싸우거나, 투표하거나...선택은 자신의 몫 (테크M ─ 콘텐츠)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=123533</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=123533</guid>
-            <pubDate>Wed, 24 Apr 2024 07:02:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202404/123533_158699_036_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202404/123552_158832_240_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["오프라인은 좁다", 가상 분야까지 확장하는 통신사들...관건은 '기술 접목' (테크M ─ 인프라)]]></title>
@@ -509,7 +509,7 @@
             <guid>https://www.techm.kr/news/articleView.html?idxno=123607</guid>
             <pubDate>Wed, 24 Apr 2024 06:23:35 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202404/123607_158804_1810_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202404/123607_158831_2338_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[오아시스마켓, 中 알리-테무 공세에도 굳건...IPO 재도전 청신호 (테크M ─ 인베스트먼트)]]></title>
@@ -517,7 +517,7 @@
             <guid>https://www.techm.kr/news/articleView.html?idxno=123610</guid>
             <pubDate>Wed, 24 Apr 2024 06:23:35 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202404/123610_158808_4328_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202404/123610_158827_2153_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[토스뱅크 모임통장, 소통강화 중심으로 한 단계 업그레이드 (테크M ─ 인베스트먼트)]]></title>
@@ -597,7 +597,7 @@
             <guid>https://www.techm.kr/news/articleView.html?idxno=123530</guid>
             <pubDate>Tue, 23 Apr 2024 06:25:59 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202404/123530_158730_1642_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202404/123530_158697_4558_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[KB국민은행, '2024 KB연금컨퍼런스' 개최...DB퇴직연금 고객 대상 (테크M ─ 인베스트먼트)]]></title>
@@ -794,7 +794,7 @@
             <guid>https://www.techm.kr/news/articleView.html?idxno=123528</guid>
             <pubDate>Tue, 23 Apr 2024 06:27:22 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202404/123528_158733_1827_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202404/123528_158687_1526_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['PB상품 우대 의혹' 반박 나선 쿠팡 "직원 후기 이용 PB, 상단 노출 NO...공정하게 운영" (테크M ─ 라이프)]]></title>
