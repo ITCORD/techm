@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Apr 2024 07:23:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Apr 2024 08:28:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] SKT, 글로벌 시대 언어장벽 낮추기 위해 '트랜스토커'와 '에이닷 통역콜' 서비스 도입]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=123696</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=123696</guid>
+            <pubDate>Thu, 25 Apr 2024 08:28:03 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202404/123696_158910_5942_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] AI는 어디까지인가... 음악창작 서비스 '지니리라'부터 포자랩스 '라이브'까지]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=123613</link>
@@ -110,14 +118,6 @@
             <pubDate>Fri, 05 Apr 2024 06:26:40 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202404/122735_157439_584_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[게임코인TV] 4월, 홀더들을 설레게 하는 비트코인 반감기가 온다...2편]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=122693</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=122693</guid>
-            <pubDate>Thu, 04 Apr 2024 10:22:31 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202404/122693_157379_620_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
