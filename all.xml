@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Apr 2024 10:23:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Apr 2024 11:20:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -280,12 +280,36 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202404/123658_158874_337_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[역대 최대 매출 달성한 LG전자, 주력 사업 강화·신사업 확장으로 성장 곡선 그린다(종합) (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=123713</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=123713</guid>
+            <pubDate>Thu, 25 Apr 2024 11:16:12 GMT</pubDate>
+            <content:encoded><![CDATA[배수현 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202404/123713_158968_3731_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[컨콜] LG전자 "전기차 충전 조단위 사업으로 육성할 것" (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=123709</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=123709</guid>
+            <pubDate>Thu, 25 Apr 2024 11:16:12 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202404/123709_158941_4856_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[컨콜] LG전자 "1분기 B2B 매출 비중 30% 넘어…올해 SW 플랫폼 사업 1조 매출 올릴 것" (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=123706</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=123706</guid>
+            <pubDate>Thu, 25 Apr 2024 11:16:12 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202404/123706_158938_3256_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[테크M 이슈] 생성형AI 시장 뛰어든 삼성SDS…황성우의 시선은 글로벌로 향한다 (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=123701</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=123701</guid>
             <pubDate>Thu, 25 Apr 2024 07:18:06 GMT</pubDate>
             <content:encoded><![CDATA[조성준 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202404/123701_158924_3242_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202404/123701_158949_5316_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[LG디스플레이, 또 다시 적자전환…1분기 영업손실 4694억 (테크M ─ 인프라)]]></title>
@@ -301,7 +325,7 @@
             <guid>https://www.techm.kr/news/articleView.html?idxno=123694</guid>
             <pubDate>Thu, 25 Apr 2024 06:21:12 GMT</pubDate>
             <content:encoded><![CDATA[배수현 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202404/123694_158906_510_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202404/123694_158954_5551_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[LG전자, 1분기 영업익 1조3354억원…전년 동기 대비 10.8% 감소(1보) (테크M ─ 인프라)]]></title>
@@ -341,7 +365,7 @@
             <guid>https://www.techm.kr/news/articleView.html?idxno=123680</guid>
             <pubDate>Thu, 25 Apr 2024 04:19:23 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202404/123680_158895_524_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202404/123680_158953_5521_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[일본 확장 꾀하는 소프트캠프…IT전시회에서 클라우드·정보보안 솔루션 공개 (테크M ─ 인프라)]]></title>
@@ -366,30 +390,6 @@
             <pubDate>Thu, 25 Apr 2024 10:22:00 GMT</pubDate>
             <content:encoded><![CDATA[조성준 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202404/123652_158869_2137_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[KT-신한은행, 'KT 하이오더' 도입해 소상공인 지원...최대 150만원 혜택 제공 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=123646</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=123646</guid>
-            <pubDate>Thu, 25 Apr 2024 10:08:00 GMT</pubDate>
-            <content:encoded><![CDATA[배수현 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202404/123646_158905_3143_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SKT, AI 경영시스템 국제표준 'ISO·IEC 42001' 인증 획득 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=123639</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=123639</guid>
-            <pubDate>Thu, 25 Apr 2024 10:06:00 GMT</pubDate>
-            <content:encoded><![CDATA[배수현 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202404/123639_158861_5840_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[화웨이, 5.5G 혁신 이끈다…'랜 인텔리전트 에이전트' 공개 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=123645</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=123645</guid>
-            <pubDate>Thu, 25 Apr 2024 10:02:00 GMT</pubDate>
-            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202404/123645_158862_28_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[갤럭시아메타버스, 쟁글 ERP⋅라이브워치 도입 (테크M ─ 이노베이션)]]></title>
@@ -842,7 +842,7 @@
             <guid>https://www.techm.kr/news/articleView.html?idxno=123673</guid>
             <pubDate>Thu, 25 Apr 2024 11:28:00 GMT</pubDate>
             <content:encoded><![CDATA[김현기 대표]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202404/123673_158888_2837_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202404/123673_158957_5658_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[글로벌] 日 소프트뱅크, 생성형AI에 1.3조 추가 투자...일본판 '챗GPT' 개발 (테크M ─ 리포트)]]></title>
@@ -850,7 +850,7 @@
             <guid>https://www.techm.kr/news/articleView.html?idxno=123672</guid>
             <pubDate>Thu, 25 Apr 2024 11:27:00 GMT</pubDate>
             <content:encoded><![CDATA[김현기 대표]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202404/123672_158887_2721_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202404/123672_158959_5744_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[글로벌] 오픈AI의 샘 올트먼, 태양광 스타트업에 투자...재생에너지 공급망 확보 '박차' (테크M ─ 리포트)]]></title>
@@ -858,7 +858,7 @@
             <guid>https://www.techm.kr/news/articleView.html?idxno=123671</guid>
             <pubDate>Thu, 25 Apr 2024 11:26:00 GMT</pubDate>
             <content:encoded><![CDATA[김현기 대표]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202404/123671_158886_260_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202404/123671_158958_5718_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[글로벌] '틱톡 강제 매각 법안' 미 하원 통과..."미·중 갈등 격화 전망" (테크M ─ 리포트)]]></title>
