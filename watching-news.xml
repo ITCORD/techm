@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Apr 2024 08:25:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Apr 2024 09:22:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 에픽게임즈, 언리얼엔진 5.4 출시 '애니메이션 제작부터 캐릭터 리깅까지 대폭 업데이트']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=123759</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=123759</guid>
+            <pubDate>Fri, 26 Apr 2024 09:22:13 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202404/123759_159038_3729_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] SKT, 글로벌 시대 언어장벽 낮추기 위해 '트랜스토커'와 '에이닷 통역콜' 서비스 도입]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=123696</link>
@@ -110,14 +118,6 @@
             <pubDate>Mon, 08 Apr 2024 06:24:12 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202404/122816_157559_144_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 카카오VX, 생생한 필드 현장감을 구현한 '프렌즈 스크린 퀀텀(Q)' 출시]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=122735</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=122735</guid>
-            <pubDate>Fri, 05 Apr 2024 06:26:40 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202404/122735_157439_584_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
