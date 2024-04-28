@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 Apr 2024 17:19:53 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Apr 2024 18:24:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -616,6 +616,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202404/123597_158794_203_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[e스포츠人] 창단하자마자 PMPS 페이즈 우승...젠지 '주니' 김경준의 각오 (테크M ─ 피플)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=123790</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=123790</guid>
+            <pubDate>Sun, 28 Apr 2024 17:13:49 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202404/123790_159147_032_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[코인원, 삼성·요기요 출신 이용규 신임 CPO 영입....프로덕트 혁신 가속화 (테크M ─ 피플)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=123677</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=123677</guid>
@@ -667,14 +675,14 @@
             <title><![CDATA[[부고] 김영만(한국e스포츠협회 회장)씨 모친상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Sun, 28 Apr 2024 15:18:37 GMT</pubDate>
+            <pubDate>Sun, 28 Apr 2024 18:22:06 GMT</pubDate>
             <content:encoded><![CDATA[임경호 기자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[부고] 김민규씨(신세계그룹 경영전략실 경영지원총괄 부사장) 장인상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Sun, 28 Apr 2024 15:18:37 GMT</pubDate>
+            <pubDate>Sun, 28 Apr 2024 18:22:06 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
         </item>
         <item>
@@ -713,16 +721,8 @@
             <title><![CDATA[[부고] 임현규(KT 경영지원부문장,부사장)씨 모친상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Sun, 28 Apr 2024 15:18:37 GMT</pubDate>
+            <pubDate>Sun, 28 Apr 2024 18:22:06 GMT</pubDate>
             <content:encoded><![CDATA[조성준 기자]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[이경진 카카오엔터프라이즈 대표, '일회용품 제로 챌린지' 동참 (테크M ─ 피플)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=122649</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=122649</guid>
-            <pubDate>Thu, 04 Apr 2024 10:50:00 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202404/122649_157310_420_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[삼성 '비스포크 AI 스팀' 누적 판매 1만대 돌파...'AI가전=삼성' 굳히기 (테크M ─ 라이프)]]></title>
