@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 Apr 2024 15:21:41 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Apr 2024 16:25:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,6 +168,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202404/123773_159104_816_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[PMPS 통신] 배그 모바일도 접수했다...젠지, 페이즈2 우승 (테크M ─ 콘텐츠)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=123789</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=123789</guid>
+            <pubDate>Sun, 28 Apr 2024 16:18:50 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202404/123789_159144_2547_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[가봤다] 밀리로드 첫 종이책 '분실물이 돌아왔습니다'...팝업스토어로 찾아왔습니다 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=123772</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=123772</guid>
@@ -270,14 +278,6 @@
             <pubDate>Fri, 26 Apr 2024 11:55:00 GMT</pubDate>
             <content:encoded><![CDATA[임경호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202404/123749_159007_3948_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[요스타, 모바일 게임 '명일방주' 오프라인 팬 페스티벌 개최 (테크M ─ 콘텐츠)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=123748</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=123748</guid>
-            <pubDate>Fri, 26 Apr 2024 11:55:00 GMT</pubDate>
-            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202404/123748_159006_3238_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[LG디스플레이, GTX에 철도용 투명 OLED 공급 (테크M ─ 인프라)]]></title>
