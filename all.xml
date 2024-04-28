@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 Apr 2024 12:34:16 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Apr 2024 13:22:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -280,6 +280,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202404/123748_159006_3238_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[LG디스플레이, GTX에 철도용 투명 OLED 공급 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=123788</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=123788</guid>
+            <pubDate>Sun, 28 Apr 2024 11:12:22 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202404/123788_159142_1554_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[이재용 회장, 'AI 반도체' 직접 챙긴다…독일 자이스와 EUV 협력 논의 (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=123787</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=123787</guid>
@@ -382,14 +390,6 @@
             <pubDate>Fri, 26 Apr 2024 09:51:00 GMT</pubDate>
             <content:encoded><![CDATA[조성준 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202404/123724_158982_5018_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[중저가 스마트폰 라인업 넓히는 LG유플러스…'갤럭시 버디3' 공식 출시 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=123721</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=123721</guid>
-            <pubDate>Fri, 26 Apr 2024 09:44:00 GMT</pubDate>
-            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202404/123721_158980_4333_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[가상자산 거래소는 지금 '채용 중'...오는 7월 가상자산이용자보호법 시행 준비 '분주' (테크M ─ 이노베이션)]]></title>
@@ -667,14 +667,14 @@
             <title><![CDATA[[부고] 김영만(한국e스포츠협회 회장)씨 모친상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Sun, 28 Apr 2024 11:15:46 GMT</pubDate>
+            <pubDate>Sun, 28 Apr 2024 13:20:26 GMT</pubDate>
             <content:encoded><![CDATA[임경호 기자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[부고] 김민규씨(신세계그룹 경영전략실 경영지원총괄 부사장) 장인상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Sun, 28 Apr 2024 11:15:46 GMT</pubDate>
+            <pubDate>Sun, 28 Apr 2024 13:20:26 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
         </item>
         <item>
@@ -713,7 +713,7 @@
             <title><![CDATA[[부고] 임현규(KT 경영지원부문장,부사장)씨 모친상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Sun, 28 Apr 2024 11:15:46 GMT</pubDate>
+            <pubDate>Sun, 28 Apr 2024 13:20:26 GMT</pubDate>
             <content:encoded><![CDATA[조성준 기자]]></content:encoded>
         </item>
         <item>
