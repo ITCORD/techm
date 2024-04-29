@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Apr 2024 13:24:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Apr 2024 14:19:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[과기정통부 "일본 총무성의 라인 행정지도는 외교와 별개 사안" (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=123857</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=123857</guid>
+            <pubDate>Mon, 29 Apr 2024 14:16:40 GMT</pubDate>
+            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202404/123857_159233_349_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[엑스플라, RWA 플랫폼 오픈메타시티 '맞손' (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=123855</link>
@@ -155,16 +163,8 @@
             <title><![CDATA[[부고] 강신철(한국게임산업협회 회장)씨 부친상 (테크M ─ 전체기사)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Mon, 29 Apr 2024 11:15:06 GMT</pubDate>
+            <pubDate>Mon, 29 Apr 2024 14:16:40 GMT</pubDate>
             <content:encoded><![CDATA[임경호 기자]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[하이브 내홍보다 강했던 뉴진스 열풍...버블검으로 지구촌 흔들다 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=123829</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=123829</guid>
-            <pubDate>Mon, 29 Apr 2024 05:17:31 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202404/123829_159213_3955_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[넷마블 MNB '쿵야 레스토랑즈', 하이트진로 '켈리'와 컬래버...아이스백·캔맥주 세트 출시 (테크M ─ 콘텐츠)]]></title>
@@ -279,6 +279,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202404/123795_159151_3828_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[과기정통부 "일본 총무성의 라인 행정지도는 외교와 별개 사안" (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=123857</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=123857</guid>
+            <pubDate>Mon, 29 Apr 2024 14:17:26 GMT</pubDate>
+            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202404/123857_159233_349_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[엑스플라, RWA 플랫폼 오픈메타시티 '맞손' (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=123855</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=123855</guid>
@@ -381,14 +389,6 @@
             <pubDate>Mon, 29 Apr 2024 10:25:00 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202404/123808_159214_4019_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[광화문에 초대형 라이언·춘식이 뜬다…카카오, 카카오프렌즈 '서울페스타' 참여 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=123807</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=123807</guid>
-            <pubDate>Mon, 29 Apr 2024 10:23:00 GMT</pubDate>
-            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202404/123807_159165_2235_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[나우닷지지, NTT 디지털과 파트너십 맞손 (테크M ─ 이노베이션)]]></title>
@@ -626,7 +626,7 @@
             <title><![CDATA[[부고] 강신철(한국게임산업협회 회장)씨 부친상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Mon, 29 Apr 2024 13:21:18 GMT</pubDate>
+            <pubDate>Mon, 29 Apr 2024 14:18:25 GMT</pubDate>
             <content:encoded><![CDATA[임경호 기자]]></content:encoded>
         </item>
         <item>
@@ -689,14 +689,14 @@
             <title><![CDATA[[부고] 김영만(한국e스포츠협회 회장)씨 모친상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Mon, 29 Apr 2024 13:21:18 GMT</pubDate>
+            <pubDate>Mon, 29 Apr 2024 14:18:25 GMT</pubDate>
             <content:encoded><![CDATA[임경호 기자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[부고] 김민규씨(신세계그룹 경영전략실 경영지원총괄 부사장) 장인상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Mon, 29 Apr 2024 13:21:18 GMT</pubDate>
+            <pubDate>Mon, 29 Apr 2024 14:18:25 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
         </item>
         <item>
