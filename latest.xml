@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Apr 2024 10:22:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Apr 2024 11:19:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[엑스플라, RWA 플랫폼 오픈메타시티 '맞손']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=123855</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=123855</guid>
+            <pubDate>Mon, 29 Apr 2024 11:15:06 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202404/123855_159232_2933_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[민희진 어도어 대표 "30일 이사회 안연다"...하이브 "법원 통해 진행"]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=123854</link>
@@ -147,7 +155,7 @@
             <title><![CDATA[[부고] 강신철(한국게임산업협회 회장)씨 부친상]]></title>
             <link>https://www.techm.kr/news/articleList.html</link>
             <guid>https://www.techm.kr/news/articleList.html</guid>
-            <pubDate>Mon, 29 Apr 2024 08:21:07 GMT</pubDate>
+            <pubDate>Mon, 29 Apr 2024 11:15:06 GMT</pubDate>
             <content:encoded><![CDATA[임경호 기자]]></content:encoded>
         </item>
         <item>
@@ -157,14 +165,6 @@
             <pubDate>Mon, 29 Apr 2024 05:17:31 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202404/123829_159213_3955_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뚜레쥬르, 캄보디아서 새 단장 마쳤다...동남아 공략 가속화]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=123820</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=123820</guid>
-            <pubDate>Mon, 29 Apr 2024 00:56:00 GMT</pubDate>
-            <content:encoded><![CDATA[장태훈 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202404/123820_159179_121_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
