@@ -4,9 +4,17 @@
         <title>테크M ─ 이노베이션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 May 2024 04:24:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 May 2024 05:20:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[카카오페이, 모바일 K-패스 출시...할인, 환급에 리워드까지 받는다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=123951</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=123951</guid>
+            <pubDate>Wed, 01 May 2024 05:17:08 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202405/123951_159364_5747_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[수이, 구글클라우드와 맞손...웹3.0 혁신 주도한다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=123937</link>
@@ -110,14 +118,6 @@
             <pubDate>Tue, 30 Apr 2024 08:53:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202404/123861_159236_5349_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나우닷지지, NTT 디지털과 파트너십 맞손]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=123833</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=123833</guid>
-            <pubDate>Mon, 29 Apr 2024 08:23:07 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202404/123833_159192_5044_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
