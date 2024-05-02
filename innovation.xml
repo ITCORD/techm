@@ -4,9 +4,25 @@
         <title>테크M ─ 이노베이션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 May 2024 23:21:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 May 2024 01:12:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[카카오뱅크, '간편 세금 조회·신고 서비스' 이용 고객 50만명 돌파]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=123968</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=123968</guid>
+            <pubDate>Thu, 02 May 2024 09:57:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202405/123968_159406_455_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[카카오톡 선물하기, GS25 주류 픽업 선물 오픈]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=123966</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=123966</guid>
+            <pubDate>Thu, 02 May 2024 09:57:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202405/123966_159404_4129_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[카카오페이, 모바일 K-패스 출시...할인, 환급에 리워드까지 받는다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=123951</link>
@@ -102,22 +118,6 @@
             <pubDate>Tue, 30 Apr 2024 09:47:00 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202404/123870_159244_4036_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성전자, 1Q 11.3조 시설투자 단행...반도체에 9.7조 투입]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=123862</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=123862</guid>
-            <pubDate>Tue, 30 Apr 2024 08:59:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202404/123862_159237_592_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성전자, HBM으로 방긋...1Q 반도체 영업익 1.9조원 '쾌거']]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=123861</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=123861</guid>
-            <pubDate>Tue, 30 Apr 2024 08:53:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202404/123861_159236_5349_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
