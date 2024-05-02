@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 May 2024 04:23:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 May 2024 05:23:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -280,6 +280,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202404/123926_159313_1352_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[스마트폰부터 PC까지…'온디바이스 AI' 레이스 시작됐다 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=124005</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=124005</guid>
+            <pubDate>Thu, 02 May 2024 05:18:48 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202405/124005_159448_102_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[KT클라우드의 '신입사원' 최지웅 대표…기업이 원하는 클라우드 AI 전환 이끈다 (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=124002</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=124002</guid>
@@ -382,14 +390,6 @@
             <pubDate>Wed, 01 May 2024 10:00:00 GMT</pubDate>
             <content:encoded><![CDATA[배수현 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202405/123947_159359_1253_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성전자, 고려대와 함께 '친환경 업무센터' 업무협약…3년째 동행 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=123946</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=123946</guid>
-            <pubDate>Wed, 01 May 2024 09:40:00 GMT</pubDate>
-            <content:encoded><![CDATA[배수현 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202405/123946_159358_43_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[카카오뱅크, '간편 세금 조회·신고 서비스' 이용 고객 50만명 돌파 (테크M ─ 이노베이션)]]></title>
