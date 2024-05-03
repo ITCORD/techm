@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 May 2024 07:19:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 May 2024 08:25:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 카카오엔터테인먼트, '다양성, AI, 글로벌'에 특화된 스토리 사업 본격 추진한다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=124081</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=124081</guid>
+            <pubDate>Fri, 03 May 2024 08:25:59 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202405/124081_159572_2253_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 테크M x 법무법인 세움 콘퍼런스 '비욘드 비트코인' 개최]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=124014</link>
@@ -110,14 +118,6 @@
             <pubDate>Tue, 09 Apr 2024 22:20:31 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202404/122901_157733_1449_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] NHN x 와플랫 x 용인시, 디지털 시니어케어 사업 추진한다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=122893</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=122893</guid>
-            <pubDate>Tue, 09 Apr 2024 08:23:22 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202404/122893_157703_1614_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

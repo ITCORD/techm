@@ -4,9 +4,25 @@
         <title>테크M ─ 이노베이션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 May 2024 07:19:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 May 2024 08:25:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[클라우드 전문기업 클라이온, TaaS 'TX허브' 출시]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=124087</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=124087</guid>
+            <pubDate>Fri, 03 May 2024 08:21:53 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202405/124087_159599_5844_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[비브스튜디오스, 광주 백운광장에 인터렉티브 콘텐츠 조성]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=124082</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=124082</guid>
+            <pubDate>Fri, 03 May 2024 08:21:53 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202405/124082_159587_2039_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[VOD도 숏폼 시대...AI로 보고 싶은 장면만 골라본다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=124078</link>
@@ -21,7 +37,7 @@
             <guid>https://www.techm.kr/news/articleView.html?idxno=124057</guid>
             <pubDate>Fri, 03 May 2024 11:55:00 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202405/124057_159536_414_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202405/124057_159600_158_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[네이버클라우드, 디지털트윈 서비스로 국립중앙박물관 'AR 전시안내' 앱 구축]]></title>
@@ -102,22 +118,6 @@
             <pubDate>Thu, 02 May 2024 06:23:12 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202405/124003_159446_479_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[카카오, 카카오브레인과 조직 통합... AI 서비스 개발 속도 낸다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=124004</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=124004</guid>
-            <pubDate>Thu, 02 May 2024 06:23:12 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202405/124004_159447_819_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기술패권 경쟁 시대 R&D 전쟁...공학한림원 "정부가 기업 R&D 투자 지원해야"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=123999</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=123999</guid>
-            <pubDate>Thu, 02 May 2024 11:33:00 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202405/123999_159438_237_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
