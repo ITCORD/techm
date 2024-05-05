@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 May 2024 14:20:36 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 May 2024 15:21:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,6 +168,22 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202405/124082_159587_2039_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[PMPS 통신] 매서운 공격력 보여주며 4치킨 가져간 덕산, 페이즈3 우승 (테크M ─ 콘텐츠)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=124098</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=124098</guid>
+            <pubDate>Sun, 05 May 2024 15:18:08 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202405/124098_159626_33_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[MSI 브리핑] "예선은 처음이지?"...T1, 브라켓 스테이지 합류 (테크M ─ 콘텐츠)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=124099</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=124099</guid>
+            <pubDate>Sun, 05 May 2024 15:18:09 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202405/124099_159627_2418_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[회사가 놀이공원으로...LG전자, 가정의 달 맞아 임직원 가족 초청 행사 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=124104</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=124104</guid>
@@ -262,22 +278,6 @@
             <pubDate>Thu, 02 May 2024 10:38:00 GMT</pubDate>
             <content:encoded><![CDATA[장태훈 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202405/123989_159427_3558_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[크래프톤, 디펜스 더비 '종족 리그' 및 '듀오 모드' 출시 (테크M ─ 콘텐츠)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=123985</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=123985</guid>
-            <pubDate>Thu, 02 May 2024 10:35:00 GMT</pubDate>
-            <content:encoded><![CDATA[장태훈 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202405/123985_159429_4541_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[엔씨소프트, 6년 연속 '인디크래프트' 후원 나선다 (테크M ─ 콘텐츠)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=123984</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=123984</guid>
-            <pubDate>Thu, 02 May 2024 10:35:00 GMT</pubDate>
-            <content:encoded><![CDATA[장태훈 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202405/123984_159420_2231_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["5월이다, 노 저어라"...가정의 달 맞은 통신3사, 키즈 전용 플랫폼으로 가족 고객 공략 (테크M ─ 인프라)]]></title>
@@ -650,7 +650,7 @@
             <title><![CDATA[[부고] 곽승훈(넥슨코리아 부실장)씨 부친상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Sun, 05 May 2024 14:17:14 GMT</pubDate>
+            <pubDate>Sun, 05 May 2024 15:19:50 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
         </item>
         <item>
@@ -673,7 +673,7 @@
             <title><![CDATA[[부고] 강신철(한국게임산업협회 회장)씨 부친상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Sun, 05 May 2024 14:17:14 GMT</pubDate>
+            <pubDate>Sun, 05 May 2024 15:19:50 GMT</pubDate>
             <content:encoded><![CDATA[임경호 기자]]></content:encoded>
         </item>
         <item>
@@ -949,6 +949,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202404/123672_158887_2721_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[게임코인TV] 드디어 겨울잠 깬 '보라', 3.0 업데이트 뜬다 (테크M ─ 보는 뉴스)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=124106</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=124106</guid>
+            <pubDate>Sun, 05 May 2024 15:21:26 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202405/124106_159638_5029_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[카드뉴스] 카카오엔터테인먼트, '다양성, AI, 글로벌'에 특화된 스토리 사업 본격 추진한다 (테크M ─ 보는 뉴스)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=124081</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=124081</guid>
@@ -1051,14 +1059,6 @@
             <pubDate>Thu, 11 Apr 2024 10:23:25 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202404/122966_157819_056_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[게임코인TV] 4.10 총선, 여야의 가상자산 관련 공약은? (테크M ─ 보는 뉴스)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=122901</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=122901</guid>
-            <pubDate>Tue, 09 Apr 2024 22:15:27 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202404/122901_157733_1449_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
