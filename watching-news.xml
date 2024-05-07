@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 May 2024 06:25:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 May 2024 07:25:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] KT클라우드 '인공지능, 클라우드, IDC'로 AI전환 시대를 열다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=124161</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=124161</guid>
+            <pubDate>Tue, 07 May 2024 07:25:44 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202405/124161_159714_2132_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[게임코인TV] 드디어 겨울잠 깬 '보라', 3.0 업데이트 뜬다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=124106</link>
@@ -110,14 +118,6 @@
             <pubDate>Fri, 12 Apr 2024 07:20:48 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202404/123023_157905_5220_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] LG유플러스, 익시(ixi)기반 'AI 에이전트 플랫폼' 공개]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=122966</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=122966</guid>
-            <pubDate>Thu, 11 Apr 2024 10:23:25 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202404/122966_157819_056_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
