@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 May 2024 15:21:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 May 2024 16:25:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -280,10 +280,26 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202405/124118_159656_235_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[애플, AI 성능 강화한 'M4' 칩 전격 공개..."초당 38조회 연산" (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=124185</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=124185</guid>
+            <pubDate>Tue, 07 May 2024 16:20:29 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202405/124185_159778_2840_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[애플, 'M2' 칩 탑재한 차세대 '아이패드 에어' 공개…11·13형 2종으로 출시 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=124184</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=124184</guid>
+            <pubDate>Tue, 07 May 2024 16:20:29 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202405/124184_159776_1447_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[애플, 역대 가장 얇은 '아이패드 프로' 공개…'M4' 칩에 'OLED'까지 환골탈태 (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=124183</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=124183</guid>
-            <pubDate>Tue, 07 May 2024 15:18:01 GMT</pubDate>
+            <pubDate>Tue, 07 May 2024 15:16:35 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202405/124183_159772_215_v150.jpg" length="0" type="image/jpg"/>
         </item>
@@ -374,22 +390,6 @@
             <pubDate>Tue, 07 May 2024 11:06:00 GMT</pubDate>
             <content:encoded><![CDATA[조성준 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202405/124135_159674_58_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[카카오뱅크 전산시스템 정기 점검... 12일 새벽 금융거래 일시 중지 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=124132</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=124132</guid>
-            <pubDate>Tue, 07 May 2024 11:01:00 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202405/124132_159668_5724_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LG전자, '배터리턴' 캠페인 실시…2년간 6만3000명 고객 동참 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=124120</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=124120</guid>
-            <pubDate>Tue, 07 May 2024 10:13:00 GMT</pubDate>
-            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202405/124120_159658_1013_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[수익성 개선 신호탄 쏜 카카오페이...서비스 간 시너지로 성과 만든다(종합) (테크M ─ 이노베이션)]]></title>
