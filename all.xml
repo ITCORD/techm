@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 May 2024 16:25:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 May 2024 17:19:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -280,6 +280,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202405/124118_159656_235_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[애플의 AI 야심작 '아이패드 프로'…얇아진 두께, 무거워진 가격(종합) (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=124186</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=124186</guid>
+            <pubDate>Wed, 08 May 2024 01:48:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202405/124186_159780_3428_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[애플, AI 성능 강화한 'M4' 칩 전격 공개..."초당 38조회 연산" (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=124185</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=124185</guid>
@@ -382,14 +390,6 @@
             <pubDate>Tue, 07 May 2024 11:23:00 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202405/124138_159678_2221_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LG유플러스, '부모나라' 앱에 퀴즈 기능 추가…참여형 서비스 개편 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=124135</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=124135</guid>
-            <pubDate>Tue, 07 May 2024 11:06:00 GMT</pubDate>
-            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202405/124135_159674_58_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[수익성 개선 신호탄 쏜 카카오페이...서비스 간 시너지로 성과 만든다(종합) (테크M ─ 이노베이션)]]></title>
@@ -665,7 +665,7 @@
             <title><![CDATA[[부고] 곽승훈(넥슨코리아 부실장)씨 부친상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Tue, 07 May 2024 15:18:51 GMT</pubDate>
+            <pubDate>Tue, 07 May 2024 17:17:13 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
         </item>
         <item>
@@ -688,7 +688,7 @@
             <title><![CDATA[[부고] 강신철(한국게임산업협회 회장)씨 부친상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Tue, 07 May 2024 15:18:51 GMT</pubDate>
+            <pubDate>Tue, 07 May 2024 17:17:13 GMT</pubDate>
             <content:encoded><![CDATA[임경호 기자]]></content:encoded>
         </item>
         <item>
