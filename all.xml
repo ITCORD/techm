@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 May 2024 13:27:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 May 2024 14:21:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,6 +168,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202405/124268_159891_5545_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[MSI 브리핑] LCK 최강 젠지, '유럽' 프나틱 완파...승자조行 (테크M ─ 콘텐츠)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=124292</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=124292</guid>
+            <pubDate>Wed, 08 May 2024 14:16:02 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202405/124292_159940_539_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['분기 최고 매출 경신' 크래프톤, 인도 시장 1위 퍼블리셔 '정조준'(종합) (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=124288</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=124288</guid>
@@ -270,14 +278,6 @@
             <pubDate>Wed, 08 May 2024 05:16:38 GMT</pubDate>
             <content:encoded><![CDATA[임경호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202405/124253_159865_4116_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[그라비티 홍콩지사, 대만∙홍콩∙마카오 지역 '라그나로크: 초심지전' CBT 성료 (테크M ─ 콘텐츠)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=124252</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=124252</guid>
-            <pubDate>Wed, 08 May 2024 05:16:38 GMT</pubDate>
-            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202405/124252_159864_3031_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[인공지능 날개 단 SKT…AI 투자·텔코LLM 구축 통해 글로벌 기업 박차(종합) (테크M ─ 인프라)]]></title>
@@ -629,7 +629,7 @@
             <guid>https://www.techm.kr/news/articleView.html?idxno=124162</guid>
             <pubDate>Tue, 07 May 2024 07:22:11 GMT</pubDate>
             <content:encoded><![CDATA[조성준 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202405/124162_159760_2722_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202405/124162_159725_2452_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[부고] 박재현(수호아이오 대표)씨 빙모상 (테크M ─ 피플)]]></title>
@@ -673,7 +673,7 @@
             <title><![CDATA[[부고] 곽승훈(넥슨코리아 부실장)씨 부친상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Wed, 08 May 2024 12:33:47 GMT</pubDate>
+            <pubDate>Wed, 08 May 2024 14:18:34 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
         </item>
         <item>
@@ -696,7 +696,7 @@
             <title><![CDATA[[부고] 강신철(한국게임산업협회 회장)씨 부친상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Wed, 08 May 2024 12:33:47 GMT</pubDate>
+            <pubDate>Wed, 08 May 2024 14:18:34 GMT</pubDate>
             <content:encoded><![CDATA[임경호 기자]]></content:encoded>
         </item>
         <item>
@@ -841,7 +841,7 @@
             <guid>https://www.techm.kr/news/articleView.html?idxno=124169</guid>
             <pubDate>Tue, 07 May 2024 07:22:11 GMT</pubDate>
             <content:encoded><![CDATA[김현기 대표]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202405/124169_159754_1826_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202405/124169_159741_1157_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[글로벌] 구글, 검색시장 점유율 2%p 하락...AI 결합한 MS '빙' 성장 (테크M ─ 리포트)]]></title>
@@ -849,7 +849,7 @@
             <guid>https://www.techm.kr/news/articleView.html?idxno=124168</guid>
             <pubDate>Tue, 07 May 2024 07:22:11 GMT</pubDate>
             <content:encoded><![CDATA[김현기 대표]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202405/124168_159755_194_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202405/124168_159740_1057_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[글로벌] 오픈AI 최고경영진 2명 한꺼번에 사임..."샘 올트먼 중심 체제 공고화" (테크M ─ 리포트)]]></title>
@@ -857,7 +857,7 @@
             <guid>https://www.techm.kr/news/articleView.html?idxno=124167</guid>
             <pubDate>Tue, 07 May 2024 07:22:11 GMT</pubDate>
             <content:encoded><![CDATA[김현기 대표]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202405/124167_159756_1930_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202405/124167_159739_936_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[글로벌] 구글, 아이폰 '기본 검색' 설정 탑재 위해 200억달러 냈다 (테크M ─ 리포트)]]></title>
