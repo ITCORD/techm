@@ -4,9 +4,25 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 May 2024 12:34:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 May 2024 13:25:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 국내 스타트업 'AI 솔루션' 주목하라]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=124375</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=124375</guid>
+            <pubDate>Thu, 09 May 2024 13:25:52 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202405/124375_160032_5349_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[게임코인TV] 나이트크로우 글로벌이 견인한 위메이드 1분기 실적 분석]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=124357</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=124357</guid>
+            <pubDate>Thu, 09 May 2024 13:25:52 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202405/124357_160011_2212_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] KT클라우드 '인공지능, 클라우드, IDC'로 AI전환 시대를 열다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=124161</link>
@@ -102,22 +118,6 @@
             <pubDate>Wed, 17 Apr 2024 14:20:24 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202404/123262_158300_542_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 넷이즈게임즈, 멀티플랫폼 호환이 가능한 신작 '원스휴먼' 국내 사전예약 시작]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=123122</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=123122</guid>
-            <pubDate>Mon, 15 Apr 2024 09:22:11 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202404/123122_158084_4343_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 네이버클라우드 X 인텔, AI칩 생태계 구축 위한 'AI 공동연구센터' 설립한다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=123023</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=123023</guid>
-            <pubDate>Fri, 12 Apr 2024 07:20:48 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202404/123023_157905_5220_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
