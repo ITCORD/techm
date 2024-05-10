@@ -4,9 +4,25 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 May 2024 07:22:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 May 2024 08:24:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[게임코인TV] 위메이드, 2분기 또는 2024년 흑자 전환 가능할까]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=124501</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=124501</guid>
+            <pubDate>Fri, 10 May 2024 08:24:00 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202405/124501_160208_1245_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[카드뉴스] SK텔레콤, 인텔리전스 플랫폼을 활용한 사내 포털 'AI 원(One)' 오픈]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=124496</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=124496</guid>
+            <pubDate>Fri, 10 May 2024 08:24:00 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202405/124496_160179_1331_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 국내 스타트업 'AI 솔루션' 주목하라]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=124375</link>
@@ -102,22 +118,6 @@
             <pubDate>Fri, 19 Apr 2024 10:23:09 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202404/123394_158455_2625_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[게임코인TV] 부활한 페이코인, 재상장 기준은 1년?]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=123336</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=123336</guid>
-            <pubDate>Fri, 19 Apr 2024 10:23:09 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202404/123336_158380_282_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[게임코인TV] 홍콩의 역습, 비트코인-이더리움 현물 ETF 승인]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=123262</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=123262</guid>
-            <pubDate>Wed, 17 Apr 2024 14:20:24 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202404/123262_158300_542_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
