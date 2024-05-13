@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 May 2024 08:29:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 May 2024 09:24:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -181,7 +181,7 @@
             <guid>https://www.techm.kr/news/articleView.html?idxno=124583</guid>
             <pubDate>Mon, 13 May 2024 07:16:56 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202405/124583_160348_3556_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202405/124583_160372_5116_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['붉은사막'에 환호하고, '나혼렙'에 술렁이고...게임가 대형 IP에 '시선 집중' (테크M ─ 콘텐츠)]]></title>
@@ -189,7 +189,7 @@
             <guid>https://www.techm.kr/news/articleView.html?idxno=124577</guid>
             <pubDate>Mon, 13 May 2024 07:16:56 GMT</pubDate>
             <content:encoded><![CDATA[임경호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202405/124577_160343_1557_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202405/124577_160374_5159_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[넷마블 '나혼렙' 출시 5일만에 韓 양대마켓 매출 1위...흥행 기대감 '굳건' (테크M ─ 콘텐츠)]]></title>
@@ -392,12 +392,36 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202405/124491_160176_481_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[라인야후 사태, 부당한 조치는 강력 대응...대통령실 "모든 지원 다 할 것" (테크M ─ 이노베이션)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=124594</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=124594</guid>
+            <pubDate>Mon, 13 May 2024 09:20:21 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202405/124594_160370_5133_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[어디까지 파느냐 그것이 문제로다...네이버 '라인야후' 사태, "지킬 사업은 지켜야" (테크M ─ 이노베이션)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=124589</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=124589</guid>
+            <pubDate>Mon, 13 May 2024 09:20:21 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202405/124589_160376_5243_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[마브렉스, 필리핀 가상자산거래소 '코인스' 상장 (테크M ─ 이노베이션)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=124593</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=124593</guid>
+            <pubDate>Mon, 13 May 2024 09:20:21 GMT</pubDate>
+            <content:encoded><![CDATA[장태훈 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202405/124593_160369_1734_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[라인 메신저 넘어가는데  '카이아' 블록체인은 괜찮나..."사업 변동 전혀 없다" (테크M ─ 이노베이션)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=124581</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=124581</guid>
             <pubDate>Mon, 13 May 2024 06:22:25 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202405/124581_160336_55_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202405/124581_160375_5221_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[네이버 노조, 라인야후 지분 매각 반대..."기술·임직원 보호 해달라" (테크M ─ 이노베이션)]]></title>
@@ -478,30 +502,6 @@
             <pubDate>Fri, 10 May 2024 10:23:00 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202405/124450_160135_2155_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에이블리, '쇼핑몰 메가세일' 방문 수 540만회 돌파 (테크M ─ 이노베이션)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=124440</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=124440</guid>
-            <pubDate>Fri, 10 May 2024 10:19:00 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202405/124440_160128_1354_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[네이버클라우드, 컨버지와 필리핀 DX 업무협약...스마트시티·클라우드 기술 심는다 (테크M ─ 이노베이션)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=124437</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=124437</guid>
-            <pubDate>Fri, 10 May 2024 10:10:00 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202405/124437_160122_515_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[가봤다] 홍채 주고 코인 받는 월드코인...과거와 어떻게 달라졌나 (테크M ─ 이노베이션)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=124379</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=124379</guid>
-            <pubDate>Fri, 10 May 2024 06:27:00 GMT</pubDate>
-            <content:encoded><![CDATA[장태훈 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202405/124379_160201_632_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["B2B·B2BC·종이책 덕분" 밀리의서재, 1분기 영업익 29억원…전년 대비 42%↑ (테크M ─ 인베스트먼트)]]></title>
