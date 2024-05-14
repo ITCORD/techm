@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 May 2024 10:24:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 May 2024 11:20:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] SKT, 생성형 AI를 활용한 골프 콘텐츠 '에이닷 골프' 출시]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=124636</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=124636</guid>
+            <pubDate>Tue, 14 May 2024 11:20:55 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202405/124636_160431_481_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 네이버, 웹툰사업 확장하고 글로벌 AI 시장 공략한다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=124590</link>
@@ -110,14 +118,6 @@
             <pubDate>Mon, 13 May 2024 03:21:44 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202404/123541_158714_3321_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 하이브 수퍼톤, AI 실시간 음성 변환 서비스 '시프트' 글로벌 오픈베타 시작]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=123463</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=123463</guid>
-            <pubDate>Mon, 13 May 2024 03:21:44 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202404/123463_158587_370_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
