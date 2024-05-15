@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 May 2024 21:22:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 May 2024 22:19:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[FreeView] 톰과 제리? 오픈AI와 구글의 요절복통 추격전 (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=124669</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=124669</guid>
+            <pubDate>Thu, 16 May 2024 06:30:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202405/124669_160518_5247_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[MSI 브리핑] 벼랑 끝에서 살아남은 T1...G2와 결승진출전 티켓 놓고 재대결 (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=124668</link>
@@ -160,14 +168,6 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202405/124649_160467_5642_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[다날, 1분기 영업이익 26억원...전년比 38.7% '껑충' (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=124650</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=124650</guid>
-            <pubDate>Tue, 14 May 2024 10:21:41 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202405/124650_160456_056_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[MSI 브리핑] 벼랑 끝에서 살아남은 T1...G2와 결승진출전 티켓 놓고 재대결 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=124668</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=124668</guid>
@@ -280,6 +280,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202405/124615_160392_253_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[FreeView] 톰과 제리? 오픈AI와 구글의 요절복통 추격전 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=124669</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=124669</guid>
+            <pubDate>Thu, 16 May 2024 06:30:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202405/124669_160518_5247_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[의료현장 누비는 LG전자 '클로이' 로봇…"최적의 의료 서비스 효율화" (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=124656</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=124656</guid>
@@ -382,14 +390,6 @@
             <pubDate>Tue, 14 May 2024 10:19:00 GMT</pubDate>
             <content:encoded><![CDATA[배수현 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202405/124603_160384_452_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[챗GPT에 '입'이 달렸다…오픈AI, 사람과 대화하는 새 AI 모델 'GPT-4o' 공개 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=124595</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=124595</guid>
-            <pubDate>Tue, 14 May 2024 03:16:00 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202405/124595_160377_1235_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[솔라나가 '포스트 이더리움'으로 부상한 이유...강력한 네트워크 성능 (테크M ─ 이노베이션)]]></title>
@@ -651,7 +651,7 @@
             <title><![CDATA[[부고] 김열매(코람코자산운용 전략리서치실장)씨 조모상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Wed, 15 May 2024 21:20:05 GMT</pubDate>
+            <pubDate>Wed, 15 May 2024 22:19:05 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
         </item>
         <item>
