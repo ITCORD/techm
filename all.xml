@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 May 2024 06:28:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 May 2024 07:22:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -392,6 +392,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202405/124595_160457_4748_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[솔라나가 '포스트 이더리움'으로 부상한 이유...강력한 네트워크 성능 (테크M ─ 이노베이션)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=124499</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=124499</guid>
+            <pubDate>Wed, 15 May 2024 06:22:21 GMT</pubDate>
+            <content:encoded><![CDATA[장태훈 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202405/124499_160195_3620_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[카카오, UN 행사서 기술 기반 인권경영 사례 발표 (테크M ─ 이노베이션)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=124663</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=124663</guid>
@@ -494,14 +502,6 @@
             <pubDate>Mon, 13 May 2024 10:38:00 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202405/124565_160307_3657_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[빗썸 플러스, '스테이킹'으로 서비스 개편 나선다 (테크M ─ 이노베이션)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=124555</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=124555</guid>
-            <pubDate>Mon, 13 May 2024 10:21:00 GMT</pubDate>
-            <content:encoded><![CDATA[장태훈 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202405/124555_160299_1015_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[테크M 이슈] 한시름 던 엔씨소프트, 이제 신작 공세 남았다 (테크M ─ 인베스트먼트)]]></title>
@@ -728,7 +728,7 @@
             <title><![CDATA["손 안에서 확인하는 내 몸 상태"...헬스케어 앱 뭐가 있나 (테크M ─ 라이프)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=124642</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=124642</guid>
-            <pubDate>Wed, 15 May 2024 06:26:17 GMT</pubDate>
+            <pubDate>Wed, 15 May 2024 06:22:21 GMT</pubDate>
             <content:encoded><![CDATA[배수현 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202405/124642_160446_4654_v150.jpg" length="0" type="image/jpg"/>
         </item>
