@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 May 2024 06:25:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 May 2024 07:18:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 삼성전자, 갤럭시 'AI+헬스케어'로 본격적인 모바일 AI 시대를 준비한다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=124725</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=124725</guid>
+            <pubDate>Thu, 16 May 2024 07:18:38 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202405/124725_160584_163_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] SKT, 생성형 AI를 활용한 골프 콘텐츠 '에이닷 골프' 출시]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=124636</link>
@@ -110,14 +118,6 @@
             <pubDate>Mon, 13 May 2024 03:21:44 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202404/123613_158810_465_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] KT DS, 생성형 AI '앤트봇'과 '비스트'로 업무 자동화 추진한다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=123541</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=123541</guid>
-            <pubDate>Mon, 13 May 2024 03:21:44 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202404/123541_158714_3321_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
