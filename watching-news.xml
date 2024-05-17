@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 May 2024 11:21:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 May 2024 12:36:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] SM과 YG, 'K팝 아이돌+블록체인' 새로운 결합에 나선다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=124783</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=124783</guid>
+            <pubDate>Fri, 17 May 2024 12:36:17 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202405/124783_160677_2951_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 삼성전자, 갤럭시 'AI+헬스케어'로 본격적인 모바일 AI 시대를 준비한다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=124725</link>
@@ -110,14 +118,6 @@
             <pubDate>Mon, 13 May 2024 03:21:44 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202404/123696_158910_5942_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] AI는 어디까지인가... 음악창작 서비스 '지니리라'부터 포자랩스 '라이브'까지]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=123613</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=123613</guid>
-            <pubDate>Mon, 13 May 2024 03:21:44 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202404/123613_158810_465_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
