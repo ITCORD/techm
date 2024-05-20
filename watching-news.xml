@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 May 2024 07:22:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 May 2024 08:25:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] '나의 삶을 더 건강하게' 다양한 디지털 헬스케어 앱에 대해 알아보자]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=124871</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=124871</guid>
+            <pubDate>Mon, 20 May 2024 08:25:14 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202405/124871_160821_4526_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] SM과 YG, 'K팝 아이돌+블록체인' 새로운 결합에 나선다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=124783</link>
@@ -110,14 +118,6 @@
             <pubDate>Mon, 13 May 2024 03:21:44 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202404/123759_159038_3729_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] SKT, 글로벌 시대 언어장벽 낮추기 위해 '트랜스토커'와 '에이닷 통역콜' 서비스 도입]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=123696</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=123696</guid>
-            <pubDate>Mon, 13 May 2024 03:21:44 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202404/123696_158910_5942_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
