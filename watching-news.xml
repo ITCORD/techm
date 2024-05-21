@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 May 2024 08:28:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 May 2024 09:23:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] LG CNS, AI를 적용한 화상회의 다중 통역 솔루션 '오렐로(Orelo)' 출시]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=124934</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=124934</guid>
+            <pubDate>Tue, 21 May 2024 09:23:53 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202405/124934_160923_5749_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] '나의 삶을 더 건강하게' 다양한 디지털 헬스케어 앱에 대해 알아보자]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=124871</link>
@@ -110,14 +118,6 @@
             <pubDate>Fri, 03 May 2024 11:31:00 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202405/124014_159461_4917_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 에픽게임즈, 언리얼엔진 5.4 출시 '애니메이션 제작부터 캐릭터 리깅까지 대폭 업데이트']]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=123759</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=123759</guid>
-            <pubDate>Mon, 13 May 2024 03:21:44 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202404/123759_159038_3729_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
