@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 May 2024 18:27:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 May 2024 19:20:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[게임코인TV] 피자 한판에 4500억원? 5월 22일 피자데이의 모든 것...1편]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=124941</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=124941</guid>
+            <pubDate>Tue, 21 May 2024 19:20:31 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202405/124941_160949_19_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] LG CNS, AI를 적용한 화상회의 다중 통역 솔루션 '오렐로(Orelo)' 출시]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=124934</link>
@@ -110,14 +118,6 @@
             <pubDate>Mon, 13 May 2024 03:21:44 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202405/124081_159572_2253_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 테크M x 법무법인 세움 콘퍼런스 '비욘드 비트코인' 개최]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=124014</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=124014</guid>
-            <pubDate>Fri, 03 May 2024 11:31:00 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202405/124014_159461_4917_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
