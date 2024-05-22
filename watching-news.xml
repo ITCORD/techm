@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 May 2024 06:30:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 May 2024 07:20:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[게임코인TV] 돈 좀 벌어볼까? 쏠쏠한 이벤트 총정리...5월 22일 피자데이의 모든 것]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=124980</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=124980</guid>
+            <pubDate>Wed, 22 May 2024 00:59:00 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202405/124980_160991_5912_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[게임코인TV] 피자 한판에 4500억원? 5월 22일 피자데이의 모든 것...1편]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=124941</link>
@@ -110,14 +118,6 @@
             <pubDate>Mon, 13 May 2024 03:21:44 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202405/124106_159638_5029_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 카카오엔터테인먼트, '다양성, AI, 글로벌'에 특화된 스토리 사업 본격 추진한다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=124081</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=124081</guid>
-            <pubDate>Mon, 13 May 2024 03:21:44 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202405/124081_159572_2253_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
