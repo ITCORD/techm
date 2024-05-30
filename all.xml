@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 May 2024 10:24:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 May 2024 11:19:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -626,7 +626,7 @@
             <title><![CDATA[[부고] 김택진(엔씨소프트 대표)씨 부친상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Thu, 30 May 2024 08:23:45 GMT</pubDate>
+            <pubDate>Thu, 30 May 2024 11:17:12 GMT</pubDate>
             <content:encoded><![CDATA[임경호 기자]]></content:encoded>
         </item>
         <item>
@@ -950,6 +950,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202405/124886_160854_5126_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[카드뉴스] 넷마블, '전작의 명성을 이어갈 수 있을까' MMORPG 레이븐2 정식 출시 (테크M ─ 보는 뉴스)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=125392</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=125392</guid>
+            <pubDate>Thu, 30 May 2024 11:19:33 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202405/125392_161672_644_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[카드뉴스] KT, 안양시와 함께 자율주행버스 '주야로' 시범운행에 나섰다 (테크M ─ 보는 뉴스)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=125340</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=125340</guid>
@@ -1052,14 +1060,6 @@
             <pubDate>Thu, 16 May 2024 07:13:58 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202405/124725_160584_163_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] SKT, 생성형 AI를 활용한 골프 콘텐츠 '에이닷 골프' 출시 (테크M ─ 보는 뉴스)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=124636</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=124636</guid>
-            <pubDate>Tue, 14 May 2024 11:20:55 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202405/124636_160431_481_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
