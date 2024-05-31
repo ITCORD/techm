@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 31 May 2024 13:24:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 May 2024 14:20:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[어도어 이사회에 홀로 남은 민희진...하이브에 '타협' 제안]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=125459</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=125459</guid>
+            <pubDate>Fri, 31 May 2024 14:15:18 GMT</pubDate>
+            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202405/125459_161797_749_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[호암재단 '삼성호암상 시상식' 개최…여성 수상자 4명, 역대 '최대']]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=125457</link>
@@ -51,7 +59,7 @@
             <title><![CDATA[[부고] 조현기 씨(뉴스1 정치부 기자) 조모상]]></title>
             <link>https://www.techm.kr/news/articleList.html</link>
             <guid>https://www.techm.kr/news/articleList.html</guid>
-            <pubDate>Fri, 31 May 2024 09:18:35 GMT</pubDate>
+            <pubDate>Fri, 31 May 2024 14:15:18 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
         </item>
         <item>
@@ -157,14 +165,6 @@
             <pubDate>Fri, 31 May 2024 11:11:00 GMT</pubDate>
             <content:encoded><![CDATA[임경호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202405/125437_161753_5917_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[써봤다] 'AI 강자' 델이 만든 모바일 워크스테이션 '프리시전 5490']]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=125424</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=125424</guid>
-            <pubDate>Fri, 31 May 2024 10:37:00 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202405/125424_161803_1345_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
