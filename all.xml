@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 31 May 2024 09:25:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 May 2024 10:24:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -167,6 +167,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202405/125424_161803_1345_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[어도어 이사회에 홀로 남은 민희진...하이브에 '타협' 제안 (테크M ─ 콘텐츠)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=125459</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=125459</guid>
+            <pubDate>Fri, 31 May 2024 10:18:46 GMT</pubDate>
+            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202405/125459_161797_749_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[스마일게이트 에픽세븐, e스포츠 축제 'WCG' 참가 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=125450</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=125450</guid>
@@ -269,14 +277,6 @@
             <pubDate>Fri, 31 May 2024 06:10:00 GMT</pubDate>
             <content:encoded><![CDATA[임경호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202405/125407_161804_1424_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[위메이드 '나이트 크로우' 서비스 400일 기념 이벤트 실시 (테크M ─ 콘텐츠)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=125406</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=125406</guid>
-            <pubDate>Thu, 30 May 2024 08:21:40 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202405/125406_161701_494_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[과기정통부, 카카오에 '카톡' 장애 개선·시정결과 제출 요구 (테크M ─ 인프라)]]></title>
@@ -618,7 +618,7 @@
             <title><![CDATA[호암재단 '삼성호암상 시상식' 개최…여성 수상자 4명, 역대 '최대' (테크M ─ 피플)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=125457</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=125457</guid>
-            <pubDate>Fri, 31 May 2024 09:21:43 GMT</pubDate>
+            <pubDate>Fri, 31 May 2024 09:18:35 GMT</pubDate>
             <content:encoded><![CDATA[배수현 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202405/125457_161796_5941_v150.jpg" length="0" type="image/jpg"/>
         </item>
