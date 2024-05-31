@@ -4,7 +4,7 @@
         <title>테크M ─ 인베스트먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 31 May 2024 01:18:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 May 2024 02:34:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,14 +22,6 @@
             <pubDate>Thu, 30 May 2024 08:23:29 GMT</pubDate>
             <content:encoded><![CDATA[조성준 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202405/125409_161704_511_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[테크M 프리미엄] 이제 엔씨소프트를 다시 봐야합니다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=125381</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=125381</guid>
-            <pubDate>Thu, 30 May 2024 07:18:27 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202405/125381_161712_4736_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[크립토 브리핑] 관심은 높은데...서서히 하락하는 비트코인·이더리움]]></title>
@@ -118,6 +110,14 @@
             <pubDate>Fri, 24 May 2024 10:25:00 GMT</pubDate>
             <content:encoded><![CDATA[장태훈 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202405/125092_161207_5234_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[KB국민은행, 인터브랜드 '베스트 코리아 브랜드' 12년 연속 시중은행 1위 선정]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=125070</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=125070</guid>
+            <pubDate>Fri, 31 May 2024 02:33:33 GMT</pubDate>
+            <content:encoded><![CDATA[장태훈 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202405/125070_161156_4130_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
