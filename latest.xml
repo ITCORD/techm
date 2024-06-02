@@ -4,7 +4,7 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 02 Jun 2024 11:20:14 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Jun 2024 12:33:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -62,6 +62,14 @@
             <pubDate>Sun, 02 Jun 2024 09:13:00 GMT</pubDate>
             <content:encoded><![CDATA[조성준 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202406/125469_161830_1238_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['집밥 해결사' 이마트 트레이더스가 나섰다...푸드 페스티벌 '개막']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=125460</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=125460</guid>
+            <pubDate>Sun, 02 Jun 2024 06:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202405/125460_161815_2852_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[eK리그] KT, 11포인트 추가해 2위 점프...곽준혁 개인전 진출 '안정권']]></title>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 31 May 2024 07:15:44 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202405/125440_161808_2054_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[22대 국회 상임위] 'IT 핵심' 과방위 누가 가나…ICT·미디어 관련 전문가 총집결]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=125445</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=125445</guid>
-            <pubDate>Fri, 31 May 2024 07:15:44 GMT</pubDate>
-            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202405/125445_161801_1231_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
