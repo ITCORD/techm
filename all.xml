@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 02 Jun 2024 02:38:44 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Jun 2024 03:25:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -279,6 +279,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202405/125423_161730_254_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA["스팸 차단 위해 민·관이 나섰다"…KISA, 하반기 불법 스팸 대응책 마련 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=125410</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=125410</guid>
+            <pubDate>Sun, 02 Jun 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[배수현 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202405/125410_161708_5229_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA["5G 요금제 2만원 시대열렸다"…LG유플러스, '너겟' 개편해 세분화 (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=125471</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=125471</guid>
@@ -381,14 +389,6 @@
             <pubDate>Fri, 31 May 2024 10:07:00 GMT</pubDate>
             <content:encoded><![CDATA[배수현 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202405/125420_161727_573_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[카카오페이지, 내달부터 '초신작 프로젝트' 개시…첫 주자는 '달빛조각사' (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=125426</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=125426</guid>
-            <pubDate>Fri, 31 May 2024 10:06:00 GMT</pubDate>
-            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202405/125426_161733_556_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[업비트 바짝 쫓는 빗썸...거래대금 차이 확 줄었다 (테크M ─ 이노베이션)]]></title>
@@ -634,7 +634,7 @@
             <title><![CDATA[[부고] 조현기 씨(뉴스1 정치부 기자) 조모상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Sun, 02 Jun 2024 02:36:19 GMT</pubDate>
+            <pubDate>Sun, 02 Jun 2024 03:22:39 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
         </item>
         <item>
@@ -648,7 +648,7 @@
             <title><![CDATA[[부고] 김택진(엔씨소프트 대표)씨 부친상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Sun, 02 Jun 2024 02:36:19 GMT</pubDate>
+            <pubDate>Sun, 02 Jun 2024 03:22:39 GMT</pubDate>
             <content:encoded><![CDATA[임경호 기자]]></content:encoded>
         </item>
         <item>
