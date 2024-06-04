@@ -4,9 +4,25 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Jun 2024 08:26:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Jun 2024 09:26:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 국내 게임업계, 방치형 게임 '키우기' 개발에 집중하는 이유는?]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=125587</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=125587</guid>
+            <pubDate>Tue, 04 Jun 2024 09:26:10 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202406/125587_161994_3450_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[게임코인TV] 새로운 소식 가지고 왔어요!...넷마블 '마브렉스'의 변화(1편)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=125600</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=125600</guid>
+            <pubDate>Tue, 04 Jun 2024 09:26:10 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202406/125600_162034_4723_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] LG전자, 2024 미래교육박람회에서 'AI 기반 에듀테크 솔루션' 선보인다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=125455</link>
@@ -102,22 +118,6 @@
             <pubDate>Tue, 21 May 2024 09:23:53 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202405/124934_160923_5749_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] '나의 삶을 더 건강하게' 다양한 디지털 헬스케어 앱에 대해 알아보자]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=124871</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=124871</guid>
-            <pubDate>Mon, 20 May 2024 08:25:14 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202405/124871_160821_4526_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] SM과 YG, 'K팝 아이돌+블록체인' 새로운 결합에 나선다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=124783</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=124783</guid>
-            <pubDate>Fri, 17 May 2024 12:36:17 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202405/124783_160677_2951_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
