@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Jun 2024 11:20:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jun 2024 12:35:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 두나무, 블록체인을 활용한 '공정성+ 투명성' 갖춘 추첨 툴 개발]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=125668</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=125668</guid>
+            <pubDate>Wed, 05 Jun 2024 12:35:58 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202406/125668_162113_451_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 국내 게임업계, 방치형 게임 '키우기' 개발에 집중하는 이유는?]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=125587</link>
@@ -110,14 +118,6 @@
             <pubDate>Tue, 21 May 2024 19:20:31 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202405/124941_160949_19_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] LG CNS, AI를 적용한 화상회의 다중 통역 솔루션 '오렐로(Orelo)' 출시]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=124934</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=124934</guid>
-            <pubDate>Tue, 21 May 2024 09:23:53 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202405/124934_160923_5749_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
