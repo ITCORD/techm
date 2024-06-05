@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Jun 2024 08:28:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jun 2024 09:26:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -392,6 +392,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202406/125612_162054_4918_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[인텔과 AI 시대 함께 여는 삼성전자...온디바이스 AI부터 커스텀 HBM까지 협업한다 (테크M ─ 이노베이션)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=125670</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=125670</guid>
+            <pubDate>Wed, 05 Jun 2024 09:23:03 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202406/125670_162124_144_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[네오위즈 '인텔라 X', 카브에 전략적 투자...노드 운영 참여 (테크M ─ 이노베이션)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=125660</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=125660</guid>
@@ -494,14 +502,6 @@
             <pubDate>Tue, 04 Jun 2024 07:16:42 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202406/125586_162028_313_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[IT 대기업 격전지로 부상한 미들마일 '화물운송'...기회는 분명한데 성과 미진한 이유는? (테크M ─ 이노베이션)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=125588</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=125588</guid>
-            <pubDate>Tue, 04 Jun 2024 07:16:42 GMT</pubDate>
-            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202406/125588_162025_2945_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[모듈러 블록체인 어베일, 시리즈A 투자 유치...누적 투자 금액 7500만달러 (테크M ─ 인베스트먼트)]]></title>
@@ -643,7 +643,7 @@
             <title><![CDATA[[부고] 조현기 씨(뉴스1 정치부 기자) 조모상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Wed, 05 Jun 2024 03:25:40 GMT</pubDate>
+            <pubDate>Wed, 05 Jun 2024 09:23:30 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
         </item>
         <item>
@@ -657,7 +657,7 @@
             <title><![CDATA[[부고] 김택진(엔씨소프트 대표)씨 부친상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Wed, 05 Jun 2024 03:25:40 GMT</pubDate>
+            <pubDate>Wed, 05 Jun 2024 09:23:30 GMT</pubDate>
             <content:encoded><![CDATA[임경호 기자]]></content:encoded>
         </item>
         <item>
