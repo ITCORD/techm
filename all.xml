@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Jun 2024 10:25:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jun 2024 11:22:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -392,12 +392,20 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202406/125679_162139_573_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[삼성의 '하이브리드 AI'...폴더블에 갤럭시 AI 적용하고, 통역은 써드파티로 확대 (테크M ─ 이노베이션)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=125740</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=125740</guid>
+            <pubDate>Fri, 07 Jun 2024 11:18:29 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202406/125740_162241_419_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['뿌리기' 서비스 종료하는 카카오페이..."송금·정산에 집중" (테크M ─ 이노베이션)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=125727</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=125727</guid>
             <pubDate>Fri, 07 Jun 2024 07:16:27 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202406/125727_162212_59_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202406/125727_162244_1249_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[카카오, PC 카카오톡 라이브톡 서비스 종료 (테크M ─ 이노베이션)]]></title>
@@ -421,7 +429,7 @@
             <guid>https://www.techm.kr/news/articleView.html?idxno=125724</guid>
             <pubDate>Fri, 07 Jun 2024 11:36:00 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202406/125724_162208_1914_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202406/125724_162247_1346_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[카카오모빌리티, 택시기사 가족 대상 코딩 교육 캠프 '주니어랩 2기' 모집 (테크M ─ 이노베이션)]]></title>
@@ -494,14 +502,6 @@
             <pubDate>Wed, 05 Jun 2024 11:14:39 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202406/125681_162152_3649_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인텔과 AI 시대 함께 여는 삼성전자...온디바이스 AI부터 커스텀 HBM까지 협업한다 (테크M ─ 이노베이션)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=125670</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=125670</guid>
-            <pubDate>Wed, 05 Jun 2024 09:23:03 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202406/125670_162124_144_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[테크M 리포트] 펄어비스, 매달 모멘텀 등판...붉은사막 이어 검사로 中 수출길 '활짝' (테크M ─ 인베스트먼트)]]></title>
