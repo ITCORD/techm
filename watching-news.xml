@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Jun 2024 23:25:27 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Jun 2024 01:17:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 'LG유플러스 볼트업' 공식 출범하고, 전기차 시대 준비한다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=125732</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=125732</guid>
+            <pubDate>Sat, 08 Jun 2024 09:54:00 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202406/125732_162223_2229_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 두나무, 블록체인을 활용한 '공정성+ 투명성' 갖춘 추첨 툴 개발]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=125668</link>
@@ -110,14 +118,6 @@
             <pubDate>Wed, 22 May 2024 00:59:00 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202405/124980_160991_5912_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[게임코인TV] 피자 한판에 4500억원? 5월 22일 피자데이의 모든 것...1편]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=124941</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=124941</guid>
-            <pubDate>Tue, 21 May 2024 19:20:31 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202405/124941_160949_19_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
