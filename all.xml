@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 08 Jun 2024 17:19:25 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Jun 2024 18:27:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -949,6 +949,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202405/125377_161649_4642_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[게임코인TV] 새로운 소식 가지고 왔어요!...넷마블 '마브렉스'의 변화(2편) (테크M ─ 보는 뉴스)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=125760</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=125760</guid>
+            <pubDate>Sun, 09 Jun 2024 01:29:00 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202406/125760_162291_2819_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[카드뉴스] 'LG유플러스 볼트업' 공식 출범하고, 전기차 시대 준비한다 (테크M ─ 보는 뉴스)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=125732</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=125732</guid>
@@ -1051,14 +1059,6 @@
             <pubDate>Wed, 22 May 2024 08:26:50 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202405/125007_161036_1555_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[게임코인TV] 돈 좀 벌어볼까? 쏠쏠한 이벤트 총정리...5월 22일 피자데이의 모든 것 (테크M ─ 보는 뉴스)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=124980</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=124980</guid>
-            <pubDate>Wed, 22 May 2024 00:59:00 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202405/124980_160991_5912_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
