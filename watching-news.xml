@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 09 Jun 2024 11:20:08 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Jun 2024 12:34:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[게임코인TV] 22대 국회 개원...가상자산 법 다룰 정무위는 누가?]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=125768</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=125768</guid>
+            <pubDate>Sun, 09 Jun 2024 12:34:40 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202406/125768_162309_2154_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[게임코인TV] 새로운 소식 가지고 왔어요!...넷마블 '마브렉스'의 변화(2편)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=125760</link>
@@ -110,14 +118,6 @@
             <pubDate>Thu, 23 May 2024 08:24:54 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202405/125064_161131_645_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] KT, 백남준아트센터 특별전 오픈 '생성형AI 기술로 3D공간 구현했다']]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=125007</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=125007</guid>
-            <pubDate>Wed, 22 May 2024 08:26:50 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202405/125007_161036_1555_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
