@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jun 2024 15:23:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jun 2024 16:27:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -675,7 +675,7 @@
             <title><![CDATA[[부고] 조현기 씨(뉴스1 정치부 기자) 조모상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Mon, 10 Jun 2024 15:21:07 GMT</pubDate>
+            <pubDate>Mon, 10 Jun 2024 16:25:16 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
         </item>
         <item>
@@ -689,7 +689,7 @@
             <title><![CDATA[[부고] 김택진(엔씨소프트 대표)씨 부친상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Mon, 10 Jun 2024 15:21:07 GMT</pubDate>
+            <pubDate>Mon, 10 Jun 2024 16:25:16 GMT</pubDate>
             <content:encoded><![CDATA[임경호 기자]]></content:encoded>
         </item>
         <item>
@@ -949,6 +949,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202405/125377_161649_4642_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[카드뉴스] LG CNS, 새로운 도전을 시작하다...해외기업과 손잡고 글로벌 무대로 (테크M ─ 보는 뉴스)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=125833</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=125833</guid>
+            <pubDate>Mon, 10 Jun 2024 07:16:16 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202406/125833_162412_90_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[게임코인TV] 22대 국회 개원...가상자산 법 다룰 정무위는 누가? (테크M ─ 보는 뉴스)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=125768</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=125768</guid>
@@ -1051,14 +1059,6 @@
             <pubDate>Thu, 23 May 2024 08:24:54 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202405/125072_161162_1910_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[게임코인TV] 칼 빼든 박관호 위메이드 회장, 옥석가리기 본격화 (테크M ─ 보는 뉴스)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=125064</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=125064</guid>
-            <pubDate>Thu, 23 May 2024 08:24:54 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202405/125064_161131_645_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
