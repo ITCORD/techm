@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Jun 2024 11:22:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Jun 2024 12:38:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] '미들마일'의 강자 고고엑스코리아, 성공한 플랫폼으로 거듭난 이유는?]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=126015</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=126015</guid>
+            <pubDate>Thu, 13 Jun 2024 12:38:46 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202406/126015_162717_5624_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[게임코인TV] 금융위가 NFT 가이드라인을 발표했다...NFT도 가상자산일까?(2편)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=125953</link>
@@ -110,14 +118,6 @@
             <pubDate>Thu, 30 May 2024 10:06:00 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202405/125340_161582_566_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[게임코인TV] 이더리움 현물 ETF도 SEC 뚫었다...가상자산 제도권 편입 본격화?(2편)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=125317</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=125317</guid>
-            <pubDate>Wed, 29 May 2024 11:33:00 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202405/125317_161557_3212_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
