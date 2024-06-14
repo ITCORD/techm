@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Jun 2024 10:23:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jun 2024 11:21:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -171,7 +171,7 @@
             <title><![CDATA["아는 맛이 무섭다더니"...데브시스터즈 '모험의 탑'으로 반등 신호탄 쏜다 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=126073</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=126073</guid>
-            <pubDate>Fri, 14 Jun 2024 10:18:15 GMT</pubDate>
+            <pubDate>Fri, 14 Jun 2024 10:17:51 GMT</pubDate>
             <content:encoded><![CDATA[임경호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202406/126073_162846_4246_v150.jpg" length="0" type="image/jpg"/>
         </item>
@@ -728,7 +728,7 @@
             <title><![CDATA[알리익스프레스 "홈플러스 인수논의? 사실 무근" (테크M ─ 라이프)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=126085</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=126085</guid>
-            <pubDate>Fri, 14 Jun 2024 10:21:21 GMT</pubDate>
+            <pubDate>Fri, 14 Jun 2024 10:17:51 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202406/126085_162847_5849_v150.jpg" length="0" type="image/jpg"/>
         </item>
@@ -949,6 +949,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202406/125596_162014_1951_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[카드뉴스] 카카오, '안정성'과 '친환경'을 최우선으로 고려한 첫 데이터센터 오픈 (테크M ─ 보는 뉴스)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=126071</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=126071</guid>
+            <pubDate>Fri, 14 Jun 2024 10:17:51 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202406/126071_162805_2514_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[카드뉴스] '미들마일'의 강자 고고엑스코리아, 성공한 플랫폼으로 거듭난 이유는? (테크M ─ 보는 뉴스)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=126015</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=126015</guid>
@@ -1051,14 +1059,6 @@
             <pubDate>Thu, 30 May 2024 11:19:33 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202405/125392_161672_644_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] KT, 안양시와 함께 자율주행버스 '주야로' 시범운행에 나섰다 (테크M ─ 보는 뉴스)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=125340</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=125340</guid>
-            <pubDate>Thu, 30 May 2024 10:06:00 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202405/125340_161582_566_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
