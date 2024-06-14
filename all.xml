@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Jun 2024 06:30:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jun 2024 07:22:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,6 +168,22 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202406/126046_162777_3331_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['파이널판타지14' 팬페스티벌 서울 5년 만에 오프라인 개최 (테크M ─ 콘텐츠)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=126064</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=126064</guid>
+            <pubDate>Fri, 14 Jun 2024 06:24:08 GMT</pubDate>
+            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202406/126064_162803_1025_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["당신의 최애 프록시안은?"...컴투스 '스타시드'-소니 '인존 버즈' 제휴 이벤트 (테크M ─ 콘텐츠)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=126068</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=126068</guid>
+            <pubDate>Fri, 14 Jun 2024 06:24:08 GMT</pubDate>
+            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202406/126068_162804_2423_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[네오위즈 '브라운더스트2' 1주년 특별 방송...하반기 로드맵 공개 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=126055</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=126055</guid>
@@ -262,22 +278,6 @@
             <pubDate>Thu, 13 Jun 2024 12:32:01 GMT</pubDate>
             <content:encoded><![CDATA[임경호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202406/126011_162734_5133_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[AI 기술, 게임시장 세분화 가속 일조...기반 기술 마련 필요성도 (테크M ─ 콘텐츠)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=126021</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=126021</guid>
-            <pubDate>Thu, 13 Jun 2024 10:17:36 GMT</pubDate>
-            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202406/126021_162731_533_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[그라비티 '라그나로크: 여명' 중국 판호 발급...'라그나로크 온라인'에 이어 올해 두 번째 (테크M ─ 콘텐츠)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=126008</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=126008</guid>
-            <pubDate>Thu, 13 Jun 2024 07:17:01 GMT</pubDate>
-            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202406/126008_162709_1555_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[AI와 함께 '시총 1위'로 돌아온 애플, 기회와 한계는? (테크M ─ 인프라)]]></title>
@@ -691,7 +691,7 @@
             <title><![CDATA[[부고] 조현기 씨(뉴스1 정치부 기자) 조모상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Fri, 14 Jun 2024 05:19:16 GMT</pubDate>
+            <pubDate>Fri, 14 Jun 2024 07:19:42 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
         </item>
         <item>
@@ -705,7 +705,7 @@
             <title><![CDATA[[부고] 김택진(엔씨소프트 대표)씨 부친상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Fri, 14 Jun 2024 05:19:16 GMT</pubDate>
+            <pubDate>Fri, 14 Jun 2024 07:19:42 GMT</pubDate>
             <content:encoded><![CDATA[임경호 기자]]></content:encoded>
         </item>
         <item>
@@ -728,7 +728,7 @@
             <title><![CDATA[[테크M 이슈] 기로에 선 전국민 애용서비스 로켓배송...정작 쿠팡 'PB' 수익성은 '제로' (테크M ─ 라이프)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=126061</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=126061</guid>
-            <pubDate>Fri, 14 Jun 2024 06:28:43 GMT</pubDate>
+            <pubDate>Fri, 14 Jun 2024 06:24:08 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202406/126061_162801_214_v150.jpg" length="0" type="image/jpg"/>
         </item>
@@ -736,7 +736,7 @@
             <title><![CDATA[공정위의 쿠팡 죽이기? 쿠팡 투자 불확실성 UP...지역 상생 '적신호' (테크M ─ 라이프)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=126056</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=126056</guid>
-            <pubDate>Fri, 14 Jun 2024 06:28:43 GMT</pubDate>
+            <pubDate>Fri, 14 Jun 2024 06:24:08 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202406/126056_162797_538_v150.jpg" length="0" type="image/jpg"/>
         </item>
@@ -744,7 +744,7 @@
             <title><![CDATA["쿠팡 PB상품 규제, 소비자 편익 줄이는 소탐대실" 공정위 제재에 소비자 반발 확산 (테크M ─ 라이프)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=126054</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=126054</guid>
-            <pubDate>Fri, 14 Jun 2024 06:28:43 GMT</pubDate>
+            <pubDate>Fri, 14 Jun 2024 06:24:08 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202406/126054_162790_3339_v150.jpg" length="0" type="image/jpg"/>
         </item>
