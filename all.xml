@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Jun 2024 22:20:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jun 2024 23:20:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[숏폼에 롱폼 텍스트까지...카카오 다음, '폼' 좋은 전략으로 콘텐츠 차별화 꾀한다 (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=126198</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=126198</guid>
+            <pubDate>Wed, 19 Jun 2024 07:30:00 GMT</pubDate>
+            <content:encoded><![CDATA[배수현 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202406/126198_163059_5036_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[정부 '콘텐츠 4대 강국' 도약 계획 발표...콘솔 육성·게임사 책임 강화 포함 (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=126210</link>
@@ -160,12 +168,12 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202406/126191_163026_4535_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[무신사 플레이어, 윌슨과 개최한 아마추어 테니스 대회 성료 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=126190</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=126190</guid>
-            <pubDate>Tue, 18 Jun 2024 00:43:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202406/126190_163025_4316_v150.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[숏폼에 롱폼 텍스트까지...카카오 다음, '폼' 좋은 전략으로 콘텐츠 차별화 꾀한다 (테크M ─ 콘텐츠)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=126198</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=126198</guid>
+            <pubDate>Wed, 19 Jun 2024 07:30:00 GMT</pubDate>
+            <content:encoded><![CDATA[배수현 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202406/126198_163059_5036_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[정부 '콘텐츠 4대 강국' 도약 계획 발표...콘솔 육성·게임사 책임 강화 포함 (테크M ─ 콘텐츠)]]></title>
@@ -270,14 +278,6 @@
             <pubDate>Mon, 17 Jun 2024 09:20:11 GMT</pubDate>
             <content:encoded><![CDATA[임경호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202406/126146_162975_5027_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[게임 정책에 소비자 목소리 반영할까...'제1회 게임이용자 소통 토론회' 개최 (테크M ─ 콘텐츠)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=126152</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=126152</guid>
-            <pubDate>Mon, 17 Jun 2024 09:20:11 GMT</pubDate>
-            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202406/126152_162959_2043_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[LG유플러스, 코레일·아이오로라와 함께 '외국인 관광객 전용 교통패스' 출시 (테크M ─ 인프라)]]></title>
@@ -707,7 +707,7 @@
             <title><![CDATA[[부고] 조현기 씨(뉴스1 정치부 기자) 조모상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Tue, 18 Jun 2024 22:18:55 GMT</pubDate>
+            <pubDate>Tue, 18 Jun 2024 23:19:44 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
         </item>
         <item>
@@ -721,7 +721,7 @@
             <title><![CDATA[[부고] 김택진(엔씨소프트 대표)씨 부친상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Tue, 18 Jun 2024 22:18:55 GMT</pubDate>
+            <pubDate>Tue, 18 Jun 2024 23:19:44 GMT</pubDate>
             <content:encoded><![CDATA[임경호 기자]]></content:encoded>
         </item>
         <item>
