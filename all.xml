@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Jun 2024 08:27:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jun 2024 09:24:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -621,7 +621,7 @@
             <guid>https://www.techm.kr/news/articleView.html?idxno=126195</guid>
             <pubDate>Tue, 18 Jun 2024 05:17:21 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202406/126195_163031_1851_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202406/126195_163067_3410_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[e스포츠人] KT 박찬화 "최근 메타 내 스타일 통할 것...우승 노린다" (테크M ─ 피플)]]></title>
@@ -707,7 +707,7 @@
             <title><![CDATA[[부고] 조현기 씨(뉴스1 정치부 기자) 조모상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Tue, 18 Jun 2024 07:20:28 GMT</pubDate>
+            <pubDate>Tue, 18 Jun 2024 09:22:48 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
         </item>
         <item>
@@ -721,7 +721,7 @@
             <title><![CDATA[[부고] 김택진(엔씨소프트 대표)씨 부친상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Tue, 18 Jun 2024 07:20:28 GMT</pubDate>
+            <pubDate>Tue, 18 Jun 2024 09:22:48 GMT</pubDate>
             <content:encoded><![CDATA[임경호 기자]]></content:encoded>
         </item>
         <item>
@@ -949,6 +949,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202406/125748_162263_258_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[카드뉴스] SK텔레콤, 정교한 고객 타겟팅을 위한 AI 광고 플랫폼 '어썸 2.0' 출시 (테크M ─ 보는 뉴스)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=126204</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=126204</guid>
+            <pubDate>Tue, 18 Jun 2024 09:24:33 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202406/126204_163049_3752_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[카드뉴스] 네이버, 치지직 '중간광고'와 웹툰 '캐릭터챗'으로 콘텐츠분야 키운다 (테크M ─ 보는 뉴스)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=126158</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=126158</guid>
@@ -1051,14 +1059,6 @@
             <pubDate>Tue, 04 Jun 2024 09:26:10 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202406/125600_162034_4723_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] LG전자, 2024 미래교육박람회에서 'AI 기반 에듀테크 솔루션' 선보인다 (테크M ─ 보는 뉴스)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=125455</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=125455</guid>
-            <pubDate>Fri, 31 May 2024 07:15:44 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202405/125455_161779_504_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
