@@ -4,9 +4,17 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Jun 2024 05:21:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jun 2024 06:27:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[FreeView] 내 개인정보, AI 비서한테 다 줘도 될까요?]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=126248</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=126248</guid>
+            <pubDate>Wed, 19 Jun 2024 06:24:53 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202406/126248_163132_5250_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["인당 사용시간 2배" 알리-테무 침공에도 끄떡없는 컬리, IPO '청신호']]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=126243</link>
@@ -110,14 +118,6 @@
             <pubDate>Tue, 18 Jun 2024 08:24:22 GMT</pubDate>
             <content:encoded><![CDATA[조성준 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202406/126203_163065_3331_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[세일즈포스 "AI의 차이는 '정보'…생성형AI로 생산성 높이는데 주력"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=126200</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=126200</guid>
-            <pubDate>Tue, 18 Jun 2024 06:25:05 GMT</pubDate>
-            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202406/126200_163042_3656_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
