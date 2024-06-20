@@ -4,9 +4,25 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jun 2024 04:25:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jun 2024 05:20:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["생성형 AI 보안, AWS라면 믿을 수 있다"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=126312</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=126312</guid>
+            <pubDate>Thu, 20 Jun 2024 05:17:02 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202406/126312_163227_513_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[LG전자, '차세대 냉난방공조' 개발 위해 글로벌 R&D 트라이앵글 구축]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=126266</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=126266</guid>
+            <pubDate>Thu, 20 Jun 2024 05:17:02 GMT</pubDate>
+            <content:encoded><![CDATA[배수현 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202406/126266_163171_3036_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[삼성전자, '비스포크 AI 하이브리드'로 기능·에너지 절약 두 토끼 잡는다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=126265</link>
@@ -102,22 +118,6 @@
             <pubDate>Thu, 20 Jun 2024 09:59:00 GMT</pubDate>
             <content:encoded><![CDATA[조성준 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202406/126274_163178_5850_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[과기정통부, '무선인터넷 속도측정 앱' 데이터 차감 면제한다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=126259</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=126259</guid>
-            <pubDate>Thu, 20 Jun 2024 06:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202406/126259_163157_5710_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["평창에서 즐기는 물놀이 만끽하세요"…휘팍, 내달 키즈 풀파티 개최]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=126262</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=126262</guid>
-            <pubDate>Wed, 19 Jun 2024 13:21:20 GMT</pubDate>
-            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202406/126262_163167_3944_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
