@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jun 2024 14:21:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jun 2024 15:24:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -197,7 +197,7 @@
             <guid>https://www.techm.kr/news/articleView.html?idxno=126311</guid>
             <pubDate>Thu, 20 Jun 2024 08:23:51 GMT</pubDate>
             <content:encoded><![CDATA[임경호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202406/126311_163254_186_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202406/126311_163266_2541_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[넥슨 '카잔' 2차 테스트도 호평...네오플표 액션 또 한 번 일낼까 (테크M ─ 콘텐츠)]]></title>
@@ -278,6 +278,14 @@
             <pubDate>Wed, 19 Jun 2024 11:01:00 GMT</pubDate>
             <content:encoded><![CDATA[임경호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202406/126222_163159_5959_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[카카오페이손보 따라잡기? 온라인 희미한 삼성화재...카피켓 '논란' (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=126322</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=126322</guid>
+            <pubDate>Thu, 20 Jun 2024 15:20:29 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202406/126322_163267_4825_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[AI 가전 자신감 충만한 삼성전자 "펠티어 소자 활용 영역 넓힌다" (테크M ─ 인프라)]]></title>
@@ -382,14 +390,6 @@
             <pubDate>Thu, 20 Jun 2024 10:22:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202406/126286_163190_2213_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쏘카, 네이버와 손잡고 카셰어링 서비스 확대 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=126281</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=126281</guid>
-            <pubDate>Thu, 20 Jun 2024 10:14:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202406/126281_163186_147_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[군불 때는 '메이플스토리 유니버스'...티저 공개에 디스코드 오픈까지 (테크M ─ 이노베이션)]]></title>
