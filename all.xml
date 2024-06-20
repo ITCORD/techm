@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jun 2024 17:21:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jun 2024 18:28:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -951,6 +951,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202406/125862_162472_2832_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[게임코인TV] 가상자산이용자보호법 앞두고 시작된 '토종코인 서바이벌'(2편) (테크M ─ 보는 뉴스)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=126323</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=126323</guid>
+            <pubDate>Fri, 21 Jun 2024 01:43:00 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202406/126323_163270_4316_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[카드뉴스] 카카오게임즈, RTS '스톰게이트'로 e스포츠 신규 왕좌자리 노린다 (테크M ─ 보는 뉴스)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=126317</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=126317</guid>
@@ -1053,14 +1061,6 @@
             <pubDate>Sat, 08 Jun 2024 09:54:00 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202406/125732_162223_2229_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 두나무, 블록체인을 활용한 '공정성+ 투명성' 갖춘 추첨 툴 개발 (테크M ─ 보는 뉴스)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=125668</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=125668</guid>
-            <pubDate>Wed, 05 Jun 2024 11:14:39 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202406/125668_162113_451_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
