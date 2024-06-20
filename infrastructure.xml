@@ -4,9 +4,25 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jun 2024 05:20:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jun 2024 06:28:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[테크M 이슈] '계륵' 된 5G 28㎓ 어쩌나…정부, 주파수 활용방안 장고 돌입]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=126315</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=126315</guid>
+            <pubDate>Thu, 20 Jun 2024 06:25:07 GMT</pubDate>
+            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202406/126315_163236_622_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["보관 기능 올리고 전기세 내려"…삼성전자, 냉장고 혁신 불러온 '비스포크 AI 하이브리드']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=126306</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=126306</guid>
+            <pubDate>Thu, 20 Jun 2024 06:25:07 GMT</pubDate>
+            <content:encoded><![CDATA[배수현 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202406/126306_163211_5933_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["생성형 AI 보안, AWS라면 믿을 수 있다"]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=126312</link>
@@ -102,22 +118,6 @@
             <pubDate>Thu, 20 Jun 2024 10:07:00 GMT</pubDate>
             <content:encoded><![CDATA[조성준 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202406/126279_163182_75_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[패스트파이브, 공간 상품 결제하는 '크레딧' 시스템 도입]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=126278</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=126278</guid>
-            <pubDate>Thu, 20 Jun 2024 10:07:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202406/126278_163181_74_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LG유플러스, 재생에너지 공급 사업 진출한다…"탄소중립 달성 앞장"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=126274</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=126274</guid>
-            <pubDate>Thu, 20 Jun 2024 09:59:00 GMT</pubDate>
-            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202406/126274_163178_5850_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
