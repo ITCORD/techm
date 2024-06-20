@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jun 2024 06:28:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jun 2024 07:21:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 카카오게임즈, RTS '스톰게이트'로 e스포츠 신규 왕좌자리 노린다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=126317</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=126317</guid>
+            <pubDate>Thu, 20 Jun 2024 07:21:53 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202406/126317_163243_1559_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 정부 x 민간 협력 '창구 프로그램'에 참여한 AI 스타트업들, 이제는 '글로벌'로 향한다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=126255</link>
@@ -110,14 +118,6 @@
             <pubDate>Wed, 05 Jun 2024 12:35:58 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202406/125668_162113_451_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 국내 게임업계, 방치형 게임 '키우기' 개발에 집중하는 이유는?]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=125587</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=125587</guid>
-            <pubDate>Tue, 04 Jun 2024 09:26:10 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202406/125587_161994_3450_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
