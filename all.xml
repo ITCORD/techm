@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 22 Jun 2024 03:26:49 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Jun 2024 04:26:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -616,6 +616,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202406/126088_162853_1657_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[템터뷰] 난청인 실시간 자막 앱 '소보로'의 최종 종착지는?…"모든 사람의 일상 속" (테크M ─ 피플)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=126346</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=126346</guid>
+            <pubDate>Sat, 22 Jun 2024 00:41:00 GMT</pubDate>
+            <content:encoded><![CDATA[배수현 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202406/126346_163305_3334_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[부고] 백종민(아시아경제 부장)씨 모친상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
@@ -717,14 +725,6 @@
             <pubDate>Sat, 01 Jun 2024 08:27:00 GMT</pubDate>
             <content:encoded><![CDATA[배수현 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202405/125453_161790_219_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[호암재단 '삼성호암상 시상식' 개최…여성 수상자 4명, 역대 '최대' (테크M ─ 피플)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=125457</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=125457</guid>
-            <pubDate>Fri, 31 May 2024 09:18:35 GMT</pubDate>
-            <content:encoded><![CDATA[배수현 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202405/125457_161796_5941_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[지니뮤직 '지니램프' 그룹 투어스(TWS) 만난다 (테크M ─ 라이프)]]></title>
