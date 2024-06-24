@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Jun 2024 05:20:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Jun 2024 06:26:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[정부의 통신비 인하 정책은 현재진행형…격동은 아직 끝나지 않았다 (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=126416</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=126416</guid>
+            <pubDate>Mon, 24 Jun 2024 06:23:52 GMT</pubDate>
+            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202406/126416_163452_1227_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[주류 넘어 라이프 기업으로...혁신에 취한 하이트진로, 스타트업 투자 '속도' (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=126411</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=126411</guid>
+            <pubDate>Mon, 24 Jun 2024 06:23:52 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202406/126411_163443_1334_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[AI 디바이스 쉽지 않네…애플·MS도 '쩔쩔' (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=126409</link>
@@ -152,22 +168,6 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202406/126389_163404_1931_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[세종텔레콤, 신한은행·신한투자증권과 토큰증권 사업 협약 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=126392</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=126392</guid>
-            <pubDate>Mon, 24 Jun 2024 10:13:00 GMT</pubDate>
-            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202406/126392_163405_1244_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[크립토 브리핑] 9000만원선 붕괴된 비트코인...주요 가상자산 연일 하락세 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=126388</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=126388</guid>
-            <pubDate>Mon, 24 Jun 2024 10:05:00 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202406/126388_163402_5827_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[위믹스 포인트] 4차 연장 끝에 우승컵 거머쥔 박현경, 위메이드 대상 1위-위믹스 포인트 2위 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=126408</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=126408</guid>
@@ -280,6 +280,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202406/126366_163349_3140_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[정부의 통신비 인하 정책은 현재진행형…격동은 아직 끝나지 않았다 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=126416</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=126416</guid>
+            <pubDate>Mon, 24 Jun 2024 06:24:31 GMT</pubDate>
+            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202406/126416_163452_1227_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[AI 디바이스 쉽지 않네…애플·MS도 '쩔쩔' (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=126409</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=126409</guid>
@@ -382,14 +390,6 @@
             <pubDate>Sun, 23 Jun 2024 11:03:00 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202406/126374_163367_598_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성 'AI 웨어러블' 군단이 온다...갤럭시 AI 생태계 확장 기대 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=126347</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=126347</guid>
-            <pubDate>Fri, 21 Jun 2024 09:17:55 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202406/126347_163289_2627_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[쟁글, 자체 개발 앱토스 익스플로러 공개...커뮤니티 생태계 협업 (테크M ─ 이노베이션)]]></title>
@@ -727,6 +727,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202406/125758_162285_5037_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[주류 넘어 라이프 기업으로...혁신에 취한 하이트진로, 스타트업 투자 '속도' (테크M ─ 라이프)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=126411</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=126411</guid>
+            <pubDate>Mon, 24 Jun 2024 06:25:54 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202406/126411_163443_1334_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[테크M 이슈] 무신사 무진장 블랙프라이데이 역대급 흥행...비결은 (테크M ─ 라이프)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=126405</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=126405</guid>
@@ -804,7 +812,7 @@
             <guid>https://www.techm.kr/news/articleView.html?idxno=126310</guid>
             <pubDate>Fri, 21 Jun 2024 11:34:00 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202406/126310_163315_20_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202406/126310_163225_5148_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["원피스 팬들 모두 모여라"...더현대 서울서 팝업스토어 열린다 (테크M ─ 라이프)]]></title>
@@ -829,14 +837,6 @@
             <pubDate>Thu, 20 Jun 2024 10:25:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202406/126289_163194_2526_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[무신사 '무진장 여름 블랙프라이데이' 열었다...최대 80% 할인 (테크M ─ 라이프)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=126287</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=126287</guid>
-            <pubDate>Thu, 20 Jun 2024 10:23:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202406/126287_163192_2350_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[글로벌] NASA, 2029년 인공 별 띄워 별빛 양 측정...미래 천문학 연구 발판 마련 (테크M ─ 리포트)]]></title>
