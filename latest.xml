@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Jun 2024 03:25:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Jun 2024 04:23:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[AI 디바이스 쉽지 않네…애플·MS도 '쩔쩔']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=126409</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=126409</guid>
+            <pubDate>Mon, 24 Jun 2024 04:20:35 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202406/126409_163436_441_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[위믹스 포인트] 4차 연장 끝에 우승컵 거머쥔 박현경, 위메이드 대상 1위-위믹스 포인트 2위]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=126408</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 24 Jun 2024 10:05:00 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202406/126388_163402_5827_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성메디슨, '세계 태아의학 학술대회'서 AI 진단 보조 기능 띄운다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=126384</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=126384</guid>
-            <pubDate>Mon, 24 Jun 2024 10:04:00 GMT</pubDate>
-            <content:encoded><![CDATA[배수현 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202406/126384_163400_4751_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
