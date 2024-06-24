@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Jun 2024 08:26:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Jun 2024 09:25:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 다가오는 여름철, 삼성전자 '스마트싱스 에너지' AI 절약모드를 활용해보자]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=126417</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=126417</guid>
+            <pubDate>Mon, 24 Jun 2024 09:25:35 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202406/126417_163455_142_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[게임코인TV] 가상자산이용자보호법 앞두고 시작된 '토종코인 서바이벌'(2편)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=126323</link>
@@ -110,14 +118,6 @@
             <pubDate>Sun, 09 Jun 2024 01:29:00 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202406/125760_162291_2819_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 'LG유플러스 볼트업' 공식 출범하고, 전기차 시대 준비한다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=125732</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=125732</guid>
-            <pubDate>Sat, 08 Jun 2024 09:54:00 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202406/125732_162223_2229_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
