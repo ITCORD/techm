@@ -4,9 +4,33 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jun 2024 03:25:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jun 2024 04:26:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[AI 경쟁은 국가 대항전...하정우 네이버클라우드 "소버린 AI 확보 위해 노력해야"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=126516</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=126516</guid>
+            <pubDate>Wed, 26 Jun 2024 11:51:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202406/126516_163619_2818_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[데브시스터즈, 서브컬처 수집형 RPG 개발 나서나...채용 돌입]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=126514</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=126514</guid>
+            <pubDate>Wed, 26 Jun 2024 11:37:00 GMT</pubDate>
+            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202406/126514_163620_2953_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[테크M 이슈] 반등하는 롯데온...AI 앞세워 롯데 이커머스 되살린다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=126517</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=126517</guid>
+            <pubDate>Wed, 26 Jun 2024 11:32:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202406/126517_163622_3210_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[같이사소] 테마기획전으로 경쟁력 키운다...쿠팡-티몬-위메프, 독특한 세일로 '눈길']]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=126515</link>
@@ -142,30 +166,6 @@
             <pubDate>Wed, 26 Jun 2024 10:06:00 GMT</pubDate>
             <content:encoded><![CDATA[임경호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202406/126497_163597_5618_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[떠나자, 모험의 탑] ① 수집 재미에 액션 더했다...'쿠키런: 모험의 탑' 글로벌 동시 출격]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=126494</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=126494</guid>
-            <pubDate>Wed, 26 Jun 2024 10:05:00 GMT</pubDate>
-            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202406/126494_163594_4644_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한컴, 구독형 문서 서비스 '한컴독스 AI' 공개 베타 테스트]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=126496</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=126496</guid>
-            <pubDate>Wed, 26 Jun 2024 09:50:00 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202406/126496_163596_4934_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[더존비즈온, AX 신무기 'OmniEsol' 출격…"외산 솔루션 대체하고 글로벌 진출"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=126495</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=126495</guid>
-            <pubDate>Wed, 26 Jun 2024 09:47:00 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202406/126495_163593_4610_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
