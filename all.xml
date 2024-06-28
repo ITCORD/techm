@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Jun 2024 03:23:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jun 2024 04:24:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,6 +168,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202406/126629_163797_5528_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[가봤다] 잠실 노티드에 '쿠키런: 모험의 탑' 떴다...전국 각지에서 '와글와글' (테크M ─ 콘텐츠)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=126655</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=126655</guid>
+            <pubDate>Fri, 28 Jun 2024 04:21:22 GMT</pubDate>
+            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202406/126655_163820_1122_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[모바일 게임 주요 광고 플랫폼으로 각광 받는 '이곳'은 어디? (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=126649</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=126649</guid>
@@ -270,14 +278,6 @@
             <pubDate>Thu, 27 Jun 2024 10:42:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202406/126566_163698_4226_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[컴투스홀딩스 '제노니아' 출시 1주년 이벤트 활짝 (테크M ─ 콘텐츠)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=126564</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=126564</guid>
-            <pubDate>Thu, 27 Jun 2024 10:38:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202406/126564_163696_3815_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[해시드, UAE 정부 산하 엑셀러에이터와 맞손...웹 3.0 굴기 '속도' (테크M ─ 인프라)]]></title>
