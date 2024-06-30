@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 30 Jun 2024 05:21:51 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Jun 2024 06:27:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,6 +168,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202406/126668_163855_5813_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[스타크래프트2 최강자 등극한 박령우...GSL 3회 우승 달성 (테크M ─ 콘텐츠)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=126693</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=126693</guid>
+            <pubDate>Sun, 30 Jun 2024 06:23:51 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202406/126693_163909_1522_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[SKT 가족로밍 서비스, 1년만에 126만명이 이용 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=126683</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=126683</guid>
@@ -270,14 +278,6 @@
             <pubDate>Fri, 28 Jun 2024 10:56:00 GMT</pubDate>
             <content:encoded><![CDATA[임경호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202406/126647_163813_4137_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[닌텐도, 엔씨소프트 '배틀크러쉬' 주요 게임으로 소개...'토픽스' 게재 (테크M ─ 콘텐츠)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=126644</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=126644</guid>
-            <pubDate>Fri, 28 Jun 2024 10:26:00 GMT</pubDate>
-            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202406/126644_163809_190_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[LG유플러스, 대전 R&D센터에 1000㎾급 태양광 설비 구축 (테크M ─ 인프라)]]></title>
@@ -616,6 +616,13 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202406/126401_163414_3455_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[부고] 김영락(EBN 대표·전 KBC 전무)씨 모친상 (테크M ─ 피플)]]></title>
+            <link>https://ITCORD.github.io/techm/all.xml</link>
+            <guid>https://ITCORD.github.io/techm/all.xml</guid>
+            <pubDate>Sun, 30 Jun 2024 06:25:29 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[e스포츠人] 한층 여유로워진 WH게이밍 이원주, 자신감의 비결은? (테크M ─ 피플)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=126680</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=126680</guid>
@@ -719,12 +726,28 @@
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[신세계 정용진 회장, 알리-쿠팡 출신 경영진 전면 배치...이커머스 혁신 '속도' (테크M ─ 피플)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=126232</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=126232</guid>
-            <pubDate>Wed, 19 Jun 2024 11:07:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202406/126232_163111_77_v150.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[이탈리아 포지타노로 변신한 현대백화점..."여름 정취 마음껏 느끼세요" (테크M ─ 라이프)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=126695</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=126695</guid>
+            <pubDate>Sun, 30 Jun 2024 06:25:45 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202406/126695_163911_3540_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[여름 블랙프라이데이 누적 판매 1000억원 돌파...무신사 신화는 계속된다 (테크M ─ 라이프)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=126694</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=126694</guid>
+            <pubDate>Sun, 30 Jun 2024 06:25:45 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202406/126694_163910_3344_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[먹어봤다] CU 손잡은 농심의 야심작, '배홍동 만능소스' 간편식 "별미네" (테크M ─ 라이프)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=126681</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=126681</guid>
+            <pubDate>Sun, 30 Jun 2024 06:25:45 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202406/126681_163885_5054_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[쿠팡, 가성비 호텔 최저가 챌린지 개최…전국 40여개 호텔 최저가 수준 할인 (테크M ─ 라이프)]]></title>
@@ -813,30 +836,6 @@
             <pubDate>Thu, 27 Jun 2024 05:18:02 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202406/126583_163722_4421_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쿠팡풀필먼트서비스, 오토메이션 엔지니어 100여명 공개채용 (테크M ─ 라이프)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=126580</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=126580</guid>
-            <pubDate>Thu, 27 Jun 2024 04:22:50 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202406/126580_163719_72_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[MS가 키워주는 이스트소프트, 日 스타 AI 마코토 띄운다 (테크M ─ 라이프)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=126579</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=126579</guid>
-            <pubDate>Thu, 27 Jun 2024 00:51:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202406/126579_163721_4115_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국가대표 테크 플랫폼 '쿠팡'의 혁신은 계속된다...MS AI 키맨 전격 영입 (테크M ─ 라이프)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=126578</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=126578</guid>
-            <pubDate>Thu, 27 Jun 2024 00:29:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202406/126578_163717_2911_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[글로벌] 중국 달 탐사선 '창어 6호' 달 뒷면 토양 채취 성공 (테크M ─ 리포트)]]></title>
