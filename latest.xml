@@ -4,7 +4,7 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Jul 2024 09:27:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Jul 2024 10:26:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,14 +22,6 @@
             <pubDate>Mon, 01 Jul 2024 08:23:15 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202407/126755_164019_5551_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[신세계백화점, 하반기 쇼핑 축제 연다...다양한 할인 및 리워드 혜택 준비 '눈길']]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=126756</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=126756</guid>
-            <pubDate>Mon, 01 Jul 2024 09:22:11 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202407/126756_164020_2328_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[디지털자산거래소 공동협의체, 감독당국과 가상자산사업자의 이용자보호법 수범 지원 교육]]></title>
@@ -166,6 +158,14 @@
             <pubDate>Mon, 01 Jul 2024 05:17:38 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202407/126733_163966_512_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[제1회 2024 당근 동네사장님 어워즈 개최...1주일간 사전 이벤트 진행]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=126731</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=126731</guid>
+            <pubDate>Mon, 01 Jul 2024 10:20:54 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202407/126731_163963_123_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

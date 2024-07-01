@@ -1,8 +1,123 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN2&amp;view_type=sm</id>
-    <title>테크M ─ 인프라</title>
-    <updated>2024-07-01T09:27:35.684Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.techm.kr/news/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>테크M ─ 인프라</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Mon, 01 Jul 2024 10:26:12 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[AI 시대 '최태원의 복심' 낙점된 유영상…AI·반도체 투자 핵심 '키맨'으로]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=126743</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=126743</guid>
+            <pubDate>Mon, 01 Jul 2024 10:22:38 GMT</pubDate>
+            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202407/126743_164013_421_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[안랩, MSP 전문 통합법인 '안랩클라우드메이트' 출범]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=126740</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=126740</guid>
+            <pubDate>Mon, 01 Jul 2024 10:22:38 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202407/126740_163972_129_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[테크M 이슈] "매출 1위 넘어 톱10 안에 3종" 엔씨소프트 MMO 부활에 주목하라]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=126735</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=126735</guid>
+            <pubDate>Mon, 01 Jul 2024 10:22:38 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202407/126735_163968_72_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[파이오링크, VM웨어 고객 대상 'HCI 프로모션'…"5년 구독비 절반 이하"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=126732</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=126732</guid>
+            <pubDate>Mon, 01 Jul 2024 10:22:38 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202407/126732_163964_343_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[파수, 기업 보안 강화 위한 '마인드셋 올인원 패키지' 출시]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=126729</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=126729</guid>
+            <pubDate>Mon, 01 Jul 2024 10:22:38 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202407/126729_163962_5814_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한컴, '한글·OCR SDK 브리티향 버전 1.0' GS인증 1등급 획득]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=126728</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=126728</guid>
+            <pubDate>Mon, 01 Jul 2024 10:22:38 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202407/126728_163960_5446_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[LG전자, '클로이 서브봇' 앞세워 로봇 구독 서비스 시작]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=126721</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=126721</guid>
+            <pubDate>Mon, 01 Jul 2024 11:18:00 GMT</pubDate>
+            <content:encoded><![CDATA[배수현 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202407/126721_163945_1252_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["2분에 1대 꼴"…삼성전자, 오디세이 OLED 신제품 2만대 이상 팔았다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=126720</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=126720</guid>
+            <pubDate>Mon, 01 Jul 2024 11:13:00 GMT</pubDate>
+            <content:encoded><![CDATA[배수현 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202407/126720_163944_87_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[삼성전자, '비스포크 AI 콤보' 신제품 출시…LCD 스크린 탑재]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=126718</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=126718</guid>
+            <pubDate>Mon, 01 Jul 2024 11:12:00 GMT</pubDate>
+            <content:encoded><![CDATA[배수현 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202407/126718_163943_40_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[펄스애드, 스파크랩 시드 투자 유치…"글로벌 사업 전개할 것"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=126719</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=126719</guid>
+            <pubDate>Mon, 01 Jul 2024 11:03:00 GMT</pubDate>
+            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202407/126719_163942_257_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[LG유플러스, PQC 광네트워크 표준으로 양자보안 시대 연다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=126717</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=126717</guid>
+            <pubDate>Mon, 01 Jul 2024 10:59:00 GMT</pubDate>
+            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202407/126717_163941_5841_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[넥스원소프트, 전자여권 활용해 비대면 신원확인 시스템 구축]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=126716</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=126716</guid>
+            <pubDate>Mon, 01 Jul 2024 10:55:00 GMT</pubDate>
+            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202407/126716_163940_5529_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SKT, '채팅플러스'에 AI 기반 메시지 유형 구분 기능 적용]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=126715</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=126715</guid>
+            <pubDate>Mon, 01 Jul 2024 10:50:00 GMT</pubDate>
+            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202407/126715_163939_503_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[KT, 안전보건 사내조직 개편…AI 전문가 신동훈 상무 영입(상보)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=126703</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=126703</guid>
+            <pubDate>Mon, 01 Jul 2024 10:13:00 GMT</pubDate>
+            <content:encoded><![CDATA[배수현 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202407/126703_163923_658_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
