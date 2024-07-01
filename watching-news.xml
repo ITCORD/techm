@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Jul 2024 07:21:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Jul 2024 08:27:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 삼성전자는 'AI 비스포크 가전' LG전자는 '클로이 로봇' 공개.. AI를 적극 활용한다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=126753</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=126753</guid>
+            <pubDate>Mon, 01 Jul 2024 08:27:39 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202407/126753_163999_348_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 엔씨소프트, 첫 콘솔 신작 '배틀크러쉬'에 기대감 UP!]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=126665</link>
@@ -110,14 +118,6 @@
             <pubDate>Fri, 14 Jun 2024 11:21:12 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202406/126071_162805_2514_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[게임코인TV] 금융위가 NFT 가이드라인을 발표했다...NFT도 가상자산일까?(2편)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=125953</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=125953</guid>
-            <pubDate>Wed, 12 Jun 2024 14:21:38 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202406/125953_162630_959_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
