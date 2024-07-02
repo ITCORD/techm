@@ -4,9 +4,17 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Jul 2024 04:25:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Jul 2024 05:22:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[안랩, 사용자가 직접 악성코드 실행하도록 유도하는 피싱메일 발견]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=126793</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=126793</guid>
+            <pubDate>Tue, 02 Jul 2024 05:19:01 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202407/126793_164076_111_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["생성형AI 악용한 보안 공격 성행"…보안 대책 필요성 강조한 SK쉴더스]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=126786</link>
@@ -110,14 +118,6 @@
             <pubDate>Mon, 01 Jul 2024 11:12:00 GMT</pubDate>
             <content:encoded><![CDATA[배수현 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202407/126718_163943_40_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[펄스애드, 스파크랩 시드 투자 유치…"글로벌 사업 전개할 것"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=126719</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=126719</guid>
-            <pubDate>Mon, 01 Jul 2024 11:03:00 GMT</pubDate>
-            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202407/126719_163942_257_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
