@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Jul 2024 10:21:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Jul 2024 11:21:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -282,7 +282,7 @@
             <title><![CDATA[이종호 장관 "제4이통 취소 핵심은 신청 당시와 달라진 부분…사기는 아냐" (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=126816</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=126816</guid>
-            <pubDate>Tue, 02 Jul 2024 10:19:16 GMT</pubDate>
+            <pubDate>Tue, 02 Jul 2024 10:18:27 GMT</pubDate>
             <content:encoded><![CDATA[조성준 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202407/126816_164129_1932_v150.jpg" length="0" type="image/jpg"/>
         </item>
@@ -949,6 +949,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202406/126359_163323_347_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[게임코인TV] 위믹스 반감기, 4억3000만개 일시 소각...새로운 변화의 시작? (테크M ─ 보는 뉴스)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=126819</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=126819</guid>
+            <pubDate>Tue, 02 Jul 2024 11:21:47 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202407/126819_164132_2223_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[카드뉴스] 호요버스, 액션 RPG에 로그라이크 요소를 결합한 '젠레스 존 제로' 글로벌 론칭 (테크M ─ 보는 뉴스)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=126801</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=126801</guid>
@@ -1051,14 +1059,6 @@
             <pubDate>Tue, 18 Jun 2024 09:24:33 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202406/126204_163049_3752_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 네이버, 치지직 '중간광고'와 웹툰 '캐릭터챗'으로 콘텐츠분야 키운다 (테크M ─ 보는 뉴스)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=126158</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=126158</guid>
-            <pubDate>Mon, 17 Jun 2024 10:25:02 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202406/126158_162978_5958_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
