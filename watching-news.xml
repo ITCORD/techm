@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Jul 2024 08:29:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Jul 2024 09:21:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 호요버스, 액션 RPG에 로그라이크 요소를 결합한 '젠레스 존 제로' 글로벌 론칭]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=126801</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=126801</guid>
+            <pubDate>Tue, 02 Jul 2024 09:21:37 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202407/126801_164090_3048_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 삼성전자는 'AI 비스포크 가전' LG전자는 '클로이 로봇' 공개.. AI를 적극 활용한다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=126753</link>
@@ -110,14 +118,6 @@
             <pubDate>Mon, 17 Jun 2024 10:25:02 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202406/126158_162978_5958_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 카카오, '안정성'과 '친환경'을 최우선으로 고려한 첫 데이터센터 오픈]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=126071</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=126071</guid>
-            <pubDate>Fri, 14 Jun 2024 11:21:12 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202406/126071_162805_2514_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
