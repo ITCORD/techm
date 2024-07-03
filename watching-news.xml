@@ -4,14 +4,22 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Jul 2024 08:26:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Jul 2024 09:22:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 게임강자 넥슨, 루트슈터 신작 '퍼스트 디센던트' 글로벌 대공개]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=126882</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=126882</guid>
+            <pubDate>Wed, 03 Jul 2024 09:22:11 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202407/126882_164213_5812_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[게임코인TV] 위믹스를 게임에서 직접 사용?...브리오슈 하드포크 이후의 변화]]></title>
             <link>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN10&amp;view_type=sm</link>
             <guid>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN10&amp;view_type=sm</guid>
-            <pubDate>Wed, 03 Jul 2024 08:26:15 GMT</pubDate>
+            <pubDate>Wed, 03 Jul 2024 09:22:11 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
         </item>
         <item>
@@ -109,14 +117,6 @@
             <pubDate>Thu, 20 Jun 2024 09:54:00 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202406/126255_163144_5045_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[게임코인TV] 가상자산이용자보호법 앞두고 시작된 '토종코인 서바이벌'(1편)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=126264</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=126264</guid>
-            <pubDate>Wed, 19 Jun 2024 14:19:45 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202406/126264_163169_031_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
