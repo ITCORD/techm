@@ -4,9 +4,16 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Jul 2024 05:23:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Jul 2024 06:28:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[게임코인TV] 위믹스를 게임에서 직접 사용?...브리오슈 하드포크 이후의 변화]]></title>
+            <link>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN10&amp;view_type=sm</link>
+            <guid>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN10&amp;view_type=sm</guid>
+            <pubDate>Wed, 03 Jul 2024 06:28:38 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[게임코인TV] 위믹스 반감기, 4억3000만개 일시 소각...새로운 변화의 시작?]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=126819</link>
@@ -110,14 +117,6 @@
             <pubDate>Wed, 19 Jun 2024 14:19:45 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202406/126264_163169_031_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] SK텔레콤, 정교한 고객 타겟팅을 위한 AI 광고 플랫폼 '어썸 2.0' 출시]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=126204</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=126204</guid>
-            <pubDate>Tue, 18 Jun 2024 09:24:33 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202406/126204_163049_3752_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
