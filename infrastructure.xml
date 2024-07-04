@@ -4,9 +4,17 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Jul 2024 03:23:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Jul 2024 04:23:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[안랩, 제약업계 보안 전략 제시]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=126910</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=126910</guid>
+            <pubDate>Thu, 04 Jul 2024 00:20:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202407/126910_164267_1828_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[더존비즈온-강원특별자치도교육청, 디지털마이스터고 추진 '맞손']]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=126909</link>
@@ -110,14 +118,6 @@
             <pubDate>Wed, 03 Jul 2024 10:34:00 GMT</pubDate>
             <content:encoded><![CDATA[조성준 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202407/126851_164170_3343_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가전 넘어 'AI 플랫폼 기업'으로…조주완號 LG전자, 체질 변화 가속]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=126847</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=126847</guid>
-            <pubDate>Wed, 03 Jul 2024 10:23:00 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202407/126847_164243_400_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
