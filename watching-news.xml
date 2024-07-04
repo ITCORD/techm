@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Jul 2024 08:28:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Jul 2024 09:23:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[게임코인TV] 박관호 체제 첫 신작 '이미르'...확률형 배제하고 위믹스 결제 도입할까?]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=126939</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=126939</guid>
+            <pubDate>Thu, 04 Jul 2024 09:23:19 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202407/126939_164311_5624_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 게임강자 넥슨, 루트슈터 신작 '퍼스트 디센던트' 글로벌 대공개]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=126882</link>
@@ -19,7 +27,7 @@
             <title><![CDATA[[게임코인TV] 위믹스를 게임에서 직접 사용?...브리오슈 하드포크 이후의 변화]]></title>
             <link>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN10&amp;view_type=sm</link>
             <guid>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN10&amp;view_type=sm</guid>
-            <pubDate>Thu, 04 Jul 2024 06:28:05 GMT</pubDate>
+            <pubDate>Thu, 04 Jul 2024 09:23:19 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
         </item>
         <item>
@@ -109,14 +117,6 @@
             <pubDate>Thu, 20 Jun 2024 07:21:53 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202406/126317_163243_1559_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 정부 x 민간 협력 '창구 프로그램'에 참여한 AI 스타트업들, 이제는 '글로벌'로 향한다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=126255</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=126255</guid>
-            <pubDate>Thu, 20 Jun 2024 09:54:00 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202406/126255_163144_5045_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
