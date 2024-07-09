@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Jul 2024 09:23:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Jul 2024 10:25:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -280,6 +280,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202407/127068_164567_1055_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA["잘ㄱr"…국내 첫 PC 통신 '천리안', 39년만에 역사 속으로 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=127131</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=127131</guid>
+            <pubDate>Tue, 09 Jul 2024 10:20:57 GMT</pubDate>
+            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202407/127131_164672_2420_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[삼성, '통합 AI 솔루션'으로 파운드리 혁신 이어간다...'파운드리 포럼 2024' (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=127126</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=127126</guid>
@@ -382,14 +390,6 @@
             <pubDate>Tue, 09 Jul 2024 10:15:00 GMT</pubDate>
             <content:encoded><![CDATA[배수현 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202407/127093_164593_93_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LG전자, 글로벌 해커톤 개최…웹OS용 게임·AI 콘텐츠 모집 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=127089</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=127089</guid>
-            <pubDate>Tue, 09 Jul 2024 10:15:00 GMT</pubDate>
-            <content:encoded><![CDATA[배수현 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202407/127089_164590_5931_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[텍스트 기반 소셜 플랫폼 스레드, 서비스 1주년 기록 공개...월간 사용자 1억명 (테크M ─ 이노베이션)]]></title>
@@ -1001,7 +1001,7 @@
             <title><![CDATA[[게임코인TV] 위믹스를 게임에서 직접 사용?...브리오슈 하드포크 이후의 변화 (테크M ─ 보는 뉴스)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Tue, 09 Jul 2024 09:23:44 GMT</pubDate>
+            <pubDate>Tue, 09 Jul 2024 10:25:36 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
         </item>
         <item>
