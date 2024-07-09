@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Jul 2024 07:21:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Jul 2024 08:25:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 삼성전자, 파리에서 열릴 '갤럭시 언팩' 행사에서 역대 최다 신제품 공개한다.. 기대감 UP]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=127128</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=127128</guid>
+            <pubDate>Tue, 09 Jul 2024 08:25:38 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202407/127128_164651_1743_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 게임업계 신작들에 관심 집중.. '호연'과 '슬립스트림' 그리고 '플라워 프렌지'까지]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=127064</link>
@@ -51,7 +59,7 @@
             <title><![CDATA[[게임코인TV] 위믹스를 게임에서 직접 사용?...브리오슈 하드포크 이후의 변화]]></title>
             <link>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN10&amp;view_type=sm</link>
             <guid>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN10&amp;view_type=sm</guid>
-            <pubDate>Tue, 09 Jul 2024 07:21:02 GMT</pubDate>
+            <pubDate>Tue, 09 Jul 2024 08:25:38 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
         </item>
         <item>
@@ -109,14 +117,6 @@
             <pubDate>Wed, 26 Jun 2024 14:19:29 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202406/126544_163675_346_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 소리를보는통로 윤지현 대표의 새로운 도전, B2B와 B2G를 넘어 B2C로 향한다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=126531</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=126531</guid>
-            <pubDate>Wed, 26 Jun 2024 07:20:30 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202406/126531_163634_1424_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
