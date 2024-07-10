@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Jul 2024 10:25:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Jul 2024 11:20:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] LG유플러스, 소상공인을 위한 'U+사장님광장'에 신규 서비스 추가 업데이트]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=127185</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=127185</guid>
+            <pubDate>Wed, 10 Jul 2024 11:20:48 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202407/127185_164760_5416_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[게임코인TV] "단독 보도 합니다"...카카오톡에서 클립 '코인' 가격 못본다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=127132</link>
@@ -67,7 +75,7 @@
             <title><![CDATA[[게임코인TV] 위믹스를 게임에서 직접 사용?...브리오슈 하드포크 이후의 변화]]></title>
             <link>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN10&amp;view_type=sm</link>
             <guid>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN10&amp;view_type=sm</guid>
-            <pubDate>Wed, 10 Jul 2024 09:21:29 GMT</pubDate>
+            <pubDate>Wed, 10 Jul 2024 11:20:48 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
         </item>
         <item>
@@ -109,14 +117,6 @@
             <pubDate>Thu, 27 Jun 2024 10:23:51 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202406/126597_163745_1748_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[게임코인TV] 서비스 종료하는데, 코인을 안돌려준다고?...지닥과 위메이드 진실은?]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=126584</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=126584</guid>
-            <pubDate>Thu, 27 Jun 2024 07:20:12 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202406/126584_163756_2853_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
