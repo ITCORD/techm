@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Jul 2024 07:23:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Jul 2024 08:28:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -280,6 +280,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202407/127116_164666_1840_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA["올인원 비즈니스 플랫폼으로 기억해달라"…줌, AI 탑재한 비즈니스 솔루션으로 고객 경험↑ (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=127184</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=127184</guid>
+            <pubDate>Wed, 10 Jul 2024 08:24:43 GMT</pubDate>
+            <content:encoded><![CDATA[배수현 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202407/127184_164757_4453_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA["팀쿡 앞에서 앱 시연을"…애플 디벨로퍼 아카데미, 파운데이션 프로그램 참여자 모집 (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=127158</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=127158</guid>
@@ -384,18 +392,10 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202407/127133_164677_3059_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA["잘ㄱr"…국내 첫 PC 통신 '천리안', 39년만에 역사 속으로 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=127131</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=127131</guid>
-            <pubDate>Tue, 09 Jul 2024 10:20:57 GMT</pubDate>
-            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202407/127131_164672_2420_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[플랫폼엔 규제 논의만 수년째..."혁신성장-공정경쟁도 고려해야" (테크M ─ 이노베이션)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=127186</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=127186</guid>
-            <pubDate>Wed, 10 Jul 2024 07:20:50 GMT</pubDate>
+            <pubDate>Wed, 10 Jul 2024 07:18:29 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202407/127186_164770_557_v150.jpg" length="0" type="image/jpg"/>
         </item>
@@ -403,7 +403,7 @@
             <title><![CDATA[스마일게이트, '로드나인'으로 아이템 거래 양성화 시도...라인 넥스트와 '맞손' (테크M ─ 이노베이션)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=127181</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=127181</guid>
-            <pubDate>Wed, 10 Jul 2024 07:20:50 GMT</pubDate>
+            <pubDate>Wed, 10 Jul 2024 07:18:29 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202407/127181_164751_348_v150.jpg" length="0" type="image/jpg"/>
         </item>
@@ -651,7 +651,7 @@
             <title><![CDATA[[부고] 이종천(케이포렌식컴퍼니 공동대표)씨 부친상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Wed, 10 Jul 2024 07:21:20 GMT</pubDate>
+            <pubDate>Wed, 10 Jul 2024 08:26:20 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
         </item>
         <item>
@@ -666,7 +666,7 @@
             <title><![CDATA[[부고] 김영락(EBN 대표·전 KBC 전무)씨 모친상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Wed, 10 Jul 2024 07:21:20 GMT</pubDate>
+            <pubDate>Wed, 10 Jul 2024 08:26:20 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
         </item>
         <item>
@@ -1009,7 +1009,7 @@
             <title><![CDATA[[게임코인TV] 위믹스를 게임에서 직접 사용?...브리오슈 하드포크 이후의 변화 (테크M ─ 보는 뉴스)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Wed, 10 Jul 2024 07:23:38 GMT</pubDate>
+            <pubDate>Wed, 10 Jul 2024 08:28:00 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
         </item>
         <item>
