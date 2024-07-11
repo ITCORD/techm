@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Jul 2024 07:23:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Jul 2024 08:25:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 법률과 AI의 만남, 로앤컴퍼니 '슈퍼로이어'로 법률가들의 업무 효율성 UP]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=127242</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=127242</guid>
+            <pubDate>Thu, 11 Jul 2024 08:25:37 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202407/127242_164906_196_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] LG유플러스, 소상공인을 위한 'U+사장님광장'에 신규 서비스 추가 업데이트]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=127185</link>
@@ -75,7 +83,7 @@
             <title><![CDATA[[게임코인TV] 위믹스를 게임에서 직접 사용?...브리오슈 하드포크 이후의 변화]]></title>
             <link>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN10&amp;view_type=sm</link>
             <guid>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN10&amp;view_type=sm</guid>
-            <pubDate>Thu, 11 Jul 2024 06:27:17 GMT</pubDate>
+            <pubDate>Thu, 11 Jul 2024 08:25:37 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
         </item>
         <item>
@@ -109,14 +117,6 @@
             <pubDate>Fri, 28 Jun 2024 08:24:38 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202406/126665_163842_375_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] SKT '에이닷', KT '믿음'에 이어 LG유플러스 '익시젠'까지.. 통신사 생성형 AI 3파전 구도 완성]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=126597</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=126597</guid>
-            <pubDate>Thu, 27 Jun 2024 10:23:51 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202406/126597_163745_1748_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
