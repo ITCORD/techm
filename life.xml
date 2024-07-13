@@ -4,9 +4,17 @@
         <title>테크M ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 13 Jul 2024 02:38:55 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Jul 2024 03:23:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[소라픽] 무덥고 습한 여름, 실내로 주말 나들이 어때요?]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=127278</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=127278</guid>
+            <pubDate>Sat, 13 Jul 2024 11:35:00 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202407/127278_164983_1311_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이마트-에브리데이, 공동 상품 매출 1000억 목표...하반기도 물가안정에 '전념']]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=127290</link>
@@ -110,14 +118,6 @@
             <pubDate>Wed, 10 Jul 2024 05:20:56 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202407/127167_164713_037_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[무신사, 150개 우수 중소기업 돕는다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=127166</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=127166</guid>
-            <pubDate>Wed, 10 Jul 2024 00:59:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202407/127166_164712_5923_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
