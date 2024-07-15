@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Jul 2024 08:26:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Jul 2024 09:24:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 웹3.0에 관심 있는 기업들이 모여 인사이트를 공유하는 '쟁글 어돕션'.. 성공적 개최]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=127374</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=127374</guid>
+            <pubDate>Mon, 15 Jul 2024 09:24:39 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202407/127374_165174_521_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 삼성전자, '갤럭시 Z6 시리즈'로 본격적인 AI 폰 시대를 열다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=127293</link>
@@ -99,7 +107,7 @@
             <title><![CDATA[[게임코인TV] 위믹스를 게임에서 직접 사용?...브리오슈 하드포크 이후의 변화]]></title>
             <link>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN10&amp;view_type=sm</link>
             <guid>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN10&amp;view_type=sm</guid>
-            <pubDate>Mon, 15 Jul 2024 08:26:03 GMT</pubDate>
+            <pubDate>Mon, 15 Jul 2024 09:24:39 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
         </item>
         <item>
@@ -109,14 +117,6 @@
             <pubDate>Tue, 02 Jul 2024 11:21:47 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202407/126819_164132_2223_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 호요버스, 액션 RPG에 로그라이크 요소를 결합한 '젠레스 존 제로' 글로벌 론칭]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=126801</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=126801</guid>
-            <pubDate>Tue, 02 Jul 2024 09:21:37 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202407/126801_164090_3048_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
