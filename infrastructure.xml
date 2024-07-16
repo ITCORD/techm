@@ -4,9 +4,17 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Jul 2024 15:19:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Jul 2024 16:25:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[테크M 이슈] '당신도 모르는 새' 누군가 당신의 인터넷을 훔쳐보고 있다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=127443</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=127443</guid>
+            <pubDate>Wed, 17 Jul 2024 01:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202407/127443_165302_534_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[제4이통 취소절차 막바지…스테이지엑스, 청문 조서 열람 과정 돌입]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=127440</link>
@@ -110,14 +118,6 @@
             <pubDate>Tue, 16 Jul 2024 10:51:00 GMT</pubDate>
             <content:encoded><![CDATA[조성준 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202407/127403_165221_5044_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SKT, 홍대 T팩토리에 '갤럭시 Z 폴드6·Z 플립6' 체험존 운영]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=127389</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=127389</guid>
-            <pubDate>Tue, 16 Jul 2024 10:38:00 GMT</pubDate>
-            <content:encoded><![CDATA[배수현 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202407/127389_165205_589_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

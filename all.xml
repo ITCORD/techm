@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Jul 2024 15:19:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Jul 2024 16:25:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[테크M 이슈] '당신도 모르는 새' 누군가 당신의 인터넷을 훔쳐보고 있다 (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=127443</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=127443</guid>
+            <pubDate>Wed, 17 Jul 2024 01:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202407/127443_165302_534_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[와우회원은 여름 차량용품 최대 60% 할인…'쿠팡모터스 7월 페어' 눈길 (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=127441</link>
@@ -160,14 +168,6 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202407/127421_165239_5210_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[KT, 2분기 배당 1주당 500원 결정…1229억원 규모 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=127418</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=127418</guid>
-            <pubDate>Tue, 16 Jul 2024 06:25:07 GMT</pubDate>
-            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202407/127418_165237_2135_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[잘 팔린다 'MMO'...'로드나인' 흥행, 한국 대표 장르 부활 신호탄 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=127425</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=127425</guid>
@@ -280,6 +280,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202407/127396_165289_75_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[테크M 이슈] '당신도 모르는 새' 누군가 당신의 인터넷을 훔쳐보고 있다 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=127443</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=127443</guid>
+            <pubDate>Wed, 17 Jul 2024 01:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202407/127443_165302_534_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[제4이통 취소절차 막바지…스테이지엑스, 청문 조서 열람 과정 돌입 (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=127440</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=127440</guid>
@@ -382,14 +390,6 @@
             <pubDate>Tue, 16 Jul 2024 10:51:00 GMT</pubDate>
             <content:encoded><![CDATA[조성준 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202407/127403_165221_5044_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SKT, 홍대 T팩토리에 '갤럭시 Z 폴드6·Z 플립6' 체험존 운영 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=127389</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=127389</guid>
-            <pubDate>Tue, 16 Jul 2024 10:38:00 GMT</pubDate>
-            <content:encoded><![CDATA[배수현 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202407/127389_165205_589_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[네이버웹툰 캐릭터들, 삼성 갤럭시 Z 플립6와 콜라보...Z세대 잡는다 (테크M ─ 이노베이션)]]></title>
@@ -1057,7 +1057,7 @@
             <title><![CDATA[[게임코인TV] 위믹스를 게임에서 직접 사용?...브리오슈 하드포크 이후의 변화 (테크M ─ 보는 뉴스)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Tue, 16 Jul 2024 15:19:16 GMT</pubDate>
+            <pubDate>Tue, 16 Jul 2024 16:24:59 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
         </item>
     </channel>
