@@ -4,9 +4,25 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Jul 2024 09:27:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Jul 2024 10:22:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[크라우드스트라이크 피해 복구 완료...과기정통부 "사이버 공격 시도 주의"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=127659</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=127659</guid>
+            <pubDate>Mon, 22 Jul 2024 10:18:50 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202407/127659_165674_527_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김범수 카카오 영장실질심사 4시간만에 종료]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=127658</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=127658</guid>
+            <pubDate>Mon, 22 Jul 2024 10:18:50 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202407/127658_165673_3825_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[심진우의 24시간이 모자라] 기업 대표의 사고 방식과 기술경영 전략]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=127655</link>
@@ -150,22 +166,6 @@
             <pubDate>Mon, 22 Jul 2024 10:52:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202407/127636_165614_5227_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["파리 올림픽 국대와 인증샷"…SKT, 선수단 응원 이벤트 전개]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=127632</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=127632</guid>
-            <pubDate>Mon, 22 Jul 2024 10:50:00 GMT</pubDate>
-            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202407/127632_165613_506_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[야놀자 플랫폼, 항공·숙소 혜택 결합한 '놀데이 해외 편' 내놨다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=127634</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=127634</guid>
-            <pubDate>Mon, 22 Jul 2024 10:50:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202407/127634_165612_506_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
