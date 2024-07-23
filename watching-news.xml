@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Jul 2024 08:26:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Jul 2024 09:23:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] LG전자, AI 혁신이 시작되는 '스마트팩토리 솔루션'를 주목하라]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=127696</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=127696</guid>
+            <pubDate>Tue, 23 Jul 2024 09:23:43 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202407/127696_165716_632_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 지니뮤직, 누구나 자유롭게 창작음원 유통한다.. '지니릴리' 베타버전 공개]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=127559</link>
@@ -110,14 +118,6 @@
             <pubDate>Fri, 05 Jul 2024 09:22:25 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202407/126941_164302_447_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[게임코인TV] 박관호 체제 첫 신작 '이미르'...확률형 배제하고 위믹스 결제 도입할까?]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=126939</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=126939</guid>
-            <pubDate>Thu, 04 Jul 2024 09:23:19 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202407/126939_164311_5624_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
