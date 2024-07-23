@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Jul 2024 14:22:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Jul 2024 15:27:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -280,6 +280,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202407/127576_165524_236_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[삼성전자 노사, 8시간 마라톤 임금 교섭에도 협의 '불발' (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=127705</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=127705</guid>
+            <pubDate>Tue, 23 Jul 2024 14:17:02 GMT</pubDate>
+            <content:encoded><![CDATA[배수현 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202407/127705_165742_543_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[다시 만난 '노사'…전삼노, 16일 만의 협상 재개 합의 어렵나 (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=127693</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=127693</guid>
@@ -382,14 +390,6 @@
             <pubDate>Tue, 23 Jul 2024 10:18:00 GMT</pubDate>
             <content:encoded><![CDATA[조성준 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202407/127673_165737_3511_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['SM 시세조종 혐의' 김범수 카카오 경영쇄신위원장 구속 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=127661</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=127661</guid>
-            <pubDate>Tue, 23 Jul 2024 01:25:00 GMT</pubDate>
-            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202407/127661_165675_2456_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[애그테크 기업 '에이오팜', AFRO 2024 참여...투명 AI 선별기 선보인다 (테크M ─ 이노베이션)]]></title>
