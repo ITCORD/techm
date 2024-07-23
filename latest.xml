@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Jul 2024 11:20:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Jul 2024 12:38:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[심진우의 24시간이 모자라]  예술경영 공부방법을 찾아서]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=127703</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=127703</guid>
+            <pubDate>Tue, 23 Jul 2024 12:33:44 GMT</pubDate>
+            <content:encoded><![CDATA[김현기 대표]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202407/127703_165741_1619_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] LG전자, AI 혁신이 시작되는 '스마트팩토리 솔루션'를 주목하라]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=127696</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 23 Jul 2024 05:17:58 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202407/127680_165736_3454_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[카카오 김범수 구속에 사법 리스크 극대화...쇄신 '시계제로']]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=127677</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=127677</guid>
-            <pubDate>Tue, 23 Jul 2024 11:06:00 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202407/127677_165738_3530_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
