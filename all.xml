@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Jul 2024 14:22:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Jul 2024 15:23:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -727,6 +727,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202407/127019_164484_50_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[티몬, 모바일 앱에서 상품 구매 중지시켰다 (테크M ─ 라이프)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=127760</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=127760</guid>
+            <pubDate>Wed, 24 Jul 2024 15:22:48 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202407/127760_165851_5232_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[티몬서 상품권 할인해 유통했던 요기요..."23일부터 사용 중지" (테크M ─ 라이프)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=127755</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=127755</guid>
@@ -829,14 +837,6 @@
             <pubDate>Mon, 22 Jul 2024 06:25:49 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202407/127646_165634_321_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쇼핑엔티, 'AI쇼핑톡' 도입..."궁금하면 무엇이든 물어보세요" (테크M ─ 라이프)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=127640</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=127640</guid>
-            <pubDate>Mon, 22 Jul 2024 11:35:00 GMT</pubDate>
-            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202407/127640_165620_3514_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[글로벌] 메타, 유럽서 생성형 AI 무기한 연기..."규제에 출시 못해" (테크M ─ 리포트)]]></title>
