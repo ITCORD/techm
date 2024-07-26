@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Jul 2024 07:23:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Jul 2024 08:26:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] LG CNS, 일본 교육업체 '이온'과 함께 에듀테크 시장 공략한다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=127861</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=127861</guid>
+            <pubDate>Fri, 26 Jul 2024 08:26:05 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202407/127861_165999_1958_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 농산물 선별 솔루션 '에이오비전', 기술과 환경의 변화로 농업의 새로운 혁신 이끌다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=127819</link>
@@ -110,14 +118,6 @@
             <pubDate>Tue, 09 Jul 2024 11:21:49 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202407/127132_164673_75_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 삼성전자, 파리에서 열릴 '갤럭시 언팩' 행사에서 역대 최다 신제품 공개한다.. 기대감 UP]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=127128</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=127128</guid>
-            <pubDate>Tue, 09 Jul 2024 08:25:38 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202407/127128_164651_1743_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
