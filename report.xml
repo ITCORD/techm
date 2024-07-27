@@ -1,8 +1,123 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN7&amp;view_type=sm</id>
-    <title>테크M ─ 리포트</title>
-    <updated>2024-07-27T04:24:48.122Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.techm.kr/news/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>테크M ─ 리포트</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sat, 27 Jul 2024 05:20:47 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[글로벌] 대화방식으로 이뤄지는 정보 검색...오픈AI, 검색엔진 '서치GPT' 공개]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=127870</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=127870</guid>
+            <pubDate>Sat, 27 Jul 2024 00:23:00 GMT</pubDate>
+            <content:encoded><![CDATA[김현기 대표]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202407/127870_166027_2342_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[글로벌] 일론 머스크 "테슬라 자금 50억달러 xAI에 투자하겠다"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=127869</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=127869</guid>
+            <pubDate>Sat, 27 Jul 2024 00:22:00 GMT</pubDate>
+            <content:encoded><![CDATA[김현기 대표]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202407/127869_166026_2140_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[글로벌] "수성 지각 아래 16Km 두께 다이아몬드층이?"...수성 탐사선 데이터 분석 결과 발표]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=127868</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=127868</guid>
+            <pubDate>Sat, 27 Jul 2024 00:20:00 GMT</pubDate>
+            <content:encoded><![CDATA[김현기 대표]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202407/127868_166025_1936_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[글로벌] 러시아, 영국에 이어 일본 기업 총수 13人 무기한 입국 금지]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=127798</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=127798</guid>
+            <pubDate>Sat, 27 Jul 2024 05:20:19 GMT</pubDate>
+            <content:encoded><![CDATA[김현기 대표]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202407/127798_165940_5259_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[글로벌] 아마존, '원격의료' 허용된 일본서 처방약 배송 서비스 출시]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=127797</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=127797</guid>
+            <pubDate>Sat, 27 Jul 2024 05:20:19 GMT</pubDate>
+            <content:encoded><![CDATA[김현기 대표]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202407/127797_165941_5319_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[글로벌] 오픈AI가 'GPT-4o 미니' 내놓자...메타는 오픈소스 소형 AI '라마 3.1' 공개]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=127796</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=127796</guid>
+            <pubDate>Sat, 27 Jul 2024 05:20:19 GMT</pubDate>
+            <content:encoded><![CDATA[김현기 대표]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202407/127796_165942_5338_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[글로벌] 메타, 유럽서 생성형 AI 무기한 연기..."규제에 출시 못해"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=127688</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=127688</guid>
+            <pubDate>Sat, 27 Jul 2024 05:20:19 GMT</pubDate>
+            <content:encoded><![CDATA[김현기 대표]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202407/127688_165706_5856_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[글로벌] EU, 다음달부터 중국산 바이오디젤에 최고 36.4% 반덤핑 관세]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=127687</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=127687</guid>
+            <pubDate>Sat, 27 Jul 2024 05:20:20 GMT</pubDate>
+            <content:encoded><![CDATA[김현기 대표]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202407/127687_165705_5825_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[글로벌] 40년 앞선 선견지명?...스티브 잡스는 '챗GPT' 출현을 예측했다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=127686</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=127686</guid>
+            <pubDate>Sat, 27 Jul 2024 05:20:20 GMT</pubDate>
+            <content:encoded><![CDATA[김현기 대표]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202407/127686_165704_5745_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[글로벌] "EU산 브랜디 반덤핑 청문회 연다"...中, 보복 조치 본격화]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=127597</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=127597</guid>
+            <pubDate>Sat, 27 Jul 2024 05:20:20 GMT</pubDate>
+            <content:encoded><![CDATA[김현기 대표]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202407/127597_165554_326_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[글로벌] 오픈AI, 챗GPT 소형모델 출시..."기존 모델보다 저렴하고 성능은 뛰어나"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=127596</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=127596</guid>
+            <pubDate>Sat, 27 Jul 2024 05:20:20 GMT</pubDate>
+            <content:encoded><![CDATA[김현기 대표]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202407/127596_165553_233_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[글로벌] 美 포드, 전기차 생산공장에서 내연기관 픽업트럭 제조한다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=127595</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=127595</guid>
+            <pubDate>Sat, 27 Jul 2024 05:20:20 GMT</pubDate>
+            <content:encoded><![CDATA[김현기 대표]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202407/127595_165552_154_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[글로벌] EU, 중국 전기차 관세 부과 사전투표...이탈리아·스페인 '찬성' 독일·스웨덴 '반대']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=127506</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=127506</guid>
+            <pubDate>Thu, 18 Jul 2024 10:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[김현기 대표]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202407/127506_165401_1418_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[글로벌] 영국, MS의 '인플렉션' 인수 과정 조사 돌입...편법 의혹]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=127507</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=127507</guid>
+            <pubDate>Thu, 18 Jul 2024 10:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[김현기 대표]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202407/127507_165402_163_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
