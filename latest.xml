@@ -4,9 +4,25 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 Jul 2024 04:23:37 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Jul 2024 05:21:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[KT 지니 TV, '홈캉스 여름 특집' 진행...풍성한 볼거리와 이벤트 한번에]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=127881</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=127881</guid>
+            <pubDate>Sun, 28 Jul 2024 05:18:25 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202407/127881_166039_4616_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[네이버웹툰, 3년 연속 美 '윌 아이스너 어워드' 수상작 배출]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=127880</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=127880</guid>
+            <pubDate>Sun, 28 Jul 2024 05:18:25 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202407/127880_166038_4024_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['티메프 사태'에 팔 걷은 네이버·카카오·NHN...소비자 보호 총력]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=127879</link>
@@ -150,22 +166,6 @@
             <pubDate>Fri, 26 Jul 2024 08:21:32 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202407/127854_165997_629_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국공학한림원, 'NAEK 포럼' 열고 도로·철도 지하화 개발 방향 논의한다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=127860</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=127860</guid>
-            <pubDate>Fri, 26 Jul 2024 08:21:32 GMT</pubDate>
-            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202407/127860_165998_1124_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사이버보안 신무기, '생성형 AI+블록체인' 조합 등장]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=127855</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=127855</guid>
-            <pubDate>Fri, 26 Jul 2024 08:21:32 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202407/127855_166009_1519_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
