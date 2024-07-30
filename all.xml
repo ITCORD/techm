@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Jul 2024 01:18:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Jul 2024 02:42:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,6 +168,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202407/127953_166159_222_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[북유럽 개발사 투자한 엔씨소프트, 추가 투자·신사업 박차..."변화의 시작" (테크M ─ 콘텐츠)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=127979</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=127979</guid>
+            <pubDate>Tue, 30 Jul 2024 11:03:00 GMT</pubDate>
+            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202407/127979_166181_423_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[네오위즈 '영웅전설: 가가브 트릴로지' 사전예약 시작...8월 28일 출시 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=127967</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=127967</guid>
@@ -270,14 +278,6 @@
             <pubDate>Mon, 29 Jul 2024 10:16:00 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202407/127904_166077_127_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NHN클라우드, 과기정통부 '보안관제 전문기업' 신규 지정...AI 및 SOAR 기술 활용 (테크M ─ 콘텐츠)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=127905</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=127905</guid>
-            <pubDate>Mon, 29 Jul 2024 10:16:00 GMT</pubDate>
-            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202407/127905_166081_83_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[LG유플러스, 실사판 로봇 드라마 'K-TRON' 제작 돌입…2026년 OTT 방영 목표 (테크M ─ 인프라)]]></title>
@@ -838,6 +838,30 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202407/127888_166060_4956_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[글로벌] 엔비디아, 'AI 파운드리' 서비스로 맞춤형 AI 모델 구축 지원 (테크M ─ 리포트)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=127984</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=127984</guid>
+            <pubDate>Tue, 30 Jul 2024 11:04:00 GMT</pubDate>
+            <content:encoded><![CDATA[김현기 대표]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202407/127984_166190_328_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[글로벌] 우주 미세중력, 근육 손실 유전자 활동에 영향 미친다 (테크M ─ 리포트)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=127982</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=127982</guid>
+            <pubDate>Tue, 30 Jul 2024 11:02:00 GMT</pubDate>
+            <content:encoded><![CDATA[김현기 대표]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202407/127982_166188_04_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[글로벌] 달의 지하 동굴 존재 입증…지난 50년간 거론된 이론 사실로 밝혀져 (테크M ─ 리포트)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=127981</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=127981</guid>
+            <pubDate>Tue, 30 Jul 2024 10:58:00 GMT</pubDate>
+            <content:encoded><![CDATA[김현기 대표]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202407/127981_166187_562_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[글로벌] 대화방식으로 이뤄지는 정보 검색...오픈AI, 검색엔진 '서치GPT' 공개 (테크M ─ 리포트)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=127870</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=127870</guid>
@@ -924,30 +948,6 @@
             <pubDate>Sat, 27 Jul 2024 05:20:20 GMT</pubDate>
             <content:encoded><![CDATA[김현기 대표]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202407/127596_165553_233_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[글로벌] 美 포드, 전기차 생산공장에서 내연기관 픽업트럭 제조한다 (테크M ─ 리포트)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=127595</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=127595</guid>
-            <pubDate>Sat, 27 Jul 2024 05:20:20 GMT</pubDate>
-            <content:encoded><![CDATA[김현기 대표]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202407/127595_165552_154_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[글로벌] EU, 중국 전기차 관세 부과 사전투표...이탈리아·스페인 '찬성' 독일·스웨덴 '반대' (테크M ─ 리포트)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=127506</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=127506</guid>
-            <pubDate>Thu, 18 Jul 2024 10:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[김현기 대표]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202407/127506_165401_1418_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[글로벌] 영국, MS의 '인플렉션' 인수 과정 조사 돌입...편법 의혹 (테크M ─ 리포트)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=127507</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=127507</guid>
-            <pubDate>Thu, 18 Jul 2024 10:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[김현기 대표]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202407/127507_165402_163_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[카드뉴스] 2024 파리올림픽에서 K-푸드와 K-패션 알린다...CJ제일제당, 농심, 무신사까지 총출동 (테크M ─ 보는 뉴스)]]></title>
