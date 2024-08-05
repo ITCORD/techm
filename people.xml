@@ -4,9 +4,17 @@
         <title>테크M ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Aug 2024 07:22:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Aug 2024 08:25:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[검찰, 장현국 위메이드 부회장 불구속 기소]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=128264</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=128264</guid>
+            <pubDate>Mon, 05 Aug 2024 08:24:35 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202408/128264_166631_4848_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[부고] 송모헌(위메이드 사장)씨 부친상]]></title>
             <link>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN5&amp;view_type=sm</link>
@@ -109,13 +117,6 @@
             <pubDate>Tue, 30 Jul 2024 06:27:38 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202407/127998_166204_4554_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[부고] 하정(KB국민은행 자문역, 전 자본시장그룹 부행장)씨 부친상]]></title>
-            <link>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN5&amp;view_type=sm</link>
-            <guid>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN5&amp;view_type=sm</guid>
-            <pubDate>Mon, 29 Jul 2024 10:54:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
         </item>
     </channel>
 </rss>
