@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Aug 2024 07:22:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Aug 2024 08:28:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 롯데이노베이트, 안전한 프라이빗 AI 서비스 '아이멤버 2.0' 업그레이드]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=128334</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=128334</guid>
+            <pubDate>Tue, 06 Aug 2024 08:28:07 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202408/128334_166718_5436_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 달라진 엔씨소프트...'개발사 투자'와 '게임 업데이트'에 주력한다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=128262</link>
@@ -110,14 +118,6 @@
             <pubDate>Sat, 27 Jul 2024 05:20:47 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202407/127293_165010_313_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[게임코인TV] 카카오, 블록체인과 거리두기...이게 다 '이용자 보호법' 때문이다?]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=127252</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=127252</guid>
-            <pubDate>Sat, 27 Jul 2024 05:20:47 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202407/127252_164930_1329_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
