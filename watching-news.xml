@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Aug 2024 08:28:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Aug 2024 09:24:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 누구나 가볍게 즐길 수 있는 'BTS 쿠킹온' 공개.. 글로벌 팬덤과 캐주얼 게임 유저들을 노린다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=128437</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=128437</guid>
+            <pubDate>Wed, 07 Aug 2024 09:24:30 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202408/128437_166852_21_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 롯데이노베이트, 안전한 프라이빗 AI 서비스 '아이멤버 2.0' 업그레이드]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=128334</link>
@@ -110,14 +118,6 @@
             <pubDate>Sat, 27 Jul 2024 05:20:47 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202407/127374_165174_521_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 삼성전자, '갤럭시 Z6 시리즈'로 본격적인 AI 폰 시대를 열다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=127293</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=127293</guid>
-            <pubDate>Sat, 27 Jul 2024 05:20:47 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202407/127293_165010_313_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
