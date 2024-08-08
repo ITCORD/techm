@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Aug 2024 07:20:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Aug 2024 08:27:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] AI 열풍 이제는 예술이다.. '독서청취, 영화제작, 레시피 개발까지']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=128534</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=128534</guid>
+            <pubDate>Thu, 08 Aug 2024 08:27:03 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202408/128534_166988_5129_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 누구나 가볍게 즐길 수 있는 'BTS 쿠킹온' 공개.. 글로벌 팬덤과 캐주얼 게임 유저들을 노린다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=128437</link>
@@ -110,14 +118,6 @@
             <pubDate>Sat, 27 Jul 2024 05:20:47 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202407/127428_165262_732_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 웹3.0에 관심 있는 기업들이 모여 인사이트를 공유하는 '쟁글 어돕션'.. 성공적 개최]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=127374</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=127374</guid>
-            <pubDate>Sat, 27 Jul 2024 05:20:47 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202407/127374_165174_521_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
