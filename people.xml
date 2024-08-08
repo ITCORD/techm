@@ -4,9 +4,24 @@
         <title>테크M ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Aug 2024 04:28:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Aug 2024 05:22:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[부고] 이윤희(디지털타임스 기자)씨 외조모상]]></title>
+            <link>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN5&amp;view_type=sm</link>
+            <guid>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN5&amp;view_type=sm</guid>
+            <pubDate>Thu, 08 Aug 2024 11:31:00 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[검찰, SM엔터 시세조종 혐의 김범수 카카오 구속기소]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=128486</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=128486</guid>
+            <pubDate>Thu, 08 Aug 2024 11:15:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202408/128486_166931_621_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['티메프' 의식했나...행사 불참한 이수진 야놀자 대표 "관광업 신뢰회복 노력"]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=128366</link>
@@ -101,22 +116,6 @@
             <pubDate>Tue, 30 Jul 2024 08:23:46 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202407/128009_166238_5111_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["티몬·위메프 사태 본질은 거래대금 행방"...큐텐 구영배 사기·배임·횡령 적용 가능성 커]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=128004</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=128004</guid>
-            <pubDate>Tue, 30 Jul 2024 08:23:46 GMT</pubDate>
-            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202407/128004_166233_4643_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국회서도 말 바꾼 구영배 큐텐 CEO "사기 의도 없었다"...이복현 "양치기 소년"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=128003</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=128003</guid>
-            <pubDate>Tue, 30 Jul 2024 06:27:38 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202407/128003_166215_1816_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
