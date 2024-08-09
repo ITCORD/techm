@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Aug 2024 08:30:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Aug 2024 09:25:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 2024 파리올림픽 곳곳에서 눈에 띄는 삼성전자 '갤럭시' 마케팅 열풍]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=128603</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=128603</guid>
+            <pubDate>Fri, 09 Aug 2024 09:25:42 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202408/128603_167110_2438_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] AI 열풍 이제는 예술이다.. '독서청취, 영화제작, 레시피 개발까지']]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=128534</link>
@@ -110,14 +118,6 @@
             <pubDate>Sat, 27 Jul 2024 05:20:47 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202407/127499_165373_1546_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 컴투스 'NFT 기술력'과 헥슬란트 '월렛 서비스' 손 잡았다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=127428</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=127428</guid>
-            <pubDate>Sat, 27 Jul 2024 05:20:47 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202407/127428_165262_732_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
