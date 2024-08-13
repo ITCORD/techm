@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Aug 2024 07:20:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Aug 2024 08:24:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 'AICT 컴퍼니'로 도약하는 KT.. 사업 리디자인과 MS 협력 적극 추진한다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=128755</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=128755</guid>
+            <pubDate>Tue, 13 Aug 2024 08:24:28 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202408/128755_167361_3633_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 신한은행이 'Pick'한 블록체인 메인넷 '엑스플라'.. 신뢰성과 안전성이 '강점']]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=128688</link>
@@ -110,14 +118,6 @@
             <pubDate>Sat, 27 Jul 2024 05:20:47 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202407/127696_165716_632_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 지니뮤직, 누구나 자유롭게 창작음원 유통한다.. '지니릴리' 베타버전 공개]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=127559</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=127559</guid>
-            <pubDate>Sat, 27 Jul 2024 05:20:47 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202407/127559_165462_143_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
