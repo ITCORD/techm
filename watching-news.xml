@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Aug 2024 07:24:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Aug 2024 08:28:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 그라비티, 최초의 팬덤형 게임 '뮈렌: 천년의 여정' 나온다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=128799</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=128799</guid>
+            <pubDate>Wed, 14 Aug 2024 08:28:56 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202408/128799_167447_5945_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 'AICT 컴퍼니'로 도약하는 KT.. 사업 리디자인과 MS 협력 적극 추진한다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=128755</link>
@@ -110,14 +118,6 @@
             <pubDate>Wed, 24 Jul 2024 11:40:00 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202407/127653_165649_225_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] LG전자, AI 혁신이 시작되는 '스마트팩토리 솔루션'를 주목하라]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=127696</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=127696</guid>
-            <pubDate>Sat, 27 Jul 2024 05:20:47 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202407/127696_165716_632_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
