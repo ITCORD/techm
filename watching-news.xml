@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Aug 2024 12:38:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Aug 2024 13:27:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[게임코인TV] "게임스컴이야, 지스타야"...한국 게임사 총출동한다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=128812</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=128812</guid>
+            <pubDate>Wed, 14 Aug 2024 13:27:12 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202408/128812_167477_3817_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 그라비티, 최초의 팬덤형 게임 '뮈렌: 천년의 여정' 나온다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=128799</link>
@@ -110,14 +118,6 @@
             <pubDate>Sat, 27 Jul 2024 05:20:47 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202407/127753_165826_818_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 올 하반기, 게임업계 다양한 신작 쏟아낸다.. 'RPG, MMO, 야구게임까지']]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=127653</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=127653</guid>
-            <pubDate>Wed, 24 Jul 2024 11:40:00 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202407/127653_165649_225_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
