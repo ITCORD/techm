@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Aug 2024 14:21:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Aug 2024 15:23:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[게임코인TV] 게임스컴에서 만나요...미리보기-넥슨편 (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=128821</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=128821</guid>
+            <pubDate>Thu, 15 Aug 2024 15:18:19 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202408/128821_167492_4450_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['올레드 TV'의 예술적 가치 알리는 LG전자...베트남 고객 홀렸다 (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=128820</link>
@@ -160,14 +168,6 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202408/128804_167458_3510_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[토스, 2분기 영업이익 28억…창업 이래 첫 분기 흑자 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=128806</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=128806</guid>
-            <pubDate>Wed, 14 Aug 2024 10:21:01 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202408/128806_167459_3755_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[같이보소] "대한 독립 만세"...광복절, 꼭 봐야 하는 콘텐츠 '모두 모았다' (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=128790</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=128790</guid>
@@ -195,7 +195,7 @@
             <title><![CDATA[시프트업 2분기 영업이익 451억원...전년比 49% 증가(1보) (테크M ─ 콘텐츠)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Thu, 15 Aug 2024 14:16:36 GMT</pubDate>
+            <pubDate>Thu, 15 Aug 2024 15:18:35 GMT</pubDate>
             <content:encoded><![CDATA[임경호 기자]]></content:encoded>
         </item>
         <item>
@@ -949,6 +949,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202408/128300_166669_5447_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[게임코인TV] 게임스컴에서 만나요...미리보기-넥슨편 (테크M ─ 보는 뉴스)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=128821</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=128821</guid>
+            <pubDate>Thu, 15 Aug 2024 15:23:32 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202408/128821_167492_4450_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[게임코인TV] "해외게임쇼인데, 지스타의 향기가"...게임스컴에 한국 게임사 총출동한다 (테크M ─ 보는 뉴스)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=128812</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=128812</guid>
@@ -1051,14 +1059,6 @@
             <pubDate>Sat, 27 Jul 2024 05:20:47 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202407/127819_165915_564_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 더존비즈온, AI 통합 비즈니스 솔루션 '옴니E솔' 내세워 글로벌 시장 공략한다 (테크M ─ 보는 뉴스)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=127753</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=127753</guid>
-            <pubDate>Sat, 27 Jul 2024 05:20:47 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202407/127753_165826_818_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
