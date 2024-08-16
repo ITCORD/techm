@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Aug 2024 13:28:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Aug 2024 14:20:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[게임코인TV] 게임스컴에서 만나요...미리보기-펄어비스와 크래프톤편 (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=128860</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=128860</guid>
+            <pubDate>Fri, 16 Aug 2024 14:16:24 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202408/128860_167562_2618_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[변두리에서 중심으로...10주년된 'BIC 2024' 부산 지역 축제로 자리매김 (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=128857</link>
@@ -160,14 +168,6 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202408/128834_167504_5511_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['나혼렙' 웹툰과 게임의 만남...카카오엔터, 넷마블과 협업 이벤트 연다 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=128833</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=128833</guid>
-            <pubDate>Fri, 16 Aug 2024 09:55:00 GMT</pubDate>
-            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202408/128833_167503_541_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[변두리에서 중심으로...10주년된 'BIC 2024' 부산 지역 축제로 자리매김 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=128857</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=128857</guid>
@@ -259,7 +259,7 @@
             <title><![CDATA[시프트업 2분기 영업이익 451억원...전년比 49% 증가(1보) (테크M ─ 콘텐츠)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Fri, 16 Aug 2024 13:21:42 GMT</pubDate>
+            <pubDate>Fri, 16 Aug 2024 14:16:40 GMT</pubDate>
             <content:encoded><![CDATA[임경호 기자]]></content:encoded>
         </item>
         <item>
@@ -949,6 +949,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202408/128300_166669_5447_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[게임코인TV] 게임스컴에서 만나요...미리보기-펄어비스와 크래프톤편 (테크M ─ 보는 뉴스)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=128860</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=128860</guid>
+            <pubDate>Fri, 16 Aug 2024 14:20:31 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202408/128860_167562_2618_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[카드뉴스] 내 맘대로 AI를 골라쓴다.. AWS '베드록'으로 안전하고 편리하게 (테크M ─ 보는 뉴스)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=128855</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=128855</guid>
@@ -1051,14 +1059,6 @@
             <pubDate>Mon, 29 Jul 2024 09:25:36 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202407/127945_166126_448_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] LG CNS, 일본 교육업체 '이온'과 함께 에듀테크 시장 공략한다 (테크M ─ 보는 뉴스)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=127861</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=127861</guid>
-            <pubDate>Fri, 26 Jul 2024 08:21:32 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202407/127861_165999_1958_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
