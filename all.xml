@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Aug 2024 05:23:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Aug 2024 06:30:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -615,6 +615,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202408/128709_167312_523_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[윤석열 대통령, 유상임 과기정통부 장관 임명 (테크M ─ 피플)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=128853</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=128853</guid>
+            <pubDate>Fri, 16 Aug 2024 06:28:23 GMT</pubDate>
+            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202408/128853_167539_4052_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[SK스퀘어, 신임대표에 한명진 사장 선임..."포트폴리오 밸류업·유동화 주력" (테크M ─ 피플)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=128787</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=128787</guid>
@@ -715,14 +723,6 @@
             <pubDate>Sun, 04 Aug 2024 14:17:00 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202408/128208_166553_728_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[템터뷰] 거대 생태계 만드는 모카버스...블록체인으로 네트워크 효과 극대화 (테크M ─ 피플)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=128198</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=128198</guid>
-            <pubDate>Sun, 04 Aug 2024 09:07:00 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202408/128198_166538_5040_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[하이트진로, 넷마블 쿵야와 맞손...팝업스토어 '용기상점' 오픈 (테크M ─ 라이프)]]></title>
