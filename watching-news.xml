@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Aug 2024 09:28:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Aug 2024 10:22:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 내 맘대로 AI를 골라쓴다.. AWS '베드록'으로 안전하고 편리하게]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=128855</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=128855</guid>
+            <pubDate>Fri, 16 Aug 2024 10:22:55 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202408/128855_167546_5527_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[게임코인TV] 게임스컴에서 만나요...미리보기-넥슨편]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=128821</link>
@@ -110,14 +118,6 @@
             <pubDate>Sat, 27 Jul 2024 05:20:47 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202407/127861_165999_1958_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 농산물 선별 솔루션 '에이오비전', 기술과 환경의 변화로 농업의 새로운 혁신 이끌다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=127819</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=127819</guid>
-            <pubDate>Sat, 27 Jul 2024 05:20:47 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202407/127819_165915_564_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
