@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Aug 2024 07:20:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Aug 2024 08:25:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 부산을 뜨겁게 달군 BIC 2024.. '게이머와 개발자들이 함께하는 이색축제']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=128986</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=128986</guid>
+            <pubDate>Tue, 20 Aug 2024 08:25:26 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202408/128986_167758_445_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] LG유플러스 AI 'ixi'가 육아서비스에.. 모두를 위한 케어플랫폼으로 나아간다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=128927</link>
@@ -110,14 +118,6 @@
             <pubDate>Mon, 05 Aug 2024 08:25:51 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202408/128262_166620_140_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 파리올림픽에서 활약하는 AI.. 경기 판정, 선수 지원, 소통까지 만능이다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=128005</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=128005</guid>
-            <pubDate>Tue, 30 Jul 2024 08:26:25 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202407/128005_166222_432_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
