@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Aug 2024 23:21:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Aug 2024 01:21:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -280,6 +280,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202408/129037_167863_3031_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[배민, 피터얀 반데피트 임시대표 체제 연말까지 유지 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=129112</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=129112</guid>
+            <pubDate>Fri, 23 Aug 2024 09:13:00 GMT</pubDate>
+            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202408/129112_167990_134_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[5G 넘어 6G 시대 임박했지만..."상용화 시기는 시간 더 필요하다" (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=129109</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=129109</guid>
@@ -382,14 +390,6 @@
             <pubDate>Thu, 22 Aug 2024 10:26:00 GMT</pubDate>
             <content:encoded><![CDATA[조성준 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202408/129059_167905_263_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LG전자, 'IFA 2024'서 25인치 공감지능 세탁기 공개...유럽 소비자 공략 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=129053</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=129053</guid>
-            <pubDate>Thu, 22 Aug 2024 10:02:00 GMT</pubDate>
-            <content:encoded><![CDATA[배수현 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202408/129053_167897_62_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[구글, 서울시와 스타트업 생태게 구축한다...청년 창업가 지원 (테크M ─ 이노베이션)]]></title>
@@ -504,6 +504,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202408/129034_167854_5433_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[크립토 브리핑] 비트코인은 제자리걸음하는데...토종코인은 '약진' (테크M ─ 인베스트먼트)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=129113</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=129113</guid>
+            <pubDate>Fri, 23 Aug 2024 10:04:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202408/129113_167991_4751_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[테크M 리포트] "하루새 주가 6% 껑충" 카카오게임즈, PBR 1배 하회...저가 매수세 몰린다 (테크M ─ 인베스트먼트)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=129085</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=129085</guid>
@@ -608,14 +616,6 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202408/128839_167507_1420_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[크립토 브리핑] 비트코인, 개당 8000만원선 위협...경기침체 우려에 투심 '악화' (테크M ─ 인베스트먼트)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=128831</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=128831</guid>
-            <pubDate>Fri, 16 Aug 2024 09:50:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202408/128831_167501_5044_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[게임물관리위원회, 5대 위원장으로 서태건 확정 (테크M ─ 피플)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=129104</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=129104</guid>
@@ -659,7 +659,7 @@
             <title><![CDATA[[부고] 오세천(LG전자 홍보담당 전무)씨 모친상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Thu, 22 Aug 2024 23:19:56 GMT</pubDate>
+            <pubDate>Fri, 23 Aug 2024 01:20:29 GMT</pubDate>
             <content:encoded><![CDATA[조성준 기자]]></content:encoded>
         </item>
         <item>
