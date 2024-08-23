@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 Aug 2024 15:24:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Aug 2024 16:27:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[게임스컴] 넥슨의 야심작 '퍼스트 버서커:카잔' 시연 영상 대공개]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=129176</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=129176</guid>
+            <pubDate>Fri, 23 Aug 2024 16:27:27 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202408/129176_168122_5127_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[게임스컴] 모두가 기다린 그 영상...펄어비스 '붉은사막' 게임스컴 시연 영상]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=129174</link>
@@ -110,14 +118,6 @@
             <pubDate>Tue, 13 Aug 2024 08:24:28 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202408/128755_167361_3633_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 신한은행이 'Pick'한 블록체인 메인넷 '엑스플라'.. 신뢰성과 안전성이 '강점']]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=128688</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=128688</guid>
-            <pubDate>Mon, 12 Aug 2024 08:27:08 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202408/128688_167267_1957_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
