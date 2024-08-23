@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 Aug 2024 07:23:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Aug 2024 08:26:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 게임스컴 2024 '역대 최대 규모'...K게임사 기대 신작 모아보니]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=129165</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=129165</guid>
+            <pubDate>Fri, 23 Aug 2024 08:26:40 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202408/129165_168077_3437_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 게임스컴 2024 전야제, '오프닝 나이트 라이브'에서 공개된 게임 소식은?]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=129107</link>
@@ -110,14 +118,6 @@
             <pubDate>Fri, 09 Aug 2024 09:25:42 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202408/128603_167110_2438_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] AI 열풍 이제는 예술이다.. '독서청취, 영화제작, 레시피 개발까지']]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=128534</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=128534</guid>
-            <pubDate>Thu, 08 Aug 2024 08:27:03 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202408/128534_166988_5129_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
