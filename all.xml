@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 24 Aug 2024 03:24:56 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Aug 2024 04:24:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[게임스컴] 본격적인 부스탐방...펄어비스-넥슨 그리고 크래프톤까지 (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=129179</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=129179</guid>
+            <pubDate>Sat, 24 Aug 2024 04:21:11 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202408/129179_168130_155_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[크립토 주간 브리핑] 반등 이뤄낸 비트코인...클레이·핀시아도 30% '껑충' (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=129178</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=129178</guid>
+            <pubDate>Sat, 24 Aug 2024 00:24:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202408/129178_168124_5451_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[EWC 펍지] 다나와-광동, 좋은 경기력으로 파이널 합류...첫 국제대회였던 T1, 아쉽게 탈락 (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=129177</link>
@@ -150,22 +166,6 @@
             <pubDate>Fri, 23 Aug 2024 07:18:02 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202408/129157_168049_2847_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[토스뱅크, 올 2분기 중저신용자 대출 비중 34.9% 달성 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=129156</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=129156</guid>
-            <pubDate>Fri, 23 Aug 2024 07:18:02 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202408/129156_168048_2554_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[티맵에서 경기도 공영주차장 1200곳 실시간 확인 가능해진다 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=129155</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=129155</guid>
-            <pubDate>Fri, 23 Aug 2024 07:18:02 GMT</pubDate>
-            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202408/129155_168047_246_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[EWC 펍지] 다나와-광동, 좋은 경기력으로 파이널 합류...첫 국제대회였던 T1, 아쉽게 탈락 (테크M ─ 콘텐츠)]]></title>
@@ -504,6 +504,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202408/129083_167979_1128_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[크립토 주간 브리핑] 반등 이뤄낸 비트코인...클레이·핀시아도 30% '껑충' (테크M ─ 인베스트먼트)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=129178</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=129178</guid>
+            <pubDate>Sat, 24 Aug 2024 00:24:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202408/129178_168124_5451_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[카카오뱅크, 중·저신용대출 누적 12조 공급, 잔액 비중 32.5%로 역대 최고 (테크M ─ 인베스트먼트)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=129160</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=129160</guid>
@@ -608,14 +616,6 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202408/128880_167617_3125_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[크립토 주간 브리핑] 美 경기침체 우려에...가상자산 시장도 약세 (테크M ─ 인베스트먼트)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=128866</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=128866</guid>
-            <pubDate>Sat, 17 Aug 2024 11:18:00 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202408/128866_167569_3410_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[게임물관리위원회, 5대 위원장으로 서태건 확정 (테크M ─ 피플)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=129104</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=129104</guid>
@@ -659,7 +659,7 @@
             <title><![CDATA[[부고] 오세천(LG전자 홍보담당 전무)씨 모친상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Sat, 24 Aug 2024 02:38:47 GMT</pubDate>
+            <pubDate>Sat, 24 Aug 2024 04:22:55 GMT</pubDate>
             <content:encoded><![CDATA[조성준 기자]]></content:encoded>
         </item>
         <item>
@@ -950,6 +950,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202408/128717_167319_2822_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[게임스컴] 본격적인 부스탐방...펄어비스-넥슨 그리고 크래프톤까지 (테크M ─ 보는 뉴스)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=129179</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=129179</guid>
+            <pubDate>Sat, 24 Aug 2024 04:24:06 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202408/129179_168130_155_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[게임스컴] 넥슨의 야심작 '퍼스트 버서커:카잔' 시연 영상 대공개 (테크M ─ 보는 뉴스)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=129176</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=129176</guid>
@@ -1052,14 +1060,6 @@
             <pubDate>Wed, 14 Aug 2024 08:28:56 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202408/128799_167447_5945_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 'AICT 컴퍼니'로 도약하는 KT.. 사업 리디자인과 MS 협력 적극 추진한다 (테크M ─ 보는 뉴스)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=128755</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=128755</guid>
-            <pubDate>Tue, 13 Aug 2024 08:22:06 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202408/128755_167361_3633_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
