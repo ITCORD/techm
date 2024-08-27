@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Aug 2024 07:21:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Aug 2024 08:27:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 점점 진화하는 삼성전자 'AI TV'.. 몰입감 향상과 일상 속 편리함까지 모두 잡는다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=129307</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=129307</guid>
+            <pubDate>Tue, 27 Aug 2024 08:27:27 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202408/129307_168343_3333_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 네이버 '하이클로바X' 눈과 귀가 생겼다.. 활용 범위 더욱 늘어날 것]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=129245</link>
@@ -110,14 +118,6 @@
             <pubDate>Thu, 15 Aug 2024 15:23:32 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202408/128821_167492_4450_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[게임코인TV] "해외게임쇼인데, 지스타의 향기가"...게임스컴에 한국 게임사 총출동한다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=128812</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=128812</guid>
-            <pubDate>Wed, 14 Aug 2024 13:27:12 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202408/128812_167477_3817_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
