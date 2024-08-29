@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 29 Aug 2024 07:23:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Aug 2024 08:28:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 보험과 금융에도 AI가..? 카카오페이 '금융비서와 보험진단AI, 주식봇 공개']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=129434</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=129434</guid>
+            <pubDate>Thu, 29 Aug 2024 08:28:47 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202408/129434_168583_2628_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 엔씨 '호연' & 네오위즈 '영웅전설'...수집형 RPG 신작 출시에 업계 시선집중]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=129366</link>
@@ -110,14 +118,6 @@
             <pubDate>Fri, 16 Aug 2024 14:20:31 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202408/128860_167562_2618_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 내 맘대로 AI를 골라쓴다.. AWS '베드록'으로 안전하고 편리하게]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=128855</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=128855</guid>
-            <pubDate>Fri, 16 Aug 2024 10:22:55 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202408/128855_167546_5527_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
