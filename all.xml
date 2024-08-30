@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 30 Aug 2024 16:28:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Aug 2024 17:23:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -949,6 +949,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202408/128989_167769_5136_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[게임코인TV] 'P의 거짓'보다 어렵다는 카잔...게임스컴서 가능성 인정 받았다 (테크M ─ 보는 뉴스)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=129509</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=129509</guid>
+            <pubDate>Sat, 31 Aug 2024 02:13:00 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202408/129509_168738_1247_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[게임코인TV] 게임스컴 시연 게임 중 붉은 사막이 1위?...출시가 기대되는 이유 (테크M ─ 보는 뉴스)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=129507</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=129507</guid>
@@ -1051,14 +1059,6 @@
             <pubDate>Wed, 21 Aug 2024 10:18:53 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202408/129046_167871_1951_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 부산을 뜨겁게 달군 BIC 2024.. '게이머와 개발자들이 함께하는 이색축제' (테크M ─ 보는 뉴스)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=128986</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=128986</guid>
-            <pubDate>Tue, 20 Aug 2024 08:23:16 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202408/128986_167758_445_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
