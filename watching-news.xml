@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 Sep 2024 13:30:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Sep 2024 14:22:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 전세계 게이머들의 페스티벌 'WCG2024'.. 올해 첫 해외진출 매우 성공적이다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=129593</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=129593</guid>
+            <pubDate>Mon, 02 Sep 2024 14:22:09 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202409/129593_168894_231_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[게임코인TV] 게임스컴 실제 주인공 크래프톤...존재감 드러낸 카카오게임즈]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=129521</link>
@@ -110,14 +118,6 @@
             <pubDate>Thu, 22 Aug 2024 10:23:14 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202408/129107_167960_465_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[게임코인TV] 전야제 'ONL'을 달군 뜨거운 K게임...'카잔'부터 '패스오브엑자일2'까지 생생한 현장 반응 모음]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=129047</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=129047</guid>
-            <pubDate>Wed, 21 Aug 2024 10:21:30 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202408/129047_167886_1728_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
