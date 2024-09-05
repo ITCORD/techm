@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 Sep 2024 07:21:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Sep 2024 08:30:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 라인메신저에 블록체인 앱 더한 '미니 디앱' 서비스 나온다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=129790</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=129790</guid>
+            <pubDate>Thu, 05 Sep 2024 08:30:26 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202409/129790_169239_4815_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] KT도 'IFA2024'에 뜬다...AI기술력 알리고 파트너사 해외진출 적극 지원할 것]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=129718</link>
@@ -110,14 +118,6 @@
             <pubDate>Fri, 23 Aug 2024 16:27:27 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202408/129176_168122_5127_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[게임스컴] 모두가 기다린 그 영상...펄어비스 '붉은사막' 게임스컴 시연 영상]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=129174</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=129174</guid>
-            <pubDate>Fri, 23 Aug 2024 10:22:49 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202408/129174_168119_5454_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
