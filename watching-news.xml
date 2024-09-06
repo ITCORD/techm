@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 Sep 2024 09:28:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Sep 2024 10:24:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] KBW2024, 전세계 블록체인 전문가들의 강연들과 수많은 이벤트까지.. '열기가 후끈']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=129847</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=129847</guid>
+            <pubDate>Fri, 06 Sep 2024 10:24:52 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202409/129847_169337_1825_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 라인메신저에 블록체인 앱 더한 '미니 디앱' 서비스 나온다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=129790</link>
@@ -110,14 +118,6 @@
             <pubDate>Sat, 24 Aug 2024 04:24:06 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202408/129179_168130_155_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[게임스컴] 넥슨의 야심작 '퍼스트 버서커:카잔' 시연 영상 대공개]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=129176</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=129176</guid>
-            <pubDate>Fri, 23 Aug 2024 16:27:27 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202408/129176_168122_5127_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
