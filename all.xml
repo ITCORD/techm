@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 07 Sep 2024 01:25:10 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Sep 2024 02:46:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -280,6 +280,22 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202409/129769_169201_3036_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[애플 '이제 새롭게 빛나다' 이벤트에는 무엇이 나올까 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=129864</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=129864</guid>
+            <pubDate>Sat, 07 Sep 2024 11:04:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202409/129864_169384_5557_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["삼성 AI가전 보러 가자"...1800평 부스 관람객으로 가득 채운 삼성전자 'IFA 2024' 현장 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=129858</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=129858</guid>
+            <pubDate>Sat, 07 Sep 2024 10:35:00 GMT</pubDate>
+            <content:encoded><![CDATA[배수현 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202409/129858_169379_1950_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[KISIA, 제23회 '정보보호 대상' 공모..."정보보호 모범사례 발굴" (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=129853</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=129853</guid>
@@ -374,22 +390,6 @@
             <pubDate>Fri, 06 Sep 2024 05:21:30 GMT</pubDate>
             <content:encoded><![CDATA[배수현 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202409/129827_169308_735_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[과기정통부, 인터넷망 접속 장애 조사 착수...통신사는 배상 검토 중 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=129825</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=129825</guid>
-            <pubDate>Fri, 06 Sep 2024 11:49:00 GMT</pubDate>
-            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202409/129825_169361_234_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[네이버 'MY골프', 스코어카드 띄운다...오는 11월엔 관리 기능 추가 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=129821</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=129821</guid>
-            <pubDate>Fri, 06 Sep 2024 11:29:00 GMT</pubDate>
-            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202409/129821_169294_2816_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[SDX재단-샌디얼라이언스, 건물 '탄소배출 제로' 선도 나서...'탄소감축우수등급 인증제' 발표 (테크M ─ 이노베이션)]]></title>
@@ -504,6 +504,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202409/129749_169178_3611_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[크립토 주간 브리핑] 9월 약세 징크스 못깬 가상자산 시장...첫째주 일제히 하락 (테크M ─ 인베스트먼트)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=129865</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=129865</guid>
+            <pubDate>Sat, 07 Sep 2024 11:23:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202409/129865_169390_1113_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[크립토 브리핑] 비트코인 5만5000달러도 위태...투자심리 '극단적 공포' 전환 (테크M ─ 인베스트먼트)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=129800</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=129800</guid>
@@ -608,14 +616,6 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202408/129513_168742_2450_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[케이뱅크,. 상장예비심사 통과..."연내 상장 마무리" (테크M ─ 인베스트먼트)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=129503</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=129503</guid>
-            <pubDate>Fri, 30 Aug 2024 08:25:21 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202408/129503_168713_1842_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[e스포츠人] '살루트' 우제현 "팀워크 최고...팬들 위해 우승하겠다" (테크M ─ 피플)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=129857</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=129857</guid>
@@ -707,7 +707,7 @@
             <title><![CDATA[[부고] 유영상(SK텔레콤 대표)씨 모친상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Sat, 07 Sep 2024 01:22:44 GMT</pubDate>
+            <pubDate>Sat, 07 Sep 2024 02:43:57 GMT</pubDate>
             <content:encoded><![CDATA[조성준 기자]]></content:encoded>
         </item>
         <item>
