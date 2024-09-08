@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 08 Sep 2024 02:55:18 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Sep 2024 03:25:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,6 +168,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202409/129855_169368_4224_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[LG유플러스, 추석 맞이 프로모션 진행..."콘텐츠 풍성하게 즐겨요" (테크M ─ 콘텐츠)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=129872</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=129872</guid>
+            <pubDate>Sun, 08 Sep 2024 10:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202409/129872_169420_2336_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[PNC 통신] "고마워, 브라질"...한국, 미국 추격 따돌리고 1위 등극 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=129869</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=129869</guid>
@@ -272,12 +280,36 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202409/129795_169363_323_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[자본·인력 모은 하이브IM, 다각화 전략으로 존재감 키운다 (테크M ─ 콘텐츠)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=129787</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=129787</guid>
-            <pubDate>Thu, 05 Sep 2024 09:18:32 GMT</pubDate>
-            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202409/129787_169238_2640_v150.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA["BGP 사고에는 RPKI가 특효약"...KISA, 국내 도입 확대에 힘쓴다 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=129834</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=129834</guid>
+            <pubDate>Sun, 08 Sep 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[배수현 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202409/129834_169317_2247_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[일상 대화로 가전 제어 가능해진다...'싱큐 온' 통해 AI홈 개막 선언한 LG전자 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=129875</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=129875</guid>
+            <pubDate>Sun, 08 Sep 2024 10:26:00 GMT</pubDate>
+            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202409/129875_169423_2549_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[캄보디아 난청 아동에게 소리 전하는 KT...인공와우 수술 프로그램 지원 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=129874</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=129874</guid>
+            <pubDate>Sun, 08 Sep 2024 09:31:00 GMT</pubDate>
+            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202409/129874_169422_3019_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[딥페이크 범죄 예방 나서는 SKT...경찰청과 공동 캠페인 진행 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=129873</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=129873</guid>
+            <pubDate>Sun, 08 Sep 2024 09:25:00 GMT</pubDate>
+            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202409/129873_169421_2441_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[애플 '이제 새롭게 빛나다' 이벤트에는 무엇이 나올까 (테크M ─ 인프라)]]></title>
@@ -360,36 +392,12 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202409/129828_169309_1533_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[SKT, 'AI콜' 통해 고령자 대상 금융범죄 예방 교육지원 확대한다 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=129831</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=129831</guid>
-            <pubDate>Fri, 06 Sep 2024 05:21:30 GMT</pubDate>
-            <content:encoded><![CDATA[배수현 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202409/129831_169310_246_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["풍성한 추석, 혜택으로 더 풍성하게"...KT, 연휴 맞이 멤버십 혜택 강화 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=129832</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=129832</guid>
-            <pubDate>Fri, 06 Sep 2024 05:21:30 GMT</pubDate>
-            <content:encoded><![CDATA[배수현 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202409/129832_169311_3241_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[KT, 장기고객 혜택 강화..."9월 스페셜 캠핑으로 초대드림" (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=129833</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=129833</guid>
-            <pubDate>Fri, 06 Sep 2024 05:21:30 GMT</pubDate>
-            <content:encoded><![CDATA[배수현 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202409/129833_169312_416_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LG유플러스, '2024 디지털고객경험지수' 최고점 획득...이동통신 부문 1위 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=129827</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=129827</guid>
-            <pubDate>Fri, 06 Sep 2024 05:21:30 GMT</pubDate>
-            <content:encoded><![CDATA[배수현 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202409/129827_169308_735_v150.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[한가위에도 사이버 사기는 기승...과기정통부·방통위 "추석 스미싱 문자 조심하세요" (테크M ─ 이노베이션)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=129851</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=129851</guid>
+            <pubDate>Sun, 08 Sep 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202409/129851_169357_19_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[템터뷰] 가상자산 투자, 체험이 되다...현실 세계서 투자자 만나는 빗썸 브랜드마케팅팀 (테크M ─ 이노베이션)]]></title>
@@ -494,14 +502,6 @@
             <pubDate>Thu, 05 Sep 2024 05:17:59 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202409/129767_169200_1547_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["알고보니 대어" NH투자증권, 결제업 최선호주로 헥토파이낸셜 제시 (테크M ─ 이노베이션)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=129759</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=129759</guid>
-            <pubDate>Thu, 05 Sep 2024 11:11:00 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202409/129759_169188_119_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[크립토 주간 브리핑] 9월 약세 징크스 못깬 가상자산 시장...첫째주 일제히 하락 (테크M ─ 인베스트먼트)]]></title>
@@ -715,7 +715,7 @@
             <title><![CDATA[[부고] 유영상(SK텔레콤 대표)씨 모친상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Sun, 08 Sep 2024 01:30:36 GMT</pubDate>
+            <pubDate>Sun, 08 Sep 2024 03:23:18 GMT</pubDate>
             <content:encoded><![CDATA[조성준 기자]]></content:encoded>
         </item>
         <item>
@@ -725,6 +725,14 @@
             <pubDate>Mon, 26 Aug 2024 06:26:57 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202408/129234_168213_5317_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[취약계층 지원하는 카카오뱅크, 사랑의열매에 온누리상품권 10억원 기부 (테크M ─ 라이프)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=129877</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=129877</guid>
+            <pubDate>Sun, 08 Sep 2024 11:03:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202409/129877_169425_4720_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[가봤다] e스포츠 잘 아는 빗썸?...게임e스포츠서울에서 존재감 '팍팍' (테크M ─ 라이프)]]></title>
@@ -829,14 +837,6 @@
             <pubDate>Thu, 05 Sep 2024 10:40:00 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202409/129753_169179_3919_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[소니코리아 'FE 85mm F1.4 GM II' 출시..."인물 사진에 최적의 성능" (테크M ─ 라이프)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=129741</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=129741</guid>
-            <pubDate>Thu, 05 Sep 2024 10:17:00 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202409/129741_169166_1716_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[글로벌] 오픈AI, 기업용 챗GPT 유료 구독자 수 100만명 돌파 (테크M ─ 리포트)]]></title>
