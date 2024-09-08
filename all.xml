@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 08 Sep 2024 13:23:21 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Sep 2024 14:20:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -167,6 +167,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202409/129859_169383_367_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[PNC 통신] 1점차 극적인 승부...한국 대표팀 2연패 성공 (테크M ─ 콘텐츠)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=129884</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=129884</guid>
+            <pubDate>Sun, 08 Sep 2024 14:17:34 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202409/129884_169476_1416_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[LCK 결승] 한화생명, 창단 첫 우승...풀세트 접전 끝에 젠지 5연속 우승 '저지' (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=129882</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=129882</guid>
@@ -269,14 +277,6 @@
             <pubDate>Fri, 06 Sep 2024 11:00:00 GMT</pubDate>
             <content:encoded><![CDATA[임경호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202409/129811_169284_3734_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[넥슨게임즈, 2년 연속 대한민국 일자리 으뜸기업 선정...청년 일자리 창출 기여 (테크M ─ 콘텐츠)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=129807</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=129807</guid>
-            <pubDate>Fri, 06 Sep 2024 10:55:00 GMT</pubDate>
-            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202409/129807_169280_2312_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["BGP 사고에는 RPKI가 특효약"...KISA, 국내 도입 확대에 힘쓴다 (테크M ─ 인프라)]]></title>
