@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 08 Sep 2024 12:35:56 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Sep 2024 13:23:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -170,17 +170,9 @@
             <title><![CDATA[[LCK 결승] 한화생명, 창단 첫 우승...풀세트 접전 끝에 젠지 5연속 우승 '저지' (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=129882</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=129882</guid>
-            <pubDate>Sun, 08 Sep 2024 12:33:31 GMT</pubDate>
+            <pubDate>Sun, 08 Sep 2024 12:33:07 GMT</pubDate>
             <content:encoded><![CDATA[임경호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202409/129882_169461_2513_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[PNC 현장 찾은 오세훈 서울시장 "국제 e스포츠 대회 적극 유치할 것" (테크M ─ 콘텐츠)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=129881</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=129881</guid>
-            <pubDate>Sun, 08 Sep 2024 10:18:27 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202409/129881_169462_2537_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[현장습격] LCK 서머 결승전 향배는..."언더독 반란을" VS "젠지가 지겠냐" (테크M ─ 콘텐츠)]]></title>
@@ -277,6 +269,14 @@
             <pubDate>Fri, 06 Sep 2024 11:00:00 GMT</pubDate>
             <content:encoded><![CDATA[임경호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202409/129811_169284_3734_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[넥슨게임즈, 2년 연속 대한민국 일자리 으뜸기업 선정...청년 일자리 창출 기여 (테크M ─ 콘텐츠)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=129807</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=129807</guid>
+            <pubDate>Fri, 06 Sep 2024 10:55:00 GMT</pubDate>
+            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202409/129807_169280_2312_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["BGP 사고에는 RPKI가 특효약"...KISA, 국내 도입 확대에 힘쓴다 (테크M ─ 인프라)]]></title>
@@ -380,7 +380,7 @@
             <guid>https://www.techm.kr/news/articleView.html?idxno=129830</guid>
             <pubDate>Fri, 06 Sep 2024 05:21:30 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202409/129830_169360_211_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202409/129830_169313_5235_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[LG유플러스, 대한민국 일자리 으뜸기업 선정...일자리 창출·개선 인정 (테크M ─ 인프라)]]></title>
@@ -428,7 +428,7 @@
             <guid>https://www.techm.kr/news/articleView.html?idxno=129843</guid>
             <pubDate>Fri, 06 Sep 2024 07:20:13 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202409/129843_169356_048_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202409/129843_169336_5819_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[상승·하락 구분없이 수익...빗썸 가상자산 렌딩 서비스 개편해 차별화 꾀한다 (테크M ─ 이노베이션)]]></title>
@@ -436,7 +436,7 @@
             <guid>https://www.techm.kr/news/articleView.html?idxno=129836</guid>
             <pubDate>Fri, 06 Sep 2024 07:20:13 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202409/129836_169359_146_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202409/129836_169322_2614_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[투자 자산 종류 넓히는 케이뱅크...미국 채권 투자 서비스 출시 (테크M ─ 이노베이션)]]></title>
@@ -615,11 +615,27 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202408/129513_168742_2450_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[LCK 결승] 석패한 젠지 "결과 아쉽지만 많이 얻어갈 것" (테크M ─ 피플)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=129887</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=129887</guid>
+            <pubDate>Sun, 08 Sep 2024 13:22:14 GMT</pubDate>
+            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202409/129887_169471_4027_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[부고] 이태현(콘텐츠웨이브 대표이사)씨 모친상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Sun, 08 Sep 2024 12:34:40 GMT</pubDate>
+            <pubDate>Sun, 08 Sep 2024 13:22:14 GMT</pubDate>
             <content:encoded><![CDATA[임경호 기자]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[PNC 현장 찾은 오세훈 서울시장 "국제 e스포츠 대회 적극 유치할 것" (테크M ─ 피플)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=129881</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=129881</guid>
+            <pubDate>Sun, 08 Sep 2024 10:18:27 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202409/129881_169462_2537_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[e스포츠人] '이노닉스' "우승 확률 1258620%"...'서울' "응원만 해주셨으면..." (테크M ─ 피플)]]></title>
@@ -710,21 +726,6 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202408/129377_168512_2545_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[현대오토에버, 전략·DX 리더 영입..."핵심인재 확보로 사업 경쟁력 키운다" (테크M ─ 피플)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=129427</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=129427</guid>
-            <pubDate>Thu, 29 Aug 2024 07:18:08 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202408/129427_168573_5634_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[부고] 유영상(SK텔레콤 대표)씨 모친상 (테크M ─ 피플)]]></title>
-            <link>https://ITCORD.github.io/techm/all.xml</link>
-            <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Sun, 08 Sep 2024 12:34:40 GMT</pubDate>
-            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[취약계층 지원하는 카카오뱅크, 사랑의열매에 온누리상품권 10억원 기부 (테크M ─ 라이프)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=129877</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=129877</guid>
@@ -754,7 +755,7 @@
             <guid>https://www.techm.kr/news/articleView.html?idxno=129822</guid>
             <pubDate>Fri, 06 Sep 2024 06:29:54 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202409/129822_169358_113_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202409/129822_169301_1916_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[가민, 프리미엄 GPS 스마트워치  '피닉스 8'·'엔듀로 3' 출시 (테크M ─ 라이프)]]></title>
