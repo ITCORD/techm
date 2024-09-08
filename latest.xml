@@ -4,9 +4,25 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 08 Sep 2024 03:25:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Sep 2024 04:25:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["BGP 사고에는 RPKI가 특효약"...KISA, 국내 도입 확대에 힘쓴다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=129834</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=129834</guid>
+            <pubDate>Sun, 08 Sep 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[배수현 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202409/129834_169317_2247_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한가위에도 사이버 사기는 기승...과기정통부·방통위 "추석 스미싱 문자 조심하세요"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=129851</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=129851</guid>
+            <pubDate>Sun, 08 Sep 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202409/129851_169357_19_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[취약계층 지원하는 카카오뱅크, 사랑의열매에 온누리상품권 10억원 기부]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=129877</link>
@@ -150,22 +166,6 @@
             <pubDate>Sat, 07 Sep 2024 01:02:00 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202409/129857_169374_5627_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[PNC 통신] 첫째날부터 2치킨-2위로 순조로운 출발 보인 한국 대표팀]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=129856</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=129856</guid>
-            <pubDate>Fri, 06 Sep 2024 19:16:28 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202409/129856_169370_2122_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SDX재단-샌디얼라이언스, 건물 '탄소배출 제로' 선도 나서...'탄소감축우수등급 인증제' 발표]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=129855</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=129855</guid>
-            <pubDate>Fri, 06 Sep 2024 12:35:13 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202409/129855_169368_4224_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
