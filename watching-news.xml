@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 Sep 2024 07:23:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Sep 2024 08:29:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] LG유플러스, U+tv에 AI 익시를 더해 'AIPTV' 시대로 향한다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=129924</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=129924</guid>
+            <pubDate>Mon, 09 Sep 2024 08:29:14 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202409/129924_169520_166_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] KBW2024, 전세계 블록체인 전문가들의 강연들과 수많은 이벤트까지.. '열기가 후끈']]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=129847</link>
@@ -110,14 +118,6 @@
             <pubDate>Mon, 26 Aug 2024 09:22:07 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202408/129245_168235_325_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[게임스컴] 본격적인 부스탐방...펄어비스-넥슨 그리고 크래프톤까지]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=129179</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=129179</guid>
-            <pubDate>Sat, 24 Aug 2024 04:24:06 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202408/129179_168130_155_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
