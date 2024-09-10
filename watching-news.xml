@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 Sep 2024 10:26:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Sep 2024 12:42:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 게임의 메카, 판교에서 열린 'GXG2024'.. 게임을 문화예술로 풀어내다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=129965</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=129965</guid>
+            <pubDate>Tue, 10 Sep 2024 12:42:28 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202409/129965_169592_1846_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] LG유플러스, U+tv에 AI 익시를 더해 'AIPTV' 시대로 향한다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=129924</link>
@@ -110,14 +118,6 @@
             <pubDate>Tue, 27 Aug 2024 08:27:27 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202408/129307_168343_3333_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 네이버 '하이클로바X' 눈과 귀가 생겼다.. 활용 범위 더욱 늘어날 것]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=129245</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=129245</guid>
-            <pubDate>Mon, 26 Aug 2024 09:22:07 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202408/129245_168235_325_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
