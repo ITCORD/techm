@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 Sep 2024 09:28:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Sep 2024 10:24:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] SK텔레콤, SPC그룹과 미래 리테일 시장을 위한 'AI 혁신' 시도한다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=130004</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=130004</guid>
+            <pubDate>Wed, 11 Sep 2024 10:24:22 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202409/130004_169690_81_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 게임의 메카, 판교에서 열린 'GXG2024'.. 게임을 문화예술로 풀어내다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=129965</link>
@@ -110,14 +118,6 @@
             <pubDate>Wed, 28 Aug 2024 08:26:47 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202408/129366_168477_1934_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 점점 진화하는 삼성전자 'AI TV'.. 몰입감 향상과 일상 속 편리함까지 모두 잡는다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=129307</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=129307</guid>
-            <pubDate>Tue, 27 Aug 2024 08:27:27 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202408/129307_168343_3333_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
