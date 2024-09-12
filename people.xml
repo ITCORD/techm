@@ -1,8 +1,121 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN5&amp;view_type=sm</id>
-    <title>테크M ─ 피플</title>
-    <updated>2024-09-12T12:40:54.065Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.techm.kr/news/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>테크M ─ 피플</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 12 Sep 2024 13:28:52 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[LG, 추석 앞두고 협력사 납품대금 9500억 조기 지급]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=130061</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=130061</guid>
+            <pubDate>Thu, 12 Sep 2024 13:27:48 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202409/130061_169783_028_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[시세조종 혐의 전면 부인한 김범수 카카오..."경영 판단, 장내 매수 하면 안 되는 법 없다"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=130005</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=130005</guid>
+            <pubDate>Thu, 12 Sep 2024 13:27:48 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202409/130005_169712_2922_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김범수 카카오 첫 공판 임박...시세조종 지시 여부가 쟁점]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=129979</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=129979</guid>
+            <pubDate>Wed, 11 Sep 2024 10:32:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202409/129979_169653_1719_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[부고] 고두영(롯데이노베이트 대표)씨 본인상]]></title>
+            <link>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN5&amp;view_type=sm</link>
+            <guid>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN5&amp;view_type=sm</guid>
+            <pubDate>Thu, 12 Sep 2024 13:27:48 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[e스포츠人] 정신력 흔들렸던 韓 선수단 "그래도 우승할 수 있었던 원동력은..."]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=129889</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=129889</guid>
+            <pubDate>Mon, 09 Sep 2024 01:24:00 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202409/129889_169480_5031_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[LCK 결승] 석패한 젠지 "결과 아쉽지만 많이 얻어갈 것"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=129887</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=129887</guid>
+            <pubDate>Thu, 12 Sep 2024 13:27:48 GMT</pubDate>
+            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202409/129887_169471_4027_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[부고] 이태현(콘텐츠웨이브 대표이사)씨 모친상]]></title>
+            <link>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN5&amp;view_type=sm</link>
+            <guid>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN5&amp;view_type=sm</guid>
+            <pubDate>Thu, 12 Sep 2024 13:27:48 GMT</pubDate>
+            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[PNC 현장 찾은 오세훈 서울시장 "국제 e스포츠 대회 적극 유치할 것"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=129881</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=129881</guid>
+            <pubDate>Thu, 12 Sep 2024 13:27:48 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202409/129881_169432_1344_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[e스포츠人] '이노닉스' "우승 확률 1258620%"...'서울' "응원만 해주셨으면..."]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=129870</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=129870</guid>
+            <pubDate>Thu, 12 Sep 2024 13:27:48 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202409/129870_169414_148_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[e스포츠人] '살루트' 우제현 "팀워크 최고...팬들 위해 우승하겠다"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=129857</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=129857</guid>
+            <pubDate>Sat, 07 Sep 2024 01:02:00 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202409/129857_169374_5627_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[커피한잔] 'WCG=e스포츠' 고정관념 버린 빅픽처...민경준 본부장 "WCG=게이머가 즐거운 곳"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=129762</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=129762</guid>
+            <pubDate>Thu, 12 Sep 2024 13:27:48 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202409/129762_169192_5353_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[현대오토에버, '공정거래 자율준수 실천 선포식' 개최]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=129714</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=129714</guid>
+            <pubDate>Thu, 12 Sep 2024 13:27:48 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202409/129714_169110_5231_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[헥토그룹, 임직원 헌혈 캠페인 '헥토&' 개최…한국소아암재단에 헌혈증 기부]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=129675</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=129675</guid>
+            <pubDate>Thu, 12 Sep 2024 13:27:48 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202409/129675_169018_1348_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[네이버페이, 이노 비즈 총괄 부사장에 조재박 전 삼정KPMG 부대표 영입]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=129617</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=129617</guid>
+            <pubDate>Tue, 03 Sep 2024 10:55:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202409/129617_168934_3336_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
