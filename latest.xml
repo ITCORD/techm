@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 Sep 2024 02:47:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Sep 2024 03:25:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[하이퍼클로바X, 미디어 산업에 적용...활용 범위 넓어지는 네이버 AI]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=130040</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=130040</guid>
+            <pubDate>Thu, 12 Sep 2024 11:42:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202409/130040_169743_377_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[위메이드 '레전드 오브 이미르' 전투 스타일 공개...타격감·사실감↑]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=130037</link>
@@ -24,7 +32,7 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202409/130032_169742_1727_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[사우디로 날아간 네이버 이해진·최수연...아랍어 LLM 만든다]]></title>
+            <title><![CDATA[사우디로 날아간 네이버 이해진...아랍어 LLM 만든다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=130035</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=130035</guid>
             <pubDate>Thu, 12 Sep 2024 11:34:00 GMT</pubDate>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 12 Sep 2024 08:00:00 GMT</pubDate>
             <content:encoded><![CDATA[김현기 대표]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202409/130009_169713_354_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[매드엔진 '나이트크로우2' 개발중...2026년 3월 출시 '목표']]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=130008</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=130008</guid>
-            <pubDate>Wed, 11 Sep 2024 13:24:01 GMT</pubDate>
-            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202409/130008_169705_2024_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
