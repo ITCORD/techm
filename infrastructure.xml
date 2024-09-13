@@ -4,9 +4,17 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 13 Sep 2024 06:30:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Sep 2024 07:23:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[시큐아이, 증권사 대상 정보보호 세미나 개최]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=130121</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=130121</guid>
+            <pubDate>Fri, 13 Sep 2024 07:20:07 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202409/130121_169893_5855_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[텍스트·이미지를 영상으로...어도비 '파이어플라이 비디오 모델' 공개]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=130113</link>
@@ -110,14 +118,6 @@
             <pubDate>Fri, 13 Sep 2024 11:44:00 GMT</pubDate>
             <content:encoded><![CDATA[조성준 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202409/130093_169843_4256_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["폰 들어올때 노젓자"...통신3사, 아이폰16 사전예약 고객 마케팅 '활활']]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=130086</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=130086</guid>
-            <pubDate>Fri, 13 Sep 2024 11:30:00 GMT</pubDate>
-            <content:encoded><![CDATA[배수현 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202409/130086_169839_4728_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
