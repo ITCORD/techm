@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 13 Sep 2024 21:23:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Sep 2024 22:24:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -280,6 +280,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202409/130017_169730_2716_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA["이것만은 꼭 지키자" 명절 연휴 사이버 보안 가이드 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=130122</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=130122</guid>
+            <pubDate>Sat, 14 Sep 2024 07:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202409/130122_169895_1846_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[시큐아이, 증권사 대상 정보보호 세미나 개최 (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=130121</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=130121</guid>
@@ -382,14 +390,6 @@
             <pubDate>Fri, 13 Sep 2024 00:39:00 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202409/130096_169913_149_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아이폰16 예상 공시지원금 띄운 통신3사…최대 45만원 책정 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=130093</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=130093</guid>
-            <pubDate>Fri, 13 Sep 2024 11:44:00 GMT</pubDate>
-            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202409/130093_169914_1441_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[AI 스타트업 지원하는 네이버클라우드, '하이퍼클로바X' 기반 서비스 5개 나온다 (테크M ─ 이노베이션)]]></title>
@@ -651,7 +651,7 @@
             <title><![CDATA[[부고] 고두영(롯데이노베이트 대표)씨 본인상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Fri, 13 Sep 2024 18:28:19 GMT</pubDate>
+            <pubDate>Fri, 13 Sep 2024 22:21:45 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
         </item>
         <item>
@@ -674,7 +674,7 @@
             <title><![CDATA[[부고] 이태현(콘텐츠웨이브 대표이사)씨 모친상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Fri, 13 Sep 2024 18:28:19 GMT</pubDate>
+            <pubDate>Fri, 13 Sep 2024 22:21:45 GMT</pubDate>
             <content:encoded><![CDATA[임경호 기자]]></content:encoded>
         </item>
         <item>
