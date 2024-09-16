@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 16 Sep 2024 06:31:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Sep 2024 07:22:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아이폰 16, 누가 바꿔야 하는가 (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=130140</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=130140</guid>
+            <pubDate>Mon, 16 Sep 2024 07:18:48 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202409/130140_169963_2656_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[PMPS 통신] DK, 페이즈1 우승...이엠텍, 2강 체제 깨고 2위 등극 (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=130137</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=130137</guid>
+            <pubDate>Mon, 16 Sep 2024 06:28:41 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202409/130137_169960_32_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[코웨이, 강원도 해양 보호 나섰다...임직원 플로빙 봉사 진행 (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=130136</link>
@@ -150,22 +166,6 @@
             <pubDate>Sat, 14 Sep 2024 09:00:00 GMT</pubDate>
             <content:encoded><![CDATA[김현기 대표]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202409/130127_169934_1951_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["이것만은 꼭 지키자" 명절 연휴 사이버 보안 가이드 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=130122</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=130122</guid>
-            <pubDate>Sat, 14 Sep 2024 07:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202409/130122_169895_1846_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[테크M 리포트] 美 연준 금리결정 앞둔 비트코인...9월에도 시세 부진한 이유는 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=130114</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=130114</guid>
-            <pubDate>Sat, 14 Sep 2024 06:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202409/130114_169938_2124_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[PMPS 통신] DK, 페이즈1 우승...이엠텍, 2강 체제 깨고 2위 등극 (테크M ─ 콘텐츠)]]></title>
@@ -651,7 +651,7 @@
             <title><![CDATA[[부고] 고두영(롯데이노베이트 대표)씨 본인상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Mon, 16 Sep 2024 06:30:36 GMT</pubDate>
+            <pubDate>Mon, 16 Sep 2024 07:20:41 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
         </item>
         <item>
@@ -674,7 +674,7 @@
             <title><![CDATA[[부고] 이태현(콘텐츠웨이브 대표이사)씨 모친상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Mon, 16 Sep 2024 06:30:36 GMT</pubDate>
+            <pubDate>Mon, 16 Sep 2024 07:20:41 GMT</pubDate>
             <content:encoded><![CDATA[임경호 기자]]></content:encoded>
         </item>
         <item>
@@ -724,6 +724,14 @@
             <pubDate>Thu, 12 Sep 2024 13:27:48 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202409/129675_169018_1348_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아이폰 16, 누가 바꿔야 하는가 (테크M ─ 라이프)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=130140</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=130140</guid>
+            <pubDate>Mon, 16 Sep 2024 07:21:13 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202409/130140_169963_2656_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[코웨이, 강원도 해양 보호 나섰다...임직원 플로빙 봉사 진행 (테크M ─ 라이프)]]></title>
@@ -828,14 +836,6 @@
             <pubDate>Thu, 12 Sep 2024 11:00:00 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202409/130024_169732_430_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[백화점 끌고 지누스 밀고...현대백화점 하반기 이익 체력 늘었다 (테크M ─ 라이프)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=129988</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=129988</guid>
-            <pubDate>Wed, 11 Sep 2024 11:07:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202409/129988_169664_723_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[글로벌] EU, 중국 전기차 업체의 '판매가 하한선' 제안 거부 (테크M ─ 리포트)]]></title>

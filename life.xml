@@ -4,9 +4,17 @@
         <title>테크M ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 16 Sep 2024 06:31:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Sep 2024 07:22:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아이폰 16, 누가 바꿔야 하는가]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=130140</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=130140</guid>
+            <pubDate>Mon, 16 Sep 2024 07:21:13 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202409/130140_169963_2656_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[코웨이, 강원도 해양 보호 나섰다...임직원 플로빙 봉사 진행]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=130136</link>
@@ -110,14 +118,6 @@
             <pubDate>Thu, 12 Sep 2024 11:00:00 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202409/130024_169732_430_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[백화점 끌고 지누스 밀고...현대백화점 하반기 이익 체력 늘었다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=129988</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=129988</guid>
-            <pubDate>Wed, 11 Sep 2024 11:07:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202409/129988_169664_723_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
