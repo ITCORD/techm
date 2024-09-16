@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 16 Sep 2024 09:28:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Sep 2024 10:25:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[올해 추석 '슈퍼문'은 화요일 오후 6시..."평소보다 크고, 밝아요"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=130142</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=130142</guid>
+            <pubDate>Mon, 16 Sep 2024 10:20:58 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202409/130142_169970_728_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아이폰 16, 누가 바꿔야 하는가]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=130140</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 14 Sep 2024 09:00:00 GMT</pubDate>
             <content:encoded><![CDATA[김현기 대표]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202409/130126_169935_2012_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[글로벌] MS·오픈AI 등 주요 AI 빅테크, 자발적 딥페이크 범죄 확산 저지 나선다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=130127</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=130127</guid>
-            <pubDate>Sat, 14 Sep 2024 09:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[김현기 대표]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202409/130127_169934_1951_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
