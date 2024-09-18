@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 18 Sep 2024 15:26:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Sep 2024 16:29:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[애플 인텔리전스, 내년에 한국어 지원한다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=130155</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=130155</guid>
+            <pubDate>Wed, 18 Sep 2024 16:22:41 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202409/130155_170023_1428_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이재용 "대학 가지 않아도 기술인 존중받고 성장하도록 지원"]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=130151</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 16 Sep 2024 10:53:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202409/130135_169957_5342_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["추석엔 이 게임" FC온라인부터 오딘까지...게임으로 한가위 더 풍성하게]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=130128</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=130128</guid>
-            <pubDate>Mon, 16 Sep 2024 10:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202409/130128_169922_502_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
