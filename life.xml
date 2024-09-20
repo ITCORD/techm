@@ -1,8 +1,123 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN6&amp;view_type=sm</id>
-    <title>테크M ─ 라이프</title>
-    <updated>2024-09-20T02:52:25.159Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.techm.kr/news/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>테크M ─ 라이프</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 20 Sep 2024 03:25:51 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[캐논코리아, 휴대성 강화한 표준 줌 렌즈 'RF28-70mm F2.8 IS STM' 출시]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=130223</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=130223</guid>
+            <pubDate>Fri, 20 Sep 2024 11:57:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202409/130223_170135_5651_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[테크M 이슈] 무신사 대림창고 스토어, 일매출 1억원 훌쩍..."오프라인 불패 신화"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=130212</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=130212</guid>
+            <pubDate>Fri, 20 Sep 2024 10:25:00 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202409/130212_170115_558_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[브롤스타즈 효과 톡톡히 본 스타필드, 이번에 '배그'...게임 팝업 성지로 '부상']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=130194</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=130194</guid>
+            <pubDate>Fri, 20 Sep 2024 03:25:05 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202409/130194_170095_455_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[유통가는 명절 이후도 바쁘다...할인데이-다이어트-골프 기획전 '풍성']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=130192</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=130192</guid>
+            <pubDate>Fri, 20 Sep 2024 03:25:05 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202409/130192_170065_5613_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[스틸시리즈, 게이밍 무선 헤드셋 '아크티스 노바 5 화이트' 국내 출시]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=130184</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=130184</guid>
+            <pubDate>Thu, 19 Sep 2024 11:14:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202409/130184_170053_144_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[삼성전자, 김치 냄새 걱정 덜어주는 '비스포크 AI 김치플러스' 신제품 출시]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=130178</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=130178</guid>
+            <pubDate>Thu, 19 Sep 2024 10:45:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202409/130178_170046_453_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[테크M 트렌드] 유통가 백화점도 AI 도입 열풍...업무 효율화 필수품 '눈길']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=130164</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=130164</guid>
+            <pubDate>Thu, 19 Sep 2024 09:09:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202409/130164_170099_4622_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[하이트진로, 美 판매 1위 프리미엄 보드카 '티토스' 내놨다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=130159</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=130159</guid>
+            <pubDate>Thu, 19 Sep 2024 08:49:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202409/130159_170030_4930_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[삼성전자 '비스포크 AI 콤보' 중남미 시장 공략]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=130149</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=130149</guid>
+            <pubDate>Wed, 18 Sep 2024 10:04:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202409/130149_169996_254_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["예뻐야 산다" 하반기 이커머스 성장 키워드는 식품 대신 '뷰티']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=130141</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=130141</guid>
+            <pubDate>Tue, 17 Sep 2024 06:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202409/130141_169968_5731_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아이폰 16, 누가 바꿔야 하는가]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=130140</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=130140</guid>
+            <pubDate>Fri, 20 Sep 2024 03:25:05 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202409/130140_169963_2656_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[코웨이, 강원도 해양 보호 나섰다...임직원 플로빙 봉사 진행]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=130136</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=130136</guid>
+            <pubDate>Mon, 16 Sep 2024 11:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202409/130136_169958_052_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[테크M 트렌드] 체험 행사 한가득...추석 명절 '백화점'을 찾아야하는 이유]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=130135</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=130135</guid>
+            <pubDate>Mon, 16 Sep 2024 10:53:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202409/130135_169957_5342_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["효도 점수 따기 딱 좋네"...추석 맞이 부모님 선물 안성맞춤 가전·기기는]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=130092</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=130092</guid>
+            <pubDate>Sun, 15 Sep 2024 10:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[배수현 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202409/130092_169842_4149_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
