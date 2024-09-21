@@ -4,9 +4,17 @@
         <title>테크M ─ 콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 21 Sep 2024 19:20:41 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Sep 2024 20:24:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[PWS 통신] T1-대전-다나와-광동...6점차 치열한 1위 경쟁]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=130245</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=130245</guid>
+            <pubDate>Sun, 22 Sep 2024 04:26:00 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202409/130245_170188_1531_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[PMPS 통신] 혼돈의 페이즈2...1위부터 6위까지 단 10점차]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=130232</link>
@@ -110,14 +118,6 @@
             <pubDate>Thu, 19 Sep 2024 11:16:17 GMT</pubDate>
             <content:encoded><![CDATA[임경호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202409/130204_170088_3852_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[엔씨소프트 '신서버' 전략 통하나...'블레이드앤소울'도 리뉴얼 서버 오픈 예고]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=130203</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=130203</guid>
-            <pubDate>Thu, 19 Sep 2024 11:16:17 GMT</pubDate>
-            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202409/130203_170086_1037_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
