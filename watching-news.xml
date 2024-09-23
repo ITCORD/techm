@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 23 Sep 2024 08:31:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Sep 2024 09:26:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 국내 대형 백화점들도 'AI' 적극 활용한다.. 업무 효율화에 편리한 쇼핑경험까지]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=130311</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=130311</guid>
+            <pubDate>Mon, 23 Sep 2024 09:26:33 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202409/130311_170287_1822_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 매드엔진 품은 위메이드, 신작 게임 라인업 대폭 확대한다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=130233</link>
@@ -110,14 +118,6 @@
             <pubDate>Sat, 31 Aug 2024 02:13:00 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202408/129509_168738_1247_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[게임코인TV] 게임스컴 시연 게임 중 붉은 사막이 1위?...출시가 기대되는 이유]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=129507</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=129507</guid>
-            <pubDate>Fri, 20 Sep 2024 03:25:51 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202408/129507_168736_340_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
