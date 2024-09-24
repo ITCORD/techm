@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 Sep 2024 07:26:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Sep 2024 08:29:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] AI 장소 에이전트로 진화하는 티맵, NEW 서비스 '어디갈까' 공개]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=130371</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=130371</guid>
+            <pubDate>Tue, 24 Sep 2024 08:29:18 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202409/130371_170373_5811_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 국내 대형 백화점들도 'AI' 적극 활용한다.. 업무 효율화에 편리한 쇼핑경험까지]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=130311</link>
@@ -110,14 +118,6 @@
             <pubDate>Fri, 20 Sep 2024 03:25:51 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202408/129521_168757_1559_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[게임코인TV] 'P의 거짓'보다 어렵다는 '퍼스트 버서커: 카잔'...게임스컴서 가능성 인정 받았다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=129509</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=129509</guid>
-            <pubDate>Sat, 31 Aug 2024 02:13:00 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202408/129509_168738_1247_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
