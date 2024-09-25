@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 Sep 2024 14:28:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Sep 2024 15:26:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -950,6 +950,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202409/130064_169786_1036_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[게임코인Tv] 매드엔진 품은 위메이드, 개발사로서의 존재감 UP (테크M ─ 보는 뉴스)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=130427</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=130427</guid>
+            <pubDate>Wed, 25 Sep 2024 15:26:11 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202409/130427_170500_5635_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[카드뉴스] KT X 지니뮤직, 캐나다의 가을을 즐길 'AI트래블뷰' 공개 (테크M ─ 보는 뉴스)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=130426</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=130426</guid>
@@ -1052,14 +1060,6 @@
             <pubDate>Fri, 20 Sep 2024 03:25:51 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202409/129661_168982_1041_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 전세계 게이머들의 페스티벌 'WCG2024'.. 올해 첫 해외진출 매우 성공적이다 (테크M ─ 보는 뉴스)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=129593</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=129593</guid>
-            <pubDate>Fri, 20 Sep 2024 03:25:51 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202409/129593_168894_231_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
