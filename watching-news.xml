@@ -4,11 +4,19 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 Sep 2024 08:30:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Sep 2024 09:23:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[[게임코인Tv] 매드엔진 품은 위메이드, 개발사로서의 존재감 UP]]></title>
+            <title><![CDATA[[카드뉴스] 아시아 최대규모 '도쿄게임쇼 2024' 개막.. 국내 게임사들 신작 공개에 주력]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=130475</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=130475</guid>
+            <pubDate>Thu, 26 Sep 2024 09:23:47 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202409/130475_170575_4556_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[게임코인TV] 매드엔진 품은 위메이드, 개발사로서의 존재감 UP]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=130427</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=130427</guid>
             <pubDate>Wed, 25 Sep 2024 15:26:11 GMT</pubDate>
@@ -110,14 +118,6 @@
             <pubDate>Fri, 20 Sep 2024 03:25:51 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202409/129718_169113_3336_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 네이버페이 '월렛' 공개.. 디지털 가상자산 지갑으로 다양한 콘텐츠를 경험한다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=129661</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=129661</guid>
-            <pubDate>Fri, 20 Sep 2024 03:25:51 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202409/129661_168982_1041_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
