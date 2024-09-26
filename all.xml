@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 Sep 2024 03:28:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Sep 2024 04:27:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['도쿄게임쇼 2024' 개막...미공개 신작부터 특별 방송까지 韓 게임사 '출격' (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=130441</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=130441</guid>
+            <pubDate>Thu, 26 Sep 2024 04:23:50 GMT</pubDate>
+            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202409/130441_170525_723_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[도쿄에 디지털 인프라 구축해볼까...에퀴닉스 플랫폼에서 클릭만 하면 10분 만에 '뚝딱' (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=130442</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=130442</guid>
+            <pubDate>Thu, 26 Sep 2024 00:49:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202409/130442_170528_4352_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[성수기 앞두고 만두 시장 '후끈'...갈비찜부터 카레까지 차별화로 '승부수' (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=130434</link>
@@ -152,22 +168,6 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202409/130422_170477_2053_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA["외국인이 봐도 재미있는 '흑백요리사'"...넷플릭스, '지옥'·'오징어 게임' 시즌2로 흥행 잇는다 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=130416</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=130416</guid>
-            <pubDate>Wed, 25 Sep 2024 09:21:23 GMT</pubDate>
-            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202409/130416_170470_4943_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전국을 달리는 더존비즈온, AI 통한 세무혁신 보여준 로드쇼 첫날 '성황' (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=130421</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=130421</guid>
-            <pubDate>Wed, 25 Sep 2024 08:29:15 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202409/130421_170476_1519_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA['블소' 신규 서버 'BNS NEO' 콘텐츠 순차 공개...내달 16일 서비스 시작 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=130439</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=130439</guid>
@@ -280,6 +280,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202409/130392_170416_3610_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[도쿄에 디지털 인프라 구축해볼까...에퀴닉스 플랫폼에서 클릭만 하면 10분 만에 '뚝딱' (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=130442</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=130442</guid>
+            <pubDate>Thu, 26 Sep 2024 00:49:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202409/130442_170528_4352_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[삼성전자, 헬스케어 솔루션 개발도구 공개...혁신 가속화 꾀한다 (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=130433</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=130433</guid>
@@ -382,14 +390,6 @@
             <pubDate>Wed, 25 Sep 2024 11:15:00 GMT</pubDate>
             <content:encoded><![CDATA[조성준 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202409/130394_170419_1524_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LG전자, '하프코 2024'서 공간 맞춤형 '냉난방공조 솔루션' 선보인다 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=130387</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=130387</guid>
-            <pubDate>Wed, 25 Sep 2024 11:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[배수현 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202409/130387_170409_2353_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[타봤다] 심야에 강남서 카카오T로 '자율주행차' 무료 호출...혁신·안전·상생 다 챙긴다 (테크M ─ 이노베이션)]]></title>
@@ -699,7 +699,7 @@
             <title><![CDATA[[부고] 고두영(롯데이노베이트 대표)씨 본인상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Thu, 26 Sep 2024 03:26:59 GMT</pubDate>
+            <pubDate>Thu, 26 Sep 2024 04:26:06 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
         </item>
         <item>
@@ -722,7 +722,7 @@
             <title><![CDATA[[부고] 이태현(콘텐츠웨이브 대표이사)씨 모친상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Thu, 26 Sep 2024 03:26:59 GMT</pubDate>
+            <pubDate>Thu, 26 Sep 2024 04:26:06 GMT</pubDate>
             <content:encoded><![CDATA[임경호 기자]]></content:encoded>
         </item>
         <item>
