@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 Sep 2024 11:23:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Sep 2024 12:41:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[게임코인TV] 그거 알아? 위믹스 플레이가 완전히 달라졌데!]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=130483</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=130483</guid>
+            <pubDate>Thu, 26 Sep 2024 12:41:10 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202409/130483_170607_2720_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 아시아 최대규모 '도쿄게임쇼 2024' 개막.. 국내 게임사들 신작 공개에 주력]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=130475</link>
@@ -110,14 +118,6 @@
             <pubDate>Fri, 20 Sep 2024 03:25:51 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202409/129790_169239_4815_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] KT도 'IFA2024'에 뜬다...AI기술력 알리고 파트너사 해외진출 적극 지원할 것]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=129718</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=129718</guid>
-            <pubDate>Fri, 20 Sep 2024 03:25:51 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202409/129718_169113_3336_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
