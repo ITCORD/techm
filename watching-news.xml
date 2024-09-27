@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 Sep 2024 08:27:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Sep 2024 09:24:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 삼성전자 '스마트싱스' 이제는 차량에도 적용.. 무한한 확장가능성에 주목하라]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=130519</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=130519</guid>
+            <pubDate>Fri, 27 Sep 2024 09:24:09 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202409/130519_170659_438_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[게임코인TV] 게임이 잘되면 위믹스도 오른다?...위메이드 박관호 회장이 꿈꾸는 토큰 생태계]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=130513</link>
@@ -110,14 +118,6 @@
             <pubDate>Fri, 20 Sep 2024 03:25:51 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202409/129924_169520_166_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] KBW2024, 전세계 블록체인 전문가들의 강연들과 수많은 이벤트까지.. '열기가 후끈']]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=129847</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=129847</guid>
-            <pubDate>Fri, 20 Sep 2024 03:25:51 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202409/129847_169337_1825_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
