@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 Sep 2024 07:24:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Sep 2024 08:33:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 카카오모빌리티가 선보인 서울 최초 자율주행차..."내년엔 100대 규모로 운영할 것"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=130588</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=130588</guid>
+            <pubDate>Mon, 30 Sep 2024 08:33:28 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202409/130588_170813_1514_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 삼성전자 '스마트싱스' 이제는 차량에도 적용.. 무한한 확장가능성에 주목하라]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=130519</link>
@@ -110,14 +118,6 @@
             <pubDate>Fri, 20 Sep 2024 03:25:51 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202409/129965_169592_1846_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] LG유플러스, U+tv에 AI 익시를 더해 'AIPTV' 시대로 향한다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=129924</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=129924</guid>
-            <pubDate>Fri, 20 Sep 2024 03:25:51 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202409/129924_169520_166_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
