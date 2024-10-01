@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Oct 2024 03:05:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Oct 2024 03:41:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,6 +168,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202409/130588_170813_1514_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[카카오게임즈, '카카오 배틀그라운그' 국군의 날 기념 이벤트 (테크M ─ 콘텐츠)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=130599</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=130599</guid>
+            <pubDate>Tue, 01 Oct 2024 09:30:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202410/130599_170845_3038_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[템터뷰] 팀 스위니 에픽게임즈, 삼성에 "오토 블로커 꺼라"...美 연방법원 제소 예고 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=130593</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=130593</guid>
@@ -272,12 +280,12 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202409/130529_170686_4555_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[넥슨 FC온라인 '아이콘매치' 폭발적 관심...1시간만에 5만석 매진 (테크M ─ 콘텐츠)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=130521</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=130521</guid>
-            <pubDate>Fri, 27 Sep 2024 08:25:14 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202409/130521_170670_5231_v150.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[M360 APAC] 김우준 삼성전자 "AI 생산성 향상 위해선 근본적 변화 필요" (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=130607</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=130607</guid>
+            <pubDate>Tue, 01 Oct 2024 10:56:00 GMT</pubDate>
+            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202410/130607_170857_5546_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[M360 APAC] 마츠 그란리드 사무총장 "AI 기회는 단 한번 뿐...모든 언어 포용하는 AI 중요" (테크M ─ 인프라)]]></title>
@@ -384,12 +392,12 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202409/130569_170792_3346_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[AI 드라이브 거는 김연수호 한컴...AI가 초안 작성해주는 '한컴독스 AI' 출시 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=130566</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=130566</guid>
-            <pubDate>Mon, 30 Sep 2024 11:30:00 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202409/130566_170788_2817_v150.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[써봤다] 미리 만나본 '에어팟4' 노이즈 캔슬링, 사지 않을 이유가 없다 (테크M ─ 이노베이션)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=130600</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=130600</guid>
+            <pubDate>Tue, 01 Oct 2024 11:10:00 GMT</pubDate>
+            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202410/130600_170853_382_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[다날핀테크 '페이코인', 리투아니라 진출...로드맵 공개 (테크M ─ 이노베이션)]]></title>
@@ -494,14 +502,6 @@
             <pubDate>Fri, 27 Sep 2024 10:29:00 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202409/130492_170618_599_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[두나무, 케이뱅크·BC카드와 디지털 금융서비스 협력한다 (테크M ─ 이노베이션)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=130491</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=130491</guid>
-            <pubDate>Fri, 27 Sep 2024 10:13:00 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202409/130491_170617_5457_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[크립토 월간 브리핑] 美 금리인하·中 경기부양에...9월 하락 징크스 깬 비트코인 (테크M ─ 인베스트먼트)]]></title>
