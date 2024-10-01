@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Oct 2024 22:24:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Oct 2024 23:24:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -280,6 +280,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202409/130532_170698_2016_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[써봤다] 너 때문에 아이폰 쓴다...10년의 진화 '애플워치 시리즈 10' (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=130619</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=130619</guid>
+            <pubDate>Wed, 02 Oct 2024 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202410/130619_170886_170_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[M360 APAC] 스티븐 무어 "3G 기지국 폐쇄시 에너지 절감 효과...넷제로 관점에서 3G 종료 앞당겨야" (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=130610</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=130610</guid>
@@ -382,14 +390,6 @@
             <pubDate>Mon, 30 Sep 2024 11:53:00 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202409/130571_170796_5148_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LG CNS, 산학협력으로 'DX 인재' 확보 나선다...채용 연계형 계약학과 신입생 모집 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=130570</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=130570</guid>
-            <pubDate>Mon, 30 Sep 2024 11:40:00 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202409/130570_170793_3811_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[써봤다] 미리 만나본 '에어팟4' 노이즈 캔슬링, 사지 않을 이유가 없다 (테크M ─ 이노베이션)]]></title>
@@ -715,7 +715,7 @@
             <title><![CDATA[[부고] 고두영(롯데이노베이트 대표)씨 본인상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Tue, 01 Oct 2024 22:22:39 GMT</pubDate>
+            <pubDate>Tue, 01 Oct 2024 23:22:11 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
         </item>
         <item>
