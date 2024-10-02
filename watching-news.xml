@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Oct 2024 10:28:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Oct 2024 11:20:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 현대인 필수 앱 '길찾기'... AI와 함께 생활 플랫폼으로 '진화']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=130646</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=130646</guid>
+            <pubDate>Wed, 02 Oct 2024 11:20:35 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202410/130646_170938_3420_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 카카오모빌리티가 선보인 서울 최초 자율주행차..."내년엔 100대 규모로 운영할 것"]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=130588</link>
@@ -110,14 +118,6 @@
             <pubDate>Fri, 20 Sep 2024 03:25:51 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202409/130004_169690_81_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 게임의 메카, 판교에서 열린 'GXG2024'.. 게임을 문화예술로 풀어내다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=129965</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=129965</guid>
-            <pubDate>Fri, 20 Sep 2024 03:25:51 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202409/129965_169592_1846_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
