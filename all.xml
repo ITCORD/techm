@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Oct 2024 11:20:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Oct 2024 12:44:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,6 +168,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202410/130628_170905_2035_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[엔씨소프트, 물적 분할 마무리...엔씨QA·엔씨IDS 설립 (테크M ─ 콘텐츠)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=130647</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=130647</guid>
+            <pubDate>Wed, 02 Oct 2024 11:16:35 GMT</pubDate>
+            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202410/130647_170955_5354_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[지피유엔 신작 '테라리움' 쇼케이스...서브컬처 전문 개발사로 발돋움 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=130642</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=130642</guid>
@@ -181,7 +189,7 @@
             <guid>https://www.techm.kr/news/articleView.html?idxno=130634</guid>
             <pubDate>Wed, 02 Oct 2024 06:28:17 GMT</pubDate>
             <content:encoded><![CDATA[임경호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202410/130634_170914_2531_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202410/130634_170949_4039_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['저니 오브 모나크' 예약자 100만명 돌파...'리니지+키우기' 조합 기대감 커진다 (테크M ─ 콘텐츠)]]></title>
@@ -197,7 +205,7 @@
             <guid>https://www.techm.kr/news/articleView.html?idxno=130635</guid>
             <pubDate>Wed, 02 Oct 2024 06:28:17 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202410/130635_170917_3521_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202410/130635_170951_4210_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[크래프톤, 팰월드 IP 라이선스 따냈다...모바일 팰월드 개발 착수 (테크M ─ 콘텐츠)]]></title>
@@ -270,14 +278,6 @@
             <pubDate>Mon, 30 Sep 2024 08:27:25 GMT</pubDate>
             <content:encoded><![CDATA[임경호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202409/130587_170812_597_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[게임정책포럼 닻 띄웠다..."국회의원 10명 중 1명은 포럼 회원" (테크M ─ 콘텐츠)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=130578</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=130578</guid>
-            <pubDate>Mon, 30 Sep 2024 08:27:25 GMT</pubDate>
-            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202409/130578_170828_135_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[M360 APAC] GSMA "3G 종료는 전세계 트렌드...긍정적인 효과 더 많다" (테크M ─ 인프라)]]></title>
@@ -954,7 +954,7 @@
             <title><![CDATA[[카드뉴스] 현대인 필수 앱 '길찾기'... AI와 함께 생활 플랫폼으로 '진화' (테크M ─ 보는 뉴스)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=130646</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=130646</guid>
-            <pubDate>Wed, 02 Oct 2024 11:20:35 GMT</pubDate>
+            <pubDate>Wed, 02 Oct 2024 11:16:35 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202410/130646_170938_3420_v150.jpg" length="0" type="image/jpg"/>
         </item>
