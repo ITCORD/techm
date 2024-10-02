@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Oct 2024 05:25:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Oct 2024 06:33:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,6 +168,30 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202409/130592_170827_14_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[게임 산업 넘어 영역 넓히는 유니티코리아 "전년比 60% ↑...엔드 투 엔드 솔루션 목표" (테크M ─ 콘텐츠)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=130634</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=130634</guid>
+            <pubDate>Wed, 02 Oct 2024 06:28:17 GMT</pubDate>
+            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202410/130634_170914_2531_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['저니 오브 모나크' 예약자 100만명 돌파...'리니지+키우기' 조합 기대감 커진다 (테크M ─ 콘텐츠)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=130630</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=130630</guid>
+            <pubDate>Wed, 02 Oct 2024 06:28:17 GMT</pubDate>
+            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202410/130630_170919_4627_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[3Q도 어닝서프라이즈 앞둔 크래프톤...올해 순익 1조 넘긴다 (테크M ─ 콘텐츠)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=130635</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=130635</guid>
+            <pubDate>Wed, 02 Oct 2024 06:28:17 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202410/130635_170917_3521_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[크래프톤, 팰월드 IP 라이선스 따냈다...모바일 팰월드 개발 착수 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=130632</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=130632</guid>
@@ -254,30 +278,6 @@
             <pubDate>Mon, 30 Sep 2024 06:29:02 GMT</pubDate>
             <content:encoded><![CDATA[임경호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202409/130575_170800_4039_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[넷마블조정선수단, 서울시장배 장애인조정대회서 11개 메달 쾌거 (테크M ─ 콘텐츠)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=130573</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=130573</guid>
-            <pubDate>Mon, 30 Sep 2024 05:19:56 GMT</pubDate>
-            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202409/130573_170798_5853_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[PWS 통신] PGC 진출 시동건 다나와, 오랜만에 주차 우승...'로키'도 완벽 부활 (테크M ─ 콘텐츠)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=130546</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=130546</guid>
-            <pubDate>Sun, 29 Sep 2024 15:19:37 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202409/130546_170750_1623_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[PMPS 통신] 과거 영광 재연 성공?...농심, 공격력 살아나며 페이즈3 우승 (테크M ─ 콘텐츠)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=130545</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=130545</guid>
-            <pubDate>Sun, 29 Sep 2024 13:21:39 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202409/130545_170748_2315_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[M360 APAC] GSMA "전 세계 비즈니스 성공 위해 AI·네트워크 연결 머리 맞대야" (테크M ─ 인프라)]]></title>
@@ -392,6 +392,22 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202409/130592_170827_14_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA["카카오T 때리면 해외기업 웃는다" 공정위 철퇴에 카카오모빌리티 억울한 이유 (테크M ─ 이노베이션)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=130638</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=130638</guid>
+            <pubDate>Wed, 02 Oct 2024 06:29:42 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202410/130638_170925_5815_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[억울한 카카오모빌리티 "공정위 700억대 과징금 유감...행정소송 예고" (테크M ─ 이노베이션)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=130636</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=130636</guid>
+            <pubDate>Wed, 02 Oct 2024 06:29:42 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202410/130636_170918_4526_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[써봤다] 미리 만나본 '에어팟4' 노이즈 캔슬링, 사지 않을 이유가 없다 (테크M ─ 이노베이션)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=130600</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=130600</guid>
@@ -486,22 +502,6 @@
             <pubDate>Fri, 27 Sep 2024 10:31:00 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202409/130496_170621_2351_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[메타갤럭시아, '호텔 숙박 예약권 NFT' 발행...연말 성수기 최저가 (테크M ─ 이노베이션)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=130495</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=130495</guid>
-            <pubDate>Fri, 27 Sep 2024 10:30:00 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202409/130495_170620_1923_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[네이버클라우드 컨소시엄, 과기정통부 'AI반도체 팜 구축 및 실증' 순항 (테크M ─ 이노베이션)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=130492</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=130492</guid>
-            <pubDate>Fri, 27 Sep 2024 10:29:00 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202409/130492_170618_599_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[9월 하락 징크스 깬 가상자산 시장...10월 '업토버' 이어 연말 상승세 보여줄까 (테크M ─ 인베스트먼트)]]></title>
@@ -715,7 +715,7 @@
             <title><![CDATA[[부고] 고두영(롯데이노베이트 대표)씨 본인상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Wed, 02 Oct 2024 05:24:00 GMT</pubDate>
+            <pubDate>Wed, 02 Oct 2024 06:30:14 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
         </item>
         <item>
