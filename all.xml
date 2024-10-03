@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Oct 2024 05:25:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Oct 2024 06:31:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -280,6 +280,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202409/130587_170812_597_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[LG유플러스, 하늘 누비는 드론으로 섬지역 고객에게 스마트폰 전한다 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=130653</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=130653</guid>
+            <pubDate>Thu, 03 Oct 2024 10:28:00 GMT</pubDate>
+            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202410/130653_170966_2630_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[LG전자의 '엑스붐' 알리기에 전 세계 거리음악가 뭉쳤다 (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=130652</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=130652</guid>
@@ -382,14 +390,6 @@
             <pubDate>Wed, 02 Oct 2024 10:50:00 GMT</pubDate>
             <content:encoded><![CDATA[배수현 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202410/130627_170903_1414_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유미영 삼성전자 부사장 "가전 혁신, AI·소프트웨어로 이룬다" (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=130626</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=130626</guid>
-            <pubDate>Wed, 02 Oct 2024 10:19:00 GMT</pubDate>
-            <content:encoded><![CDATA[배수현 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202410/130626_170902_820_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["카카오T 때리면 해외기업 웃는다" 공정위 철퇴에 카카오모빌리티 억울한 이유 (테크M ─ 이노베이션)]]></title>
@@ -715,7 +715,7 @@
             <title><![CDATA[[부고] 고두영(롯데이노베이트 대표)씨 본인상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Thu, 03 Oct 2024 05:23:06 GMT</pubDate>
+            <pubDate>Thu, 03 Oct 2024 06:30:33 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
         </item>
         <item>
