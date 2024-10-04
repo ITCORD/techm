@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Oct 2024 07:23:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Oct 2024 08:29:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,6 +168,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202410/130669_170989_3240_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[컴투스, 공식 브랜드 스토어 개편...해외 유통망 재편·UX 고도화 (테크M ─ 콘텐츠)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=130690</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=130690</guid>
+            <pubDate>Fri, 04 Oct 2024 08:26:18 GMT</pubDate>
+            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202410/130690_171042_3135_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[크래프톤, 오프라인 경험 확장 박차...'PUBG 성수' 치맥파티 연다 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=130686</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=130686</guid>
@@ -270,14 +278,6 @@
             <pubDate>Wed, 02 Oct 2024 10:50:00 GMT</pubDate>
             <content:encoded><![CDATA[임경호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202410/130621_170906_2731_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[테크M 이슈] 글로벌 향하는 엔씨소프트 TL, 북미서 웃었다...동접자 30만 '돌파' (테크M ─ 콘텐츠)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=130629</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=130629</guid>
-            <pubDate>Wed, 02 Oct 2024 10:18:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202410/130629_170904_180_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["디지털 포용성 키우자"...카카오, 복지부와 '시니어 디지털 스쿨' 맞손 (테크M ─ 인프라)]]></title>
@@ -715,7 +715,7 @@
             <title><![CDATA[[부고] 고두영(롯데이노베이트 대표)씨 본인상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Fri, 04 Oct 2024 05:24:42 GMT</pubDate>
+            <pubDate>Fri, 04 Oct 2024 08:28:07 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
         </item>
         <item>
@@ -772,7 +772,7 @@
             <guid>https://www.techm.kr/news/articleView.html?idxno=130648</guid>
             <pubDate>Thu, 03 Oct 2024 09:56:00 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202410/130648_170957_4020_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202410/130648_171055_2415_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["결국 중요한 것은 소비자 경험"...스타필드 마켓, 고객-매출-체류시간 큰 폭 중가 (테크M ─ 라이프)]]></title>
