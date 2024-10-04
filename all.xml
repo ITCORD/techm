@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Oct 2024 11:22:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Oct 2024 12:43:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -317,7 +317,7 @@
             <guid>https://www.techm.kr/news/articleView.html?idxno=130682</guid>
             <pubDate>Fri, 04 Oct 2024 00:55:00 GMT</pubDate>
             <content:encoded><![CDATA[조성준 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202410/130682_171017_516_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202410/130682_171054_2354_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[LG유플러스, '셀프 결합' 서비스 강화...온라인으로 할인 신청까지 (테크M ─ 인프라)]]></title>
@@ -390,6 +390,14 @@
             <pubDate>Fri, 04 Oct 2024 05:51:00 GMT</pubDate>
             <content:encoded><![CDATA[배수현 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202410/130659_171001_325_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[테크M 리포트] '연매출 5조' LG CNS의 기업공개 추진...내년 상반기 최대어 시동거는 현신균 (테크M ─ 이노베이션)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=130698</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=130698</guid>
+            <pubDate>Fri, 04 Oct 2024 11:15:48 GMT</pubDate>
+            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202410/130698_171060_2917_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[케이뱅크, 포용금융 속도...서울·부산 소상공인 이자지원 보증서대출 출시 (테크M ─ 이노베이션)]]></title>
@@ -494,14 +502,6 @@
             <pubDate>Fri, 27 Sep 2024 09:21:10 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202409/130520_170666_4625_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[숏폼 키우는 네이버, 검색 전면에 '클립' 띄웠다 (테크M ─ 이노베이션)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=130506</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=130506</guid>
-            <pubDate>Fri, 27 Sep 2024 00:07:00 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202409/130506_170632_5734_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[LG CNS, 내년 상반기 상장 공식화...AI·클라우드·스마트팩토리 역량 높인다 (테크M ─ 인베스트먼트)]]></title>
@@ -954,7 +954,7 @@
             <title><![CDATA[[카드뉴스] 글로벌 게임산업 위기.. 인디게임사들은 생성형AI로 해결책 찾는다 (테크M ─ 보는 뉴스)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=130692</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=130692</guid>
-            <pubDate>Fri, 04 Oct 2024 11:22:47 GMT</pubDate>
+            <pubDate>Fri, 04 Oct 2024 11:15:48 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202410/130692_171043_409_v150.jpg" length="0" type="image/jpg"/>
         </item>
