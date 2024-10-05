@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 05 Oct 2024 03:27:42 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Oct 2024 04:27:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,6 +168,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202410/130681_171016_533_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['가을야구'도 티빙과 함께...승부 예측 이벤트에 '뷰잉파티' 즐긴다 (테크M ─ 콘텐츠)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=130706</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=130706</guid>
+            <pubDate>Sat, 05 Oct 2024 11:21:00 GMT</pubDate>
+            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202410/130706_171082_3154_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[롤드컵 브리핑] '韓 첫 내전' 젠지-한화생명 맞대결...T1, BLG와 격돌 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=130701</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=130701</guid>
@@ -270,14 +278,6 @@
             <pubDate>Wed, 02 Oct 2024 06:28:17 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202410/130635_170951_4210_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[크래프톤, 팰월드 IP 라이선스 따냈다...모바일 팰월드 개발 착수 (테크M ─ 콘텐츠)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=130632</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=130632</guid>
-            <pubDate>Wed, 02 Oct 2024 11:11:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202410/130632_170908_110_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[가봤다] 하남 스타필드에서 만난 상생 현장...소상공인 지원에 진심인 카카오페이 (테크M ─ 인프라)]]></title>
@@ -723,7 +723,7 @@
             <title><![CDATA[[부고] 고두영(롯데이노베이트 대표)씨 본인상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Sat, 05 Oct 2024 02:51:10 GMT</pubDate>
+            <pubDate>Sat, 05 Oct 2024 04:25:29 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
         </item>
         <item>
