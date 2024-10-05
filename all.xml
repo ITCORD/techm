@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 05 Oct 2024 01:27:02 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Oct 2024 02:52:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[크립토 주간 브리핑] '1보 후퇴' 비트코인, 전망은 '밝음'...통화량 확대·금리 인하 기대감↑ (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=130705</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=130705</guid>
+            <pubDate>Sat, 05 Oct 2024 11:22:00 GMT</pubDate>
+            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202410/130705_171079_5514_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['가을야구'도 티빙과 함께...승부 예측 이벤트에 '뷰잉파티' 즐긴다 (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=130706</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=130706</guid>
+            <pubDate>Sat, 05 Oct 2024 11:21:00 GMT</pubDate>
+            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202410/130706_171082_3154_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[글로벌] 메타, 주가 상승세에 힘입어 마크 저커버그 '세계 2위 갑부' 등극 (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=130704</link>
@@ -150,22 +166,6 @@
             <pubDate>Fri, 04 Oct 2024 11:54:00 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202410/130681_171016_533_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[하이브, 국립박물관문화재단과 손잡고 '달마중' 컬래버 14종 제품 출시 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=130680</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=130680</guid>
-            <pubDate>Fri, 04 Oct 2024 11:09:00 GMT</pubDate>
-            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202410/130680_171014_545_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['델리 상품'에 힘준 이마트...이번엔 '초저가 공습'으로 소비자 '유혹' (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=130678</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=130678</guid>
-            <pubDate>Fri, 04 Oct 2024 11:08:00 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202410/130678_171007_3348_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[롤드컵 브리핑] '韓 첫 내전' 젠지-한화생명 맞대결...T1, BLG와 격돌 (테크M ─ 콘텐츠)]]></title>
@@ -504,6 +504,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202409/130520_170666_4625_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[크립토 주간 브리핑] '1보 후퇴' 비트코인, 전망은 '밝음'...통화량 확대·금리 인하 기대감↑ (테크M ─ 인베스트먼트)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=130705</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=130705</guid>
+            <pubDate>Sat, 05 Oct 2024 11:22:00 GMT</pubDate>
+            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202410/130705_171079_5514_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[LG CNS, 내년 상반기 상장 공식화...AI·클라우드·스마트팩토리 역량 높인다 (테크M ─ 인베스트먼트)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=130697</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=130697</guid>
@@ -606,14 +614,6 @@
             <pubDate>Mon, 30 Sep 2024 08:42:00 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202409/130550_170765_3049_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[크립토 주간 브리핑] 9월 징크스는 없다...美 금리인하·中 경기부양에 비트코인 상승세 (테크M ─ 인베스트먼트)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=130530</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=130530</guid>
-            <pubDate>Sat, 28 Sep 2024 05:21:45 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202409/130530_170687_4738_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[마켓人싸] "덜어내고, 비워내고, 가볍게 하고"...무신사에 '새옷' 입힌 사람들 (테크M ─ 피플)]]></title>
@@ -723,7 +723,7 @@
             <title><![CDATA[[부고] 고두영(롯데이노베이트 대표)씨 본인상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Sat, 05 Oct 2024 01:26:05 GMT</pubDate>
+            <pubDate>Sat, 05 Oct 2024 02:51:10 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
         </item>
         <item>
