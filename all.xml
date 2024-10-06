@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 06 Oct 2024 04:27:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Oct 2024 05:22:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,6 +168,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202410/130689_171041_229_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[국정감사 'D-1'...사전심의·질병코드 등 상임위별 뜨거운 감자된 게임 이슈 (테크M ─ 콘텐츠)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=130696</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=130696</guid>
+            <pubDate>Sun, 06 Oct 2024 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202410/130696_171058_119_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[PWS 통신] "잠자던 호랑이가 깨어났다"...광동, 하루 2치킨으로 선두 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=130708</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=130708</guid>
@@ -270,14 +278,6 @@
             <pubDate>Wed, 02 Oct 2024 08:25:21 GMT</pubDate>
             <content:encoded><![CDATA[임경호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202410/130642_170931_272_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[게임 산업 넘어 영역 넓히는 유니티코리아 "전년比 60% ↑...엔드 투 엔드 솔루션 목표" (테크M ─ 콘텐츠)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=130634</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=130634</guid>
-            <pubDate>Wed, 02 Oct 2024 06:28:17 GMT</pubDate>
-            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202410/130634_170914_2531_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["삶을 편리하게 하는 AI 위해 노력"...삼성전자, 실리콘밸리서 테크 포럼 개최 (테크M ─ 인프라)]]></title>
@@ -723,7 +723,7 @@
             <title><![CDATA[[부고] 고두영(롯데이노베이트 대표)씨 본인상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Sun, 06 Oct 2024 04:25:35 GMT</pubDate>
+            <pubDate>Sun, 06 Oct 2024 05:20:05 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
         </item>
         <item>
