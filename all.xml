@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Oct 2024 09:27:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Oct 2024 10:27:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -332,7 +332,7 @@
             <guid>https://www.techm.kr/news/articleView.html?idxno=130738</guid>
             <pubDate>Mon, 07 Oct 2024 00:26:00 GMT</pubDate>
             <content:encoded><![CDATA[조성준 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202410/130738_171133_2543_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202410/130738_171160_2213_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[국감 2024] 최민희 과방위원장이 꼽은 국감 이슈는 OTT·통신·AI (테크M ─ 인프라)]]></title>
@@ -618,7 +618,7 @@
             <title><![CDATA[[부고] 김태규(방통위 부위원장)씨 장인상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Mon, 07 Oct 2024 09:26:01 GMT</pubDate>
+            <pubDate>Mon, 07 Oct 2024 10:25:23 GMT</pubDate>
             <content:encoded><![CDATA[조성준 기자]]></content:encoded>
         </item>
         <item>
@@ -950,6 +950,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202409/130451_170545_949_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[카드뉴스] 각자의 방식대로 DX에 힘쓰는 통신3사.. "디지털 강국으로 거듭날 것" (테크M ─ 보는 뉴스)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=130752</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=130752</guid>
+            <pubDate>Mon, 07 Oct 2024 10:27:02 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202410/130752_171146_550_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[카드뉴스] 글로벌 게임산업 위기.. 인디게임사들은 생성형AI로 해결책 찾는다 (테크M ─ 보는 뉴스)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=130692</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=130692</guid>
@@ -1052,14 +1060,6 @@
             <pubDate>Fri, 20 Sep 2024 03:25:51 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202409/130117_169882_4458_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 디지털 플랫폼 정부를 향해.. KT, 지자체 서비스에 AICT 적용한다 (테크M ─ 보는 뉴스)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=130067</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=130067</guid>
-            <pubDate>Fri, 20 Sep 2024 03:25:51 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202409/130067_169788_4521_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
