@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Oct 2024 03:00:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Oct 2024 03:32:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,6 +168,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202410/130698_171060_2917_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[넷마블, '나혼렙' 첫 오프라인 챔피언십 성료...우승에 '광광' (테크M ─ 콘텐츠)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=130731</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=130731</guid>
+            <pubDate>Mon, 07 Oct 2024 00:05:00 GMT</pubDate>
+            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202410/130731_171117_1830_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[호주 싱어송라이터 더 키드 라로이, 위버스 입점해 팬들과 만난다 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=130725</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=130725</guid>
@@ -221,7 +229,7 @@
             <guid>https://www.techm.kr/news/articleView.html?idxno=130696</guid>
             <pubDate>Sun, 06 Oct 2024 08:00:00 GMT</pubDate>
             <content:encoded><![CDATA[임경호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202410/130696_171058_119_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202410/130696_171122_655_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[PWS 통신] "잠자던 호랑이가 깨어났다"...광동, 하루 2치킨으로 선두 (테크M ─ 콘텐츠)]]></title>
@@ -270,14 +278,6 @@
             <pubDate>Fri, 04 Oct 2024 08:26:18 GMT</pubDate>
             <content:encoded><![CDATA[임경호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202410/130690_171042_3135_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[크래프톤, 오프라인 경험 확장 박차...'PUBG 성수' 치맥파티 연다 (테크M ─ 콘텐츠)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=130686</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=130686</guid>
-            <pubDate>Fri, 04 Oct 2024 06:28:03 GMT</pubDate>
-            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202410/130686_171040_430_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[국감 2024] 22대 국회 과방위 첫 검증 시작...이진숙·김영섭 등 증인 줄줄이 소환 (테크M ─ 인프라)]]></title>
@@ -392,12 +392,28 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202410/130670_170990_355_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[엑스플라, 에이셔와 전략적 파트너십...AI 기반 게임 개발 지원 프로그램 추진 (테크M ─ 이노베이션)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=130735</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=130735</guid>
+            <pubDate>Mon, 07 Oct 2024 00:05:00 GMT</pubDate>
+            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202410/130735_171120_4649_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["美 구글도 엄지척" 법률 AI 솔루션 BHSN, 라이징 스타로 '우뚝' (테크M ─ 이노베이션)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=130721</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=130721</guid>
+            <pubDate>Mon, 07 Oct 2024 10:06:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202410/130721_171107_62_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[테크M 리포트] '연매출 5조' LG CNS의 기업공개 추진...내년 상반기 최대어 시동거는 현신균 (테크M ─ 이노베이션)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=130698</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=130698</guid>
             <pubDate>Fri, 04 Oct 2024 11:15:48 GMT</pubDate>
             <content:encoded><![CDATA[조성준 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202410/130698_171060_2917_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202410/130698_171132_1216_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[케이뱅크, 포용금융 속도...서울·부산 소상공인 이자지원 보증서대출 출시 (테크M ─ 이노베이션)]]></title>
@@ -488,22 +504,6 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202409/130559_170773_610_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[길 찾고, 맛집 추천, 숏폼 등록까지...AI 통해 생활 밀착 진화하는 지도 앱 (테크M ─ 이노베이션)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=130534</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=130534</guid>
-            <pubDate>Sun, 29 Sep 2024 10:04:00 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202409/130534_170706_3324_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["통신비 논의 뒷전...단말기 가격만 올려"...제조사 겨눈 통신비 인하 목소리 (테크M ─ 이노베이션)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=130520</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=130520</guid>
-            <pubDate>Fri, 27 Sep 2024 09:21:10 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202409/130520_170666_4625_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[테크M 이슈] "시총 5조 회복" 반전 이뤄낸 엔씨소프트 TL, 글로벌 흥행 비결은 (테크M ─ 인베스트먼트)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=130732</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=130732</guid>
@@ -525,7 +525,7 @@
             <guid>https://www.techm.kr/news/articleView.html?idxno=130705</guid>
             <pubDate>Sat, 05 Oct 2024 11:22:00 GMT</pubDate>
             <content:encoded><![CDATA[임경호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202410/130705_171079_5514_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202410/130705_171123_710_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[LG CNS, 내년 상반기 상장 공식화...AI·클라우드·스마트팩토리 역량 높인다 (테크M ─ 인베스트먼트)]]></title>
@@ -565,7 +565,7 @@
             <guid>https://www.techm.kr/news/articleView.html?idxno=130625</guid>
             <pubDate>Wed, 02 Oct 2024 09:45:00 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202410/130625_170953_4258_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202410/130625_170900_4024_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[크립토 월간 브리핑] 美 금리인하·中 경기부양에...9월 하락 징크스 깬 비트코인 (테크M ─ 인베스트먼트)]]></title>
@@ -629,7 +629,7 @@
             <guid>https://www.techm.kr/news/articleView.html?idxno=130699</guid>
             <pubDate>Sat, 05 Oct 2024 09:39:00 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202410/130699_171063_4931_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202410/130699_171127_88_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[e스포츠人] '이노닉스' 나희주 "경기력 상승 고무적...PGC 꼭 가겠다" (테크M ─ 피플)]]></title>
@@ -781,7 +781,7 @@
             <guid>https://www.techm.kr/news/articleView.html?idxno=130648</guid>
             <pubDate>Thu, 03 Oct 2024 09:56:00 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202410/130648_171055_2415_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202410/130648_170957_4020_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["결국 중요한 것은 소비자 경험"...스타필드 마켓, 고객-매출-체류시간 큰 폭 중가 (테크M ─ 라이프)]]></title>
