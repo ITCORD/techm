@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Oct 2024 04:29:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Oct 2024 05:23:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -390,6 +390,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202410/130757_171163_566_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[쏘카 편도 서비스, 2030세대에 '인기' (테크M ─ 이노베이션)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=130775</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=130775</guid>
+            <pubDate>Tue, 08 Oct 2024 11:42:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202410/130775_171184_423_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[엑스플라, 에이셔와 전략적 파트너십...AI 기반 게임 개발 지원 프로그램 추진 (테크M ─ 이노베이션)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=130735</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=130735</guid>
@@ -492,14 +500,6 @@
             <pubDate>Mon, 30 Sep 2024 10:18:00 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202409/130561_170774_1119_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[카카오 AI 비전 나온다...내달 개발자 컨퍼런스 '이프카카오' 2024 개최 (테크M ─ 이노베이션)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=130559</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=130559</guid>
-            <pubDate>Mon, 30 Sep 2024 10:16:00 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202409/130559_170773_610_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[크립토 브리핑] 비트코인 나흘째 보합세...미국 CPI 촉각 (테크M ─ 인베스트먼트)]]></title>
@@ -624,7 +624,7 @@
             <title><![CDATA[[부고] 김태규(방통위 부위원장)씨 장인상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Tue, 08 Oct 2024 04:27:53 GMT</pubDate>
+            <pubDate>Tue, 08 Oct 2024 05:22:01 GMT</pubDate>
             <content:encoded><![CDATA[조성준 기자]]></content:encoded>
         </item>
         <item>
