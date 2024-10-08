@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Oct 2024 07:24:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Oct 2024 08:28:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] SDC2024에 등장한 옴니어스 '벨라'.. 가상 의류 착장과 AI모델 생성까지]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=130810</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=130810</guid>
+            <pubDate>Tue, 08 Oct 2024 08:28:41 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202410/130810_171240_524_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 각자의 방식대로 DX에 힘쓰는 통신3사.. "디지털 강국으로 거듭날 것"]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=130752</link>
@@ -110,14 +118,6 @@
             <pubDate>Fri, 20 Sep 2024 08:27:29 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202409/130233_170150_3036_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 100주년 맞이한 'IFA 2024'.. 삼성, LG, KT까지 AI 대전 펼쳤다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=130117</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=130117</guid>
-            <pubDate>Fri, 20 Sep 2024 03:25:51 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202409/130117_169882_4458_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
