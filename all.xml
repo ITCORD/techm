@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Oct 2024 01:29:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Oct 2024 03:00:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -166,6 +166,14 @@
             <content:encoded><![CDATA[조성준 기자]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA['TL' 글로벌, 이용자 300만 돌파...출시 일주일 '쾌진격' (테크M ─ 콘텐츠)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=130767</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=130767</guid>
+            <pubDate>Tue, 08 Oct 2024 10:43:00 GMT</pubDate>
+            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202410/130767_171177_352_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[국감 2024] "팬사인회 당첨 때문에 앨범 구매에 500만원" '음반 밀어내기' 관행 질타 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=130749</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=130749</guid>
@@ -270,12 +278,76 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202410/130706_171082_3154_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[롤드컵 브리핑] '韓 첫 내전' 젠지-한화생명 맞대결...T1, BLG와 격돌 (테크M ─ 콘텐츠)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=130701</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=130701</guid>
-            <pubDate>Sat, 05 Oct 2024 07:30:00 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202410/130701_171071_2024_v150.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[국감 2024] 과기정통부 "스테이지엑스 자본금 완납 문제는 필수조건...제4이통 다시 추진할 것" (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=130776</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=130776</guid>
+            <pubDate>Tue, 08 Oct 2024 11:50:00 GMT</pubDate>
+            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202410/130776_171186_4843_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[3분기 최대 매출 달성 'LG전자'...영업이익 감소는 '물류비·마케팅비' 때문(상보) (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=130773</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=130773</guid>
+            <pubDate>Tue, 08 Oct 2024 11:33:00 GMT</pubDate>
+            <content:encoded><![CDATA[배수현 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202410/130773_171183_2941_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[LG전자, 3분기 영업이익 7511억원...전년 동기 대비 20.9%↓(1보) (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=130772</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=130772</guid>
+            <pubDate>Tue, 08 Oct 2024 11:22:00 GMT</pubDate>
+            <content:encoded><![CDATA[배수현 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202410/130772_171182_219_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SKT, AI 기반 B2B 솔루션 'AI 클라우드 매니저' 출시...GPU 관리 노하우 녹여 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=130770</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=130770</guid>
+            <pubDate>Tue, 08 Oct 2024 11:12:00 GMT</pubDate>
+            <content:encoded><![CDATA[배수현 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202410/130770_171180_5855_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[KT, 보이스피싱 탐지 돕는 AI 기반 '에이전트·알림서비스' 개발 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=130771</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=130771</guid>
+            <pubDate>Tue, 08 Oct 2024 11:12:00 GMT</pubDate>
+            <content:encoded><![CDATA[배수현 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202410/130771_171181_85_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[삼성전자, 첫 AI폴더블 폰 '갤럭시Z 폴드6·플립6'...실적 견인은 '글쎄' (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=130765</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=130765</guid>
+            <pubDate>Tue, 08 Oct 2024 11:12:00 GMT</pubDate>
+            <content:encoded><![CDATA[배수현 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202410/130765_171179_536_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[멜론 "멜로디톡으로 찐사랑에 빠진 남자의 곡 들어보세요" (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=130769</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=130769</guid>
+            <pubDate>Tue, 08 Oct 2024 10:46:00 GMT</pubDate>
+            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202410/130769_171178_4550_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[네이버랩스 '공간지능' 기술, 유럽 학회서 1위 등극 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=130768</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=130768</guid>
+            <pubDate>Tue, 08 Oct 2024 10:36:00 GMT</pubDate>
+            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202410/130768_171176_3457_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[국감 2024] 유상임 과기정통부 장관 "통신비·디지털 현안 해결 최선 다할 것" (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=130766</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=130766</guid>
+            <pubDate>Tue, 08 Oct 2024 10:28:00 GMT</pubDate>
+            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202410/130766_171175_2716_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[국감 2024] 통신3사 관계자 모두 소환...통신비 국감 예고한 과방위 (테크M ─ 인프라)]]></title>
@@ -316,78 +388,6 @@
             <pubDate>Mon, 07 Oct 2024 15:23:13 GMT</pubDate>
             <content:encoded><![CDATA[배수현 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202410/130757_171163_566_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[국감 2024] 구글·페이스북 "과장·불법 광고 심각성 인지"...대응 지속할 것 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=130756</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=130756</guid>
-            <pubDate>Mon, 07 Oct 2024 13:28:30 GMT</pubDate>
-            <content:encoded><![CDATA[배수현 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202410/130756_171162_2935_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[국감 2024] 방통위 "청소년 관련 종합적 미디어 대책 마련하겠다" (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=130745</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=130745</guid>
-            <pubDate>Mon, 07 Oct 2024 07:21:41 GMT</pubDate>
-            <content:encoded><![CDATA[배수현 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202410/130745_171140_4952_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[국감 2024] 뒤늦게 국감 출석한 이진숙 방통위원장 "탄핵당하지 않았다면 신뢰도 하락 없었다" (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=130747</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=130747</guid>
-            <pubDate>Mon, 07 Oct 2024 07:21:41 GMT</pubDate>
-            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202410/130747_171142_592_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[클래스101, 150억원 규모 시리즈B 투자 유치...누적 투자금 790억원 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=130744</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=130744</guid>
-            <pubDate>Mon, 07 Oct 2024 06:28:21 GMT</pubDate>
-            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202410/130744_171138_203_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[게임인재단-성남시청소년재단 '제1회 성남시청소년게임개발대회' 성료 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=130742</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=130742</guid>
-            <pubDate>Mon, 07 Oct 2024 06:28:21 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202410/130742_171137_4848_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[국감 2024] 불출석 전달한 이진숙 방통위원장, 국감 나온다...김태규 직대, 장인상으로 이석 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=130739</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=130739</guid>
-            <pubDate>Mon, 07 Oct 2024 06:28:21 GMT</pubDate>
-            <content:encoded><![CDATA[배수현 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202410/130739_171134_301_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[국감 2024] 국감 출석한 김태규 방통위 직대, "AI 이용자보호법 제정·방송 산업 경쟁력 제고 집중" (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=130736</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=130736</guid>
-            <pubDate>Mon, 07 Oct 2024 00:27:00 GMT</pubDate>
-            <content:encoded><![CDATA[배수현 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202410/130736_171131_1112_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[국감 2024] 공정위, 가격담합 통신3사에 과징금 5.5조 추진...'불협화음' 논란 현실화 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=130738</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=130738</guid>
-            <pubDate>Mon, 07 Oct 2024 00:26:00 GMT</pubDate>
-            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202410/130738_171160_2213_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[국감 2024] 최민희 과방위원장이 꼽은 국감 이슈는 OTT·통신·AI (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=130737</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=130737</guid>
-            <pubDate>Mon, 07 Oct 2024 00:11:00 GMT</pubDate>
-            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202410/130737_171129_839_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[엑스플라, 에이셔와 전략적 파트너십...AI 기반 게임 개발 지원 프로그램 추진 (테크M ─ 이노베이션)]]></title>
@@ -624,7 +624,7 @@
             <title><![CDATA[[부고] 김태규(방통위 부위원장)씨 장인상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Tue, 08 Oct 2024 01:27:57 GMT</pubDate>
+            <pubDate>Tue, 08 Oct 2024 02:57:14 GMT</pubDate>
             <content:encoded><![CDATA[조성준 기자]]></content:encoded>
         </item>
         <item>
