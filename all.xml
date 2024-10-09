@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Oct 2024 11:24:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Oct 2024 12:41:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -392,6 +392,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202410/130814_171263_2758_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[노벨상 휩쓴 'AI 혁명' (테크M ─ 이노베이션)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=130828</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=130828</guid>
+            <pubDate>Wed, 09 Oct 2024 12:39:43 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202410/130828_171284_2349_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[LG전자, 로우스 '베스트 파트너' 선정...북미 가전시장 공략 성과 가시화 (테크M ─ 이노베이션)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=130826</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=130826</guid>
@@ -494,14 +502,6 @@
             <pubDate>Mon, 30 Sep 2024 06:29:02 GMT</pubDate>
             <content:encoded><![CDATA[이성우 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202409/130581_170805_416_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[카카오, 상생 사업 그룹 단위로 통합...'더 가깝게, 카카오'로 변화 꾀한다 (테크M ─ 이노베이션)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=130580</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=130580</guid>
-            <pubDate>Mon, 30 Sep 2024 06:29:02 GMT</pubDate>
-            <content:encoded><![CDATA[이성우 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202409/130580_170804_4251_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[시총 5조 꿈꾸는 케이뱅크, 수요예측 D-1...'모바일 뱅킹' 새 역사 쓸까 (테크M ─ 인베스트먼트)]]></title>
@@ -626,7 +626,7 @@
             <title><![CDATA[[부고] 김태규(방통위 부위원장)씨 장인상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Wed, 09 Oct 2024 11:22:28 GMT</pubDate>
+            <pubDate>Wed, 09 Oct 2024 12:40:12 GMT</pubDate>
             <content:encoded><![CDATA[조성준 기자]]></content:encoded>
         </item>
         <item>
