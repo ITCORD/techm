@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Oct 2024 08:31:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Oct 2024 09:24:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 통신사가 AI를 활용하는법.. SKT 'B2B 솔루션'과 KT '보이스피싱 탐지']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=130866</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=130866</guid>
+            <pubDate>Thu, 10 Oct 2024 09:24:44 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202410/130866_171363_442_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] SDC2024에 등장한 옴니어스 '벨라'.. 가상 의류 착장과 AI모델 생성까지]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=130810</link>
@@ -110,14 +118,6 @@
             <pubDate>Mon, 23 Sep 2024 09:26:33 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202409/130311_170287_1822_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 매드엔진 품은 위메이드, 신작 게임 라인업 대폭 확대한다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=130233</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=130233</guid>
-            <pubDate>Fri, 20 Sep 2024 08:27:29 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202409/130233_170150_3036_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
