@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Oct 2024 19:22:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Oct 2024 20:26:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,6 +168,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202410/130859_171335_1942_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[롤드컵 브리핑] 한화생명, 韓 두번째로 8강 진출...中에 약한 DK? TES에 패배 (테크M ─ 콘텐츠)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=130883</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=130883</guid>
+            <pubDate>Fri, 11 Oct 2024 01:36:00 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202410/130883_171396_3455_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[지스타 '지콘 2024' 시간표 공개...웹툰작가 김규삼·유튜버 '중년게이머 김실장' 추가 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=130880</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=130880</guid>
@@ -270,14 +278,6 @@
             <pubDate>Tue, 08 Oct 2024 08:25:17 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202410/130790_171214_2146_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['디아블로4' 신규 확장팩 '증오의 그릇' 출시...韓 스팀 순위 1위 '껑충' (테크M ─ 콘텐츠)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=130784</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=130784</guid>
-            <pubDate>Tue, 08 Oct 2024 08:25:17 GMT</pubDate>
-            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202410/130784_171207_415_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[국감 2024] 윤태양 삼성전자 CSO "방사능 피폭 책임 통감...재발 방지 나서겠다" (테크M ─ 인프라)]]></title>
@@ -634,7 +634,7 @@
             <title><![CDATA[[부고] 김태규(방통위 부위원장)씨 장인상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Thu, 10 Oct 2024 16:28:36 GMT</pubDate>
+            <pubDate>Thu, 10 Oct 2024 20:24:49 GMT</pubDate>
             <content:encoded><![CDATA[조성준 기자]]></content:encoded>
         </item>
         <item>
