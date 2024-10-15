@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Oct 2024 09:25:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Oct 2024 10:25:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 삼성과 LG는 '가전' SKT는 'UAM'.. AI를 통한 스마트한 변화에 집중]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=131013</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=131013</guid>
+            <pubDate>Tue, 15 Oct 2024 10:25:57 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202410/131013_171705_2940_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 2030년을 향해.. LG전자, 미래 시장에 대응할 4가지 주요 키워드에 주목하라]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=130971</link>
@@ -110,14 +118,6 @@
             <pubDate>Wed, 25 Sep 2024 15:26:11 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202409/130427_170500_5635_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] KT X 지니뮤직, 캐나다의 가을을 즐길 'AI트래블뷰' 공개]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=130426</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=130426</guid>
-            <pubDate>Wed, 25 Sep 2024 09:24:25 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202409/130426_170483_5825_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
