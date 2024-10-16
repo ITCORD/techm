@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Oct 2024 14:24:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Oct 2024 15:26:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -280,6 +280,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202410/130974_171647_2810_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[엔비디아, TSMC와 'AI 동맹' 흔들?...삼성 파운드리에 기회 오나 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=131059</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=131059</guid>
+            <pubDate>Wed, 16 Oct 2024 14:18:38 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202410/131059_171824_5510_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[김범수 카카오 2차 공판...시세 조정 전면 부인, 보석 심문에는 "답답한 상황 참작 부탁" (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=131057</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=131057</guid>
@@ -382,14 +390,6 @@
             <pubDate>Wed, 16 Oct 2024 10:15:00 GMT</pubDate>
             <content:encoded><![CDATA[배수현 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202410/131031_171752_453_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성전자, AI PC '갤럭시 북5 프로 360' 28일 국내 출시...갤럭시AI 경험 제공 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=131028</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=131028</guid>
-            <pubDate>Wed, 16 Oct 2024 10:14:00 GMT</pubDate>
-            <content:encoded><![CDATA[배수현 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202410/131028_171751_5527_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[크레더, 시큐센과 맞손...5개년 디지털보안 계획 수립해 RWA 신뢰성 강화 (테크M ─ 이노베이션)]]></title>
@@ -658,7 +658,7 @@
             <title><![CDATA[[부고] 김태규(방통위 부위원장)씨 장인상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Wed, 16 Oct 2024 14:21:35 GMT</pubDate>
+            <pubDate>Wed, 16 Oct 2024 15:23:42 GMT</pubDate>
             <content:encoded><![CDATA[조성준 기자]]></content:encoded>
         </item>
         <item>
