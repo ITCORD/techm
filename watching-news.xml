@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Oct 2024 07:24:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Oct 2024 08:30:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] '4분기를 향해'.. 국내 게임업계가 준비중인 신작들은?]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=131054</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=131054</guid>
+            <pubDate>Wed, 16 Oct 2024 08:30:14 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202410/131054_171788_4040_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 삼성과 LG는 '가전' SKT는 'UAM'.. AI를 통한 스마트한 변화에 집중]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=131013</link>
@@ -110,14 +118,6 @@
             <pubDate>Thu, 26 Sep 2024 09:23:47 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202409/130475_170575_4556_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[게임코인TV] 매드엔진 품은 위메이드, 개발사로서의 존재감 UP]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=130427</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=130427</guid>
-            <pubDate>Wed, 25 Sep 2024 15:26:11 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202409/130427_170500_5635_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
