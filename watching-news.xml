@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Oct 2024 14:26:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Oct 2024 15:25:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] NHN의 통합 협업 솔루션 '두레이'.. 강력한 보안체계를 넘어 AI까지 도입]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=131090</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=131090</guid>
+            <pubDate>Thu, 17 Oct 2024 15:25:53 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202410/131090_171868_389_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] '4분기를 향해'.. 국내 게임업계가 준비중인 신작들은?]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=131054</link>
@@ -110,14 +118,6 @@
             <pubDate>Thu, 26 Sep 2024 12:41:10 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202409/130483_170607_2720_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 아시아 최대규모 '도쿄게임쇼 2024' 개막.. 국내 게임사들 신작 공개에 주력]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=130475</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=130475</guid>
-            <pubDate>Thu, 26 Sep 2024 09:23:47 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202409/130475_170575_4556_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
