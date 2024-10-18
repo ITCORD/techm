@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Oct 2024 10:27:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Oct 2024 11:19:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 카카오게임즈 '카겜닷컴' 오픈.. 전세계 이용자들을 위한 플랫폼 구축했다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=131123</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=131123</guid>
+            <pubDate>Fri, 18 Oct 2024 11:19:48 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202410/131123_171934_314_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] NHN의 통합 협업 솔루션 '두레이'.. 강력한 보안체계를 넘어 AI까지 도입]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=131090</link>
@@ -110,14 +118,6 @@
             <pubDate>Fri, 27 Sep 2024 07:23:01 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202409/130513_170648_3516_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[게임코인TV] 그거 알아? 위믹스 플레이가 완전히 달라졌데!]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=130483</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=130483</guid>
-            <pubDate>Thu, 26 Sep 2024 12:41:10 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202409/130483_170607_2720_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
