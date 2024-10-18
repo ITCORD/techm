@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Oct 2024 05:23:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Oct 2024 06:31:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이마트만의 매입 노하우 빛났다...햇과일 '파격' 할인 판매 (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=131115</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=131115</guid>
+            <pubDate>Fri, 18 Oct 2024 06:27:42 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202410/131115_171920_744_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[수요예측 흥행 실패...케이뱅크, 상장 미룬다 (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=131116</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=131116</guid>
+            <pubDate>Fri, 18 Oct 2024 06:27:42 GMT</pubDate>
+            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202410/131116_171919_5538_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[효율 높이고, 범위 넓히고...유니티, 차세대 개발 엔진 '유니티 6' 출시 (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=131112</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=131112</guid>
+            <pubDate>Fri, 18 Oct 2024 06:27:42 GMT</pubDate>
+            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202410/131112_171916_424_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[IT박람회 넘어 복합 문화 행사 거듭나는 IFA...린트너 CEO "AI 지닌 강점에 대해 고민해야" (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=131111</link>
@@ -142,30 +166,6 @@
             <pubDate>Thu, 17 Oct 2024 10:20:53 GMT</pubDate>
             <content:encoded><![CDATA[임경호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202410/131095_171893_4843_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[국감 2024] 서태건 게임위원장 "게임물 내용수정 신고 제도 재검토...등급심사 민간 이양 단계별 추진" (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=131092</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=131092</guid>
-            <pubDate>Thu, 17 Oct 2024 09:20:49 GMT</pubDate>
-            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202410/131092_171879_2735_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[OLED 모니터 시장, 올해 181% 성장 전망...삼성 1위 자리 '굳건' (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=131094</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=131094</guid>
-            <pubDate>Thu, 17 Oct 2024 09:20:49 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202410/131094_171890_4136_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[3분기 글로벌 스마트폰 판매량 2% 증가하며 회복세...삼성전자 선두 지켜 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=131093</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=131093</guid>
-            <pubDate>Thu, 17 Oct 2024 09:20:49 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202410/131093_171880_2941_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[국감 2024] 문체위, 게임위에 쓴소리...게임 심의·규제 형평성·권한 이양 대거 도마에(종합) (테크M ─ 콘텐츠)]]></title>
@@ -658,7 +658,7 @@
             <title><![CDATA[[부고] 김태규(방통위 부위원장)씨 장인상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Fri, 18 Oct 2024 04:27:17 GMT</pubDate>
+            <pubDate>Fri, 18 Oct 2024 06:30:32 GMT</pubDate>
             <content:encoded><![CDATA[조성준 기자]]></content:encoded>
         </item>
         <item>
@@ -724,6 +724,22 @@
             <pubDate>Sun, 22 Sep 2024 17:16:47 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202409/130255_170210_5620_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[무신사가 손대면 매출 3배 '껑충'...패션 브랜드 미다스의 손 '급부상' (테크M ─ 라이프)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=131113</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=131113</guid>
+            <pubDate>Fri, 18 Oct 2024 06:30:49 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202410/131113_171917_5134_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이마트만의 매입 노하우 빛났다...햇과일 '파격' 할인 판매 (테크M ─ 라이프)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=131115</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=131115</guid>
+            <pubDate>Fri, 18 Oct 2024 06:30:49 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202410/131115_171920_744_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[니콘, '필름&포토 콘테스트 2024-2025' 응모작 모집 (테크M ─ 라이프)]]></title>
@@ -820,22 +836,6 @@
             <pubDate>Mon, 14 Oct 2024 11:08:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202410/130949_171570_834_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[카카오스타일 지그재그 '탑텐' 입점…SPA 라인업 확장 (테크M ─ 라이프)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=130937</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=130937</guid>
-            <pubDate>Mon, 14 Oct 2024 09:52:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202410/130937_171557_5211_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[컬리가 하니 뷰티도 달랐다...2만여 명 즐긴 뷰티축제 '컬리뷰티페스타' 성료 (테크M ─ 라이프)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=130936</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=130936</guid>
-            <pubDate>Mon, 14 Oct 2024 09:49:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202410/130936_171555_491_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[글로벌] 빅테크, 원자력 투자 가속화...구글, SMR 기업과 첫 계약 (테크M ─ 리포트)]]></title>
