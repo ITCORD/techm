@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Oct 2024 07:26:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Oct 2024 08:32:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] LG유플러스, '통신 + AI로 이루는 혁신'.. AX 컴퍼니로 성장한다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=131191</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=131191</guid>
+            <pubDate>Mon, 21 Oct 2024 08:32:07 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202410/131191_172106_3255_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 카카오게임즈 '카겜닷컴' 오픈.. 전세계 이용자들을 위한 플랫폼 구축했다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=131123</link>
@@ -110,14 +118,6 @@
             <pubDate>Fri, 27 Sep 2024 09:24:09 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202409/130519_170659_438_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[게임코인TV] 게임이 잘되면 위믹스도 오른다?...위메이드 박관호 회장이 꿈꾸는 토큰 생태계]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=130513</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=130513</guid>
-            <pubDate>Fri, 27 Sep 2024 07:23:01 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202409/130513_170648_3516_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
