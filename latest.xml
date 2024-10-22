@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Oct 2024 15:29:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Oct 2024 16:30:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[자이텍스 2024 참관기] 중국과 파키스탄의 약진에 주목하라...중동 최대 관심사는 '디지털시티']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=131244</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=131244</guid>
+            <pubDate>Tue, 22 Oct 2024 16:25:11 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202410/131244_172221_209_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[KES 2024] KT, '시큐어 퍼블릭 클라우드'로 AI주권 철통 보안]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=131238</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 22 Oct 2024 05:19:44 GMT</pubDate>
             <content:encoded><![CDATA[조성준 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202410/131221_172164_397_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에이닷 PC버전 나왔다...SKT, '멀티 LLM 에이전트' 출시]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=131220</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=131220</guid>
-            <pubDate>Tue, 22 Oct 2024 05:19:44 GMT</pubDate>
-            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202410/131220_172163_299_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
