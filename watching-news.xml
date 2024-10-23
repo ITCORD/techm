@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Oct 2024 23:25:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Oct 2024 01:32:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 삼성SDS, 'IT + 물류'로 성공적인 솔루션을 제공하는 GCC.. ESG에 앞장서다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=131240</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=131240</guid>
+            <pubDate>Wed, 23 Oct 2024 01:32:04 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202410/131240_172194_1539_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] LG유플러스, '통신 + AI로 이루는 혁신'.. AX 컴퍼니로 성장한다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=131191</link>
@@ -110,14 +118,6 @@
             <pubDate>Mon, 30 Sep 2024 08:33:28 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202409/130588_170813_1514_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 삼성전자 '스마트싱스' 이제는 차량에도 적용.. 무한한 확장가능성에 주목하라]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=130519</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=130519</guid>
-            <pubDate>Fri, 27 Sep 2024 09:24:09 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202409/130519_170659_438_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
