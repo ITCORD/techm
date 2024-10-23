@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Oct 2024 08:27:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Oct 2024 09:25:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 대체불가능한 연결을 강조한 카카오.. 가장 나다운 AI '카나나' 공개]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=131280</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=131280</guid>
+            <pubDate>Wed, 23 Oct 2024 09:25:44 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202410/131280_172270_655_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 삼성SDS, 'IT + 물류'로 성공적인 솔루션을 제공하는 GCC.. ESG에 앞장서다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=131240</link>
@@ -110,14 +118,6 @@
             <pubDate>Wed, 02 Oct 2024 11:20:35 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202410/130646_170938_3420_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 카카오모빌리티가 선보인 서울 최초 자율주행차..."내년엔 100대 규모로 운영할 것"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=130588</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=130588</guid>
-            <pubDate>Mon, 30 Sep 2024 08:33:28 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202409/130588_170813_1514_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
