@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Oct 2024 08:32:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Oct 2024 09:26:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 글로벌 행사에서 선보인 'Q9, 한컴AI, ERP솔루션'.. 국내기업들 해외진출 '활발']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=131327</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=131327</guid>
+            <pubDate>Thu, 24 Oct 2024 09:26:29 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202410/131327_172347_5545_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 대체불가능한 연결을 강조한 카카오.. 가장 나다운 AI '카나나' 공개]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=131280</link>
@@ -110,14 +118,6 @@
             <pubDate>Fri, 04 Oct 2024 11:22:47 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202410/130692_171043_409_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 현대인 필수 앱 '길찾기'... AI와 함께 생활 플랫폼으로 '진화']]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=130646</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=130646</guid>
-            <pubDate>Wed, 02 Oct 2024 11:20:35 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202410/130646_170938_3420_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
