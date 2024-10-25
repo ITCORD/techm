@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Oct 2024 07:25:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Oct 2024 08:29:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] PC 콘솔 강자 넥슨.. 신작 '아크레이더스'와 '프로젝트 DW' 나온다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=131380</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=131380</guid>
+            <pubDate>Fri, 25 Oct 2024 08:29:40 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202410/131380_172446_2918_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 글로벌 행사에서 선보인 'Q9, 한컴AI, ERP솔루션'.. 국내기업들 해외진출 '활발']]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=131327</link>
@@ -110,14 +118,6 @@
             <pubDate>Mon, 07 Oct 2024 10:27:02 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202410/130752_171146_550_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 글로벌 게임산업 위기.. 인디게임사들은 생성형AI로 해결책 찾는다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=130692</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=130692</guid>
-            <pubDate>Fri, 04 Oct 2024 11:22:47 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202410/130692_171043_409_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
