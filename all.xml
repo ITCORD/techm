@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Oct 2024 16:30:21 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Oct 2024 17:24:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,10 +168,18 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202410/131389_172478_336_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[롤드컵 브리핑] '젠지 공포증 극복 완료' T1, 2연속 결승진출!...'페이커' 활약 돋보였다 (테크M ─ 콘텐츠)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=131408</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=131408</guid>
+            <pubDate>Mon, 28 Oct 2024 01:25:00 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202410/131408_172532_2553_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['2024 쿠림픽' 결승 3대 2 접전...김건우, '최강의 쿠키 러너' 등극 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=131406</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=131406</guid>
-            <pubDate>Sun, 27 Oct 2024 16:23:08 GMT</pubDate>
+            <pubDate>Sun, 27 Oct 2024 16:22:48 GMT</pubDate>
             <content:encoded><![CDATA[임경호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202410/131406_172523_2741_v150.jpg" length="0" type="image/jpg"/>
         </item>
@@ -179,7 +187,7 @@
             <title><![CDATA[[PGS 통신] 결국 '노치킨' 9위로 마무리한 광동...젠지 '유종의 미' 거두며 11위 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=131407</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=131407</guid>
-            <pubDate>Sun, 27 Oct 2024 16:23:08 GMT</pubDate>
+            <pubDate>Sun, 27 Oct 2024 16:22:48 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202410/131407_172527_1123_v150.jpg" length="0" type="image/jpg"/>
         </item>
@@ -270,14 +278,6 @@
             <pubDate>Fri, 25 Oct 2024 10:19:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202410/131349_172399_198_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[데브시스터즈 쿠키런:모험의 탑, 부산 지스타 '출전' (테크M ─ 콘텐츠)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=131346</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=131346</guid>
-            <pubDate>Fri, 25 Oct 2024 10:07:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202410/131346_172396_753_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[삼성, 19개 관계사 GSAT 실시..."성별·학력 차별 없이 우수 인재 선발" (테크M ─ 인프라)]]></title>
@@ -616,6 +616,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202410/131256_172230_195_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[e스포츠人] 광동 김성민 감독 "소통이 문제...빠르게 해결하겠다" (테크M ─ 피플)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=131409</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=131409</guid>
+            <pubDate>Mon, 28 Oct 2024 01:02:00 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202410/131409_172531_232_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[e스포츠人] '살루트' 우제현 "치킨 못가져가는 이유? 불운 아닌 실력 부족" (테크M ─ 피플)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=131402</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=131402</guid>
@@ -698,7 +706,7 @@
             <title><![CDATA[[부고] 김태규(방통위 부위원장)씨 장인상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Sun, 27 Oct 2024 14:22:51 GMT</pubDate>
+            <pubDate>Sun, 27 Oct 2024 17:21:01 GMT</pubDate>
             <content:encoded><![CDATA[조성준 기자]]></content:encoded>
         </item>
         <item>
@@ -716,14 +724,6 @@
             <pubDate>Sat, 05 Oct 2024 09:39:00 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202410/130699_171063_4931_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[e스포츠人] '이노닉스' 나희주 "경기력 상승 고무적...PGC 꼭 가겠다" (테크M ─ 피플)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=130548</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=130548</guid>
-            <pubDate>Sun, 29 Sep 2024 15:19:37 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202409/130548_170763_2443_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[글로벌 인기 브랜드 타이어도 쿠팡에서..."로켓 설치로 편리함 잡았다" (테크M ─ 라이프)]]></title>
