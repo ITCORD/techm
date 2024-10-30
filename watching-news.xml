@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Oct 2024 07:21:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Oct 2024 08:30:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 크래프톤의 밀리터리 슈팅게임 '프로젝트 아크'.. 지능적 플레이와 전술선택이 중요]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=131551</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=131551</guid>
+            <pubDate>Wed, 30 Oct 2024 08:30:12 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202410/131551_172789_1833_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 삼성전자, AI와 갤럭시로 활발한 행보.. '생성형 배경화면, 언어확대, 팝업운영까지']]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=131504</link>
@@ -110,14 +118,6 @@
             <pubDate>Fri, 11 Oct 2024 08:29:23 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202410/130912_171458_5242_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 통신사가 AI를 활용하는법.. SKT 'B2B 솔루션'과 KT '보이스피싱 탐지']]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=130866</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=130866</guid>
-            <pubDate>Thu, 10 Oct 2024 09:24:44 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202410/130866_171363_442_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
