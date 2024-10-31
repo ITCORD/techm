@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 31 Oct 2024 07:22:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Oct 2024 08:25:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 디지털 ID 표준화를 위해.. 라온시큐어 'K-DID' 글로벌 진출한다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=131633</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=131633</guid>
+            <pubDate>Thu, 31 Oct 2024 08:25:01 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202410/131633_172939_3735_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 크래프톤의 밀리터리 슈팅게임 '프로젝트 아크'.. 지능적 플레이와 전술선택이 중요]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=131551</link>
@@ -110,14 +118,6 @@
             <pubDate>Tue, 15 Oct 2024 07:24:54 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202410/130971_171636_212_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 글로벌 인디게임 퍼블리셔로 나아가는 네오위즈.. '스컬' '산나비'에 이어 '안녕서울'까지]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=130912</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=130912</guid>
-            <pubDate>Fri, 11 Oct 2024 08:29:23 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202410/130912_171458_5242_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
