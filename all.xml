@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Nov 2024 10:25:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Nov 2024 11:20:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,10 +168,18 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202411/131652_172977_1333_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['퍼스트 디센던트' 시즌2 앞두고 피드백 대거 반영...사전 FGT에 개발진 직접 소통도 (테크M ─ 콘텐츠)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=131674</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=131674</guid>
+            <pubDate>Fri, 01 Nov 2024 11:18:01 GMT</pubDate>
+            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202411/131674_173021_5343_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[넥슨 '바람의나라 클래식' 오는 9일 서비스 개시...메이플스토리 월드에 문 연다 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=131673</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=131673</guid>
-            <pubDate>Fri, 01 Nov 2024 10:22:06 GMT</pubDate>
+            <pubDate>Fri, 01 Nov 2024 10:21:42 GMT</pubDate>
             <content:encoded><![CDATA[임경호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202411/131673_173020_655_v150.jpg" length="0" type="image/jpg"/>
         </item>
@@ -270,14 +278,6 @@
             <pubDate>Thu, 31 Oct 2024 06:27:31 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202410/131613_172898_1857_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[가봤다] "굿즈 사려고 전날 왔다"...'웰컴 호요랜드' 한·중·일 팬 홀렸다 (테크M ─ 콘텐츠)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=131612</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=131612</guid>
-            <pubDate>Thu, 31 Oct 2024 06:27:31 GMT</pubDate>
-            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202410/131612_172883_2639_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[KT노조 "전출 강요·압박 중지하라...실체 없는 유언비어 유포 강력 대응" (테크M ─ 인프라)]]></title>
