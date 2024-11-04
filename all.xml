@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Nov 2024 03:00:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Nov 2024 03:34:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -280,6 +280,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202411/131643_172968_5711_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[엡손, 대용량 잉크탱크 잉크젯 프린터 전 세계 누적 판매량 1억대 돌파 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=131719</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=131719</guid>
+            <pubDate>Mon, 04 Nov 2024 00:26:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202411/131719_173088_263_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['맥미니'를 콘솔로?...애플의 게임 도전기 (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=131715</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=131715</guid>
@@ -382,14 +390,6 @@
             <pubDate>Sun, 03 Nov 2024 09:41:00 GMT</pubDate>
             <content:encoded><![CDATA[조성준 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202411/131687_173043_4045_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["보안 인재 찾는다"...LG유플러스, 고등·대학생 대상 '시큐리티 해커톤' 개최 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=131686</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=131686</guid>
-            <pubDate>Sun, 03 Nov 2024 09:34:00 GMT</pubDate>
-            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202411/131686_173042_3346_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[NHN, 통합 상담 솔루션 '콘티플' 리브랜딩...B2B 판 키운다 (테크M ─ 이노베이션)]]></title>
