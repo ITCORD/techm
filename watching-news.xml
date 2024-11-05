@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Nov 2024 08:29:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Nov 2024 09:34:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 위메이드, 고퀄리티 MMORPG '레전드 오브 이미르' 연내 출시된다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=131806</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=131806</guid>
+            <pubDate>Tue, 05 Nov 2024 09:34:27 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202411/131806_173216_1354_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] '작년보다 훨씬 커졌다'.. 20주년을 맞이해 미리보는 '지스타 2024']]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=131750</link>
@@ -110,14 +118,6 @@
             <pubDate>Thu, 17 Oct 2024 15:25:53 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202410/131090_171868_389_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] '4분기를 향해'.. 국내 게임업계가 준비중인 신작들은?]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=131054</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=131054</guid>
-            <pubDate>Wed, 16 Oct 2024 08:30:14 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202410/131054_171788_4040_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
