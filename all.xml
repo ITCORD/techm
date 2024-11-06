@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Nov 2024 22:22:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Nov 2024 23:21:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[카카오, 3분기 영업이익 1305억원...전년 동기 대비 5%↑(1보) (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=131894</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=131894</guid>
+            <pubDate>Thu, 07 Nov 2024 08:14:00 GMT</pubDate>
+            <content:encoded><![CDATA[배수현 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202411/131894_173382_233_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[비트코인에 빠진 美 트럼프...'비트코인 전략 자산' 시대 열렸다 (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=131896</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=131896</guid>
+            <pubDate>Thu, 07 Nov 2024 08:12:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202411/131896_173383_1219_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[e스포츠人] 광동 '헤븐' 김태성 "소통 보완해 파이널서 우승경쟁 하겠다" (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=131892</link>
@@ -152,22 +168,6 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202411/131856_173291_1149_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[한국레노버, 네이버 쇼핑라이브 '핫IT슈'서 게이밍 제품 선보인다 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=131877</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=131877</guid>
-            <pubDate>Wed, 06 Nov 2024 06:27:45 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202411/131877_173324_5015_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[동맹관계 강화하는 SKT·퍼플렉시티..."AI 검색 모델 공동 개발 중" (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=131876</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=131876</guid>
-            <pubDate>Wed, 06 Nov 2024 06:27:45 GMT</pubDate>
-            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202411/131876_173323_4459_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[PGS 통신] 광동, 4위로 韓 자존심 지켰다...젠지-T1도 파이널 합류 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=131891</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=131891</guid>
@@ -275,8 +275,16 @@
             <title><![CDATA[위메이드 3분기 영업이익 518억원...전년比 14.1% 증가(1보) (테크M ─ 콘텐츠)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Wed, 06 Nov 2024 22:19:35 GMT</pubDate>
+            <pubDate>Wed, 06 Nov 2024 23:19:26 GMT</pubDate>
             <content:encoded><![CDATA[임경호 기자]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[카카오, 3분기 영업이익 1305억원...전년 동기 대비 5%↑(1보) (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=131894</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=131894</guid>
+            <pubDate>Thu, 07 Nov 2024 08:14:00 GMT</pubDate>
+            <content:encoded><![CDATA[배수현 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202411/131894_173382_233_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[트럼프, AI 규제 풀고 '미국 중심'으로 키운다...국내 기업들의 대응 방안은? (테크M ─ 인프라)]]></title>
@@ -381,14 +389,6 @@
             <pubDate>Wed, 06 Nov 2024 11:01:00 GMT</pubDate>
             <content:encoded><![CDATA[조성준 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202411/131854_173290_047_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뷰티부터 패션까지...카카오 커머스, 애프터 세일 프로모션 진행 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=131853</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=131853</guid>
-            <pubDate>Wed, 06 Nov 2024 10:54:00 GMT</pubDate>
-            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202411/131853_173289_5310_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[쏘카, 블랙프라이데이 맞아 '쏘카플랜' 특가 제공 (테크M ─ 이노베이션)]]></title>
@@ -503,6 +503,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202410/131482_172677_2813_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[비트코인에 빠진 美 트럼프...'비트코인 전략 자산' 시대 열렸다 (테크M ─ 인베스트먼트)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=131896</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=131896</guid>
+            <pubDate>Thu, 07 Nov 2024 08:12:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202411/131896_173383_1219_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['쿠키런' 인도·'모험의 탑' 일본...데브시스터즈, 핵심 IP로 글로벌 공략 '방점'(종합) (테크M ─ 인베스트먼트)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=131886</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=131886</guid>
@@ -605,14 +613,6 @@
             <pubDate>Wed, 06 Nov 2024 10:31:00 GMT</pubDate>
             <content:encoded><![CDATA[배수현 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202411/131842_173280_2315_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[위메이드, 내년 1분기 '레전드 오브 이미르' 출시...2028년까지 이어지는 신작 라인업 공개 (테크M ─ 인베스트먼트)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=131840</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=131840</guid>
-            <pubDate>Wed, 06 Nov 2024 10:29:00 GMT</pubDate>
-            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202411/131840_173283_2436_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[e스포츠人] 광동 '헤븐' 김태성 "소통 보완해 파이널서 우승경쟁 하겠다" (테크M ─ 피플)]]></title>
