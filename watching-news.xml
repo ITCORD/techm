@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Nov 2024 08:29:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Nov 2024 09:26:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 성공적으로 개최된 'SK AI 서밋 2024'..AI를 위한 성공방정식은?]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=131883</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=131883</guid>
+            <pubDate>Wed, 06 Nov 2024 09:26:51 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202411/131883_173345_539_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 위메이드, 고퀄리티 MMORPG '레전드 오브 이미르' 연내 출시된다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=131806</link>
@@ -110,14 +118,6 @@
             <pubDate>Fri, 18 Oct 2024 11:19:48 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202410/131123_171934_314_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] NHN의 통합 협업 솔루션 '두레이'.. 강력한 보안체계를 넘어 AI까지 도입]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=131090</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=131090</guid>
-            <pubDate>Thu, 17 Oct 2024 15:25:53 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202410/131090_171868_389_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
