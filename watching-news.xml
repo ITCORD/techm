@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Nov 2024 07:21:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Nov 2024 08:27:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] IPTV 강자 KT.. '지니TV 셋톱박스4'로  8K 업스케일링 지원한다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=131961</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=131961</guid>
+            <pubDate>Thu, 07 Nov 2024 08:27:57 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202411/131961_173468_5858_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 성공적으로 개최된 'SK AI 서밋 2024'..AI를 위한 성공방정식은?]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=131883</link>
@@ -110,14 +118,6 @@
             <pubDate>Mon, 21 Oct 2024 08:32:07 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202410/131191_172106_3255_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 카카오게임즈 '카겜닷컴' 오픈.. 전세계 이용자들을 위한 플랫폼 구축했다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=131123</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=131123</guid>
-            <pubDate>Fri, 18 Oct 2024 11:19:48 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202410/131123_171934_314_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
