@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Nov 2024 22:21:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Nov 2024 23:22:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[네이버 3분기 실적 날았다...검색·광고 호조로 사상 최대 영업이익 달성(상보) (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=131980</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=131980</guid>
+            <pubDate>Fri, 08 Nov 2024 08:12:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202411/131980_173512_1144_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[네이버 3분기 영업이익 5253억...전년비 38.2% 증가(1보) (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=131977</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=131977</guid>
+            <pubDate>Fri, 08 Nov 2024 07:57:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202411/131977_173510_5724_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[커피챗부터 네트워킹까지...유니티, '지스타 2024' 현장 이벤트 풍성 (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=131975</link>
@@ -150,22 +166,6 @@
             <pubDate>Thu, 07 Nov 2024 07:17:51 GMT</pubDate>
             <content:encoded><![CDATA[조성준 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202411/131957_173462_4717_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[웹젠, 3Q 매출 491억원...뮤 IP 매출 덕에 1년새 22% '껑충' (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=131956</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=131956</guid>
-            <pubDate>Thu, 07 Nov 2024 07:17:51 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202411/131956_173461_4654_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[크래프톤, 3분기까지 누적 매출 2조원 돌파...영업이익도 1조원 '육박'(2보) (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=131955</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=131955</guid>
-            <pubDate>Thu, 07 Nov 2024 07:17:51 GMT</pubDate>
-            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202411/131955_173460_4641_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[커피챗부터 네트워킹까지...유니티, '지스타 2024' 현장 이벤트 풍성 (테크M ─ 콘텐츠)]]></title>
@@ -504,6 +504,22 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202410/131501_172701_4834_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[네이버 3분기 실적 날았다...검색·광고 호조로 사상 최대 영업이익 달성(상보) (테크M ─ 인베스트먼트)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=131980</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=131980</guid>
+            <pubDate>Fri, 08 Nov 2024 08:12:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202411/131980_173512_1144_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[네이버 3분기 영업이익 5253억...전년비 38.2% 증가(1보) (테크M ─ 인베스트먼트)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=131977</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=131977</guid>
+            <pubDate>Fri, 08 Nov 2024 07:57:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202411/131977_173510_5724_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['배그'로 역대급 실적 쓸어담은 크래프톤, 게임에 AI 더한 'CPC'로 '기술 리더십' 세운다(종합) (테크M ─ 인베스트먼트)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=131973</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=131973</guid>
@@ -598,22 +614,6 @@
             <pubDate>Thu, 07 Nov 2024 11:10:00 GMT</pubDate>
             <content:encoded><![CDATA[조성준 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202411/131925_173502_4239_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[컴투스홀딩스, 10종 게임 소싱해 게임사업 반등 이끈다...웹3 사업 협업 수요 증가도(종합) (테크M ─ 인베스트먼트)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=131911</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=131911</guid>
-            <pubDate>Thu, 07 Nov 2024 10:54:00 GMT</pubDate>
-            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202411/131911_173414_3037_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[크립토 브리핑] '트럼프 효과'에 비트코인 고공행진...주요 거래소 거래량 폭증 (테크M ─ 인베스트먼트)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=131899</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=131899</guid>
-            <pubDate>Thu, 07 Nov 2024 09:49:00 GMT</pubDate>
-            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202411/131899_173402_4138_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[김범석 쿠팡 Inc 의장, 사회적 책임 위해 주식 '200만주' 기부...700억원 규모 (테크M ─ 피플)]]></title>
