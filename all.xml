@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Nov 2024 03:26:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Nov 2024 04:26:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,6 +168,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202411/131980_173512_1144_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[슈퍼플래닛, 방치형 신작 '열렙!' 사전예약...10억뷰 웹툰 '열렙전사' 게임화 (테크M ─ 콘텐츠)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=131998</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=131998</guid>
+            <pubDate>Fri, 08 Nov 2024 00:13:00 GMT</pubDate>
+            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202411/131998_173537_2255_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[같이보소] 역대 최고의 게임 애니메이션, '아케인 시즌2'가 온다 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=131984</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=131984</guid>
@@ -272,12 +280,20 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202411/131946_173447_2612_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[CJ ENM, 3Q 초격차 콘텐츠 경쟁력 눈길...3분기 연속 흑자(상보) (테크M ─ 콘텐츠)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=131943</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=131943</guid>
-            <pubDate>Thu, 07 Nov 2024 07:18:11 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202411/131943_173443_1456_v150.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA['AICT 기업' 향해 가는 KT, 3분기 호실적에 MS 협력·조직 개편으로 자신감 충전(종합) (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=131999</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=131999</guid>
+            <pubDate>Fri, 08 Nov 2024 04:23:54 GMT</pubDate>
+            <content:encoded><![CDATA[배수현 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202411/131999_173541_2434_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[네이버, 내년 'AI 검색' 모바일 확장...플랫폼 경쟁력 이어간다 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=132002</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=132002</guid>
+            <pubDate>Fri, 08 Nov 2024 04:23:54 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202411/132002_173546_586_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[LG유플러스, 기업 인프라·스마트홈 실적 견인...AI 집중 전략 통했다(상보) (테크M ─ 인프라)]]></title>
@@ -374,22 +390,6 @@
             <pubDate>Thu, 07 Nov 2024 08:23:59 GMT</pubDate>
             <content:encoded><![CDATA[배수현 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202411/131967_173483_3129_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SKT '에이닷' vs. LG유플러스 '익시오'...통신사 AI 통화 에이전트 맞대결 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=131948</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=131948</guid>
-            <pubDate>Thu, 07 Nov 2024 07:17:51 GMT</pubDate>
-            <content:encoded><![CDATA[배수현 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202411/131948_173482_2622_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[템터뷰] '디지털 황무지' 보험업에 'AI 씨앗' 심는 카카오페이손보..."기술로 고객경험 혁신할 것" (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=131954</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=131954</guid>
-            <pubDate>Thu, 07 Nov 2024 07:17:51 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202411/131954_173499_4124_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한컴라이프케어, 3분기 영업이익 273% ↑..."소방·국방 사업 호조" (테크M ─ 이노베이션)]]></title>
