@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Nov 2024 07:21:42 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Nov 2024 08:26:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,6 +168,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202411/132005_173553_2722_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['서머너즈 워' 2024 월드 파이널 개막...日 도쿄서 최강의 1인 '진검승부' (테크M ─ 콘텐츠)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=132023</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=132023</guid>
+            <pubDate>Sat, 09 Nov 2024 07:16:22 GMT</pubDate>
+            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202411/132023_173611_1049_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[PGS 통신] 韓 부진했던 첫째날...젠지 8위-광동 9위 아쉬운 출발 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=132021</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=132021</guid>
@@ -270,14 +278,6 @@
             <pubDate>Thu, 07 Nov 2024 08:23:59 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202411/131969_173485_5236_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[크래프톤, '한국판 심즈' 인조이 내년 3월28일 출시 예고 (테크M ─ 콘텐츠)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=131966</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=131966</guid>
-            <pubDate>Thu, 07 Nov 2024 08:23:59 GMT</pubDate>
-            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202411/131966_173481_1725_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[통신3사, 희비 엇갈린 3분기 성적표...AI 서비스 경쟁은 지금부터(종합) (테크M ─ 인프라)]]></title>
@@ -395,7 +395,7 @@
             <title><![CDATA[[크립토 주간 브리핑] '트럼프 효과'에 비트코인 신고가 행진...국내는 가상자산위 행보 '촉각' (테크M ─ 이노베이션)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=132022</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=132022</guid>
-            <pubDate>Sat, 09 Nov 2024 07:19:15 GMT</pubDate>
+            <pubDate>Sat, 09 Nov 2024 07:16:22 GMT</pubDate>
             <content:encoded><![CDATA[임경호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202411/132022_173607_1822_v150.jpg" length="0" type="image/jpg"/>
         </item>
