@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Nov 2024 04:28:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Nov 2024 05:27:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[오진원의 리더십 산책] 지도자의 인격 (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=132071</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=132071</guid>
+            <pubDate>Mon, 11 Nov 2024 05:19:43 GMT</pubDate>
+            <content:encoded><![CDATA[김현기 대표]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202411/132071_173676_912_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[테크M 프리미엄] '비전프로' 이후의 애플, '넥스트 아이폰'은 어디로 (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=132068</link>
@@ -160,14 +168,6 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202411/132046_173641_3110_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[네오위즈, 폴란드 개발사 자카자네와 111억원 규모 퍼블리싱 계약 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=132049</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=132049</guid>
-            <pubDate>Mon, 11 Nov 2024 09:53:00 GMT</pubDate>
-            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202411/132049_173643_506_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[컴투스플랫폼 '붕어빵 타이쿤' 사전 예약 페이지 오픈 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=132058</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=132058</guid>
@@ -283,7 +283,7 @@
             <title><![CDATA[[테크M 프리미엄] '비전프로' 이후의 애플, '넥스트 아이폰'은 어디로 (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=132068</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=132068</guid>
-            <pubDate>Mon, 11 Nov 2024 04:24:58 GMT</pubDate>
+            <pubDate>Mon, 11 Nov 2024 04:23:21 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202411/132068_173669_4722_v150.jpg" length="0" type="image/jpg"/>
         </item>
