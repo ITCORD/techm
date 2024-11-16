@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Nov 2024 07:22:11 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Nov 2024 08:28:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,10 +168,18 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202411/132332_174240_3647_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[지스타 24] '아키텍트' 시연하러 가자...대규모 인파 몰리며 발디딜 곳 없는 하이브IM (테크M ─ 콘텐츠)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=132370</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=132370</guid>
+            <pubDate>Sat, 16 Nov 2024 08:24:45 GMT</pubDate>
+            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202411/132370_174322_1846_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[지스타 24] 딱 하나의 게임만 시연할 수 있다면...바로 펄어비스 '붉은사막'을 선택하라 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=132368</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=132368</guid>
-            <pubDate>Sat, 16 Nov 2024 07:18:04 GMT</pubDate>
+            <pubDate>Sat, 16 Nov 2024 07:17:46 GMT</pubDate>
             <content:encoded><![CDATA[조성준 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202411/132368_174313_4150_v150.jpg" length="0" type="image/jpg"/>
         </item>
@@ -179,7 +187,7 @@
             <title><![CDATA[[지스타 24] SOOP만이 할 수 있는 콘텐츠로 가득 채웠다...AI 기술 시연에 '주목' (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=132365</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=132365</guid>
-            <pubDate>Sat, 16 Nov 2024 07:18:04 GMT</pubDate>
+            <pubDate>Sat, 16 Nov 2024 07:17:46 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202411/132365_174310_3632_v150.jpg" length="0" type="image/jpg"/>
         </item>
@@ -270,14 +278,6 @@
             <pubDate>Fri, 15 Nov 2024 09:20:58 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202411/132346_174244_508_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[지스타 24] 호주를 닮은 '딩컴 투게더', 원작 감성과 확장된 연결성의 조화 (테크M ─ 콘텐츠)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=132313</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=132313</guid>
-            <pubDate>Fri, 15 Nov 2024 07:19:22 GMT</pubDate>
-            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202411/132313_174245_1553_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[써봤다] "이게 영상이라고?"...애플 비전프로, 공간 컴퓨팅 앞세워 '혁신의 공간' 열었다 (테크M ─ 인프라)]]></title>
