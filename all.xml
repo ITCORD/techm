@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Nov 2024 01:46:30 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Nov 2024 03:06:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -280,6 +280,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202411/132354_174274_2131_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[과기정통부, 윤석열 정부 후반기 'AI 확대·디지털 민생' 집중한다 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=132369</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=132369</guid>
+            <pubDate>Sun, 17 Nov 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[배수현 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202411/132369_174323_4528_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[협력사 85곳 만난 조주완 LG전자 CEO "함께 힘 모아 혁신 속도 높일 것" (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=132377</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=132377</guid>
@@ -382,14 +390,6 @@
             <pubDate>Thu, 14 Nov 2024 11:16:49 GMT</pubDate>
             <content:encoded><![CDATA[배수현 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202411/132308_174138_5924_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[UDC 2024] 블록체인 데이터에서 '지혜'를 얻다...'클레어' 선보인 람다 256 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=132302</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=132302</guid>
-            <pubDate>Thu, 14 Nov 2024 09:20:58 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202411/132302_174125_1742_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[지스타 24] '자본주의 기업 vs. 게임 소비자'로 갈린 게임판...'같은 편'으로 관계 회복 시급하다 (테크M ─ 이노베이션)]]></title>
@@ -643,7 +643,7 @@
             <title><![CDATA[[부고] 김재진 씨(디지털자산거래소 공동협의체 상임부회장) 부친상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Sun, 17 Nov 2024 01:44:31 GMT</pubDate>
+            <pubDate>Sun, 17 Nov 2024 03:05:38 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
         </item>
         <item>
