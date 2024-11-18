@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Nov 2024 08:35:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Nov 2024 09:25:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 신작공개, 코스프레 행사, 굿즈까지.. '지스타2024' 4일간의 축제를 한눈에 살펴보자]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=132426</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=132426</guid>
+            <pubDate>Mon, 18 Nov 2024 09:25:17 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202411/132426_174437_515_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 블록체인을 향한 뜨거운 관심...'UDC2024'서 디지털자산의 가능성을 확인하다ㅏ]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=132342</link>
@@ -110,14 +118,6 @@
             <pubDate>Wed, 30 Oct 2024 08:30:12 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202410/131551_172789_1833_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 삼성전자, AI와 갤럭시로 활발한 행보.. '생성형 배경화면, 언어확대, 팝업운영까지']]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=131504</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=131504</guid>
-            <pubDate>Wed, 30 Oct 2024 09:32:00 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202410/131504_172705_2238_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
