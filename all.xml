@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Nov 2024 13:34:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Nov 2024 14:26:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -280,6 +280,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202411/132380_174354_4852_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA["쿠다 독점 깨자" AI SW 기업 모레, 반도체 전설 짐 켈러와 손잡았다 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=132430</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=132430</guid>
+            <pubDate>Mon, 18 Nov 2024 13:30:19 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202411/132430_174453_115_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[KB국민은행, '제로퍼제로'와 함께 한정판 다이어리 키트 증정 이벤트 (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=132428</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=132428</guid>
@@ -382,14 +390,6 @@
             <pubDate>Mon, 18 Nov 2024 09:31:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202411/132392_174398_3119_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[과기정통부, 윤석열 정부 후반기 'AI 확대·디지털 민생' 집중한다 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=132369</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=132369</guid>
-            <pubDate>Sun, 17 Nov 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[배수현 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202411/132369_174323_4528_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[SKT, 텔코 LLM·LMM 활용한 AI 고객센터 오픈…"상담 서비스 도약시킬 것" (테크M ─ 이노베이션)]]></title>
@@ -730,7 +730,7 @@
             <title><![CDATA[로지텍, '감성 커스터마이징' 내세운 '팝 아이콘 키'·'팝 마우스' 출시 (테크M ─ 라이프)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=132431</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=132431</guid>
-            <pubDate>Mon, 18 Nov 2024 13:33:39 GMT</pubDate>
+            <pubDate>Mon, 18 Nov 2024 13:30:19 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202411/132431_174454_186_v150.jpg" length="0" type="image/jpg"/>
         </item>
