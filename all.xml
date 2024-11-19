@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Nov 2024 21:24:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Nov 2024 22:22:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -280,6 +280,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202411/132372_174377_279_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[마이크로소프트 "AI 에이전트 시대 연다" (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=132480</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=132480</guid>
+            <pubDate>Wed, 20 Nov 2024 01:34:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202411/132480_174525_3249_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[세일포인트 "아이덴티티 보안 플랫폼 '아틀라스', AI 경쟁력으로 차별화" (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=132479</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=132479</guid>
@@ -382,14 +390,6 @@
             <pubDate>Tue, 19 Nov 2024 11:04:00 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202411/132448_174472_411_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[파수, 데이터 보안 솔루션 '파수 엔터프라이즈 디알엠' 신버전 출시 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=132447</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=132447</guid>
-            <pubDate>Tue, 19 Nov 2024 10:59:00 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202411/132447_174471_5858_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[과기정통부, 자율주행 인공지능 챌린지 시상식 개최...장관상에 3D객체 검출 '테이크아웃' (테크M ─ 이노베이션)]]></title>
@@ -659,7 +659,7 @@
             <title><![CDATA[[부고] 김재진 씨(디지털자산거래소 공동협의체 상임부회장) 부친상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Tue, 19 Nov 2024 21:22:45 GMT</pubDate>
+            <pubDate>Tue, 19 Nov 2024 22:21:16 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
         </item>
         <item>
