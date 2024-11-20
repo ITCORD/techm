@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Nov 2024 09:26:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Nov 2024 10:25:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 텔코LLM을 활용한 SKT 'AI 고객센터'.. 실제 상담업무에 적극 활용한다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=132536</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=132536</guid>
+            <pubDate>Wed, 20 Nov 2024 10:25:52 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202411/132536_174603_1234_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 다양한 변화를 시도하는 SOOP, 맞춤형 AI 솔루션 '싸비'와 '수피' 공개]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=132474</link>
@@ -110,14 +118,6 @@
             <pubDate>Fri, 01 Nov 2024 08:27:58 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202411/131671_173002_25_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 디지털 ID 표준화를 위해.. 라온시큐어 'K-DID' 글로벌 진출한다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=131633</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=131633</guid>
-            <pubDate>Thu, 31 Oct 2024 08:25:01 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202410/131633_172939_3735_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
