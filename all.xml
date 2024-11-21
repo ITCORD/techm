@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Nov 2024 05:28:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Nov 2024 06:34:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -280,6 +280,22 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202411/132493_174539_96_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[채널톡, 대학생 개발자 대상 '제3회 해키토키' 성료 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=132577</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=132577</guid>
+            <pubDate>Thu, 21 Nov 2024 06:31:10 GMT</pubDate>
+            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202411/132577_174683_4013_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[올해 국내 SW 시장 규모 44조...해외진출 기업 비중은 3%에 불과 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=132576</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=132576</guid>
+            <pubDate>Thu, 21 Nov 2024 06:31:10 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202411/132576_174679_3529_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[LG유플러스, 신임 CEO 홍범식 LG 경영전략부문장 선임 (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=132565</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=132565</guid>
@@ -328,7 +344,7 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202411/132559_174656_1656_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[KT 완전관리체계 고도화 '인정'...글로벌스탠더드 안전경영대상 수상 (테크M ─ 인프라)]]></title>
+            <title><![CDATA[KT 안전관리체계 고도화 '인정'...글로벌스탠더드 안전경영대상 수상 (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=132556</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=132556</guid>
             <pubDate>Thu, 21 Nov 2024 11:06:00 GMT</pubDate>
@@ -374,22 +390,6 @@
             <pubDate>Thu, 21 Nov 2024 10:32:00 GMT</pubDate>
             <content:encoded><![CDATA[조성준 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202411/132549_174644_3139_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LG유플러스, '사랑의 꾸러미 나눔 행사' 개최 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=132542</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=132542</guid>
-            <pubDate>Thu, 21 Nov 2024 09:48:00 GMT</pubDate>
-            <content:encoded><![CDATA[윤상호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202411/132542_174635_252_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SK브로드밴드, AI 활용 확대…'Btv 키즈', AI 콘텐츠 도입 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=132543</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=132543</guid>
-            <pubDate>Thu, 21 Nov 2024 09:48:00 GMT</pubDate>
-            <content:encoded><![CDATA[윤상호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202411/132543_174636_2540_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["카카오모빌리티 내쫒고 외산기업 키운다?" 토종 모빌리티 옥죄는 韓, 벤처업계 뿔났다 (테크M ─ 이노베이션)]]></title>
@@ -691,7 +691,7 @@
             <title><![CDATA[[부고] 김재진 씨(디지털자산거래소 공동협의체 상임부회장) 부친상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Thu, 21 Nov 2024 05:26:02 GMT</pubDate>
+            <pubDate>Thu, 21 Nov 2024 06:32:14 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
         </item>
         <item>
