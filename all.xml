@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Nov 2024 03:02:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Nov 2024 03:34:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성전자, 멀티모달 생성형 AI '가우스2' 공개…업무·제품 AI 적용 확대 (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=132563</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=132563</guid>
+            <pubDate>Thu, 21 Nov 2024 00:16:00 GMT</pubDate>
+            <content:encoded><![CDATA[윤상호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202411/132563_174661_5936_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[베스핀글로벌, AWS KPPL 행사에서 2개 부문 수상 (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=132564</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=132564</guid>
+            <pubDate>Thu, 21 Nov 2024 00:02:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202411/132564_174663_148_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[몰로코, 인도 지역 LG채널 스트리밍 광고 솔루션 파트너 선정 (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=132562</link>
@@ -152,22 +168,6 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202411/132546_174639_4734_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[크로스앵글, 한성대 블록체인 연구소와 손잡고 가상자산 투명성 향상 도모 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=132545</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=132545</guid>
-            <pubDate>Thu, 21 Nov 2024 09:47:00 GMT</pubDate>
-            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202411/132545_174638_4625_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[크립토 브리핑] 비트코인 연일 신고가...트럼프 효과로 10만달러 시대 '눈앞' (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=132544</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=132544</guid>
-            <pubDate>Thu, 21 Nov 2024 09:41:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202411/132544_174637_415_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA['조명가게' 연출한 김희원 감독 "디즈니가 강풀 작가와 작업하는 이유?" (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=132538</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=132538</guid>
@@ -280,6 +280,22 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202411/132438_174461_5047_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[삼성전자, 멀티모달 생성형 AI '가우스2' 공개…업무·제품 AI 적용 확대 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=132563</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=132563</guid>
+            <pubDate>Thu, 21 Nov 2024 00:16:00 GMT</pubDate>
+            <content:encoded><![CDATA[윤상호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202411/132563_174661_5936_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[베스핀글로벌, AWS KPPL 행사에서 2개 부문 수상 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=132564</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=132564</guid>
+            <pubDate>Thu, 21 Nov 2024 00:02:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202411/132564_174663_148_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA["청년 5만명 모였다" 민주당 코인 과세에 뿔난 여론...한동훈 "민심을 따라야" (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=132561</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=132561</guid>
@@ -376,20 +392,12 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202411/132546_174639_4734_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[엔비디아, 3분기 '깜짝실적'…'블랙웰', 4분기 출하 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=132541</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=132541</guid>
-            <pubDate>Thu, 21 Nov 2024 08:11:00 GMT</pubDate>
-            <content:encoded><![CDATA[윤상호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202411/132541_174634_554_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[퀄컴, "2029년 자동차˙IoT 매출 220억달러 목표" (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=132535</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=132535</guid>
-            <pubDate>Wed, 20 Nov 2024 09:21:27 GMT</pubDate>
-            <content:encoded><![CDATA[윤상호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202411/132535_174602_5429_v150.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[몰로코, 인도 지역 LG채널 스트리밍 광고 솔루션 파트너 선정 (테크M ─ 이노베이션)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=132562</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=132562</guid>
+            <pubDate>Thu, 21 Nov 2024 11:49:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202411/132562_174659_495_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[모두의주차장, 거주자우선주차면 9000개 '공유주차장'으로..."주차난 해소 기여" (테크M ─ 이노베이션)]]></title>
@@ -494,14 +502,6 @@
             <pubDate>Thu, 14 Nov 2024 11:02:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202411/132234_174008_5339_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[루닛, 프랑스 비디 그룹과 '루닛 인사이트 MMG' 공급 맞손 (테크M ─ 이노베이션)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=132172</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=132172</guid>
-            <pubDate>Wed, 13 Nov 2024 10:13:00 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202411/132172_173906_1311_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[크립토 브리핑] 비트코인 연일 신고가...트럼프 효과로 10만달러 시대 '눈앞' (테크M ─ 인베스트먼트)]]></title>
@@ -683,7 +683,7 @@
             <title><![CDATA[[부고] 김재진 씨(디지털자산거래소 공동협의체 상임부회장) 부친상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Thu, 21 Nov 2024 03:00:39 GMT</pubDate>
+            <pubDate>Thu, 21 Nov 2024 03:33:40 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
         </item>
         <item>
