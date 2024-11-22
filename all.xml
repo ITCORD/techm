@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Nov 2024 08:29:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Nov 2024 09:26:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 2024 게임축제 아직 줄줄이 남았다.. '메이플콘'과 '버닝비버' 그리고 'AGF'까지 총 출동 (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=132639</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=132639</guid>
+            <pubDate>Fri, 22 Nov 2024 09:21:42 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202411/132639_174784_3343_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[최태원 SK 회장, "CEO, 디자이너 돼야…SK 70년 혁신, '디자인 사고' 바탕" (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=132638</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 22 Nov 2024 11:14:00 GMT</pubDate>
             <content:encoded><![CDATA[윤상호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202411/132618_174758_356_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LG전자, B2B 육성 스타트업 힘 빌린다 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=132612</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=132612</guid>
-            <pubDate>Fri, 22 Nov 2024 11:14:00 GMT</pubDate>
-            <content:encoded><![CDATA[윤상호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202411/132612_174752_3343_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[넷마블 '블레이드 & 소울 레볼루션' 6주년 업데이트 예고...사전 예약 이벤트 (테크M ─ 콘텐츠)]]></title>
@@ -952,6 +952,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202411/132018_173596_531_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[카드뉴스] 2024 게임축제 아직 줄줄이 남았다.. '메이플콘'과 '버닝비버' 그리고 'AGF'까지 총 출동 (테크M ─ 보는 뉴스)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=132639</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=132639</guid>
+            <pubDate>Fri, 22 Nov 2024 09:26:14 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202411/132639_174784_3343_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[카드뉴스] '솔링크' 공개한 빅웨이브로보틱스.. "한번 구축하면 어떤 로봇 도입해도 제어" (테크M ─ 보는 뉴스)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=132579</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=132579</guid>
@@ -1054,14 +1062,6 @@
             <pubDate>Tue, 05 Nov 2024 09:28:30 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202411/131806_173216_1354_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] '작년보다 훨씬 커졌다'.. 20주년을 맞이해 미리보는 '지스타 2024' (테크M ─ 보는 뉴스)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=131750</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=131750</guid>
-            <pubDate>Mon, 04 Nov 2024 09:22:34 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202411/131750_173124_242_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
