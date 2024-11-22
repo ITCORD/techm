@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Nov 2024 03:38:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Nov 2024 04:29:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -616,6 +616,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202411/132320_174158_2314_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[신세계아이앤씨, 사회적기업 성장 활성화 유공 고용노동부 장관상 수상 (테크M ─ 피플)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=132627</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=132627</guid>
+            <pubDate>Fri, 22 Nov 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202411/132627_174769_5935_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[캐논코리아, 한양대 에리카에 발전기금 전달 (테크M ─ 피플)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=132624</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=132624</guid>
@@ -715,16 +723,8 @@
             <title><![CDATA[[부고] 김재진 씨(디지털자산거래소 공동협의체 상임부회장) 부친상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Fri, 22 Nov 2024 03:01:05 GMT</pubDate>
+            <pubDate>Fri, 22 Nov 2024 04:28:24 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[지스타 24] 해외서 더 기다리는 크래프톤 '인조이'..."2시간 대기는 기본이에요" (테크M ─ 피플)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=132318</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=132318</guid>
-            <pubDate>Fri, 15 Nov 2024 00:10:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202411/132318_174156_109_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[라이카 'M11 글로시 블랙' 출시..."전통의 디자인과 디지털 혁신 융합" (테크M ─ 라이프)]]></title>
