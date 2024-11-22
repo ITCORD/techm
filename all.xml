@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Nov 2024 23:26:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Nov 2024 01:43:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -280,6 +280,30 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202411/132548_174643_2236_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[토스뱅크 외화통장, 신규 기능 추가로 고객 편의성 강화 '눈길' (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=132611</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=132611</guid>
+            <pubDate>Fri, 22 Nov 2024 10:32:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202411/132611_174751_325_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[메가존클라우드, AWS 클라우드에 양자컴퓨팅 솔루션 구축 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=132604</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=132604</guid>
+            <pubDate>Fri, 22 Nov 2024 10:12:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202411/132604_174743_1137_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[LG유플러스, 기업가치 제고 계획 발표 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=132603</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=132603</guid>
+            <pubDate>Fri, 22 Nov 2024 10:05:00 GMT</pubDate>
+            <content:encoded><![CDATA[윤상호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202411/132603_174741_049_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[구광모의 '변화·혁신' 구체화…LG, AI·바이오·클린테크 임원 확대 (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=132598</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=132598</guid>
@@ -366,30 +390,6 @@
             <pubDate>Thu, 21 Nov 2024 00:16:00 GMT</pubDate>
             <content:encoded><![CDATA[윤상호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202411/132563_174715_744_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[베스핀글로벌, AWS KPPL 행사에서 2개 부문 수상 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=132564</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=132564</guid>
-            <pubDate>Thu, 21 Nov 2024 00:02:00 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202411/132564_174663_148_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["청년 5만명 모였다" 민주당 코인 과세에 뿔난 여론...한동훈 "민심을 따라야" (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=132561</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=132561</guid>
-            <pubDate>Thu, 21 Nov 2024 11:32:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202411/132561_174716_84_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[HS효성인포메이션시스템, 연세의료원 '차세대 PACS 시스템' HCI 기반 인프라 구축 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=132560</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=132560</guid>
-            <pubDate>Thu, 21 Nov 2024 11:21:00 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202411/132560_174657_219_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["카카오모빌리티 내쫒고 외산기업 키운다?" 토종 모빌리티 옥죄는 韓, 벤처업계 뿔났다 (테크M ─ 이노베이션)]]></title>
@@ -504,6 +504,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202411/132242_174015_302_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[크립토 브리핑] 비트코인 개당 '10만' 달러 눈앞...美 투자시장 달아올랐다 (테크M ─ 인베스트먼트)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=132602</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=132602</guid>
+            <pubDate>Fri, 22 Nov 2024 09:39:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202411/132602_174740_398_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[글로벌 코인시장 주도하는 바이낸스, 월 거래량만 4000조...韓 업비트-빗썸 존재감 '미비' (테크M ─ 인베스트먼트)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=132566</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=132566</guid>
@@ -608,14 +616,6 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202411/132320_174158_2314_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[크립토 브리핑] 비트코인, 5일 만에 상승세 주춤...美 금리인하 속도 우려 (테크M ─ 인베스트먼트)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=132311</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=132311</guid>
-            <pubDate>Fri, 15 Nov 2024 09:59:00 GMT</pubDate>
-            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202411/132311_174147_2726_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[현신균 LG CNS 대표 사장 승진...내년 IPO 완수 힘 실린다 (테크M ─ 피플)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=132589</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=132589</guid>
@@ -707,7 +707,7 @@
             <title><![CDATA[[부고] 김재진 씨(디지털자산거래소 공동협의체 상임부회장) 부친상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Thu, 21 Nov 2024 22:21:51 GMT</pubDate>
+            <pubDate>Fri, 22 Nov 2024 01:40:51 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
         </item>
         <item>
@@ -725,6 +725,30 @@
             <pubDate>Thu, 14 Nov 2024 00:23:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202411/132253_174028_2334_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SOOP, 글로벌 라이브 스트리밍 플랫폼 정식 론칭…글로벌 시장 공략 본격화 (테크M ─ 라이프)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=132610</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=132610</guid>
+            <pubDate>Fri, 22 Nov 2024 10:29:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202411/132610_174750_2937_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NHN, 문체부 주관 '독서경영 우수 직장' 인증 따냈다 (테크M ─ 라이프)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=132607</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=132607</guid>
+            <pubDate>Fri, 22 Nov 2024 10:18:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202411/132607_174746_1829_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[야놀자, 한국관광공사와 맞손...최대 4만원 할인 프로모션 (테크M ─ 라이프)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=132606</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=132606</guid>
+            <pubDate>Fri, 22 Nov 2024 10:17:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202411/132606_174744_172_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[쇼핑엔티, 한파 특별전 연다...의류-생활용품 최대 38% 할인 (테크M ─ 라이프)]]></title>
@@ -813,30 +837,6 @@
             <pubDate>Tue, 19 Nov 2024 00:04:00 GMT</pubDate>
             <content:encoded><![CDATA[배수현 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202411/132457_174482_5812_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[배달의민족, 사회적 기업 나비얌과 손잡고 결식 우려 아동 지원한다 (테크M ─ 라이프)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=132435</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=132435</guid>
-            <pubDate>Tue, 19 Nov 2024 09:43:00 GMT</pubDate>
-            <content:encoded><![CDATA[배수현 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202411/132435_174458_3935_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[야놀자, 패키지여행과 자유 일정 묶었다...'자유 패키지' 상품 출시 (테크M ─ 라이프)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=132434</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=132434</guid>
-            <pubDate>Tue, 19 Nov 2024 09:43:00 GMT</pubDate>
-            <content:encoded><![CDATA[배수현 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202411/132434_174457_3447_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[로지텍, '감성 커스터마이징' 내세운 '팝 아이콘 키'·'팝 마우스' 출시 (테크M ─ 라이프)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=132431</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=132431</guid>
-            <pubDate>Mon, 18 Nov 2024 13:30:19 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202411/132431_174454_186_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[글로벌] 퍼플렉시티, AI 쇼핑 검색 출시...구글·오픈AI 맞대결 (테크M ─ 리포트)]]></title>
