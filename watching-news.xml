@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Nov 2024 08:30:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Nov 2024 09:27:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 삼성전자, 멀티모달 AI '가우스2' 공개.. 서로 다른 데이터를 동시에 처리한다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=132715</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=132715</guid>
+            <pubDate>Mon, 25 Nov 2024 09:27:47 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202411/132715_174945_369_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 2024 게임축제 아직 줄줄이 남았다.. '메이플콘'과 '버닝비버' 그리고 'AGF'까지 총 출동]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=132639</link>
@@ -110,14 +118,6 @@
             <pubDate>Wed, 06 Nov 2024 09:26:51 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202411/131883_173345_539_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 위메이드, 고퀄리티 MMORPG '레전드 오브 이미르' 연내 출시된다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=131806</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=131806</guid>
-            <pubDate>Tue, 05 Nov 2024 09:34:27 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202411/131806_173216_1354_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
