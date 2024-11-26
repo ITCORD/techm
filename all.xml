@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Nov 2024 08:33:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Nov 2024 09:26:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -621,7 +621,7 @@
             <guid>https://www.techm.kr/news/articleView.html?idxno=132540</guid>
             <pubDate>Tue, 26 Nov 2024 06:29:08 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202411/132540_174631_18_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202411/132540_175028_3554_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한컴, 다문화 아동 청소년 위한 한국어·SW 교육 제공 (테크M ─ 피플)]]></title>
@@ -952,6 +952,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202411/132305_174135_77_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[카드뉴스] AI 발전에 따라 확산되는 사이버 공격 .. 안랩 '2025 5대 사이버 보안 위협 전망'에 주목하라 (테크M ─ 보는 뉴스)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=132778</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=132778</guid>
+            <pubDate>Tue, 26 Nov 2024 08:28:11 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202411/132778_175038_5834_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[카드뉴스] 삼성전자, 멀티모달 AI '가우스2' 공개.. 서로 다른 데이터를 동시에 처리한다 (테크M ─ 보는 뉴스)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=132715</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=132715</guid>
@@ -1054,14 +1062,6 @@
             <pubDate>Thu, 07 Nov 2024 08:23:59 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202411/131961_173468_5858_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 성공적으로 개최된 'SK AI 서밋 2024'..AI를 위한 성공방정식은? (테크M ─ 보는 뉴스)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=131883</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=131883</guid>
-            <pubDate>Wed, 06 Nov 2024 09:22:34 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202411/131883_173345_539_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
