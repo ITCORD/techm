@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Nov 2024 07:26:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Nov 2024 08:32:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[사우디 '오일머니' e스포츠로 몰린다...게임사-게임단 "생태계 확장에 큰 역할" (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=132827</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=132827</guid>
+            <pubDate>Wed, 27 Nov 2024 08:27:34 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202411/132827_175107_5835_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한서희 법무법인 바른 변호사 "韓 토큰증권, 美 RWA의 개방성 주목해야" (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=132826</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 27 Nov 2024 00:44:00 GMT</pubDate>
             <content:encoded><![CDATA[윤상호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202411/132805_175077_5139_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SK브로드밴드, 가정용 와이파이7 공유기 개발 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=132803</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=132803</guid>
-            <pubDate>Wed, 27 Nov 2024 00:44:00 GMT</pubDate>
-            <content:encoded><![CDATA[윤상호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202411/132803_175076_3917_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[유니티 슈퍼소닉, 캐주얼 게임 대상 콘테스트 개최 (테크M ─ 콘텐츠)]]></title>
@@ -395,7 +395,7 @@
             <title><![CDATA[한서희 법무법인 바른 변호사 "韓 토큰증권, 美 RWA의 개방성 주목해야" (테크M ─ 이노베이션)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=132826</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=132826</guid>
-            <pubDate>Wed, 27 Nov 2024 07:23:59 GMT</pubDate>
+            <pubDate>Wed, 27 Nov 2024 07:22:06 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202411/132826_175106_4734_v150.jpg" length="0" type="image/jpg"/>
         </item>
@@ -507,7 +507,7 @@
             <title><![CDATA[카카오뱅크 2030년 ROE 목표 15%...증권가 "성장 의지 기대감 UP" (테크M ─ 인베스트먼트)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=132824</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=132824</guid>
-            <pubDate>Wed, 27 Nov 2024 07:24:07 GMT</pubDate>
+            <pubDate>Wed, 27 Nov 2024 07:22:06 GMT</pubDate>
             <content:encoded><![CDATA[배수현 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202411/132824_175104_3911_v150.jpg" length="0" type="image/jpg"/>
         </item>
@@ -728,6 +728,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202411/132450_174474_144_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['지거전'에 '이세돌·좀비버스'까지...카카오엔터, IP 확장으로 4분기 실적개선 기대감 (테크M ─ 라이프)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=132815</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=132815</guid>
+            <pubDate>Wed, 27 Nov 2024 06:29:32 GMT</pubDate>
+            <content:encoded><![CDATA[배수현 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202411/132815_175095_4312_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[테크M 이슈] 치킨으로 글로벌 공략 나선 CJ제일제당..."차세대 K-푸드로 집중 육성" (테크M ─ 라이프)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=132794</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=132794</guid>
@@ -830,14 +838,6 @@
             <pubDate>Tue, 26 Nov 2024 11:00:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202411/132739_174978_034_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["문장으로 돌아보는 2024년"...카카오 틈, '2024 마이 노트' 이벤트 진행 (테크M ─ 라이프)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=132733</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=132733</guid>
-            <pubDate>Tue, 26 Nov 2024 10:42:00 GMT</pubDate>
-            <content:encoded><![CDATA[배수현 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202411/132733_174971_2736_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[글로벌] 구글 겨냥한 오픈AI, AI 웹브라우저 개발 착수...'검색' 이어 '크롬'도 노린다 (테크M ─ 리포트)]]></title>
