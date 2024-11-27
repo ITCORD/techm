@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Nov 2024 08:32:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Nov 2024 09:27:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 네이버 MY플레이스, 개인 맞춤형 로컬플랫폼으로 진화.. '예약, 지도, 플레이스 리뷰까지']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=132828</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=132828</guid>
+            <pubDate>Wed, 27 Nov 2024 09:27:21 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202411/132828_175109_2320_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[게임코인TV] '왕의 귀환' 넷마블, '왕좌의 게임'으로 지스타 '1황' 등극]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=132780</link>
@@ -110,14 +118,6 @@
             <pubDate>Mon, 11 Nov 2024 08:29:08 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202411/132085_173721_181_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 장줄리앙 전시회에 나타난 AI 로봇 '케티봇과 '클리버'.. 전시의 새로운 패러다임 열다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=132015</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=132015</guid>
-            <pubDate>Fri, 08 Nov 2024 09:23:22 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202411/132015_173577_032_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
