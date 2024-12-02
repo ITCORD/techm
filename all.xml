@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 Dec 2024 03:10:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Dec 2024 04:29:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -280,6 +280,22 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202411/132937_175286_1151_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[삼성전자, 의료기기 제품군 확대…소아과 통합솔루션 선봬 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=133011</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=133011</guid>
+            <pubDate>Mon, 02 Dec 2024 04:27:12 GMT</pubDate>
+            <content:encoded><![CDATA[윤상호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202412/133011_175435_5134_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[마이크로소프트, CSP 인증 획득...공공 클라우드 빅테크 진출 초읽기 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=133012</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=133012</guid>
+            <pubDate>Mon, 02 Dec 2024 00:32:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202412/133012_175436_2832_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[삼성, 이웃사랑성금 500억원 기탁 (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=133001</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=133001</guid>
@@ -374,22 +390,6 @@
             <pubDate>Mon, 02 Dec 2024 10:35:00 GMT</pubDate>
             <content:encoded><![CDATA[윤상호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202412/132980_175398_4813_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[카카오모빌리티, 서울관광재단과 맞손...'서울 관광 활성화' 업무협약 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=132993</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=132993</guid>
-            <pubDate>Mon, 02 Dec 2024 10:25:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202412/132993_175411_2551_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[1조3000억 규모 AI반도체 유니콘 탄생...리벨리온·사피온 합병 법인 공식 출범 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=132985</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=132985</guid>
-            <pubDate>Mon, 02 Dec 2024 10:01:00 GMT</pubDate>
-            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202412/132985_175403_038_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[루닛 "AI 암 발견율 의사보다 15% 높아" (테크M ─ 이노베이션)]]></title>
@@ -621,7 +621,7 @@
             <guid>https://www.techm.kr/news/articleView.html?idxno=132977</guid>
             <pubDate>Sun, 01 Dec 2024 16:23:40 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202412/132977_175395_3035_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202412/132977_175434_4250_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[부고]서창석(KT 네트워크부문장)씨 모친상 (테크M ─ 피플)]]></title>
@@ -727,6 +727,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202411/132557_174655_712_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[카카오뱅크, '산타의 양말 받기' 이벤트 진행...랜덤캐시 제공 (테크M ─ 라이프)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=132995</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=132995</guid>
+            <pubDate>Mon, 02 Dec 2024 04:28:45 GMT</pubDate>
+            <content:encoded><![CDATA[배수현 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202412/132995_175414_3330_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[잘 나가는 무신사 스탠다드...올해 오프라인 방문객 1000만명 돌파 (테크M ─ 라이프)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=133004</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=133004</guid>
@@ -829,14 +837,6 @@
             <pubDate>Fri, 29 Nov 2024 06:32:42 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202411/132940_175301_287_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[로보락, 올인원 세탁건조기 2종 출시…1~2인 가구 시장 노린다 (테크M ─ 라이프)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=132938</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=132938</guid>
-            <pubDate>Fri, 29 Nov 2024 06:30:03 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202411/132938_175299_2255_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[글로벌] 캐나다, 구글 '온라인 광고시장 독점' 소송..."광고기술 매각하라" (테크M ─ 리포트)]]></title>
