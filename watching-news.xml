@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 Dec 2024 09:28:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Dec 2024 10:27:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 액션슬래시 대작 카카오게임즈의 '패스 오브 엑자일2'...Coming Soon]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=133023</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=133023</guid>
+            <pubDate>Mon, 02 Dec 2024 10:27:32 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202412/133023_175447_059_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[게임코인TV] 알트의 시대가 온다...'위믹스'부터 '카이아'까지 '살아남으면 기회 온다']]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=132953</link>
@@ -110,14 +118,6 @@
             <pubDate>Mon, 18 Nov 2024 09:25:17 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202411/132426_174437_515_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 블록체인을 향한 뜨거운 관심...'UDC2024'서 디지털자산의 가능성을 확인하다ㅏ]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=132342</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=132342</guid>
-            <pubDate>Fri, 15 Nov 2024 09:24:35 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202411/132342_174228_3233_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
