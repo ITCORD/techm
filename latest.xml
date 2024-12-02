@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 Dec 2024 22:26:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Dec 2024 23:28:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[LG CNS, 상장 예비 심사 통과...내년 상장 본격화]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=133027</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=133027</guid>
+            <pubDate>Tue, 03 Dec 2024 07:45:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202412/133027_175462_4519_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[인텔 펫 겔싱어 CEO 사임...임시 공동 CEO 체제로]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=133026</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 02 Dec 2024 11:38:00 GMT</pubDate>
             <content:encoded><![CDATA[윤상호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202412/133009_175428_2915_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[라온시큐어, '양자내성암호' 보안 솔루션 상용화]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=133010</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=133010</guid>
-            <pubDate>Mon, 02 Dec 2024 11:29:00 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202412/133010_175427_2830_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
