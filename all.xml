@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 Dec 2024 14:24:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Dec 2024 15:26:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -280,6 +280,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202411/132949_175320_386_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[인텔 펫 겔싱어 CEO 사임...임시 공동 CEO 체제로 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=133026</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=133026</guid>
+            <pubDate>Mon, 02 Dec 2024 14:20:18 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202412/133026_175461_719_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[AI 3대 강국 위한 국가전략 수립 '시동'...국가AI위원회 분과위 구성 마무리 (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=133013</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=133013</guid>
@@ -382,14 +390,6 @@
             <pubDate>Mon, 02 Dec 2024 10:35:00 GMT</pubDate>
             <content:encoded><![CDATA[윤상호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202412/132990_175407_2148_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성디스플레이, 임원인사 실시…총 16명 승진 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=132988</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=132988</guid>
-            <pubDate>Mon, 02 Dec 2024 10:35:00 GMT</pubDate>
-            <content:encoded><![CDATA[윤상호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202412/132988_175406_621_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[과기정통부, SW산업인의날 개최...나성균 네오위즈 창업주에 은탑산업훈장 수여 (테크M ─ 이노베이션)]]></title>
