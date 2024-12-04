@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 Dec 2024 12:48:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Dec 2024 13:37:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 네이버 '커머스 솔루션 마켓' 개편.. "구매자와 판매자 모두에게 AI 혁신 경험을 제공"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=133121</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=133121</guid>
+            <pubDate>Wed, 04 Dec 2024 13:37:58 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202412/133121_175601_5917_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 유저들과 함께한 마비노기 20주년 겨울 쇼케이스.. 넥슨 '블록버STAR' 개최]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=133067</link>
@@ -110,14 +118,6 @@
             <pubDate>Wed, 20 Nov 2024 10:25:52 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202411/132536_174603_1234_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 다양한 변화를 시도하는 SOOP, 맞춤형 AI 솔루션 '싸비'와 '수피' 공개]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=132474</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=132474</guid>
-            <pubDate>Tue, 19 Nov 2024 09:24:33 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202411/132474_174501_5418_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
