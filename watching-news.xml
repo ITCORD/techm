@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 Dec 2024 11:24:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Dec 2024 12:46:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] AI 악용한 사이버 위협 대비하는 SK쉴더스...AI랩스와 컨설팅, 진단가이드까지]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=133178</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=133178</guid>
+            <pubDate>Thu, 05 Dec 2024 12:46:05 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202412/133178_175689_3210_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 네이버 '커머스 솔루션 마켓' 개편.. "구매자와 판매자 모두에게 AI 혁신 경험을 제공"]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=133121</link>
@@ -110,14 +118,6 @@
             <pubDate>Thu, 21 Nov 2024 08:31:59 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202411/132579_174685_339_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 텔코LLM을 활용한 SKT 'AI 고객센터'.. 실제 상담업무에 적극 활용한다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=132536</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=132536</guid>
-            <pubDate>Wed, 20 Nov 2024 10:25:52 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202411/132536_174603_1234_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
