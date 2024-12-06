@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 Dec 2024 10:27:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Dec 2024 11:21:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -951,6 +951,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202411/132768_175008_5710_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[카드뉴스] 엔씨, 저니 오브 모나크 출격...독창적인 연출에 캐릭터 성장의 재미까지 (테크M ─ 보는 뉴스)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=133219</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=133219</guid>
+            <pubDate>Fri, 06 Dec 2024 10:22:23 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202412/133219_175793_1638_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[카드뉴스] AI 악용한 사이버 위협 대비하는 SK쉴더스...AI랩스와 컨설팅, 진단가이드까지 (테크M ─ 보는 뉴스)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=133178</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=133178</guid>
@@ -1053,14 +1061,6 @@
             <pubDate>Fri, 22 Nov 2024 09:21:42 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202411/132639_174784_3343_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] '솔링크' 공개한 빅웨이브로보틱스.. "한번 구축하면 어떤 로봇 도입해도 제어" (테크M ─ 보는 뉴스)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=132579</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=132579</guid>
-            <pubDate>Thu, 21 Nov 2024 08:26:12 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202411/132579_174685_339_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
