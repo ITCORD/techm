@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 08 Dec 2024 01:54:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Dec 2024 03:13:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -280,6 +280,22 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202412/133208_175742_1629_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[SKT, 오픈랜 기반 '텔코 에지 AI' 추진 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=133244</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=133244</guid>
+            <pubDate>Sun, 08 Dec 2024 00:08:00 GMT</pubDate>
+            <content:encoded><![CDATA[윤상호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202412/133244_175887_038_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[LG유플러스-금오공대, 오픈랜 상용화 준비 '착착' (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=133243</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=133243</guid>
+            <pubDate>Sun, 08 Dec 2024 00:08:00 GMT</pubDate>
+            <content:encoded><![CDATA[윤상호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202412/133243_175886_2646_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[韓 네이버 손 뗐는데...日 라인야후, 또다시 개인정보 유출로 홍역 (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=133217</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=133217</guid>
@@ -374,22 +390,6 @@
             <pubDate>Thu, 05 Dec 2024 10:25:11 GMT</pubDate>
             <content:encoded><![CDATA[윤상호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202412/133180_175709_3055_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[KT, 내년부터 5G보다 비싼 LTE 요금제 가입 중단한다 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=133179</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=133179</guid>
-            <pubDate>Thu, 05 Dec 2024 08:29:28 GMT</pubDate>
-            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202412/133179_175698_4122_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[통신3사, 내년 위한 전열 정비 완료...AI 주도권 확보 위한 '리더십' 구축에 방점 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=133176</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=133176</guid>
-            <pubDate>Thu, 05 Dec 2024 07:22:25 GMT</pubDate>
-            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202412/133176_175683_653_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[케이뱅크, 소비자패널 성과 공유...우수 활동자에 포상 전달 (테크M ─ 이노베이션)]]></title>
@@ -504,6 +504,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202412/133008_175426_2440_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[크립토 주간 브리핑] '불장' 매섭다...비트코인 10만달러 돌파에 리플은 5주째 상향 (테크M ─ 인베스트먼트)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=133242</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=133242</guid>
+            <pubDate>Sun, 08 Dec 2024 00:08:00 GMT</pubDate>
+            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202412/133242_175882_1949_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[위메이드, 레전드 오브 이미르 출격 기대감...韓 MMO 새 역사 쓸까 (테크M ─ 인베스트먼트)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=133201</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=133201</guid>
@@ -606,14 +614,6 @@
             <pubDate>Sun, 01 Dec 2024 04:28:54 GMT</pubDate>
             <content:encoded><![CDATA[임경호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202412/132971_175382_5632_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['코인 과세' 2년 유예 확정...더불어민주당, 청년 반발 수용 (테크M ─ 인베스트먼트)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=132972</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=132972</guid>
-            <pubDate>Sun, 01 Dec 2024 00:56:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202412/132972_175383_5632_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[안다미 퓨처센스 대표, 블록체인기술발전 공헌 한국인터넷진흥원 원장상 수상 (테크M ─ 피플)]]></title>
