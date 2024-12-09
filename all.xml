@@ -4,14 +4,14 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 Dec 2024 18:34:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Dec 2024 19:23:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[[게임코인TV] 계엄 탄핵 정국이 코인러들에게 미치는 영향은? (테크M ─ 전체기사)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Mon, 09 Dec 2024 18:29:37 GMT</pubDate>
+            <pubDate>Mon, 09 Dec 2024 19:17:19 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
         </item>
         <item>
@@ -950,6 +950,13 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202411/132888_175214_850_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[게임코인TV] 계엄 탄핵 정국이 코인러들에게 미치는 영향은? (테크M ─ 보는 뉴스)]]></title>
+            <link>https://ITCORD.github.io/techm/all.xml</link>
+            <guid>https://ITCORD.github.io/techm/all.xml</guid>
+            <pubDate>Mon, 09 Dec 2024 19:23:09 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[카드뉴스] 밀리의서재, 디지털 세대를 위한 '독서 라이프 플랫폼'으로 도약한다 (테크M ─ 보는 뉴스)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=133308</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=133308</guid>
@@ -1052,14 +1059,6 @@
             <pubDate>Tue, 26 Nov 2024 08:28:11 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202411/132778_175038_5834_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 삼성전자, 멀티모달 AI '가우스2' 공개.. 서로 다른 데이터를 동시에 처리한다 (테크M ─ 보는 뉴스)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=132715</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=132715</guid>
-            <pubDate>Mon, 25 Nov 2024 09:23:02 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202411/132715_174945_369_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
