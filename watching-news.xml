@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 Dec 2024 08:34:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Dec 2024 09:30:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 밀리의서재, 디지털 세대를 위한 '독서 라이프 플랫폼'으로 도약한다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=133308</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=133308</guid>
+            <pubDate>Mon, 09 Dec 2024 09:30:21 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202412/133308_176003_3646_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 엔씨, 저니 오브 모나크 출격...독창적인 연출에 캐릭터 성장의 재미까지]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=133219</link>
@@ -110,14 +118,6 @@
             <pubDate>Mon, 25 Nov 2024 09:27:47 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202411/132715_174945_369_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 2024 게임축제 아직 줄줄이 남았다.. '메이플콘'과 '버닝비버' 그리고 'AGF'까지 총 출동]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=132639</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=132639</guid>
-            <pubDate>Fri, 22 Nov 2024 09:26:14 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202411/132639_174784_3343_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
