@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 Dec 2024 08:31:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Dec 2024 09:26:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 팬덤형 장르 국내 게임사 총출동...'AGF 2024',역대 최대규모로 열렸다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=133361</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=133361</guid>
+            <pubDate>Tue, 10 Dec 2024 09:26:05 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202412/133361_176089_3053_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[게임코인TV] 계엄 탄핵 정국 때문에 코인 과세 연장 없던 일로?...가상자산 골든타임 또 놓친다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=133315</link>
@@ -110,14 +118,6 @@
             <pubDate>Tue, 26 Nov 2024 16:31:18 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202411/132780_175051_5635_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] AI 발전에 따라 확산되는 사이버 공격 .. 안랩 '2025 5대 사이버 보안 위협 전망'에 주목하라]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=132778</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=132778</guid>
-            <pubDate>Tue, 26 Nov 2024 09:26:24 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202411/132778_175038_5834_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
