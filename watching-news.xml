@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 13 Dec 2024 09:27:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Dec 2024 10:26:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 글로벌 스타트업을 한곳에 '컴업2024'...어린이 맞춤형 에이전트와 AI 컨설팅, 초경량드론까지]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=133512</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=133512</guid>
+            <pubDate>Fri, 13 Dec 2024 10:26:40 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202412/133512_176342_26_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] AI를 적극 활용하는 네이버웹툰.. "독자와 작가 모두에게 다양한 기회를 제공할 것"]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=133467</link>
@@ -110,14 +118,6 @@
             <pubDate>Thu, 28 Nov 2024 16:28:36 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202411/132898_175237_2234_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[게임코인TV] 출시만 하면 수백만장 팔린다?!...펄어비스 '붉은사막'이 지스타 1등 게임인 이유]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=132833</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=132833</guid>
-            <pubDate>Wed, 27 Nov 2024 16:30:10 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202411/132833_175132_3517_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
