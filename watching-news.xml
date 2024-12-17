@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 17 Dec 2024 07:26:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Dec 2024 08:32:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 전재학 디렉터와 함께한 '2024 로스트아크 윈터'...신규 업데이트 내용 공개]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=133625</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=133625</guid>
+            <pubDate>Tue, 17 Dec 2024 08:32:08 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202412/133625_176578_5422_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] AI 글래스 대중화에 도전하는 시어스랩.. 음성을 활용한 '에이아이눈' 공개]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=133574</link>
@@ -110,14 +118,6 @@
             <pubDate>Fri, 29 Nov 2024 16:30:00 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202411/132953_175332_392_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 유아이패스, 새로운 비전 공개.. RPA를 넘어 'AI 에이전틱 오토메이션'으로 향한다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=132950</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=132950</guid>
-            <pubDate>Fri, 29 Nov 2024 10:25:30 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202411/132950_175321_465_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
