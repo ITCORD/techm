@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 19 Dec 2024 09:27:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Dec 2024 10:26:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -950,6 +950,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202412/133227_175824_022_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[카드뉴스] 성수=무신사, 지역상권 활성화를 위한 '로컬라이제이션(localization)'에 주목 (테크M ─ 보는 뉴스)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=133738</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=133738</guid>
+            <pubDate>Thu, 19 Dec 2024 10:26:11 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202412/133738_176798_306_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[카드뉴스] 네이버 치치직 출시 1주년.. 2025년에는 콘텐츠 확대와 스트리머 혜택 강화로 성장세 이어간다 (테크M ─ 보는 뉴스)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=133686</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=133686</guid>
@@ -1052,14 +1060,6 @@
             <pubDate>Tue, 03 Dec 2024 08:27:30 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202412/133067_175511_1841_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 액션슬래시 대작 카카오게임즈의 '패스 오브 엑자일2'...Coming Soon (테크M ─ 보는 뉴스)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=133023</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=133023</guid>
-            <pubDate>Mon, 02 Dec 2024 09:24:04 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202412/133023_175447_059_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
