@@ -4,9 +4,17 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 20 Dec 2024 13:30:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Dec 2024 14:22:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뉴스레터 플랫폼 '스티비' 서버 해킹 당했다...이용자 로그인·결제 정보 유출]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=133787</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=133787</guid>
+            <pubDate>Fri, 20 Dec 2024 14:19:07 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202412/133787_176906_4633_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[사이버리즌, 2024 마이터 어택 평가에서 전 영역 '최우수']]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=133786</link>
@@ -110,14 +118,6 @@
             <pubDate>Fri, 20 Dec 2024 10:22:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202412/133757_176851_2231_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[안랩, '마이터어택 평가'에서 탐지율 94.9% 기록..."탐지·분석 역량 글로벌 수준"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=133754</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=133754</guid>
-            <pubDate>Fri, 20 Dec 2024 10:19:00 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202412/133754_176847_186_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
