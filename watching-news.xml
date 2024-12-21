@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 21 Dec 2024 01:30:13 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Dec 2024 02:53:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 세일즈포스 '에이전트포스 2.0' 공개.. 쉽고 빠르게 자율형 AI 에이전트를 경험해보자]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=133784</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=133784</guid>
+            <pubDate>Sat, 21 Dec 2024 02:53:34 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202412/133784_176886_5221_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 성수=무신사, 지역상권 활성화를 위한 '로컬라이제이션(localization)'에 주목]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=133738</link>
@@ -110,14 +118,6 @@
             <pubDate>Wed, 04 Dec 2024 13:37:58 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202412/133121_175601_5917_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 유저들과 함께한 마비노기 20주년 겨울 쇼케이스.. 넥슨 '블록버STAR' 개최]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=133067</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=133067</guid>
-            <pubDate>Tue, 03 Dec 2024 12:47:13 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202412/133067_175511_1841_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

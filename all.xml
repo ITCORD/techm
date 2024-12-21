@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 21 Dec 2024 01:30:13 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Dec 2024 02:53:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -280,6 +280,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202412/133691_176709_4258_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[美, 삼성 반도체 보조금 원안대비 26% 삭감한 6조8800억원 확정…왜? (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=133791</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=133791</guid>
+            <pubDate>Sat, 21 Dec 2024 11:28:00 GMT</pubDate>
+            <content:encoded><![CDATA[윤상호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202412/133791_176915_253_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[오픈AI, 차세대 고급 추론 모델 'o3' 공개 (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=133790</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=133790</guid>
@@ -382,14 +390,6 @@
             <pubDate>Fri, 20 Dec 2024 10:35:00 GMT</pubDate>
             <content:encoded><![CDATA[윤상호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202412/133753_176846_1230_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방통위 "딥페이크 등 AI 서비스로 피해보면 신고하세요" (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=133762</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=133762</guid>
-            <pubDate>Fri, 20 Dec 2024 10:32:00 GMT</pubDate>
-            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202412/133762_176855_3137_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[전기차 충전소 워터, 제주에 F&B 결합형 전기차 충전소 선보인다 (테크M ─ 이노베이션)]]></title>
@@ -504,6 +504,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202412/133426_176206_5248_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[크립토 주간 브리핑] 美 연준 쇼크에 비트코인 상승폭 감소...솔라나는 30만원대 반납 (테크M ─ 인베스트먼트)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=133788</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=133788</guid>
+            <pubDate>Sat, 21 Dec 2024 11:28:00 GMT</pubDate>
+            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202412/133788_176908_203_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[이용재 미래에셋증권 수석매니저 "원화 비트코인 현물 ETF, 모든 시장 참여자에 꼭 필요" (테크M ─ 인베스트먼트)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=133736</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=133736</guid>
@@ -606,14 +614,6 @@
             <pubDate>Sat, 14 Dec 2024 00:59:00 GMT</pubDate>
             <content:encoded><![CDATA[임경호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202412/133520_176373_3628_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[M83, 원스톱 제작 시스템 구축 나섰다...'영화종합촬영소' 전격 인수 (테크M ─ 인베스트먼트)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=133506</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=133506</guid>
-            <pubDate>Fri, 13 Dec 2024 07:21:12 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202412/133506_176333_3915_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['혁신가' 이석우 두나무 대표 "韓 글로벌 디지털 금융허브의 꿈, 빠른 입법에 달렸다" (테크M ─ 피플)]]></title>
@@ -950,6 +950,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202412/133227_175824_022_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[카드뉴스] 세일즈포스 '에이전트포스 2.0' 공개.. 쉽고 빠르게 자율형 AI 에이전트를 경험해보자 (테크M ─ 보는 뉴스)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=133784</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=133784</guid>
+            <pubDate>Fri, 20 Dec 2024 09:20:26 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202412/133784_176886_5221_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[카드뉴스] 성수=무신사, 지역상권 활성화를 위한 '로컬라이제이션(localization)'에 주목 (테크M ─ 보는 뉴스)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=133738</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=133738</guid>
@@ -1052,14 +1060,6 @@
             <pubDate>Wed, 04 Dec 2024 10:22:39 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202412/133121_175601_5917_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 유저들과 함께한 마비노기 20주년 겨울 쇼케이스.. 넥슨 '블록버STAR' 개최 (테크M ─ 보는 뉴스)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=133067</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=133067</guid>
-            <pubDate>Tue, 03 Dec 2024 08:27:30 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202412/133067_175511_1841_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
