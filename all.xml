@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 20 Dec 2024 23:26:22 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Dec 2024 01:30:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -280,6 +280,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202412/133691_176709_4258_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[오픈AI, 차세대 고급 추론 모델 'o3' 공개 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=133790</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=133790</guid>
+            <pubDate>Sat, 21 Dec 2024 10:21:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202412/133790_176914_2051_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[뉴스레터 플랫폼 '스티비' 서버 해킹 당했다...이용자 로그인·결제 정보 유출 (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=133787</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=133787</guid>
@@ -382,14 +390,6 @@
             <pubDate>Fri, 20 Dec 2024 10:32:00 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202412/133762_176855_3137_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['착한기업' 넥슨게임즈, 소아암 어린이 위해 헌혈증과 1000만원 기부 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=133757</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=133757</guid>
-            <pubDate>Fri, 20 Dec 2024 10:22:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202412/133757_176851_2231_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[전기차 충전소 워터, 제주에 F&B 결합형 전기차 충전소 선보인다 (테크M ─ 이노베이션)]]></title>
