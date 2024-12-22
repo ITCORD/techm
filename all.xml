@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 22 Dec 2024 11:16:32 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Dec 2024 12:39:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -279,6 +279,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202412/133703_176724_5059_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[KT, AICT 인재 양성 성과 공유회 개최 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=133803</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=133803</guid>
+            <pubDate>Sun, 22 Dec 2024 12:36:31 GMT</pubDate>
+            <content:encoded><![CDATA[윤상호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202412/133803_176927_4143_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[LG전자, "TV를 오디오처럼"…'LG 라디오 플러스' 선봬 (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=133802</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=133802</guid>
@@ -381,14 +389,6 @@
             <pubDate>Fri, 20 Dec 2024 06:30:16 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202412/133777_176874_2847_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[2024 결산-전자] 반도체·DP·스마트폰, 샌드위치 위기 '심화' (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=133743</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=133743</guid>
-            <pubDate>Fri, 20 Dec 2024 11:33:00 GMT</pubDate>
-            <content:encoded><![CDATA[윤상호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202412/133743_176901_1332_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[전기차 충전소 워터, 제주에 F&B 결합형 전기차 충전소 선보인다 (테크M ─ 이노베이션)]]></title>
