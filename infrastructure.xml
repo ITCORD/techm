@@ -4,9 +4,17 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 22 Dec 2024 02:59:45 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Dec 2024 03:29:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[LG전자, "TV를 오디오처럼"…'LG 라디오 플러스' 선봬]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=133802</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=133802</guid>
+            <pubDate>Sun, 22 Dec 2024 00:09:00 GMT</pubDate>
+            <content:encoded><![CDATA[윤상호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202412/133802_176926_2456_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[LG유플러스, 차량관제설루션 'U+커넥트' 선봬]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=133792</link>
@@ -110,14 +118,6 @@
             <pubDate>Fri, 20 Dec 2024 11:33:00 GMT</pubDate>
             <content:encoded><![CDATA[윤상호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202412/133743_176901_1332_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[퀄컴, 온디바이스AI 생태계 확대…개발자 지원 프로그램 발표]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=133767</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=133767</guid>
-            <pubDate>Fri, 20 Dec 2024 11:12:00 GMT</pubDate>
-            <content:encoded><![CDATA[윤상호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202412/133767_176861_736_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

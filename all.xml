@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 22 Dec 2024 02:59:45 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Dec 2024 03:29:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[LG전자, "TV를 오디오처럼"…'LG 라디오 플러스' 선봬 (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=133802</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=133802</guid>
+            <pubDate>Sun, 22 Dec 2024 00:09:00 GMT</pubDate>
+            <content:encoded><![CDATA[윤상호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202412/133802_176926_2456_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[LG유플러스, 차량관제설루션 'U+커넥트' 선봬 (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=133792</link>
@@ -59,7 +67,7 @@
             <title><![CDATA[[부고] 서태건(게임물관리위원회 위원장)씨 모친상 (테크M ─ 전체기사)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Sun, 22 Dec 2024 01:39:02 GMT</pubDate>
+            <pubDate>Sun, 22 Dec 2024 03:26:44 GMT</pubDate>
             <content:encoded><![CDATA[임경호 기자]]></content:encoded>
         </item>
         <item>
@@ -157,14 +165,6 @@
             <pubDate>Fri, 20 Dec 2024 08:27:05 GMT</pubDate>
             <content:encoded><![CDATA[배수현 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202412/133782_176883_3230_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[카카오, 주주환원 'FCF의 35%'까지...3개년 중장기 환원 정책 발표 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=133780</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=133780</guid>
-            <pubDate>Fri, 20 Dec 2024 08:27:05 GMT</pubDate>
-            <content:encoded><![CDATA[배수현 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202412/133780_176881_2711_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[PGC 통신] "우승이 바로 눈 앞"...T1-광동, 나란히 1, 2위 기록 (테크M ─ 콘텐츠)]]></title>
@@ -279,6 +279,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202412/133703_176724_5059_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[LG전자, "TV를 오디오처럼"…'LG 라디오 플러스' 선봬 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=133802</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=133802</guid>
+            <pubDate>Sun, 22 Dec 2024 00:09:00 GMT</pubDate>
+            <content:encoded><![CDATA[윤상호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202412/133802_176926_2456_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[LG유플러스, 차량관제설루션 'U+커넥트' 선봬 (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=133792</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=133792</guid>
@@ -381,14 +389,6 @@
             <pubDate>Fri, 20 Dec 2024 11:33:00 GMT</pubDate>
             <content:encoded><![CDATA[윤상호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202412/133743_176901_1332_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[퀄컴, 온디바이스AI 생태계 확대…개발자 지원 프로그램 발표 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=133767</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=133767</guid>
-            <pubDate>Fri, 20 Dec 2024 11:12:00 GMT</pubDate>
-            <content:encoded><![CDATA[윤상호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202412/133767_176861_736_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[전기차 충전소 워터, 제주에 F&B 결합형 전기차 충전소 선보인다 (테크M ─ 이노베이션)]]></title>
@@ -626,7 +626,7 @@
             <title><![CDATA[[부고] 서태건(게임물관리위원회 위원장)씨 모친상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Sun, 22 Dec 2024 02:57:25 GMT</pubDate>
+            <pubDate>Sun, 22 Dec 2024 03:28:48 GMT</pubDate>
             <content:encoded><![CDATA[임경호 기자]]></content:encoded>
         </item>
         <item>
