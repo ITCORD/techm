@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 23 Dec 2024 11:24:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Dec 2024 12:43:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] AI 검색서비스 대전...'퍼플렉시티 vs. 오픈AI vs. 구글' 승자는?]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=133854</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=133854</guid>
+            <pubDate>Mon, 23 Dec 2024 12:43:43 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202412/133854_177013_3930_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 세일즈포스 '에이전트포스 2.0' 공개.. 쉽고 빠르게 자율형 AI 에이전트를 경험해보자]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=133784</link>
@@ -110,14 +118,6 @@
             <pubDate>Thu, 05 Dec 2024 12:46:05 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202412/133178_175689_3210_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 네이버 '커머스 솔루션 마켓' 개편.. "구매자와 판매자 모두에게 AI 혁신 경험을 제공"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=133121</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=133121</guid>
-            <pubDate>Wed, 04 Dec 2024 13:37:58 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202412/133121_175601_5917_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
