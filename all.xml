@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 Dec 2024 03:29:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Dec 2024 04:27:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -280,6 +280,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202412/133806_176954_4750_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[카카오, 기술윤리 활동 담은 보고서 발간...AI 역기능 대응 '총력' (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=133883</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=133883</guid>
+            <pubDate>Tue, 24 Dec 2024 00:45:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202412/133883_177080_4545_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[정부, 'AI 신뢰성 가이드라인' 글로벌 호환성 검증 (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=133873</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=133873</guid>
@@ -382,14 +390,6 @@
             <pubDate>Mon, 23 Dec 2024 10:23:07 GMT</pubDate>
             <content:encoded><![CDATA[배수현 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202412/133850_177006_5413_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[KT, “서울 신촌으로 초대형 미디어 트리 보러오세요" (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=133843</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=133843</guid>
-            <pubDate>Mon, 23 Dec 2024 07:19:15 GMT</pubDate>
-            <content:encoded><![CDATA[윤상호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202412/133843_176989_439_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[NHN, 안전보건경영 고도화로 국제표준 ISO 45001 인증 취득 (테크M ─ 이노베이션)]]></title>
@@ -504,6 +504,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202412/133493_176316_4527_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[테크M 리포트] 크래프톤을 향한 증권가 러브콜..."현주가 대비 50% 상승 전망" (테크M ─ 인베스트먼트)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=133884</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=133884</guid>
+            <pubDate>Tue, 24 Dec 2024 00:55:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202412/133884_177081_5434_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[크립토 브리핑] 비트코인, 1억4000만원선 붕괴 우려 고조...단기 조정 가능성도 (테크M ─ 인베스트먼트)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=133866</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=133866</guid>
@@ -606,14 +614,6 @@
             <pubDate>Mon, 16 Dec 2024 06:31:05 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202412/133575_176482_4817_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[크립토 브리핑] "진짜 2억원 향하나"...비트코인, 낙관론 속 신고가 재경신 (테크M ─ 인베스트먼트)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=133542</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=133542</guid>
-            <pubDate>Mon, 16 Dec 2024 09:40:00 GMT</pubDate>
-            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202412/133542_176434_3126_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["장현국의 밑그림, 곧 나온다" 확 달라진 액션스퀘어, 韓 대표 P2E 게임사 '기대감' (테크M ─ 피플)]]></title>
