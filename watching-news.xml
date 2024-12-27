@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 Dec 2024 08:27:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Dec 2024 09:22:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 연말 or 새해 선물 고민이신 분?.. 카카오 'AI 쇼핑메이트'로 센스있는 선물 전하자]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=133971</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=133971</guid>
+            <pubDate>Fri, 27 Dec 2024 09:22:44 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202412/133971_177247_1212_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 국내 가상자산 거래소 경쟁 본격화...업비트 '마켓 인사이트' 이어 빗썸 '예측차트'까지]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=133946</link>
@@ -110,14 +118,6 @@
             <pubDate>Mon, 09 Dec 2024 09:30:21 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202412/133308_176003_3646_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 엔씨, 저니 오브 모나크 출격...독창적인 연출에 캐릭터 성장의 재미까지]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=133219</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=133219</guid>
-            <pubDate>Fri, 06 Dec 2024 11:21:54 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202412/133219_175793_1638_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
