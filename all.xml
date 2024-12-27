@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 Dec 2024 02:55:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Dec 2024 03:29:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[KISDI "제4이통 진입, 요금 인하 '긍정적' 투자 확대 '미미'" (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=133964</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=133964</guid>
+            <pubDate>Fri, 27 Dec 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[윤상호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202412/133964_177238_5221_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[KISDI, "트럼프 2.0, 中 견제 위해 '6G 표준 단일화' 판 깰 수도" (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=133963</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 26 Dec 2024 08:24:53 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202412/133930_177177_333_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[더블유게임즈, 자사주 활용해 튀르키예 '팍시게임즈' 품었다 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=133945</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=133945</guid>
-            <pubDate>Thu, 26 Dec 2024 08:24:53 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202412/133945_177201_3856_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[오징어게임이 다시온다] ③네이버 멤버십? 유독?...넷플릭스, 어디서 저렴하게 볼까? (테크M ─ 콘텐츠)]]></title>
@@ -667,7 +667,7 @@
             <title><![CDATA[[부고] 서태건(게임물관리위원회 위원장)씨 모친상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Fri, 27 Dec 2024 02:54:06 GMT</pubDate>
+            <pubDate>Fri, 27 Dec 2024 03:28:03 GMT</pubDate>
             <content:encoded><![CDATA[임경호 기자]]></content:encoded>
         </item>
         <item>
@@ -724,6 +724,30 @@
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
             <pubDate>Wed, 18 Dec 2024 09:44:00 GMT</pubDate>
             <content:encoded><![CDATA[윤상호 기자]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[무신사, 개인화 추천 시스템 고도화...앱 구매 전환율 3배 '껑충' (테크M ─ 라이프)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=133958</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=133958</guid>
+            <pubDate>Fri, 27 Dec 2024 10:07:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202412/133958_177228_658_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한샘, 크리모 패브릭 소재 활용한 '스위브 스윙' 소파 내놨다 (테크M ─ 라이프)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=133951</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=133951</guid>
+            <pubDate>Fri, 27 Dec 2024 09:38:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202412/133951_177222_3856_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[야놀자 플랫폼·인터파크트리플 통합...'놀유니버스' 띄웠다 (테크M ─ 라이프)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=133949</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=133949</guid>
+            <pubDate>Fri, 27 Dec 2024 09:35:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202412/133949_177220_353_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[中 알리바바 손 잡은 신세계그룹...지마켓+알리익스프레스로 이커머스 판 흔든다(종합) (테크M ─ 라이프)]]></title>
@@ -812,30 +836,6 @@
             <pubDate>Tue, 24 Dec 2024 11:36:00 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202412/133879_177075_361_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[테크M 트렌드] 어른이가 크리스마스 선물로 받고 싶은 'IT템' (테크M ─ 라이프)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=133877</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=133877</guid>
-            <pubDate>Tue, 24 Dec 2024 11:15:00 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202412/133877_177073_1331_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쿠팡, 아웃도어 브랜드 '코닥어패럴' 로켓배송 스타트 (테크M ─ 라이프)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=133872</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=133872</guid>
-            <pubDate>Tue, 24 Dec 2024 09:32:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202412/133872_177059_3229_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[배민, 구글 AI 제미나이와 함께 홈파티 챌린지 열었다 (테크M ─ 라이프)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=133870</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=133870</guid>
-            <pubDate>Tue, 24 Dec 2024 09:27:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202412/133870_177057_2746_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[글로벌] 오픈AI, 휴머노이드 로봇 시장 진출 '검토' (테크M ─ 리포트)]]></title>
