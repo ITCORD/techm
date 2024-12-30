@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 Dec 2024 08:29:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Dec 2024 09:24:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 어느덧 30주년 '넥슨', 그 시대를 빛낸 게임들은 어떤 것들이 있을까?]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=134016</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=134016</guid>
+            <pubDate>Mon, 30 Dec 2024 09:24:00 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202412/134016_177340_2021_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 연말 or 새해 선물 고민이신 분?.. 카카오 'AI 쇼핑메이트'로 센스있는 선물 전하자]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=133971</link>
@@ -110,14 +118,6 @@
             <pubDate>Tue, 10 Dec 2024 05:22:44 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202412/133315_176056_1851_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 밀리의서재, 디지털 세대를 위한 '독서 라이프 플랫폼'으로 도약한다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=133308</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=133308</guid>
-            <pubDate>Mon, 09 Dec 2024 09:30:21 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202412/133308_176003_3646_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
