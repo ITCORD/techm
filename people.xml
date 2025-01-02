@@ -4,9 +4,17 @@
         <title>테크M ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Jan 2025 06:30:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jan 2025 07:22:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[신년사] 정신아 카카오 대표 "AI 환경 변화, 카카오의 새 기회"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=134095</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=134095</guid>
+            <pubDate>Thu, 02 Jan 2025 07:20:17 GMT</pubDate>
+            <content:encoded><![CDATA[배수현 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202501/134095_177515_5215_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[NHN 페이코, 정승규 신임 대표이사 선임...온오프라인 플랫폼 확장 총력]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=134090</link>
@@ -29,7 +37,7 @@
             <guid>https://www.techm.kr/news/articleView.html?idxno=134068</guid>
             <pubDate>Thu, 02 Jan 2025 11:54:00 GMT</pubDate>
             <content:encoded><![CDATA[배수현 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202501/134068_177481_5648_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202501/134068_177514_4122_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[KB국민은행, 이환주 9대 은행장 취임...핵심 키워드로 '신뢰' 꼽았다]]></title>
@@ -110,14 +118,6 @@
             <pubDate>Wed, 01 Jan 2025 11:20:57 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202501/134047_177448_117_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[신년 인터뷰-장현국 액션스퀘어 대표③] "커뮤니티-결제 필요없다...월렛-SDK에 집중"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=134031</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=134031</guid>
-            <pubDate>Tue, 31 Dec 2024 23:20:44 GMT</pubDate>
-            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202501/134031_177454_5232_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
