@@ -4,9 +4,17 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Jan 2025 23:22:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jan 2025 01:28:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[IT서비스 '빅3' 수장들, 새해 어깨가 무겁다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=134051</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=134051</guid>
+            <pubDate>Thu, 02 Jan 2025 09:54:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202501/134051_177459_459_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[신년사] 한기정 공정위원장 "플랫폼 기업 불공정행위 감시 강화...反경쟁행위 신속 차단"]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=134045</link>
@@ -110,14 +118,6 @@
             <pubDate>Mon, 30 Dec 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[윤상호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202412/134009_177318_403_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[5G 평균 속도, 전년 대비 9.2% 빨라졌지만...농어촌 공동망 속도는 대도시 절반 수준]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=134010</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=134010</guid>
-            <pubDate>Mon, 30 Dec 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202412/134010_177320_4532_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
