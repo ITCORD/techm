@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Jan 2025 05:23:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jan 2025 06:30:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,12 +168,28 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202501/134100_177524_2024_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[같이보소] 국내 최초 스페이스 오피스 장르가 온다...2025년 신작 러시 '시작' (테크M ─ 콘텐츠)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=134122</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=134122</guid>
+            <pubDate>Fri, 03 Jan 2025 06:28:25 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202501/134122_177571_1640_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[글로벌 게임시장 진출 유의점은?...게임산업협회, 콘진원과 주요 국가 연구 보고서 발간 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=134124</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=134124</guid>
-            <pubDate>Fri, 03 Jan 2025 05:19:38 GMT</pubDate>
+            <pubDate>Fri, 03 Jan 2025 05:19:01 GMT</pubDate>
             <content:encoded><![CDATA[임경호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202501/134124_177575_366_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['쿠키런: 모험의 탑' 출시 6개월...韓 매출 1위·구글 올해의 게임 수상 (테크M ─ 콘텐츠)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=134121</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=134121</guid>
+            <pubDate>Fri, 03 Jan 2025 05:19:01 GMT</pubDate>
+            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202501/134121_177569_145_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['발할라 서바이벌' 21일 글로벌 220개국 출시...라이온하트 첫 퍼블리싱 (테크M ─ 콘텐츠)]]></title>
@@ -264,20 +280,12 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202501/134050_177458_2740_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[신년사] 유인촌 장관 "K-콘텐츠 경쟁력 지속되도록 힘껏 지원" (테크M ─ 콘텐츠)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=134044</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=134044</guid>
-            <pubDate>Wed, 01 Jan 2025 06:28:31 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202501/134044_177439_356_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[봤다] 새해 밝게 비출 '조명가게'...계엄도 참사도 '위로 받으세요' (테크M ─ 콘텐츠)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=134035</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=134035</guid>
-            <pubDate>Wed, 01 Jan 2025 11:48:00 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202412/134035_177422_469_v150.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[네이버 카카오, K-웹툰 '흥행' 힘입어 글로벌 확장 '속도'...핵심 무기는 AI-IP (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=134126</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=134126</guid>
+            <pubDate>Fri, 03 Jan 2025 06:29:01 GMT</pubDate>
+            <content:encoded><![CDATA[배수현 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202501/134126_177576_4722_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[LG전자가 관심 쏟는 글로벌 스타트업은 어디? (테크M ─ 인프라)]]></title>
@@ -382,14 +390,6 @@
             <pubDate>Thu, 02 Jan 2025 06:28:10 GMT</pubDate>
             <content:encoded><![CDATA[윤상호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202501/134058_177542_926_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[신년사] 현신균 LG CNS "IPO 기점으로 미래 준비 가속" (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=134093</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=134093</guid>
-            <pubDate>Thu, 02 Jan 2025 06:28:10 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202501/134093_177511_5020_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[빗썸, 피크·바나 원화 마켓 추가...오후 4시 거래 개시 (테크M ─ 이노베이션)]]></title>
@@ -507,7 +507,7 @@
             <title><![CDATA[[테크M 리포트] 올 겨울도 뜨거운 배틀그라운드...크래프톤 연간 순익 '1조' 넘긴다 (테크M ─ 인베스트먼트)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=134123</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=134123</guid>
-            <pubDate>Fri, 03 Jan 2025 05:20:59 GMT</pubDate>
+            <pubDate>Fri, 03 Jan 2025 05:19:01 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202501/134123_177574_2937_v150.jpg" length="0" type="image/jpg"/>
         </item>
@@ -619,7 +619,7 @@
             <title><![CDATA[[부고] 홍선옥(문화체육관광부 사무관)씨 별세 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Fri, 03 Jan 2025 05:21:36 GMT</pubDate>
+            <pubDate>Fri, 03 Jan 2025 06:30:04 GMT</pubDate>
             <content:encoded><![CDATA[임경호 기자]]></content:encoded>
         </item>
         <item>
