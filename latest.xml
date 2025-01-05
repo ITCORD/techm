@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Jan 2025 10:21:16 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Jan 2025 11:18:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[새 옷 입고, 새 라인업으로 무장한 DN 프릭스]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=134134</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=134134</guid>
+            <pubDate>Sun, 05 Jan 2025 11:14:25 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202501/134134_177612_344_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[KT-삼성전자, '포차코 키즈폰' 선봬…34만9800원]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=134133</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 03 Jan 2025 11:14:00 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202501/134112_177602_246_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[韓 VFX 선구자 M83, 美 진출 '청신호'...북유럽 '김프빌' 품었다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=134107</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=134107</guid>
-            <pubDate>Fri, 03 Jan 2025 10:57:00 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202501/134107_177603_33_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
