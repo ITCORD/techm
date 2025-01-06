@@ -4,9 +4,17 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Jan 2025 05:22:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jan 2025 06:33:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SK하이닉스, 대학생 체험단 'SK하이닉스 앰버서더' 모집]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=134180</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=134180</guid>
+            <pubDate>Mon, 06 Jan 2025 06:29:29 GMT</pubDate>
+            <content:encoded><![CDATA[윤상호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202501/134180_177667_820_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[CES 25] 삼성전자·LG전자·SK, "AI, 우리가 최고"(종합)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=134177</link>
@@ -110,14 +118,6 @@
             <pubDate>Mon, 06 Jan 2025 10:27:00 GMT</pubDate>
             <content:encoded><![CDATA[윤상호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202501/134147_177626_2443_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[CES 25] LG전자, '공감지능과 함께 일상의 라이프스 굿']]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=134145</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=134145</guid>
-            <pubDate>Mon, 06 Jan 2025 10:10:00 GMT</pubDate>
-            <content:encoded><![CDATA[윤상호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202501/134145_177621_155_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
