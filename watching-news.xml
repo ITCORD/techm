@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Jan 2025 08:31:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jan 2025 09:28:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] K-게임 전성시대, 카잔-인조이-아이온2-킹스로드...2025년 신작 쏟아진다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=134248</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=134248</guid>
+            <pubDate>Tue, 07 Jan 2025 09:28:38 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202501/134248_177757_4410_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 2025년 김범석 대표와 함께하는 우아한형제들.. "지속가능한 성장과 책임경영에 집중"]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=134186</link>
@@ -110,14 +118,6 @@
             <pubDate>Mon, 16 Dec 2024 11:23:07 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202412/133574_176483_4949_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 글로벌 스타트업을 한곳에 '컴업2024'...어린이 맞춤형 에이전트와 AI 컨설팅, 초경량드론까지]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=133512</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=133512</guid>
-            <pubDate>Fri, 13 Dec 2024 10:26:40 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202412/133512_176342_26_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
