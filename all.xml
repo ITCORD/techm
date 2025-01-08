@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Jan 2025 03:29:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Jan 2025 04:28:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -616,6 +616,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202501/134046_177442_2527_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA["트럼프 취임식 이어 만찬장 간다" 신세계 정용진...韓 재계 넘어 존재감 커졌다 (테크M ─ 피플)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=134275</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=134275</guid>
+            <pubDate>Wed, 08 Jan 2025 11:41:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202501/134275_177805_4320_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[장현국 액션스퀘어 공동대표, 또 지분 추가 매입...1억원 규모 (테크M ─ 피플)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=134189</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=134189</guid>
@@ -635,7 +643,7 @@
             <title><![CDATA[[부고] 홍선옥(문화체육관광부 사무관)씨 별세 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Wed, 08 Jan 2025 01:28:27 GMT</pubDate>
+            <pubDate>Wed, 08 Jan 2025 04:27:06 GMT</pubDate>
             <content:encoded><![CDATA[임경호 기자]]></content:encoded>
         </item>
         <item>
@@ -719,12 +727,44 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202501/134060_177468_1711_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[신년사] 유영상 SKT "본원적 경쟁력 극대화-AI사업 가시적 성과 창출" (테크M ─ 피플)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=134054</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=134054</guid>
-            <pubDate>Thu, 02 Jan 2025 10:04:00 GMT</pubDate>
-            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202501/134054_177465_415_v150.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[현대백화점, 국내 양봉농가 지원 나섰다...상생 행보 본격화 (테크M ─ 라이프)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=134265</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=134265</guid>
+            <pubDate>Wed, 08 Jan 2025 10:51:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202501/134265_177788_5127_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[케이뱅크, 주식시장 부진 여파로 '기업공개' 연기...향후 재추진 예정 (테크M ─ 라이프)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=134262</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=134262</guid>
+            <pubDate>Wed, 08 Jan 2025 10:28:00 GMT</pubDate>
+            <content:encoded><![CDATA[배수현 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202501/134262_177786_2529_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[화해, '2024 서울콘'서 K-뷰티 위상 공고히 (테크M ─ 라이프)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=134261</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=134261</guid>
+            <pubDate>Wed, 08 Jan 2025 10:28:00 GMT</pubDate>
+            <content:encoded><![CDATA[배수현 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202501/134261_177785_1448_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[카카오뱅크-충남신보, 충남지역 소상공인 금융 지원 위해 '맞손' (테크M ─ 라이프)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=134259</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=134259</guid>
+            <pubDate>Wed, 08 Jan 2025 10:28:00 GMT</pubDate>
+            <content:encoded><![CDATA[배수현 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202501/134259_177784_1043_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[토스, '나만의 별자리 찾기' 기부 이벤트 성료...2억7000만원 모금 (테크M ─ 라이프)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=134258</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=134258</guid>
+            <pubDate>Wed, 08 Jan 2025 10:28:00 GMT</pubDate>
+            <content:encoded><![CDATA[배수현 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202501/134258_177781_343_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[카카오모빌리티의 2025년 키워드 셋...'로봇 배송' '자율주행' '택시와 상생' (테크M ─ 라이프)]]></title>
@@ -797,46 +837,6 @@
             <pubDate>Tue, 07 Jan 2025 10:27:00 GMT</pubDate>
             <content:encoded><![CDATA[배수현 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202501/134204_177713_2126_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[타다, 'K-의료관광협회'와 손잡고 외국인 환자 유치·의료관광 산업 발전 협력 (테크M ─ 라이프)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=134203</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=134203</guid>
-            <pubDate>Tue, 07 Jan 2025 10:22:00 GMT</pubDate>
-            <content:encoded><![CDATA[배수현 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202501/134203_177711_1325_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[요기요, BHC·세라젬과 '고객 감사 프로모션'...오는 12일까지 (테크M ─ 라이프)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=134202</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=134202</guid>
-            <pubDate>Tue, 07 Jan 2025 10:11:00 GMT</pubDate>
-            <content:encoded><![CDATA[배수현 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202501/134202_177709_625_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코웨이, 주주환원 대폭 확대...자사주 전량소각 등 총주주환원율 2배 늘린다 (테크M ─ 라이프)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=134191</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=134191</guid>
-            <pubDate>Mon, 06 Jan 2025 07:24:39 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202501/134191_177692_76_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[카카오스타일 '지그재그·포스티' 연령별 맞춤 전략으로 전세대 취향저격 (테크M ─ 라이프)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=134179</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=134179</guid>
-            <pubDate>Mon, 06 Jan 2025 06:28:55 GMT</pubDate>
-            <content:encoded><![CDATA[배수현 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202501/134179_177670_13_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['쇼핑도 짧아야 한다'...쇼핑엔티, '숏티'로 매출 3배 늘었다 (테크M ─ 라이프)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=134183</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=134183</guid>
-            <pubDate>Mon, 06 Jan 2025 06:28:55 GMT</pubDate>
-            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202501/134183_177669_4054_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[글로벌] 알리바바와 레이네오, AI 스마트 안경 혁신 이끈다 (테크M ─ 리포트)]]></title>
