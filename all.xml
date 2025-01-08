@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Jan 2025 07:24:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Jan 2025 08:31:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -397,7 +397,7 @@
             <guid>https://www.techm.kr/news/articleView.html?idxno=134285</guid>
             <pubDate>Wed, 08 Jan 2025 06:27:55 GMT</pubDate>
             <content:encoded><![CDATA[임경호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202501/134285_177817_2928_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202501/134285_177827_5550_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['공격적 행보' 코인원, 에이아이식스틴즈 원화마켓 추가 (테크M ─ 이노베이션)]]></title>
@@ -643,7 +643,7 @@
             <title><![CDATA[[부고] 홍선옥(문화체육관광부 사무관)씨 별세 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Wed, 08 Jan 2025 06:30:44 GMT</pubDate>
+            <pubDate>Wed, 08 Jan 2025 08:29:19 GMT</pubDate>
             <content:encoded><![CDATA[임경호 기자]]></content:encoded>
         </item>
         <item>
@@ -951,6 +951,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202412/133931_177176_3112_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[카드뉴스] 디스프레드가 제시한 2025년 웹3 전망은? 'AI와 블록체인, 비트코인 등에 집중하라' (테크M ─ 보는 뉴스)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=134294</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=134294</guid>
+            <pubDate>Wed, 08 Jan 2025 08:31:57 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202501/134294_177836_2916_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[게임코인TV] 위믹스 페이-레전드 오브 이미르...2025년 위믹스 사업의 핵심 (테크M ─ 보는 뉴스)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=134249</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=134249</guid>
@@ -1053,14 +1061,6 @@
             <pubDate>Wed, 18 Dec 2024 08:27:07 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202412/133686_176687_5243_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 전재학 디렉터와 함께한 '2024 로스트아크 윈터'...신규 업데이트 내용 공개 (테크M ─ 보는 뉴스)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=133625</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=133625</guid>
-            <pubDate>Tue, 17 Dec 2024 08:28:25 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202412/133625_176578_5422_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
