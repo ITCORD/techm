@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Jan 2025 09:27:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jan 2025 10:26:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -280,12 +280,20 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202501/134279_177810_3139_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['IPO 대어' LG CNS 투자 포인트는 'AI·글로벌·공모가'(종합) (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=134351</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=134351</guid>
+            <pubDate>Thu, 09 Jan 2025 10:22:41 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202501/134351_177922_2336_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[2027년 롤드컵 한국서 개최 확정...매년 국내서 'LoL' 국제대회 열린다 (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=134350</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=134350</guid>
             <pubDate>Thu, 09 Jan 2025 07:20:49 GMT</pubDate>
             <content:encoded><![CDATA[조성준 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202501/134350_177911_1410_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202501/134350_177925_1834_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[AI 만난 카카오, 카카오톡 시즌2-카나나 앞세워 '퀀텀점프' 노린다 (테크M ─ 인프라)]]></title>
@@ -382,14 +390,6 @@
             <pubDate>Thu, 09 Jan 2025 11:28:00 GMT</pubDate>
             <content:encoded><![CDATA[윤상호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202501/134324_177880_1549_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["예약자 추정만 800만명" 시프트업 '니케' 中 대륙 진출 가시권...텐센트 마케팅 스타트 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=134325</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=134325</guid>
-            <pubDate>Thu, 09 Jan 2025 11:25:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202501/134325_177918_1914_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[NHN KCP, 올인원 결제 단말기 'KCP 터미널 더 블랙' 출시 (테크M ─ 이노베이션)]]></title>
@@ -616,6 +616,13 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202501/134123_177574_2937_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[부고] 신희권(SK스토아 커머스사업본부장)씨 빙모상 (테크M ─ 피플)]]></title>
+            <link>https://ITCORD.github.io/techm/all.xml</link>
+            <guid>https://ITCORD.github.io/techm/all.xml</guid>
+            <pubDate>Thu, 09 Jan 2025 10:23:42 GMT</pubDate>
+            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA["트럼프 취임식 이어 만찬장 간다" 신세계 정용진...韓 재계 넘어 존재감 커졌다 (테크M ─ 피플)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=134275</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=134275</guid>
@@ -643,7 +650,7 @@
             <title><![CDATA[[부고] 홍선옥(문화체육관광부 사무관)씨 별세 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Thu, 09 Jan 2025 07:21:52 GMT</pubDate>
+            <pubDate>Thu, 09 Jan 2025 10:23:42 GMT</pubDate>
             <content:encoded><![CDATA[임경호 기자]]></content:encoded>
         </item>
         <item>
@@ -717,14 +724,6 @@
             <pubDate>Thu, 02 Jan 2025 10:18:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202501/134061_177470_184_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[신년사] 박진효 SK브로드밴드 "사석위호(射石爲虎) 자세로 장기적 성장성 확보 목표" (테크M ─ 피플)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=134060</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=134060</guid>
-            <pubDate>Thu, 02 Jan 2025 10:17:00 GMT</pubDate>
-            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202501/134060_177468_1711_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[CJ ENM 엠넷플러스, K-POP 팬덤 편의성 대폭 개선...대규모 업데이트 (테크M ─ 라이프)]]></title>
