@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Jan 2025 11:24:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jan 2025 12:43:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[게임코인TV] 장현국 액션스퀘어 대표 인터뷰 뒷 얘기...위믹스 투자자들의 원성은 어찌할꼬]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=134401</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=134401</guid>
+            <pubDate>Fri, 10 Jan 2025 12:43:09 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202501/134401_178001_5336_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 디스프레드가 제시한 2025년 웹3 전망은? 'AI와 블록체인, 비트코인 등에 집중하라']]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=134294</link>
@@ -110,14 +118,6 @@
             <pubDate>Thu, 19 Dec 2024 10:26:11 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202412/133738_176798_306_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 네이버 치치직 출시 1주년.. 2025년에는 콘텐츠 확대와 스트리머 혜택 강화로 성장세 이어간다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=133686</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=133686</guid>
-            <pubDate>Wed, 18 Dec 2024 09:26:16 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202412/133686_176687_5243_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
