@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Jan 2025 01:46:50 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Jan 2025 03:04:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -280,6 +280,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202501/134354_178006_2811_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[삼성전자서비스, '2024년 CS 달인' 발표 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=134412</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=134412</guid>
+            <pubDate>Sun, 12 Jan 2025 10:48:00 GMT</pubDate>
+            <content:encoded><![CDATA[윤상호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202501/134412_178021_4942_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[미국 시장 뚫은 한컴라이프케어…모기업 한컴 "매각 계획 철회" (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=134391</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=134391</guid>
@@ -382,14 +390,6 @@
             <pubDate>Fri, 10 Jan 2025 10:00:00 GMT</pubDate>
             <content:encoded><![CDATA[조성준 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202501/134359_177931_5941_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[업비트 '태권도 신동' 변재영 후원 나섰다…청년세대 지원 속도 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=134357</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=134357</guid>
-            <pubDate>Fri, 10 Jan 2025 09:44:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202501/134357_177929_4341_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["축구에 진심"...넥슨, '그라운드.N'으로 4년째 유소년 축구 후원 눈길 (테크M ─ 이노베이션)]]></title>
