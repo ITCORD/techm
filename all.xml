@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Jan 2025 14:26:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jan 2025 15:26:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,6 +168,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202501/134479_178113_250_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['피어리스' 방식이 게임 승패 가른다...모든 것 바뀐 'LCK컵' 개막 (테크M ─ 콘텐츠)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=134501</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=134501</guid>
+            <pubDate>Tue, 14 Jan 2025 15:20:44 GMT</pubDate>
+            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202501/134501_178162_2215_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[위메이드 '레전드 오브 이미르' 기대감 고조...유튜브 구독자 이벤트로 분위기 띄운다 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=134498</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=134498</guid>
@@ -197,7 +205,7 @@
             <guid>https://www.techm.kr/news/articleView.html?idxno=134491</guid>
             <pubDate>Tue, 14 Jan 2025 06:26:00 GMT</pubDate>
             <content:encoded><![CDATA[조성준 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202501/134491_178135_1430_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202501/134491_178167_039_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[출시 초읽기 돌입한 '발할라 서바이벌'...사전예약 400만 넘어 막바지 고삐 죈다 (테크M ─ 콘텐츠)]]></title>
@@ -270,14 +278,6 @@
             <pubDate>Sat, 11 Jan 2025 14:17:12 GMT</pubDate>
             <content:encoded><![CDATA[임경호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202501/134411_178018_5618_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국가의 게임 사전 검열은 위헌?...'게임산업법' 헌재 심리 받는다 (테크M ─ 콘텐츠)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=134404</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=134404</guid>
-            <pubDate>Sat, 11 Jan 2025 11:29:00 GMT</pubDate>
-            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202501/134404_178014_196_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['규제법' 쏟아낸다는 방통위...'이용자보호' 위해 AI-플랫폼 기업 규제 강화한다 (테크M ─ 인프라)]]></title>
