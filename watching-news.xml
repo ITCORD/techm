@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Jan 2025 06:31:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jan 2025 07:24:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 카카오모빌리티 2025년, 3가지 키워드 주목하라...'로봇·자율주행·택시와의 상생']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=134549</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=134549</guid>
+            <pubDate>Wed, 15 Jan 2025 07:24:18 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202501/134549_178225_3431_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[게임코인TV] 장현국 액션스퀘어 대표 인터뷰 뒷 얘기...위믹스 투자자들의 원성은 어찌할꼬]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=134401</link>
@@ -110,14 +118,6 @@
             <pubDate>Sat, 21 Dec 2024 02:53:34 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202412/133784_176886_5221_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 성수=무신사, 지역상권 활성화를 위한 '로컬라이제이션(localization)'에 주목]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=133738</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=133738</guid>
-            <pubDate>Thu, 19 Dec 2024 10:26:11 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202412/133738_176798_306_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
