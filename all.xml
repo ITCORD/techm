@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Jan 2025 05:22:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jan 2025 06:31:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,6 +168,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202501/134521_178196_129_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['쿠키런: 모험의 탑' 일본 출시 초읽기...요스타 손잡고 사전등록 진행 (테크M ─ 콘텐츠)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=134541</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=134541</guid>
+            <pubDate>Wed, 15 Jan 2025 06:27:21 GMT</pubDate>
+            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202501/134541_178216_1121_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[컴투스, 방치형 RPG 라인업 확대...'갓앤데몬' 글로벌 정식 출시 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=134527</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=134527</guid>
@@ -270,14 +278,6 @@
             <pubDate>Mon, 13 Jan 2025 06:29:17 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202501/134455_178089_1356_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코빗 리서치센터 "올해 가상자산 규제 명확성 강화될 것" (테크M ─ 콘텐츠)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=134446</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=134446</guid>
-            <pubDate>Mon, 13 Jan 2025 11:40:00 GMT</pubDate>
-            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202501/134446_178064_3956_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['가성비' 앞세운 샤오미, 韓 스마트폰 직접 공략...LG 떠난 자리 메울까? (테크M ─ 인프라)]]></title>
@@ -504,6 +504,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202501/134276_177807_5914_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['토큰 경제' 새판짜기 기대감...말 많은 STO 시장, 이번엔 열릴까 (테크M ─ 인베스트먼트)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=134545</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=134545</guid>
+            <pubDate>Wed, 15 Jan 2025 06:29:02 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202501/134545_178221_2420_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[크립토 브리핑] 비트코인, 1억4300만원 반등...리플은 밤 사이 4000원대 터치 (테크M ─ 인베스트먼트)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=134512</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=134512</guid>
@@ -608,14 +616,6 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202501/134338_177895_2643_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[크립토 브리핑] '인플레' 우려 속 비트코인 이틀째↓...리플은 ETF 기대감 '반짝' (테크M ─ 인베스트먼트)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=134297</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=134297</guid>
-            <pubDate>Thu, 09 Jan 2025 09:41:00 GMT</pubDate>
-            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202501/134297_177847_4539_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[템터뷰] 김재영 의장도 극찬한 '오딘' 후속작...'발할라 서바이벌'의 신화는 이제부터 (테크M ─ 피플)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=134504</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=134504</guid>
@@ -675,7 +675,7 @@
             <title><![CDATA[[부고] 신희권(SK스토아 커머스사업본부장)씨 빙모상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Wed, 15 Jan 2025 05:20:39 GMT</pubDate>
+            <pubDate>Wed, 15 Jan 2025 06:29:20 GMT</pubDate>
             <content:encoded><![CDATA[조성준 기자]]></content:encoded>
         </item>
         <item>
@@ -706,7 +706,7 @@
             <title><![CDATA[[부고] 홍선옥(문화체육관광부 사무관)씨 별세 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Wed, 15 Jan 2025 05:20:39 GMT</pubDate>
+            <pubDate>Wed, 15 Jan 2025 06:29:20 GMT</pubDate>
             <content:encoded><![CDATA[임경호 기자]]></content:encoded>
         </item>
         <item>
