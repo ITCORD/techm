@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Jan 2025 05:23:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jan 2025 06:30:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] KB국민은행과 손잡은 빗썸...코인판 지각변동의 시작]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=134713</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=134713</guid>
+            <pubDate>Mon, 20 Jan 2025 06:30:22 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202501/134713_178517_4647_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[게임코인TV] 넥슨 코인 곧 나온다...메이플스토리N에 쏠린 눈]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=134642</link>
@@ -110,14 +118,6 @@
             <pubDate>Fri, 27 Dec 2024 09:22:44 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202412/133971_177247_1212_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 국내 가상자산 거래소 경쟁 본격화...업비트 '마켓 인사이트' 이어 빗썸 '예측차트'까지]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=133946</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=133946</guid>
-            <pubDate>Thu, 26 Dec 2024 14:22:22 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202412/133946_177208_597_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
