@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Jan 2025 21:23:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jan 2025 22:21:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 트럼프 2.0 시대, 디지털자산 미래 예측하는 콘퍼런스 열린다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=134720</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=134720</guid>
+            <pubDate>Tue, 21 Jan 2025 07:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202501/134720_178538_437_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] KB국민은행과 손잡은 빗썸...코인판 지각변동의 시작]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=134713</link>
@@ -110,14 +118,6 @@
             <pubDate>Mon, 30 Dec 2024 09:24:00 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202412/134016_177340_2021_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 연말 or 새해 선물 고민이신 분?.. 카카오 'AI 쇼핑메이트'로 센스있는 선물 전하자]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=133971</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=133971</guid>
-            <pubDate>Fri, 27 Dec 2024 09:22:44 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202412/133971_177247_1212_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
