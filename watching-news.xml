@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Jan 2025 06:31:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jan 2025 07:21:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 트럼프 2.0 시대 디지털자산의 미래는? 테크M-법무법인 세움, 콘퍼런스 개최]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=134895</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=134895</guid>
+            <pubDate>Thu, 23 Jan 2025 07:21:22 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202501/134895_178823_1451_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 트럼프 2.0 시대, 디지털자산 미래 예측하는 콘퍼런스 열린다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=134720</link>
@@ -110,14 +118,6 @@
             <pubDate>Tue, 31 Dec 2024 11:23:13 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202412/134036_177406_1939_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 어느덧 30주년 '넥슨', 그 시대를 빛낸 게임들은 어떤 것들이 있을까?]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=134016</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=134016</guid>
-            <pubDate>Mon, 30 Dec 2024 09:24:00 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202412/134016_177340_2021_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
