@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Jan 2025 03:22:49 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Jan 2025 04:23:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[세계로 뻗어가는 K푸드] '비비고'로 세계 정복한 CJ제일제당...투자-현지화-마케팅 전략 '통했다' (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=134968</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=134968</guid>
+            <pubDate>Sun, 26 Jan 2025 00:56:00 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202501/134968_178943_224_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[KT·SKB·LGU+, "설 연휴, IPTV와 보내세요" (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=134977</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=134977</guid>
+            <pubDate>Sun, 26 Jan 2025 00:55:00 GMT</pubDate>
+            <content:encoded><![CDATA[윤상호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202501/134977_178968_237_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[네이버·카카오와 함께 하는 설연휴...서비스로 풍성한 연휴 맞이하자 (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=134981</link>
@@ -152,22 +168,6 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202501/134959_178925_5654_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[통신 대장주 등극한 KT, 22년만에 시가총액 SK텔레콤 '추월' (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=134958</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=134958</guid>
-            <pubDate>Fri, 24 Jan 2025 07:18:04 GMT</pubDate>
-            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202501/134958_178936_4458_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국레노버, '씽크패드 X9' 시리즈 2종 출시...'AI 비서' 기능 지원 (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=134957</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=134957</guid>
-            <pubDate>Fri, 24 Jan 2025 07:18:04 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202501/134957_178923_543_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[리니지W·롬 유사성 두고 격돌...엔씨소프트 vs. 레드랩, 저작권 소송 시작 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=134947</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=134947</guid>
@@ -280,6 +280,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202501/134857_178767_830_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[KT·SKB·LGU+, "설 연휴, IPTV와 보내세요" (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=134977</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=134977</guid>
+            <pubDate>Sun, 26 Jan 2025 00:55:00 GMT</pubDate>
+            <content:encoded><![CDATA[윤상호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202501/134977_178968_237_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[LG유플러스, 메타버스 '키즈토피아' 100만명 돌파 (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=134976</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=134976</guid>
@@ -382,14 +390,6 @@
             <pubDate>Fri, 24 Jan 2025 06:26:36 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202501/134950_178940_4629_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[채널톡, '알프'에 네이버·카카오 등 외부 메신저 기능 연동 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=134949</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=134949</guid>
-            <pubDate>Fri, 24 Jan 2025 06:26:36 GMT</pubDate>
-            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202501/134949_178908_5216_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[마브렉스, 정보보호 국제 표준 인증 'ISO·IEC 27001' 획득 (테크M ─ 이노베이션)]]></title>
@@ -619,7 +619,7 @@
             <title><![CDATA[[부고] 김규하(비바리퍼블리카 CBO 최고사업책임자)씨 모친상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Sun, 26 Jan 2025 03:22:02 GMT</pubDate>
+            <pubDate>Sun, 26 Jan 2025 04:22:40 GMT</pubDate>
             <content:encoded><![CDATA[배수현 기자]]></content:encoded>
         </item>
         <item>
@@ -665,7 +665,7 @@
             <title><![CDATA[[인사] 방송통신위원회 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Sun, 26 Jan 2025 03:22:02 GMT</pubDate>
+            <pubDate>Sun, 26 Jan 2025 04:22:40 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
         </item>
         <item>
@@ -723,6 +723,14 @@
             <pubDate>Fri, 10 Jan 2025 08:25:37 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202501/134398_177994_5024_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[세계로 뻗어가는 K푸드] '비비고'로 세계 정복한 CJ제일제당...투자-현지화-마케팅 전략 '통했다' (테크M ─ 라이프)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=134968</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=134968</guid>
+            <pubDate>Sun, 26 Jan 2025 00:56:00 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202501/134968_178943_224_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[네이버·카카오와 함께 하는 설연휴...서비스로 풍성한 연휴 맞이하자 (테크M ─ 라이프)]]></title>
@@ -827,14 +835,6 @@
             <pubDate>Fri, 24 Jan 2025 10:14:00 GMT</pubDate>
             <content:encoded><![CDATA[배수현 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202501/134919_178873_817_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[토스, '2024년 혜택 결산' 공개...송금 수수료 1인당 '4만원' 절약 (테크M ─ 라이프)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=134917</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=134917</guid>
-            <pubDate>Fri, 24 Jan 2025 10:07:00 GMT</pubDate>
-            <content:encoded><![CDATA[배수현 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202501/134917_178871_5644_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[글로벌] 오픈AI, 웹 브라우저 제어 가능한 AI '오퍼레이터' 선보여 (테크M ─ 리포트)]]></title>
