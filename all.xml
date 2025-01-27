@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Jan 2025 15:20:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jan 2025 16:26:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[테크M 이슈] 나스닥 뒤흔든 '딥시크 쇼크'...위기인가 기회인가 (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=134998</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=134998</guid>
+            <pubDate>Mon, 27 Jan 2025 16:23:51 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202501/134998_179043_5145_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[휴대폰만 있으면 OK... 귀성길 지루함 달랠 넷플릭스 게임 5선 (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=134988</link>
@@ -160,14 +168,6 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202501/134964_178932_4323_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[LG이노텍·삼성전기, 작년 나란히 매출 신기록…2025년 FC-BGA 경쟁 '점화' (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=134965</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=134965</guid>
-            <pubDate>Fri, 24 Jan 2025 08:26:57 GMT</pubDate>
-            <content:encoded><![CDATA[윤상호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202501/134965_178931_3746_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[휴대폰만 있으면 OK... 귀성길 지루함 달랠 넷플릭스 게임 5선 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=134988</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=134988</guid>
@@ -280,6 +280,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202501/134870_178785_98_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[테크M 이슈] 나스닥 뒤흔든 '딥시크 쇼크'...위기인가 기회인가 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=134998</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=134998</guid>
+            <pubDate>Mon, 27 Jan 2025 16:24:39 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202501/134998_179043_5145_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[해커는 명절에도 쉬지 않는다...반드시 지켜야 할 보안수칙은 (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=134989</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=134989</guid>
@@ -382,14 +390,6 @@
             <pubDate>Fri, 24 Jan 2025 07:18:04 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202501/134955_178921_4938_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[독서 방식 바꾼 '밀리의서재', 내부 조직도 싹 바꿨다...'백만권팀' '독서당 본부' 출범 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=134941</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=134941</guid>
-            <pubDate>Fri, 24 Jan 2025 07:18:04 GMT</pubDate>
-            <content:encoded><![CDATA[배수현 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202501/134941_178902_470_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[마브렉스, 정보보호 국제 표준 인증 'ISO·IEC 27001' 획득 (테크M ─ 이노베이션)]]></title>
@@ -619,7 +619,7 @@
             <title><![CDATA[[부고] 김규하(비바리퍼블리카 CBO 최고사업책임자)씨 모친상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Mon, 27 Jan 2025 15:19:44 GMT</pubDate>
+            <pubDate>Mon, 27 Jan 2025 16:25:24 GMT</pubDate>
             <content:encoded><![CDATA[배수현 기자]]></content:encoded>
         </item>
         <item>
@@ -665,7 +665,7 @@
             <title><![CDATA[[인사] 방송통신위원회 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Mon, 27 Jan 2025 15:19:44 GMT</pubDate>
+            <pubDate>Mon, 27 Jan 2025 16:25:24 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
         </item>
         <item>
