@@ -4,9 +4,17 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Jan 2025 01:26:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jan 2025 02:46:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[딥시크, 이미지까지 섭렵? "우리 '야누스' 모델이 오픈AI '달리' 보다 우수"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=135000</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=135000</guid>
+            <pubDate>Tue, 28 Jan 2025 11:36:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202501/135000_179054_3458_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[테크M 이슈] 나스닥 뒤흔든 '딥시크 쇼크'...위기인가 기회인가]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=134998</link>
@@ -110,14 +118,6 @@
             <pubDate>Fri, 24 Jan 2025 07:18:40 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202501/134957_178923_543_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이노그리드, 클라우드 인재 확보 위한 상반기 공채 실시]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=134955</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=134955</guid>
-            <pubDate>Fri, 24 Jan 2025 07:18:40 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202501/134955_178921_4938_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
