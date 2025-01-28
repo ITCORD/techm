@@ -4,9 +4,17 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Jan 2025 02:46:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jan 2025 03:23:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["로봇을 잡아라"…삼성전자·LG전자, '격돌']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=134980</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=134980</guid>
+            <pubDate>Tue, 28 Jan 2025 11:51:00 GMT</pubDate>
+            <content:encoded><![CDATA[윤상호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202501/134980_178975_125_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[딥시크, 이미지까지 섭렵? "우리 '야누스' 모델이 오픈AI '달리' 보다 우수"]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=135000</link>
@@ -110,14 +118,6 @@
             <pubDate>Fri, 24 Jan 2025 07:18:40 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202501/134958_178924_5445_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국레노버, '씽크패드 X9' 시리즈 2종 출시...'AI 비서' 기능 지원]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=134957</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=134957</guid>
-            <pubDate>Fri, 24 Jan 2025 07:18:40 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202501/134957_178923_543_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
