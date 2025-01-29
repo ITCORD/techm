@@ -4,9 +4,17 @@
         <title>테크M ─ 콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Jan 2025 21:21:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jan 2025 22:20:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["올해 대세는 콘솔이다"...유저들은 설 명절 이후 게임 출시만 기다린다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=134986</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=134986</guid>
+            <pubDate>Thu, 30 Jan 2025 07:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202501/134986_178992_1244_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[네이버웹툰, 글로벌 확장 총력전...전세계 곳곳 현지 창작자 늘린다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=135008</link>
@@ -110,14 +118,6 @@
             <pubDate>Thu, 23 Jan 2025 06:26:45 GMT</pubDate>
             <content:encoded><![CDATA[조성준 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202501/134891_178819_4815_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[법원 "아키에이지 워, 리니지2M 저작권 침해한 것 아니다"...엔씨소프트 소송 '기각']]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=134881</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=134881</guid>
-            <pubDate>Thu, 23 Jan 2025 06:26:45 GMT</pubDate>
-            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202501/134881_178815_400_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
