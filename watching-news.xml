@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Feb 2025 08:30:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Feb 2025 09:26:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 2월 출시예정인 게임 대작 3종.. 전략 게임, MMORPG, 액션까지 기대감 UP]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=135108</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=135108</guid>
+            <pubDate>Mon, 03 Feb 2025 09:26:25 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202502/135108_179260_4911_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] '주화경제' 도입한 이미르, 내달 20일 출격...MMORPG 새 패러다임 이끈다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=135040</link>
@@ -110,14 +118,6 @@
             <pubDate>Sat, 04 Jan 2025 10:47:00 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202501/134128_177586_4330_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 2025년 주요 화두 중 하나는 '보안'.. AI지능화, 망분리, 제로트러스트에 집중하라]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=134100</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=134100</guid>
-            <pubDate>Fri, 03 Jan 2025 08:57:00 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202501/134100_177524_2024_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
