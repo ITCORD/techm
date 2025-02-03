@@ -4,16 +4,24 @@
         <title>테크M ─ 인베스트먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 02 Feb 2025 23:24:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Feb 2025 01:29:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[TSMC, 반도체 업계 1위 '독주'…삼성전자·인텔 격차 '확대']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=135077</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=135077</guid>
+            <pubDate>Mon, 03 Feb 2025 09:59:00 GMT</pubDate>
+            <content:encoded><![CDATA[윤상호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202502/135077_179206_4938_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[크립토 월간 브리핑] 비트코인 조정 속 리플·솔라나 랠리…SEC 규제 완화 영향 주목]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=135068</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=135068</guid>
             <pubDate>Sat, 01 Feb 2025 06:27:08 GMT</pubDate>
             <content:encoded><![CDATA[임경호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202502/135068_179180_61_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202502/135068_179213_249_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[삼성디스플레이·LG디스플레이, "애플을 잡아라"…2025년 실적 좌우]]></title>
@@ -110,14 +118,6 @@
             <pubDate>Fri, 31 Jan 2025 09:12:00 GMT</pubDate>
             <content:encoded><![CDATA[윤상호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202501/135018_179093_1041_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성전자, 작년 4분기 영업익 7조9073억원…전년비 124.4%↑(1보)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=135017</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=135017</guid>
-            <pubDate>Fri, 31 Jan 2025 09:11:00 GMT</pubDate>
-            <content:encoded><![CDATA[윤상호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202501/135017_179091_5724_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
