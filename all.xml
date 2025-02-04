@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Feb 2025 22:27:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Feb 2025 23:25:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -280,6 +280,22 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202502/135104_179250_457_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[카카오뱅크, 2024년 연간 영업이익 6069억원 기록...전년 동기 대비 26.8%↑ (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=135185</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=135185</guid>
+            <pubDate>Wed, 05 Feb 2025 08:11:00 GMT</pubDate>
+            <content:encoded><![CDATA[배수현 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202502/135185_179396_547_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[구글, 클라우드 주춤하며 매출 예상치 하회...시간외 주가 급락 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=135184</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=135184</guid>
+            <pubDate>Wed, 05 Feb 2025 07:46:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202502/135184_179395_4412_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[든든한 'AI 동반자' 생긴 카카오, '오픈AI' 스며든 카카오톡·카나나로 AI 대중화 이끈다 (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=135181</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=135181</guid>
@@ -374,22 +390,6 @@
             <pubDate>Tue, 04 Feb 2025 00:18:00 GMT</pubDate>
             <content:encoded><![CDATA[배수현 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202502/135150_179331_1136_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스마일게이트, 사각지대 아동청소년 창의 활동위한 기부금 쾌척 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=135152</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=135152</guid>
-            <pubDate>Tue, 04 Feb 2025 00:13:00 GMT</pubDate>
-            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202502/135152_179332_1233_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성전자·LG전자 상업용 DP '격돌'…'ISE 2025' 참가 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=135151</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=135151</guid>
-            <pubDate>Tue, 04 Feb 2025 00:11:00 GMT</pubDate>
-            <content:encoded><![CDATA[윤상호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202502/135151_179329_63_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[라인 기반 미니 디앱 누적 사용자 1000만명 돌파...신규 월렛 150만개 이상 (테크M ─ 이노베이션)]]></title>
