@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Feb 2025 03:28:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Feb 2025 04:30:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[LG헬로비전, 작년 4분기 적자전환…유료방송 위기 심화]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=135279</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=135279</guid>
+            <pubDate>Thu, 06 Feb 2025 04:22:43 GMT</pubDate>
+            <content:encoded><![CDATA[윤상호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202502/135279_179528_5639_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['마비노기'만의 낭만이 모바일로 돌아온다...마비노기 모바일, 3월27일 론칭]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=135273</link>
@@ -155,14 +163,6 @@
             <pubDate>Thu, 06 Feb 2025 10:00:00 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202502/135258_179502_492_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[안랩 "파트너와 협력 통해 월드클래스 기업 도약"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=135261</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=135261</guid>
-            <pubDate>Thu, 06 Feb 2025 09:54:00 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202502/135261_179504_5311_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
