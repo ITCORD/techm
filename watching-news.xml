@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Feb 2025 07:21:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Feb 2025 08:27:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[게임코인TV] 위메이드 야심작, 레전드 오브 이미르의 매력은?]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=135373</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=135373</guid>
+            <pubDate>Fri, 07 Feb 2025 08:27:40 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202502/135373_179662_3743_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 크래프톤 신작 '인조이'에 오픈AI 기술 적용된다.. 게이머와 소통하는 'CPC'에 기대감 UP]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=135307</link>
@@ -110,14 +118,6 @@
             <pubDate>Fri, 10 Jan 2025 12:43:09 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202501/134401_178001_5336_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 디스프레드가 제시한 2025년 웹3 전망은? 'AI와 블록체인, 비트코인 등에 집중하라']]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=134294</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=134294</guid>
-            <pubDate>Wed, 08 Jan 2025 08:31:57 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202501/134294_177836_2916_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
