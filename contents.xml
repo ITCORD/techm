@@ -4,9 +4,17 @@
         <title>테크M ─ 콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Feb 2025 04:27:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Feb 2025 05:22:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SOOP, 콘텐츠로 지역과 상생...2000명 스트리머 전국 각지 누볐다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=135364</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=135364</guid>
+            <pubDate>Fri, 07 Feb 2025 05:19:24 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202502/135364_179647_83_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[테크M 이슈] '크로쓰 아버지' 장현국 호 공식 출범...넥써쓰, 글로벌 블록체인 시장 흔든다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=135352</link>
@@ -110,14 +118,6 @@
             <pubDate>Thu, 06 Feb 2025 10:37:00 GMT</pubDate>
             <content:encoded><![CDATA[임경호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202502/135267_179512_2735_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유니티 엔진 로드맵부터 개발자 강연까지...'유나이트 서울 2025' 4월 열린다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=135249</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=135249</guid>
-            <pubDate>Thu, 06 Feb 2025 09:48:00 GMT</pubDate>
-            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202502/135249_179495_2950_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
