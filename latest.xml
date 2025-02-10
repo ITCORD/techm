@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Feb 2025 03:30:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Feb 2025 04:28:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[JBL, 노이즈 캔슬링 무선 이어폰 4종 출시]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=135423</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=135423</guid>
+            <pubDate>Mon, 10 Feb 2025 11:48:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202502/135423_179751_4554_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[에이수스, 899g 초경량 노트북 '젠북 A14' 출시]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=135421</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 10 Feb 2025 10:32:00 GMT</pubDate>
             <content:encoded><![CDATA[윤상호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202502/135401_179725_2551_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[컴투스홀딩스, 아르까와 '컬러스위퍼' 글로벌 퍼블리싱 계약...상반기 출시]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=135400</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=135400</guid>
-            <pubDate>Mon, 10 Feb 2025 10:32:00 GMT</pubDate>
-            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202502/135400_179724_2359_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
