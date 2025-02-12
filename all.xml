@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Feb 2025 22:25:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Feb 2025 23:23:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -504,6 +504,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202502/135343_179614_3118_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[카카오, 지난해 매출액 7.8조원...1년새 4% 올랐다 (테크M ─ 인베스트먼트)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=135604</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=135604</guid>
+            <pubDate>Thu, 13 Feb 2025 08:18:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202502/135604_180064_1853_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[주주환원 확대하는 엔씨소프트...자사주 1269억원 규모 소각 결정 (테크M ─ 인베스트먼트)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=135599</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=135599</guid>
@@ -605,14 +613,6 @@
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
             <pubDate>Wed, 12 Feb 2025 10:44:00 GMT</pubDate>
             <content:encoded><![CDATA[임경호 기자]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[위메이드, 4년 연속 최고 매출 경신...20여종 신작·블록체인 기술로 성장 가속화(상보) (테크M ─ 인베스트먼트)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=135546</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=135546</guid>
-            <pubDate>Wed, 12 Feb 2025 10:44:00 GMT</pubDate>
-            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202502/135546_179964_2947_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["독자 검색 토대로 생태계 다양성 키울 것" 최수연 네이버 대표, 韓 AI 국가대표 존재감 '쑥' (테크M ─ 피플)]]></title>
