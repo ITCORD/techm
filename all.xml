@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Feb 2025 04:26:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Feb 2025 05:25:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -167,6 +167,22 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202502/135544_179961_1646_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[LCK컵 브리핑] T1-한화생명, 벼랑 끝 승부...T1 '스매쉬'? '구마유시'? (테크M ─ 콘텐츠)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=135568</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=135568</guid>
+            <pubDate>Wed, 12 Feb 2025 05:19:58 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202502/135568_179999_3741_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[넷마블 신작 MMO 'RF 온라인 넥스트' 출시일 공개...오후 8시 온라인 쇼케이스 예고 (테크M ─ 콘텐츠)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=135561</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=135561</guid>
+            <pubDate>Wed, 12 Feb 2025 05:19:58 GMT</pubDate>
+            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202502/135561_179993_4538_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[SOOP 분식회계 의혹 입 열어 "매출 부풀릴 이슈 없어...게임광고는 다른 모델과 달라" (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=135538</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=135538</guid>
@@ -261,22 +277,6 @@
             <pubDate>Sun, 09 Feb 2025 12:33:45 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202502/135388_179712_4552_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[같이보소] 늦겨울 매서운 추위, OTT와 '집콕'으로 이겨내자 (테크M ─ 콘텐츠)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=135360</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=135360</guid>
-            <pubDate>Sat, 08 Feb 2025 09:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202502/135360_179638_4428_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[위메이드 '레전드 오브 이미르' 출시 초읽기...월드 프리뷰 영상 공개 (테크M ─ 콘텐츠)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=135375</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=135375</guid>
-            <pubDate>Fri, 07 Feb 2025 09:20:11 GMT</pubDate>
-            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202502/135375_179672_4412_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[KT, B2B AI·클라우드 공략 확대 (테크M ─ 인프라)]]></title>
@@ -535,12 +535,12 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202502/135553_179973_432_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA["쿠팡은 경쟁상대 아니라더니..." 무색해진 롯데 신동빈의 입, 요원한 롯데쇼핑의 반등 (테크M ─ 인베스트먼트)]]></title>
+            <title><![CDATA["쿠팡은 경쟁상대 아니라더니..." 요원한 롯데쇼핑의 반등 (테크M ─ 인베스트먼트)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=135550</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=135550</guid>
             <pubDate>Wed, 12 Feb 2025 10:48:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202502/135550_179970_4839_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202502/135550_180002_15_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[위메이드 '미르M' 중국 3분기 출시..."연간 매출 3800억원 기대" (테크M ─ 인베스트먼트)]]></title>
@@ -672,7 +672,7 @@
             <title><![CDATA[[부고] 김규하(비바리퍼블리카 CBO 최고사업책임자)씨 모친상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Wed, 12 Feb 2025 04:25:20 GMT</pubDate>
+            <pubDate>Wed, 12 Feb 2025 05:22:28 GMT</pubDate>
             <content:encoded><![CDATA[배수현 기자]]></content:encoded>
         </item>
         <item>
@@ -718,7 +718,7 @@
             <title><![CDATA[[인사] 방송통신위원회 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Wed, 12 Feb 2025 04:25:20 GMT</pubDate>
+            <pubDate>Wed, 12 Feb 2025 05:22:28 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
         </item>
         <item>
