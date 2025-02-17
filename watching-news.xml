@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Feb 2025 12:47:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Feb 2025 13:33:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 포털과 메신저 곳곳에 AI 심는 네이버-카카오..."일상 속 AI 시대를 열다"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=135796</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=135796</guid>
+            <pubDate>Mon, 17 Feb 2025 13:33:13 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202502/135796_180363_332_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] IT기업들이 모듈러 건축 시장에 뛰어든 이유는? '스마트홈 주도권을 잡아라']]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=135675</link>
@@ -110,14 +118,6 @@
             <pubDate>Fri, 31 Jan 2025 11:04:00 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202501/135040_179116_045_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 트럼프 2.0 시대 디지털자산의 미래는? 테크M-법무법인 세움, 콘퍼런스 개최]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=134895</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=134895</guid>
-            <pubDate>Thu, 23 Jan 2025 07:21:22 GMT</pubDate>
-            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202501/134895_178823_1451_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
