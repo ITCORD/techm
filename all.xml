@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Feb 2025 18:34:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Feb 2025 19:21:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -949,6 +949,13 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202502/135377_179682_717_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[게임코인TV] 장현국 대표 취임 후 광폭 행보 보이는 넥써쓰 (테크M ─ 보는 뉴스)]]></title>
+            <link>https://ITCORD.github.io/techm/all.xml</link>
+            <guid>https://ITCORD.github.io/techm/all.xml</guid>
+            <pubDate>Tue, 18 Feb 2025 19:21:03 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[카드뉴스] 네이버웹툰의 일본어 서비스 '라인망가'.. 디지털화를 꾀하며 미래로 나아간다 (테크M ─ 보는 뉴스)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=135846</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=135846</guid>
@@ -1051,14 +1058,6 @@
             <pubDate>Tue, 04 Feb 2025 11:16:04 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202502/135182_179363_3513_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 2월 출시예정인 게임 대작 3종.. 전략 게임, MMORPG, 액션까지 기대감 UP (테크M ─ 보는 뉴스)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=135108</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=135108</guid>
-            <pubDate>Mon, 03 Feb 2025 09:26:25 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202502/135108_179260_4911_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
