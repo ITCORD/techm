@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Feb 2025 03:27:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Feb 2025 04:28:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -280,6 +280,54 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202502/135737_180278_4432_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['토종 AI 지킴이' 하정우 네이버 "韓 자체 AI 생태계구축 필요...국가적 투자 절실해" (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=135812</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=135812</guid>
+            <pubDate>Tue, 18 Feb 2025 11:44:00 GMT</pubDate>
+            <content:encoded><![CDATA[배수현 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202502/135812_180394_3027_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[LG유플러스, 보안 취약점 상시 점검 체계 가동 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=135805</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=135805</guid>
+            <pubDate>Tue, 18 Feb 2025 10:40:00 GMT</pubDate>
+            <content:encoded><![CDATA[윤상호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202502/135805_180387_5725_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[삼성SDS가 꼽은 '2025년 5대 사이버보안 위협'은 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=135806</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=135806</guid>
+            <pubDate>Tue, 18 Feb 2025 09:59:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202502/135806_180388_5922_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이글루코퍼레이션, 선박 보안관리 관련 특허 취득...스마트선박 OT 보안 사업 박차 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=135804</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=135804</guid>
+            <pubDate>Tue, 18 Feb 2025 09:54:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202502/135804_180386_549_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[안랩, 'AI바우처 지원사업' 통해 AI 기술 적용 솔루션 공급 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=135803</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=135803</guid>
+            <pubDate>Tue, 18 Feb 2025 09:51:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202502/135803_180384_5057_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한컴라이프케어, UAE 'IDEX 2025' 참가...글로벌 방산 시장 공략 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=135802</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=135802</guid>
+            <pubDate>Tue, 18 Feb 2025 09:48:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202502/135802_180383_4815_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[RX 혁신 가속화하는 브이디컴퍼니...로봇 산업 변화 이끈다 (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=135798</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=135798</guid>
@@ -342,54 +390,6 @@
             <pubDate>Mon, 17 Feb 2025 05:20:43 GMT</pubDate>
             <content:encoded><![CDATA[윤상호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202502/135782_180342_4828_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성전기, 사내 스타트업 육성 신성장동력 모색 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=135780</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=135780</guid>
-            <pubDate>Mon, 17 Feb 2025 05:20:43 GMT</pubDate>
-            <content:encoded><![CDATA[윤상호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202502/135780_180339_3120_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[말 많은 中 딥시크, 韓 모바일 서비스 잠정 중단...개보위 "신규 다운로드 금지" (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=135781</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=135781</guid>
-            <pubDate>Mon, 17 Feb 2025 05:20:43 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202502/135781_180378_5230_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['휴머노이드 시대' 네이버, 글로벌 100대 로봇 기업 선정 '눈길'...원천 기술까지 품었다 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=135779</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=135779</guid>
-            <pubDate>Mon, 17 Feb 2025 11:55:00 GMT</pubDate>
-            <content:encoded><![CDATA[배수현 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202502/135779_180338_5053_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[테크M 이슈] 개화 앞둔 韓 법인 코인시장...수탁으로 큰 판 열린다 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=135778</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=135778</guid>
-            <pubDate>Mon, 17 Feb 2025 11:32:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202502/135778_180380_538_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인텔, 트럼프 주도 사업 재편 현실화하나…삼성전자 영향은? (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=135771</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=135771</guid>
-            <pubDate>Mon, 17 Feb 2025 10:58:00 GMT</pubDate>
-            <content:encoded><![CDATA[윤상호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202502/135771_180379_5248_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[농촌 누비는 로봇 전성시대 열렸다...대동, 운반로봇 'RT100' 출시 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=135766</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=135766</guid>
-            <pubDate>Mon, 17 Feb 2025 10:17:00 GMT</pubDate>
-            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202502/135766_180322_178_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[컴투스홀딩스, 사냥하고 요리하는 도트 그래픽 게임 '론 셰프' 퍼블리싱 계약 (테크M ─ 이노베이션)]]></title>
@@ -706,7 +706,7 @@
             <title><![CDATA[[부고] 김규하(비바리퍼블리카 CBO 최고사업책임자)씨 모친상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Tue, 18 Feb 2025 03:25:17 GMT</pubDate>
+            <pubDate>Tue, 18 Feb 2025 04:26:30 GMT</pubDate>
             <content:encoded><![CDATA[배수현 기자]]></content:encoded>
         </item>
         <item>
@@ -837,6 +837,22 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202502/135658_180132_1020_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[글로벌] 中 반도체, AI 시장 장악 나서...엔비디아에 도전장 (테크M ─ 리포트)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=135817</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=135817</guid>
+            <pubDate>Tue, 18 Feb 2025 04:28:13 GMT</pubDate>
+            <content:encoded><![CDATA[김현기 대표]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202502/135817_180397_957_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[글로벌] 아마존, 이탈리아서 1.8조원 탈세 의혹...최대 4.5조 부담 가능성 (테크M ─ 리포트)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=135816</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=135816</guid>
+            <pubDate>Tue, 18 Feb 2025 04:28:13 GMT</pubDate>
+            <content:encoded><![CDATA[김현기 대표]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202502/135816_180396_851_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[글로벌] 미 국무부, 테슬라 전기차 6000억원어치 구매 보류...논란 영향? (테크M ─ 리포트)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=135745</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=135745</guid>
@@ -931,22 +947,6 @@
             <pubDate>Sat, 08 Feb 2025 11:07:00 GMT</pubDate>
             <content:encoded><![CDATA[김현기 대표]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202502/135377_179682_717_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[글로벌] 미중 무역 갈등 심화...中, 구글·엔비디아 조사 확대 (테크M ─ 리포트)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=135288</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=135288</guid>
-            <pubDate>Thu, 06 Feb 2025 06:28:44 GMT</pubDate>
-            <content:encoded><![CDATA[김현기 대표]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202502/135288_179545_3548_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[글로벌] 빌 게이츠, 양자컴퓨팅 실용화 전망...관련주 급등 (테크M ─ 리포트)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=135287</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=135287</guid>
-            <pubDate>Thu, 06 Feb 2025 06:28:44 GMT</pubDate>
-            <content:encoded><![CDATA[김현기 대표]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202502/135287_179544_3447_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[카드뉴스] 포털과 메신저 곳곳에 AI 심는 네이버-카카오..."일상 속 AI 시대를 열다" (테크M ─ 보는 뉴스)]]></title>
