@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Feb 2025 08:32:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Feb 2025 09:27:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -504,6 +504,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202502/135400_179724_2359_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[삼성전자, 작년 매출 '한국 부진 중국서 만회' (테크M ─ 인베스트먼트)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=135849</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=135849</guid>
+            <pubDate>Tue, 18 Feb 2025 09:24:43 GMT</pubDate>
+            <content:encoded><![CDATA[윤상호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202502/135849_180452_303_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[NHN두레이 지난해 매출 전년比 30% 성장...AI 탑재로 공공·금융 확장 '속도' (테크M ─ 인베스트먼트)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=135845</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=135845</guid>
@@ -605,14 +613,6 @@
             <pubDate>Fri, 14 Feb 2025 09:28:00 GMT</pubDate>
             <content:encoded><![CDATA[임경호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202502/135702_180215_055_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['4조 클럽'에 '배그' 최대실적까지...'3N'시대 저물고 'NK' 투톱체제 열린다(종합) (테크M ─ 인베스트먼트)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=135703</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=135703</guid>
-            <pubDate>Fri, 14 Feb 2025 09:15:00 GMT</pubDate>
-            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202502/135703_180216_740_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[코인원, 공동대표 체제 전환...이성현 COO, 대표이사로 내정 (테크M ─ 피플)]]></title>
@@ -949,6 +949,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202502/135377_179682_717_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[카드뉴스] 네이버웹툰의 일본어 서비스 '라인망가'.. 디지털화를 꾀하며 미래로 나아간다 (테크M ─ 보는 뉴스)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=135846</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=135846</guid>
+            <pubDate>Tue, 18 Feb 2025 09:27:34 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202502/135846_180438_4228_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[카드뉴스] 포털과 메신저 곳곳에 AI 심는 네이버-카카오..."일상 속 AI 시대를 열다" (테크M ─ 보는 뉴스)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=135796</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=135796</guid>
@@ -1051,14 +1059,6 @@
             <pubDate>Mon, 03 Feb 2025 09:26:25 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202502/135108_179260_4911_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] '주화경제' 도입한 이미르, 내달 20일 출격...MMORPG 새 패러다임 이끈다 (테크M ─ 보는 뉴스)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=135040</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=135040</guid>
-            <pubDate>Fri, 31 Jan 2025 11:04:00 GMT</pubDate>
-            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202501/135040_179116_045_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
