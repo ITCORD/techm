@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Feb 2025 12:44:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Feb 2025 13:30:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -616,12 +616,20 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202502/135706_180283_4024_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[테크M 피플] 모바일 게임史 한 획 그은 송병준, 벤처기업협회서도 존재감 높인다 (테크M ─ 피플)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=135886</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=135886</guid>
+            <pubDate>Wed, 19 Feb 2025 13:29:15 GMT</pubDate>
+            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202502/135886_180509_4655_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[템터뷰] "블록체인·AI 융합으로 금융 혁신 이룰 것"...박재현 눈21 대표가 꿈꾸는 새로운 웹3 시장 (테크M ─ 피플)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=135883</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=135883</guid>
             <pubDate>Wed, 19 Feb 2025 08:25:57 GMT</pubDate>
             <content:encoded><![CDATA[임경호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202502/135883_180502_2855_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202502/135883_180533_5024_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[SAP, APAC 총괄 회장에 사이먼 데이비스 임명 (테크M ─ 피플)]]></title>
@@ -718,14 +726,6 @@
             <pubDate>Wed, 05 Feb 2025 09:52:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202502/135196_179406_5121_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[테크M 이슈] 딥시크 등판 후 달라진 분위기...해외 전념한 네이버 이해진, 복귀 꾀하는 이유 (테크M ─ 피플)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=135193</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=135193</guid>
-            <pubDate>Wed, 05 Feb 2025 09:37:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202502/135193_179403_3733_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한국후지필름BI, 디지털 인쇄기 '레보리아 프레스' 신제품 4종 출시 (테크M ─ 라이프)]]></title>
@@ -837,7 +837,7 @@
             <guid>https://www.techm.kr/news/articleView.html?idxno=135823</guid>
             <pubDate>Tue, 18 Feb 2025 07:18:21 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202502/135823_180408_5619_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202502/135823_180404_5528_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[글로벌] 中 반도체, AI 시장 장악 나서...엔비디아에 도전장 (테크M ─ 리포트)]]></title>
@@ -963,7 +963,7 @@
             <title><![CDATA[[게임코인TV] 장현국 대표 취임 후 광폭 행보 보이는 넥써쓰 (테크M ─ 보는 뉴스)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Wed, 19 Feb 2025 10:28:30 GMT</pubDate>
+            <pubDate>Wed, 19 Feb 2025 13:30:28 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
         </item>
         <item>
