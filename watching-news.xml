@@ -4,14 +4,22 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Feb 2025 07:27:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Feb 2025 08:28:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] '휴머노이드 시대'가 온다.. 피지컬 AI를 선점하기 위한 로봇 전쟁 본격화]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=135889</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=135889</guid>
+            <pubDate>Wed, 19 Feb 2025 08:28:37 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202502/135889_180513_17_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[게임코인TV] 장현국 대표 취임 후 광폭 행보 보이는 넥써쓰]]></title>
             <link>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN10&amp;view_type=sm</link>
             <guid>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN10&amp;view_type=sm</guid>
-            <pubDate>Wed, 19 Feb 2025 04:29:58 GMT</pubDate>
+            <pubDate>Wed, 19 Feb 2025 08:28:37 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
         </item>
         <item>
@@ -109,14 +117,6 @@
             <pubDate>Wed, 05 Feb 2025 12:41:52 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202502/135232_179462_3146_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] '1위 거래소'의 기술력.. 안전하고 편리한 '업비트 스테이킹' 주목하라]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=135182</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=135182</guid>
-            <pubDate>Tue, 04 Feb 2025 17:23:21 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202502/135182_179363_3513_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
