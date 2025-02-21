@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Feb 2025 09:25:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Feb 2025 10:25:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 넥써쓰, 블록체인 게임 플랫폼 '크로스' 출시.. 플랫폼 확장과 생태계 구축에 집중한다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=136020</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=136020</guid>
+            <pubDate>Fri, 21 Feb 2025 10:25:04 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202502/136020_180725_4042_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[게임코인TV] 장현국 대표의 넥써쓰, 온보딩 게임과 코인 발행 시기는?]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=135975</link>
@@ -110,14 +118,6 @@
             <pubDate>Thu, 06 Feb 2025 09:25:50 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202502/135307_179567_2539_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[게임코인TV] 이제는 MMORPG가 틈새시장?...위메이드 이미르에 쏠린 눈]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=135243</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=135243</guid>
-            <pubDate>Wed, 05 Feb 2025 14:22:15 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202502/135243_179486_1538_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
