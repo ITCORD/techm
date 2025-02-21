@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Feb 2025 03:30:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Feb 2025 04:30:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,6 +168,22 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202502/135978_180663_3451_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA["유행은 돌고 돈다"...무신사의 선구안 빛난 '잔스포츠' (테크M ─ 콘텐츠)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=135984</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=135984</guid>
+            <pubDate>Fri, 21 Feb 2025 10:31:00 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202502/135984_180674_2627_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[스트리머와 후원자 함께 성장한다...위메이드 'SSS 2.0' 정식 오픈 (테크M ─ 콘텐츠)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=135990</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=135990</guid>
+            <pubDate>Fri, 21 Feb 2025 10:31:00 GMT</pubDate>
+            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202502/135990_180676_270_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[LCK컵 브리핑] '제우스' 활약한 한화생명, 결승 직행...젠지-DK 최종전서 맞대결 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=135976</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=135976</guid>
@@ -262,22 +278,6 @@
             <pubDate>Thu, 20 Feb 2025 11:37:00 GMT</pubDate>
             <content:encoded><![CDATA[임경호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202502/135924_180577_2632_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[엔씨소프트 '리니지 리마스터' PC방 이벤트...100명에 스페셜 후드티 증정 (테크M ─ 콘텐츠)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=135923</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=135923</guid>
-            <pubDate>Thu, 20 Feb 2025 11:28:00 GMT</pubDate>
-            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202502/135923_180576_142_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[메타몽 성장 이야기가 궁금하다면?...포켓몬코리아 '메타몽 프로젝트' 공개 (테크M ─ 콘텐츠)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=135922</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=135922</guid>
-            <pubDate>Thu, 20 Feb 2025 11:28:00 GMT</pubDate>
-            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202502/135922_180575_837_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[당근, 고객센터 AI 검색 도입...궁금증 실시간 대응 (테크M ─ 인프라)]]></title>
