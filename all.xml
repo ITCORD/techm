@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 22 Feb 2025 13:25:23 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Feb 2025 14:20:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,6 +168,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202502/136009_180714_2612_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[LCK 브리핑] 다시 살아난 젠지, DK 셧아웃시키고 결승행 (테크M ─ 콘텐츠)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=136030</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=136030</guid>
+            <pubDate>Sat, 22 Feb 2025 14:17:52 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202502/136030_180779_2224_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[바이비트, 이더리움 탈취 해킹 피해 '2조원 이상'...대규모 자금 인출 사태도 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=136027</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=136027</guid>
@@ -270,14 +278,6 @@
             <pubDate>Fri, 21 Feb 2025 07:19:09 GMT</pubDate>
             <content:encoded><![CDATA[임경호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202502/136004_180709_5928_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[장현국 넥써쓰 대표가 재단 설립 거점으로 스위스를 선택한 이유는 (테크M ─ 콘텐츠)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=136008</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=136008</guid>
-            <pubDate>Fri, 21 Feb 2025 06:27:18 GMT</pubDate>
-            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202502/136008_180713_2357_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한국어 지원하는 '애플 인텔리전스'...'아이폰 16e' 매력 높일까 (테크M ─ 인프라)]]></title>
