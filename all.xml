@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Feb 2025 19:23:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Feb 2025 20:27:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -618,7 +618,7 @@
             <title><![CDATA[[부고] 최우석(SK스토아 사업지원본부장)씨 부친상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Mon, 24 Feb 2025 15:26:01 GMT</pubDate>
+            <pubDate>Mon, 24 Feb 2025 20:26:25 GMT</pubDate>
             <content:encoded><![CDATA[윤상호 기자]]></content:encoded>
         </item>
         <item>
@@ -950,6 +950,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202502/135649_180122_353_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[게임코인TV] 다크앤다커 소송 1심 판결, 넥슨의 판정승이라는데...이대로 괜찮을까? (테크M ─ 보는 뉴스)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=136093</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=136093</guid>
+            <pubDate>Tue, 25 Feb 2025 01:20:00 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202502/136093_180879_2037_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[카드뉴스] 카카오·티맵 이어 우버까지 등판...모빌리티 경쟁 "B2B를 잡아라" (테크M ─ 보는 뉴스)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=136086</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=136086</guid>
@@ -1052,14 +1060,6 @@
             <pubDate>Sun, 23 Feb 2025 22:22:18 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202502/135374_179663_4316_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[게임코인TV] 위메이드 야심작, 레전드 오브 이미르의 매력은? (테크M ─ 보는 뉴스)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=135373</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=135373</guid>
-            <pubDate>Sun, 23 Feb 2025 22:22:18 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202502/135373_179662_3743_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
