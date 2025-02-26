@@ -1,8 +1,123 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN1&amp;view_type=sm</id>
-    <title>테크M ─ 콘텐츠</title>
-    <updated>2025-02-26T22:25:22.024Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.techm.kr/news/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>테크M ─ 콘텐츠</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 26 Feb 2025 23:24:12 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[그렉 롬바르도 넷플릭스 VP "콘텐츠 몰입도 높이는 '더 익스피리언스' 확대할 것"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=136223</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=136223</guid>
+            <pubDate>Wed, 26 Feb 2025 23:21:21 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202502/136223_181056_4217_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["T1-젠지 등 명문 게임단 한자리에"...FC온라인, '프랜차이즈' 첫 발]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=136215</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=136215</guid>
+            <pubDate>Wed, 26 Feb 2025 23:21:21 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202502/136215_181091_3044_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['넥스트 오딘' 2025년엔 나온다...라이온하트, 신작 3종으로 성장 모멘텀 확보 나서]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=136214</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=136214</guid>
+            <pubDate>Wed, 26 Feb 2025 00:21:00 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202502/136214_181036_2059_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[엔씨소프트, 내달 '리니지M' 홈커밍 업데이트...신규서버·총사 리부트 진행]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=136205</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=136205</guid>
+            <pubDate>Wed, 26 Feb 2025 10:42:00 GMT</pubDate>
+            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202502/136205_181027_4119_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[테크M 이슈] 국산 MMORPG 판 흔드는 위메이드...'레전드 오브 이미르' 장기흥행 청신호]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=136202</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=136202</guid>
+            <pubDate>Wed, 26 Feb 2025 10:17:00 GMT</pubDate>
+            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202502/136202_181095_3344_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[위메이드 '레전드 오브 이미르', 정상 올랐다...구글 매출 1위 등극]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=136194</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=136194</guid>
+            <pubDate>Wed, 26 Feb 2025 09:35:00 GMT</pubDate>
+            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202502/136194_181014_3429_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[47개사 모인 '스테이블코인 협의회' 출범..."정부 추진안에 현장 목소리 전달할 것"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=136167</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=136167</guid>
+            <pubDate>Wed, 26 Feb 2025 23:21:21 GMT</pubDate>
+            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202502/136167_180973_938_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[CJ ENM 산업역군으로 K콘텐츠 가치 더한다...'문화 30주년' 기념 특별전]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=136139</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=136139</guid>
+            <pubDate>Wed, 26 Feb 2025 23:21:21 GMT</pubDate>
+            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202502/136139_180932_2550_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[테크M 이슈] 게임 체질개선 통해 다시 뛰는 NHN...명가 재건 선봉장 '다키스트 데이즈']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=136144</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=136144</guid>
+            <pubDate>Wed, 26 Feb 2025 23:21:21 GMT</pubDate>
+            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202502/136144_180936_4730_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[약 먹을 시간 알려준다...NHN 와플랫, 대한결핵협회와 디지털 복약 관리 MOU]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=136125</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=136125</guid>
+            <pubDate>Wed, 26 Feb 2025 23:21:21 GMT</pubDate>
+            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202502/136125_180911_522_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["원우가 플레이 하는 그 게임"...하이브IM '퍼즐 세븐틴' 글로벌 사전 예약]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=136126</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=136126</guid>
+            <pubDate>Wed, 26 Feb 2025 23:21:21 GMT</pubDate>
+            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202502/136126_180912_1415_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[갈라뮤직, 스트리밍 재생 횟수 기반 보상 시스템 재개]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=136127</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=136127</guid>
+            <pubDate>Wed, 26 Feb 2025 23:21:21 GMT</pubDate>
+            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202502/136127_180913_2136_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[CJ ENM '케이콘 재팬 2025' 2차 라인업 공개...14개팀 출연 확정]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=136128</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=136128</guid>
+            <pubDate>Wed, 26 Feb 2025 23:21:21 GMT</pubDate>
+            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202502/136128_180914_312_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[쿠팡플레이, 지드래곤 단독 콘서트 티켓팅 예매 가이드 공개...26일 선예매 시작]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=136129</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=136129</guid>
+            <pubDate>Wed, 26 Feb 2025 23:21:21 GMT</pubDate>
+            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202502/136129_180915_3856_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>

@@ -1,8 +1,122 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN5&amp;view_type=sm</id>
-    <title>테크M ─ 피플</title>
-    <updated>2025-02-26T22:25:22.025Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.techm.kr/news/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>테크M ─ 피플</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 26 Feb 2025 23:24:12 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[넥써쓰, 장현국 단독대표 체제 전환...블록체인 게임 주력]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=136233</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=136233</guid>
+            <pubDate>Wed, 26 Feb 2025 23:23:12 GMT</pubDate>
+            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202502/136233_181099_3714_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['혁신가' 김범석 쿠팡Inc 의장 "새벽·당일배송 45% 늘려...자동화 물류 비율 2배 확대"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=136185</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=136185</guid>
+            <pubDate>Wed, 26 Feb 2025 08:29:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202502/136185_181011_1235_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[부고] 최우석(SK스토아 사업지원본부장)씨 부친상]]></title>
+            <link>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN5&amp;view_type=sm</link>
+            <guid>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN5&amp;view_type=sm</guid>
+            <pubDate>Wed, 26 Feb 2025 23:23:12 GMT</pubDate>
+            <content:encoded><![CDATA[윤상호 기자]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[e스포츠人] LCK컵 초대 우승팀 한화생명 "리그 내내 성장...퍼스트 스탠드 기대해달라"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=136040</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=136040</guid>
+            <pubDate>Wed, 26 Feb 2025 23:23:12 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202502/136040_180793_2959_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[e스포츠人] 흔들리지 않는 '쵸비' 정지훈 "도전자 입장으로 DK 상대할 것"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=135977</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=135977</guid>
+            <pubDate>Wed, 26 Feb 2025 23:23:12 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202502/135977_180661_458_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[강대현 넥슨코리아 공동대표, 넥슨 신임 이사 후보자 내정]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=135974</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=135974</guid>
+            <pubDate>Wed, 26 Feb 2025 23:23:12 GMT</pubDate>
+            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202502/135974_180657_714_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[조영기 12대 게임산업협회장 선출...10년만에 리더십 바뀐다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=135973</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=135973</guid>
+            <pubDate>Wed, 26 Feb 2025 23:23:12 GMT</pubDate>
+            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202502/135973_180655_3045_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[테크M 피플] 모바일 게임史 한 획 그은 송병준, 벤처기업협회서도 존재감 높인다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=135886</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=135886</guid>
+            <pubDate>Wed, 26 Feb 2025 23:23:12 GMT</pubDate>
+            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202502/135886_180509_4655_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[템터뷰] "블록체인·AI 융합으로 금융 혁신 이룰 것"...박재현 눈21 대표가 꿈꾸는 새로운 웹3 시장]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=135883</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=135883</guid>
+            <pubDate>Wed, 26 Feb 2025 23:23:12 GMT</pubDate>
+            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202502/135883_180502_2855_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SAP, APAC 총괄 회장에 사이먼 데이비스 임명]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=135869</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=135869</guid>
+            <pubDate>Wed, 19 Feb 2025 11:05:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202502/135869_180477_540_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[테크M 피플] 방준혁 넷마블·코웨이 의장의 '혁신' 리더십...코웨이 첫 4조 매출 원동력으로]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=135834</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=135834</guid>
+            <pubDate>Wed, 26 Feb 2025 23:23:12 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202502/135834_180422_1157_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[코인원, 공동대표 체제 전환...이성현 COO, 대표이사로 내정]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=135777</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=135777</guid>
+            <pubDate>Mon, 17 Feb 2025 11:23:00 GMT</pubDate>
+            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202502/135777_180334_2315_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[e스포츠人] 친정팀 T1 상대했던 '제우스'...그로 인해 달라진 한화생명]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=135751</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=135751</guid>
+            <pubDate>Wed, 26 Feb 2025 23:23:12 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202502/135751_180307_4655_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[테크M 피플] 글로벌서 빛나는 서장원의 코웨이...방준혁의 믿을맨, 최대 성과 이뤄내다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=135726</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=135726</guid>
+            <pubDate>Fri, 14 Feb 2025 00:46:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202502/135726_180252_4612_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
