@@ -1,8 +1,123 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN10&amp;view_type=sm</id>
-    <title>테크M ─ 보는 뉴스</title>
-    <updated>2025-02-26T21:19:31.600Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.techm.kr/news/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>테크M ─ 보는 뉴스</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 26 Feb 2025 22:25:22 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] '파수, 안랩, 지니언스, S2W'.. K-보안기업들의 글로벌 진출 전략은?]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=136229</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=136229</guid>
+            <pubDate>Wed, 26 Feb 2025 22:25:21 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202502/136229_181080_3353_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[카드뉴스] 국내 통신 3사 'MWC25'에 뜬다.. "AI를 향한 경쟁 시작될 것"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=136160</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=136160</guid>
+            <pubDate>Wed, 26 Feb 2025 22:25:21 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202502/136160_180953_2944_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[게임코인TV] 다크앤다커 소송 1심 판결, 넥슨의 판정승이라는데...이대로 괜찮을까?]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=136093</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=136093</guid>
+            <pubDate>Tue, 25 Feb 2025 01:20:00 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202502/136093_180879_2037_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[카드뉴스] 카카오·티맵 이어 우버까지 등판...모빌리티 경쟁 "B2B를 잡아라"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=136086</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=136086</guid>
+            <pubDate>Wed, 26 Feb 2025 22:25:21 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202502/136086_180857_5244_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[카드뉴스] 넥써쓰, 블록체인 게임 플랫폼 '크로스' 출시.. 플랫폼 확장과 생태계 구축에 집중한다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=136020</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=136020</guid>
+            <pubDate>Wed, 26 Feb 2025 22:25:21 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202502/136020_180725_4042_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[게임코인TV] 장현국 대표의 넥써쓰, 온보딩 게임과 코인 발행 시기는?]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=135975</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=135975</guid>
+            <pubDate>Wed, 26 Feb 2025 22:25:21 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202502/135975_180662_464_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[카드뉴스] '휴머노이드 시대'가 온다.. 피지컬 AI를 선점하기 위한 로봇 전쟁 본격화]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=135889</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=135889</guid>
+            <pubDate>Wed, 26 Feb 2025 22:25:21 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202502/135889_180513_17_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[게임코인TV] 장현국 대표 취임 후 광폭 행보 보이는 넥써쓰]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=135850</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=135850</guid>
+            <pubDate>Wed, 26 Feb 2025 22:25:21 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202502/135850_180617_2734_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[카드뉴스] 네이버웹툰의 일본어 서비스 '라인망가'.. 디지털화를 꾀하며 미래로 나아간다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=135846</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=135846</guid>
+            <pubDate>Wed, 26 Feb 2025 22:25:21 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202502/135846_180438_4228_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[카드뉴스] 포털과 메신저 곳곳에 AI 심는 네이버-카카오..."일상 속 AI 시대를 열다"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=135796</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=135796</guid>
+            <pubDate>Wed, 26 Feb 2025 22:25:21 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202502/135796_180363_332_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[카드뉴스] IT기업들이 모듈러 건축 시장에 뛰어든 이유는? '스마트홈 주도권을 잡아라']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=135675</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=135675</guid>
+            <pubDate>Wed, 26 Feb 2025 22:25:21 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202502/135675_180156_248_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[카드뉴스] 새롭게 도약하는 위메이드.. 'We Dare' 두려움 없이 과감하게 도전할 것]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=135596</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=135596</guid>
+            <pubDate>Wed, 26 Feb 2025 22:25:21 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202502/135596_180035_384_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[카드뉴스] 연매출 10조 달성한 네이버.. '온서비스AI' 전략으로 거침없는 성장세 이어간다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=135511</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=135511</guid>
+            <pubDate>Wed, 26 Feb 2025 22:25:21 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202502/135511_179900_529_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[카드뉴스] 넥슨만의 낭만 '마비노기 모바일' 드디어 출시.. 새로운 판타지를 경험해보자]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=135440</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=135440</guid>
+            <pubDate>Tue, 11 Feb 2025 09:03:00 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202502/135440_179788_4846_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
