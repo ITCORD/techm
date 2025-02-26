@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Feb 2025 07:24:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Feb 2025 08:30:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] '파수, 안랩, 지니언스, S2W'.. K-보안기업들의 글로벌 진출 전략은?]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=136229</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=136229</guid>
+            <pubDate>Wed, 26 Feb 2025 08:30:49 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202502/136229_181080_3353_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 국내 통신 3사 'MWC25'에 뜬다.. "AI를 향한 경쟁 시작될 것"]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=136160</link>
@@ -110,14 +118,6 @@
             <pubDate>Tue, 11 Feb 2025 09:03:00 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202502/135440_179788_4846_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[게임코인TV] 블록체인 게임의 매력은?...이미르만의 '주화경제' 시스템]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=135383</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=135383</guid>
-            <pubDate>Sun, 23 Feb 2025 22:22:18 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202502/135383_179697_4657_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
