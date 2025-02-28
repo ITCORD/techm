@@ -4,9 +4,17 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Feb 2025 22:24:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Feb 2025 23:22:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[봄바람 살랑이는 여행의 계절이 왔다...플랫폼 서비스로 알차게 즐기는 '숙박페스타']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=136358</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=136358</guid>
+            <pubDate>Sat, 01 Mar 2025 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[배수현 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202502/136358_181298_811_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[과기정통부, '제4이통' 주파수 경매 손본다...자본금 충분하고 완납 능력 있어야 자격 부여]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=136354</link>
@@ -110,14 +118,6 @@
             <pubDate>Fri, 28 Feb 2025 09:55:00 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202502/136313_181215_5440_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오픈AI, 감수성 높인 'GPT-4.5' 공개..."최고의 대화형 모델"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=136311</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=136311</guid>
-            <pubDate>Fri, 28 Feb 2025 09:31:00 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202502/136311_181214_318_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
