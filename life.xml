@@ -1,8 +1,123 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN6&amp;view_type=sm</id>
-    <title>테크M ─ 라이프</title>
-    <updated>2025-03-01T15:20:15.070Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.techm.kr/news/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>테크M ─ 라이프</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sat, 01 Mar 2025 16:28:57 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[코웨이, 연중 최대 프로모션 '2025 코웨이페스타' 출격...렌탈료 반값 띄운다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=136341</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=136341</guid>
+            <pubDate>Fri, 28 Feb 2025 00:20:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202502/136341_181252_2018_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[카카오모빌리티, 'AI 학습용 자율주행 데이터셋' 공개...자율주행 생태계 확대]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=136335</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=136335</guid>
+            <pubDate>Fri, 28 Feb 2025 00:09:00 GMT</pubDate>
+            <content:encoded><![CDATA[배수현 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202502/136335_181244_4955_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[카카오엔터, '웹툰·웹소설 예비 창작자' 지원 확대]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=136334</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=136334</guid>
+            <pubDate>Fri, 28 Feb 2025 11:47:00 GMT</pubDate>
+            <content:encoded><![CDATA[배수현 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202502/136334_181243_459_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[카카오엔터프라이즈, 몽골 과기대와 '카카오 클라우드 인턴십' 성료]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=136333</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=136333</guid>
+            <pubDate>Fri, 28 Feb 2025 11:47:00 GMT</pubDate>
+            <content:encoded><![CDATA[배수현 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202502/136333_181242_307_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[카카오, 대만 '라이츠콘 2025'서 상생 전략 발표]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=136332</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=136332</guid>
+            <pubDate>Fri, 28 Feb 2025 11:28:00 GMT</pubDate>
+            <content:encoded><![CDATA[배수현 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202502/136332_181241_2413_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[삼성전자 비스포크 냉장고, '키친핏 맥스' 디자인에 AI 기능 갖춘 신제품 출시]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=136330</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=136330</guid>
+            <pubDate>Fri, 28 Feb 2025 11:08:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202502/136330_181234_752_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[무신사, 입점사 브랜드 관리에 '집중'..."주기적 교육 실시"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=136322</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=136322</guid>
+            <pubDate>Fri, 28 Feb 2025 10:53:00 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202502/136322_181231_5245_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[미쉐린 가이드와 함께하는 '일품진로'...증류수 브랜드 최초 2년 연속 '파트너십']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=136318</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=136318</guid>
+            <pubDate>Fri, 28 Feb 2025 10:23:00 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202502/136318_181223_2234_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[무신사 스탠다드, 현대백화점 울산점에 신규 매장 오픈…"20번째 스토어로 고객 경험 확대"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=136306</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=136306</guid>
+            <pubDate>Sat, 01 Mar 2025 16:27:31 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202502/136306_181199_5613_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[신학기 준비, 아직 늦지 않았다...쿠팡-이마트-현대백화점 기획전에 '주목']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=136297</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=136297</guid>
+            <pubDate>Sat, 01 Mar 2025 16:27:31 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202502/136297_181176_823_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[니콘, 'NIKKOR Z 35mm f/1.2 S' 발매 기념 프로모션...'아크레스트Ⅱ' 필터 제공]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=136288</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=136288</guid>
+            <pubDate>Sat, 01 Mar 2025 16:27:31 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202502/136288_181164_3049_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[SME 창업도우미 와디즈] 콘텐츠-창작자에도 활짝 열린 와디즈 "콘텐츠 분야 지원 강화"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=136277</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=136277</guid>
+            <pubDate>Sat, 01 Mar 2025 16:27:31 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202502/136277_181149_3314_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[신세계 마켓 띄우는 신세계百...韓 최대 식품관 만든다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=136263</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=136263</guid>
+            <pubDate>Thu, 27 Feb 2025 11:57:00 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202502/136263_181137_3832_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[프리미엄 힘 주는 신세계百, 식품으로 초격차 경쟁력..."세계 3대 진미 다있다"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=136269</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=136269</guid>
+            <pubDate>Thu, 27 Feb 2025 11:56:00 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202502/136269_181138_4825_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
