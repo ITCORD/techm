@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 02 Mar 2025 17:20:46 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Mar 2025 18:34:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -280,6 +280,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202502/136312_181216_5449_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[MWC25] 장소도 가격도 사양도 삼성처럼…샤오미, '샤오미15' 공개 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=136378</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=136378</guid>
+            <pubDate>Mon, 03 Mar 2025 02:42:00 GMT</pubDate>
+            <content:encoded><![CDATA[윤상호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202503/136378_181348_468_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[MWC25] 유상임 과기정통부, MWC25 참석해 글로벌 네트워크 동향 살핀다 (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=136377</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=136377</guid>
@@ -382,14 +390,6 @@
             <pubDate>Fri, 28 Feb 2025 00:23:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202502/136342_181253_2256_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[MWC25] LG유플러스, AI 더한 전시관으로 시선집중...버추얼 휴먼도 '눈길' (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=136340</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=136340</guid>
-            <pubDate>Fri, 28 Feb 2025 00:15:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202502/136340_181251_1551_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[DGT모빌리티 공정위 시정명령 가처분 신청, 법원서 인용 (테크M ─ 이노베이션)]]></title>
@@ -611,7 +611,7 @@
             <title><![CDATA[하이브, 지난해 4분기 영업이익 653억원...전년比 26.7% 감소(1보) (테크M ─ 인베스트먼트)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Sun, 02 Mar 2025 17:18:01 GMT</pubDate>
+            <pubDate>Sun, 02 Mar 2025 18:30:20 GMT</pubDate>
             <content:encoded><![CDATA[임경호 기자]]></content:encoded>
         </item>
         <item>
