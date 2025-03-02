@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 02 Mar 2025 18:34:15 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Mar 2025 19:21:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MWC25] 장소도 가격도 사양도 삼성처럼…샤오미, '샤오미15' 공개]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=136378</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=136378</guid>
+            <pubDate>Mon, 03 Mar 2025 02:42:00 GMT</pubDate>
+            <content:encoded><![CDATA[윤상호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202503/136378_181348_468_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[MWC25] 유상임 과기정통부, MWC25 참석해 글로벌 네트워크 동향 살핀다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=136377</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 01 Mar 2025 16:22:25 GMT</pubDate>
             <content:encoded><![CDATA[임경호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202502/136350_181267_3959_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["이소라의 티켓파워 여전하네"...티켓링크 '봄 밤 핌' 전석 매진]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=136348</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=136348</guid>
-            <pubDate>Sat, 01 Mar 2025 16:22:25 GMT</pubDate>
-            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202502/136348_181265_2444_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
