@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Mar 2025 12:44:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Mar 2025 13:31:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -232,14 +232,6 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202503/136441_181478_539_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[NHN페이코, 신학기맞이 캠퍼스존 혜택 강화 (테크M ─ 콘텐츠)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=136435</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=136435</guid>
-            <pubDate>Tue, 04 Mar 2025 11:41:00 GMT</pubDate>
-            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202503/136435_181422_235_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[다시 뛰는 K게임코인] '마브렉스'가 리브랜딩 나선 이유는?...'세미 퍼블리싱'으로 승부수 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=136382</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=136382</guid>
@@ -278,6 +270,14 @@
             <pubDate>Sat, 01 Mar 2025 09:00:00 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202502/136329_181232_5854_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[두나무, FIU 상대 영업일부정지 처분 취소 소송..."성실히 소명할 것" (테크M ─ 콘텐츠)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=136363</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=136363</guid>
+            <pubDate>Tue, 04 Mar 2025 13:28:25 GMT</pubDate>
+            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202502/136363_181319_76_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['포용금융' 선구자 카카오뱅크 윤호영, 사실상 '5연임' 성공...AI 신사업 이끈다 (테크M ─ 인프라)]]></title>
@@ -707,7 +707,7 @@
             <title><![CDATA[[부고] 최우석(SK스토아 사업지원본부장)씨 부친상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Tue, 04 Mar 2025 11:19:53 GMT</pubDate>
+            <pubDate>Tue, 04 Mar 2025 13:29:38 GMT</pubDate>
             <content:encoded><![CDATA[윤상호 기자]]></content:encoded>
         </item>
         <item>

@@ -4,7 +4,7 @@
         <title>테크M ─ 콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Mar 2025 12:44:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Mar 2025 13:31:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -72,14 +72,6 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202503/136441_181478_539_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[NHN페이코, 신학기맞이 캠퍼스존 혜택 강화]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=136435</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=136435</guid>
-            <pubDate>Tue, 04 Mar 2025 11:41:00 GMT</pubDate>
-            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202503/136435_181422_235_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[다시 뛰는 K게임코인] '마브렉스'가 리브랜딩 나선 이유는?...'세미 퍼블리싱'으로 승부수]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=136382</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=136382</guid>
@@ -118,6 +110,14 @@
             <pubDate>Sat, 01 Mar 2025 09:00:00 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202502/136329_181232_5854_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[두나무, FIU 상대 영업일부정지 처분 취소 소송..."성실히 소명할 것"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=136363</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=136363</guid>
+            <pubDate>Tue, 04 Mar 2025 13:28:25 GMT</pubDate>
+            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202502/136363_181319_76_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
