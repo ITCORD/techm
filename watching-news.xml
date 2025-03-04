@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Mar 2025 10:28:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Mar 2025 11:21:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 네이버 쇼핑앱 '플러스스토어'에 이어 '배송'과 '멤버십'까지.. 초개인화 AI로 쿠팡 추격한다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=136461</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=136461</guid>
+            <pubDate>Tue, 04 Mar 2025 11:21:17 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202503/136461_181455_320_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 출시 10주년 토스...오프라인 결제 혁신과 글로벌 서비스 확장에 집중한다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=136362</link>
@@ -110,14 +118,6 @@
             <pubDate>Sat, 01 Mar 2025 16:28:56 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202502/135796_180363_332_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] IT기업들이 모듈러 건축 시장에 뛰어든 이유는? '스마트홈 주도권을 잡아라']]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=135675</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=135675</guid>
-            <pubDate>Sat, 01 Mar 2025 16:28:56 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202502/135675_180156_248_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
