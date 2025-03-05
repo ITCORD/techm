@@ -1,8 +1,123 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN1&amp;view_type=sm</id>
-    <title>테크M ─ 콘텐츠</title>
-    <updated>2025-03-05T01:37:21.028Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.techm.kr/news/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>테크M ─ 콘텐츠</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 05 Mar 2025 02:58:29 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['디지털자산 기본법' 제정 목소리 높이는 민주당 정무위원들..."법인계좌 단계적 허용 속도 더 빨라야"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=136506</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=136506</guid>
+            <pubDate>Wed, 05 Mar 2025 11:47:00 GMT</pubDate>
+            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202503/136506_181533_1629_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["추억의 '겜보이' 만나러 가볼까"...넷마블문화재단, 게임 박물관 문 열었다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=136504</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=136504</guid>
+            <pubDate>Wed, 05 Mar 2025 11:05:00 GMT</pubDate>
+            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202503/136504_181526_313_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[엔씨소프트 'TL', 1인 던전 업데이트...시스템 대폭 개선]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=136488</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=136488</guid>
+            <pubDate>Wed, 05 Mar 2025 10:23:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202503/136488_181510_234_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[스마일게이트 스토브, 퍼즐 액션 '트라인' 시리즈 출시]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=136486</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=136486</guid>
+            <pubDate>Wed, 05 Mar 2025 10:19:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202503/136486_181507_190_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[넵튠, 서브컬처 수집형 RPG '앵커패닉' 유통 계약]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=136485</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=136485</guid>
+            <pubDate>Wed, 05 Mar 2025 10:17:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202503/136485_181505_1749_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[쿠팡플레이, 티빙 제치고 OTT 2위 등극...MAU 감소에도 순위 역전]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=136476</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=136476</guid>
+            <pubDate>Wed, 05 Mar 2025 09:38:00 GMT</pubDate>
+            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202503/136476_181493_71_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[MWC25] MWC에 등장한 'TL'과 '인조이'...글로벌 관람객 눈길 사로잡는 K콘텐츠]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=136467</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=136467</guid>
+            <pubDate>Wed, 05 Mar 2025 02:55:51 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202503/136467_181498_3723_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[넷마블 'RF 온라인 넥스트' 캐릭터명 선점 이벤트 6일 시작]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=136462</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=136462</guid>
+            <pubDate>Wed, 05 Mar 2025 02:55:51 GMT</pubDate>
+            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202503/136462_181466_4111_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[더불어민주당, 오는 7일 게임특위 출범...이재명 대표 참석해 직접 소통]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=136459</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=136459</guid>
+            <pubDate>Wed, 05 Mar 2025 02:55:51 GMT</pubDate>
+            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202503/136459_181452_053_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[글로벌 팬심 사로잡은 '미드나잇워커스', 공개 테스트 성료]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=136455</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=136455</guid>
+            <pubDate>Wed, 05 Mar 2025 02:55:51 GMT</pubDate>
+            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202503/136455_181449_3139_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[PWS가 온다] DN 프릭스 글로벌팀 선정...국내 강팀 판도 바뀐다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=136445</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=136445</guid>
+            <pubDate>Wed, 05 Mar 2025 02:55:51 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202503/136445_181433_3545_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[PWS가 온다] 5주간의 대장정, 상위 세개팀 PGS 진출]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=136440</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=136440</guid>
+            <pubDate>Wed, 05 Mar 2025 02:55:51 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202503/136440_181476_5245_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[올해 모바일 게임 트렌드는?...유니티, 시장 흐름 및 수익화 전략 인사이트 리포트 공개]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=136439</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=136439</guid>
+            <pubDate>Wed, 05 Mar 2025 02:55:51 GMT</pubDate>
+            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202503/136439_181428_4522_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[니케 中 진출부터 스텔라 블레이드 확장판까지...판 키우는 시프트업]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=136441</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=136441</guid>
+            <pubDate>Wed, 05 Mar 2025 02:55:51 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202503/136441_181478_539_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
