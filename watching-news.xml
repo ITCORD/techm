@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Mar 2025 14:25:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Mar 2025 15:25:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[게임코인TV] 엑스플라가 여는 웹3 '윈도' 시대? '플레이쓰리'에 주목]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=136538</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=136538</guid>
+            <pubDate>Wed, 05 Mar 2025 15:25:25 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202503/136538_181588_313_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 네이버 쇼핑앱 '플러스스토어'에 이어 '배송'과 '멤버십'까지.. 초개인화 AI로 쿠팡 추격한다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=136461</link>
@@ -110,14 +118,6 @@
             <pubDate>Wed, 05 Mar 2025 02:58:28 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202502/135846_180438_4228_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 포털과 메신저 곳곳에 AI 심는 네이버-카카오..."일상 속 AI 시대를 열다"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=135796</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=135796</guid>
-            <pubDate>Wed, 05 Mar 2025 02:58:28 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202502/135796_180363_332_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
