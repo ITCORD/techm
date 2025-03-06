@@ -1,8 +1,123 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN10&amp;view_type=sm</id>
-    <title>테크M ─ 보는 뉴스</title>
-    <updated>2025-03-06T14:20:16.404Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.techm.kr/news/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>테크M ─ 보는 뉴스</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 06 Mar 2025 15:27:36 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 'AI'와 '6G' 중심으로 개최된 MWC25, 글로벌 통신사·장비사 한자리에]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=136589</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=136589</guid>
+            <pubDate>Thu, 06 Mar 2025 15:27:35 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202503/136589_181664_351_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[게임코인TV] 엑스플라가 여는 웹3 '윈도' 시대? '플레이쓰리'에 주목]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=136538</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=136538</guid>
+            <pubDate>Thu, 06 Mar 2025 15:27:35 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202503/136538_181588_313_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[카드뉴스] 네이버 쇼핑앱 '플러스스토어'에 이어 '배송'과 '멤버십'까지.. 초개인화 AI로 쿠팡 추격한다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=136461</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=136461</guid>
+            <pubDate>Thu, 06 Mar 2025 15:27:35 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202503/136461_181455_320_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[카드뉴스] 출시 10주년 토스...오프라인 결제 혁신과 글로벌 서비스 확장에 집중한다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=136362</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=136362</guid>
+            <pubDate>Thu, 06 Mar 2025 15:27:35 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202502/136362_181302_2252_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[게임코인TV] 컴투스 그룹의 엑스플라, 2024년 활약상은?]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=136309</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=136309</guid>
+            <pubDate>Thu, 06 Mar 2025 15:27:35 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202502/136309_181212_950_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[카드뉴스] 소상공인들을 위한 창업도우미? 와디즈 '크라우드펀딩'에 주목하라]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=136302</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=136302</guid>
+            <pubDate>Thu, 06 Mar 2025 15:27:35 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202502/136302_181185_210_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[카드뉴스] '파수, 안랩, 지니언스, S2W'.. K-보안기업들의 글로벌 진출 전략은?]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=136229</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=136229</guid>
+            <pubDate>Thu, 06 Mar 2025 15:27:35 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202502/136229_181080_3353_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[카드뉴스] 국내 통신 3사 'MWC25'에 뜬다.. "AI를 향한 경쟁 시작될 것"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=136160</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=136160</guid>
+            <pubDate>Thu, 06 Mar 2025 15:27:35 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202502/136160_180953_2944_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[게임코인TV] 다크앤다커 소송 1심 판결, 넥슨의 판정승이라는데...이대로 괜찮을까?]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=136093</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=136093</guid>
+            <pubDate>Tue, 25 Feb 2025 01:20:00 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202502/136093_180879_2037_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[카드뉴스] 카카오·티맵 이어 우버까지 등판...모빌리티 경쟁 "B2B를 잡아라"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=136086</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=136086</guid>
+            <pubDate>Thu, 06 Mar 2025 15:27:35 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202502/136086_180857_5244_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[카드뉴스] 넥써쓰, 블록체인 게임 플랫폼 '크로스' 출시.. 플랫폼 확장과 생태계 구축에 집중한다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=136020</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=136020</guid>
+            <pubDate>Thu, 06 Mar 2025 15:27:35 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202502/136020_180725_4042_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[게임코인TV] 장현국 대표의 넥써쓰, 온보딩 게임과 코인 발행 시기는?]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=135975</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=135975</guid>
+            <pubDate>Thu, 06 Mar 2025 15:27:35 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202502/135975_180662_464_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[카드뉴스] '휴머노이드 시대'가 온다.. 피지컬 AI를 선점하기 위한 로봇 전쟁 본격화]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=135889</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=135889</guid>
+            <pubDate>Thu, 06 Mar 2025 15:27:35 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202502/135889_180513_17_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[게임코인TV] 장현국 대표 취임 후 광폭 행보 보이는 넥써쓰]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=135850</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=135850</guid>
+            <pubDate>Thu, 06 Mar 2025 15:27:35 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202502/135850_180617_2734_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
