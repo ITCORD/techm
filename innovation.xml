@@ -1,8 +1,123 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN3&amp;view_type=sm</id>
-    <title>테크M ─ 이노베이션</title>
-    <updated>2025-03-06T15:27:36.124Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.techm.kr/news/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>테크M ─ 이노베이션</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 06 Mar 2025 16:29:15 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MWC25] SKT, 글로모 어워드에서 '최고의 클라우드 솔루션' 등 4관왕 '쾌거']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=136595</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=136595</guid>
+            <pubDate>Thu, 06 Mar 2025 16:26:49 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202503/136595_181701_3139_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[MWC25] 밀리의서재, 스페인 MWC 행사서 'AI독파밍·챗봇' 선봬]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=136550</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=136550</guid>
+            <pubDate>Thu, 06 Mar 2025 10:19:00 GMT</pubDate>
+            <content:encoded><![CDATA[배수현 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202503/136550_181614_635_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[카카오게임즈, 국제 ESG 평가서 AAA등급 획득..."국내 게임업계 중 유일"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=136530</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=136530</guid>
+            <pubDate>Thu, 06 Mar 2025 16:26:49 GMT</pubDate>
+            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202503/136530_181560_015_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[갈라, 솔라나 브릿지로 크로스체인 확장…'오피셜 트럼프' 첫 지원]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=136528</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=136528</guid>
+            <pubDate>Thu, 06 Mar 2025 16:26:49 GMT</pubDate>
+            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202503/136528_181559_5414_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[페이히어 '스마트상점' 공급기업 3년 연속 선정...서비스형 소프트웨어 신규 지원]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=136526</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=136526</guid>
+            <pubDate>Thu, 06 Mar 2025 16:26:49 GMT</pubDate>
+            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202503/136526_181557_4620_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[바이비트 이어 위믹스 재단까지...코인업계 '해킹 주의보']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=136460</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=136460</guid>
+            <pubDate>Thu, 06 Mar 2025 16:26:49 GMT</pubDate>
+            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202503/136460_181454_1033_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[창업 지원 한 번에...NHN KCP 신규 앱 '비벗' 출시]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=136434</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=136434</guid>
+            <pubDate>Tue, 04 Mar 2025 11:42:00 GMT</pubDate>
+            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202503/136434_181421_184_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[CJ ENM, '엠넷' 30주년 슬로건·브랜드 개편...기념 행사·프로모션 진행]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=136424</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=136424</guid>
+            <pubDate>Tue, 04 Mar 2025 10:59:00 GMT</pubDate>
+            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202503/136424_181411_4152_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[티맵, 모빌리티 데이터에 공간 정보 더한다...B2B 데이터 사업 확장]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=136414</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=136414</guid>
+            <pubDate>Tue, 04 Mar 2025 09:33:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202503/136414_181392_3248_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[DGT모빌리티 공정위 시정명령 가처분 신청, 법원서 인용]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=136355</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=136355</guid>
+            <pubDate>Thu, 06 Mar 2025 16:26:49 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202502/136355_181272_1650_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['멤버십' 이어 '배송' 강화한 네이버 쇼핑...'AI' 더해 쿠팡 잡는다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=136327</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=136327</guid>
+            <pubDate>Thu, 06 Mar 2025 16:26:49 GMT</pubDate>
+            <content:encoded><![CDATA[배수현 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202502/136327_181236_1150_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[MWC25] 수호아이오, MWC서 AI 블록체인 화폐 솔루션 첫선]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=136339</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=136339</guid>
+            <pubDate>Fri, 28 Feb 2025 00:12:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202502/136339_181250_1154_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[네이버 도착보장, '네이버배송'으로 탈바꿈..."평균 배송 소요 시간 2시간 단축"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=136320</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=136320</guid>
+            <pubDate>Fri, 28 Feb 2025 10:57:00 GMT</pubDate>
+            <content:encoded><![CDATA[배수현 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202502/136320_181229_4223_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[소닉, 메인넷 '뫼비우스' 출시…"솔라나 첫 SVM 체인 확장"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=136315</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=136315</guid>
+            <pubDate>Fri, 28 Feb 2025 10:36:00 GMT</pubDate>
+            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202502/136315_181219_750_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
