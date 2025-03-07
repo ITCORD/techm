@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Mar 2025 15:29:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Mar 2025 16:31:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -952,6 +952,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202502/136022_180744_1127_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[카드뉴스] MWC25, 韓 대기업부터 스타트업까지...AI 기술력으로 존재감 뽐냈다 (테크M ─ 보는 뉴스)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=136629</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=136629</guid>
+            <pubDate>Fri, 07 Mar 2025 16:31:37 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202503/136629_181759_5512_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[카드뉴스] 'AI'와 '6G' 중심으로 개최된 MWC25, 글로벌 통신사·장비사 한자리에 (테크M ─ 보는 뉴스)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=136589</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=136589</guid>
@@ -1054,14 +1062,6 @@
             <pubDate>Thu, 06 Mar 2025 15:27:35 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202502/135889_180513_17_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[게임코인TV] 장현국 대표 취임 후 광폭 행보 보이는 넥써쓰 (테크M ─ 보는 뉴스)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=135850</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=135850</guid>
-            <pubDate>Thu, 06 Mar 2025 15:27:35 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202502/135850_180617_2734_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
