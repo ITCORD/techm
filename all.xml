@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Mar 2025 05:24:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Mar 2025 06:35:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -280,6 +280,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202503/136556_181620_344_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[테크M 이슈] 비트코인 전략자산 시대...美 트럼프 첫 BTC 행정명령의 의미 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=136628</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=136628</guid>
+            <pubDate>Fri, 07 Mar 2025 06:30:36 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202503/136628_181755_2815_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['금융 AI 에이전트' 강화 나선 혜움...경력 인재 찾는다 (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=136625</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=136625</guid>
@@ -382,14 +390,6 @@
             <pubDate>Thu, 06 Mar 2025 15:22:24 GMT</pubDate>
             <content:encoded><![CDATA[윤상호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202503/136593_181730_3837_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[세일즈포스 "AI 에이전트 도입, 고민 없이 '에이전트포스' 플랫폼 하나로 해결" (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=136591</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=136591</guid>
-            <pubDate>Thu, 06 Mar 2025 15:22:24 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202503/136591_181685_2826_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[엑셀라 재단, 브라이언 브룩스 기관 자문위원 선임..."블록체인 상호운용성 인프라 확장 기대" (테크M ─ 이노베이션)]]></title>
