@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 08 Mar 2025 16:27:28 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Mar 2025 18:26:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[게임코인TV] 클레바 인수한 눈21에 대한 모든 것]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=136644</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=136644</guid>
+            <pubDate>Sat, 08 Mar 2025 18:26:42 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202503/136644_181812_4630_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] MWC25, 韓 대기업부터 스타트업까지...AI 기술력으로 존재감 뽐냈다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=136629</link>
@@ -110,14 +118,6 @@
             <pubDate>Thu, 06 Mar 2025 15:27:35 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202502/135975_180662_464_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] '휴머노이드 시대'가 온다.. 피지컬 AI를 선점하기 위한 로봇 전쟁 본격화]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=135889</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=135889</guid>
-            <pubDate>Thu, 06 Mar 2025 15:27:35 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202502/135889_180513_17_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
