@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Mar 2025 11:18:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Mar 2025 12:51:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -952,6 +952,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202502/136122_180907_208_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[카드뉴스] 2025년 전환점을 맞이한 '마브렉스'...리브랜딩 통해 게임산업에 집중한다 (테크M ─ 보는 뉴스)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=136704</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=136704</guid>
+            <pubDate>Mon, 10 Mar 2025 10:20:30 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202503/136704_181905_3129_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[게임코인TV] 클레바 인수한 눈21에 대한 모든 것 (테크M ─ 보는 뉴스)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=136644</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=136644</guid>
@@ -1054,14 +1062,6 @@
             <pubDate>Mon, 10 Mar 2025 07:21:35 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202502/136020_180725_4042_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[게임코인TV] 장현국 대표의 넥써쓰, 온보딩 게임과 코인 발행 시기는? (테크M ─ 보는 뉴스)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=135975</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=135975</guid>
-            <pubDate>Mon, 10 Mar 2025 07:21:35 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202502/135975_180662_464_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
