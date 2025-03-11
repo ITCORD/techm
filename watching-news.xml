@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Mar 2025 08:32:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Mar 2025 09:28:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 세일즈포스, '활용'에 초점을 둔 AI 에이전트 공개.. "사람과 에이전트가 협업한다"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=136766</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=136766</guid>
+            <pubDate>Tue, 11 Mar 2025 09:28:31 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202503/136766_181990_3344_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 2025년 전환점을 맞이한 '마브렉스'...리브랜딩 통해 게임산업에 집중한다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=136704</link>
@@ -110,14 +118,6 @@
             <pubDate>Mon, 10 Mar 2025 07:21:35 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202502/136086_180857_5244_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 넥써쓰, 블록체인 게임 플랫폼 '크로스' 출시.. 플랫폼 확장과 생태계 구축에 집중한다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=136020</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=136020</guid>
-            <pubDate>Mon, 10 Mar 2025 07:21:35 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202502/136020_180725_4042_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
