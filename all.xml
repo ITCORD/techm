@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Mar 2025 05:24:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Mar 2025 06:35:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -280,6 +280,22 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202503/136783_182028_1854_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[두나무 vs. FIU 법정다툼 돌입...오는 27일 전까지 인용여부 결정할 듯 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=136893</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=136893</guid>
+            <pubDate>Thu, 13 Mar 2025 06:30:31 GMT</pubDate>
+            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202503/136893_182183_93_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[카카오 CA협의체 개편…정신아 대표 단독 의장 체제로 전환(1보) (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=136889</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=136889</guid>
+            <pubDate>Thu, 13 Mar 2025 05:19:31 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202503/136889_182180_850_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[이정훈 빗썸 전 의장, 대법원 무죄 선고...'1120억 사기 혐의' 리스크 해소 (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=136880</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=136880</guid>
@@ -374,22 +390,6 @@
             <pubDate>Thu, 13 Mar 2025 10:38:00 GMT</pubDate>
             <content:encoded><![CDATA[윤상호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202503/136850_182133_156_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["피크아웃은 없다" 제2 전성기 연 크래프톤 배틀그라운드...동접자 100만 '육박' (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=136854</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=136854</guid>
-            <pubDate>Thu, 13 Mar 2025 10:27:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202503/136854_182138_2634_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["GPU 한 장이면 충분"...구글, 딥시크 견제할 오픈 모델 '젬마3' 공개 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=136852</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=136852</guid>
-            <pubDate>Thu, 13 Mar 2025 10:17:00 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202503/136852_182134_1544_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[쏘카, KBO와 공동마케팅..."합리적 야구장 이동 지원" (테크M ─ 이노베이션)]]></title>
@@ -507,7 +507,7 @@
             <title><![CDATA[재수 넘어 삼수로...호실적 거둔 케이뱅크, IPO 재도전 나섰다 (테크M ─ 인베스트먼트)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=136883</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=136883</guid>
-            <pubDate>Thu, 13 Mar 2025 05:22:02 GMT</pubDate>
+            <pubDate>Thu, 13 Mar 2025 05:19:31 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202503/136883_182169_297_v150.jpg" length="0" type="image/jpg"/>
         </item>
