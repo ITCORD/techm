@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Mar 2025 09:27:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Mar 2025 10:28:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -616,6 +616,22 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202503/136653_181823_5014_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[인텔, 새 CEO에 '반도체 베테랑' 립부 탄 선임 (테크M ─ 피플)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=136896</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=136896</guid>
+            <pubDate>Thu, 13 Mar 2025 07:20:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202503/136896_182188_1120_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이선후퇴 택한 카카오 김범수, 건강상 문제로 치료 집중(상보) (테크M ─ 피플)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=136890</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=136890</guid>
+            <pubDate>Thu, 13 Mar 2025 07:20:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202503/136890_182208_2339_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[김상현 롯데쇼핑 부회장, K서비스 '선봉장'..."세계가 주목하게 만들 것" (테크M ─ 피플)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=136775</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=136775</guid>
@@ -710,22 +726,6 @@
             <pubDate>Mon, 03 Mar 2025 09:00:00 GMT</pubDate>
             <content:encoded><![CDATA[조성준 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202502/136356_181276_3917_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[템터뷰] AI가 스마트폰 시세 정해준다고?...중고나라가 기술로 혁신하는 방법 (테크M ─ 피플)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=136206</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=136206</guid>
-            <pubDate>Sun, 02 Mar 2025 10:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202502/136206_181055_1427_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[테크M 피플] 벤처기업協 도움으로 '창업가' 된 송병준...30년만에 협회장 맡아 후배 양성 이끈다 (테크M ─ 피플)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=136331</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=136331</guid>
-            <pubDate>Fri, 28 Feb 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202502/136331_181249_74_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[테크M 리포트] 라면한류 대표주자 농심이 다시 뛴다...신라면 툼바 앞세워 수출 효과 '쑥' (테크M ─ 라이프)]]></title>
