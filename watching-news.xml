@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Mar 2025 11:24:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Mar 2025 12:48:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 삼성 vs LG, 고객의 시청 경험을 위한 2025년 'AI TV' 전쟁이다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=136899</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=136899</guid>
+            <pubDate>Thu, 13 Mar 2025 12:48:17 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202503/136899_182199_1632_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[게임코인TV] 위믹스 해킹과 거래소 유의종목 지정...소명 핵심 쟁점은?]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=136840</link>
@@ -110,14 +118,6 @@
             <pubDate>Mon, 10 Mar 2025 07:21:35 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202502/136229_181080_3353_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 국내 통신 3사 'MWC25'에 뜬다.. "AI를 향한 경쟁 시작될 것"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=136160</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=136160</guid>
-            <pubDate>Mon, 10 Mar 2025 07:21:35 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202502/136160_180953_2944_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
