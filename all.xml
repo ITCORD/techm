@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Mar 2025 07:26:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Mar 2025 08:33:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,6 +168,22 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202503/136875_182161_97_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[넷마블 'RF 온라인 넥스트' 20일 오후 8시 출시 확정 (테크M ─ 콘텐츠)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=136895</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=136895</guid>
+            <pubDate>Thu, 13 Mar 2025 08:28:12 GMT</pubDate>
+            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202503/136895_182187_545_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[코빗, 핵심 메뉴 화면 개선 업데이트로 앱 편의성 강화 (테크M ─ 콘텐츠)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=136894</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=136894</guid>
+            <pubDate>Thu, 13 Mar 2025 07:20:00 GMT</pubDate>
+            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202503/136894_182186_3455_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[최준원 위버스컴퍼니 대표, 美 '사우스 바이 사우스웨스트 2025' 참석 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=136870</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=136870</guid>
@@ -262,22 +278,6 @@
             <pubDate>Wed, 12 Mar 2025 11:16:56 GMT</pubDate>
             <content:encoded><![CDATA[임경호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202503/136825_182077_2536_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[넷마블, RF 온라인 넥스트...이용자 소통으로 흥행 가능성 'UP' (테크M ─ 콘텐츠)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=136794</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=136794</guid>
-            <pubDate>Wed, 12 Mar 2025 10:55:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202503/136794_182039_5455_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[불법 사이트 '오케이툰'에 뿔난 네이버웹툰·카카오엔터 등 7개사, 엄벌 촉구 탄원서 냈다 (테크M ─ 콘텐츠)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=136783</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=136783</guid>
-            <pubDate>Wed, 12 Mar 2025 10:18:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202503/136783_182028_1854_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[두나무 vs. FIU 법정다툼 돌입...오는 27일 전까지 인용여부 결정할 듯 (테크M ─ 인프라)]]></title>
@@ -507,7 +507,7 @@
             <title><![CDATA[위믹스 해킹 여파 집회로 확산..."불통시 국회나 금융당국 공론화 시도" (테크M ─ 인베스트먼트)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=136892</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=136892</guid>
-            <pubDate>Thu, 13 Mar 2025 07:23:13 GMT</pubDate>
+            <pubDate>Thu, 13 Mar 2025 07:20:00 GMT</pubDate>
             <content:encoded><![CDATA[임경호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202503/136892_182184_1435_v150.jpg" length="0" type="image/jpg"/>
         </item>
