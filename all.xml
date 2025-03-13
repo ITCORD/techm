@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Mar 2025 21:24:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Mar 2025 22:23:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,6 +168,22 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202503/136881_182167_162_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[컴투스플랫폼, 글로하우와 '하이브' 사용 계약 체결 (테크M ─ 콘텐츠)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=136897</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=136897</guid>
+            <pubDate>Thu, 13 Mar 2025 09:21:47 GMT</pubDate>
+            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202503/136897_182189_2833_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['포켓몬 고', 오일머니 품에 안겼다...나이언틱은 AI 기업 전환 선언 (테크M ─ 콘텐츠)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=136900</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=136900</guid>
+            <pubDate>Thu, 13 Mar 2025 09:21:47 GMT</pubDate>
+            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202503/136900_182218_5453_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[넷마블 'RF 온라인 넥스트' 20일 오후 8시 출시 확정 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=136895</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=136895</guid>
@@ -262,22 +278,6 @@
             <pubDate>Wed, 12 Mar 2025 11:16:56 GMT</pubDate>
             <content:encoded><![CDATA[임경호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202503/136833_182101_1922_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[로그인만 해도 보상 한가득...넷마블 '페이트·그랜드 오더' 이벤트 (테크M ─ 콘텐츠)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=136828</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=136828</guid>
-            <pubDate>Wed, 12 Mar 2025 11:16:56 GMT</pubDate>
-            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202503/136828_182094_323_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[금융위, 가상자산시장 소통 정례화...'법인의 가상자산시장 참여' 가이드라인 반영 (테크M ─ 콘텐츠)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=136825</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=136825</guid>
-            <pubDate>Wed, 12 Mar 2025 11:16:56 GMT</pubDate>
-            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202503/136825_182077_2536_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[해킹 피해복구 나선 위믹스..."100억원 규모 바이백 진행" (테크M ─ 인프라)]]></title>
