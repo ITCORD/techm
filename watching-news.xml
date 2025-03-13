@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Mar 2025 20:28:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Mar 2025 21:24:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[게임코인TV] 천재개발자 송재경 품은 넥써쓰...장현국 대표가 그를 선택한 이유는?]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=136904</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=136904</guid>
+            <pubDate>Thu, 13 Mar 2025 21:24:15 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202503/136904_182220_4825_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 삼성 vs LG, 고객의 시청 경험을 위한 2025년 'AI TV' 전쟁이다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=136899</link>
@@ -110,14 +118,6 @@
             <pubDate>Mon, 10 Mar 2025 07:21:35 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202502/136302_181185_210_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] '파수, 안랩, 지니언스, S2W'.. K-보안기업들의 글로벌 진출 전략은?]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=136229</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=136229</guid>
-            <pubDate>Mon, 10 Mar 2025 07:21:35 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202502/136229_181080_3353_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
