@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 16 Mar 2025 12:44:25 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Mar 2025 13:29:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -728,6 +728,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202502/136356_181276_3917_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA["육지에서 키운 김, 상용화 '임박'"...CJ제일제당, 인천시와 공동 연구 '맞손' (테크M ─ 라이프)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=136964</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=136964</guid>
+            <pubDate>Sun, 16 Mar 2025 13:28:36 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202503/136964_182331_2345_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[써봤다] 집에서 온천수 즐기기...와디즈 에디션 샤워필터로 '향긋'해진 욕실 (테크M ─ 라이프)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=136956</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=136956</guid>
@@ -830,14 +838,6 @@
             <pubDate>Thu, 13 Mar 2025 07:20:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202503/136891_182182_2631_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오아시스마켓, 충청권 새벽배송 권역 대전으로 '확대' (테크M ─ 라이프)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=136887</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=136887</guid>
-            <pubDate>Thu, 13 Mar 2025 05:19:31 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202503/136887_182179_23_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[글로벌] 구글 딥마인드, 생성형 AI 기반 로보틱스 모델 공개 (테크M ─ 리포트)]]></title>
