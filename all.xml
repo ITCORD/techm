@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Mar 2025 16:32:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Mar 2025 17:24:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,6 +168,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202503/136986_182362_4352_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[GDC 25] AI 시대 맞이한 게임 개발자들의 토론의 장 열렸다...GDC 25 개막 (테크M ─ 콘텐츠)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=137009</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=137009</guid>
+            <pubDate>Tue, 18 Mar 2025 01:25:00 GMT</pubDate>
+            <content:encoded><![CDATA[허준 편집장]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202503/137009_182410_2349_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA["프로야구 시즌 방어율 좋네"...티빙, 올해도 KBO로 MAU 점증 이끌까 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=136999</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=136999</guid>
@@ -270,14 +278,6 @@
             <pubDate>Sun, 16 Mar 2025 08:00:00 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202503/136952_182294_4725_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[PWS 통신] DN-T1 양강 구도 확정...2주차 우승도 '프릭스' 차지 (테크M ─ 콘텐츠)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=136954</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=136954</guid>
-            <pubDate>Sat, 15 Mar 2025 16:22:50 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202503/136954_182301_4550_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[삼성전자-LG전자, '친환경' 경쟁…유럽 냉난방공조 시장 '격돌'(종합) (테크M ─ 인프라)]]></title>
