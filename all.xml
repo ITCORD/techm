@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Mar 2025 22:24:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Mar 2025 23:24:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -280,6 +280,22 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202503/136991_182367_1155_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['로봇'에 진심인 젠슨 황...휴머노이드 파운데이션 모델 '아이작 GR00T N1' 발표 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=137075</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=137075</guid>
+            <pubDate>Wed, 19 Mar 2025 07:59:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202503/137075_182530_5815_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['루빈'에서 '파인만'까지...엔비디아, 차세대 AI 칩 로드맵 공개 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=137074</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=137074</guid>
+            <pubDate>Wed, 19 Mar 2025 07:37:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202503/137074_182527_3543_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[SK하이닉스, AI 메모리 주도권 굳힌다...엔비디아 GTC 참가 (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=137071</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=137071</guid>
@@ -374,22 +390,6 @@
             <pubDate>Tue, 18 Mar 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202503/137042_182474_4636_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LG, "딥시크 꼼짝마"…추론 AI '엑사원 딥' 오픈소스 공개 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=137035</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=137035</guid>
-            <pubDate>Tue, 18 Mar 2025 11:47:00 GMT</pubDate>
-            <content:encoded><![CDATA[윤상호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202503/137035_182465_1411_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[그라비티, 중국서 '라그나로크: 여명' 미니게임 매출 8위 등극 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=137040</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=137040</guid>
-            <pubDate>Tue, 18 Mar 2025 11:23:00 GMT</pubDate>
-            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202503/137040_182472_237_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[케이뱅크, '사장님 부동산 담보대출' 후순위 대환 상품 출시...'비대면' 앞세워 기업 금융 플랫폼 확장 (테크M ─ 이노베이션)]]></title>
