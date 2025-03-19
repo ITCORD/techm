@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Mar 2025 12:48:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Mar 2025 13:36:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -615,6 +615,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202503/136883_182169_297_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[정신아 카카오 대표 "AI 통해 새 미래 열자...속도감 있는 투자 지속" (테크M ─ 피플)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=137100</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=137100</guid>
+            <pubDate>Wed, 19 Mar 2025 13:33:28 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202503/137100_182590_5310_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[정용진 신세계  회장, 경영에만 집중한 취임 1년...호실적에도 연봉 삭감 (테크M ─ 피플)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=137077</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=137077</guid>
@@ -717,14 +725,6 @@
             <pubDate>Mon, 10 Mar 2025 03:23:14 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202503/136633_181784_2434_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["자리 보장은 없다" 경쟁 독려하는 네이버, 내년 3월부터 레벨제 도입 (테크M ─ 피플)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=136527</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=136527</guid>
-            <pubDate>Mon, 10 Mar 2025 03:23:14 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202503/136527_181558_4917_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[청정라거 '테라', 제2의 도약 선언...하이트진로 "마케팅 늘리고 패키지 리뉴얼" (테크M ─ 라이프)]]></title>
@@ -954,7 +954,7 @@
             <title><![CDATA[[게임코인TV] '드디어 개막' 전세계 게임 개발자들 한자리에...GDC 25 첫날 '생생' 현장 분위기는? (테크M ─ 보는 뉴스)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Wed, 19 Mar 2025 12:48:14 GMT</pubDate>
+            <pubDate>Wed, 19 Mar 2025 13:36:00 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
         </item>
         <item>
