@@ -4,9 +4,24 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Mar 2025 07:28:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Mar 2025 08:34:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[게임코인TV] '드디어 개막' 전세계 게임 개발자들 한자리에...GDC 25 첫날 '생생' 현장 분위기는?]]></title>
+            <link>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN10&amp;view_type=sm</link>
+            <guid>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN10&amp;view_type=sm</guid>
+            <pubDate>Wed, 19 Mar 2025 08:34:21 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[카드뉴스] 컴투스 남재관의 남다른 게임안목..."장르 다각화로 글로벌 향한다"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=137129</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=137129</guid>
+            <pubDate>Wed, 19 Mar 2025 08:34:21 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202503/137129_182633_054_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] '선택과 집중' 카카오게임즈...글로벌 시장 중심으로 대작 러시]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=137069</link>
@@ -102,22 +117,6 @@
             <pubDate>Mon, 10 Mar 2025 07:21:35 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202503/136629_181759_5512_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 'AI'와 '6G' 중심으로 개최된 MWC25, 글로벌 통신사·장비사 한자리에]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=136589</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=136589</guid>
-            <pubDate>Mon, 10 Mar 2025 07:21:35 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202503/136589_181664_351_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[게임코인TV] 엑스플라가 여는 웹3 '윈도' 시대? '플레이쓰리'에 주목]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=136538</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=136538</guid>
-            <pubDate>Mon, 10 Mar 2025 07:21:35 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202503/136538_181588_313_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
