@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Mar 2025 16:33:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Mar 2025 17:24:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[게임코인TV] 에픽도 없고, 유니티도 없고...침체된 게임업계 분위기 보여준 GDC 엑스포 현장]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=137213</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=137213</guid>
+            <pubDate>Thu, 20 Mar 2025 17:24:33 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202503/137213_182793_5618_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 야놀자, AWS 손잡았다.. 글로벌 여행 플랫폼으로 향할 '새로운 시작']]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=137207</link>
@@ -19,7 +27,7 @@
             <title><![CDATA[[게임코인TV] '드디어 개막' 전세계 게임 개발자들 한자리에...GDC 25 첫날 '생생' 현장 분위기는?]]></title>
             <link>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN10&amp;view_type=sm</link>
             <guid>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN10&amp;view_type=sm</guid>
-            <pubDate>Thu, 20 Mar 2025 15:27:52 GMT</pubDate>
+            <pubDate>Thu, 20 Mar 2025 17:24:33 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
         </item>
         <item>
@@ -109,14 +117,6 @@
             <pubDate>Mon, 10 Mar 2025 12:51:28 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202503/136704_181905_3129_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[게임코인TV] 클레바 인수한 눈21에 대한 모든 것]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=136644</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=136644</guid>
-            <pubDate>Mon, 10 Mar 2025 07:21:35 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202503/136644_181812_4630_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
