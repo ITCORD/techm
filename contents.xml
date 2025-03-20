@@ -4,16 +4,24 @@
         <title>테크M ─ 콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Mar 2025 23:25:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Mar 2025 01:43:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[넥슨 '메이플스토리 N' 이벤트에 자체토큰 'NXPC' 보상 지급 '눈길']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=137146</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=137146</guid>
+            <pubDate>Thu, 20 Mar 2025 09:38:00 GMT</pubDate>
+            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202503/137146_182692_3042_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[GDC 25] 블록체인, 게임 개발자들에겐 새로운 가능성...결국 핵심은 '게임의 재미']]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=137141</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=137141</guid>
             <pubDate>Thu, 20 Mar 2025 04:20:00 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202503/137141_182678_1850_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202503/137141_182705_327_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[GDC 25] 디아블로의 생선구이 레시피? 게임팬 눈길 사로잡는 '굿즈' 총집합...'GDC는 지금']]></title>
@@ -21,7 +29,7 @@
             <guid>https://www.techm.kr/news/articleView.html?idxno=137140</guid>
             <pubDate>Thu, 20 Mar 2025 03:19:00 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202503/137140_182662_5711_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202503/137140_182706_346_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[LG유플러스 스튜디오X+U, '맨인유럽 2025' 공개]]></title>
@@ -110,14 +118,6 @@
             <pubDate>Wed, 19 Mar 2025 10:57:00 GMT</pubDate>
             <content:encoded><![CDATA[조성준 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202503/137089_182564_5654_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[크래프톤 기대작 '인조이', 얼리 액세스 4만4800원 확정]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=137088</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=137088</guid>
-            <pubDate>Wed, 19 Mar 2025 10:47:00 GMT</pubDate>
-            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202503/137088_182561_4625_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
