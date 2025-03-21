@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Mar 2025 11:25:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Mar 2025 12:43:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,6 +168,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202503/137236_182831_3933_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[보안 조치 마치고 정상화 수순 밟는 위믹스...플레이 브릿지 서비스 재개 (테크M ─ 콘텐츠)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=137262</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=137262</guid>
+            <pubDate>Fri, 21 Mar 2025 12:40:49 GMT</pubDate>
+            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202503/137262_182881_1340_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[넷마블 'RF 온라인 넥스트' 정상 등극...애플 앱스토어 매출 1위 꿰찼다 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=137255</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=137255</guid>
@@ -270,14 +278,6 @@
             <pubDate>Thu, 20 Mar 2025 00:45:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202503/137177_182791_255_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['야구게임 최강자' 봄에 웃는 컴투스, 신작 러시로 이익 성장 '홈런' (테크M ─ 콘텐츠)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=137182</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=137182</guid>
-            <pubDate>Thu, 20 Mar 2025 00:43:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202503/137182_182736_4232_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[신임 대표 체제 삼성SDS·재무통 띄운 LG CNS...주총 인선으로 본 당면 과제는 (테크M ─ 인프라)]]></title>
@@ -728,6 +728,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202503/136740_181955_3453_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['15돌' 카카오톡, 연간 26조원 사회·경제적 가치 창출…이용자 1인당 월평균 4만5000원 혜택 (테크M ─ 라이프)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=137252</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=137252</guid>
+            <pubDate>Fri, 21 Mar 2025 08:26:23 GMT</pubDate>
+            <content:encoded><![CDATA[배수현 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202503/137252_182865_135_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[후지필름, 렌즈 일체형 라지포멧 카메라 'GFX100RF' 공개 (테크M ─ 라이프)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=137250</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=137250</guid>
@@ -830,14 +838,6 @@
             <pubDate>Thu, 20 Mar 2025 00:57:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202503/137188_182745_5748_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[무신사 로지스틱스, 안전보건경영 국제 인증 따냈다 (테크M ─ 라이프)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=137187</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=137187</guid>
-            <pubDate>Thu, 20 Mar 2025 00:55:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202503/137187_182744_557_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[글로벌] 백악관에 '스타링크' 인터넷 서비스...일각에선 "안보 우려 있다" (테크M ─ 리포트)]]></title>
@@ -952,6 +952,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202503/136711_181914_4834_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[카드뉴스] 글로벌 게임업계 모두 한자리에 'GDC 25'.. 올해도 역시 K게임 인기 대단했다 (테크M ─ 보는 뉴스)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=137254</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=137254</guid>
+            <pubDate>Fri, 21 Mar 2025 12:43:24 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202503/137254_182854_1016_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[게임코인TV] 에픽도 없고, 유니티도 없고...침체된 게임업계 분위기 보여준 GDC 엑스포 현장 (테크M ─ 보는 뉴스)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=137213</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=137213</guid>
@@ -971,7 +979,7 @@
             <title><![CDATA[[게임코인TV] '드디어 개막' 전세계 게임 개발자들 한자리에...GDC 25 첫날 '생생' 현장 분위기는? (테크M ─ 보는 뉴스)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Fri, 21 Mar 2025 08:33:27 GMT</pubDate>
+            <pubDate>Fri, 21 Mar 2025 12:43:24 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
         </item>
         <item>
@@ -1053,14 +1061,6 @@
             <pubDate>Thu, 20 Mar 2025 20:27:15 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202503/136766_181990_3344_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 2025년 전환점을 맞이한 '마브렉스'...리브랜딩 통해 게임산업에 집중한다 (테크M ─ 보는 뉴스)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=136704</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=136704</guid>
-            <pubDate>Thu, 20 Mar 2025 20:27:15 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202503/136704_181905_3129_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
