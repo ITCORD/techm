@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Mar 2025 03:39:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Mar 2025 04:29:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 크래프톤 기대작 '인조이'.. '높은 자유도'와 'AI'로 새로운 재미를 제공한다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=137343</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=137343</guid>
+            <pubDate>Tue, 25 Mar 2025 00:36:00 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202503/137343_183025_4450_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 글로벌 게임업계 모두 한자리에 'GDC 25'.. 올해도 역시 K게임 인기 대단했다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=137254</link>
@@ -35,7 +43,7 @@
             <title><![CDATA[[게임코인TV] '드디어 개막' 전세계 게임 개발자들 한자리에...GDC 25 첫날 '생생' 현장 분위기는?]]></title>
             <link>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN10&amp;view_type=sm</link>
             <guid>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN10&amp;view_type=sm</guid>
-            <pubDate>Tue, 25 Mar 2025 03:39:12 GMT</pubDate>
+            <pubDate>Tue, 25 Mar 2025 04:29:28 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
         </item>
         <item>
@@ -109,14 +117,6 @@
             <pubDate>Thu, 20 Mar 2025 21:23:40 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202503/136831_182098_1347_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 세일즈포스, '활용'에 초점을 둔 AI 에이전트 공개.. "사람과 에이전트가 협업한다"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=136766</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=136766</guid>
-            <pubDate>Thu, 20 Mar 2025 21:23:40 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202503/136766_181990_3344_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
