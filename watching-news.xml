@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Mar 2025 08:31:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Mar 2025 09:26:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 라인, 웹3 대중화 이끌 핵심 '미니 디앱'.. 메시징 플랫폼에서 종합 플랫폼으로 향한다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=137414</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=137414</guid>
+            <pubDate>Tue, 25 Mar 2025 09:26:21 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202503/137414_183143_24_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 크래프톤 기대작 '인조이'.. '높은 자유도'와 'AI'로 새로운 재미를 제공한다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=137343</link>
@@ -43,7 +51,7 @@
             <title><![CDATA[[게임코인TV] '드디어 개막' 전세계 게임 개발자들 한자리에...GDC 25 첫날 '생생' 현장 분위기는?]]></title>
             <link>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN10&amp;view_type=sm</link>
             <guid>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN10&amp;view_type=sm</guid>
-            <pubDate>Tue, 25 Mar 2025 08:31:10 GMT</pubDate>
+            <pubDate>Tue, 25 Mar 2025 09:26:21 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
         </item>
         <item>
@@ -109,14 +117,6 @@
             <pubDate>Thu, 20 Mar 2025 21:23:40 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202503/136840_182123_4223_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] LG CNS, 국내외 파트너십 체결에 집중.. 'AX 전문기업으로 나아간다']]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=136831</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=136831</guid>
-            <pubDate>Thu, 20 Mar 2025 21:23:40 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202503/136831_182098_1347_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
