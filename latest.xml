@@ -4,7 +4,7 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Mar 2025 10:27:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Mar 2025 11:24:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -136,14 +136,6 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202503/137403_183128_1535_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[지니언스, 인도 뱅갈루루에 '글로벌 기술지원센터' 개소]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=137402</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=137402</guid>
-            <pubDate>Tue, 25 Mar 2025 06:30:05 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202503/137402_183127_1252_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[스노우플레이크, 내달부터 서울 리전 통해 MS 애저 지원..."고객 선택권 보장"]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=137373</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=137373</guid>
@@ -166,6 +158,14 @@
             <pubDate>Tue, 25 Mar 2025 06:30:05 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202503/137399_183123_814_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['착한기업' 신세계그룹, 산불 피해복구 위해 성금 5억원·구호 물품 내놨다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=137398</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=137398</guid>
+            <pubDate>Tue, 25 Mar 2025 11:18:28 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202503/137398_183122_420_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
