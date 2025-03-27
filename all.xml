@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Mar 2025 22:28:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Mar 2025 23:25:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -952,6 +952,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202503/137023_182451_2250_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[카드뉴스] 게이밍 PC 시장 주도할 HP.. AI를 탑재한 '오멘'으로 차별화 나선다 (테크M ─ 보는 뉴스)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=137549</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=137549</guid>
+            <pubDate>Fri, 28 Mar 2025 07:26:00 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202503/137549_183384_3918_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[카드뉴스] 라인, 웹3 대중화 이끌 핵심 '미니 디앱'.. 메시징 플랫폼에서 종합 플랫폼으로 향한다 (테크M ─ 보는 뉴스)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=137414</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=137414</guid>
@@ -995,7 +1003,7 @@
             <title><![CDATA[[게임코인TV] '드디어 개막' 전세계 게임 개발자들 한자리에...GDC 25 첫날 '생생' 현장 분위기는? (테크M ─ 보는 뉴스)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Thu, 27 Mar 2025 20:27:59 GMT</pubDate>
+            <pubDate>Thu, 27 Mar 2025 23:25:19 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
         </item>
         <item>
@@ -1053,14 +1061,6 @@
             <pubDate>Thu, 20 Mar 2025 20:27:15 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202503/136899_182199_1632_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[게임코인TV] 위믹스 해킹과 거래소 유의종목 지정...소명 핵심 쟁점은? (테크M ─ 보는 뉴스)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=136840</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=136840</guid>
-            <pubDate>Thu, 20 Mar 2025 20:27:15 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202503/136840_182123_4223_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
