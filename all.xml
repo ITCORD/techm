@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 29 Mar 2025 22:25:03 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Mar 2025 23:22:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[써봤다] '라이카' 이름 단 카메라의 미친 존재감...샤오미 15 울트라 (테크M ─ 전체기사)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=137628</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=137628</guid>
+            <pubDate>Sun, 30 Mar 2025 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202503/137628_183569_1037_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[PWS 통신] "약속 지켰다"...DN 프릭스, 위클리 스테이지 4주 연속 1위 '대기록' (테크M ─ 전체기사)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=137627</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 28 Mar 2025 06:29:06 GMT</pubDate>
             <content:encoded><![CDATA[윤상호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202503/137602_183478_563_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["먹거리 장바구니 부담 덜자"...쿠팡이 준비한 기회전에 '주목' (테크M ─ 전체기사)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=137604</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=137604</guid>
-            <pubDate>Fri, 28 Mar 2025 06:29:06 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202503/137604_183479_5634_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[PWS 통신] "약속 지켰다"...DN 프릭스, 위클리 스테이지 4주 연속 1위 '대기록' (테크M ─ 콘텐츠)]]></title>
@@ -728,6 +728,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202503/137281_182933_2637_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[써봤다] '라이카' 이름 단 카메라의 미친 존재감...샤오미 15 울트라 (테크M ─ 라이프)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=137628</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=137628</guid>
+            <pubDate>Sun, 30 Mar 2025 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202503/137628_183569_1037_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[먹어봤다] 이연복 셰프로 변신! 오늘은 내가 '하림' 마파두부 요리사 (테크M ─ 라이프)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=137620</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=137620</guid>
@@ -830,14 +838,6 @@
             <pubDate>Thu, 27 Mar 2025 11:25:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202503/137521_183335_2544_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[산불 피해 지원 팔 걷은 네이버·카카오...모금·정보 페이지 운영 (테크M ─ 라이프)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=137502</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=137502</guid>
-            <pubDate>Thu, 27 Mar 2025 10:45:00 GMT</pubDate>
-            <content:encoded><![CDATA[배수현 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202503/137502_183315_1818_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[글로벌] 오픈AI, 올해 매출 3배 전망...적자 부담은 여전 (테크M ─ 리포트)]]></title>
@@ -1011,7 +1011,7 @@
             <title><![CDATA[[게임코인TV] '드디어 개막' 전세계 게임 개발자들 한자리에...GDC 25 첫날 '생생' 현장 분위기는? (테크M ─ 보는 뉴스)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Sat, 29 Mar 2025 21:21:00 GMT</pubDate>
+            <pubDate>Sat, 29 Mar 2025 23:22:12 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
         </item>
         <item>
