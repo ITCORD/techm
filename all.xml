@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Apr 2025 08:34:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Apr 2025 09:28:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -740,7 +740,7 @@
             <guid>https://www.techm.kr/news/articleView.html?idxno=137885</guid>
             <pubDate>Thu, 03 Apr 2025 06:29:52 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202504/137885_183954_3122_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202504/137885_183994_4625_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[소니코리아, 초광각 단렌즈 'FE 16mm F1.8 G' 출시 (테크M ─ 라이프)]]></title>
@@ -812,7 +812,7 @@
             <guid>https://www.techm.kr/news/articleView.html?idxno=137829</guid>
             <pubDate>Thu, 03 Apr 2025 03:45:03 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202504/137829_183886_5550_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202504/137829_183863_4722_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['1조 클럽 입성' 무신사, 이제 韓 최초 패션 데카콘으로...몸값 5조 상회 유력 (테크M ─ 라이프)]]></title>
@@ -951,6 +951,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202503/137383_183099_2827_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[카드뉴스] 렐루게임즈, 새로운 형태의 게임 '미메시스'와 '스케빈저 톰'.. 게임과 AI의 결합을 강화한다 (테크M ─ 보는 뉴스)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=137898</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=137898</guid>
+            <pubDate>Thu, 03 Apr 2025 09:28:53 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202504/137898_183979_3313_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[카드뉴스] 엘리스, 기업 곳곳에 한국형 AI 구축할 것.. 생성형 AI 모델 '헬피'에 주목하라 (테크M ─ 보는 뉴스)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=137781</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=137781</guid>
@@ -1053,14 +1061,6 @@
             <pubDate>Thu, 03 Apr 2025 03:45:39 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202503/137008_182390_2223_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[게임코인TV] 고인물이 출동합니다!...게임 개발자 콘퍼런스(GDC) 예고 (테크M ─ 보는 뉴스)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=136946</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=136946</guid>
-            <pubDate>Thu, 03 Apr 2025 03:45:39 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202503/136946_182286_4454_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
