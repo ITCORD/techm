@@ -4,9 +4,17 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Apr 2025 22:25:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Apr 2025 23:26:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[샌즈랩, AI NDR 솔루션 일본 공급...현지 벤더사와 판매 협약]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=137900</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=137900</guid>
+            <pubDate>Fri, 04 Apr 2025 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202504/137900_183991_421_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아톤, '프로젝트 한강' NH농협은행 테스트 시스템 오픈]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=137894</link>
@@ -110,14 +118,6 @@
             <pubDate>Thu, 03 Apr 2025 05:22:42 GMT</pubDate>
             <content:encoded><![CDATA[윤상호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202504/137868_183924_4943_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['탄핵선고 D-1' 네이버·카카오, 트래픽 관리 총력...비상체제 가동]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=137860</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=137860</guid>
-            <pubDate>Thu, 03 Apr 2025 00:54:00 GMT</pubDate>
-            <content:encoded><![CDATA[배수현 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202504/137860_183995_4645_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
