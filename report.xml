@@ -1,8 +1,123 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN7&amp;view_type=sm</id>
-    <title>테크M ─ 리포트</title>
-    <updated>2025-04-03T03:01:43.716Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.techm.kr/news/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>테크M ─ 리포트</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 03 Apr 2025 03:45:39 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[글로벌] 반도체 업계 지각변동 일어나나...'UMC-GF 합병' 검토 중]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=137867</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=137867</guid>
+            <pubDate>Thu, 03 Apr 2025 11:45:00 GMT</pubDate>
+            <content:encoded><![CDATA[김현기 대표]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202504/137867_183923_456_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[글로벌] 오픈AI, 챗GPT '지브리' 열풍에 폭발적 성장세...가입자 5억 명 돌파]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=137866</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=137866</guid>
+            <pubDate>Thu, 03 Apr 2025 11:44:00 GMT</pubDate>
+            <content:encoded><![CDATA[김현기 대표]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202504/137866_183922_4345_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[글로벌] AI 에이전트 경쟁 본격화...아마존도 시장 참전]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=137865</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=137865</guid>
+            <pubDate>Thu, 03 Apr 2025 11:43:00 GMT</pubDate>
+            <content:encoded><![CDATA[김현기 대표]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202504/137865_183921_4242_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[글로벌] BYD 회장 "中 전기차 자율주행 3년 내 상용화 가능" 자신]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=137769</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=137769</guid>
+            <pubDate>Thu, 03 Apr 2025 03:45:21 GMT</pubDate>
+            <content:encoded><![CDATA[김현기 대표]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202504/137769_183797_2220_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[글로벌] 숄츠 독일 총리, 美 관세 압박에 "유럽연합 단합된 대응 보일 것"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=137768</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=137768</guid>
+            <pubDate>Thu, 03 Apr 2025 03:45:21 GMT</pubDate>
+            <content:encoded><![CDATA[김현기 대표]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202504/137768_183798_2234_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[글로벌] 주요 기업들, 엑스로 속속 복귀...광고 재개 확산]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=137767</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=137767</guid>
+            <pubDate>Thu, 03 Apr 2025 03:45:21 GMT</pubDate>
+            <content:encoded><![CDATA[김현기 대표]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202504/137767_183799_2247_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[글로벌] 오픈AI, 올해 매출 3배 전망...적자 부담은 여전]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=137625</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=137625</guid>
+            <pubDate>Thu, 03 Apr 2025 03:45:21 GMT</pubDate>
+            <content:encoded><![CDATA[김현기 대표]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202503/137625_183555_5622_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[글로벌] 테슬라, 美 '자동차 관세 조항' 호재될까..."경쟁업체 대비 유리"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=137624</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=137624</guid>
+            <pubDate>Thu, 03 Apr 2025 03:45:21 GMT</pubDate>
+            <content:encoded><![CDATA[김현기 대표]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202503/137624_183554_5525_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[글로벌] EU, 자체 위성통신망 구축 논의 본격화..."스타링크에 대응 필요"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=137623</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=137623</guid>
+            <pubDate>Thu, 03 Apr 2025 03:45:21 GMT</pubDate>
+            <content:encoded><![CDATA[김현기 대표]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202503/137623_183553_540_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[글로벌] BYD, 테슬라 실적 넘어섰다...연매출 1000억달러 상회]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=137531</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=137531</guid>
+            <pubDate>Thu, 03 Apr 2025 03:45:21 GMT</pubDate>
+            <content:encoded><![CDATA[김현기 대표]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202503/137531_183354_912_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[글로벌] "비싼 AI 칩 필요 없다"...中 앤트그룹, AI 훈련 비용 20% 절감]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=137530</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=137530</guid>
+            <pubDate>Thu, 03 Apr 2025 03:45:21 GMT</pubDate>
+            <content:encoded><![CDATA[김현기 대표]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202503/137530_183353_817_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[글로벌] 구글, '제미나이 2.5' 신형 추론 모델 공개..."코딩 성능 탁월"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=137529</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=137529</guid>
+            <pubDate>Thu, 03 Apr 2025 03:45:21 GMT</pubDate>
+            <content:encoded><![CDATA[김현기 대표]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202503/137529_183352_648_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[글로벌] 틱톡 美 법인 분사 논의 급물살...바이트댄스 지분 축소된다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=137384</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=137384</guid>
+            <pubDate>Tue, 25 Mar 2025 00:30:00 GMT</pubDate>
+            <content:encoded><![CDATA[김현기 대표]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202503/137384_183100_2941_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[글로벌] 소프트뱅크, AI 혁신 강화 의지...반도체 설계 기업 '암페어컴퓨팅' 인수]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=137383</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=137383</guid>
+            <pubDate>Tue, 25 Mar 2025 00:29:00 GMT</pubDate>
+            <content:encoded><![CDATA[김현기 대표]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202503/137383_183099_2827_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
