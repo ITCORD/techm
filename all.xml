@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Apr 2025 04:29:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Apr 2025 05:26:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -120,6 +120,54 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202504/137771_183787_449_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[샤오미코리아, '샤오미 15 울트라' 출시 기념 마스터 클래스 '줌 인 서울' 개최 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=137884</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=137884</guid>
+            <pubDate>Thu, 03 Apr 2025 05:22:42 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202504/137884_183950_1051_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ESG 앞장서는 안랩, '기후 리스크' 주제 임직원 특강 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=137881</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=137881</guid>
+            <pubDate>Thu, 03 Apr 2025 05:22:42 GMT</pubDate>
+            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202504/137881_183947_5739_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[슈프리마, 美 보안 전시회 'ISC West 2025' 참가...글로벌 공략 박차 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=137879</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=137879</guid>
+            <pubDate>Thu, 03 Apr 2025 05:22:42 GMT</pubDate>
+            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202504/137879_183945_5332_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[데브시스터즈, '쿠키런: 모험의 탑' 일본 출격...글로벌 영향력 강화 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=137880</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=137880</guid>
+            <pubDate>Thu, 03 Apr 2025 05:22:42 GMT</pubDate>
+            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202504/137880_183946_5645_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[더존비즈온, '재팬 IT 위크' 참가로 기업용 AX 솔루션 시장 공략 시동 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=137877</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=137877</guid>
+            <pubDate>Thu, 03 Apr 2025 05:22:42 GMT</pubDate>
+            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202504/137877_183943_4538_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SKT-케플러, AI 원자재 추세 분석 설루션 '맞손' (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=137868</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=137868</guid>
+            <pubDate>Thu, 03 Apr 2025 05:22:42 GMT</pubDate>
+            <content:encoded><![CDATA[윤상호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202504/137868_183924_4943_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['탄핵선고 D-1' 네이버·카카오, 트래픽 관리 총력...비상체제 가동 (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=137860</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=137860</guid>
@@ -182,54 +230,6 @@
             <pubDate>Thu, 03 Apr 2025 11:02:00 GMT</pubDate>
             <content:encoded><![CDATA[조성준 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202504/137861_183915_16_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[美 트럼프, 韓 25% 관세 폭탄…자유무역 시대 '종언' (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=137858</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=137858</guid>
-            <pubDate>Thu, 03 Apr 2025 10:46:00 GMT</pubDate>
-            <content:encoded><![CDATA[윤상호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202504/137858_183913_4224_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NHN 사옥에 '세계 자폐인의 날' 불빛 켜졌다 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=137857</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=137857</guid>
-            <pubDate>Thu, 03 Apr 2025 10:28:00 GMT</pubDate>
-            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202504/137857_183911_2731_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[고객 지원 강화하는 채널톡...'전문가 찾기' 서비스 띄었다 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=137846</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=137846</guid>
-            <pubDate>Thu, 03 Apr 2025 10:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202504/137846_183902_022_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[메이아이, AI 에이전트 '매쉬 인사이트' 출시...방문객 분석 솔루션 고도화 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=137845</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=137845</guid>
-            <pubDate>Thu, 03 Apr 2025 09:49:00 GMT</pubDate>
-            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202504/137845_183901_4858_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한쪽은 '웃고' 한쪽은 '울고'…삼성전자·LG전자, 1분기 실적 전망 '희비교차' (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=137843</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=137843</guid>
-            <pubDate>Thu, 03 Apr 2025 09:42:00 GMT</pubDate>
-            <content:encoded><![CDATA[윤상호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202504/137843_183899_1346_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[빗썸, CGV와 함께 '콤보 교환권' 혜택 제공 (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=137844</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=137844</guid>
-            <pubDate>Thu, 03 Apr 2025 09:32:00 GMT</pubDate>
-            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202504/137844_183900_3226_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[인쇼츠, '뽀로로 시즌2' 4K 업스케일링 화질로 선보인다 (테크M ─ 이노베이션)]]></title>
