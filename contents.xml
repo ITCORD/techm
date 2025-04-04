@@ -1,8 +1,123 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN1&amp;view_type=sm</id>
-    <title>테크M ─ 콘텐츠</title>
-    <updated>2025-04-04T03:42:39.249Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.techm.kr/news/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>테크M ─ 콘텐츠</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 04 Apr 2025 04:28:09 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[尹 탄핵 인용에 가상자산 거래량 소폭 증가...거래소들 "비상계엄 이후 준비 만전"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=137932</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=137932</guid>
+            <pubDate>Fri, 04 Apr 2025 00:05:00 GMT</pubDate>
+            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202504/137932_184031_130_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[검귤단, 화제의 게임 'KILLA' 신규 데모 공개...연내 정식 출시]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=137920</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=137920</guid>
+            <pubDate>Fri, 04 Apr 2025 11:10:00 GMT</pubDate>
+            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202504/137920_184021_493_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[크래프톤 '인조이' 심상치않네...출시 일주일만에 100만장 넘겼다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=137919</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=137919</guid>
+            <pubDate>Fri, 04 Apr 2025 10:47:00 GMT</pubDate>
+            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202504/137919_184020_477_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[카이아로 항공권 구매 가능해진다...'카이아 재단-트라벨라' 전략적 파트너십]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=137901</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=137901</guid>
+            <pubDate>Fri, 04 Apr 2025 04:25:14 GMT</pubDate>
+            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202504/137901_183999_5412_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[장현국의 블록체인 생태계 본격 개화...통합 앱 '크로쓰엑스' 출시]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=137899</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=137899</guid>
+            <pubDate>Fri, 04 Apr 2025 04:25:14 GMT</pubDate>
+            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202504/137899_183990_2245_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[가로·세로 자유자재 전환 가능...그라비티, '라그나로크 : 백 투 글로리' 17일 출격]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=137897</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=137897</guid>
+            <pubDate>Fri, 04 Apr 2025 04:25:14 GMT</pubDate>
+            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202504/137897_183993_465_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[텐센트와 중국 공략하는 '블소2'...엔씨소프트 중화권 개척 선봉장 '우뚝']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=137895</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=137895</guid>
+            <pubDate>Fri, 04 Apr 2025 04:25:14 GMT</pubDate>
+            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202504/137895_183972_5736_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김경일 아주대 교수, 게임과학연구원 신임 원장 취임]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=137893</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=137893</guid>
+            <pubDate>Fri, 04 Apr 2025 04:25:14 GMT</pubDate>
+            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202504/137893_183968_1254_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[日 공략 통했다...리디, 지난해 최고 매출 경신]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=137890</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=137890</guid>
+            <pubDate>Fri, 04 Apr 2025 04:25:14 GMT</pubDate>
+            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202504/137890_183966_354_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[리얼리즘 코미디 '신병3' OST에 딕펑스·이승열 참가...7일 첫 방송]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=137886</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=137886</guid>
+            <pubDate>Fri, 04 Apr 2025 04:25:14 GMT</pubDate>
+            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202504/137886_183952_181_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[TV도 된다...넷플릭스, 더빙·자막 별도 선택 기능 확대]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=137883</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=137883</guid>
+            <pubDate>Fri, 04 Apr 2025 04:25:14 GMT</pubDate>
+            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202504/137883_183949_543_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NHN링크, 티켓링크서 '함평나비대축제' 사전 예매 이벤트]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=137875</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=137875</guid>
+            <pubDate>Fri, 04 Apr 2025 04:25:14 GMT</pubDate>
+            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202504/137875_183941_3628_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[합의 의사 밝힌 어도어에 뉴진스 "그럴 때 아냐"...9일 가처분 이의 심문]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=137871</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=137871</guid>
+            <pubDate>Fri, 04 Apr 2025 04:25:14 GMT</pubDate>
+            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202504/137871_183938_1630_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[게임 인재육성 나선 네오위즈...사옥서 '고연전 게임데브 2025' 개최]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=137854</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=137854</guid>
+            <pubDate>Thu, 03 Apr 2025 10:20:00 GMT</pubDate>
+            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202504/137854_183908_2021_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
