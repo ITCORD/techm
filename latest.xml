@@ -1,8 +1,171 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.techm.kr/news/articleList.html</id>
-    <title>테크M ─ 전체기사</title>
-    <updated>2025-04-04T01:40:40.202Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.techm.kr/news/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>테크M ─ 전체기사</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 04 Apr 2025 03:05:52 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[탄핵 인용 직후 '카카오톡' 트래픽 폭증...접속 지연 이후 정상화 완료]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=137928</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=137928</guid>
+            <pubDate>Fri, 04 Apr 2025 11:59:00 GMT</pubDate>
+            <content:encoded><![CDATA[배수현 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202504/137928_184030_5549_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[헌재 전원일치 윤석열 대통령 파면..."헌법수호 의무 저버렸다"(전문)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=137931</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=137931</guid>
+            <pubDate>Fri, 04 Apr 2025 11:56:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202504/137931_184029_5528_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[윤석열 대통령 파면에 카카오 주가 '롤러코스터' 주의보]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=137929</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=137929</guid>
+            <pubDate>Fri, 04 Apr 2025 11:46:00 GMT</pubDate>
+            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202504/137929_184028_4438_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[윤석열 대통령 파면 직후 카카오톡 접속 지연...카카오 "원인 파악하고 있다"(속보)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=137926</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=137926</guid>
+            <pubDate>Fri, 04 Apr 2025 11:43:00 GMT</pubDate>
+            <content:encoded><![CDATA[배수현 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202504/137926_184026_3542_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[윤석열 대통령 파면...헌재 만장일치 탄핵 인용]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=137927</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=137927</guid>
+            <pubDate>Fri, 04 Apr 2025 11:42:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202504/137927_184027_388_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[검귤단, 화제의 게임 'KILLA' 신규 데모 공개...연내 정식 출시]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=137920</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=137920</guid>
+            <pubDate>Fri, 04 Apr 2025 11:10:00 GMT</pubDate>
+            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202504/137920_184021_493_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[메가존클라우드, 델 테크놀로지스와 총판 계약...AI·하이브리드 클라우드 협력]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=137925</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=137925</guid>
+            <pubDate>Fri, 04 Apr 2025 11:09:00 GMT</pubDate>
+            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202504/137925_184025_5938_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한국정보보호산업협회 'ISC WEST 2025' 한국공동관 운영...13개 韓 기업 지원]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=137923</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=137923</guid>
+            <pubDate>Fri, 04 Apr 2025 11:09:00 GMT</pubDate>
+            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202504/137923_184023_5512_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[인텔, 최신 AI 추론 MLPerf 벤치마크서 '제온 6' 성능 입증]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=137924</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=137924</guid>
+            <pubDate>Fri, 04 Apr 2025 10:59:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202504/137924_184024_5925_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[지란지교소프트, 중소기업 클라우드 서비스 보급·확산 사업 공급기업 선정]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=137921</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=137921</guid>
+            <pubDate>Fri, 04 Apr 2025 10:53:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202504/137921_184022_5311_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[크래프톤 '인조이' 심상치않네...출시 일주일만에 100만장 넘겼다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=137919</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=137919</guid>
+            <pubDate>Fri, 04 Apr 2025 10:47:00 GMT</pubDate>
+            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202504/137919_184020_477_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[카카오뱅크 "금융기술연구소, AI·데이터 분석·보안 등 금융 분야 기술 혁신 주도"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=137917</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=137917</guid>
+            <pubDate>Fri, 04 Apr 2025 10:37:00 GMT</pubDate>
+            <content:encoded><![CDATA[배수현 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202504/137917_184017_300_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[인스피언 '2025 클라우드 서비스 바우처 사업' 공급기업 선정]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=137915</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=137915</guid>
+            <pubDate>Fri, 04 Apr 2025 10:37:00 GMT</pubDate>
+            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202504/137915_184016_2617_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[안랩, 차세대 네트워크 통합 보안 솔루션 '안랩 XTG' 출시]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=137918</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=137918</guid>
+            <pubDate>Fri, 04 Apr 2025 10:36:00 GMT</pubDate>
+            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202504/137918_184018_3313_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[롯데이노베이트 '2025 서울모빌리티쇼' 참가...자율주행·전기차 충전 기술 선봬]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=137914</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=137914</guid>
+            <pubDate>Fri, 04 Apr 2025 10:26:00 GMT</pubDate>
+            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202504/137914_184015_1958_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['3월 유동성 1위' 빗썸, 1000만원 규모 비트코인 증정 이벤트 진행]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=137913</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=137913</guid>
+            <pubDate>Fri, 04 Apr 2025 09:51:00 GMT</pubDate>
+            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202504/137913_184014_5046_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[윤석열 대통령 탄핵 선고 임박…과기정통부-통신사, '막판 긴장↑']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=137909</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=137909</guid>
+            <pubDate>Fri, 04 Apr 2025 09:50:00 GMT</pubDate>
+            <content:encoded><![CDATA[윤상호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202504/137909_184008_275_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[스마일게이트 오렌지플래닛, '부산 게임 개발자 컨퍼런스' 성료]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=137912</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=137912</guid>
+            <pubDate>Fri, 04 Apr 2025 09:47:00 GMT</pubDate>
+            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202504/137912_184013_4541_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[스푼, 식목일 맞아 기부 이벤트 '나무주연상 찾기' 진행]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=137911</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=137911</guid>
+            <pubDate>Fri, 04 Apr 2025 09:37:00 GMT</pubDate>
+            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202504/137911_184012_3652_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['식목일'이 특별한 두나무, 산림 회복 기원 '치유의숲 챌린지' 진행]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=137910</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=137910</guid>
+            <pubDate>Fri, 04 Apr 2025 09:33:00 GMT</pubDate>
+            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202504/137910_184011_3254_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
