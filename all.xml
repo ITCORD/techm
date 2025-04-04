@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Apr 2025 14:26:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Apr 2025 15:26:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -616,6 +616,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202503/137650_183595_538_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[자본시장법 위반 혐의 김상철 한컴그룹 회장, 1심서 벌금 2000만원 (테크M ─ 피플)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=137942</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=137942</guid>
+            <pubDate>Fri, 04 Apr 2025 07:20:28 GMT</pubDate>
+            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202504/137942_184047_4725_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[헌재 전원일치 윤석열 대통령 파면..."헌법수호 의무 저버렸다"(전문) (테크M ─ 피플)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=137931</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=137931</guid>
@@ -667,7 +675,7 @@
             <title><![CDATA[[부고] 김인철(삼성전자 DS부문 커뮤니케이션팀 상무)씨 부친상 (테크M ─ 피플)]]></title>
             <link>https://ITCORD.github.io/techm/all.xml</link>
             <guid>https://ITCORD.github.io/techm/all.xml</guid>
-            <pubDate>Fri, 04 Apr 2025 06:32:49 GMT</pubDate>
+            <pubDate>Fri, 04 Apr 2025 15:24:15 GMT</pubDate>
             <content:encoded><![CDATA[허준 편집장]]></content:encoded>
         </item>
         <item>
@@ -717,14 +725,6 @@
             <pubDate>Fri, 04 Apr 2025 03:03:15 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202503/137487_183269_4822_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[테크M 피플] '韓 인터넷 독립투사' 네이버 이해진, 美中 빅테크와 또다시 맞붙는다 (테크M ─ 피플)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=137476</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=137476</guid>
-            <pubDate>Fri, 04 Apr 2025 03:03:15 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202503/137476_183254_1456_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[카카오뱅크 "금융기술연구소, AI·데이터 분석·보안 등 금융 분야 기술 혁신 주도" (테크M ─ 라이프)]]></title>
