@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Apr 2025 08:33:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Apr 2025 09:29:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 카카오엔터 '베리즈'에서 새로운 팬덤 문화를 만들어보자]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=137943</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=137943</guid>
+            <pubDate>Fri, 04 Apr 2025 09:29:08 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202504/137943_184048_5836_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 렐루게임즈, 새로운 형태의 게임 '미메시스'와 '스케빈저 톰'.. 게임과 AI의 결합을 강화한다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=137898</link>
@@ -110,14 +118,6 @@
             <pubDate>Fri, 04 Apr 2025 03:42:38 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202503/137069_182499_586_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 네이버, AI 쇼핑시대 열다.. 'AI 쇼핑가이드'와 '발견'에 주목하라]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=137008</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=137008</guid>
-            <pubDate>Fri, 04 Apr 2025 03:42:38 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202503/137008_182390_2223_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
