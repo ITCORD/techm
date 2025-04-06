@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 06 Apr 2025 03:08:47 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Apr 2025 04:31:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -280,6 +280,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202504/137871_183938_1630_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[삼성, 산불 피해 주민 10억원 상당 가전제품 지원 (테크M ─ 인프라)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=137961</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=137961</guid>
+            <pubDate>Sun, 06 Apr 2025 04:28:01 GMT</pubDate>
+            <content:encoded><![CDATA[윤상호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202504/137961_184097_2820_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[LG, "AI 인재 모여라"…'LG 에이머스 해커톤' 개최 (테크M ─ 인프라)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=137960</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=137960</guid>
@@ -382,14 +390,6 @@
             <pubDate>Fri, 04 Apr 2025 11:59:00 GMT</pubDate>
             <content:encoded><![CDATA[배수현 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202504/137928_184030_5549_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤석열 대통령 파면 직후 카카오톡 접속 지연...카카오 "원인 파악하고 있다"(속보) (테크M ─ 인프라)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=137926</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=137926</guid>
-            <pubDate>Fri, 04 Apr 2025 11:43:00 GMT</pubDate>
-            <content:encoded><![CDATA[배수현 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202504/137926_184026_3542_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["예술산업 미래 선도할 혁신가 키운다"...TEU ART 3기 모집 (테크M ─ 이노베이션)]]></title>
