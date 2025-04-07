@@ -4,9 +4,16 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Apr 2025 22:26:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Apr 2025 23:24:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성전자, 1분기 잠정 매출액 79조원…전년비 9.8↑(1보)]]></title>
+            <link>https://www.techm.kr/news/articleList.html</link>
+            <guid>https://www.techm.kr/news/articleList.html</guid>
+            <pubDate>Tue, 08 Apr 2025 08:02:00 GMT</pubDate>
+            <content:encoded><![CDATA[윤상호 기자]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[e스포츠人] DK 곽준혁 "경기력 아쉬워...승리에 만족하지 않겠다"]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=138015</link>
@@ -158,14 +165,6 @@
             <pubDate>Mon, 07 Apr 2025 05:21:28 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202504/137997_184159_020_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[캐논코리아, '파워샷 V1' 정식 출시]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=137996</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=137996</guid>
-            <pubDate>Mon, 07 Apr 2025 05:21:28 GMT</pubDate>
-            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202504/137996_184158_579_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,16 @@
         <title>테크M ─ 인프라</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Apr 2025 22:26:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Apr 2025 23:24:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성전자, 1분기 잠정 매출액 79조원…전년비 9.8↑(1보)]]></title>
+            <link>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN2&amp;view_type=sm</link>
+            <guid>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN2&amp;view_type=sm</guid>
+            <pubDate>Tue, 08 Apr 2025 08:02:00 GMT</pubDate>
+            <content:encoded><![CDATA[윤상호 기자]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA['밤양갱' 열풍 잇는다...넷마블 '세븐나이츠 리버스' 광고 모델로 비비 발탁]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=138013</link>
@@ -110,14 +117,6 @@
             <pubDate>Mon, 07 Apr 2025 00:34:00 GMT</pubDate>
             <content:encoded><![CDATA[남도영 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202504/137992_184185_3934_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성전자 "OLED TV, 2025년 국내 1위 달성"]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=137988</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=137988</guid>
-            <pubDate>Mon, 07 Apr 2025 11:27:00 GMT</pubDate>
-            <content:encoded><![CDATA[윤상호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202504/137988_184186_3951_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
