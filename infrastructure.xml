@@ -1,8 +1,123 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN2&amp;view_type=sm</id>
-    <title>테크M ─ 인프라</title>
-    <updated>2025-04-10T08:33:38.596Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.techm.kr/news/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>테크M ─ 인프라</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 10 Apr 2025 09:26:46 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오케스트로, ESG 로드맵 수립...친환경 연구개발 확대 등]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=138188</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=138188</guid>
+            <pubDate>Thu, 10 Apr 2025 09:23:21 GMT</pubDate>
+            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202504/138188_184452_4553_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[티맥스티베로, 광주 '혁신 로드 컨퍼런스' 참가...DBMS 현대화 전략 소개]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=138187</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=138187</guid>
+            <pubDate>Thu, 10 Apr 2025 09:23:21 GMT</pubDate>
+            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202504/138187_184451_3911_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[파수 'ManuSec 캐나다 2025' 참가...북미 사이버 보안 시장 확대 박차]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=138186</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=138186</guid>
+            <pubDate>Thu, 10 Apr 2025 09:23:21 GMT</pubDate>
+            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202504/138186_184450_2658_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[시스코 'AI 시대, 대학의 미래' 세미나 성료..."산학협력모델 구축 지원할 것"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=138184</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=138184</guid>
+            <pubDate>Thu, 10 Apr 2025 09:23:21 GMT</pubDate>
+            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202504/138184_184444_1835_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[삼성SDS, 스타트업도 품었다...GPUaaS로 고객 저변 확대 본격화]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=138172</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=138172</guid>
+            <pubDate>Thu, 10 Apr 2025 09:23:21 GMT</pubDate>
+            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202504/138172_184440_5736_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[관세 유예, 낙관은 이르다...WSJ "AI 투자 불확실성 여전"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=138183</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=138183</guid>
+            <pubDate>Thu, 10 Apr 2025 09:23:21 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202504/138183_184438_145_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[KTis, "봄맞이 정보 114에 물어보세요"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=138171</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=138171</guid>
+            <pubDate>Thu, 10 Apr 2025 09:23:21 GMT</pubDate>
+            <content:encoded><![CDATA[윤상호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202504/138171_184428_2230_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[LG유플러스 '무너', 세계로 간다…日 팝업스토어 개설]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=138173</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=138173</guid>
+            <pubDate>Thu, 10 Apr 2025 09:23:21 GMT</pubDate>
+            <content:encoded><![CDATA[윤상호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202504/138173_184429_419_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['개인정보 유출' 클래스유·KT알파 총 7261만원 과징금·과태료]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=138182</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=138182</guid>
+            <pubDate>Thu, 10 Apr 2025 09:23:21 GMT</pubDate>
+            <content:encoded><![CDATA[윤상호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202504/138182_184437_4932_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[줌 AI, 중소기업 업무 효율·비용 절감 효과..."국내 IT스타트업도 적극 활용 중"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=138176</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=138176</guid>
+            <pubDate>Thu, 10 Apr 2025 09:23:21 GMT</pubDate>
+            <content:encoded><![CDATA[배수현 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202504/138176_184432_1143_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["의류에 공기 주입해 환경보호 앞장서요"...커버써먼, '에어 키트' 국내 특허 완료]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=138178</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=138178</guid>
+            <pubDate>Thu, 10 Apr 2025 09:23:21 GMT</pubDate>
+            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202504/138178_184434_2132_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[삼성디스플레이, 4년 연속 무분규 임단협 체결]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=138164</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=138164</guid>
+            <pubDate>Thu, 10 Apr 2025 00:44:00 GMT</pubDate>
+            <content:encoded><![CDATA[윤상호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202504/138164_184412_451_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[LG전자, 신임 연구·전문위원 20명 발탁]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=138169</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=138169</guid>
+            <pubDate>Thu, 10 Apr 2025 00:44:00 GMT</pubDate>
+            <content:encoded><![CDATA[윤상호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202504/138169_184425_1651_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[KT, AX 직원 참여 확대…TF 62팀 가동]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=138167</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=138167</guid>
+            <pubDate>Thu, 10 Apr 2025 00:43:00 GMT</pubDate>
+            <content:encoded><![CDATA[윤상호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202504/138167_184421_223_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
