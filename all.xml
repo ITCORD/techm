@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Apr 2025 04:32:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Apr 2025 05:28:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -952,6 +952,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202504/137767_183752_4512_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[카드뉴스] AI의 끝없는 진화.. 일상의 새로운 변화를 이끌어내다 (테크M ─ 보는 뉴스)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=138189</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=138189</guid>
+            <pubDate>Fri, 11 Apr 2025 05:28:14 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202504/138189_184453_612_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[카드뉴스] AI 보안에 힘쓰는 시스코, 'AI 디펜스'와 '웹엑스 AI 에이전트'에 주목하라 (테크M ─ 보는 뉴스)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=138080</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=138080</guid>
@@ -1054,14 +1062,6 @@
             <pubDate>Thu, 10 Apr 2025 08:33:37 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202503/137135_183660_4613_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 컴투스 남재관의 남다른 게임안목..."장르 다각화로 글로벌 향한다" (테크M ─ 보는 뉴스)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=137129</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=137129</guid>
-            <pubDate>Thu, 10 Apr 2025 08:33:37 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202503/137129_182633_054_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
