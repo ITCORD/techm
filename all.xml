@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Apr 2025 11:23:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Apr 2025 12:44:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -621,7 +621,7 @@
             <guid>https://www.techm.kr/news/articleView.html?idxno=138216</guid>
             <pubDate>Fri, 11 Apr 2025 07:20:30 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202504/138216_184496_1722_v150.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202504/138216_184543_1241_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["디지털 자산 생태계 조성 앞장설 것"...홍은표 블록체인법학회장 취임 (테크M ─ 피플)]]></title>
@@ -952,6 +952,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202504/137767_183752_4512_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[카드뉴스] 아마존 '노바(Nova)'를 아시나요? 새로운 모델로 최적의 AI 애플리케이션을 구축한다 (테크M ─ 보는 뉴스)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=138226</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=138226</guid>
+            <pubDate>Fri, 11 Apr 2025 08:28:42 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202504/138226_184519_1816_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[카드뉴스] AI의 끝없는 진화.. 일상의 새로운 변화를 이끌어내다 (테크M ─ 보는 뉴스)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=138189</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=138189</guid>
@@ -1054,14 +1062,6 @@
             <pubDate>Thu, 10 Apr 2025 08:33:37 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202503/137207_182769_1055_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[게임코인TV] '드디어 개막' 전세계 게임 개발자들 한자리에...GDC 25 첫날 '생생' 현장 분위기는? (테크M ─ 보는 뉴스)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=137135</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=137135</guid>
-            <pubDate>Thu, 10 Apr 2025 08:33:37 GMT</pubDate>
-            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202503/137135_183660_4613_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
