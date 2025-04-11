@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Apr 2025 13:33:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Apr 2025 14:27:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,6 +168,14 @@
             <enclosure url="https://www.techm.kr/news/thumbnail/202504/138208_184483_5541_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[클레바 AI, 신규 백서 공개...고팍스 '거래유의' 해제도 (테크M ─ 콘텐츠)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=138228</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=138228</guid>
+            <pubDate>Fri, 11 Apr 2025 14:21:32 GMT</pubDate>
+            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202504/138228_184548_840_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[이용자 만족도 최상...유저들의 끊임없는 도전이 '카잔'을 만든다 (테크M ─ 콘텐츠)]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=138227</link>
             <guid>https://www.techm.kr/news/articleView.html?idxno=138227</guid>
@@ -270,14 +278,6 @@
             <pubDate>Thu, 10 Apr 2025 11:19:00 GMT</pubDate>
             <content:encoded><![CDATA[이수호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202504/138160_184447_1925_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["매일 40만명 몰려요" 넥슨 마비노기 모바일, 韓 게임판 휩쓴 비결은 (테크M ─ 콘텐츠)]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=138158</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=138158</guid>
-            <pubDate>Thu, 10 Apr 2025 11:14:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202504/138158_184405_1344_v150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["AI 강국 도약은 필수"...닻 올린 대선, AI 공약 경쟁 눈길 (테크M ─ 인프라)]]></title>
