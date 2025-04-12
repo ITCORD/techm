@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 12 Apr 2025 08:31:47 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Apr 2025 09:27:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[게임코인TV] 6월 장미대선, 가상자산 업계는 나쁘지 않다?..."규제 완화 기대감"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=138233</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=138233</guid>
+            <pubDate>Sat, 12 Apr 2025 09:27:00 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202504/138233_184556_3617_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 아마존 '노바(Nova)'를 아시나요? 새로운 모델로 최적의 AI 애플리케이션을 구축한다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=138226</link>
@@ -110,14 +118,6 @@
             <pubDate>Thu, 10 Apr 2025 08:33:37 GMT</pubDate>
             <content:encoded><![CDATA[이소라 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202503/137213_182793_5618_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 야놀자, AWS 손잡았다.. 글로벌 여행 플랫폼으로 향할 '새로운 시작']]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=137207</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=137207</guid>
-            <pubDate>Thu, 10 Apr 2025 08:33:37 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202503/137207_182769_1055_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
