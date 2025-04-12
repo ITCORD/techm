@@ -4,9 +4,17 @@
         <title>테크M ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Apr 2025 23:25:24 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Apr 2025 01:42:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[템터뷰] "한국의 트렌드는 콘솔로 향한다...'재미'있는 게임이 글로벌 성공할 것"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=138229</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=138229</guid>
+            <pubDate>Sat, 12 Apr 2025 10:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202504/138229_184549_3447_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[클레바 AI, 신규 백서 공개...고팍스 '거래유의' 해제도]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=138228</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 11 Apr 2025 11:03:00 GMT</pubDate>
             <content:encoded><![CDATA[윤상호 기자]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202504/138206_184481_3353_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[게임한류 차세대 기대작 카카오게임즈 '크로노 오디세이' 개발 현황 첫선]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=138209</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=138209</guid>
-            <pubDate>Fri, 11 Apr 2025 11:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202504/138209_184485_042_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
