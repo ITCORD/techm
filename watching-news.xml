@@ -1,8 +1,123 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN10&amp;view_type=sm</id>
-    <title>테크M ─ 보는 뉴스</title>
-    <updated>2025-04-13T19:20:14.273Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.techm.kr/news/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>테크M ─ 보는 뉴스</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sun, 13 Apr 2025 20:26:11 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[게임코인TV] 하반기 법인 계좌 오픈 앞두고 거래소 경쟁 '치열']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=138243</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=138243</guid>
+            <pubDate>Sun, 13 Apr 2025 20:26:10 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202504/138243_184582_446_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[게임코인TV] 6월 장미대선, 가상자산 업계는 나쁘지 않다?..."규제 완화 기대감"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=138233</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=138233</guid>
+            <pubDate>Sun, 13 Apr 2025 20:26:10 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202504/138233_184556_3617_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[카드뉴스] 아마존 '노바(Nova)'를 아시나요? 새로운 모델로 최적의 AI 애플리케이션을 구축한다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=138226</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=138226</guid>
+            <pubDate>Sun, 13 Apr 2025 20:26:10 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202504/138226_184519_1816_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[카드뉴스] AI의 끝없는 진화.. 일상의 새로운 변화를 이끌어내다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=138189</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=138189</guid>
+            <pubDate>Sun, 13 Apr 2025 20:26:10 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202504/138189_184453_612_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[카드뉴스] AI 보안에 힘쓰는 시스코, 'AI 디펜스'와 '웹엑스 AI 에이전트'에 주목하라]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=138080</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=138080</guid>
+            <pubDate>Sun, 13 Apr 2025 20:26:10 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202504/138080_184300_631_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[카드뉴스] 카카오엔터 '베리즈'에서 새로운 팬덤 문화를 만들어보자]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=137943</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=137943</guid>
+            <pubDate>Sun, 13 Apr 2025 20:26:10 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202504/137943_184048_5836_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[카드뉴스] 렐루게임즈, 새로운 형태의 게임 '미메시스'와 '스케빈저 톰'.. 게임과 AI의 결합을 강화한다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=137898</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=137898</guid>
+            <pubDate>Sun, 13 Apr 2025 20:26:10 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202504/137898_183979_3313_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[카드뉴스] 엘리스, 기업 곳곳에 한국형 AI 구축할 것.. 생성형 AI 모델 '헬피'에 주목하라]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=137781</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=137781</guid>
+            <pubDate>Sun, 13 Apr 2025 20:26:10 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202504/137781_183770_2944_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[카드뉴스] 마이크로소프트, '책임감+신뢰'의 AI로 국내 기술협력과 지원을 강화한다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=137711</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=137711</guid>
+            <pubDate>Sun, 13 Apr 2025 20:26:10 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202503/137711_183675_3530_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[카드뉴스] SK텔레콤, ESG 비전 '두더굿 AI' 공개.. 지속가능한 성장을 추구한다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=137613</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=137613</guid>
+            <pubDate>Sun, 13 Apr 2025 20:26:10 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202503/137613_183495_116_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[카드뉴스] 게이밍 PC 시장 주도할 HP.. AI를 탑재한 '오멘'으로 차별화 나선다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=137549</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=137549</guid>
+            <pubDate>Fri, 28 Mar 2025 07:26:00 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202503/137549_183384_3918_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[카드뉴스] 라인, 웹3 대중화 이끌 핵심 '미니 디앱'.. 메시징 플랫폼에서 종합 플랫폼으로 향한다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=137414</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=137414</guid>
+            <pubDate>Sun, 13 Apr 2025 20:26:10 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202503/137414_183143_24_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[카드뉴스] 크래프톤 기대작 '인조이'.. '높은 자유도'와 'AI'로 새로운 재미를 제공한다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=137343</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=137343</guid>
+            <pubDate>Tue, 25 Mar 2025 00:36:00 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202503/137343_183025_4450_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[카드뉴스] 글로벌 게임업계 모두 한자리에 'GDC 25'.. 올해도 역시 K게임 인기 대단했다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=137254</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=137254</guid>
+            <pubDate>Sun, 13 Apr 2025 20:26:10 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202503/137254_182854_1016_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
