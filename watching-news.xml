@@ -4,9 +4,17 @@
         <title>테크M ─ 보는 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Apr 2025 08:33:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Apr 2025 09:28:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 클레바 AI, 본격적인 행보 시작.. '보이지 않는 자산을 영리하게 활용하자']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=138357</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=138357</guid>
+            <pubDate>Tue, 15 Apr 2025 09:28:00 GMT</pubDate>
+            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202504/138357_184746_3238_v150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 국내기업들도 집중하는 '구글 AI'.. 새로운 기술 업데이트를 공개하다]]></title>
             <link>https://www.techm.kr/news/articleView.html?idxno=138294</link>
@@ -110,14 +118,6 @@
             <pubDate>Tue, 15 Apr 2025 05:23:58 GMT</pubDate>
             <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
             <enclosure url="https://www.techm.kr/news/thumbnail/202503/137414_183143_24_v150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 크래프톤 기대작 '인조이'.. '높은 자유도'와 'AI'로 새로운 재미를 제공한다]]></title>
-            <link>https://www.techm.kr/news/articleView.html?idxno=137343</link>
-            <guid>https://www.techm.kr/news/articleView.html?idxno=137343</guid>
-            <pubDate>Tue, 25 Mar 2025 00:36:00 GMT</pubDate>
-            <content:encoded><![CDATA[이아령 에디터]]></content:encoded>
-            <enclosure url="https://www.techm.kr/news/thumbnail/202503/137343_183025_4450_v150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
