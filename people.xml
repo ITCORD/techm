@@ -1,8 +1,123 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN5&amp;view_type=sm</id>
-    <title>테크M ─ 피플</title>
-    <updated>2025-04-15T04:26:39.188Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.techm.kr/news/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>테크M ─ 피플</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Tue, 15 Apr 2025 05:23:58 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[e스포츠人] 재빠른 전략 수정으로 승리한 T1 박기홍 "첫세트 경기력 끌어올리겠다"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=138299</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=138299</guid>
+            <pubDate>Tue, 15 Apr 2025 05:22:22 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202504/138299_184679_946_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[템터뷰] "한국의 트렌드는 콘솔로 향한다...'재미'있는 게임이 글로벌 성공할 것"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=138229</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=138229</guid>
+            <pubDate>Sat, 12 Apr 2025 10:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202504/138229_184550_3447_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[글로벌 웹3 첫 '사재 출연' 위믹스 박관호의 '책임경영'...시장 제도화 기폭제로]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=138216</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=138216</guid>
+            <pubDate>Tue, 15 Apr 2025 05:22:22 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202504/138216_184496_1722_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["디지털 자산 생태계 조성 앞장설 것"...홍은표 블록체인법학회장 취임]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=138190</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=138190</guid>
+            <pubDate>Tue, 15 Apr 2025 05:22:22 GMT</pubDate>
+            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202504/138190_184464_1729_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[엔씨문화재단서 물러난 윤송이, 벤처 투자자 행보 본격화 '눈길']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=138157</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=138157</guid>
+            <pubDate>Thu, 10 Apr 2025 11:09:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202504/138157_184404_954_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[테크M 피플] '소통' 꺼낸 조영기 게임협회장, 게임산업 위기 구할 '덕장' 될까]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=138149</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=138149</guid>
+            <pubDate>Thu, 10 Apr 2025 10:23:00 GMT</pubDate>
+            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202504/138149_184398_2127_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["아들 이선호 좋겠네" CJ 이재현, 올리브영 글로벌 확장 직접 주문한 이유는]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=138110</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=138110</guid>
+            <pubDate>Wed, 09 Apr 2025 11:44:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202504/138110_184341_4333_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[e스포츠人] 승리했지만 경기력 만족 못하는 이원주의 다짐]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=138082</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=138082</guid>
+            <pubDate>Tue, 15 Apr 2025 05:22:22 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202504/138082_184314_5347_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['CJ ONE 포인트'로 산불 피해 지역 아동 돕는다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=138050</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=138050</guid>
+            <pubDate>Tue, 08 Apr 2025 11:25:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202504/138050_184233_2516_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[e스포츠人] DK 곽준혁 "경기력 아쉬워...승리에 만족하지 않겠다"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=138015</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=138015</guid>
+            <pubDate>Tue, 15 Apr 2025 05:22:22 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202504/138015_184191_3628_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['슈퍼캣 2.0' 이끈다...김원배 창업자, 4년만에 경영일선 복귀]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=137968</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=137968</guid>
+            <pubDate>Mon, 07 Apr 2025 09:23:00 GMT</pubDate>
+            <content:encoded><![CDATA[조성준 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202504/137968_184112_2321_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[e스포츠人] MVP 거머쥐며 전성기 맞은 '살루트' 우제현 "해외대회 정복 나설 것"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=137965</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=137965</guid>
+            <pubDate>Tue, 15 Apr 2025 05:22:22 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202504/137965_184107_4210_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[자본시장법 위반 혐의 김상철 한컴그룹 회장, 1심서 벌금 2000만원]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=137942</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=137942</guid>
+            <pubDate>Tue, 15 Apr 2025 05:22:22 GMT</pubDate>
+            <content:encoded><![CDATA[임경호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202504/137942_184047_4725_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[헌재 전원일치 윤석열 대통령 파면..."헌법수호 의무 저버렸다"(전문)]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=137931</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=137931</guid>
+            <pubDate>Fri, 04 Apr 2025 11:56:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202504/137931_184029_5528_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>

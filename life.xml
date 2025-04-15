@@ -1,8 +1,123 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.techm.kr/news/articleList.html?sc_serial_code=SRN6&amp;view_type=sm</id>
-    <title>테크M ─ 라이프</title>
-    <updated>2025-04-15T04:26:39.194Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.techm.kr/news/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>테크M ─ 라이프</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Tue, 15 Apr 2025 05:23:58 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[11번가, 상반기 최대 쇼핑축제 '그랜드십일절' 사전 신청 이벤트 실시]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=138325</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=138325</guid>
+            <pubDate>Tue, 15 Apr 2025 10:55:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202504/138325_184707_550_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[쿠팡, '비발디파크' 숙박 패키지 단독 특가 내놨다...최대 64% 할인]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=138324</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=138324</guid>
+            <pubDate>Tue, 15 Apr 2025 10:53:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202504/138324_184706_5335_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[덩치 불리는 오아시스, 티몬 품고 이커머스 다크호스로 존재감 'UP']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=138293</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=138293</guid>
+            <pubDate>Tue, 15 Apr 2025 05:22:39 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202504/138293_184653_3548_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[고물가, 패션 업계 스파브랜드 '대세'...에이블리, 거래액 두배 급증]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=138287</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=138287</guid>
+            <pubDate>Tue, 15 Apr 2025 05:22:39 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202504/138287_184648_1812_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[초저가 기획전 '통'했다...랜더스 쇼핑페스타, 1조3000억원 매출 '신기록']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=138282</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=138282</guid>
+            <pubDate>Tue, 15 Apr 2025 05:22:39 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202504/138282_184641_4817_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['라면한류' 농심의 성장 모멘텀 무궁무진...2Q부터 날아오른다]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=138265</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=138265</guid>
+            <pubDate>Mon, 14 Apr 2025 11:22:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수호 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202504/138265_184667_1225_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[화해, '2025 K-뷰티 글로벌 인사이트 컨퍼런스'서 글로벌 뷰티 트렌드 공유]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=138259</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=138259</guid>
+            <pubDate>Mon, 14 Apr 2025 11:11:00 GMT</pubDate>
+            <content:encoded><![CDATA[배수현 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202504/138259_184596_4420_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[테크M 트렌드] 식재료 '웰니스' 열풍 동참한 CJ제일제당...저나트륨 상품군 '강화']]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=138255</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=138255</guid>
+            <pubDate>Mon, 14 Apr 2025 10:55:00 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202504/138255_184669_136_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[AI장바구니] 네이버 플러스 AI가 골라준 '삼탠바이미'...쇼핑 비서로 딱이네]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=138238</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=138238</guid>
+            <pubDate>Tue, 15 Apr 2025 05:22:39 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202504/138238_184572_3710_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[테크M 트렌드] 봄날의 카메라를 좋아하시나요]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=138234</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=138234</guid>
+            <pubDate>Sun, 13 Apr 2025 08:30:00 GMT</pubDate>
+            <content:encoded><![CDATA[남도영 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202504/138234_184557_4752_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[가봤다] 성수동 핑크빛으로 물들인 지그재그 뷰티쇼..."단독 론칭 제품 한가득"]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=138215</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=138215</guid>
+            <pubDate>Tue, 15 Apr 2025 05:22:39 GMT</pubDate>
+            <content:encoded><![CDATA[이소라 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202504/138215_184492_547_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["봄꽃 피어난 우리 동네" 당근, 사진전·숏폼 등 '봄꽃 콘텐츠' 운영]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=138200</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=138200</guid>
+            <pubDate>Fri, 11 Apr 2025 10:13:00 GMT</pubDate>
+            <content:encoded><![CDATA[배수현 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202504/138200_184476_1112_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[놀유니버스 야놀자, '열린여행 주간' 기획전 진행...무장애관광 활성화]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=138197</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=138197</guid>
+            <pubDate>Fri, 11 Apr 2025 10:10:00 GMT</pubDate>
+            <content:encoded><![CDATA[배수현 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202504/138197_184474_754_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[네이버 D2SF, 버추얼 IP 스타트업 '스콘' 투자...버추얼 콘텐츠 협력 예고]]></title>
+            <link>https://www.techm.kr/news/articleView.html?idxno=138155</link>
+            <guid>https://www.techm.kr/news/articleView.html?idxno=138155</guid>
+            <pubDate>Thu, 10 Apr 2025 11:24:00 GMT</pubDate>
+            <content:encoded><![CDATA[배수현 기자]]></content:encoded>
+            <enclosure url="https://www.techm.kr/news/thumbnail/202504/138155_184403_722_v150.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
